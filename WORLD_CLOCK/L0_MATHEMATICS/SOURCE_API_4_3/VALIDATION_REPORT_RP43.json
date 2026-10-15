@@ -1,0 +1,19 @@
+{
+  "schema": "MK43_RP43_VALIDATION",
+  "status": "PASS",
+  "prior_canonical_bytes": 1827822,
+  "current_canonical_bytes": 1997632,
+  "prior_canonical_sha256": "0150803639cd38c9159a06155819b913e8f3151ca429296e12c52f598745cd6c",
+  "current_canonical_sha256": "62123cba4b1bcf064d4bb62c08e2f3f99ff1b27375e2080715373a9d6df8c76b",
+  "prior_handles": 2036,
+  "current_handles": 2362,
+  "new_handles": 326,
+  "prior_edge_records": 1215,
+  "current_edge_records": 1925,
+  "rp43_edges_added": 710,
+  "equations_added": 52,
+  "black_hole_has_general_relativity_edge": true,
+  "missing_model_edge_endpoints": 0,
+  "general_relativity_reachable_from_black_hole": true,
+  "black_hole_reachable_from_general_relativity": true
+}

@@ -1,0 +1,1022 @@
+{
+  "delivery": "MK163_LIVE_MODEL_003",
+  "repository": "C:\\Users\\rando\\_MK163",
+  "pre_import_commit": "4d8166aedfa69128075292fb10a06f9c97a3aa1e",
+  "mode": "APPLY",
+  "operations": [
+    {
+      "path": ".gitattributes",
+      "action": "ADD"
+    },
+    {
+      "path": ".gitignore",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "AGENTS.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/BLUE/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/GREEN/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/ORANGE/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/README.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "BOOKS/RED/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/VIOLET/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/WHITE/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "BOOKS/YELLOW/BOOK_OVERVIEW.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_003.md",
+      "action": "ADD"
+    },
+    {
+      "path": "CHECKPOINTS/README.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/reassemble_api_index.py",
+      "action": "ADD"
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model.py",
+      "action": "ADD"
+    },
+    {
+      "path": "CONSTITUTIONS/00_AUTHORITY.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/01_REPOSITORY_STRUCTURE.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "CONSTITUTIONS/02_WORLD_CLOCK.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/03_CANON_AND_INHERITANCE.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/04_ARC_DEVELOPMENT.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/05_NARRATIVE_AND_PROSE.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/06_CONTINUITY.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "CONSTITUTIONS/08_CODEX_WORKFLOW.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/09_CHANGE_CONTROL.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/10_EXHAUSTIVE_LIVE_MODEL.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+      "action": "ADD"
+    },
+    {
+      "path": "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "CONSTITUTIONS/TEMPLATES/ARC_TEMPLATE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "CONTINUITY/README.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/BASELINE/CONSTITUTION_07_BEFORE_CORRECTION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/README.md",
+      "action": "IDENTICAL"
+    },
+    {
+      "path": "PROVENANCE/SOURCES.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ATTACHMENT_MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/README.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/BANDITS_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CABAL_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CARTELS_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIAMOND_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIMENSIONAL_RING_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK_ULTRA_TOME.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/PIRATES_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/TOURNAMENT_MASTER.txt",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/SOURCE_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/ACCEPTANCE_CHECKS.json",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.json",
+      "action": "ADD"
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/ALIAS_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CHANGELOG.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CURRENT_RELEASE_MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/EXTRACTION_MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_EQUATION_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_MECHANISM_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_OBJECT_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_SOURCE_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/LIVE_RUNTIME_STATE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_CURRENT_CANONICAL.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP42_BACKUP.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP43_BACKUP.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_v2.0_GENESIS_CANONICAL.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PACKAGE_CHECKSUMS.sha256",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_EQUATION_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_OBJECT_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_THEOREM_REGISTRY.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/READ_FIRST_MK163.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RECOVERY_PASS_30_CURRENT_UPDATE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RELEASE_MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP40_STRUCTURAL_UPDATE_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP41_RECURSIVE_RECOVERY_ENGINE_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_001.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_002.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_003.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_004.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_005.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_006.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_007.bin",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_FINAL_CLOSURE_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_PACKAGE_MANIFEST.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP43_GENERAL_RELATIVITY_CLOSURE_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP44_GENERAL_RELATIVITY_EDGE_CRAWL_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP45_GR_DEPENDENCY_LANDSCAPE_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP46_BLACK_HOLE_RECURSIVE_CRAWL_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP47_GR_GLOBAL_RECURSIVE_CRAWL_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP48_WHITE_STATE_SINGULARITY_TARGETED_CLOSURE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP49_SINGULARITY_MODE_ROUTING_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP50_PENROSE_INTEGRATION_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP51_BLACK_HOLE_DEPENDENCY_GRAPH_AUDIT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP52_HAWKING_INTEGRATION_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP53_BLACK_HOLE_GLOBAL_CRAWL_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/SINGULARITY_MODE_ROUTING.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_CURRENT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP43.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP44.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP45.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP46.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP47.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP48.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP49.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP50.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP51.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP52.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP53.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MANIFEST.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH_INTEGRATED.json",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_MATHEMATICAL_MODEL.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/VALIDATION_REPORT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Grammar(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Phonology(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Root Family(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rosetta(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rules(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Structure(10).pdf",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MATHEMATICS_AND_INTELLECTUAL_PROPERTY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "action": "ADD"
+    },
+    {
+      "path": "WORLD_CLOCK/README.md",
+      "action": "UPDATE_KNOWN_BASELINE"
+    }
+  ],
+  "legacy_notices": [
+    "CONTINUITY/LIVE_MODEL_001.md",
+    "PROVENANCE/LIVE_MODEL_001_IMPORT_REPORT.md",
+    "PROVENANCE/LIVE_MODEL_001_OPEN_QUESTIONS.md",
+    "PROVENANCE/LIVE_MODEL_001_SOURCES.md",
+    "WORLD_CLOCK/L0_MATHEMATICS/LIVE_MODEL_001.md",
+    "WORLD_CLOCK/L1_FANTASY/LIVE_MODEL_001.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/LIVE_MODEL_001.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/LIVE_MODEL_001.md",
+    "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/LIVE_MODEL_001.md"
+  ],
+  "conflicts": [],
+  "status": "APPLIED",
+  "commit_and_push_performed": false,
+  "helper_legacy_notices": [],
+  "post_apply_adjustments": [
+    {
+      "notice_source": "LEGACY_NOTICE.txt",
+      "notice_sha256": "81d4f0317c3af7c5e47d5d4735f3d842b43eb693047e1c64daca75153c6e133d",
+      "resolution": "Delivery baseline paths retain the old PAYLOAD/ prefix; apply the supplied notice at actual repository paths. Mark all nine existing Live Model 001 records, including provenance and prior audit, as historical without altering their original bytes.",
+      "paths": [
+        "CONTINUITY/LIVE_MODEL_001.md",
+        "PROVENANCE/LIVE_MODEL_001_IMPORT_REPORT.md",
+        "PROVENANCE/LIVE_MODEL_001_OPEN_QUESTIONS.md",
+        "PROVENANCE/LIVE_MODEL_001_SOURCES.md",
+        "WORLD_CLOCK/L0_MATHEMATICS/LIVE_MODEL_001.md",
+        "WORLD_CLOCK/L1_FANTASY/LIVE_MODEL_001.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/LIVE_MODEL_001.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/LIVE_MODEL_001.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/LIVE_MODEL_001.md"
+      ],
+      "original_content_preserved": true
+    },
+    {
+      "path": ".gitattributes",
+      "supplied_sha256": "dd9503f98a689cef62d720aab28af72076ea7d92f472111f564b23fc6edb9866",
+      "installed_sha256": "8064fe1e25983c93ebba83913652e42bf0b58dd966eb82a2058c93c55ac1613c",
+      "supplied_bytes_retained_as_prefix": true,
+      "reason": "Preserve intentional Markdown hard-break spaces and archival source whitespace; explicitly classify original binaries and reversible API parts for Git diff. No source content altered."
+    }
+  ],
+  "source_archive_sha256": "0c137fcdcc4837fe5b749b514726e9843e72bded659376705763b5bcd127975f",
+  "validation_report": "CHECKPOINTS/LIVE_MODEL_003_VALIDATION.json",
+  "validation_status": "PASS",
+  "unresolved_content_boundaries": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+  "audit_note": "Prepared before commit; Git history identifies the import commit. The helper itself did not commit or push."
+}

@@ -1,0 +1,40 @@
+# RP-50 — Penrose Minimal Mathematical Closure Integration
+
+- schema: `MK43_RP50_VALIDATION`
+- status: `PASS`
+- entry_root: `@black_hole`
+- model_objects: `34`
+- reused_handles: `24`
+- aliased_handles: `2`
+- created_handles: `8`
+- equations_added: `17`
+- theorems_added: `1`
+- model_edges_added: `34`
+- crawl_edges_added: `2933`
+- total_new_edges: `2967`
+- total_handles: `2370`
+- total_edge_records: `20963`
+- unique_typed_edges: `20963`
+- penrose_theorem_reachable_from_black_hole: `True`
+- mode_1_singularity_reachable_from_black_hole: `True`
+- mode_0_white_state_core_preserved: `True`
+- missing_edge_endpoints: `0`
+- canonical_bytes: `2028637`
+- canonical_lines: `62957`
+- canonical_sha256: `77d4aa5091badb5913bc687d60b2eb362a20e278ef2a46f43761e9c5d6a42bdb`
+
+## Created handles
+
+- `@conformal_rescaling`
+- `@ingoing_null_expansion`
+- `@noncompact_cauchy_surface`
+- `@null_convergence_condition`
+- `@null_geodesic_incompleteness`
+- `@outgoing_null_expansion`
+- `@screen_projector`
+- `@spacelike_two_surface`
+
+## Aliases
+
+- `@lorentzian_spacetime` → `@lorentzian_manifold`
+- `@marginally_outer_trapped_surface` → `@marginally_trapped_surface`

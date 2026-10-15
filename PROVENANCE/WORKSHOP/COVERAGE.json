@@ -1,0 +1,2339 @@
+{
+  "delivery": "MK163_LIVE_MODEL_003",
+  "scope": "Available MK163 foundational workshop decisions, detailed topic records, original mounted attachments, supplied MKUltra/API4.3 source corpus and eight exact AERA prophecy manuscripts",
+  "author_records": [
+    {
+      "id": "W001",
+      "title": "MK163 inheritance and Kaira spelling",
+      "source_words": 146,
+      "targets": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W002",
+      "title": "Three interfaces, seven books, and eight prophecies",
+      "source_words": 389,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+        "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W003",
+      "title": "White Material Realm and Black Prophecy",
+      "source_words": 113,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W004",
+      "title": "Energy structures realized as realms",
+      "source_words": 165,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+        "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W005",
+      "title": "Human variations and channel development",
+      "source_words": 137,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W006",
+      "title": "Selective MK157 biological inheritance",
+      "source_words": 194,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W007",
+      "title": "Biology only, not old transformation plot",
+      "source_words": 26,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W008",
+      "title": "Awakened dermal throughput",
+      "source_words": 116,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W009",
+      "title": "Open arc is not a useful charging conduit",
+      "source_words": 160,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W010",
+      "title": "Vaen, Neon, storms, domai, eldris, and altered flora",
+      "source_words": 738,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W011",
+      "title": "Neon baselines versus starscape equilibrium",
+      "source_words": 197,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W012",
+      "title": "Different starscapes, different internal physics",
+      "source_words": 194,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W013",
+      "title": "CSR, sigils, binding anchors and consumable resources",
+      "source_words": 463,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+        "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W014",
+      "title": "Dungeons as contiguous environmental prisms",
+      "source_words": 194,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W015",
+      "title": "Dungeon oscillation, resource regeneration and delving",
+      "source_words": 151,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W016",
+      "title": "Accord Registry, vaelum, aithren",
+      "source_words": 98,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W017",
+      "title": "Two aithren cultures and dungeon containment",
+      "source_words": 498,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W018",
+      "title": "Crown development cycle and village-hub geography",
+      "source_words": 741,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W019",
+      "title": "Hollowmere must remain northwest",
+      "source_words": 98,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W020",
+      "title": "Diamond storage, occupancy, appearance, currency and fatigue",
+      "source_words": 1385,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W021",
+      "title": "AHM and diamond chips are entirely distinct commodities",
+      "source_words": 120,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W022",
+      "title": "Single-basin charging benchmarks and concurrent charging",
+      "source_words": 114,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W023",
+      "title": "Infrastructure charging large diamond batteries",
+      "source_words": 89,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W024",
+      "title": "Charging labor, fatigue analogy and five-day correction",
+      "source_words": 973,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W025",
+      "title": "Alchemy: apparatus, staged activation, and material science",
+      "source_words": 277,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W026",
+      "title": "Architects, velis, growth fields, food, and Blackstone",
+      "source_words": 1001,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W027",
+      "title": "Binding deployment: expandable scaffold, energy, realization",
+      "source_words": 207,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+        "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W028",
+      "title": "Binding concept controls efficiency, not unlimited power",
+      "source_words": 289,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W029",
+      "title": "Binding bandwidth versus native freedom versus card exclusivity",
+      "source_words": 599,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+        "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+        "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W030",
+      "title": "Card lifecycle automation does not automate aim",
+      "source_words": 252,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W031",
+      "title": "The workshop accumulates while AERA is consolidated",
+      "source_words": 71,
+      "targets": [
+        "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W032",
+      "title": "Chromatic district nobles and White civic authority",
+      "source_words": 253,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W033",
+      "title": "Concentric square rings, affordability not decay",
+      "source_words": 251,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W034",
+      "title": "Orthogonal construction, greenery, water and dissolution",
+      "source_words": 342,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W035",
+      "title": "Romanticized preindustrial setting and metallurgy clarification",
+      "source_words": 151,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W036",
+      "title": "Four hostile organizations and selective source inheritance",
+      "source_words": 191,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W037",
+      "title": "Antagonists: awareness versus direct confrontation",
+      "source_words": 351,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+        "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W038",
+      "title": "Roads, criminal trade, Blue pirate dismantling",
+      "source_words": 744,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W039",
+      "title": "Monolithic permanent gateways",
+      "source_words": 192,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W040",
+      "title": "Three inward-facing gates per capital; complete direct network",
+      "source_words": 258,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W041",
+      "title": "Gate orientation correction and accepted plan",
+      "source_words": 180,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W042",
+      "title": "Sigil-carved gates and royal domain assignments",
+      "source_words": 132,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W043",
+      "title": "King’s Tournament: local qualifiers to 28-team final",
+      "source_words": 472,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W044",
+      "title": "Seventh placement amendment and four-year cadence",
+      "source_words": 208,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W045",
+      "title": "Book Red finish and tournament festival",
+      "source_words": 425,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W046",
+      "title": "Ring as ongoing practical freedom, not power spectacle",
+      "source_words": 153,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W047",
+      "title": "Dimensional devices and economic access",
+      "source_words": 237,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W048",
+      "title": "Bracelets hold two to three times a ring",
+      "source_words": 154,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W049",
+      "title": "Inherited astronomy, Kaira age, professional ranks, robe and Age of Knowledge",
+      "source_words": 1674,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W050",
+      "title": "Professional practice and thirteen-domain White qualification",
+      "source_words": 850,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W051",
+      "title": "Warden and Cartographer proposals rejected as redundant",
+      "source_words": 208,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W052",
+      "title": "Active, channeled and interval expressions",
+      "source_words": 82,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W053",
+      "title": "Augmenter locally anchored biological event",
+      "source_words": 117,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W054",
+      "title": "Augmenters as weapon and armor specialists",
+      "source_words": 104,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W055",
+      "title": "Full AERA inheritance; constructs, ER foam, mathematical IP and limited plot",
+      "source_words": 757,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+        "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MATHEMATICS_AND_INTELLECTUAL_PROPERTY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W056",
+      "title": "L0 versus L1 ER foam inheritance",
+      "source_words": 61,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+        "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W057",
+      "title": "ER foam road, possible not universal",
+      "source_words": 110,
+      "targets": [
+        "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W058",
+      "title": "Foundational worldbuilding complete; story remains open",
+      "source_words": 84,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W059",
+      "title": "Real local directory and ZIP inbox workflow",
+      "source_words": 118,
+      "targets": [
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W060",
+      "title": "World Clock, seven books, arcs of variable chapter count",
+      "source_words": 384,
+      "targets": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W061",
+      "title": "Top-level constitutions and arc fields",
+      "source_words": 163,
+      "targets": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W062",
+      "title": "Executable Markdown and two-pass initialization",
+      "source_words": 349,
+      "targets": [
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W063",
+      "title": "Complete inheritance, incremental local consolidation",
+      "source_words": 185,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W064",
+      "title": "No additional migration project",
+      "source_words": 252,
+      "targets": [
+        "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W065",
+      "title": "No lossy compression of canonical content",
+      "source_words": 335,
+      "targets": [
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+        "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W066",
+      "title": "The live model mirrors the Git tree and supports chapter production",
+      "source_words": 313,
+      "targets": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+        "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    },
+    {
+      "id": "W067",
+      "title": "Deliver the actual ZIP and execution.md",
+      "source_words": 113,
+      "targets": [
+        "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+        "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md"
+      ],
+      "preservation": "Full recorded author passage retained in journal and JSONL; relevant passages also embedded in topic records"
+    }
+  ],
+  "topics": [
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+      "title": "L0 — Mathematics and mathematical-physics inheritance",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W055",
+        "W056",
+        "W058",
+        "W063",
+        "W064"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+        "https://github.com/xApologies/_bricked"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+      "title": "Resolution, Bandwidth, Occupancy, and Chirality — scope-preserved source use",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W020",
+        "W029"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+      "title": "Six foundational basins and the seventh White superposition",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W003",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L0/CHROMATIC_EXISTENCE.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L0/CHROMATIC_EXISTENCE.md",
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+      "title": "Neon configuration and material Starscape realization",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W011",
+        "W012"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+      "title": "The universal six-stage Transduction lifecycle",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W027",
+        "W028",
+        "W030"
+      ],
+      "upstream_sources": [
+        "AERA `L1/TRANSDUCTION_LIFECYCLE.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/TRANSDUCTION_LIFECYCLE.md",
+        "AERA `L1/SHAPING_INTERFACES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/SHAPING_INTERFACES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+      "title": "Six operational domains — not colors, professions, or lifecycle stages",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W050",
+        "W051",
+        "W052",
+        "W053"
+      ],
+      "upstream_sources": [
+        "AERA `L1/OPERATIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/OPERATIONS.md",
+        "AERA `CONCEPTS/08_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/CONCEPTS/08_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+      "title": "Native Genesis — direct manifold construction",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W029",
+        "W030",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L1/INTERFACES/01_NATIVE_NEUROGENESIS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/01_NATIVE_NEUROGENESIS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+      "title": "Binding Circles — physical sigils, resource anchors, and installed architecture",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W013",
+        "W027"
+      ],
+      "upstream_sources": [
+        "AERA `L1/INTERFACES/02_BINDING_CIRCLES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/02_BINDING_CIRCLES.md",
+        "MK147 `live-model/04_SYSTEMS/BINDING_VAEN.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/BINDING_VAEN.md — historical worldbuilding, not MK163 plot authority.",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+      "title": "Binding bandwidth, normalized output, and conceptual efficiency",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W013",
+        "W027",
+        "W028",
+        "W029"
+      ],
+      "upstream_sources": [
+        "AERA `L1/INTERFACES/02_BINDING_CIRCLES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/02_BINDING_CIRCLES.md",
+        "AERA `L1/FATIGUE_CONCEPT.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/FATIGUE_CONCEPT.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+      "title": "Genesis Cards — operational manifolds, basin occupation, and skill",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W029",
+        "W030",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L1/INTERFACES/03_GENESIS_CARDS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/03_GENESIS_CARDS.md",
+        "AERA `L2/GENESIS_CARD_VARIANTS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/GENESIS_CARD_VARIANTS.md",
+        "https://github.com/xApologies/MK727"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+      "title": "Shared fatigue, basin access and cross-interface constraints",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W009",
+        "W020",
+        "W022",
+        "W024",
+        "W029",
+        "W030"
+      ],
+      "upstream_sources": [
+        "AERA `L1/FATIGUE_CONCEPT.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/FATIGUE_CONCEPT.md",
+        "AERA `L1/INTERFACES/04_CONCURRENCY_AND_AUTHORITY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/04_CONCURRENCY_AND_AUTHORITY.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+      "title": "ER Foam — spatially locked tactile topology",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W055",
+        "W056",
+        "W057"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "title": "The seven inhabited realms and their natural denizens",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W003",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+      "title": "Red — Dragons",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+      "title": "Orange — Vaelith",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/01_VAELITH.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/01_VAELITH.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+      "title": "Yellow — Primordials",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+      "title": "Green — Sprites",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/02_SPRITES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/02_SPRITES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "title": "Blue — Leviathans",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+      "title": "Violet — Unicorns",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W004"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+      "title": "White-domain humanity: dwarf, human and elf working labels",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W005",
+        "W006"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/06_HUMAN_NEUROGENESIS_VARIATION.md",
+        "AERA `L2/GENESIS_BIOLOGY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/GENESIS_BIOLOGY.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+      "title": "Neurogenesis and the six chromatic channel strands",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W005",
+        "W008",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L1/INTERFACES/01_NATIVE_NEUROGENESIS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/INTERFACES/01_NATIVE_NEUROGENESIS.md",
+        "AERA `L1/NEUROGENESIS/01_CHROMATIC_CHANNELS_AND_POTIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/01_CHROMATIC_CHANNELS_AND_POTIONS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+      "title": "White Awakening — whole-body biological reconstruction",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W006",
+        "W007",
+        "W008",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md",
+        "AERA `L2/BIOLOGY/05_AFFLICTED.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/05_AFFLICTED.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+      "title": "aen — dot, arc, ring and band",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W008",
+        "W009",
+        "W029",
+        "W030"
+      ],
+      "upstream_sources": [
+        "AERA `L1/NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/03_AEN_TRAINING_AND_FATIGUE.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+      "title": "Afflicted — general condition and phenotype inheritance",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W006",
+        "W007",
+        "W008"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/05_AFFLICTED.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/05_AFFLICTED.md",
+        "https://github.com/xApologies/MK157 — biological reference scope only"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+      "title": "Longevity and multi-generational civilization",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050"
+      ],
+      "upstream_sources": [
+        "AERA `L1/NEUROGENESIS/04_LONGEVITY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/04_LONGEVITY.md",
+        "AERA `L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+      "title": "Inherited circumbinary system and local calendar",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ASTRONOMY_GEOGRAPHY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ASTRONOMY_GEOGRAPHY.md",
+        "MK147 `live-model/02_DOMAINS/STARSCAPE.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/STARSCAPE.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "title": "Planetary map — accepted visual reference and numerical cautions",
+      "status": "VISUAL REFERENCE; SOURCE ANNOTATIONS RETAINED WITH CONFLICT NOTES",
+      "author_records": [],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+      "title": "Dungeons — persistent geographic prisms and contained danger",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W014",
+        "W015",
+        "W017",
+        "W043",
+        "W045"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/03_DUNGEONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/03_DUNGEONS.md",
+        "MK147 `live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md — historical worldbuilding, not MK163 plot authority.",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+      "title": "Genesis Mines — one basin, continuing oscillation, finite growth equilibrium",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W024",
+        "W018",
+        "W063"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/07_GENESIS_MINES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/07_GENESIS_MINES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+      "title": "Genesis storms and localized collapse events",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W011",
+        "W012",
+        "W017",
+        "W018"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+      "title": "domai — temporary bounded Genesis-event landscapes",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W017"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/04_STORMS_AND_DOMAI.md",
+        "MK147 `live-model/02_WORLD/STORMS_DOMAI.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/STORMS_DOMAI.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+      "title": "eldris — persistent recursive collapse and six behavior families",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W015",
+        "W017",
+        "W018"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/02_ELDRIS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/02_ELDRIS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "title": "Genesis ecology, luminous flora and vaen",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W015",
+        "W025"
+      ],
+      "upstream_sources": [
+        "AERA `L2/GENESIS_BIOLOGY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/GENESIS_BIOLOGY.md",
+        "AERA `L2/ALCHEMY_VAEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ALCHEMY_VAEN.md",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+      "title": "Crown settlement hierarchy and generations of development",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W018",
+        "W019",
+        "W032",
+        "W033"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/02_WORLD/KINGDOM_SETTLEMENTS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+      "title": "Concentric square city districts and economic occupancy",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W032",
+        "W033",
+        "W034"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/02_WORLD/V2_WORLD_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/V2_WORLD_CANON.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+      "title": "Noble landholding, district responsibility and Crown administration",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W032",
+        "W042",
+        "W049",
+        "W050"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION/LONGEVITY_AND_NOBILITY.md",
+        "MK147 `live-model/02_WORLD/KINGDOM_SETTLEMENTS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+      "title": "Kaira’s Village Hub and the northwest Hollowmere dungeon settlement",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W018",
+        "W019",
+        "W060"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+        "MK147 `live-model/02_WORLD/KINGDOM_SETTLEMENTS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+      "title": "Phase-grown stone architecture and Genesis municipal utilities",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W034",
+        "W055",
+        "W057"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/04_SYSTEMS/SIGIL_ENGINEERING.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/SIGIL_ENGINEERING.md — historical worldbuilding, not MK163 plot authority.",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+      "title": "The King’s Highway — four capitals, twelve gateways, six paired links",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W039",
+        "W040",
+        "W041",
+        "W042"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+      "title": "Regional roads, stabilized territory and the Wilds",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W017",
+        "W018",
+        "W038",
+        "W057"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/02_WORLD/KINGDOM_SETTLEMENTS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md — historical worldbuilding, not MK163 plot authority.",
+        "AERA `L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/05_STABILIZATION_AND_WILDS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+      "title": "Technological divergence: preindustrial aesthetics, advanced Genesis engineering",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W035",
+        "W034",
+        "W055"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+      "title": "ru’ne, sigils, arrays and operational work surfaces",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W013",
+        "W025",
+        "W026",
+        "W034",
+        "W042",
+        "W055"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/04_SYSTEMS/SIGIL_ENGINEERING.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/SIGIL_ENGINEERING.md — historical worldbuilding, not MK163 plot authority.",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+      "title": "Alchemy and Type 1–5 material science",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W025",
+        "W026",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ALCHEMY_VAEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ALCHEMY_VAEN.md",
+        "MK147 `live-model/04_SYSTEMS/ALCHEMY.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/ALCHEMY.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "title": "Genesis crystals, Genesis Dust and vaen — distinct engineering resources",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W010",
+        "W013",
+        "W015",
+        "W020",
+        "W021",
+        "W024",
+        "W025",
+        "W047"
+      ],
+      "upstream_sources": [
+        "AERA `L2/ENVIRONMENT/07_GENESIS_MINES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/07_GENESIS_MINES.md",
+        "AERA `L2/ENCHANTING/02_FOUR_CONFIGURATIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENCHANTING/02_FOUR_CONFIGURATIONS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "title": "Genesis Diamonds — energy organization, charge appearance and stored reserves",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W020",
+        "W021",
+        "W024"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+      "title": "Diamond charging rates, concurrency, labor and infrastructure",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W020",
+        "W022",
+        "W023",
+        "W024"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+      "title": "eln, ahm, diamond chips and resource exchange",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W020",
+        "W021",
+        "W022",
+        "W024",
+        "W055"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+      "title": "Dimensional Rings and Bracelets — mechanism, access and relative capacity",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W020",
+        "W045",
+        "W046",
+        "W047",
+        "W048"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+        "AERA `L2/TECHNOLOGY/DIMENSIONAL_RING_RECONCILIATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/TECHNOLOGY/DIMENSIONAL_RING_RECONCILIATION.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+      "title": "Aineth, Ain and Aenith — enchanted equipment engineering",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W013",
+        "W049",
+        "W055"
+      ],
+      "upstream_sources": [
+        "AERA `L2/LANGUAGE/AENITH_AINETH_AIN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/LANGUAGE/AENITH_AINETH_AIN.md",
+        "AERA `L2/ENCHANTING/02_FOUR_CONFIGURATIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENCHANTING/02_FOUR_CONFIGURATIONS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+      "title": "maege glass and Genesis constructs",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W055",
+        "W056",
+        "W057"
+      ],
+      "upstream_sources": [
+        "AERA `L2/GENESIS_TECHNOLOGY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/GENESIS_TECHNOLOGY.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MATHEMATICS_AND_INTELLECTUAL_PROPERTY.md",
+      "title": "Mathematics as practical intellectual property",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W055"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md",
+        "AERA `L2/GENESIS_TECHNOLOGY.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/GENESIS_TECHNOLOGY.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+      "title": "Professional identity is distinct from interface and rank",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050",
+        "W051",
+        "W052",
+        "W053",
+        "W054"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md",
+        "AERA `L1/SHAPING_INTERFACES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/SHAPING_INTERFACES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+      "title": "maege / maegi — active offensive, support and utility practitioners",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050",
+        "W051",
+        "W052"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+      "title": "helkir — Coherence and topological biological stabilization",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W026",
+        "W049",
+        "W050",
+        "W054"
+      ],
+      "upstream_sources": [
+        "AERA `L1/OPERATIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/OPERATIONS.md",
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+      "title": "Summoner — sustained entity-Shapings and coordinated combat",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050",
+        "W052"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md",
+        "AERA `L1/SHAPING_INTERFACES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/SHAPING_INTERFACES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+      "title": "Augmenter — locally anchored bodily Transduction and martial equipment",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050",
+        "W052",
+        "W053",
+        "W054"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md",
+        "AERA `L1/OPERATIONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/OPERATIONS.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "title": "Architects and velis — local field engineering",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W026",
+        "W050",
+        "W051"
+      ],
+      "upstream_sources": [
+        "AERA `L2/SIGILS_ARCHITECTS_VELIS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/SIGILS_ARCHITECTS_VELIS.md",
+        "MK147 `live-model/04_SYSTEMS/ARCHITECTS_VELIS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/04_SYSTEMS/ARCHITECTS_VELIS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+      "title": "Chromatic qualification and the White mastery condition",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CIVILIZATION.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CIVILIZATION.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+      "title": "Genesis-assisted agriculture and the predominantly vegetarian food economy",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W026",
+        "W034"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/02_DOMAINS/AGRICULTURE.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/AGRICULTURE.md — historical worldbuilding, not MK163 plot authority.",
+        "AERA `L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "title": "Blackstone — Institution of Knowledge",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W026",
+        "W027",
+        "W028",
+        "W049",
+        "W050",
+        "W055"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md — historical worldbuilding, not MK163 plot authority.",
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+        "AERA `L1/FATIGUE_CONCEPT.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/FATIGUE_CONCEPT.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+      "title": "aithren, vaelum and Accord Registry",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W016",
+        "W017",
+        "W038"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/02_DOMAINS/VAELUM_AND_ACCORD.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/VAELUM_AND_ACCORD.md — historical worldbuilding, not MK163 plot authority.",
+        "AERA `L2/CULTURE_AND_GAMES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CULTURE_AND_GAMES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+      "title": "Two aithren cultures: settled delvers and mobile storm chasers",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W017",
+        "W018",
+        "W045"
+      ],
+      "upstream_sources": [
+        "MK147 `live-model/05_CULTURE/V2_CULTURE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md — historical worldbuilding, not MK163 plot authority.",
+        "AERA `L2/CULTURE_AND_GAMES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CULTURE_AND_GAMES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "title": "raeon, Prism, Genesis collections and daily culture",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W017",
+        "W033",
+        "W035",
+        "W045",
+        "W049"
+      ],
+      "upstream_sources": [
+        "AERA `L2/CULTURE_AND_GAMES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CULTURE_AND_GAMES.md",
+        "MK147 `live-model/05_CULTURE/V2_CULTURE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md — historical worldbuilding, not MK163 plot authority.",
+        "https://github.com/xApologies/_raeon"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+      "title": "Bandits — persistent road predation",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W036",
+        "W037",
+        "W038"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+        "MK147 `live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+      "title": "Cartels — regional black markets and leverage",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W036",
+        "W037",
+        "W038"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+        "MK147 `live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+      "title": "Pirates — international criminal maritime infrastructure",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W036",
+        "W037",
+        "W038"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+        "MK147 `live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "title": "Cabal of Ash and Crown — hidden civilizational domination",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W036",
+        "W037",
+        "W038"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+        "MK147 `live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "title": "The King's Tournament — complete institutional working specification",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W043",
+        "W044",
+        "W045",
+        "W046",
+        "W047"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+        "MK147 `live-model/02_WORLD/V2_WORLD_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_WORLD/V2_WORLD_CANON.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "title": "Kaira — established character state and biological source boundary",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W001",
+        "W003",
+        "W005",
+        "W006",
+        "W007",
+        "W018",
+        "W045",
+        "W046",
+        "W047",
+        "W049",
+        "W055"
+      ],
+      "upstream_sources": [
+        "AERA `L2/BIOLOGY/05_AFFLICTED.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/05_AFFLICTED.md",
+        "AERA `L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md",
+        "MK157 biological reference only; source differences retained in PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "title": "The Chainmail Robe and Day Zero of the Age of Knowledge",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W049",
+        "W050",
+        "W055"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+        "MK147 `live-model/05_CULTURE/V2_CULTURE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md — historical worldbuilding, not MK163 plot authority."
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+      "title": "Book Red endpoint — Green placement and Dimensional Ring",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W043",
+        "W044",
+        "W045",
+        "W046",
+        "W047",
+        "W048"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "title": "Seven books, variable arcs and the boundary between plan and prose",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W037",
+        "W038",
+        "W045",
+        "W049",
+        "W055",
+        "W058",
+        "W060",
+        "W061",
+        "W066"
+      ],
+      "upstream_sources": []
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+      "title": "Antagonist existence, awareness, interaction and resolution across books",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W036",
+        "W037",
+        "W038"
+      ],
+      "upstream_sources": [
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+        "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+      "title": "Constitution 11 — Repository-aligned live-model maintenance",
+      "status": "AUTHOR-DIRECTED CONSTITUTIONAL AMENDMENT",
+      "author_records": [
+        "W059",
+        "W060",
+        "W061",
+        "W062",
+        "W063",
+        "W064",
+        "W065",
+        "W066",
+        "W067"
+      ],
+      "upstream_sources": []
+    },
+    {
+      "path": "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md",
+      "title": "Constitution 12 — Delivery acceptance and anti-loss checks",
+      "status": "AUTHOR-DIRECTED DELIVERY SAFEGUARD",
+      "author_records": [
+        "W065",
+        "W066",
+        "W067"
+      ],
+      "upstream_sources": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+      "title": "Eight prophecies — complete source manuscripts and MK163 realization",
+      "status": "ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS",
+      "author_records": [
+        "W002",
+        "W003",
+        "W004",
+        "W037",
+        "W055"
+      ],
+      "upstream_sources": [
+        "AERA `PROPHECIES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/PROPHECIES.md",
+        "AERA `CONCEPTS/08_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/CONCEPTS/08_CROSSWALK.md",
+        "AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md",
+        "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json"
+      ]
+    }
+  ],
+  "original_sources": [
+    {
+      "id": "WORLD_MAP",
+      "original_filename": "C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+      "bytes": 641330,
+      "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+      "scope": "World map; visual geography reference, not automatic numerical authority.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "STARTING_REGION_MAP",
+      "original_filename": "852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+      "bytes": 3228494,
+      "sha256": "40bf7fb15eb8683b0105c0d3687e38ca48af10a344b4f372b0ddd1e23087e959",
+      "scope": "Village-hub region, 20-mile-radius reference; Hollowmere northwest at dungeon.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "KINGS_HIGHWAY_APPROVED_PLAN",
+      "original_filename": "IMG_6988.jpeg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+      "bytes": 316696,
+      "sha256": "67e2e532ca01baa05bf0cbea9153f41d8cabf36140bd5ea3f0a02ac3467fbee5",
+      "scope": "Accepted top-down plaza geometry. Triangle is construction guide, not physical boundary.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "KINGS_HIGHWAY_AUTHOR_SKETCH",
+      "original_filename": "IMG_6987.png",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png",
+      "bytes": 455819,
+      "sha256": "57783d51fb6f9d525ad0bbfac6d2587b737ea73a51656caa7e9a03441e4cf605",
+      "scope": "Author orientation correction: Blue horizontal, Orange \\, Green /, central park.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "LOCAL_WORKSPACE_REFERENCE",
+      "original_filename": "IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+      "bytes": 256636,
+      "sha256": "9000c65f3f5cb220ba04f80bf86e937135fa7debf11b3849e3eb32e3169e6760",
+      "scope": "Local Windows folder and _inbox workflow; procedural reference, not fiction.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "ORTHOGONAL_SIGIL",
+      "original_filename": "IMG_0530.jpg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+      "bytes": 67292,
+      "sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5",
+      "scope": "Orthogonal pixel-like rune/sigil design reference.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "BINDING_CIRCLE_SKETCH",
+      "original_filename": "IMG_5485.jpg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+      "bytes": 145723,
+      "sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+      "scope": "Author resource-anchor/target/pathway diagram; colors/layout illustrative.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "GENESIS_FLORA_01",
+      "original_filename": "IMG_6900.jpeg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+      "bytes": 465467,
+      "sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "scope": "Luminous Genesis-expressing flora reference; not fixed species.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "GENESIS_FLORA_02",
+      "original_filename": "IMG_6901.jpeg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg",
+      "bytes": 283793,
+      "sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "scope": "Luminous Genesis-expressing flora reference; not fixed species.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "ELN_BANKNOTES",
+      "original_filename": "ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+      "bytes": 3988477,
+      "sha256": "f02926937db6764dae981e449d9e20d5639aec97b9b9d96359ab54343f5cdcee",
+      "scope": "Banknote visual denominations; labels do not determine exchange rates.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "AHM_COINS",
+      "original_filename": "2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+      "bytes": 2499583,
+      "sha256": "901785a6f3f79f0ee0a9bfb8abae1466603199f4a36e4427a73bb3592f3fd027",
+      "scope": "Metal-diamond phase-grown currency reference; not diamond-chip storage ladder.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "DIAMOND_DENSITY_LADDER",
+      "original_filename": "Density Ladder.png",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+      "bytes": 92080,
+      "sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca",
+      "scope": "Author-supplied 13/11/7/5/3/2 successive chip-equivalence reference.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "BLACKSTONE_CAMPUS",
+      "original_filename": "Untitled_Artwork.jpg",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+      "bytes": 4335392,
+      "sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8",
+      "scope": "Blackstone visual/reference plan; artwork not automatic story chronology.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CHAINMAIL_ROBE",
+      "original_filename": "8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+      "bytes": 2648963,
+      "sha256": "87b1e6785fbf51918b4ec9d56633dfda77fbc79aa29f984c512a2e1ab3469357",
+      "scope": "Accepted general garment; lower hem too flowing; author corrections control.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_01",
+      "original_filename": "C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+      "bytes": 3272254,
+      "sha256": "1b6cadb8c2df2736e8552b53c83e0b564504b2104e9b5304368ea25f388d0a49",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_02",
+      "original_filename": "127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+      "bytes": 3222892,
+      "sha256": "ce36cd1f078014236d220d793f3fb6c6efd4051e3d1220dfc8332e216cd83350",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_03",
+      "original_filename": "D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+      "bytes": 2364035,
+      "sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_04",
+      "original_filename": "D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+      "bytes": 3409654,
+      "sha256": "7a3ace25889bae08bfad0dce3329ef4216787b0f76a0324b8efffb2cd3d088b6",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_05",
+      "original_filename": "1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+      "bytes": 3196647,
+      "sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_06",
+      "original_filename": "4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+      "bytes": 3308190,
+      "sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_07",
+      "original_filename": "2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+      "bytes": 3791758,
+      "sha256": "33a22ad7a8a5d121f9ac58a92211340804d3d936e2347cf52a99a8033cf5ff5b",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "CITY_ARCHITECTURE_08",
+      "original_filename": "177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+      "bytes": 3372378,
+      "sha256": "74a2d75d904fb4b1c9f37e05657f5b1dd4671a9f829f8b432daf94c67c286d3c",
+      "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+      "preservation": "ORIGINAL_BYTES"
+    },
+    {
+      "id": "DIAMOND_MASTER",
+      "original_filename": "MASTER.pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+      "bytes": 92298,
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "scope": "Seven-page Genesis Diamond source; active device rules with workshop amendments.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIAMOND_MASTER.txt",
+      "pages": 7
+    },
+    {
+      "id": "TOURNAMENT_MASTER",
+      "original_filename": "MASTER(1).pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+      "bytes": 93053,
+      "sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+      "scope": "Seven-page original MK147 tournament master; old six-place rules and story itinerary are source history, not current MK163.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/TOURNAMENT_MASTER.txt",
+      "pages": 7
+    },
+    {
+      "id": "DIMENSIONAL_RING_MASTER",
+      "original_filename": "Dimensional Ring.pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+      "bytes": 98946,
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "scope": "Twenty-page source device master; preserve mechanism, apply bracelet and MK163 narrative amendments.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIMENSIONAL_RING_MASTER.txt",
+      "pages": 20
+    },
+    {
+      "id": "BANDITS_MASTER",
+      "original_filename": "43 Bandits(1).pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+      "scope": "Genesis Point source; organization inherited, Sanctuary/cube machinery not automatically adopted.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/BANDITS_MASTER.txt",
+      "pages": 4
+    },
+    {
+      "id": "CARTELS_MASTER",
+      "original_filename": "44 Cartels(1).pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+      "scope": "Genesis Point source; regional criminal economy inherited; old starting-region demographics not adopted.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CARTELS_MASTER.txt",
+      "pages": 5
+    },
+    {
+      "id": "CABAL_MASTER",
+      "original_filename": "45 Cabal of Ash and Crown(1).pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+      "bytes": 29230,
+      "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+      "scope": "Genesis Point source; institutional/world-domination identity inherited, exceptional magic and old events not automatically adopted.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CABAL_MASTER.txt",
+      "pages": 3
+    },
+    {
+      "id": "PIRATES_MASTER",
+      "original_filename": "46 Evil Organizations(1).pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+      "scope": "Genesis Point pirates source; trafficking/logistics inherited; old planetary numbers/floating-hub implementation require scoped treatment.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/PIRATES_MASTER.txt",
+      "pages": 4
+    },
+    {
+      "id": "MK_ULTRA_TOME",
+      "original_filename": "MK Ultra.pdf",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+      "bytes": 67402112,
+      "sha256": "cca59f71a28079fb6fc511df7b811a88b7e3fde97d84bc1f299c3f4b86b12e8d",
+      "scope": "Original 987-page, 18-volume mathematical-physics source, not a claim of independent proof or imported narrative.",
+      "preservation": "ORIGINAL_BYTES",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK_ULTRA_TOME.txt",
+      "pages": 987
+    },
+    {
+      "id": "API_4_3_ORIGINAL",
+      "original_filename": "4.3.zip",
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+      "bytes": 7630835,
+      "sha256": "0010a4de99d78748ede57670b3bca1df6185b7ba8dd0faf266cc3ba1a4ccf752",
+      "scope": "Original companion archive; all 63 entries preserved byte-for-byte, including the large dependency index.",
+      "preservation": "ORIGINAL_BYTES"
+    }
+  ],
+  "prophecies": [
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/01_THE_SEVEN_REALMS.md",
+      "git_blob_sha": "36641348202b6c7f84edd0802525fbd55203e477",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+      "bytes": 17224,
+      "sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/02_THE_UNWRITTEN.md",
+      "git_blob_sha": "2a231b05a15f567a146499791562cad0cabe8da3",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+      "bytes": 10044,
+      "sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/03_BORROWED_HOURS.md",
+      "git_blob_sha": "e5c8dbd04f1c72e513cc3b6d5ddbf87823f50550",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+      "bytes": 15930,
+      "sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/04_THE_THOUSAND_THREADS.md",
+      "git_blob_sha": "ecdab31b02e404ac1e26dfc17627fbb12e199f26",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+      "bytes": 14948,
+      "sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/05_THE_COVENANT_GARDEN.md",
+      "git_blob_sha": "d7ee08da5c83e82ea525de53d15c45dd95f26174",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+      "bytes": 12442,
+      "sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/06_THE_LIVING_ART.md",
+      "git_blob_sha": "ff58e83a9d7621975274b8105e63bc0174d496df",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+      "bytes": 13377,
+      "sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/07_THE_CARTOGRAPHERS.md",
+      "git_blob_sha": "74409db1d5ea44dffca318c7805771249cc06c19",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+      "bytes": 10514,
+      "sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "source_path": "prophecies/08_THE_BLACK_PROPHECY.md",
+      "git_blob_sha": "9e0b407d37d8952fc69c6b297fc9053a74b6c0f0",
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+      "bytes": 17514,
+      "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "preservation": "EXACT_UPSTREAM_BYTES",
+      "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+    }
+  ],
+  "checks": {
+    "no_invented_external_corpus_completion": true,
+    "all_recorded_author_passages_have_target": true,
+    "all_eight_prophecy_blobs_verified": true,
+    "supplied_source_bytes_preserved": true,
+    "api_large_index_losslessly_split": true
+  }
+}

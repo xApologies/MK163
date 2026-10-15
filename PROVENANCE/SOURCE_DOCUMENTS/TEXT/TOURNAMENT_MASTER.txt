@@ -1,0 +1,291 @@
+--- SOURCE PAGE 1 / 7 ---
+══════════════════════════════════════════════════════════
+═════════ 
+MK147 CANON 
+KING'S TOURNAMENT (ARC 2 SCAFFOLD) 
+FINALIZED WORKING MODEL 
+══════════════════════════════════════════════════════════
+═════════ 
+PURPOSE 
+The King's Tournament exists for three reasons: 
+1. Provide a kingdom-wide competitive framework. 
+2. Move characters naturally between cities. 
+3. Establish regional and kingdom recognition. 
+The tournament is NOT: 
+- Arena combat. 
+- PvP elimination. 
+- A standard fantasy tournament. 
+- A dungeon-clearing competition. 
+The tournament is effectively: 
+    "A very dangerous dungeon racing circuit." 
+══════════════════════════════════════════════════════════
+═════════ 
+DUNGEON MODEL 
+══════════════════════════════════════════════════════════
+═════════ 
+Dungeons are NOT levels. 
+Dungeons are NOT cleared. 
+Dungeons are NOT destroyed. 
+Dungeons are persistent environmental structures. 
+Properties: 
+- Massive in scale. 
+- Oscillating. 
+- Regenerating. 
+- Resource producing. 
+- Continuously inhabited by monsters. 
+- Continuously changing. 
+A dungeon may extend: 
+- Miles vertically. 
+- Tens of miles vertically. 
+- 17+ miles deep or greater. 
+The dungeon remains after the tournament. 
+The dungeon remains after adventurers leave. 
+The dungeon remains after centuries. 
+The tournament merely operates inside the dungeon. 
+
+
+--- SOURCE PAGE 2 / 7 ---
+══════════════════════════════════════════════════════════
+═════════ 
+PHASE 1 
+QUALIFICATION SEASON 
+══════════════════════════════════════════════════════════
+═════════ 
+Duration: 
+    Entire Year 
+Frequency: 
+    Monthly Qualification Events 
+Location: 
+    Any Green-or-Higher Dungeon 
+In the Blue Region: 
+    3 Green Dungeons 
+    4 Blue Dungeons 
+    2 Violet Dungeons 
+Total: 
+    9 Qualification Dungeons 
+Each month: 
+Teams may attempt qualification. 
+If a team places: 
+    Violet 
+    Blue 
+    Green 
+    Yellow 
+    Orange 
+    Red 
+They qualify. 
+Qualification is permanent. 
+Once qualified: 
+    The team is done. 
+They do not need to qualify again. 
+Example: 
+January: 
+    Fail 
+February: 
+    Fail 
+March: 
+    Green Placement 
+
+
+--- SOURCE PAGE 3 / 7 ---
+Result: 
+    Qualified. 
+Done. 
+Wait for King's Tournament. 
+══════════════════════════════════════════════════════════
+═════════ 
+PHASE 2 
+KING'S TOURNAMENT 
+══════════════════════════════════════════════════════════
+═════════ 
+When qualification season ends: 
+Each of the 9 qualification dungeons contributes: 
+    6 qualified teams 
+Result: 
+    9 × 6 
+    = 54 Teams 
+The Blue Region Tournament begins. 
+══════════════════════════════════════════════════════════
+═════════ 
+TOURNAMENT STRUCTURE 
+══════════════════════════════════════════════════════════
+═════════ 
+The tournament is NOT elimination. 
+The tournament is a points circuit. 
+All 54 teams remain active. 
+The field does not collapse each stage. 
+Instead: 
+Teams accumulate points. 
+══════════════════════════════════════════════════════════
+═════════ 
+CIRCUIT EVENTS 
+══════════════════════════════════════════════════════════
+═════════ 
+There are six tournament stages: 
+    Red Event 
+    Orange Event 
+    Yellow Event 
+    Green Event 
+    Blue Event 
+    Violet Event 
+Each stage occurs at a designated Blue or Violet Dungeon. 
+
+
+--- SOURCE PAGE 4 / 7 ---
+Teams race the dungeon. 
+Objective: 
+    Reach Bottom 
+    Activate Token 
+    Return To Surface 
+Fastest successful teams place highest. 
+══════════════════════════════════════════════════════════
+═════════ 
+POINTS SYSTEM 
+══════════════════════════════════════════════════════════
+═════════ 
+Each event awards: 
+Violet Placement = 6 Points 
+Blue Placement   = 5 Points 
+Green Placement  = 4 Points 
+Yellow Placement = 3 Points 
+Orange Placement = 2 Points 
+Red Placement    = 1 Point 
+Example: 
+Event 1: 
+    Team A = Violet = 6 
+Event 2: 
+    Team A = Green = 4 
+Event 3: 
+    Team A = Blue = 5 
+Running Total: 
+    15 Points 
+══════════════════════════════════════════════════════════
+═════════ 
+END OF CIRCUIT 
+══════════════════════════════════════════════════════════
+═════════ 
+After all six events: 
+Red 
+Orange 
+Yellow 
+Green 
+Blue 
+Violet 
+Scores are totaled. 
+Example: 
+Team A = 28 
+Team B = 26 
+Team C = 25 
+
+
+--- SOURCE PAGE 5 / 7 ---
+Team D = 24 
+Team E = 23 
+Team F = 21 
+Only: 
+    Top 6 Teams 
+advance. 
+══════════════════════════════════════════════════════════
+═════════ 
+PHASE 3 
+DOMAIN CHAMPIONSHIP 
+══════════════════════════════════════════════════════════
+═════════ 
+The top six teams become: 
+    Blue Region Representatives 
+The same process occurs in: 
+    Orange Region 
+    Green Region 
+    Purple Region 
+Each region produces: 
+    6 Teams 
+══════════════════════════════════════════════════════════
+═════════ 
+KINGDOM FINALS 
+══════════════════════════════════════════════════════════
+═════════ 
+Blue Region: 
+    6 Teams 
+Orange Region: 
+    6 Teams 
+Green Region: 
+    6 Teams 
+Purple Region: 
+    6 Teams 
+Total: 
+    24 Teams 
+These 24 teams travel to the capital domain. 
+The Kingdom Finals are held at the kingdom championship dungeon. 
+Final placement: 
+    Violet 
+    Blue 
+    Green 
+    Yellow 
+
+
+--- SOURCE PAGE 6 / 7 ---
+    Orange 
+    Red 
+determines kingdom ranking. 
+══════════════════════════════════════════════════════════
+═════════ 
+STORY FUNCTION 
+══════════════════════════════════════════════════════════
+═════════ 
+The tournament exists primarily as: 
+    A Travel Engine 
+It naturally moves Kira through: 
+- New Cities 
+- New Dungeons 
+- New Guilds 
+- New Rivals 
+- New Noble Houses 
+- New Dungeon Communities 
+Without requiring artificial story excuses. 
+Travel Route Example: 
+Village Hub 
+↓ 
+Qualification 
+↓ 
+Red Event City 
+↓ 
+Orange Event City 
+↓ 
+Yellow Event City 
+↓ 
+Green Event City 
+↓ 
+Blue Event City 
+↓ 
+Violet Event City 
+↓ 
+Capital Domain 
+The tournament itself becomes the reason the story travels. 
+══════════════════════════════════════════════════════════
+═════════ 
+FINAL SUMMARY 
+══════════════════════════════════════════════════════════
+═════════ 
+Qualifications: 
+    Get In 
+Circuit: 
+    Earn Points 
+Top 6: 
+
+
+--- SOURCE PAGE 7 / 7 ---
+    Advance 
+Region: 
+    Produces 6 Representatives 
+Kingdom: 
+    Produces Final Rankings 
+Tournament Type: 
+    "A Very Dangerous Dungeon Racing Circuit." 
+Dungeon Type: 
+    Persistent Environmental Structure 
+NOT 
+    A Dungeon Clearing Competition 
+══════════════════════════════════════════════════════════
+═════════ 
+END CANON 
+══════════════════════════════════════════════════════════
+═════════

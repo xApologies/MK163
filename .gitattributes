@@ -1,0 +1,28 @@
+# Preserve original source bytes and canonical LF text.
+*.md text eol=lf
+*.py text eol=lf
+PROVENANCE/SOURCE_DOCUMENTS/** -text
+WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/** -text
+WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/** -text
+*.pdf -text
+*.png -text
+*.PNG -text
+*.jpg -text
+*.jpeg -text
+*.zip -text
+*.bin -text
+
+# Markdown hard-break spaces are intentional; retain other whitespace checks.
+*.md whitespace=-blank-at-eol
+# Historical source formatting is preserved byte-for-byte, not lint-rewritten.
+PROVENANCE/SOURCE_DOCUMENTS/** -whitespace
+WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/** -whitespace
+WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/** -whitespace
+# Binary originals and reversible byte parts must not be interpreted as text diffs.
+*.pdf binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+*.bin binary

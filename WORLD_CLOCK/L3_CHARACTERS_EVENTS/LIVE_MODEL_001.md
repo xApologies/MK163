@@ -1,3 +1,5 @@
+> HISTORICAL INCOMPLETE CHECKPOINT — NOT CURRENT CANON. Live Model 001 was an outline-only export. Use WORLD_CLOCK/CURRENT_MODEL_INDEX.md and the detailed topic records. The protagonist is Kaira (K-A-I-R-A); the old Kira-as-canonical statement was an export error. See PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md. Original checkpoint text is preserved below for provenance.
+
 # L3 Characters and Events — MK163 checkpoint 001
 
 - Canonical character spelling **Kira**. Age 23 local years. Afflicted biology is ordinary for Afflicted; Black Prophecy concerns her identity, not unique pre-awakening biology. Awakening potion saves her life. Starting area: village hub; blacksmith background.

@@ -1,0 +1,125 @@
+{
+  "schema": "MK43_PENROSE_EQUATION_REGISTRY_V1",
+  "recovery_pass": "RP-50",
+  "equations": [
+    {
+      "id": "PEN-EQ-001",
+      "name": "Null geodesic conditions",
+      "equation": "k^a k_a = 0,  k^b ∇_b k^a = 0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-002",
+      "name": "Screen projector",
+      "equation": "q_ab = g_ab + k_a n_b + n_a k_b,  k^a n_a = -1",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-003",
+      "name": "Expansion",
+      "equation": "θ = q^{ab} ∇_a k_b",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-004",
+      "name": "Shear",
+      "equation": "σ_ab = q_a^c q_b^d ∇_(c k_d) - (1/2) θ q_ab",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-005",
+      "name": "Vorticity",
+      "equation": "ω_ab = q_a^c q_b^d ∇_[c k_d]",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-006",
+      "name": "Null Raychaudhuri",
+      "equation": "dθ/dλ = -(1/2)θ^2 - σ_abσ^{ab} + ω_abω^{ab} - R_ab k^a k^b",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-007",
+      "name": "Hypersurface orthogonality",
+      "equation": "ω_ab = 0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-008",
+      "name": "Null convergence condition",
+      "equation": "R_ab k^a k^b ≥ 0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-009",
+      "name": "Null energy condition",
+      "equation": "T_ab k^a k^b ≥ 0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-010",
+      "name": "Focusing inequality",
+      "equation": "dθ/dλ ≤ -(1/2)θ^2",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-011",
+      "name": "Focusing bound",
+      "equation": "θ(λ) ≤ θ_0 / (1 + λθ_0/2),  λ_focus ≤ 2/|θ_0| for θ_0<0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-012",
+      "name": "Closed trapped surface",
+      "equation": "θ_(ℓ) < 0 and θ_(n) < 0 on compact S",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-013",
+      "name": "MOTS condition",
+      "equation": "θ_(ℓ)=0 and θ_(n)<0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-014",
+      "name": "Black-hole region",
+      "equation": "B = M \\ J^-(𝓘^+)",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-015",
+      "name": "Event horizon",
+      "equation": "H^+ = ∂J^-(𝓘^+)",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-016",
+      "name": "Conformal rescaling",
+      "equation": "g~_ab = Ω^2 g_ab",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    },
+    {
+      "id": "PEN-EQ-017",
+      "name": "Null-cone invariance",
+      "equation": "g_ab k^a k^b=0 ⇔ g~_ab k^a k^b=0",
+      "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "status": "CANONICAL_IMPORTED"
+    }
+  ]
+}

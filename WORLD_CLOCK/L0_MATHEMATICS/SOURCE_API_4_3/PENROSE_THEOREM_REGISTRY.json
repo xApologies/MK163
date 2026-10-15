@@ -1,0 +1,24 @@
+{
+  "schema": "MK43_PENROSE_THEOREM_REGISTRY_V1",
+  "recovery_pass": "RP-50",
+  "theorem": {
+    "handle": "@penrose_singularity_theorem",
+    "assumptions": [
+      "(M,g) is a time-oriented globally hyperbolic Lorentzian spacetime",
+      "M admits a noncompact Cauchy surface Σ",
+      "R_ab k^a k^b ≥ 0 for every null vector k^a",
+      "M contains a closed future-trapped surface S"
+    ],
+    "conclusion": "(M,g) is future null geodesically incomplete",
+    "formal_output": "∃ future-directed null geodesic γ:[0,a)→M with a<∞ that is future-inextendible",
+    "nonclaims": [
+      "does not define a local material point called the singularity",
+      "does not require spherical symmetry",
+      "does not prove cosmic censorship",
+      "does not specify quantum resolution"
+    ]
+  },
+  "terminal_mode": "mode_1",
+  "entry_root": "@black_hole",
+  "provenance": "ACCEPTED_MATHEMATICS:PENROSE_MINIMAL_MATHEMATICAL_CLOSURE"
+}

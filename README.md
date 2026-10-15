@@ -1,13 +1,12 @@
-# MK163 — AERA High Fantasy
+# MK163 — AERA high-fantasy saga
 
-World Clock-governed seven-book narrative repository. This repository owns MK163-specific canon and prose; it inherits the complete AERA framework without copying the upstream repository wholesale.
+Seven books: **Red → Orange → Yellow → Green → Blue → Violet → White**. Protagonist: **Kaira**.
 
-## Navigation
-- `CONSTITUTIONS/`: operational authority
-- `WORLD_CLOCK/`: L0–L4 canonical structure
-- `BOOKS/`: RED, ORANGE, YELLOW, GREEN, BLUE, VIOLET, WHITE
-- `CONTINUITY/`: timeline and persistent state
-- `PROVENANCE/`: decisions, source lineage, conflict and import audits
-- `CHECKPOINTS/`: verified milestones
+## Read first
+[Current World Clock](WORLD_CLOCK/CURRENT_MODEL_INDEX.md) · [Constitutions](CONSTITUTIONS/00_AUTHORITY.md) · [Continuity](CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md) · [Source register](PROVENANCE/SOURCES.md) · [Coverage](PROVENANCE/WORKSHOP/COVERAGE.md) · [Corrections](PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md)
 
-This bootstrap contains **structure and rules only**, not the full MK163 live model. Import that in a separately reviewed delivery.
+The repository is the persistent book-development model. AERA is inherited in full. MK163 author decisions select its realized world and original story. Historical MK147/MK157/MK727 stories are not automatic canon. Mathematics is inherited from the designated source corpus, with the original uploaded MK Ultra Tome and API4.3 included as sources, not a claim of independent validation.
+
+Development follows the five-layer World Clock and variable-length book arcs. Preserve full topic detail, author evidence, source originals and corrections. Navigation summaries never replace underlying records. No detailed chapters are fabricated by repository initialization.
+
+`_inbox/` is a local-only ZIP delivery area, ignored by Git. Codex reads the archive's `execution.md`, validates it, integrates at the corresponding paths, commits and pushes. No separate repository is required.

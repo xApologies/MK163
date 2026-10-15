@@ -1,0 +1,30 @@
+{
+  "schema": "MK43_RP53_BLACK_HOLE_GLOBAL_CRAWL_VALIDATION",
+  "status": "PASS",
+  "source_api_sha256": "9f33f915cb210331a61f8878173cf69df32e0ea4d5b987b8e2984e84348bf490",
+  "root": "@black_hole",
+  "forward_reachable_nodes": 371,
+  "reverse_reachable_nodes": 446,
+  "union_landscape_nodes": 470,
+  "new_edges": 1250,
+  "new_edges_by_relation": {
+    "BLACK_HOLE_CROSS_FAMILY_NODE": 435,
+    "BLACK_HOLE_GLOBAL_REACHES": 370,
+    "GLOBALLY_FEEDS_BLACK_HOLE": 445
+  },
+  "fixed_point_round_counts": [
+    0
+  ],
+  "total_handles": 2384,
+  "total_edge_records": 75432,
+  "unique_typed_edges": 75432,
+  "mode_0_preserved": true,
+  "mode_1_preserved": true,
+  "hawking_reachable": true,
+  "penrose_reachable": true,
+  "einstein_reachable": true,
+  "missing_edge_endpoints": 0,
+  "canonical_bytes": 2032374,
+  "canonical_lines": 63099,
+  "canonical_sha256": "0071c1d9d6a89c283f57a9c225857fa8f49a63f8caff86d83cca4a66896b0259"
+}

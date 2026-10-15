@@ -1,0 +1,69 @@
+{
+  "delivery": "MK163_LIVE_MODEL_003",
+  "payload_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\.codex\\visualizations\\2026\\10\\15\\01a13ce1-f61d-7040-92fd-c7a2ee523443\\mk163-003-staging\\payload",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "installed_exact_validation_before_attributes_extension": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "installed_validation_after_documented_attributes_extension": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "additional_preservation_checks": {
+    "status": "PASS",
+    "exact_delivery_payloads": 241,
+    "additive_payload_adjustments": [
+      {
+        "path": ".gitattributes",
+        "supplied_sha256": "dd9503f98a689cef62d720aab28af72076ea7d92f472111f564b23fc6edb9866",
+        "installed_sha256": "8064fe1e25983c93ebba83913652e42bf0b58dd966eb82a2058c93c55ac1613c",
+        "supplied_bytes_retained_as_prefix": true,
+        "reason": "Preserve intentional Markdown hard-break spaces and archival source whitespace; explicitly classify original binaries and reversible API parts for Git diff. No source content altered."
+      }
+    ],
+    "staged_core_files_match_working_bytes": 252,
+    "legacy_originals_preserved_byte_for_byte": 9,
+    "prior_unrelated_files_and_inbox_preserved": true,
+    "original_attachments": 31,
+    "original_pdfs": 8,
+    "original_images": 22,
+    "original_api_archives": 1,
+    "api_original_archive_members_verified": 59,
+    "maximum_staged_file_bytes": 67402112,
+    "minimum_topic_body_characters_excluding_repeated_evidence": 844,
+    "navigation_links_valid": true,
+    "unapproved_arcs_or_chapters_instantiated": false,
+    "git_diff_cached_check": "PASS",
+    "blocking_conflicts": []
+  }
+}

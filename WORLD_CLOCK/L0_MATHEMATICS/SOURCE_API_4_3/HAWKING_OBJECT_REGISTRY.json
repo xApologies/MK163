@@ -1,0 +1,283 @@
+{
+  "schema": "MK43_HAWKING_OBJECT_REGISTRY_V1",
+  "recovery_pass": "RP-52",
+  "entry_roots": [
+    "@black_hole",
+    "@event_horizon",
+    "@quantum_field_in_curved_spacetime"
+  ],
+  "objects": [
+    {
+      "model_handle": "@annihilation_operator",
+      "canonical_handle": "@annihilation_operator",
+      "identity_status": "CREATED",
+      "type": "operator",
+      "definition": "Operator annihilating a quantum of a selected positive-frequency mode.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@asymptotic_particle_flux",
+      "canonical_handle": "@asymptotic_particle_flux",
+      "identity_status": "CREATED",
+      "type": "observable flux",
+      "definition": "Outgoing particle or energy flux measured at future null infinity.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@black_hole",
+      "canonical_handle": "@black_hole",
+      "identity_status": "REUSED",
+      "type": "root mathematical object",
+      "definition": "Classical black-hole spacetime supplying the horizon geometry for the Hawking construction.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@black_hole_evaporation",
+      "canonical_handle": "@black_hole_evaporation",
+      "identity_status": "REUSED",
+      "type": "semiclassical evolution",
+      "definition": "Long-term mass loss driven by Hawking radiation.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@black_hole_mass_loss",
+      "canonical_handle": "@black_hole_mass_loss",
+      "identity_status": "CREATED",
+      "type": "backreaction consequence",
+      "definition": "Decrease of black-hole mass associated with positive outgoing energy flux.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@bogoliubov_coefficient_alpha",
+      "canonical_handle": "@bogoliubov_coefficient_alpha",
+      "identity_status": "CREATED",
+      "type": "linear transformation coefficient",
+      "definition": "Coefficient multiplying positive-frequency out modes in the expansion of in modes.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@bogoliubov_coefficient_beta",
+      "canonical_handle": "@bogoliubov_coefficient_beta",
+      "identity_status": "CREATED",
+      "type": "linear transformation coefficient",
+      "definition": "Coefficient multiplying complex-conjugate out modes and controlling particle creation.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@bogoliubov_transformation",
+      "canonical_handle": "@bogoliubov_transformation",
+      "identity_status": "REUSED",
+      "type": "canonical linear transformation",
+      "definition": "Transformation between inequivalent in and out mode decompositions preserving commutators.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@creation_operator",
+      "canonical_handle": "@creation_operator",
+      "identity_status": "CREATED",
+      "type": "operator",
+      "definition": "Operator creating a quantum of a selected positive-frequency mode.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@event_horizon",
+      "canonical_handle": "@event_horizon",
+      "identity_status": "REUSED",
+      "type": "null hypersurface",
+      "definition": "Boundary of the causal past of future null infinity in an asymptotically predictable black-hole spacetime.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@exponential_null_coordinate_relation",
+      "canonical_handle": "@exponential_null_coordinate_relation",
+      "identity_status": "CREATED",
+      "type": "asymptotic map",
+      "definition": "Exponential relation between affine null parameters across gravitational collapse.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@field_operator",
+      "canonical_handle": "@field_operator",
+      "identity_status": "REUSED",
+      "type": "operator-valued distribution",
+      "definition": "Quantized field expanded in a complete mode basis with creation and annihilation operators.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@greybody_factor",
+      "canonical_handle": "@greybody_factor",
+      "identity_status": "REUSED",
+      "type": "transmission probability",
+      "definition": "Frequency- and angular-momentum-dependent transmission coefficient through the exterior curvature potential.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@hawking_radiation",
+      "canonical_handle": "@hawking_radiation",
+      "identity_status": "REUSED",
+      "type": "outgoing quantum flux",
+      "definition": "Asymptotically thermal particle flux emitted by a black hole in the semiclassical approximation.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@hawking_temperature",
+      "canonical_handle": "@hawking_temperature",
+      "identity_status": "REUSED",
+      "type": "temperature",
+      "definition": "T_H = ħκ/(2π k_B c), with unit conventions adjusted as required.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@in_vacuum",
+      "canonical_handle": "@in_vacuum",
+      "identity_status": "CREATED",
+      "type": "asymptotic quantum state",
+      "definition": "Vacuum defined by positive-frequency incoming modes on past null infinity.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@klein_gordon_field",
+      "canonical_handle": "@klein_gordon_field",
+      "identity_status": "REUSED",
+      "type": "quantum field",
+      "definition": "Real scalar field satisfying the curved-spacetime Klein–Gordon equation.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@klein_gordon_inner_product",
+      "canonical_handle": "@klein_gordon_inner_product",
+      "identity_status": "CREATED",
+      "type": "conserved sesquilinear form",
+      "definition": "Hypersurface-independent inner product on the solution space.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@lorentzian_spacetime",
+      "canonical_handle": "@lorentzian_spacetime",
+      "identity_status": "CREATED",
+      "type": "geometric background",
+      "definition": "Time-oriented Lorentzian manifold (M,g) on which the quantum field is defined.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@mode_decomposition",
+      "canonical_handle": "@mode_decomposition",
+      "identity_status": "REUSED",
+      "type": "basis decomposition",
+      "definition": "Expansion of the field into positive- and negative-frequency mode sectors.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@mode_solution",
+      "canonical_handle": "@mode_solution",
+      "identity_status": "REUSED",
+      "type": "classical solution",
+      "definition": "Complex solution of the field equation normalized by the Klein–Gordon inner product.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@negative_frequency",
+      "canonical_handle": "@negative_frequency",
+      "identity_status": "REUSED",
+      "type": "complex-conjugate mode sector",
+      "definition": "Mode subspace conjugate to the positive-frequency sector.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@observer_dependent_particle",
+      "canonical_handle": "@observer_dependent_particle",
+      "identity_status": "REUSED",
+      "type": "representation-dependent excitation",
+      "definition": "Particle notion determined by the observer-dependent positive-frequency splitting.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@out_vacuum",
+      "canonical_handle": "@out_vacuum",
+      "identity_status": "CREATED",
+      "type": "asymptotic quantum state",
+      "definition": "Vacuum defined by positive-frequency outgoing modes on future null infinity.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@particle_creation",
+      "canonical_handle": "@particle_creation",
+      "identity_status": "REUSED",
+      "type": "semiclassical process",
+      "definition": "Nonzero outgoing particle expectation value induced by beta Bogoliubov mixing.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@particle_number_operator",
+      "canonical_handle": "@particle_number_operator",
+      "identity_status": "CREATED",
+      "type": "observable",
+      "definition": "Number operator for an outgoing mode.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@positive_frequency",
+      "canonical_handle": "@positive_frequency",
+      "identity_status": "REUSED",
+      "type": "complex-structure choice",
+      "definition": "Mode subspace selected as positive frequency relative to an asymptotic time translation.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@quantum_field_in_curved_spacetime",
+      "canonical_handle": "@quantum_field_in_curved_spacetime",
+      "identity_status": "REUSED",
+      "type": "semiclassical field domain",
+      "definition": "Quantum field algebra and state space constructed on a fixed classical curved spacetime.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@renormalized_stress_energy_tensor",
+      "canonical_handle": "@renormalized_stress_energy_tensor",
+      "identity_status": "REUSED",
+      "type": "renormalized observable",
+      "definition": "Finite state-dependent expectation value of the stress-energy tensor after a covariant renormalization prescription.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@semiclassical_einstein_equation",
+      "canonical_handle": "@semiclassical_einstein_equation",
+      "identity_status": "CREATED",
+      "type": "coupled field equation",
+      "definition": "Classical Einstein tensor sourced by the renormalized quantum expectation value of stress-energy.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@semiclassical_gravity",
+      "canonical_handle": "@semiclassical_gravity",
+      "identity_status": "REUSED",
+      "type": "approximation domain",
+      "definition": "Classical geometry coupled to quantum matter expectation values without quantizing the gravitational field.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@surface_gravity",
+      "canonical_handle": "@surface_gravity",
+      "identity_status": "REUSED",
+      "type": "horizon invariant",
+      "definition": "Parameter κ characterizing the acceleration normalization of a stationary Killing horizon.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@thermal_spectrum",
+      "canonical_handle": "@thermal_spectrum",
+      "identity_status": "CREATED",
+      "type": "occupation-number distribution",
+      "definition": "Planckian occupation spectrum determined by the horizon surface gravity.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "model_handle": "@vacuum_state",
+      "canonical_handle": "@vacuum_state",
+      "identity_status": "REUSED",
+      "type": "quantum state",
+      "definition": "State annihilated by all annihilation operators associated with a chosen mode decomposition.",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    }
+  ]
+}

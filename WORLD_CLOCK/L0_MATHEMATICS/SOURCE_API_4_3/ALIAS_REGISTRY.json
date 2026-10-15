@@ -1,0 +1,15 @@
+{
+  "schema": "MK43_ALIAS_REGISTRY_V1",
+  "aliases": {
+    "@lorentzian_spacetime": {
+      "canonical": "@lorentzian_manifold",
+      "provenance": "PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "recovery_pass": "RP-50"
+    },
+    "@marginally_outer_trapped_surface": {
+      "canonical": "@marginally_trapped_surface",
+      "provenance": "PENROSE_MINIMAL_MATHEMATICAL_CLOSURE",
+      "recovery_pass": "RP-50"
+    }
+  }
+}

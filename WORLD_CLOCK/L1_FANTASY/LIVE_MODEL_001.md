@@ -1,3 +1,5 @@
+> HISTORICAL INCOMPLETE CHECKPOINT — NOT CURRENT CANON. Live Model 001 was an outline-only export. Use WORLD_CLOCK/CURRENT_MODEL_INDEX.md and the detailed topic records. The protagonist is Kaira (K-A-I-R-A); the old Kira-as-canonical statement was an export error. See PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md. Original checkpoint text is preserved below for provenance.
+
 # L1 Fantasy — MK163 checkpoint 001
 
 **Full inheritance:** https://github.com/xApologies/AERA. This record captures workshop decisions, not the entire upstream corpus.

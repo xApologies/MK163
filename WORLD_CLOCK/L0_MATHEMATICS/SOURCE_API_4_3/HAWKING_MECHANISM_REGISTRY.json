@@ -1,0 +1,18 @@
+{
+  "schema": "MK43_HAWKING_MECHANISM_REGISTRY_V1",
+  "recovery_pass": "RP-52",
+  "mechanism": {
+    "handle": "@hawking_particle_creation_mechanism",
+    "type": "accepted semiclassical mechanism",
+    "assumptions": [
+      "A classical, globally specified black-hole spacetime formed by collapse.",
+      "A quantum matter field on that fixed curved background.",
+      "Well-defined asymptotic in and out mode decompositions.",
+      "Hadamard/physically admissible state conditions sufficient for renormalized observables.",
+      "Negligible backreaction during the particle-creation calculation."
+    ],
+    "statement": "The exponential relation between horizon-adapted and asymptotic null coordinates produces nonzero beta Bogoliubov coefficients. The in vacuum therefore contains outgoing out-particles with an asymptotically thermal spectrum at temperature T_H = ħκ/(2πk_B c), modified by greybody transmission factors.",
+    "conclusion": "@hawking_radiation"
+  },
+  "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+}

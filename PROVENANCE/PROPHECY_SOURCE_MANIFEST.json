@@ -1,0 +1,90 @@
+[
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/01_THE_SEVEN_REALMS.md",
+    "git_blob_sha": "36641348202b6c7f84edd0802525fbd55203e477",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+    "bytes": 17224,
+    "sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/02_THE_UNWRITTEN.md",
+    "git_blob_sha": "2a231b05a15f567a146499791562cad0cabe8da3",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+    "bytes": 10044,
+    "sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/03_BORROWED_HOURS.md",
+    "git_blob_sha": "e5c8dbd04f1c72e513cc3b6d5ddbf87823f50550",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+    "bytes": 15930,
+    "sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/04_THE_THOUSAND_THREADS.md",
+    "git_blob_sha": "ecdab31b02e404ac1e26dfc17627fbb12e199f26",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+    "bytes": 14948,
+    "sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/05_THE_COVENANT_GARDEN.md",
+    "git_blob_sha": "d7ee08da5c83e82ea525de53d15c45dd95f26174",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+    "bytes": 12442,
+    "sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/06_THE_LIVING_ART.md",
+    "git_blob_sha": "ff58e83a9d7621975274b8105e63bc0174d496df",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+    "bytes": 13377,
+    "sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/07_THE_CARTOGRAPHERS.md",
+    "git_blob_sha": "74409db1d5ea44dffca318c7805771249cc06c19",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+    "bytes": 10514,
+    "sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  },
+  {
+    "repository": "xApologies/AERA",
+    "commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+    "source_path": "prophecies/08_THE_BLACK_PROPHECY.md",
+    "git_blob_sha": "9e0b407d37d8952fc69c6b297fc9053a74b6c0f0",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+    "bytes": 17514,
+    "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+    "preservation": "EXACT_UPSTREAM_BYTES",
+    "status": "AERA literary draft; source status retained; no new MK163 scene inferred"
+  }
+]

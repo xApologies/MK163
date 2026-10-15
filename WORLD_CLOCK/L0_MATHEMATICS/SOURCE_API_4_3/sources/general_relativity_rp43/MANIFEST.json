@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "name": "MK43_GR_DEPENDENCY_GRAPH.json",
+      "bytes": 220228,
+      "sha256": "09137fc8f5b18bbcfd60aab715100e6d856578842a54eee9e6ebf401045fe1e4"
+    },
+    {
+      "name": "MK43_GR_MATHEMATICAL_MODEL.md",
+      "bytes": 43645,
+      "sha256": "2015f1dd2978202a518e29e0d7e3da71ae7ec74488dc125dec8631b9295ee9ac"
+    },
+    {
+      "name": "VALIDATION_REPORT.md",
+      "bytes": 321,
+      "sha256": "1df0b3846e596b971d9134c79695e94c3c14f6d2aea47a3b066445d721731408"
+    }
+  ],
+  "metrics": {
+    "node_count": 340,
+    "edge_count": 705,
+    "equation_count": 52,
+    "family_count": 19,
+    "missing_edge_endpoints": 0,
+    "duplicate_edges_removed": 5,
+    "unresolved_research_frontiers": [
+      "full nonlinear stability of generic Kerr in complete generality",
+      "strong cosmic censorship in all matter/cosmological regimes",
+      "weak cosmic censorship in full generality",
+      "complete quantum-gravity resolution of evaporation",
+      "final resolution of the black-hole information problem",
+      "derivation of MK43 native-to-readable projection from accepted GR alone"
+    ],
+    "augmentation": "Family anchors and cross-family closure edges added.",
+    "weak_component_count": 1,
+    "root_component_size": 340
+  }
+}

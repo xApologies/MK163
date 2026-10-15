@@ -1,0 +1,43 @@
+{
+  "schema": "MK43_SINGULARITY_MODE_ROUTING_V1",
+  "canonical_interface": "@singularity",
+  "modes": {
+    "0": {
+      "name": "MK43 Native Singularity Representation",
+      "representation_handle": "@white_state_core",
+      "preferred_origins": [
+        "@time_space",
+        "@time_shell_projection",
+        "@white_state_core"
+      ],
+      "required_pivot": "@white_state_core",
+      "terminal_relation": "MODE_0_REPRESENTATION_OF"
+    },
+    "1": {
+      "name": "General Relativity Singularity Representation",
+      "representation_handle": "@geodesic_incompleteness",
+      "preferred_origins": [
+        "@general_relativity",
+        "@lorentzian_spacetime",
+        "@penrose_singularity_theorem"
+      ],
+      "required_pivot": "@geodesic_incompleteness",
+      "terminal_relation": "MODE_1_REPRESENTATION_OF"
+    }
+  },
+  "routing_rules": [
+    {
+      "origin_family": "MK43_NATIVE",
+      "target": "@singularity",
+      "prefer_mode": 0,
+      "must_include": "@white_state_core"
+    },
+    {
+      "origin_family": "GENERAL_RELATIVITY",
+      "target": "@singularity",
+      "prefer_mode": 1,
+      "must_include": "@geodesic_incompleteness"
+    }
+  ],
+  "preservation_rule": "Distinct representations remain distinct; no branch replaces another."
+}

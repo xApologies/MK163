@@ -1,0 +1,83 @@
+{
+  "project": "MK163",
+  "delivery": "MK163_LIVE_MODEL_003",
+  "observed_mk163_base": "4d8166aedfa69128075292fb10a06f9c97a3aa1e",
+  "upstream_sources": [
+    {
+      "id": "AERA",
+      "repository": "xApologies/AERA",
+      "url": "https://github.com/xApologies/AERA",
+      "reviewed_commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+      "authority": "Full governing framework inheritance; topic records preserve MK163 author selections and amendments",
+      "layers": [
+        "L0",
+        "L1",
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "local_scope": "Detailed workshop-topic records; eight exact prophecy manuscripts; other original source text retained when supplied"
+    },
+    {
+      "id": "BRICKED",
+      "repository": "xApologies/_bricked",
+      "url": "https://github.com/xApologies/_bricked",
+      "reviewed_commit": null,
+      "authority": "Genesis mathematics, language, resolution, bandwidth, chirality; not game plot",
+      "layers": [
+        "L0"
+      ],
+      "local_scope": "Inherited reference; actual uploaded MKUltra/API4.3 corpus is preserved, not a claim of all _bricked gigabytes"
+    },
+    {
+      "id": "MK147",
+      "repository": "xApologies/Mk-147",
+      "url": "https://github.com/xApologies/Mk-147",
+      "reviewed_commit": null,
+      "authority": "World/civilization/systems; no automatic old story/cast inheritance",
+      "layers": [
+        "L1",
+        "L2"
+      ],
+      "local_scope": "Source-informed topic records, original supplied masters and images"
+    },
+    {
+      "id": "MK727",
+      "repository": "xApologies/MK727",
+      "url": "https://github.com/xApologies/MK727",
+      "reviewed_commit": null,
+      "authority": "Operational Genesis Card mechanics only",
+      "layers": [
+        "L1",
+        "L2"
+      ],
+      "local_scope": "AERA interface inheritance and workshop details; not old economy/cast/BlackCardstory"
+    },
+    {
+      "id": "MK157",
+      "repository": "xApologies/MK157",
+      "url": "https://github.com/xApologies/MK157",
+      "reviewed_commit": null,
+      "authority": "Kaira pre/post-transformation biological reference only",
+      "layers": [
+        "L2",
+        "L3"
+      ],
+      "local_scope": "Scoped biological comparison; no Valnak/offering/armor/oldcast import"
+    },
+    {
+      "id": "RAEON",
+      "repository": "xApologies/_raeon",
+      "url": "https://github.com/xApologies/_raeon",
+      "reviewed_commit": null,
+      "authority": "Independent game rules and card definitions",
+      "layers": [
+        "L2"
+      ],
+      "local_scope": "Cultural game identity; full current card counts/rules not newly verified"
+    }
+  ],
+  "attached_sources_manifest": "PROVENANCE/SOURCE_DOCUMENTS/ATTACHMENT_MANIFEST.json",
+  "prophecy_sources_manifest": "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
+  "author_evidence": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl"
+}

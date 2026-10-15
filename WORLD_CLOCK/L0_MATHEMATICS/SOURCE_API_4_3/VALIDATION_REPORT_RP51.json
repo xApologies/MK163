@@ -1,0 +1,35 @@
+{
+  "schema": "MK43_RP51_BLACK_HOLE_DEPENDENCY_AUDIT",
+  "status": "PASS",
+  "root": "@black_hole",
+  "runtime_archive_sha256": "ec7493b38311a3537e963abd14f990d5f3752e0acdd094c6033c9f54d95183fc",
+  "source_api_sha256": "56443c1d7a995a641b4b1c2e28091daf1e3f81ef93399b5cebdc1904bbb588d2",
+  "forward_reachable_nodes": 356,
+  "reverse_reachable_nodes": 429,
+  "union_landscape_nodes": 452,
+  "new_edges": 53114,
+  "new_edges_by_relation": {
+    "BLACK_HOLE_MODEL_REACHES": 355,
+    "COMPOSED_DEPENDENCY": 47076,
+    "DEPENDS_ON": 5177,
+    "FEEDS_BLACK_HOLE_MODEL": 428,
+    "SUPPORTS": 78
+  },
+  "fixed_point_round_counts": [
+    19747,
+    15536,
+    16117,
+    929,
+    2,
+    0
+  ],
+  "total_handles": 2370,
+  "total_edge_records": 74077,
+  "unique_typed_edges": 74077,
+  "mode_0_preserved": true,
+  "mode_1_preserved": true,
+  "missing_edge_endpoints": 0,
+  "canonical_bytes": 2030181,
+  "canonical_lines": 63010,
+  "canonical_sha256": "13588f5c60bfb9513e969f9133aad402b95d8e3f8f9971b4adcb5e8cfafe5b39"
+}

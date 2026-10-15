@@ -1,0 +1,110 @@
+{
+  "schema": "MK43_RP47_VALIDATION",
+  "status": "PASS",
+  "crawl_root": "@general_relativity",
+  "initial_landscape_size": 673,
+  "fixed_point_rounds": 6,
+  "round_summaries": [
+    {
+      "round": 1,
+      "edges_added": 571,
+      "rules": {
+        "SUPPORTS+SUPPORTS=>SUPPORTS": 506,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 23,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 11,
+        "CONNECTS_TO+CONNECTS_TO=>CONNECTS_TO": 10,
+        "ONTOLOGICALLY_DEPENDS_ON+ONTOLOGICALLY_DEPENDS_ON=>ONTOLOGICAL_CLOSURE": 5,
+        "CONSTRAINS+CONSTRAINS=>CONSTRAINS": 2,
+        "INTERFACES_WITH+INTERFACES_WITH=>INTERFACES_WITH": 2,
+        "REALIZES+PROJECTS_TO=>PROJECTS_TO": 2,
+        "SPECIALIZES+SPECIALIZES=>SPECIALIZES": 2,
+        "GENERALIZES+GENERALIZES=>GENERALIZES": 2,
+        "SPECIALIZES+REALIZES=>REALIZES": 2,
+        "DETERMINES+DETERMINES=>DETERMINES": 1,
+        "PROJECTS_TO+REALIZES=>PROJECTS_TO": 1,
+        "GENERATES+GENERATES=>GENERATES": 1,
+        "REALIZES+SPECIALIZES=>REALIZES": 1
+      }
+    },
+    {
+      "round": 2,
+      "edges_added": 1582,
+      "rules": {
+        "SUPPORTS+SUPPORTS=>SUPPORTS": 1318,
+        "FAMILY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 96,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 92,
+        "DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 50,
+        "DEPENDS_ON+FORMALLY_DEPENDS_ON=>COMPOSED_DEPENDENCY": 9,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 8,
+        "CONNECTS_TO+CONNECTS_TO=>CONNECTS_TO": 4,
+        "FORMALLY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 1,
+        "REALIZES+PROJECTS_TO=>PROJECTS_TO": 1,
+        "GENERALIZES+GENERALIZES=>GENERALIZES": 1,
+        "REALIZES+SPECIALIZES=>REALIZES": 1,
+        "SPECIALIZES+SPECIALIZES=>SPECIALIZES": 1
+      }
+    },
+    {
+      "round": 3,
+      "edges_added": 2658,
+      "rules": {
+        "SUPPORTS+SUPPORTS=>SUPPORTS": 2330,
+        "FAMILY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 187,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 76,
+        "DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 57,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 7,
+        "DEPENDS_ON+FAMILY_DEPENDS_ON=>COMPOSED_DEPENDENCY": 1
+      }
+    },
+    {
+      "round": 4,
+      "edges_added": 1281,
+      "rules": {
+        "SUPPORTS+SUPPORTS=>SUPPORTS": 914,
+        "FAMILY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 230,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 65,
+        "DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 51,
+        "DEPENDS_ON+FORMALLY_DEPENDS_ON=>COMPOSED_DEPENDENCY": 8,
+        "DEPENDS_ON+FAMILY_DEPENDS_ON=>COMPOSED_DEPENDENCY": 8,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 4,
+        "FORMALLY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 1
+      }
+    },
+    {
+      "round": 5,
+      "edges_added": 483,
+      "rules": {
+        "FAMILY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 384,
+        "DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 56,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 34,
+        "FORMALLY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 5,
+        "SUPPORTS+SUPPORTS=>SUPPORTS": 2,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 2
+      }
+    },
+    {
+      "round": 6,
+      "edges_added": 300,
+      "rules": {
+        "FAMILY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 231,
+        "DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 29,
+        "DEPENDS_ON+FORMALLY_DEPENDS_ON=>COMPOSED_DEPENDENCY": 23,
+        "DEPENDS_ON+GOVERNS=>DEPENDS_ON": 12,
+        "FORMALLY_DEPENDS_ON+DEPENDS_ON=>COMPOSED_DEPENDENCY": 3,
+        "GOVERNS+DEPENDS_ON=>GOVERNS": 2
+      }
+    }
+  ],
+  "new_edges": 6875,
+  "total_edge_records": 17985,
+  "unique_typed_edges": 17985,
+  "downstream_reachable_from_general_relativity": 605,
+  "upstream_reachable_into_general_relativity": 596,
+  "largest_component_size": 673,
+  "weak_components": 1658,
+  "orphan_handles": 1642,
+  "missing_edge_endpoints": 0,
+  "canonical_bytes": 2024901,
+  "canonical_lines": 62812,
+  "canonical_sha256": "769d3f03ce8ce58389587602eb264e078eff10f8d2f2170109fdc7de0ec96a75"
+}

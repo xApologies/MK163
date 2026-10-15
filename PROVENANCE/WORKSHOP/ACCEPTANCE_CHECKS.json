@@ -1,0 +1,132 @@
+[
+  {
+    "id": "canonical_name",
+    "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "required_case_insensitive_fragments": [
+      "K-A-I-R-A",
+      "23 local years",
+      "Black Prophecy"
+    ]
+  },
+  {
+    "id": "lifecycle",
+    "path": "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+    "required_case_insensitive_fragments": [
+      "Conceive",
+      "Shape",
+      "Hold",
+      "Resolve",
+      "Manifest",
+      "Release"
+    ]
+  },
+  {
+    "id": "binding",
+    "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+    "required_case_insensitive_fragments": [
+      "Continuous Spatial Resolution",
+      "60%",
+      "efficiency",
+      "bandwidth"
+    ]
+  },
+  {
+    "id": "aen",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "required_case_insensitive_fragments": [
+      "dot",
+      "arc",
+      "ring",
+      "band"
+    ]
+  },
+  {
+    "id": "cards",
+    "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+    "required_case_insensitive_fragments": [
+      "through the card",
+      "six",
+      "fatigue"
+    ]
+  },
+  {
+    "id": "realms",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+    "required_case_insensitive_fragments": [
+      "Dragons",
+      "Vaelith",
+      "Primordials",
+      "Sprites",
+      "Leviathans",
+      "Unicorns",
+      "White"
+    ]
+  },
+  {
+    "id": "mines",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+    "required_case_insensitive_fragments": [
+      "equilibrium",
+      "oscillation",
+      "harvest"
+    ]
+  },
+  {
+    "id": "dungeons",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+    "required_case_insensitive_fragments": [
+      "contiguous",
+      "strata",
+      "eleven"
+    ]
+  },
+  {
+    "id": "gateways",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+    "required_case_insensitive_fragments": [
+      "three",
+      "six",
+      "twelve",
+      "plaza"
+    ]
+  },
+  {
+    "id": "tournament",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+    "required_case_insensitive_fragments": [
+      "four years",
+      "28 finalists",
+      "42 points",
+      "White",
+      "Green"
+    ]
+  },
+  {
+    "id": "ring",
+    "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+    "required_case_insensitive_fragments": [
+      "fourth",
+      "Green",
+      "end of Book Red",
+      "Orange"
+    ]
+  },
+  {
+    "id": "prophecies",
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "required_case_insensitive_fragments": [
+      "Kaira specifically",
+      "eight",
+      "not an eighth realm"
+    ]
+  },
+  {
+    "id": "no_new_classes",
+    "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+    "required_case_insensitive_fragments": [
+      "rejected",
+      "Warden",
+      "Cartographer"
+    ]
+  }
+]

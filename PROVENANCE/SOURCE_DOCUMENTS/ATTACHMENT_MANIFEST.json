@@ -1,0 +1,297 @@
+[
+  {
+    "id": "WORLD_MAP",
+    "original_filename": "C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+    "bytes": 641330,
+    "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+    "scope": "World map; visual geography reference, not automatic numerical authority.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "STARTING_REGION_MAP",
+    "original_filename": "852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+    "bytes": 3228494,
+    "sha256": "40bf7fb15eb8683b0105c0d3687e38ca48af10a344b4f372b0ddd1e23087e959",
+    "scope": "Village-hub region, 20-mile-radius reference; Hollowmere northwest at dungeon.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "KINGS_HIGHWAY_APPROVED_PLAN",
+    "original_filename": "IMG_6988.jpeg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+    "bytes": 316696,
+    "sha256": "67e2e532ca01baa05bf0cbea9153f41d8cabf36140bd5ea3f0a02ac3467fbee5",
+    "scope": "Accepted top-down plaza geometry. Triangle is construction guide, not physical boundary.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "KINGS_HIGHWAY_AUTHOR_SKETCH",
+    "original_filename": "IMG_6987.png",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png",
+    "bytes": 455819,
+    "sha256": "57783d51fb6f9d525ad0bbfac6d2587b737ea73a51656caa7e9a03441e4cf605",
+    "scope": "Author orientation correction: Blue horizontal, Orange \\, Green /, central park.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "LOCAL_WORKSPACE_REFERENCE",
+    "original_filename": "IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+    "bytes": 256636,
+    "sha256": "9000c65f3f5cb220ba04f80bf86e937135fa7debf11b3849e3eb32e3169e6760",
+    "scope": "Local Windows folder and _inbox workflow; procedural reference, not fiction.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "ORTHOGONAL_SIGIL",
+    "original_filename": "IMG_0530.jpg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+    "bytes": 67292,
+    "sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5",
+    "scope": "Orthogonal pixel-like rune/sigil design reference.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "BINDING_CIRCLE_SKETCH",
+    "original_filename": "IMG_5485.jpg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+    "bytes": 145723,
+    "sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+    "scope": "Author resource-anchor/target/pathway diagram; colors/layout illustrative.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "GENESIS_FLORA_01",
+    "original_filename": "IMG_6900.jpeg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+    "bytes": 465467,
+    "sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+    "scope": "Luminous Genesis-expressing flora reference; not fixed species.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "GENESIS_FLORA_02",
+    "original_filename": "IMG_6901.jpeg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg",
+    "bytes": 283793,
+    "sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+    "scope": "Luminous Genesis-expressing flora reference; not fixed species.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "ELN_BANKNOTES",
+    "original_filename": "ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+    "bytes": 3988477,
+    "sha256": "f02926937db6764dae981e449d9e20d5639aec97b9b9d96359ab54343f5cdcee",
+    "scope": "Banknote visual denominations; labels do not determine exchange rates.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "AHM_COINS",
+    "original_filename": "2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+    "bytes": 2499583,
+    "sha256": "901785a6f3f79f0ee0a9bfb8abae1466603199f4a36e4427a73bb3592f3fd027",
+    "scope": "Metal-diamond phase-grown currency reference; not diamond-chip storage ladder.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "DIAMOND_DENSITY_LADDER",
+    "original_filename": "Density Ladder.png",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+    "bytes": 92080,
+    "sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca",
+    "scope": "Author-supplied 13/11/7/5/3/2 successive chip-equivalence reference.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "BLACKSTONE_CAMPUS",
+    "original_filename": "Untitled_Artwork.jpg",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+    "bytes": 4335392,
+    "sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8",
+    "scope": "Blackstone visual/reference plan; artwork not automatic story chronology.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CHAINMAIL_ROBE",
+    "original_filename": "8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+    "bytes": 2648963,
+    "sha256": "87b1e6785fbf51918b4ec9d56633dfda77fbc79aa29f984c512a2e1ab3469357",
+    "scope": "Accepted general garment; lower hem too flowing; author corrections control.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_01",
+    "original_filename": "C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+    "bytes": 3272254,
+    "sha256": "1b6cadb8c2df2736e8552b53c83e0b564504b2104e9b5304368ea25f388d0a49",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_02",
+    "original_filename": "127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+    "bytes": 3222892,
+    "sha256": "ce36cd1f078014236d220d793f3fb6c6efd4051e3d1220dfc8332e216cd83350",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_03",
+    "original_filename": "D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+    "bytes": 2364035,
+    "sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_04",
+    "original_filename": "D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+    "bytes": 3409654,
+    "sha256": "7a3ace25889bae08bfad0dce3329ef4216787b0f76a0324b8efffb2cd3d088b6",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_05",
+    "original_filename": "1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+    "bytes": 3196647,
+    "sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_06",
+    "original_filename": "4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+    "bytes": 3308190,
+    "sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_07",
+    "original_filename": "2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+    "bytes": 3791758,
+    "sha256": "33a22ad7a8a5d121f9ac58a92211340804d3d936e2347cf52a99a8033cf5ff5b",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "CITY_ARCHITECTURE_08",
+    "original_filename": "177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+    "bytes": 3372378,
+    "sha256": "74a2d75d904fb4b1c9f37e05657f5b1dd4671a9f829f8b432daf94c67c286d3c",
+    "scope": "Architectural aesthetic: orthogonal stone, greenery, water, maintained prosperity; not a mandatory measured map.",
+    "preservation": "ORIGINAL_BYTES"
+  },
+  {
+    "id": "DIAMOND_MASTER",
+    "original_filename": "MASTER.pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+    "bytes": 92298,
+    "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+    "scope": "Seven-page Genesis Diamond source; active device rules with workshop amendments.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIAMOND_MASTER.txt",
+    "pages": 7
+  },
+  {
+    "id": "TOURNAMENT_MASTER",
+    "original_filename": "MASTER(1).pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+    "bytes": 93053,
+    "sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+    "scope": "Seven-page original MK147 tournament master; old six-place rules and story itinerary are source history, not current MK163.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/TOURNAMENT_MASTER.txt",
+    "pages": 7
+  },
+  {
+    "id": "DIMENSIONAL_RING_MASTER",
+    "original_filename": "Dimensional Ring.pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+    "bytes": 98946,
+    "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+    "scope": "Twenty-page source device master; preserve mechanism, apply bracelet and MK163 narrative amendments.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIMENSIONAL_RING_MASTER.txt",
+    "pages": 20
+  },
+  {
+    "id": "BANDITS_MASTER",
+    "original_filename": "43 Bandits(1).pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+    "bytes": 37089,
+    "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+    "scope": "Genesis Point source; organization inherited, Sanctuary/cube machinery not automatically adopted.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/BANDITS_MASTER.txt",
+    "pages": 4
+  },
+  {
+    "id": "CARTELS_MASTER",
+    "original_filename": "44 Cartels(1).pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+    "bytes": 40236,
+    "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+    "scope": "Genesis Point source; regional criminal economy inherited; old starting-region demographics not adopted.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CARTELS_MASTER.txt",
+    "pages": 5
+  },
+  {
+    "id": "CABAL_MASTER",
+    "original_filename": "45 Cabal of Ash and Crown(1).pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+    "bytes": 29230,
+    "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+    "scope": "Genesis Point source; institutional/world-domination identity inherited, exceptional magic and old events not automatically adopted.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CABAL_MASTER.txt",
+    "pages": 3
+  },
+  {
+    "id": "PIRATES_MASTER",
+    "original_filename": "46 Evil Organizations(1).pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+    "bytes": 83251,
+    "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+    "scope": "Genesis Point pirates source; trafficking/logistics inherited; old planetary numbers/floating-hub implementation require scoped treatment.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/PIRATES_MASTER.txt",
+    "pages": 4
+  },
+  {
+    "id": "MK_ULTRA_TOME",
+    "original_filename": "MK Ultra.pdf",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+    "bytes": 67402112,
+    "sha256": "cca59f71a28079fb6fc511df7b811a88b7e3fde97d84bc1f299c3f4b86b12e8d",
+    "scope": "Original 987-page, 18-volume mathematical-physics source, not a claim of independent proof or imported narrative.",
+    "preservation": "ORIGINAL_BYTES",
+    "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK_ULTRA_TOME.txt",
+    "pages": 987
+  },
+  {
+    "id": "API_4_3_ORIGINAL",
+    "original_filename": "4.3.zip",
+    "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+    "bytes": 7630835,
+    "sha256": "0010a4de99d78748ede57670b3bca1df6185b7ba8dd0faf266cc3ba1a4ccf752",
+    "scope": "Original companion archive; all 63 entries preserved byte-for-byte, including the large dependency index.",
+    "preservation": "ORIGINAL_BYTES"
+  }
+]

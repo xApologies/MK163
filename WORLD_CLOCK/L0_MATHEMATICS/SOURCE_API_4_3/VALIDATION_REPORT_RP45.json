@@ -1,0 +1,19 @@
+{
+  "schema": "MK43_RP45_VALIDATION",
+  "status": "PASS",
+  "crawl_root": "@general_relativity",
+  "new_edges": 118,
+  "total_edge_records": 2104,
+  "unique_typed_edges": 2104,
+  "downstream_reachable_from_general_relativity": 373,
+  "upstream_reachable_into_general_relativity": 559,
+  "general_relativity_reaches_black_hole": true,
+  "black_hole_reaches_general_relativity": true,
+  "largest_component_size": 673,
+  "weak_components": 1658,
+  "orphan_handles": 1642,
+  "missing_edge_endpoints": 0,
+  "canonical_bytes": 2022773,
+  "canonical_lines": 62729,
+  "canonical_sha256": "27d91c7ab6c12e35d78d1ac93cd5224a13d20cfbb09ceff59b9b681e6a4092d9"
+}

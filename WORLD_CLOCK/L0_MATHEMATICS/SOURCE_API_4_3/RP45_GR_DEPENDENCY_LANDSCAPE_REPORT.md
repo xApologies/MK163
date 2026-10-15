@@ -1,0 +1,140 @@
+# RP-45 — General Relativity Dependency Landscape Densification
+
+- schema: `MK43_RP45_VALIDATION`
+- status: `PASS`
+- crawl_root: `@general_relativity`
+- new_edges: `118`
+- total_edge_records: `2104`
+- unique_typed_edges: `2104`
+- downstream_reachable_from_general_relativity: `373`
+- upstream_reachable_into_general_relativity: `559`
+- general_relativity_reaches_black_hole: `True`
+- black_hole_reaches_general_relativity: `True`
+- largest_component_size: `673`
+- weak_components: `1658`
+- orphan_handles: `1642`
+- missing_edge_endpoints: `0`
+- canonical_bytes: `2022773`
+- canonical_lines: `62729`
+- canonical_sha256: `27d91c7ab6c12e35d78d1ac93cd5224a13d20cfbb09ceff59b9b681e6a4092d9`
+
+## New edge network
+
+- `@general_relativity` —`DEPENDS_ON`→ `@differential_geometry`
+- `@general_relativity` —`DEPENDS_ON`→ `@einstein_field_equation`
+- `@general_relativity` —`CONTAINS_BRANCH`→ `@initial_data_set`
+- `@general_relativity` —`CONTAINS_BRANCH`→ `@black_hole`
+- `@general_relativity` —`CONTAINS_BRANCH`→ `@gravitational_wave`
+- `@general_relativity` —`CONTAINS_BRANCH`→ `@cosmology`
+- `@general_relativity` —`LIMITS_TO`→ `@newtonian_gravity`
+- `@general_relativity` —`EXTENDS_TO`→ `@semiclassical_gravity`
+- `@general_relativity` —`INTERFACES_WITH`→ `@quantum_field_in_curved_spacetime`
+- `@general_relativity` —`INTERFACES_WITH`→ `@information_geometry`
+- `@general_relativity` —`OBSERVED_THROUGH`→ `@LIGO_observation`
+- `@general_relativity` —`OBSERVED_THROUGH`→ `@event_horizon_telescope`
+- `@graviton` —`PROJECTS_TO`→ `@readable_graviton_projection`
+- `@readable_graviton_projection` —`REALIZES`→ `@metric_perturbation`
+- `@metric_perturbation` —`PERTURBS`→ `@metric_tensor`
+- `@metric_tensor` —`DETERMINES`→ `@levi_civita_connection`
+- `@levi_civita_connection` —`GENERATES`→ `@riemann_tensor`
+- `@riemann_tensor` —`CONTRACTS_TO`→ `@ricci_tensor`
+- `@ricci_tensor` —`TRACES_TO`→ `@ricci_scalar`
+- `@ricci_tensor` —`COMPOSES_WITH`→ `@ricci_scalar`
+- `@einstein_field_equation` —`REALIZES`→ `@gravity`
+- `@gravity` —`RESTRUCTURES`→ `@geodesic`
+- `@gravity` —`RESTRUCTURES`→ `@causal_structure`
+- `@time_shell_projection` —`MAPS_TO`→ `@readable_space_time`
+- `@readable_space_time` —`SUPPORTS`→ `@general_relativity`
+- `@smooth_manifold` —`DEPENDS_ON`→ `@topology_constraints`
+- `@lorentzian_manifold` —`SPECIALIZES`→ `@smooth_manifold`
+- `@spacetime` —`SPECIALIZES`→ `@lorentzian_manifold`
+- `@persistent_recursive_topology` —`PROJECTS_TO`→ `@smooth_manifold`
+- `@genesis_topology` —`SUPPORTS`→ `@persistent_recursive_topology`
+- `@topology_induction` —`GENERATES`→ `@localized_persistent_topology`
+- `@localized_persistent_topology` —`REALIZES`→ `@spacetime`
+- `@geometry` —`CONTAINS`→ `@differential_geometry`
+- `@differential_geometry` —`SUPPORTS`→ `@general_relativity`
+- `@classical_geometry_from_er_foam` —`REALIZES`→ `@differential_geometry`
+- `@er_contribution_to_geometry` —`CONTRIBUTES_TO`→ `@metric_tensor`
+- `@effective_contribution_to_geometry` —`CONTRIBUTES_TO`→ `@einstein_tensor`
+- `@light_cone` —`DETERMINES`→ `@causal_structure`
+- `@causal_structure` —`CONSTRAINS`→ `@information_flow`
+- `@causal_structure` —`CONSTRAINS`→ `@observer_relative_locality`
+- `@observer_relative_locality` —`DEPENDS_ON`→ `@causal_structure`
+- `@observer_dependent_particle` —`DEPENDS_ON`→ `@observer_relative_locality`
+- `@observer_dependent_particle` —`ARISES_IN`→ `@quantum_field_in_curved_spacetime`
+- `@proper_time` —`MEASURED_BY`→ `@observer_frames_and_chromatic_energy_strata`
+- `@redshift` —`DEPENDS_ON`→ `@proper_time`
+- `@event_horizon` —`CONSTRAINS`→ `@information_flow`
+- `@event_horizon` —`CONSTRAINS`→ `@observer_relative_locality`
+- `@conscious_experience` —`DEPENDS_ON`→ `@observer_relative_locality`
+- `@consciousness` —`DEPENDS_ON`→ `@conscious_experience`
+- `@matter_action` —`GENERATES`→ `@stress_energy_tensor`
+- `@matter_coupling` —`REALIZES`→ `@gravity_matter_closure`
+- `@gravity_matter_closure` —`DEPENDS_ON`→ `@einstein_field_equation`
+- `@continuity_conservation` —`CORRESPONDS_TO`→ `@local_energy_momentum_conservation`
+- `@general_energy` —`PROJECTS_TO`→ `@stress_energy_tensor`
+- `@native_unit_of_energy` —`REALIZES`→ `@unit_of_energy`
+- `@energy_density` —`ENTERS`→ `@stress_energy_tensor`
+- `@phase_stress_energy` —`PROJECTS_TO`→ `@projected_stress_energy_sector`
+- `@projected_stress_energy_sector` —`CONTRIBUTES_TO`→ `@stress_energy_tensor`
+- `@chromatic_stress_energy` —`CONTRIBUTES_TO`→ `@stress_energy_tensor`
+- `@gravitational_wave` —`CARRIES`→ `@gravitational_wave_energy_flux`
+- `@gravitational_wave_energy_flux` —`CONTRIBUTES_TO`→ `@bondi_mass_loss`
+- `@black_hole` —`BOUNDED_BY`→ `@event_horizon`
+- `@event_horizon` —`HAS`→ `@horizon_area`
+- `@event_horizon` —`HAS`→ `@surface_gravity`
+- `@event_horizon` —`REALIZES`→ `@black_hole_horizon`
+- `@trapped_surface` —`IMPLIES_BRANCH`→ `@penrose_singularity_theorem`
+- `@raychaudhuri_equation` —`SUPPORTS`→ `@focusing_theorem`
+- `@focusing_theorem` —`SUPPORTS`→ `@penrose_singularity_theorem`
+- `@penrose_singularity_theorem` —`CONCLUDES`→ `@geodesic_incompleteness`
+- `@geodesic_incompleteness` —`REPRESENTS`→ `@singularity`
+- `@schwarzschild_geometry` —`REALIZES`→ `@black_hole`
+- `@reissner_nordstrom_geometry` —`REALIZES`→ `@black_hole`
+- `@kerr_newman_geometry` —`REALIZES`→ `@black_hole`
+- `@ringdown` —`OBSERVED_AS`→ `@ringdown_observable`
+- `@quantum_field_in_curved_spacetime` —`DEPENDS_ON`→ `@causal_structure`
+- `@quantum_field_in_curved_spacetime` —`CONTAINS`→ `@mode_decomposition`
+- `@mode_decomposition` —`DEFINES`→ `@positive_frequency`
+- `@positive_frequency` —`DEFINES`→ `@vacuum_state`
+- `@bogoliubov_transformation` —`RELATES`→ `@vacuum_state`
+- `@black_hole_information_problem` —`CONSTRAINS`→ `@unitarity`
+- `@black_hole_information_problem` —`CONNECTS_TO`→ `@conservation_of_information`
+- `@entanglement_entropy` —`CONTRIBUTES_TO`→ `@generalized_entropy`
+- `@island_formula` —`RECOVERS`→ `@page_curve`
+- `@quantum_extremal_surface` —`DEFINES`→ `@island_formula`
+- `@information_recovery` —`RESOLVES_BRANCH`→ `@black_hole_information_problem`
+- `@quantum_information_geometry_in_mk_43_ultra` —`CONNECTS_TO`→ `@black_hole_information_problem`
+- `@mutual_information_and_er_weights` —`CONNECTS_TO`→ `@entanglement_entropy`
+- `@linear_metric_perturbation` —`SPECIALIZES`→ `@metric_perturbation`
+- `@linearized_einstein_tensor` —`DERIVES_FROM`→ `@einstein_tensor`
+- `@linearized_field_equation` —`DERIVES_FROM`→ `@einstein_field_equation`
+- `@vacuum_wave_equation` —`GOVERNS`→ `@gravitational_wave`
+- `@transverse_traceless_gauge` —`EXPOSES`→ `@spin_two_polarization`
+- `@spin_two_polarization` —`CORRESPONDS_TO`→ `@spin_2_projection`
+- `@spin_2_projection` —`REALIZES`→ `@graviton`
+- `@gravitational_wave` —`PROPAGATES_THROUGH`→ `@spacetime`
+- `@gravitational_wave` —`PERTURBS`→ `@geodesic_detector_response`
+- `@quadrupole_formula` —`PREDICTS`→ `@gravitational_wave`
+- `@binary_inspiral` —`GENERATES`→ `@gravitational_wave`
+- `@merger` —`GENERATES`→ `@ringdown`
+- `@regge_wheeler_equation` —`ADMITS`→ `@quasinormal_mode`
+- `@zerilli_equation` —`ADMITS`→ `@quasinormal_mode`
+- `@teukolsky_equation` —`ADMITS`→ `@quasinormal_mode`
+- `@gravitational_wave_echoes` —`DEPENDS_ON`→ `@ringdown`
+- `@phase_gravitational_wave_equations` —`CORRESPOND_TO`→ `@gravitational_wave`
+- `@gravitational_wave_propagation` —`REALIZES`→ `@gravitational_wave`
+- `@cosmology` —`DEPENDS_ON`→ `@general_relativity`
+- `@friedmann_lemaitre_robertson_walker_spacetime` —`SPECIALIZES`→ `@spacetime`
+- `@friedmann_equation` —`DERIVES_FROM`→ `@einstein_field_equation`
+- `@scale_factor` —`DEFINES`→ `@hubble_parameter`
+- `@continuity_equation_cosmology` —`SPECIALIZES`→ `@local_energy_momentum_conservation`
+- `@cosmological_horizon` —`SPECIALIZES`→ `@causal_boundary`
+- `@particle_horizon` —`DEPENDS_ON`→ `@causal_structure`
+- `@event_horizon_cosmology` —`DEPENDS_ON`→ `@causal_structure`
+- `@supermassive_black_hole` —`LOCATED_IN`→ `@galactic_nucleus`
+- `@black_hole_cosmology` —`CONNECTS`→ `@black_hole`
+- `@black_hole_cosmology` —`CONNECTS`→ `@cosmology`
+- `@cosmology_and_dark_energy` —`DEPENDS_ON`→ `@cosmological_constant`
+- `@dark_matter_geometry` —`CONTRIBUTES_TO`→ `@structure_formation`

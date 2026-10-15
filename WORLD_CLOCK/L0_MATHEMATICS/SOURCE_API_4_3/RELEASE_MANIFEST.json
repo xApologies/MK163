@@ -1,0 +1,28 @@
+{
+  "release": "2.0.0-genesis-infrastructure",
+  "source_lineage": "2.9-single-file-canonical",
+  "canonical_file": "MK43_Ultra_API_v2.0_GENESIS_CANONICAL.md",
+  "sha256": "8d0e82176f77fc6bb7a2684aabbf16aa5faf48ab0b5b2aa6e33707c13da8be32",
+  "bytes": 1453258,
+  "lines": 55859,
+  "source_documents": [
+    "Grammar(10).pdf",
+    "Rules(10).pdf",
+    "Structure(10).pdf",
+    "Rosetta(10).pdf",
+    "Root Family(10).pdf",
+    "Phonology(10).pdf"
+  ],
+  "validation": {
+    "RECOVERY PASS 29": true,
+    "MK43.genesis.parse": true,
+    "@genesis_compiler": true,
+    "Root-Family Type System": true,
+    "Architect Operator Rosetta": true,
+    "GenesisASTNode": true,
+    "@gravity_audit_12-ma[external-data]": true,
+    "SOURCE_LINEAGE: 2.9-single-file-canonical": true,
+    "Recovery Pass 28": true
+  },
+  "all_checks_passed": true
+}

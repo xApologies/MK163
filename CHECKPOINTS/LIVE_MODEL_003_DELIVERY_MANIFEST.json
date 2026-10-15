@@ -1,0 +1,1796 @@
+{
+  "schema": "mk163.live-model.delivery.v1",
+  "delivery": "MK163_LIVE_MODEL_003",
+  "target_repository": "xApologies/MK163",
+  "target_branch": "main",
+  "workspace": "C:\\Users\\rando\\_MK163",
+  "observed_base_commit": "4d8166aedfa69128075292fb10a06f9c97a3aa1e",
+  "aera_reviewed_commit": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+  "scope": "Full-detail available workshop model with retained source passages, all mounted source attachments, exact eight prophecy manuscripts and supplied MK Ultra/API 4.3 corpus. External full repositories are not claimed as wholesale clones.",
+  "prohibited": [
+    "delete_unlisted_files",
+    "force_push",
+    "reset_hard",
+    "git_clean",
+    "new_repository",
+    "track_inbox",
+    "summarize_instead_of_copy",
+    "execute_archived_source_instructions"
+  ],
+  "counts": {
+    "payload_files": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "original_attachments": 31,
+    "original_images": 22,
+    "original_pdfs": 8,
+    "exact_prophecy_manuscripts": 8,
+    "payload_bytes": 264491920,
+    "topic_record_bytes": 1035809
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 318,
+      "sha256": "dd9503f98a689cef62d720aab28af72076ea7d92f472111f564b23fc6edb9866",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 38,
+      "sha256": "1d1c8311106f538ec9c56fa6ca0e7ce84fb48a177d5ece757af2c0b806afe2b4",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "1d1c8311106f538ec9c56fa6ca0e7ce84fb48a177d5ece757af2c0b806afe2b4"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1688,
+      "sha256": "a021701e3fa838ede8b79b72ba636845a0085fcfde3c298420f7ece1bd13d8f6",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "d64940b7c1ff760b6f6ae8a889beb938ce1f2b2cd297685c22f0a42c6919fed7"
+      ]
+    },
+    {
+      "path": "BOOKS/BLUE/BOOK_OVERVIEW.md",
+      "bytes": 867,
+      "sha256": "0cbe1125086eb58b8f79cfe49845d4cbebeb8e58b89971604dfab21fbbe50443",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "9e47e03ffab5e48a957b07a7a38dd9f7f666c7225d501ba55d90c7ffa08e4c0e"
+      ]
+    },
+    {
+      "path": "BOOKS/GREEN/BOOK_OVERVIEW.md",
+      "bytes": 747,
+      "sha256": "47c6ae101325306e51de874650ad5dfe3ca19ad8b16df2d16e08b7aa96bae703",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "a85245553d55f7d5d109b9efbe6bcaabf1d2138d50bea51ef066f98e410f1483"
+      ]
+    },
+    {
+      "path": "BOOKS/ORANGE/BOOK_OVERVIEW.md",
+      "bytes": 761,
+      "sha256": "a3c58251356c4b802b1261cd547fbc14b66de80e8ad64d9e2cb33eafd884ba0c",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "d974ef75f6b7d6c8fd83a2a7999168f13af57a584ab5d1b3ccc04695f5e2235b"
+      ]
+    },
+    {
+      "path": "BOOKS/README.md",
+      "bytes": 122,
+      "sha256": "9aa95c380ca3c59266adfb29035e9f0d0998fbfa353cd422d7074f32a9e618a1",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "9aa95c380ca3c59266adfb29035e9f0d0998fbfa353cd422d7074f32a9e618a1"
+      ]
+    },
+    {
+      "path": "BOOKS/RED/BOOK_OVERVIEW.md",
+      "bytes": 1058,
+      "sha256": "02ea9950d40f4f90e1385d5be4a7d8a73450bc4ca6d62b62490cc23f9e99323b",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "0c149829ae90b0939689fb6c81a1af56eab4099ecc5e438e62c4a06121c3de16"
+      ]
+    },
+    {
+      "path": "BOOKS/VIOLET/BOOK_OVERVIEW.md",
+      "bytes": 713,
+      "sha256": "d5014d1786f69848b8d77e158f80f9269cd0bc9828a0a64e7b91baefe524c12c",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "cf70075099b5aa4919c2d5fc614c1539173e8124d437cf5aae397d975442d0b6"
+      ]
+    },
+    {
+      "path": "BOOKS/WHITE/BOOK_OVERVIEW.md",
+      "bytes": 773,
+      "sha256": "620a6140589b37e754837ddb99fb59b755930b2509fd2aa4a9d5b9c06f55bdee",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "8dc596f0872f3a96eac03531f8f6bd2e1ba3a86a22ee0c0b2168fe47fd083d61"
+      ]
+    },
+    {
+      "path": "BOOKS/YELLOW/BOOK_OVERVIEW.md",
+      "bytes": 784,
+      "sha256": "ad93d95936a9a5012367ccd4fec3449e7994f1d25d78488fde935877114bef46",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "53f80c93fc2b252c5dd6e25b52fe713c5e8807dbfeaad557ff7520601e8e8901"
+      ]
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_003.md",
+      "bytes": 591,
+      "sha256": "d430f07dbd6daea57a4a4d50e773d32a76d599d787a48fc2ef9c254f451f3156",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CHECKPOINTS/README.md",
+      "bytes": 110,
+      "sha256": "eb27b3aca2dbf8bc6e8f36e348a22b33cffbd0d7fd9c317dfde64f214c6b6c72",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "eb27b3aca2dbf8bc6e8f36e348a22b33cffbd0d7fd9c317dfde64f214c6b6c72"
+      ]
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/reassemble_api_index.py",
+      "bytes": 1447,
+      "sha256": "250e58b4b6a5d7283defc367baa7b4fb5f646e0ba0267efbb4e3a29498d091d6",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model.py",
+      "bytes": 5119,
+      "sha256": "5ba5ad0bbf52978948f00f5defccab8b90e152834dd303d3aac9451f570787b0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CONSTITUTIONS/00_AUTHORITY.md",
+      "bytes": 871,
+      "sha256": "c62e4b47a5f1bde3e2ceb4175af779138e7d3759830ab3466331935ab187bc25",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "c62e4b47a5f1bde3e2ceb4175af779138e7d3759830ab3466331935ab187bc25"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/01_REPOSITORY_STRUCTURE.md",
+      "bytes": 916,
+      "sha256": "e65784ebdb1d87ec3f763e3e12c8895b93c0e407435a4f4fa8d660cd0c2ebdc3",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "26767a20a8bf23ac862730f8a908cfdcd829b70afebcda368d8499858e377340"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/02_WORLD_CLOCK.md",
+      "bytes": 766,
+      "sha256": "61df1e747d6175b9fcda02ee597167b5caa7ae1e96fe0ed047161033522b6c40",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "61df1e747d6175b9fcda02ee597167b5caa7ae1e96fe0ed047161033522b6c40"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/03_CANON_AND_INHERITANCE.md",
+      "bytes": 1239,
+      "sha256": "a61c0a71abac03395d67c6f7d6e0ed1396e852adeb7f20d442073a9fe7282481",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "9416f431bee20a70271415fa2b65ce09e1550a06dc2fb9804a299610bb6ee759",
+        "a61c0a71abac03395d67c6f7d6e0ed1396e852adeb7f20d442073a9fe7282481"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/04_ARC_DEVELOPMENT.md",
+      "bytes": 720,
+      "sha256": "53afa6519ddf0dcc95aabfa5a8393e07f9866e5eaa036fb79698f6a4f74fa283",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "53afa6519ddf0dcc95aabfa5a8393e07f9866e5eaa036fb79698f6a4f74fa283"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/05_NARRATIVE_AND_PROSE.md",
+      "bytes": 419,
+      "sha256": "030458b8f386de5879539a7e4e1d14ce335f82a065ce11ad4633210abfc5561e",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "030458b8f386de5879539a7e4e1d14ce335f82a065ce11ad4633210abfc5561e"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/06_CONTINUITY.md",
+      "bytes": 481,
+      "sha256": "05fadd079d8af5d4fb5a318ace4b81b60568ef43cad10bc3ebcabd2eecfd27ee",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "05fadd079d8af5d4fb5a318ace4b81b60568ef43cad10bc3ebcabd2eecfd27ee"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+      "bytes": 1603,
+      "sha256": "58cd288ec79ca85dcedee6d33c1aa3153978a40fddf79ab1b2750d98cfc79466",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "700175e1846eaba5ba3ad6325092069a8395d05be508e7e9b051a82aa0d497f1"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/08_CODEX_WORKFLOW.md",
+      "bytes": 1406,
+      "sha256": "ad8d59eccc168a029ee7dfdbceff431456a8e058ff10f231de42f3483382efb4",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "da9498668cbdd9f568b03d0c07cc2fb3c673312eae346cb190aea25dab3e2705",
+        "ad8d59eccc168a029ee7dfdbceff431456a8e058ff10f231de42f3483382efb4"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/09_CHANGE_CONTROL.md",
+      "bytes": 957,
+      "sha256": "a47fa096247ee5142baee0729d8d81e5caef746be3a8d010c45a58fbdaa43c58",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "f7471d3faf7ed7a98eea448d1a3dcf5cd109e70e0073d844c2f52fa88af63f75",
+        "a47fa096247ee5142baee0729d8d81e5caef746be3a8d010c45a58fbdaa43c58"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/10_EXHAUSTIVE_LIVE_MODEL.md",
+      "bytes": 6323,
+      "sha256": "b37de9561b2983de2f3152458fb25cb9c170b40e14f428d6f02b65a39f2130b9",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "b37de9561b2983de2f3152458fb25cb9c170b40e14f428d6f02b65a39f2130b9"
+      ]
+    },
+    {
+      "path": "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+      "bytes": 17189,
+      "sha256": "e3cd8b1ab4d13e3892d9912755ed048ffb61392e07586b00640bff71c7b09d53",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md",
+      "bytes": 7498,
+      "sha256": "2d1c79201500dbfeeb7ba7941809aa65ebb91c6583c2817747d668a509ef27aa",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CONSTITUTIONS/TEMPLATES/ARC_TEMPLATE.md",
+      "bytes": 864,
+      "sha256": "f06f0b473b44308dbb9f2411feb2f192121bbc944a75f5d0b2828e4f5c38f998",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "CONTINUITY/README.md",
+      "bytes": 97,
+      "sha256": "4f3dcd68bcd66f10f61eb870befe0d9ec63eb6bddff5bde4b7babaaa2a198f30",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "4f3dcd68bcd66f10f61eb870befe0d9ec63eb6bddff5bde4b7babaaa2a198f30"
+      ]
+    },
+    {
+      "path": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "bytes": 2171,
+      "sha256": "d9f8b481e1b120499d68c17bcb22d5e9d42d27d940d6f2e66a2cafc1bce99610",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/BASELINE/CONSTITUTION_07_BEFORE_CORRECTION.md",
+      "bytes": 408,
+      "sha256": "700175e1846eaba5ba3ad6325092069a8395d05be508e7e9b051a82aa0d497f1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md",
+      "bytes": 5871,
+      "sha256": "3867abd0b023f9802a50c791e28860ee075713e650af550d7004d9765ce61a56",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS.md",
+      "bytes": 131,
+      "sha256": "4b19c198e1e6429b63cf2ae328e1e3b42513d2a8470cb2eaa2a8fa5996c742e8",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "4b19c198e1e6429b63cf2ae328e1e3b42513d2a8470cb2eaa2a8fa5996c742e8"
+      ]
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+      "bytes": 5257,
+      "sha256": "5405598fa96415d1a16cd94ce54f78804ffe186191f6f064be6d29ecdc735da0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
+      "bytes": 4353,
+      "sha256": "eeb678066703fcb155103868a7afdf53110f3663d9eb5f002ab6a18d85846366",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/README.md",
+      "bytes": 83,
+      "sha256": "955fa7e917e35fd36913e4c74a5a231cac860c10dce2b7ed61921db5cd2c341e",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "955fa7e917e35fd36913e4c74a5a231cac860c10dce2b7ed61921db5cd2c341e"
+      ]
+    },
+    {
+      "path": "PROVENANCE/SOURCES.md",
+      "bytes": 897,
+      "sha256": "125983ff73a33e7413ab229d75c604bf923b470036e43c4aa5c5ec4e9c6befec",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "dbe62e50c043257acc0a4d9b11f527a8dabdbe96d221dd0d4ae993277aca5590"
+      ]
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ATTACHMENT_MANIFEST.json",
+      "bytes": 13978,
+      "sha256": "12c13e0a52af6fbf10d19ae70cfb7691a771b8ef3ec912ffdd6509c2ad2fcc33",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+      "bytes": 3222892,
+      "sha256": "ce36cd1f078014236d220d793f3fb6c6efd4051e3d1220dfc8332e216cd83350",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+      "bytes": 3372378,
+      "sha256": "74a2d75d904fb4b1c9f37e05657f5b1dd4671a9f829f8b432daf94c67c286d3c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+      "bytes": 3196647,
+      "sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+      "bytes": 2499583,
+      "sha256": "901785a6f3f79f0ee0a9bfb8abae1466603199f4a36e4427a73bb3592f3fd027",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+      "bytes": 3791758,
+      "sha256": "33a22ad7a8a5d121f9ac58a92211340804d3d936e2347cf52a99a8033cf5ff5b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+      "bytes": 3308190,
+      "sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+      "bytes": 3228494,
+      "sha256": "40bf7fb15eb8683b0105c0d3687e38ca48af10a344b4f372b0ddd1e23087e959",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+      "bytes": 2648963,
+      "sha256": "87b1e6785fbf51918b4ec9d56633dfda77fbc79aa29f984c512a2e1ab3469357",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+      "bytes": 3988477,
+      "sha256": "f02926937db6764dae981e449d9e20d5639aec97b9b9d96359ab54343f5cdcee",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+      "bytes": 641330,
+      "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+      "bytes": 3272254,
+      "sha256": "1b6cadb8c2df2736e8552b53c83e0b564504b2104e9b5304368ea25f388d0a49",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+      "bytes": 3409654,
+      "sha256": "7a3ace25889bae08bfad0dce3329ef4216787b0f76a0324b8efffb2cd3d088b6",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+      "bytes": 2364035,
+      "sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+      "bytes": 92080,
+      "sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+      "bytes": 67292,
+      "sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+      "bytes": 145723,
+      "sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+      "bytes": 465467,
+      "sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg",
+      "bytes": 283793,
+      "sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png",
+      "bytes": 455819,
+      "sha256": "57783d51fb6f9d525ad0bbfac6d2587b737ea73a51656caa7e9a03441e4cf605",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+      "bytes": 316696,
+      "sha256": "67e2e532ca01baa05bf0cbea9153f41d8cabf36140bd5ea3f0a02ac3467fbee5",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+      "bytes": 256636,
+      "sha256": "9000c65f3f5cb220ba04f80bf86e937135fa7debf11b3849e3eb32e3169e6760",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+      "bytes": 4335392,
+      "sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+      "bytes": 7630835,
+      "sha256": "0010a4de99d78748ede57670b3bca1df6185b7ba8dd0faf266cc3ba1a4ccf752",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+      "bytes": 29230,
+      "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+      "bytes": 98946,
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+      "bytes": 93053,
+      "sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+      "bytes": 92298,
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+      "bytes": 67402112,
+      "sha256": "cca59f71a28079fb6fc511df7b811a88b7e3fde97d84bc1f299c3f4b86b12e8d",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/README.md",
+      "bytes": 6472,
+      "sha256": "d3ac2227be85559d89a34094a8a410eae747557e358a2079fe18c4ce58e0fbe0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/BANDITS_MASTER.txt",
+      "bytes": 7272,
+      "sha256": "47ee915f7b4564f162748faa0ab93a6958b616808e915a9345eec542db8320ba",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CABAL_MASTER.txt",
+      "bytes": 5156,
+      "sha256": "94634b9de2304aad60bc03de9359ab3c2064fca38789c056d882b0f7aa4f491a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CARTELS_MASTER.txt",
+      "bytes": 7828,
+      "sha256": "944bdc2aa728fba667797fe50949aabc84f5a7331983cec95e9c042f40d129cb",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIAMOND_MASTER.txt",
+      "bytes": 5595,
+      "sha256": "cc1cbbfe126938fedae7726069aa3fdb6fd31f213832537a43bc816d9b2d04fd",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIMENSIONAL_RING_MASTER.txt",
+      "bytes": 13744,
+      "sha256": "6383d8b1b21c3f35177942c0273ab7f296ac50da9d36881ff84fb69ef73e336a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK_ULTRA_TOME.txt",
+      "bytes": 1814780,
+      "sha256": "c6514837bfbff2b348ee53d753e9c68f95f29983a64af606b3d96f4d83e00bb5",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/PIRATES_MASTER.txt",
+      "bytes": 8495,
+      "sha256": "540ecfc3bde66925c1dcb47229cd6cef42705113142839a700d55c6ea835fdf4",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/TOURNAMENT_MASTER.txt",
+      "bytes": 10035,
+      "sha256": "17cbc7d99bfe2abc5190704ba103393e0ee71dd4a94723ec6b298b77297b9092",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/SOURCE_REGISTRY.json",
+      "bytes": 2903,
+      "sha256": "8b672e4efd05eb800c6e31f7659a1bb7e5195796ca1fa066b9b3068815e26eea",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/ACCEPTANCE_CHECKS.json",
+      "bytes": 2998,
+      "sha256": "ef649acbe362c4cca0f4d9f71642400da2a73522926083c01403a823a33ea7f8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+      "bytes": 128528,
+      "sha256": "b3887eb0f11ef8fc1fe0fc9da17f5642f09987acb4c643a6c42b7f55ea46b51a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl",
+      "bytes": 140940,
+      "sha256": "bed52f121eaa964944a63546d201b1439b973062185eb5816ca4c2345802d201",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.json",
+      "bytes": 112692,
+      "sha256": "b1cda6b510bab6df4b97e3569105ba2acbb73cd93b5a9e51816a1ad3319c2228",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.md",
+      "bytes": 24616,
+      "sha256": "d691ecca225346b805afa0f51140ae6b66385aba901612ae090c1647967190cc",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "README.md",
+      "bytes": 1365,
+      "sha256": "57e44c23537d92736fa9bd725fa790f04d1f4f154d1a760e859264fac015011f",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "37605940d1355f45114ad2051ad6ba0cf03f6a0aad93f00e2cc5a479d8aafa26"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "bytes": 9024,
+      "sha256": "fb677058e38fd1083a406c441037ae08b794421ce44ce36ed4cc90d42f313f91",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+      "bytes": 10505,
+      "sha256": "1417bf5b3e6236c557769d24009604c3969eaf87a3585c97062e86fcdb4a1b4a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/README.md",
+      "bytes": 317,
+      "sha256": "9d8f560762005210fe319aa684c397b98205e3ff3a78b5f00f6dcfe9829d7284",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "638c82ae3d9d84bd8afaec90accf3c3706c014d72863871798c26bcd76c21194"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+      "bytes": 13449,
+      "sha256": "62317d24f3a5bb5efd469dbb8dcf2a4dc9bcf67c3111b14bda94f8f7c6938e5a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/ALIAS_REGISTRY.json",
+      "bytes": 422,
+      "sha256": "aa55f5a9f1f585cb46330c02c744fcd276d97c4b41a16ad5b9cd3c537ec8aacf",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CHANGELOG.md",
+      "bytes": 6096,
+      "sha256": "0cacce2462991defb3f0d11ed27f6c3454bc934fa2be25f1e24b0b9bd8d8adad",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CURRENT_RELEASE_MANIFEST.json",
+      "bytes": 10276,
+      "sha256": "ca7b5cc7eade88b1578557166c8ae70dedcf6c6fb50373a80eb4aff0dece68fd",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/EXTRACTION_MANIFEST.json",
+      "bytes": 18386,
+      "sha256": "d220ebd8776a87a3c41c2ebd6274bb679638ae79ec56637476535ef625b898bb",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_EQUATION_REGISTRY.json",
+      "bytes": 6726,
+      "sha256": "223ddf411522444de72fd953e9cecb475fe931efc5fdd540e4787af2f8319ead",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_MECHANISM_REGISTRY.json",
+      "bytes": 1057,
+      "sha256": "0ff25fa6433c14bb3e14607b8aa5ba170781c98ba56950d678653da26318d5dd",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_OBJECT_REGISTRY.json",
+      "bytes": 12822,
+      "sha256": "934880d86e92bdc37ba44df2ddca1164af084f46bb5187bf3f1e552e4caf6aa7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_SOURCE_REGISTRY.json",
+      "bytes": 1003,
+      "sha256": "6a28bff1fd993e28b22367f550a69cd5773f8777380acb5b3b3e8a42a44fdf99",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/LIVE_RUNTIME_STATE.md",
+      "bytes": 491,
+      "sha256": "dd03fb243bbe470a232accb50f06932f52bcfefc895066715723834afb2ff04c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_CURRENT_CANONICAL.md",
+      "bytes": 2032374,
+      "sha256": "0071c1d9d6a89c283f57a9c225857fa8f49a63f8caff86d83cca4a66896b0259",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP42_BACKUP.md",
+      "bytes": 1823192,
+      "sha256": "b7a6fd6793b2a79e4de193d0641f5a5e1db0ffb90fe1ebb757649058cf2430bb",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP43_BACKUP.md",
+      "bytes": 1827822,
+      "sha256": "0150803639cd38c9159a06155819b913e8f3151ca429296e12c52f598745cd6c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_v2.0_GENESIS_CANONICAL.md",
+      "bytes": 1453258,
+      "sha256": "8d0e82176f77fc6bb7a2684aabbf16aa5faf48ab0b5b2aa6e33707c13da8be32",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PACKAGE_CHECKSUMS.sha256",
+      "bytes": 5896,
+      "sha256": "1c3c02a29b5955a351fd0d14cc9fb3e9810703bcbb291847144ff80ba60cc899",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_EQUATION_REGISTRY.json",
+      "bytes": 4269,
+      "sha256": "a4bb0eba6ec6c5ac53fe12078e199e1d0aa80565279c3d4c70b0643b6be372d8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_OBJECT_REGISTRY.json",
+      "bytes": 11347,
+      "sha256": "145f5b93968f1d3e4094e83c045181e1e60115564954de9fb1ffe6201b617bf7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_THEOREM_REGISTRY.json",
+      "bytes": 943,
+      "sha256": "b61c401d68ff5233a43dd8782472122e9b96428ee250391a0baacaaca35fa161",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/READ_FIRST_MK163.md",
+      "bytes": 992,
+      "sha256": "ea3a6b288000fe714903203706a8bd78575bfddea31cf44191c022d6b9c1a4c1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RECOVERY_PASS_30_CURRENT_UPDATE.md",
+      "bytes": 11730,
+      "sha256": "207c15c35d9c5d0f46122d9b5244b5b7f2f0530e6bf14db7bf06b5e47b0b3234",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RELEASE_MANIFEST.json",
+      "bytes": 833,
+      "sha256": "3eb01316f908ce0732c0f22a505e6acc6161950c7bc6a52240243a1f710975a7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP40_STRUCTURAL_UPDATE_REPORT.md",
+      "bytes": 581,
+      "sha256": "f3eae846d4fe254770c2018bbe293a19939aaf383226cbdc4c78f7f817d5a47c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP41_RECURSIVE_RECOVERY_ENGINE_REPORT.md",
+      "bytes": 803,
+      "sha256": "1cd9c0c59423c7876f584039986913a7f239ec67a12fd471601a30dc9a7810e6",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_001.bin",
+      "bytes": 20971520,
+      "sha256": "ec8cdb0bf6935e1aa5497b51b4dafba608a96cabc541ae707a8aea4f3d9bf13a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_002.bin",
+      "bytes": 20971520,
+      "sha256": "dd019e1ec5e4148587da37b099997403d355b2cc5adc9225c3b04db8d207faff",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_003.bin",
+      "bytes": 20971520,
+      "sha256": "11eed28259f085a44b64312f0bd2060e01667a868bbf09521ada18ac09674c66",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_004.bin",
+      "bytes": 20971520,
+      "sha256": "eea1a6a801e7347955b93eaf61c439534814e42e2b078b9e18a757c7a2af1fdc",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_005.bin",
+      "bytes": 20971520,
+      "sha256": "a982f5eca55330409fed52243d644948501ae51ea1b2b4f11508d88d6bf0d1f9",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_006.bin",
+      "bytes": 20971520,
+      "sha256": "0eb58fa72e9cc401dab40a3391e34e8e9c0f165dab5a73f799a0f6cf01b951ed",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_007.bin",
+      "bytes": 5854690,
+      "sha256": "6629326dd27986bad2a332537a2af10ee85a7cd2dbf0286bed700ed36b54e532",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_FINAL_CLOSURE_REPORT.md",
+      "bytes": 803,
+      "sha256": "0721c14f79f0e6d2b0a44506a1be6d7cb4990d7613eb94dfded724fd35e8cea1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_PACKAGE_MANIFEST.md",
+      "bytes": 510,
+      "sha256": "63f2f3cb8ba4b817d9d30e540a414026694ed3600714fe397960a121ab03b21b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP43_GENERAL_RELATIVITY_CLOSURE_REPORT.md",
+      "bytes": 829,
+      "sha256": "0c5daf4cfbcd9bf21fe97f6a245caabb4094f7b8d1920ec231b2335ed0003e00",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP44_GENERAL_RELATIVITY_EDGE_CRAWL_REPORT.md",
+      "bytes": 3387,
+      "sha256": "3eba991212d92f93e76282564ecb4eda03bb37889abd473ac2dddcd70de00b47",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP45_GR_DEPENDENCY_LANDSCAPE_REPORT.md",
+      "bytes": 8646,
+      "sha256": "4183226a6fb598c9ce51db54a68425e8ba28f4f3af010ff5a3df140a3a6486bd",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP46_BLACK_HOLE_RECURSIVE_CRAWL_REPORT.md",
+      "bytes": 877,
+      "sha256": "fe972d39dc603cb51dcbedf18487592647e20606f649d42b108adbfee9037ff7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP47_GR_GLOBAL_RECURSIVE_CRAWL_REPORT.md",
+      "bytes": 920,
+      "sha256": "c306e9789c1d8c8ab18ab4712d1afbc3a7659ce62612b75858501a0a93dcfb27",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP48_WHITE_STATE_SINGULARITY_TARGETED_CLOSURE.md",
+      "bytes": 961,
+      "sha256": "3c8362d566b5f742c055a8c6661a41d0911c1d799709b3d7ad5aaf0c4f31e375",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP49_SINGULARITY_MODE_ROUTING_REPORT.md",
+      "bytes": 858,
+      "sha256": "03404b9e4aa5f360fc442a0006743bd76f9754a5720667504c0e3a1c6bb4c0c1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP50_PENROSE_INTEGRATION_REPORT.md",
+      "bytes": 1151,
+      "sha256": "5c66e64c9ed25909e1e82240317c1062317cb64c029ea3dd837e267a406aea89",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP51_BLACK_HOLE_DEPENDENCY_GRAPH_AUDIT.md",
+      "bytes": 688,
+      "sha256": "ebd3dd6f4b5f451f345d832aa1d59bd40630008ce7c79a55e29c49367b53d166",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP52_HAWKING_INTEGRATION_REPORT.md",
+      "bytes": 1213,
+      "sha256": "7ce2980280452335b092a21400ed313e356a090d6f669a320642d6b7cabbab62",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP53_BLACK_HOLE_GLOBAL_CRAWL_REPORT.md",
+      "bytes": 571,
+      "sha256": "57316730e87b68ead73f8a45f0f5001060ea3e882234084fdf269f00eba7014f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/SINGULARITY_MODE_ROUTING.json",
+      "bytes": 1276,
+      "sha256": "3eec43e9995ec9a08e8a90c991bcb34670e2586943c8ff9affd67a26a1177815",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT.md",
+      "bytes": 433,
+      "sha256": "6809c70c88c7fd28d16a0c8d183f6a12d2ea50e3b361c9580bb8fb21987c8b24",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_CURRENT.md",
+      "bytes": 718,
+      "sha256": "08e4f118042d71359cf89d1c92d6ed122ba33cbe112635c39141419f227d41ec",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP43.json",
+      "bytes": 713,
+      "sha256": "e0a511e2c7d9b670c0270e878bd4869980e29042b251cf7ba2880dd1e44921a2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP44.json",
+      "bytes": 616,
+      "sha256": "7fd88f64fc83b046d62d61b2e5fe661bd15776906940ab770676a12942771711",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP45.json",
+      "bytes": 648,
+      "sha256": "ab50d34fcc618de6afba6bca986fa734b57d7af130decc9c7992112d099a9244",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP46.json",
+      "bytes": 649,
+      "sha256": "c23b680bfd2c9a4ed805e4fe2b7fdf5db31b529964ca193f8629d7d2a824bb8a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP47.json",
+      "bytes": 3963,
+      "sha256": "ba77e1739969e0e8869536f215c921b8ba11f3afc41e4f437887d8019e9c6c69",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP48.json",
+      "bytes": 632,
+      "sha256": "bab46701137dc39fa4c4e79aeeae39cda72c23802872951301faea6e445555d1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP49.json",
+      "bytes": 610,
+      "sha256": "f696d3ca40c7890553c3b1dd41bf02826012651045c9c14fb9538c9a162d4b8e",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP50.json",
+      "bytes": 1018,
+      "sha256": "7769baa5446da2c64db5eeec548fad38735af2a33e6888bce822c774c02147aa",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP51.json",
+      "bytes": 1006,
+      "sha256": "e27fef566c94b76b6be8ad7482955421d30f54335278af3d0145b323d1761e21",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP52.json",
+      "bytes": 1417,
+      "sha256": "620acbc468161e0584b53a53526b0eb6dbdc6f7a063104ed1855907397f1e439",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP53.json",
+      "bytes": 922,
+      "sha256": "cc67bcf130200affd8af847045463147763616c27642e8cf0b580d1e8158bc78",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MANIFEST.json",
+      "bytes": 1268,
+      "sha256": "69df9326ef78025d28f3f6e2ca389ce88dea32dc2ecbbf27a26b13e68b1d780b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH.json",
+      "bytes": 220228,
+      "sha256": "09137fc8f5b18bbcfd60aab715100e6d856578842a54eee9e6ebf401045fe1e4",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH_INTEGRATED.json",
+      "bytes": 221499,
+      "sha256": "9e3c343e800efe5bc7a2f386d4dc0f2712f9ee8f6f8d8d75bb122feb497795d0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_MATHEMATICAL_MODEL.md",
+      "bytes": 43645,
+      "sha256": "2015f1dd2978202a518e29e0d7e3da71ae7ec74488dc125dec8631b9295ee9ac",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/VALIDATION_REPORT.md",
+      "bytes": 321,
+      "sha256": "1df0b3846e596b971d9134c79695e94c3c14f6d2aea47a3b066445d721731408",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Grammar(10).pdf",
+      "bytes": 145919,
+      "sha256": "4814e50bbaf5a16c757991c5307d26f47afdc06e8ff6f5de0cfc9637d69d9961",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Phonology(10).pdf",
+      "bytes": 127679,
+      "sha256": "dca0205f0bbcf1fffc41b0f8723f6d7e79a64ddb03c6911125d16996d0047b10",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Root Family(10).pdf",
+      "bytes": 120655,
+      "sha256": "5b8d0d82c9b8f5ef13169820f76b0783f4a6b4a284f43735d78b92909b96680c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rosetta(10).pdf",
+      "bytes": 3995,
+      "sha256": "54c24e94a2ac6652fd8a5280f2e6e19c8ad1f532c624f0ec3dfd044a3ac32aa2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rules(10).pdf",
+      "bytes": 149572,
+      "sha256": "9bb3ca84f0cfacc989d63a852decbf1bc11cb8d10a114ba6187bd5b608df1fb2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Structure(10).pdf",
+      "bytes": 112105,
+      "sha256": "744d6b14045f345721b7a1eb29322f8f527604909905bed4ce04b595caee4b0b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+      "bytes": 11964,
+      "sha256": "cacfa730af8983a1304aa5974c86d097d58a59b0cb468ffc6cb2d242aa16d18f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+      "bytes": 6599,
+      "sha256": "506a95d7c8a9776d9b579737d1f52ebeeb1e89e39adef43cd9ddd729a1ed3821",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+      "bytes": 6276,
+      "sha256": "a1191a9a507b33f79e0ba907bc75602de56191dc1d5f0fce9b073b23b4a248ad",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+      "bytes": 7323,
+      "sha256": "5e6bb769dfc13f8245a6effc8718a3b988122dcaa41e6afbc8622062c22687a7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+      "bytes": 22495,
+      "sha256": "df273af9b641349cbafc27a7dfa1a5e06a54dbbdda7b66d2178105b8a9086d5f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+      "bytes": 20641,
+      "sha256": "e82e6e86573714748c9fd7146d516c4bf665cc37f83334f0ac350eae6dfe6745",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+      "bytes": 19187,
+      "sha256": "8bbde649874d0e5c5bfa1961a2dd35c2f9475eecfe3406c920bed57fda8bfafc",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+      "bytes": 9226,
+      "sha256": "7f3bf6c52a71d96d6c66722becf81f6e4b27e71259bc20b2522a8e50a2b0ba5e",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+      "bytes": 9951,
+      "sha256": "52f66f22d596c22c14715e104e328ae8450225c6c30868af02bbce293e0306ee",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+      "bytes": 15131,
+      "sha256": "72f3bfd7ba0c2d9825298fd7cfea55107f44f939247ed521e4c866527e08cfce",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+      "bytes": 17224,
+      "sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+      "bytes": 10044,
+      "sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+      "bytes": 15930,
+      "sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+      "bytes": 14948,
+      "sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+      "bytes": 12442,
+      "sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+      "bytes": 13377,
+      "sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+      "bytes": 10514,
+      "sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+      "bytes": 17514,
+      "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/README.md",
+      "bytes": 1153,
+      "sha256": "d1466594f65913971ee4d04d9e697c264e91f30dd6fe174d1b7270823ed9e9c8",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "659dda158b5987d3d5efa91ac793d62adfc3f23e722813305d2a1e380f7e03fd"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+      "bytes": 7761,
+      "sha256": "9c73fb9132c7e2067c3b0e18d78aad68d55b002ba235d7da6fd202f65f2a96a1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+      "bytes": 11155,
+      "sha256": "94493f10aff93c24a5bb4acc52353a812ba1007a73f4b225489b1398c02f6a2e",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+      "bytes": 12572,
+      "sha256": "b8357a91adb13fe73291a49bcc6de647c8fe87d81a9cd23565acfed9ffb74e59",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+      "bytes": 9487,
+      "sha256": "7dd0082729cec48de145c007df754846f03d40af9e447dd3ccbb69fb7bf08152",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+      "bytes": 4846,
+      "sha256": "28c8477426c90cfccb8c6222adecc49b29a0b93428176c8d66b0ac852fa636bf",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+      "bytes": 4575,
+      "sha256": "7a92e0757f1736a3cc788460b50f8831567d07aa0ca832b9398ac69e989b2e83",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+      "bytes": 16732,
+      "sha256": "93134cd166e14c197d759b6960f4bf81f8c04e1ab33c89ba6bf494ee965d045d",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+      "bytes": 16175,
+      "sha256": "99241ed77c50d4f3a5689fc9598bac29f36f6d19e28d5e4c1cf4cb87885e02f3",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+      "bytes": 14739,
+      "sha256": "94da118fb38471ab0f8a5af3b9cc945c7e2de1fb38036809f293cb065d59d6b6",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+      "bytes": 7291,
+      "sha256": "7c41d1fabedf474dab2128328d862daf55f614b82a0f72fc8adbb275728b64c2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+      "bytes": 19694,
+      "sha256": "9b09d15d2a5ef5833533f120c84c9ec014a496e0d6023f26f00fb7d296e1b4e6",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+      "bytes": 10089,
+      "sha256": "12b04cda3b66d158fb025748656e4151d9148c9663ff9b698a4b9155e54e06d3",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+      "bytes": 9298,
+      "sha256": "fbb9c3bde61ef020c2d34095a341947b20bc15b4c0994515087ac5bcf2d8067e",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+      "bytes": 10804,
+      "sha256": "9230549796ca8a0a4596c3d6bfc73c3b453361128b340b015dd220f984609ef1",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+      "bytes": 12931,
+      "sha256": "bfbe9b84e3f8b523d2755b95e4be48d9f6b1a1bb01f0756d0e1ce2230beaa912",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "bytes": 20691,
+      "sha256": "49ecd3f5ea52b9b2140a2ba510b60681b2703f52356266f703ff37398720075e",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "bytes": 15654,
+      "sha256": "bfced9b96a87662458a7cedbb86cf9a995d4154e8672fdd1b3f9503433029de9",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+      "bytes": 21736,
+      "sha256": "73720850a04e4afd752e597eee749edf23ce1c1f6f0e6612f9aacd3d488f7fc7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MATHEMATICS_AND_INTELLECTUAL_PROPERTY.md",
+      "bytes": 6565,
+      "sha256": "28de1b15f48c8bdb349c7eb79a979abb5bc2052b6b0c13aef7f0183110f1ced7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+      "bytes": 10255,
+      "sha256": "7d7c86b7a3aa05cef2385a2bda4719cdf1eecf55d282e953c605757944d26b31",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+      "bytes": 13653,
+      "sha256": "977f643bb9d15126ca5eec148862856cd7e22e2ad76b6941af2dd7a108197acb",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+      "bytes": 16000,
+      "sha256": "618eee0f78ea9b4b02988df24d9c3d4c53d892cd3fad18a4ab4a9002266599e7",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "bytes": 9774,
+      "sha256": "05cb534f1ad87e5e18704c54eae83f6cdcf4dcd6cb64aee8f357caf55d24781b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+      "bytes": 13860,
+      "sha256": "6f5339ba1e6b74fd11eab0dd103ea73ecb1987b2b654ba360a75250b5e0dea80",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+      "bytes": 15954,
+      "sha256": "b8763c6f794df135ab6c5097319f5a278d09f2aed49a036e22885ba236eb5ad4",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+      "bytes": 9477,
+      "sha256": "c0d7561116a3967cceea3eb8aa77f440aebe89c9ae34434b50f63d465c10fdc9",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "bytes": 2008,
+      "sha256": "6888e3d0ee2f1650d91647ca5853f1cb415aa8e40521f56a52f7726a0ed776d5",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+      "bytes": 9746,
+      "sha256": "d7b629d3cfe46228dad5cc910f25ccbb65664c4f4fb255bcaf5b2fcd0c9dc027",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "bytes": 10070,
+      "sha256": "c75fb51e3d3d8768dde871f80246a32f2de6008d294df19ead566577cdc59676",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+      "bytes": 10041,
+      "sha256": "3668ee7a292de9dc406582c0e1d27189963f065ccfaaf4fa7882091e3e08e8bf",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+      "bytes": 10471,
+      "sha256": "33a2167ee00cc1d50ff61d887fbb0cd68ad1890189806461baf4d2f07cea525f",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+      "bytes": 7652,
+      "sha256": "bac4365166a6d70d7bdb3efc84a98dd55818cf844d29e1da5f9c35ebe4e4c04b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+      "bytes": 14654,
+      "sha256": "a0c953f37f71b84eb38afe1b062c0082a4942104fd0b28f714e3478da55eceaf",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+      "bytes": 10260,
+      "sha256": "21cb6b023f772931b484e0531115243074eecce22dc4b67a7b156eca52d17b8a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "bytes": 31836,
+      "sha256": "6068b9cfefd96d8f0148741888d5d94092657186ae32357af61cf5a198c73fd8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "bytes": 15346,
+      "sha256": "9fff7b9b5d3cf7f66625c8b10072c9dbbccca96068c4c8c6cf04b78d865762d8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+      "bytes": 19926,
+      "sha256": "fb9c476f97b0f4c192d4bf46a1c822c8939c0a91279e6153277266680311ca8d",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+      "bytes": 23678,
+      "sha256": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+      "bytes": 18993,
+      "sha256": "4eb1bc665005c8c3f2f8a0ede0c8a3e6700b970872e41f10e0370e89156feb5b",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+      "bytes": 20804,
+      "sha256": "229eba7cf41b0918affea668ad79212a47675f4604ebb86375a44176d9241cf2",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+      "bytes": 17040,
+      "sha256": "719fd346c73049af1492214166110f2bd58d377cbbf77380ec4559f63fb4f08c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+      "bytes": 17812,
+      "sha256": "c8602f2a37cdbf96feafc2725b5dfc251ac0d5dccd7935378b1fdcb90f9984fa",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/README.md",
+      "bytes": 5273,
+      "sha256": "9493f838a78ee0a9550fbe2fad88896e277ef1274b9af8d23ef44ddfb92fe3ac",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "94a0c04a57960777d4a9ccd0d8bec994570792024ebc4945d2d567850e129bc7"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "bytes": 5060,
+      "sha256": "0aee065588cc2953f563a3096e27bba68a80d58638997da9ab376d70189d1ec4",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+      "bytes": 6288,
+      "sha256": "fa8448e4dbae61032a780ada9a020c1eadea2d40ecdd4a6a556814a9195d6355",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+      "bytes": 6358,
+      "sha256": "d75c774985b7f11338819dc936cc86e6a07b1f33f1ea22723aa1f1adb7863085",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+      "bytes": 5217,
+      "sha256": "caac93a1f6738c6416aa94e9223b0de0a2a3015995eb29d5b733674f60459010",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "bytes": 6540,
+      "sha256": "9f63573ab39a5e7eb3886d46d5e61fb68f16f87616cc6db16f1be598e4dfbc52",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+      "bytes": 5082,
+      "sha256": "5af617376aeb5790d2c4f3e1a356ad95b16af89c8de61e2180cdef480a1fc03a",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+      "bytes": 5024,
+      "sha256": "4adcb5a277dc07f782ca40063e19b3f666fa50f40d6e0ad51309d9bd503ff705",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+      "bytes": 20457,
+      "sha256": "b882c9e8c6b63a5c596da4364f3b6ed427ea4f3e2bcb8ab0fc8f859f4465e027",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+      "bytes": 17440,
+      "sha256": "90ebf609e7cf2b2ea56dbc70a6912cc3a4d1e07651d6141df0de7e1904961a4c",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+      "bytes": 16683,
+      "sha256": "a618747c12c3e61ea479aad84455e0c7b03c881a7d7d8ce177a7c0fe4e5d33ae",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+      "bytes": 19560,
+      "sha256": "df6a6cd54d5326ae148b395e028450e6d8f3b015659b00478a009b4076782400",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "bytes": 27714,
+      "sha256": "05a1edaf12884539edc45e35f0520eb9002e6fd6475b8b290257519523b70a95",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "bytes": 16691,
+      "sha256": "4a6cade59f640aee7b1795cd1c89ccff97257d26f6eed790d8c3afe60f2d63e3",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+      "bytes": 7672,
+      "sha256": "1aa22a1602d934dc327f6b1018607be231c9c8b25a682e357d497e5454d87f41",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+      "bytes": 20187,
+      "sha256": "50896b39bb5cb4531aafbb409587c9cfe6e944ad36bfecb7dd425b85774f09b0",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "bytes": 32153,
+      "sha256": "f20d9ab5775b489676fae7a33f50cacf968f46a206d74e3f618d2b76ab846d01",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "bytes": 23183,
+      "sha256": "64263c0d7d33459dd8eaaf9b6c04a7315396c583f3cc9cf9d1ed910d555d65bb",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+      "bytes": 11729,
+      "sha256": "e45d3354e59e6a7f97aa02017bcf1404f1cf717c34a4d0539b0071a4d29e4c59",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/README.md",
+      "bytes": 415,
+      "sha256": "301311f80b6207c34136f9cd017c40f59f6679881a1918a5a1829ef48caf8785",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "39957a460eccd273b468db0a258460f02c765200148b142eda115b714721debb"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+      "bytes": 10070,
+      "sha256": "08c01d04bbcfd9fe7e666f16e97df91e68eef36b9213237724668a77794112d8",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/README.md",
+      "bytes": 307,
+      "sha256": "54ba39c4b3f35097bd4ac64935416bcc0b2309a3489292e67743975df7cb3e4d",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "e130079e9c867cb1c29e367ec9b4894ddf7261effd3de42bea349361090c7915"
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "bytes": 33162,
+      "sha256": "07936fb96d88e888b91fbafc1e9a9832c5240ec5be391f1f784dafe840964706",
+      "operation": "ADD_OR_VERIFY_IDENTICAL",
+      "known_previous_sha256": []
+    },
+    {
+      "path": "WORLD_CLOCK/README.md",
+      "bytes": 610,
+      "sha256": "31bdfadf16ced5a95b97903041e38d9fa5ac14b76195ac57cfbdb90ccbff184b",
+      "operation": "INSTALL_OR_EXPAND_WITH_BASELINE_CHECK",
+      "known_previous_sha256": [
+        "bc0ec04196ea476c5932bd74e675edda1f6482c86311eb8e6553f0c32ec27412"
+      ]
+    }
+  ]
+}

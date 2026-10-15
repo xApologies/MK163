@@ -1,0 +1,22 @@
+# RP-46 — Black-Hole Recursive Admissibility Crawl
+
+- schema: `MK43_RP46_VALIDATION`
+- status: `PASS`
+- crawl_root: `@black_hole`
+- initial_reachable_landscape: `673`
+- inverse_edges_recovered: `1025`
+- composed_dependency_edges_recovered: `7981`
+- new_edges: `9006`
+- total_edge_records: `11110`
+- unique_typed_edges: `11110`
+- downstream_reachable_from_black_hole: `605`
+- upstream_reachable_into_black_hole: `596`
+- largest_component_size: `673`
+- weak_components: `1658`
+- orphan_handles: `1642`
+- missing_edge_endpoints: `0`
+- canonical_bytes: `2023844`
+- canonical_lines: `62769`
+- canonical_sha256: `8a9f8658e451c8bd8536bb693594da1aa2cc99709fe31d62f83195c9a6b8cb2b`
+
+The pass recovers only inverse relations licensed by existing typed edges and composed dependencies licensed by explicit primitive paths. No lexical-similarity or free-association edges were admitted.

@@ -1,0 +1,214 @@
+{
+  "schema": "MK43_HAWKING_EQUATION_REGISTRY_V1",
+  "recovery_pass": "RP-52",
+  "equations": [
+    {
+      "id": "HQ-01",
+      "name": "Curved-spacetime Klein–Gordon equation",
+      "equation": "(□_g + m^2 + ξR)φ = 0",
+      "objects": [
+        "@klein_gordon_field",
+        "@lorentzian_spacetime"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-02",
+      "name": "D'Alembertian",
+      "equation": "□_g φ = |g|^(-1/2) ∂_μ(|g|^(1/2) g^(μν) ∂_ν φ)",
+      "objects": [
+        "@klein_gordon_field",
+        "@lorentzian_spacetime"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-03",
+      "name": "Klein–Gordon inner product",
+      "equation": "(f,g)_KG = i ∫_Σ dΣ^μ (f* ∇_μ g - g ∇_μ f*)",
+      "objects": [
+        "@klein_gordon_inner_product",
+        "@mode_solution"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-04",
+      "name": "Field mode expansion",
+      "equation": "φ̂ = Σ_i (a_i u_i + a_i† u_i*)",
+      "objects": [
+        "@field_operator",
+        "@mode_decomposition",
+        "@annihilation_operator",
+        "@creation_operator"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-05",
+      "name": "Canonical commutator",
+      "equation": "[a_i,a_j†] = δ_ij",
+      "objects": [
+        "@annihilation_operator",
+        "@creation_operator"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-06",
+      "name": "Vacuum condition",
+      "equation": "a_i |0⟩ = 0 for all i",
+      "objects": [
+        "@vacuum_state",
+        "@annihilation_operator"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-07",
+      "name": "Bogoliubov mode transformation",
+      "equation": "u_i^in = Σ_j (α_ij u_j^out + β_ij u_j^out*)",
+      "objects": [
+        "@bogoliubov_transformation",
+        "@bogoliubov_coefficient_alpha",
+        "@bogoliubov_coefficient_beta"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-08",
+      "name": "Operator Bogoliubov transformation",
+      "equation": "a_j^out = Σ_i (α_ij a_i^in + β_ij* a_i^in†)",
+      "objects": [
+        "@bogoliubov_transformation",
+        "@annihilation_operator",
+        "@creation_operator"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-09",
+      "name": "Bogoliubov normalization",
+      "equation": "Σ_k (α_ik α_jk* - β_ik β_jk*) = δ_ij",
+      "objects": [
+        "@bogoliubov_transformation"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-10",
+      "name": "Created-particle expectation",
+      "equation": "⟨0_in|N_j^out|0_in⟩ = Σ_i |β_ij|^2",
+      "objects": [
+        "@particle_number_operator",
+        "@particle_creation",
+        "@bogoliubov_coefficient_beta"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-11",
+      "name": "Exponential null-coordinate map",
+      "equation": "U = U_H - A exp(-κu)",
+      "objects": [
+        "@exponential_null_coordinate_relation",
+        "@surface_gravity",
+        "@event_horizon"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-12",
+      "name": "Hawking beta-alpha relation",
+      "equation": "|β_ωω'|^2 = exp(-2πω/κ) |α_ωω'|^2",
+      "objects": [
+        "@bogoliubov_coefficient_alpha",
+        "@bogoliubov_coefficient_beta",
+        "@surface_gravity"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-13",
+      "name": "Planck occupation number",
+      "equation": "⟨N_ω⟩ = Γ_ω / (exp(2πω/κ) - 1)",
+      "objects": [
+        "@thermal_spectrum",
+        "@greybody_factor",
+        "@particle_number_operator"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-14",
+      "name": "Hawking temperature",
+      "equation": "T_H = ħκ / (2π k_B c)",
+      "objects": [
+        "@hawking_temperature",
+        "@surface_gravity"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-15",
+      "name": "Schwarzschild Hawking temperature",
+      "equation": "T_H = ħ c^3 / (8π G M k_B)",
+      "objects": [
+        "@hawking_temperature",
+        "@black_hole_mass_loss"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-16",
+      "name": "Asymptotic spectral flux",
+      "equation": "dN/(dt dω) = Σ_lm Γ_ωlm / (2π[exp(ħω/(k_B T_H)) ∓ 1])",
+      "objects": [
+        "@asymptotic_particle_flux",
+        "@greybody_factor",
+        "@hawking_temperature"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-17",
+      "name": "Semiclassical Einstein equation",
+      "equation": "G_μν + Λg_μν = (8πG/c^4) ⟨T_μν⟩_ren",
+      "objects": [
+        "@semiclassical_einstein_equation",
+        "@renormalized_stress_energy_tensor",
+        "@semiclassical_gravity"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    },
+    {
+      "id": "HQ-18",
+      "name": "Mass-loss balance",
+      "equation": "dM/dt = -P_H/c^2",
+      "objects": [
+        "@black_hole_mass_loss",
+        "@hawking_radiation",
+        "@black_hole_evaporation"
+      ],
+      "status": "CANONICAL_IMPORTED",
+      "provenance": "ACCEPTED_MATHEMATICS:HAWKING_MINIMAL_MATHEMATICAL_CLOSURE"
+    }
+  ]
+}
