@@ -1,0 +1,13 @@
+# L1 Fantasy — MK163 checkpoint 001
+
+**Full inheritance:** https://github.com/xApologies/AERA. This record captures workshop decisions, not the entire upstream corpus.
+
+- Six energy basins Red, Orange, Yellow, Green, Blue, Violet; White is their superposed starscape singularity, not a seventh independent basin. Equilibrium references k/7 for k=1..6. Neon configurations vary within 0..1. This starscape has unusually high Yellow neon (~0.87), associated with local Genesis collapse, storms, Domai, Eldris and altered flora/fauna. Different starscapes may have different physics.
+- Inherit AERA realms, six natural denizen families (dragons, Vaelith spelling to verify, Primordials, sprites, leviathans, unicorns), and eight prophecies. Do not invent their text. Black Prophecy refers to Kira but does not give her unique pre-awakening Afflicted biology.
+- Dwarves, humans and elves are provisional names for three human-race expressions with differing brain Genesis-channel development and natural expression: lower, intermediate, higher typical development respectively. Avoid inventing precise biological metrics.
+- Kira is an ordinary Afflicted before Awakening: calcified/chalky skin and growths, brittle white hair, steel-gray eyes; unusually survived to 23 local years. Recover exact pre/post biology selectively from MK157; do not import its storyline. Awakening potion saves her life.
+- Awakening dermal/subdermal throughput progression: dot (small extra draw), open arc (resistance to closure prevents useful simultaneous draw), closed ring (usable throughput), widened band (greater throughput). Fatigue matters.
+- All Transduction methods use AERA's six-stage lifecycle; consult AERA for exact formal stage names. Three interfaces: native Genesis expression (practitioner forms manifold), Binding (bandwidth-consuming anchored manifold, concept determines efficiency), Genesis Cards (handle lifecycle and occupy needed energy basins while active; user must still aim/control; fatigue remains).
+- Binding circles use orthogonal runei markings, sigil geometry, anchor points, crystals, vaen, and Genesis dust; activation consumes resources as specified. Enchanting vocabulary: Aineth process, Ain enchantment, Aenith enchanted item.
+- ER Foam is spatially stabilized tactile Genesis Field projection, firm rubber-like surface, potentially load-bearing. Uses: switches, temperature controls, raised maps, optionally projected road a few inches over sigil-carved stone. Road is an available application, not universal infrastructure.
+- CSR was described in this workshop as Continuous Spatial Resolution; earlier source descriptions differ. Flag acronym expansion for reconciliation, do not silently change.
