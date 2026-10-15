@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Delta 004 supplies selected humanoid physiology, energy horns and six-anchor integration. The earlier blanket deferral of physiological detail is narrowed to parameters the new owner still leaves open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Violet — Unicorns
 
 **Project:** MK163  
@@ -24,3 +26,8 @@ These source passages preserve the author’s actual wording, including dictatio
 
 - AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md
 - AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md
+
+
+## Delta 004 integration — 2026-10-15
+
+[The denizen morphology/power owner](../BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md) preserves the complete selected Unicorn description and output qualifications. [Six Black bonds](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) owns the future Green-book Black Unicorn and later Unicorn-conferred Arch Maegus working title; that title is not an existing professional rank.

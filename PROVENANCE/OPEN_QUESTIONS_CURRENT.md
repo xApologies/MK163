@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Delta 004 partially answers the earlier character/arc/physiology deferrals. The new records govern those answers; all remaining unknowns stay open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Open or deferred design matters
 
 These are matters the author deliberately left unassigned, or external catalogues not supplied as complete local sources. They are not permission to omit already established canon. All available decisions and their author evidence remain in the detailed topic records.
@@ -36,3 +38,12 @@ Pirate floating hubs versus volcanic-island infrastructure remains a source-reco
 
 ## External corpus boundary
 This delivery includes the complete attached MK Ultra PDF and API 4.3 archive, all their preserved source bytes, the supplied visual/material masters, and the eight full AERA prophecy manuscripts. It does not pretend to be a clone of every gigabyte of _bricked or every older repository's history. Full inheritance remains in force; the source registry identifies external knowledge for later targeted use. This boundary does not reduce the preservation of the actual workshop records.
+
+
+## Delta 004 integration — 2026-10-15
+
+Now supplied: Cardsmith-mother background and inherited possessions; the first three Red macro arcs; Arc 1’s five working chapter beats; Arc 2’s first-robe endpoint; Arc 3’s first Black Sprite bond; Nyx; six-book bond order; selected denizen morphology and output comparison. See [Red](../BOOKS/RED/BOOK_OVERVIEW.md), [bond progression](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) and [denizen record](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md).
+
+Still open: Arc 2/3 chapter counts, Arc 3 order/exit, later arc/scene placement, second/third ordinary Binding failure timing, Black Crystal/potion involvement, precise Awakening recipe and exceptional eyes, Black Binding equations, realm-local time ratios, Card catalogue entry/pricing, adult Nyx geometry/size/flower colors, Vaelith embryo development, city jurisdiction and exact routes. The complete supplied boundaries remain in [Delta coverage](DELTA_004_UPSTREAM_AND_COVERAGE.md).
+
+Evidence recovery limits: the seven new images contain no identifiable top-down city map/color key; no exact match is established to a prior attachment. The separately mentioned MK117 Chapters 1–5 workup is not present among the tracked source files or this payload. The eight-page MK117 arc outline is preserved in full and is not a substitute for that workup. These are explicitly reported source gaps, not permission to reconstruct missing originals or invent geometry.

@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Delta 004 now explicitly selects Kaira’s first Black Sprite identity bond in Red Arc 3. The last pre-delta “never selected” statement no longer applies to that bond; the bond does not replace her Awakening. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Green — Sprites
 
 **Project:** MK163  
@@ -32,3 +34,8 @@ These source passages preserve the author’s actual wording, including dictatio
 
 - AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md
 - AERA `L2/BIOLOGY/02_SPRITES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/02_SPRITES.md
+
+
+## Delta 004 integration — 2026-10-15
+
+[The denizen morphology owner](../BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md) adds ordinary and Black humanoid forms while preserving the existing flame/collective mechanisms above. [Six Black bonds](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) owns the exceptional crystal bond, Green-basin anchor, compatibility and independent agency. [Nyx](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) is a separate Green-native feline who cannot hive-merge and is not a Sprite.

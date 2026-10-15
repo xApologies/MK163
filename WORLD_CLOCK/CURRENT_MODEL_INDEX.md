@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Current integration is MK163_DELTA_004 on the preserved LIVE_MODEL_003 baseline. The older delivery label identifies that baseline; use the additional owners below for the newly accepted scope. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # MK163 — Current World Clock and workshop model
 
 **Current delivery:** MK163_LIVE_MODEL_003. This index navigates the detailed model; it is not the model itself. Preserve all linked topic records and evidence. Old LIVE_MODEL_001 snapshots are historical incomplete outlines.
@@ -92,3 +94,19 @@ Read `CONSTITUTIONS/00_AUTHORITY.md`, `CONSTITUTIONS/10_EXHAUSTIVE_LIVE_MODEL.md
 
 - [Seven books, variable arcs and the boundary between plan and prose](L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md)
 - [Antagonist existence, awareness, interaction and resolution across books](L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md)
+
+
+## Delta 004 integration — 2026-10-15
+
+- [Constitution 13 — arc pipeline and lean inheritance](../CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md)
+- [L2 — denizen humanoid morphology, physiology and qualified raw-output ranking](L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md)
+- [L2 — Red’s Violet-dungeon city and route boundaries](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
+- [L3 — Nyx, ecology, family and independent party role](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md)
+- [L3 — six Black bonds, compatibility, book progression and prophecy](L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md)
+- [Red Arc 1 — Village Hub, Collapse, Awakening, Departure](../BOOKS/RED/ARCS/ARC_001/ARC.md)
+- [Red Arc 2 — Independence, Nyx and First Chainmail Robe](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [Red Arc 3 — Robe Movement and Black Sprite](../BOOKS/RED/ARCS/ARC_003/ARC.md)
+- [Current continuity refinements](../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md)
+- [Delta correction ledger](../PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md)
+- [Supplied coverage and upstream revisions](../PROVENANCE/DELTA_004_UPSTREAM_AND_COVERAGE.md)
+- [New original evidence and unresolved visual associations](../PROVENANCE/DELTA_004_EVIDENCE_REGISTER.md)

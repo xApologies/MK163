@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Delta 004 describes Dragons as generalists across six Transduction domains. The earlier source restriction to one specialization per individual is superseded for MK163 by this explicit author selection; it remains recorded below. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Red — Dragons
 
 **Project:** MK163  
@@ -24,3 +26,8 @@ These source passages preserve the author’s actual wording, including dictatio
 
 - AERA `L2/BIOLOGY/00_READ_FIRST.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/00_READ_FIRST.md
 - AERA `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md
+
+
+## Delta 004 integration — 2026-10-15
+
+[The denizen morphology/power owner](../BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md) carries the current generalist statement, qualified raw-output ranking and provisional humanoid horn detail. It does not grant every individual instant equal mastery or turn raw power into a battle result. [Six Black bonds](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) owns the future Yellow-book Black Dragon egg, agency and flight/CSR potential. No upstream AERA file is changed.

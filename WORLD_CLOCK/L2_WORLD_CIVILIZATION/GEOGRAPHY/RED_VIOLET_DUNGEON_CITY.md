@@ -1,0 +1,7 @@
+# Book Red Arcs Two/Three city
+Author supplied top-down orthogonal zone-map and color key: 10×10-mile large city south of Kaira's starting region, attached to one of exactly TWO Violet dungeons in its royal domain. Multiple Blue/Green dungeons also exist; Blue/Violet generally large cities 10×10 miles, Green small 7×7. Kingdom has four domains ruled sovereign King/Queen (Violet), princes (Orange/Green), princess (Blue); precise jurisdiction of Kaira's new city OPEN, do not force it. Map includes residential, crafters, adventurer/alchemist guilds, commerce, shops, restaurants, groceries, entertainment, education, government, finance, guards, hospitals, emergency response, caravan stables, parks, training, industry, agriculture, gates and water. Kaira's routine apartment↔blacksmith supplier↔raeon/abecca/Genesis Card shops↔dungeon staging↔forest harvesting. Exact streets/distances of routes OPEN; do not invent map geometry or render substitutes. Earlier Village Hub Green dungeon remains separate region.
+
+
+## Delta 004 evidence availability
+
+The paragraph above records the workshop's supplied map description. No identifiable top-down city map/color key is among this delta's seven JPEGs, and no exact prior-attachment match has been established. Preserve the described functions and limits; do not invent the missing map, routes or measured geometry. See [the evidence register](../../../PROVENANCE/DELTA_004_EVIDENCE_REGISTER.md). The full original delivery text above remains unchanged.

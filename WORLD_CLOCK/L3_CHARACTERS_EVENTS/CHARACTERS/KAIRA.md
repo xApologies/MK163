@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** Delta 004 explicitly selects the Cardsmith-mother/MK727 backstory and Red Arcs 1–3, Nyx, and the six Black bonds. Earlier “not selected” or “timing open” statements apply only where the new records leave matters open; unrelated old plots remain excluded. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Kaira — established character state and biological source boundary
 
 **Project:** MK163  
@@ -86,3 +88,12 @@ These source passages preserve the author’s actual wording, including dictatio
 - AERA `L2/BIOLOGY/05_AFFLICTED.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/05_AFFLICTED.md
 - AERA `L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md
 - MK157 biological reference only; source differences retained in PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md
+
+
+## Delta 004 integration — 2026-10-15
+
+The full new biography and opening sequence are in [Red Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md). [Red Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent city-life development, and [Red Arc 3](../../../BOOKS/RED/ARCS/ARC_003/ARC.md) owns the robe movement and first Black Sprite bond. These are explicit MK163 selections, not blanket inheritance of MK727 narrative.
+
+[Nyx](NYX.md) is her independently adopted Green-native feline family member. [Six Black bonds](../EVENTS/SIX_BLACK_BONDS.md) owns planned denizen bonds, compatibility, party roles and the future Arch Maegus working title. Planned acquisitions are not opening possessions. The first Sprite bond does not replace her lifesaving Awakening, make Nyx a Sprite, or grant a Dimensional Ring before Red’s tournament ending.
+
+The exceptional post-Awakening eye phenotype, Black Crystal involvement in the potion and precise recipe remain open. See [the supplied correction ledger](../../../PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md).

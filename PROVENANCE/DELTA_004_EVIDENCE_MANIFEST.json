@@ -1,0 +1,84 @@
+{
+  "delivery": "MK163_DELTA_004",
+  "source_zip_sha256": "ebcf07b463e4062494096ef5f84673be7b869d47ef433ca06c8c5a197433a297",
+  "preservation": "Original PDF and all seven JPEG bytes; original image dimensions unchanged.",
+  "files": [
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK117_Book1_Arc_Outline(1).pdf",
+      "sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad",
+      "pages": 8,
+      "role": "Historical MK117 outline; only explicitly re-adopted Arc 2/3 movement ideas apply.",
+      "searchable_text": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK117_Book1_Arc_Outline_DELTA_004.txt"
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/031DA1D6-DECF-44A0-AB8F-37B178D4FA6D.jpeg",
+      "sha256": "135933c460cbf9f15327cd107b52bcd41c7ab59280d8ecf5d7138262489f3c54",
+      "size": 732476,
+      "width": 1254,
+      "height": 1254,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: Primordial Humanoids / The Yellow Domain. Captioned material-form reference; no new taxonomy inferred."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/51A904D0-5404-462A-B4D9-04749BA6706C.jpeg",
+      "sha256": "b3c76dc9f67d2c13ef9674841392214143166c273d51cf46d663f5226a3f57b5",
+      "size": 207474,
+      "width": 1312,
+      "height": 561,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: Sprites / Green Domain. Sprite reference; embedded color examples are visual evidence, not a new universal numerical rule."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/5358BF94-008E-4878-989E-5B88A144DDB2.jpeg",
+      "sha256": "a3e3293c8e33a87b88a0898e8b3b95759f2e4a1d6951d4d83ca8ffde75e14987",
+      "size": 447403,
+      "width": 1254,
+      "height": 1254,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Nine clothed humanoid figures. Exact character/species association not established by the supplied filename; left unassigned."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/5D3AACC5-CE05-49B0-B12D-BCCBC29552AC.jpeg",
+      "sha256": "dcaa8009f4856b6633957ec9c8bd5011a2c42ce908b58f0bfb995669df1fd4ba",
+      "size": 537740,
+      "width": 1145,
+      "height": 1374,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: Vaelith / Orange Domain. Anatomical visual reference; image percentages/costume are not adopted as canonical rules."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/814D23F1-D8FE-4D9B-99ED-C5ECBD888A96.jpeg",
+      "sha256": "8f5af6988a569d82b584083c74daf5214cd909452d06376cd47a6a904c9c1dda",
+      "size": 856064,
+      "width": 1122,
+      "height": 1402,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: The Blue Domain Leviathans. Concept montage; its individual fantasy labels are not imported as an MK163 roster."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854(1).jpeg",
+      "sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159",
+      "size": 262354,
+      "width": 1144,
+      "height": 895,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: Black Sprite Crystal. Crystal appearance reference; no additional origin event inferred."
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/AA0AE57A-4CF3-457D-A3A6-9ADBC4381CC1.jpeg",
+      "sha256": "334d76d0229238b19e8368ac3271ba401accd2f529a3c3cdf0e929c1a6f2ef5a",
+      "size": 322274,
+      "width": 1145,
+      "height": 1374,
+      "format": "JPEG",
+      "association": "Visible labels identify reference subject where present; unlabeled character/species mappings remain unresolved. Author decisions control over image captions.",
+      "visual_observation": "Visible title: Unisex Mannequin. General form scaffold; a species/character-specific assignment is not established."
+    }
+  ]
+}

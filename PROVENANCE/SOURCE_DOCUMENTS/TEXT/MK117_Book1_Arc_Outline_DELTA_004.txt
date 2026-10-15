@@ -1,0 +1,254 @@
+# MK117 Book 1 Arc Outline — complete extracted source text
+
+Historical source evidence, not wholesale MK163 plot authority.
+Original: PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK117_Book1_Arc_Outline(1).pdf
+SHA-256: 4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad
+Extractor: pypdf; page numbers are one-based PDF pages.
+
+
+=== PDF PAGE 1 ===
+
+MK117 — BOOK 1 STRUCTURAL ARC OUTLINE
+ARC 1 — THE VILLAGE HUB
+(~Chapters 1–8)
+Core Identity:
+Confinement, labor, survival, awakening, escape.
+This arc establishes:
+- Enix’s life as an indentured servant to the blacksmith
+- the village hub structure
+- the wilds and civilization boundary
+- eldren danger
+- the Genesis field awakening
+- Enix’s decision to leave her old life behind
+CHAPTER 1 — THE SALVE
+Enix travels through the village hub to the apothecary to obtain salve for her damaged fingertips from years of
+chainmail labor. The chapter establishes her daily life, emotional isolation, and how the village quietly reacts to
+her unusual appearance.
+CHAPTER 2 — THE SMITHY
+The reality of Enix’s labor is shown. She works endlessly producing chainmail rings and armor components. Her
+mastery is already visible, but she is treated more as a tool than a person.
+CHAPTER 3 — THE DELIVERY ROUTE
+Enix and the apprentice leave the village on a delivery route. This is one of the few times Enix experiences
+freedom outside the smithy. The chapter introduces the outer roads and the feeling of leaving civilization behind.
+CHAPTER 4 — BEYOND THE BOUNDARY
+The story introduces the wilds, stabilized territory, and the environmental danger surrounding civilization. Enix
+experiences fascination with the wilderness and the unknown outside the protected zones.
+CHAPTER 5 — THE CRITICAL RESOLUTION EVENT
+A Genesis field collapse occurs. Eldren manifest during the event. Chaos erupts and Enix awakens to the
+Genesis field during the crisis.
+
+
+=== PDF PAGE 2 ===
+
+CHAPTER 6 — AFTERMATH
+Enix struggles with the consequences of awakening and her changing perception of the world. She realizes she
+cannot remain in the village forever.
+CHAPTER 7 — THE ROAD TO THE CITY
+Enix leaves the village and travels alone toward the city. During the journey she begins unconsciously
+interacting with the Genesis field, repeatedly forming and collapsing simple ring structures.
+CHAPTER 8 — ARRIVAL
+Enix arrives in the city, opens a bank account, rents her first apartment, and experiences true freedom for the
+first time in her life.
+ARC 2 — THE ORANGE DISTRICT
+(~Chapters 8–25)
+Core Identity:
+Freedom, routine, exploration, belonging.
+This arc establishes:
+- Enix’s routine in the city
+- the Orange District culture
+- the abeca house
+- the RAEON card game
+- Genesis card collecting culture
+- artifact shops
+- blacksmith row
+- Enix’s local mystique
+- the beginning of her friendships
+The city itself becomes the primary focus of the arc.
+CHAPTER 9 — THE FIRST MORNING
+Enix wakes up in complete silence with nobody controlling her schedule for the first time in her life.
+CHAPTER 10 — THE DISTRICT
+Enix explores the Orange District and experiences city life, public shaping, commerce, food stalls, and the
+layered social structure of urban civilization.
+
+
+=== PDF PAGE 3 ===
+
+CHAPTER 11 — THE ABECA HOUSE
+Enix discovers the local abeca house and forms her first emotional connection in the city through the barista who
+remembers her order.
+CHAPTER 12 — THE RESTAURANT
+Enix realizes she does not know how to cook and develops a routine of eating at the same local restaurant while
+unconsciously maintaining survival habits from her old life.
+CHAPTER 13 — THE CARD SHOP
+Enix discovers RAEON and becomes fascinated with the strategy game. Her unusual strategic thinking
+immediately begins attracting attention.
+CHAPTER 14 — THE GENESIS GALLERY
+Enix explores collectible Genesis cards and becomes obsessed with the idea of owning a fireball card despite
+the extreme cost.
+CHAPTER 15 — THE ARTIFICER
+Enix visits the local artificer shop and begins theorycrafting artifact combinations she cannot yet afford.
+CHAPTER 16 — ROUTINE
+Enix settles into a repeating routine between the abeca house, card shop, Genesis gallery, artificer, and
+restaurant.
+CHAPTER 17 — GOSSIP
+Rumors spread throughout the district about the strange pale noble girl living alone in the Orange District.
+CHAPTER 18 — BLACKSMITH ROW
+Enix visits Blacksmith Row and shocks local smiths with her understanding of chainmail craftsmanship and
+pricing.
+CHAPTER 19 — THE RINGS
+Enix orders specialized chainmail rings and begins discussing robe concepts with the blacksmith.
+CHAPTER 20 — THE CARD PLAYER
+Enix’s reputation in the local RAEON scene rapidly grows due to her unusual strategic playstyle.
+CHAPTER 21 — THE SHOPKEEPERS
+The district shopkeepers quietly begin discussing Enix among themselves as her reputation spreads through the
+local community.
+CHAPTER 22 — THE OUTSIDER
+Despite her growing familiarity in the district, Enix realizes people still keep an emotional distance from her due
+to her appearance and assumed noble status.
+
+
+=== PDF PAGE 4 ===
+
+CHAPTER 23 — THE DESIGN
+Enix begins constructing the first chainmail robe.
+CHAPTER 24 — THE HOOD
+Enix completes major sections of the robe and becomes emotionally attached to its design and silhouette.
+CHAPTER 25 — THE FIRST ROBE
+Enix publicly wears the chainmail robe for the first time, beginning the cultural reaction that will eventually spread
+throughout the city.
+ARC 3 — THE ROBE MOVEMENT
+(~Chapters 25–50)
+Core Identity:
+Recognition, expression, cultural emergence.
+This arc establishes:
+- the rise of the Enix robe
+- the beginning of Enix’s business
+- the robe as a fashion and cultural icon
+- Enix becoming socially visible
+- the spread of robe culture
+- the “original Enix robe” identity
+- the spectral robe event
+- the arrival of the Alchemist
+## Major Arc 3 Developments
+- Blacksmith Row becomes obsessed with the robe craftsmanship.
+- Enix receives her first commissions.
+- The robe spreads throughout the district and eventually the city.
+- Enix establishes a workshop in the Yellow District.
+- Original Enix robes become status symbols.
+- Knockoff robes begin appearing.
+- The mage class becomes irritated by the cultural movement.
+
+
+=== PDF PAGE 5 ===
+
+- Enix purchases her first Genesis fireball card.
+- Enix’s red RAEON deck identity becomes established.
+- Enix’s emotional breakdown during a late-night work session causes a Genesis-field outburst that alters a robe
+with spectral Genesis-infused striations.
+- The spectral robe creates a second wave of cultural fascination.
+- Painted robes and colored-ring variants begin appearing throughout the city.
+- Enix’s nervous ring-creation habit becomes a recurring subconscious shaping behavior.
+- Enix begins experimenting with manifold seam coupling and robe articulation.
+- The Alchemist arrives as a mysterious wealthy customer seeking an original robe.
+ARC 3 ENDPOINT
+The Alchemist notices Enix’s eyes and immediately realizes she is awakened — but does not match any known
+awakening profile.
+This begins the Alchemist’s quiet obsession with understanding what Enix truly is.
+ARC 4 — THE ALCHEMIST
+(~Chapters 50–70)
+Core Identity:
+Friendship, social ascent, emotional opening, hidden protection.
+This arc establishes:
+- Enix’s relationship with the Alchemist
+- the Alchemist’s fascination with Enix
+- noble social structures
+- the Alchemist’s quiet political protection of Enix
+- the transition toward academy life
+## Major Arc 4 Developments
+- The Alchemist repeatedly visits Enix’s workshop during the crafting of her custom robe.
+- Enix slowly opens up emotionally for the first time in her life.
+- The Alchemist initially believes Enix’s village story is fabricated.
+- Over time, the Alchemist realizes Enix is telling the truth.
+
+
+=== PDF PAGE 6 ===
+
+- The Alchemist becomes quietly protective of Enix while also recognizing her immense social and intellectual
+value.
+- The Alchemist shields Enix from noble attention by socially aligning her under her own influence.
+- Enix becomes friends with the Princess through the Alchemist.
+- The Princess introduces Enix to the King’s RAEON nights.
+- The King becomes obsessed with understanding Enix’s strategic thinking.
+- The Alchemist offers Enix sponsorship to the Royal Healing Academy after learning Enix originally dreamed of
+becoming an apothecary like her mother.
+ARC 4 ENDPOINT
+Enix leaves for the capital city to begin formal healing education.
+ARC 5 — THE ACADEMY
+(~Chapters 70–95)
+Core Identity:
+Education, struggle, formalization, conceptual understanding.
+This arc establishes:
+- Enix’s healing education
+- mathematics
+- anatomy
+- biology
+- chemistry
+- organic chemistry
+- topology
+- MK43 Ultra mathematics
+- conceptual shaping foundations
+## Major Arc 5 Developments
+- Enix struggles heavily with formal mathematics despite her intuitive field understanding.
+- Professors become frustrated because Enix often arrives at correct conclusions through impossible logic.
+- The Princess helps bridge the gap between Enix’s intuition and formal academic structure.
+- Enix studies anatomy, biology, chemistry, and organic chemistry to understand healing structurally.
+
+
+=== PDF PAGE 7 ===
+
+- Healing is established as conceptual reconstruction rather than generic healing magic.
+- Enix’s shaping style becomes highly effective due to her understanding of manifolds, continuity, and structural
+systems.
+- Enix gradually learns to formally manipulate AERA.
+ARC 5 ENDPOINT
+Enix graduates from the academy but remains largely unrecognized professionally.
+ARC 6 — THE HOSPITAL
+(~Chapters 95–105)
+Core Identity:
+Consequence, practical healing, exhaustion, proving competence.
+This arc establishes:
+- real-world healing pressure
+- hospital dynamics
+- triage
+- emotional burden
+- Enix’s unconventional medical effectiveness
+## Major Arc 6 Developments
+- The Alchemist secures Enix an entry-level hospital position.
+- Enix struggles socially and professionally at first.
+- Enix develops a reputation for unconventional recoveries and impossible saves.
+- Senior healers slowly begin recognizing her unusual talent.
+ARC 6 ENDPOINT
+An Adventurer Guild takes notice of Enix’s healing ability.
+ARC 7 — THE OFFER
+(~Chapters 105–110)
+Core Identity:
+
+
+=== PDF PAGE 8 ===
+
+Recognition, transition, expansion into the wider world.
+This arc establishes:
+- Enix’s transition from civilization into expeditionary operations
+- the beginning of the wider world story
+- the next phase of her life
+## Major Arc 7 Developments
+- The Adventurer Guild approaches Enix to serve as a healer for a DOMAI expedition.
+- Enix is recognized not because of fame, but because she became useful where it mattered.
+- The offer represents the first step into the larger world beyond the cities.
+# BOOK 1 ENDPOINT
+Book 1 ends with Enix accepting a position as a field healer attached to a DOMAI assault expedition.
+The story transitions from:
+civilization and identity formation
+into:
+the frontier, the wilds, eldren, and expeditionary life.
+

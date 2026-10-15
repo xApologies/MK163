@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** First-robe completion and public reveal now end Red Arc 2; the robe movement belongs to Arc 3. The former tentative Arc2/Arc3 placement is superseded within that scope. Day Zero remains in Red; its exact date remains open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # The Chainmail Robe and Day Zero of the Age of Knowledge
 
 **Project:** MK163  
@@ -44,3 +46,10 @@ These source passages preserve the author’s actual wording, including dictatio
 
 - PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG
 - MK147 `live-model/05_CULTURE/V2_CULTURE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md — historical worldbuilding, not MK163 plot authority.
+
+
+## Delta 004 integration — 2026-10-15
+
+[Red Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) preserves the parallel daily-life work and first-robe endpoint. [Red Arc 3](../../../BOOKS/RED/ARCS/ARC_003/ARC.md) preserves commissions, workshop/business expansion, originals and imitations, traditional maegi’s irritation and the Transductionist knowledge movement. The complete garment and cultural detail above remains applicable.
+
+MK117’s spectral-robe scene, Alchemist customer and specific workshop scenes remain source candidates; its old first-Fireball purchase is excluded because Kaira already inherited that card. The distant Age of Wonder is beyond this saga. See [source evidence and selective inheritance boundaries](../../../PROVENANCE/DELTA_004_EVIDENCE_REGISTER.md).

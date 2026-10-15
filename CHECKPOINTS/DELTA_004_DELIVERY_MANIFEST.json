@@ -1,0 +1,117 @@
+{
+  "package": "MK163_DELTA_004",
+  "scope": "new MK163 workshop developments since Live Model 003; unchanged upstream sources referenced, not duplicated",
+  "target_repo": "xApologies/MK163",
+  "baseline_sha": "cbbae90ed8830753d2da11972db1799d9b7a3a2e",
+  "status": "COMPLETE\u2014WORKSHOP within recoverable conversation scope; upstream corpora intentionally referenced, unresolved boundaries flagged",
+  "files": [
+    {
+      "path": "payload/BOOKS/RED/ARCS/ARC_001/ARC.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1967,
+      "sha256": "b81f8872231404d9d4ae7f10f04580e04980f5fc664bf03e8d1859340d15e23d"
+    },
+    {
+      "path": "payload/BOOKS/RED/ARCS/ARC_002/ARC.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 2922,
+      "sha256": "4ca3033606fdf587f05a78487e325a33abb95ae14cd4e25df9b383af9817b271"
+    },
+    {
+      "path": "payload/BOOKS/RED/ARCS/ARC_003/ARC.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1890,
+      "sha256": "b60977a891ac76e2e49c77b4d2318a777da652527fde39cab0e89fd2cf73288e"
+    },
+    {
+      "path": "payload/CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1865,
+      "sha256": "238c717f1d80a2058ee3b34c18b6200705f9eb14677ea7cfe8606685198600d9"
+    },
+    {
+      "path": "payload/PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1442,
+      "sha256": "5e9711019571da78cfe6129f83cd06390478a28af89c884738ba2f51bccc988a"
+    },
+    {
+      "path": "payload/PROVENANCE/DELTA_004_UPSTREAM_AND_COVERAGE.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 2490,
+      "sha256": "3217484d48ac7ed14d0fd5b12415ee5ca721992fb206f0d493c3d2e7499a19b5"
+    },
+    {
+      "path": "payload/PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK117_Book1_Arc_Outline(1).pdf",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 14176,
+      "sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/031DA1D6-DECF-44A0-AB8F-37B178D4FA6D.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 732476,
+      "sha256": "135933c460cbf9f15327cd107b52bcd41c7ab59280d8ecf5d7138262489f3c54"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/51A904D0-5404-462A-B4D9-04749BA6706C.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 207474,
+      "sha256": "b3c76dc9f67d2c13ef9674841392214143166c273d51cf46d663f5226a3f57b5"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/5358BF94-008E-4878-989E-5B88A144DDB2.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 447403,
+      "sha256": "a3e3293c8e33a87b88a0898e8b3b95759f2e4a1d6951d4d83ca8ffde75e14987"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/5D3AACC5-CE05-49B0-B12D-BCCBC29552AC.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 537740,
+      "sha256": "dcaa8009f4856b6633957ec9c8bd5011a2c42ce908b58f0bfb995669df1fd4ba"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/814D23F1-D8FE-4D9B-99ED-C5ECBD888A96.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 856064,
+      "sha256": "8f5af6988a569d82b584083c74daf5214cd909452d06376cd47a6a904c9c1dda"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854(1).jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 262354,
+      "sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159"
+    },
+    {
+      "path": "payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/AA0AE57A-4CF3-457D-A3A6-9ADBC4381CC1.jpeg",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 322274,
+      "sha256": "334d76d0229238b19e8368ac3271ba401accd2f529a3c3cdf0e929c1a6f2ef5a"
+    },
+    {
+      "path": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 2294,
+      "sha256": "e0190d5f5ac47ebe042d8d0d7b8a6ab22e8e93a56cb3cbc787ee1d3b8fff296f"
+    },
+    {
+      "path": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1027,
+      "sha256": "a5e7b731b7335d5c07c65fb8e7027b9edfe4eb96591e78e4749f4e80e1a4e69b"
+    },
+    {
+      "path": "payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 1332,
+      "sha256": "f5110ea29bfdfffc52d84ad96056702157a722cf54ec3e621916449f60e41435"
+    },
+    {
+      "path": "payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+      "operation": "ADD_OR_NONDESTRUCTIVE_MERGE",
+      "size": 2283,
+      "sha256": "55f3022b7734b70f12eceff6bd6c6f0cf62022d463f1eda738f9e97424e877e7"
+    }
+  ]
+}

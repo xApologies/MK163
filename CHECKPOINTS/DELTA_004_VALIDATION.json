@@ -1,0 +1,246 @@
+{
+  "delivery": "MK163_DELTA_004",
+  "baseline_commit": "cbbae90ed8830753d2da11972db1799d9b7a3a2e",
+  "status": "PASS",
+  "scope": "All supplied payload and preservation checks passed; external/source gaps disclosed, not a complete upstream-corpus claim.",
+  "counts": {
+    "added": 26,
+    "modified": 20,
+    "unchanged": 235,
+    "deleted": 0,
+    "conflicting": 0,
+    "payload_files": 18,
+    "original_pdf_pages": 8,
+    "original_images": 7
+  },
+  "checks": [
+    {
+      "check": "payload:payload/BOOKS/RED/ARCS/ARC_001/ARC.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/BOOKS/RED/ARCS/ARC_002/ARC.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/BOOKS/RED/ARCS/ARC_003/ARC.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/DELTA_004_UPSTREAM_AND_COVERAGE.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK117_Book1_Arc_Outline(1).pdf",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/031DA1D6-DECF-44A0-AB8F-37B178D4FA6D.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/51A904D0-5404-462A-B4D9-04749BA6706C.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/5358BF94-008E-4878-989E-5B88A144DDB2.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/5D3AACC5-CE05-49B0-B12D-BCCBC29552AC.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/814D23F1-D8FE-4D9B-99ED-C5ECBD888A96.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854(1).jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/PROVENANCE/VISUAL_REFERENCES/DELTA_004/AA0AE57A-4CF3-457D-A3A6-9ADBC4381CC1.jpeg",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "payload:payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+      "status": "PASS",
+      "detail": "Exact supplied bytes retained; arc contracts and city provenance boundary may follow the original prefix."
+    },
+    {
+      "check": "archive safety and inventory",
+      "status": "PASS",
+      "detail": "20 entries / 18 declared payloads. prepare.py checked traversal, absolute/reserved paths, symlinks/reparse targets and case collisions before extraction; no _inbox targets."
+    },
+    {
+      "check": "prior repository preservation",
+      "status": "PASS",
+      "detail": "All 255 prior tracked files retained: 235 byte-identical; 20 expanded with complete old bytes preserved contiguously. No deletions or source-quote rewrites."
+    },
+    {
+      "check": "_inbox preservation",
+      "status": "PASS",
+      "detail": "All six pre-existing input files unchanged; no added, moved or deleted input files."
+    },
+    {
+      "check": "no duplicate prior source import",
+      "status": "PASS",
+      "detail": "No delivered payload duplicates any prior tracked file by SHA-256; previous corpora remain in their original paths."
+    },
+    {
+      "check": "manifest and execution receipts",
+      "status": "PASS",
+      "detail": "Both handoff receipts preserved exactly."
+    },
+    {
+      "check": "arc structure and scope",
+      "status": "PASS",
+      "detail": "Exactly Red arcs 1–3; all eight constitutional fields plus major actors; no later arcs or chapter files fabricated."
+    },
+    {
+      "check": "open Arc 3 exit",
+      "status": "PASS",
+      "detail": "Terminal event, ordering and chapter count remain explicitly open."
+    },
+    {
+      "check": "current owner:WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "status": "PASS",
+      "detail": "Mandatory current owner expanded; full prior content and evidence retained."
+    },
+    {
+      "check": "current owner:WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "status": "PASS",
+      "detail": "Mandatory current owner expanded; full prior content and evidence retained."
+    },
+    {
+      "check": "current owner:BOOKS/RED/BOOK_OVERVIEW.md",
+      "status": "PASS",
+      "detail": "Mandatory current owner expanded; full prior content and evidence retained."
+    },
+    {
+      "check": "current owner:CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "status": "PASS",
+      "detail": "Mandatory current owner expanded; full prior content and evidence retained."
+    },
+    {
+      "check": "current owner:WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "status": "PASS",
+      "detail": "Mandatory current owner expanded; full prior content and evidence retained."
+    },
+    {
+      "check": "six-bond order",
+      "status": "PASS",
+      "detail": "Six approved book/species pairings; White has no additional bond; source has eight-party total and no fourth interface."
+    },
+    {
+      "check": "Nyx independent identity",
+      "status": "PASS",
+      "detail": "Adoption, parent ecology and independent agency preserved; no Sprite conflation."
+    },
+    {
+      "check": "source boundaries retained",
+      "status": "PASS",
+      "detail": "MK117 candidates and excluded old plot remain labeled; entire historical PDF/text preserved as evidence."
+    },
+    {
+      "check": "full PDF text",
+      "status": "PASS",
+      "detail": "All eight PDF pages have full extracted text and page markers; original PDF hash verified."
+    },
+    {
+      "check": "Live Model 003 regression",
+      "status": "PASS",
+      "detail": "Existing validator run with --structural-only: 242 paths, 76 topic records, 67 author passages, 31 originals, eight prophecy blobs and API recombination. Separate delta checks verify changed file bytes."
+    },
+    {
+      "check": "git whitespace",
+      "status": "PASS",
+      "detail": "Working-tree diff passes repository whitespace policy; staged check follows before commit."
+    },
+    {
+      "check": "repository path uniqueness",
+      "status": "PASS",
+      "detail": "Case-insensitive path uniqueness across baseline plus all additions."
+    },
+    {
+      "check": "maximum file size",
+      "status": "PASS",
+      "detail": "All installed files below 100 MiB; no new large upstream copy."
+    },
+    {
+      "check": "no inbox in expected commit",
+      "status": "PASS",
+      "detail": "Only explicit delivery, integration, receipt and report paths are candidates for staging."
+    }
+  ],
+  "live_model_003_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "manual_review": [
+    "Read authorized 04.pdf, ZIP execution, manifest, all ten payload Markdown records and relevant current constitutions/owners.",
+    "Inspected all seven new images and full eight-page PDF text, with rendered pages 4–5.",
+    "Reviewed current naming, source-only variants, Arc 2/3 boundary, no pre-ending Ring, Nyx distinction, six bonds, raw-output versus combat ranking, and provisional/open qualifications.",
+    "No unapproved prose, later arcs, dates, streets, prices, source deletions or new upstream copies."
+  ],
+  "unresolved_destructive_conflicts": [],
+  "documented_source_and_design_limits": [
+    "City map/color key not identifiable among the seven supplied JPEGs; no exact association to a prior source established. Written geography retained; no map invented.",
+    "Separately referenced MK117 Chapters 1–5 workup not found in tracked source paths or supplied payload. Eight-page arc outline is preserved in full, not substituted for that workup.",
+    "Unlabeled clothed montage/mannequin character/species association unresolved; filenames and all bytes retained.",
+    "No raw Delta 004 conversation transcript supplied; preservation is verified against all available delivery records, not an independently recovered conversation.",
+    "Upstream revisions are package-declared, not fetched/reverified here; full external corpora remain inherited references, not a claim of complete local transcription.",
+    "Card catalogue/pricing, exceptional eyes, potion/crystal involvement, Binding equations, Arc 3 exit/order, later chapter/arc placement, realm time ratios, adult Nyx details, Vaelith embryo development and city jurisdiction remain open as documented."
+  ],
+  "pre_commit_requirements": [
+    "Stage only the explicit 46 changed paths; verify Git blobs equal working bytes, whitespace and no _inbox.",
+    "Fetch and verify origin/main has not advanced before ordinary push."
+  ],
+  "commit_reference": "The Git commit containing this receipt; final SHA and verified remote status are reported after push."
+}

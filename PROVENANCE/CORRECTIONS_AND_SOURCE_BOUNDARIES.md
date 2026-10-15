@@ -1,3 +1,5 @@
+> **Delta 004 authority update — 2026-10-15:** The Delta 004 decisions below extend the prior source scopes and resolve the old tentative robe placement. Older restrictions remain for unselected plots; explicit scoped re-adoptions now govern. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
 # Corrections and source boundaries — active MK163
 
 These corrections preserve current decisions without deleting original evidence. Old LIVE_MODEL_001 content remains historical and is not the current full model.
@@ -48,3 +50,19 @@ No authority is granted to wrong assistant charts, invisible widgets, inventedpe
 
 ## Historical sources retained without plot inheritance
 MK147 world/civilization and selected systems; MK727 operationalGenesisCardmechanics; MK157 onlyKairapre/postbiology; _bricked/Ultra/API mathematicalsource; _raeon gameauthority. OriginalGenesisPoint documents retain sourcewords includingSanctuaries,Chimera,oldDomaiHeart and oldastrometricnumbers; they do not override currentAERA.
+
+
+## Delta 004 integration — 2026-10-15
+
+[The complete supplied 16-item correction ledger](DELTA_004_CORRECTIONS_AND_BOUNDARIES.md) and [source/coverage register](DELTA_004_UPSTREAM_AND_COVERAGE.md) are retained verbatim. Current-author precedence is applied only to their stated scope.
+
+| Subject | Earlier state retained | Delta 004 disposition and source |
+|---|---|---|
+| MK727 scope / Kaira biography | Operational Card mechanics only; personal history not imported | Arc 1 explicitly selects the Cardsmith mother, books/Card and smithy backstory. Other MK727 plot is not inherited. |
+| Robe arc placement | Arc 2/3 tentative | First robe ends Arc 2; movement is Arc 3. Day Zero remains Red with exact date open. |
+| Black Sprite | First companion not yet selected in Live Model 003 | Explicit crystal identity bond in Red Arc 3, distinct from Nyx and Awakening. The supplied correction also records the workshop’s move from Arc 2; no claim is made that the baseline had an Arc 2 bond. |
+| Dragon specializations | Earlier inherited text limits each individual to one | Supplied SEVEN_DENIZENS_VISUAL_POWER describes six-domain generalists; latest explicit MK163 decision governs, original wording preserved. |
+| Unicorn physiology | Detail deferred | Supplied morphology/physiology now selected; unspecified parameters remain open. |
+| MK117 outline | Historical Enix story | Only explicitly selected Arc 2/3 movement ideas; no old cast, numbered chapter plan, Arc 3 ending or later arcs adopted. |
+
+The source register’s original MK727/MK157 scope describes Live Model 003; this section records the limited new selections without rewriting that historical register. Upstream revisions in the new delivery are package-supplied references, not a claim that their repositories were fetched or fully read in this integration.
