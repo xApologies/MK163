@@ -8,3 +8,7 @@
 6. Validate names, structure, authority, continuity and provenance.
 7. Produce an import report with added/modified/skipped/conflicted files.
 8. Commit and push only after validation and authorization; verify remote status and commit SHA.
+
+## Mandatory completeness gate
+
+Before any live-model ZIP is applied or pushed, enforce `CONSTITUTIONS/10_EXHAUSTIVE_LIVE_MODEL.md`. Validate topic-level coverage, full-fidelity records, author corrections, examples, numbers, exceptions, provenance, and preservation of prior canonical detail. Reject packages that contain only layer summaries while claiming to represent an exhaustive workshop. Produce a coverage matrix and an omissions report. An incomplete package may be accepted only if explicitly labeled a partial checkpoint, with the author's approval; never call it a complete live-model export. A successful Git push proves transport, not completeness.
