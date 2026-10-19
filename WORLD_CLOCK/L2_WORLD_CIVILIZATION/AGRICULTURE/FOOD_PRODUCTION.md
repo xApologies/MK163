@@ -1,3 +1,18 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds the unnamed agricultural king and local food distribution; already present velis/soil, crop categories and vegetarian economics are not replaced. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Royal legacy and food circulation
+A past unnamed king sponsored the agricultural research as a defining contribution to feeding civilization and reducing famine. The existing combination of growth-field velis, nutrient-rich alchemical soil and sigil water remains the mechanism: increased uptake requires nutrients, and illustrative 3/5/7 harvests per season are not universal yields. The king's name, reign and monuments remain open.
+
+Protected perimeter cultivation, rare/costly livestock, noble protected herds and valuable working animals support the existing mostly plant-based economy. Affordable restaurant meals are plausible for Kaira; no new diet requirement or meat prohibition is introduced. Industry may wash, mill, ferment, preserve, dry and sort food; machinery and recipes remain open. Freight/bulk stocks and distributed neighborhood food stores connect Crops, Trees, Livestock, Groceries, Restaurants and Open Market. The 17-slice/13-crop inherited design and unrecovered 221-item catalogue remain intact. [City key](../GEOGRAPHY/CITY_DESIGN_KEY.md) preserves those distinct functions.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md](ROYAL_AGRICULTURE_HISTORY_DELTA.md), [WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md](../CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # Genesis-assisted agriculture and the predominantly vegetarian food economy
 
 **Project:** MK163  

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "ARC1-01",
+    "topic": "Apothecary opening, maternal Fireball card, smithy and abecca",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC1-02",
+    "topic": "Delivery road order, timing, geography, 31-hour clock",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC1-03",
+    "topic": "Collapse, Eldris, wounds, crystals, seven mushrooms",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC1-04",
+    "topic": "Alchemist healing, White-heavy Awakening, evidence and transaction",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_001/STONE_HOLLOW_AWAKENING_DETAIL.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC1-05",
+    "topic": "Return route, avoid smithy, expensive caravan escape",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC1-06",
+    "topic": "Caravan hops, intermediate city, arrival at Violet Dungeon City",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC2-01",
+    "topic": "Three apartment viewings, failed first haggling, Orange NW",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC2-02",
+    "topic": "Kaira meals, vaen houseplants, restaurants and errands",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC2-03",
+    "topic": "Chainmail rings, sales, Metal Manipulation, mother books",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "ARC2-04",
+    "topic": "Nyx rescue and robe reveal boundary",
+    "payload": "payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+    "canonical_target": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-01",
+    "topic": "Seven concentric square chromatic city districts",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-02",
+    "topic": "Northwest Violet dungeon, five-mile separation, staging hub",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-03",
+    "topic": "Three gates per side, traffic, dungeon support economy",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-04",
+    "topic": "Original city key 26 exact labels plus three additions",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-05",
+    "topic": "Universal map, scene paths, 660-foot block scale",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-CITY-06",
+    "topic": "Stone, water, dissolution, repairs and logistics",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ART-01",
+    "topic": "Three Blacksmith Rows, Yellow, showroom artisan concept",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ART-02",
+    "topic": "Two-tier recessed promenade, no overhang, suite ranges",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ART-03",
+    "topic": "Six civic artisan categories, distributed retail and industry",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-01",
+    "topic": "Sigil tables with seven crystal anchors and vaen seats",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-02",
+    "topic": "ER foam switches, faders, transfer rates and modes",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-03",
+    "topic": "Proprietary alchemical houses and table manufacturing",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_TABLES_AND_HOUSES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-04",
+    "topic": "Failure and repair, no automatic table wear",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-05",
+    "topic": "Alchemical paste, substrate identity, recarving",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ALC-06",
+    "topic": "Paste cost, controlled licensing, vandalism and maintenance",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-AGRI-01",
+    "topic": "Past king, growth velis, enriched soil, multiple harvests",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-AGRI-02",
+    "topic": "Protected agriculture, vegetarian economy, expensive meat",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-DOMAI-01",
+    "topic": "Six exterior radii, 1.7x internal radius, ELDRIS tiers",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-DOMAI-02",
+    "topic": "Crown Yellow+ military, White core competition",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ECON-01",
+    "topic": "White Dust Crown dominance and private exchange/bank reserves",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L2-ECON-02",
+    "topic": "Awakening potions as extraordinary noble-associated wealth",
+    "payload": "payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+    "canonical_target": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L3-KAIRA-01",
+    "topic": "Awakened anatomy, preserved Afflicted pigmentation and scars",
+    "payload": "payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md",
+    "canonical_target": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L3-KAIRA-02",
+    "topic": "Orange District rumors, estranged noble speculation",
+    "payload": "payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+    "canonical_target": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "L3-KAIRA-03",
+    "topic": "Noble circle reaction and seven-book fashion icon motif",
+    "payload": "payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+    "canonical_target": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "CONT-01",
+    "topic": "Superseded chapter structure, naming and map corrections",
+    "payload": "payload/CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md",
+    "canonical_target": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "PROV-01",
+    "topic": "Verbatim available author evidence excerpts",
+    "payload": "payload/PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+    "canonical_target": "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  },
+  {
+    "id": "PROV-02",
+    "topic": "Additional available author evidence excerpts",
+    "payload": "payload/PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md",
+    "canonical_target": "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+    "source_status": "AUTHOR_DECISION_RECONSTRUCTED_WITH_PARTIAL_VERBATIM_EVIDENCE",
+    "integration": "ADD_MISSING_ONLY",
+    "coverage": "PRESENT_IN_PAYLOAD"
+  }
+]

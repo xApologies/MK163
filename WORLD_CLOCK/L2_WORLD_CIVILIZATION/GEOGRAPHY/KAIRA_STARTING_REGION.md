@@ -1,3 +1,37 @@
+> **Delta 005 current authority — integrated 2026-10-19:** The detailed numbered circuit replaces the older Arc 1 shorthand through Hollowmere. Hollowmere remains site #6 northwest of the hub, distinct from #5 Green Hollow; specified distances are working locks, other legs remain open. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Delivery route and measured working values
+### Map identity and authority
+The author-provided Village Hub regional map is the only authority for exact placement. Region is a circle of radius 20 miles; a separate half-mile-square Village Hub is the development nucleus. Site #6 Hollowmere is a dungeon-support settlement northwest of the hub and is not a stop on Kaira's armor delivery route. This distinction prevents two visually similar but different maps from being conflated. The user specifically instructed that the route be derived from map geometry rather than fabricated from narrative convenience. The older MK163 starting-region record already has Hollowmere as northwest, roughly eleven miles from the hub in the earlier working estimate; that is not the same as Riverbend's six-point-six-mile distance.
+
+The delivery route is an ordered cycle, not a set of optional nearby villages:
+Village Hub → #2 Riverbend → #5 Green Hollow → #3 Oak Hollow → #8 Stone Hollow → #7 North Ridge → #5 Green Hollow → Village Hub.
+Site #5 is traversed twice, before and after the outer circuit. The first visit and second visit are different moments, not two Green Hollow locations. Kaira's outbound delivery schedule includes five destinations #2, #5, #3, #8, #7, while #5 is the return waypoint. The order is fixed for the working itinerary. Site #6 Hollowmere is a nearby Green dungeon staging settlement, not the name of #5.
+
+### Working segment distances, terrain and time
+Village Hub→Riverbend (#2) 6.6 miles, slightly uphill, 2h38m with loaded cart and small working animal. The derived cart average on this segment is about 2.51 mph, not a universal speed on every terrain. Riverbend→Green Hollow has variable ups/downs and, combined with first segment, yields ~5h travel from hub to Green Hollow. Green Hollow→Oak Hollow about 3h with a downhill tendency. Oak Hollow→Stone Hollow 9.4 miles and approximately 3h46m, corresponding to ~2.50 mph for this segment. These values are working decisions already made in the workshop, not an invitation to substitute a new straight-line estimate. Precise remaining legs (#8→#7, #7→#5, #5→Hub) are not reliably present in current retrieved discussion and MUST NOT be invented. Codex should search existing records or mark them OPEN. Segment distance should be stored separately from travel duration, elevation, pauses, cargo, loading and unloading.
+
+A loaded two-wheeled metal cart has sigils for mass reduction. Mass reduction does not make armor weightless, nor remove rolling resistance or terrain considerations. Wood is scarce because harvesting in the Wilds is dangerous; this is why metal carts and stone infrastructure are economically plausible. A small donkey-like fantasy beast is costly because grazing herds are vulnerable to Eldris. The exact species is deliberately unnamed. Hundreds of pounds of armor may be carried; quantity is not a finalized inventory. The beast's economic value to the smith exceeds Kaira's perceived worth, contributing to her terror after its death.
+
+### Time budget
+Local day 31 hours. The author selected roughly 0500 as ordinary waking time and ~2800 as a plausible bedtime after a long day, with ~7–10 hours normal sleep. Sunset/night travel boundary was discussed around 2100, but seasonal/astronomical precision is not locked here. Kaira begins around 1100 after hand treatment, loading, backtracking for Fireball Card and abecca. First day: about five hours moving to Green Hollow, plus unloading at Riverbend and Green Hollow (approximately one hour each), yielding arrival/work completion near 1800. Three hours of light remain, insufficient for the next ~3h leg to Oak Hollow after rest, and traveling after dark is unwise. She sleeps underneath cart at Green Hollow. Her Afflicted endurance may require unscheduled rest even with the animal doing most pulling. Day two she travels from Green Hollow to Oak Hollow and sets off for Stone Hollow; she does not reach it as a routine delivery because collapse occurs around two-thirds of the way from Oak Hollow. Day three and four were originally scheduled Stone Hollow→North Ridge→Green Hollow→Hub, but the injury/awakening and escape change the realized timeline.
+
+The original itinerary was approximately four local days because loading, unloading, fatigue, rest, nighttime and terrain occupy real time. A 21-hour total moving time cannot be casually expanded into three days of nothing happening; the schedule requires explicit accounted activities. This is a guiding continuity rule. The author emphasized that maps determine transitions and that any scene's time must be accounted for: departure, motion, delays, conversation, cargo transfer, lodging, recovery and arrival. A narrative 'cut' does not license teleportation.
+
+### Unresolved map geometry
+Do not fabricate exact segment distances beyond the documented examples, exact gradient, walking-road detours, mile-by-mile positions, solar azimuth, or astronomical dusk model. Earlier chat may contain a complete distance table not present in this recovered text; if found in existing MK163, use the source and provenance rather than recalculate from an unavailable image. The 20-mile radius is a scaling anchor, not permission to infer arbitrary coordinate positions.
+
+The current route is **Village Hub → #2 Riverbend → #5 Green Hollow → #3 Oak Hollow → #8 Stone Hollow → #7 North Ridge → #5 Green Hollow → Village Hub**. Site #5 is visited twice. Planned days: Hub→2→5; 5→3→8; 8→7→5; 5→Hub. Collapse interrupts day 2 about two-thirds along #3→#8. C1's apothecary→smithy→apothecary→abecca→exit path and the realized post-injury return are event decisions owned by [Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md). The supplement's loose phrase “city arrival in a later arc” yields to the explicit current Arc 1 endpoint at city arrival; no extra travel arc is created.
+
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md](VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # Kaira’s Village Hub and the northwest Hollowmere dungeon settlement
 
 **Project:** MK163  

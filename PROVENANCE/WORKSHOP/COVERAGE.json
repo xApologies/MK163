@@ -2335,5 +2335,15 @@
     "all_eight_prophecy_blobs_verified": true,
     "supplied_source_bytes_preserved": true,
     "api_large_index_losslessly_split": true
-  }
+  },
+  "supplemental_deliveries": [
+    {
+      "id": "MK163_LIVE_MODEL_EXPORT_005",
+      "topic_rows": 37,
+      "supplied_payload_files": 25,
+      "coverage": "PROVENANCE/DELTA_005_IMPORT_REPORT.json",
+      "source_matrix": "CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.json",
+      "full_workshop_certified": false
+    }
+  ]
 }

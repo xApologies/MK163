@@ -1,3 +1,17 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Closes only parameters explicitly settled by Delta 005; retains source-recovery limits and unassigned values. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+Resolved within this delivery: Arc 1 planning order/endpoint, delivery route and the two specified distances, seven-mushroom accounting, visible Awakening with steel-gray eyes, 29 textual city-key labels, six domai working radii and selected Blacksmith Row architecture. Earlier entries calling these wholly unassigned no longer govern.
+
+Still open: exact caravan chapter count, Arc 2/3 chapter counts and Arc 3 exit/order, return-leg distances, map pixel coordinates/ring widths/business identities, apartment rents/viewing outcomes, original map image provenance, missing historical MK117 workup, exact 31-hour solar timing, planet circumference comparison, maternal-item carrying history, leftovers at the smithy, full recipes/control curves/paste activation/fault tolerance, licensing/sentencing/manufacturer and king names, White Dust price/ahm:eln conversion, domai metric/lifetime/yields, and all unrelated earlier open questions. The Black stasis crystal is retained unbound, while unspecified early interaction is not invented.
+
+Full raw workshop transcript is unavailable. The 35 supplied author excerpts and all substantive reconstruction records are preserved; this supports complete supplied-package integration, not COMPLETE—WORKSHOP certification or complete upstream transcription. [The supplied register](DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md) lists the numerical examples that remain illustrative, including five-mile dungeon separation, staging size, Row sizes/percentages, table lifetime, manufacturers, harvest counts and exchange discounts.
+
+---
+
+## Prior record retained in full
+
 > **Delta 004 authority update — 2026-10-15:** Delta 004 partially answers the earlier character/arc/physiology deferrals. The new records govern those answers; all remaining unknowns stay open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # Open or deferred design matters

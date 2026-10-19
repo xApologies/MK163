@@ -1,3 +1,13 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Registers the verified package and exact handoff metadata; no unchanged upstream source corpus is recopied. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+Delta 005 source input: `_inbox/MK163_LIVE_MODEL_EXPORT_005_CODEX.zip`, SHA-256 `6402e6077db9a5fc413b1d7463d332268560d140eea29cc4408a7f0c5e729b53`, verified against MK163 baseline `bfd51233d73c4e572fdedc2a0fca51af50af81b2`. Exact package-level receipts live under `CHECKPOINTS/DELTA_005_PACKAGE/`. [Supplied upstream/source boundaries](DELTA_005_COVERAGE_AND_AUTHORITY.md), [evidence journal](WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md) and [row-by-row import audit](DELTA_005_IMPORT_REPORT.json) record scope. Upstream repositories were not fetched or independently reread in this integration; only this MK163 checkout and supplied records were examined. No new original images/PDFs were supplied. The handoff entry is `execution.md` via `executable.me`, not `executable.md`.
+
+---
+
+## Prior record retained in full
+
 # MK163 source navigation
 
 The structured register is `SOURCE_REGISTRY.json`. Topic records identify their own sources and embedded author passages. Original PDFs, images and API archive are preserved under `SOURCE_DOCUMENTS`, with SHA-256 identities in `ATTACHMENT_MANIFEST.json`. The full eight prophecy manuscripts and their Git blob identities are indexed in `PROPHECY_SOURCE_MANIFEST.json`.

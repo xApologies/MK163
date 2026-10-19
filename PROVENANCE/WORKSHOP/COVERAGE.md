@@ -1,3 +1,13 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds scoped Delta 005 coverage links; prior workshop inventory remains intact. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+The 37-row Delta 005 coverage inventory is retained exactly in [CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.md](../../CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.md). The actual reverse-diff results, owners, source citations and open parameters are recorded row by row in [PROVENANCE/DELTA_005_IMPORT_REPORT.md](../DELTA_005_IMPORT_REPORT.md) and its JSON companion. All 25 substantive payload files are retained, including overlapping evidence supplements; existing topics and W-series evidence are preserved. Complete raw-conversation recovery is not claimed.
+
+---
+
+## Prior record retained in full
+
 # Workshop coverage and preservation matrix
 
 This is an audit index, not a replacement for the underlying records. Each evidence passage is preserved in full. Topic files retain detailed decisions, mechanisms, examples, distinctions and dependencies. Original source documents remain original bytes.

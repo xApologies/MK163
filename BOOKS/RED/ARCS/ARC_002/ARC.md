@@ -1,3 +1,42 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Arc 1 now supplies city arrival; Arc 2 opens with failed haggling at the first of three apartment viewings. Existing Nyx ecology, parallel work/study strands and first-robe endpoint are preserved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Arc identity
+MK163-RED-ARC-002 — Independence, Nyx and First Chainmail Robe. Book RED, Arc 2; existing objective, principal conflict, major actors, dependencies and exit remain in force except for the entry refinement below.
+
+### Entry state
+Kaira has arrived after Arc 1's protected caravan travel and transfer, initially staying at an inn. The arc opens in medias res at failed haggling during the first of three apartment viewings, not an inn wake-up or expository tour. Her crystal runway is her approximate three-year estimate without income, not a certified balance; carry limits still matter without a Dimensional Ring.
+
+### Major events — new detail within the existing parallel strands
+#### Opening apartment sequence
+Kaira arrives at the city after a protected caravan journey that included at least one intermediate city and a caravan transfer. She initially uses an inn, not an instant apartment. Arc Two begins in the middle of a failed negotiation with an apartment manager. The author specifically corrected 'arguing' to 'failing at haggling'. She is trying to negotiate a lower rent on the FIRST of THREE apartment viewings. We have not established a landlord name, apartment price, deposit, the exact sequence of the second and third viewings, or the decisive reason for her final choice. Do not write a scene in which the manager accuses her of lying about nobility unless the author later selects that reaction. The manager can notice her striking appearance without becoming a new antagonist.
+
+The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Violet dungeon lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
+
+#### Food as an independence marker
+Kaira's smithy upbringing did not provide a normal domestic education. She has a few simple foods she can prepare, but cooking is not one of her established competencies. The author described this as somewhat embarrassing for her. She therefore keeps a bowl of inexpensive fresh fruit at home and eats that for breakfast, often an apple, banana or whatever local equivalent is available. Lunch and dinner are usually purchased at restaurants or small food establishments. This is economically plausible because the kingdom's agriculture is unusually productive: growth-field velis plus enriched soil allow multiple harvests, and a mostly vegetarian diet is affordable. A restaurant visit is not necessarily a special event. It is a routine part of her day, and it naturally moves her through streets where she encounters shopkeepers, delvers and neighbors.
+
+No fixed favorite restaurant or bakery has been named. The author specifically described a future process of adding a favorite bakery to the map once the route establishes it. Do not invent a permanent named bakery prematurely. Her eventual preferred food places can become recurring scene anchors, as can the abecca shop and fruit market. The food routine should not be turned into a new cooking-training subplot without author approval.
+
+She collects living botanical vaen as houseplants; her established harvesting, shirt/repair work, purchased ready-made rings, future Metal Manipulation Card and three maternal books remain in their existing sequence. Blacksmith Row is a plausible commercial stage, not an assigned supplier. The exact venue and schedule of raeon tournaments, favorite bakery/restaurant, prices, named contacts and measured city paths remain open. Do not relabel every glowing plant a unique Type 5 substance.
+
+### Character knowledge and public response
+[Kaira’s current character record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) owns the conspicuous Awakened phenotype, retained pigmentation/scars and false noble-origin rumor. Rumors begin after renting, expand into noble circles, and are magnified by the robe; they do not create a new conspiracy antagonist or determine the first manager’s reaction.
+
+### Exit state
+Unchanged: completion and public reveal of the first Chainmail Robe ends Arc Two. Nyx's rescue around the third dungeon return, full parental ecology and independent family identity remain unchanged. No Black Sprite bond here; Arc Three owns it. No Dimensional Ring until Red's end.
+
+### Status
+outlined — existing macro arc preserved; chapter count and scene realization remain open. No apartment-viewing outcomes beyond the failed first haggling are invented.
+
+
+Detailed supplied reconstruction/evidence: [BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md](SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md), [BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md](WORKSHOP_EXPANSION_DELTA.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # MK163-RED-ARC-002 — Independence, Nyx and First Chainmail Robe
 Status established macro arc; chapter count OPEN. Kaira newly Awakened with ~3 years frugal living in crystals (her estimate, without income), hidden Black Crystal, mother's books/card. Travels south to mature 10×10-mile orthogonal zoned city associated with one of only TWO Violet dungeons in its royal domain. Green dungeon anchors 7×7-mile small city, Blue/Violet 10×10 large city. City map/color key supplied; no invented street coordinates or domain ruler.
 Rents apartment, finds blacksmith selling ready chainmail rings, constructs demonstration chainmail shirt, shows dungeon staging-area delvers quality and repair pricing. One/two orders grow to three/four, pay for food, clothes and part of rent, extending savings. Regular route between home, smith/craft district, commercial area, dungeon staging and forest harvesting. Skilled since old delivery days at identifying medicinal flora/fungi/moss/vaen; earns small supplemental sales to apothecaries/alchemists. At least one early return includes flower patch harvest. Buys Metal Manipulation Genesis Card at Genesis Card shop (MK727 specifications); mother's Fireball Card already owned. Resumes Cardsmith theory from mother's books, still little hands-on manufacturing. Raeon shop/social tournaments possible every sixth day, seven placements White first (current cycle card) through Red seventh (older cycle cards), exact local schedule open. Abecca house, restaurant, artifact shops, friendships, delver culture; dungeon delvers relaxed social vs high-risk storm chasers; no universal moral stereotypes.

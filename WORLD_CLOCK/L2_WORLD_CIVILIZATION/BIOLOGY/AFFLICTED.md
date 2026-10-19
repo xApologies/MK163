@@ -1,3 +1,18 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds cross-references to new scoped owners; no inherited mechanism is rewritten. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+The inherited mechanism above/below is preserved. New MK163 realizations are owned by:
+
+- [selected visible phenotype and retained pigmentation](../../L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [class-dependent access without class-exclusive biology](../ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md).
+
+No universal gene equation, success guarantee, licensing law or new profession is inferred.
+
+---
+
+## Prior record retained in full
+
 # Afflicted — general condition and phenotype inheritance
 
 **Project:** MK163  

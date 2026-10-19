@@ -1,3 +1,15 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds the Yellow→Green lifestyle threshold and qualified nighttime crime; preserves the already established square-ring and maintained-city rules. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+Red, Orange and Yellow generally house commoner/working households. The largest lifestyle/space/amenity jump is Yellow→Green; Blue is affluent and Violet luxurious. White remains civic administration with limited governing-noble residence, not an ordinary luxury residential ring. Red may experience some nighttime petty crime without defining the district as a slum. The existing nested-square geometry, clean services and rank/basin distinctions remain unchanged.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md](../GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # Concentric square city districts and economic occupancy
 
 **Project:** MK163  

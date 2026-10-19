@@ -1,3 +1,18 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds cross-references to new scoped owners; no inherited mechanism is rewritten. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+The inherited mechanism above/below is preserved. New MK163 realizations are owned by:
+
+- [current steel-gray eyes, visible Awakening and scars](../../L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [specific Stone Hollow event, not a universal recipe](../../../BOOKS/RED/ARCS/ARC_001/ARC.md).
+
+No universal gene equation, success guarantee, licensing law or new profession is inferred.
+
+---
+
+## Prior record retained in full
+
 # White Awakening — whole-body biological reconstruction
 
 **Project:** MK163  

@@ -1,0 +1,42 @@
+> **Delta 005 supplied supplement — preserved source, not a competing canonical owner.** Active decisions are reconciled in [BOOKS/RED/ARCS/ARC_002/ARC.md](ARC.md). The complete original delivery bytes follow unchanged. Cross-domain explanations here do not override those owners or their explicit open parameters.
+
+# Arc Two scene development: known beats, unresolved choices, no narrative invention
+
+## Why the arc exists
+Arc One removes Kaira from the exploitative smithy and carries her to a large Violet-dungeon city. Arc Two is not a second escape plot. It is the beginning of independent adulthood. Kaira learns to live in her own home, earns money from a craft she already knows, studies the theoretical work inherited from her mother, gathers living Genesis flora, becomes acquainted with city culture, adopts Nyx, and designs a first distinctive Chainmail Robe. These strands run in parallel rather than as a checklist of consecutive chapters. The existing MK163 arc contract owns the macro progression. This supplement only adds the workshop's finer-grained urban geography, public identity and daily-life constraints.
+
+## Opening apartment sequence
+Kaira arrives at the city after a protected caravan journey that included at least one intermediate city and a caravan transfer. She initially uses an inn, not an instant apartment. Arc Two begins in the middle of a failed negotiation with an apartment manager. The author specifically corrected 'arguing' to 'failing at haggling'. She is trying to negotiate a lower rent on the FIRST of THREE apartment viewings. We have not established a landlord name, apartment price, deposit, the exact sequence of the second and third viewings, or the decisive reason for her final choice. Do not write a scene in which the manager accuses her of lying about nobility unless the author later selects that reaction. The manager can notice her striking appearance without becoming a new antagonist.
+
+The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Violet dungeon lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
+
+## Food as an independence marker
+Kaira's smithy upbringing did not provide a normal domestic education. She has a few simple foods she can prepare, but cooking is not one of her established competencies. The author described this as somewhat embarrassing for her. She therefore keeps a bowl of inexpensive fresh fruit at home and eats that for breakfast, often an apple, banana or whatever local equivalent is available. Lunch and dinner are usually purchased at restaurants or small food establishments. This is economically plausible because the kingdom's agriculture is unusually productive: growth-field velis plus enriched soil allow multiple harvests, and a mostly vegetarian diet is affordable. A restaurant visit is not necessarily a special event. It is a routine part of her day, and it naturally moves her through streets where she encounters shopkeepers, delvers and neighbors.
+
+No fixed favorite restaurant or bakery has been named. The author specifically described a future process of adding a favorite bakery to the map once the route establishes it. Do not invent a permanent named bakery prematurely. Her eventual preferred food places can become recurring scene anchors, as can the abecca shop and fruit market. The food routine should not be turned into a new cooking-training subplot without author approval.
+
+## Commercial work and resources
+She identifies a smith who sells ready chainmail rings. This is distinct from making all rings herself and matters to her startup efficiency. She creates a demonstration shirt to show dungeon delvers the quality of her work, offers repairs and custom mail work, and begins with a few customers. One or two orders may grow to three or four, providing regular income for food, clothing and some rent while preserving her crystal reserves. Her own estimate of three years of frugal living from crystals is not a bank-certified exact balance; income changes the horizon. She is skilled from years of hand weaving, but not yet a master of all metal Transduction. She eventually purchases a Metal Manipulation Genesis Card and begins learning to use it; her mother's Fireball Card was inherited earlier. She has three books from her mother and resumes Cardsmithing theory, with little practical card-manufacturing experience.
+
+She also gathers moss, fungi, flowers and vaen on visits to forest/dungeon outskirts, using knowledge from her mother and earlier delivery circuits. She sells some materials to alchemists/apothecaries. She likes living plants and may keep them in her apartment. The distinction between living Genesis flora, ordinary crop plants, vaen and Alchemical Types is inherited; do not relabel every glowing plant a unique high-level Type 5 substance.
+
+## City culture and hobbies
+The Violet dungeon is a cultural and economic anchor. Delvers visit staging inns, equipment suppliers and food venues; their work differs from mobile storm-chaser operations, which are much riskier in transient Genesis storms/domai. Kaira has a romanticized interest in dungeon communities because she grew up near Hollowmere. The city supports raeon card shops and possible regular tournaments, Genesis Card shops, abecca establishments, ordinary markets, furniture stores and high-end artisan showrooms. The author wants these to become part of the universal map through actual visits. The raeon tournament schedule and exact venue remain OPEN; older rules from other repositories should not be imported as an automatically fixed city calendar.
+
+## Nyx
+Around the third return from a dungeon-related trip, Kaira investigates unusual moss and a dissipating minor Genesis disturbance and finds a den associated with living orange flowers. Nyx's father was a giant Green-native feline who protected his pregnant mate and was killed by hunters; his mother was wounded by fireball and died in the den. Nyx is a black cub around six to seven weeks old. Kaira adopts him, and he becomes her family and shadow. The parents' orange flowers are their individual expression, not a universal species color. Nyx's plant growth, mischief, pride, independence and eventual large body are existing MK163 canon. He is not the Black Sprite and should not be conflated with the black crystal in Kaira's pack.
+
+## The robe and public attention
+Kaira experiments with layered mail and builds a form-fitting hooded gray-black garment of roughly five mail layers, lightweight and silk-like while structured, with no flared hem. It is not a false professional maege color uniform. She completes and publicly reveals the first Chainmail Robe at the END of Arc Two. Her reputation as a talented artisan and fashion innovator develops from this work. The public has already noticed her because of her visible Awakening and Afflicted coloration, and many believe she is an estranged noblewoman. The robe magnifies that attention. Arc Three is the cultural movement, larger business development and first Black Sprite Binding; do not move the Binding into Arc Two. The public reveal venue, crowd, exact garment measurements and timing remain open.
+
+## Continuity locks for drafting
+- Kaira's name spelled K-A-I-R-A in active canon.
+- She is healthy Awakened but retains Afflicted pigmentation and severe scars.
+- No Dimensional Ring until end of Book Red; she must carry supplies manually through most of Red.
+- No Black Sprite bond until Arc Three.
+- No invented noble ancestry or secret patron.
+- Three apartment viewings, first unsuccessful negotiation, eventual Orange District residence.
+- No precise city route duration before author measures the redrawn map.
+- No new arc-level antagonist or forced political investigation from noble gossip.
+- No automatic transformation of every incidental meeting into a named recurring character.
+- Keep the arc's daily-life cadence slow enough for the reader to experience the city.

@@ -1,0 +1,44 @@
+{
+  "repository": "xApologies/MK163",
+  "branch": "main",
+  "observed_tree_sha": "bfd51233d73c4e572fdedc2a0fca51af50af81b2",
+  "tree_entry_count": 336,
+  "relevant_md_count": 74,
+  "inspection": "Complete recursive Git tree enumerated; 18 principal relevant owner files fetched and searched; constitution 00/08/09/10/11/12/13 and AGENTS fetched; not a byte-for-byte semantic comparison of every tree file.",
+  "checked_owners": [
+    "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md"
+  ],
+  "verified_absences_in_inspected_owners": [
+    "alchemical paste",
+    "blacksmith row",
+    "city design key",
+    "misc services",
+    "alchemical table",
+    "energy transfer rate",
+    "seven mushrooms",
+    "1.7 multiplier",
+    "estranged/disowned rumor"
+  ],
+  "limitations": [
+    "An absence in these inspected owners is not proof no older provenance archive contains it.",
+    "Raw complete current conversation transcript was not available as an export; excerpts are explicitly partial.",
+    "The repository may change after observed tree SHA; Codex must recheck."
+  ]
+}

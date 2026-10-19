@@ -1,3 +1,13 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Current Delta 005 instructions supersede the older five-beat Arc 1 guard only; preservation and source boundaries still apply. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+For Delta 005 and later work, read `PROVENANCE/DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md`, `PROVENANCE/DELTA_005_IMPORT_REPORT.md`, and the current sections of the existing topic owners. Arc 1 now has four defined chapter roles followed by two or three caravan chapters; it ends at Violet-city arrival and forbids a return to the smithy for possessions. The old five-beat instruction below is superseded in that scope. Arc 2 retains the Nyx/robe macro sequence and starts with failed haggling at the first of three apartment viewings; Arc 3 still owns the first Black Sprite bond. Supplied overlapping records are labeled supplements with active-owner links. Original author excerpts remain literal and partial; no full-chat completeness claim.
+
+---
+
+## Prior record retained in full
+
 # Codex operating instructions
 
 Before modifying files, read `CONSTITUTIONS/00_AUTHORITY.md` and all task-relevant constitutions. Consult `WORLD_CLOCK/`, `CONTINUITY/`, and `PROVENANCE/` before changing canon. `_inbox/` is a local-only staging folder: never add, delete, move, or commit its contents. A Markdown handoff is a prompt, not a shell script. Validate packages before applying. Do not push if checks fail. Record source, changes, and conflicts. Never import MK147 narrative as MK163 canon. Do not silently override author-established decisions.

@@ -1,3 +1,13 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Replaces obsolete five-working-chapter references with Delta 005’s explicit architecture; other approved arcs remain intact. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+[Red Arc 1](ARCS/ARC_001/ARC.md) now has locked planning architecture: C1 apothecary/card/departure; C2 travel/collapse/gate; C3 healing/Awakening; C4 return/escape without entering the smithy; final 2–3 chapters protected caravan transfers and city arrival. The ~6–7 chapter estimate remains flexible; no prose is drafted. [Arc 2](ARCS/ARC_002/ARC.md) begins at failed haggling during the first of three viewings and retains its first-robe endpoint. Arc 3’s first Black Sprite bond and open exit, the tournament/Ring endpoint, and later book anchors remain unchanged. [Kaira’s social-identity owner](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) carries the seven-book false noble-origin motif.
+
+---
+
+## Prior record retained in full
+
 > **Delta 004 authority update — 2026-10-15:** Red Arcs 1–3 now have author-established macro records. Arc 1 has five working chapter beats; the older blanket statement that no arc or chapter count exists is superseded only for this supplied scope. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # Book Red — MK163

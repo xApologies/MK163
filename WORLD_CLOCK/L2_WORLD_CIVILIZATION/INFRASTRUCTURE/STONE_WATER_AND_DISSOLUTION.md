@@ -1,3 +1,22 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds concrete utility operation, bounded durability/repair and distributed service responsibilities; preserves the existing stone, water, dissolution and ER foam mechanisms. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Added operational examples
+A shower's wall control activates the water sigil above; a toilet's receiving basin uses low-intensity dissolution; a fountain balances generated water with captured/dissolved overflow. The returns are dispersed into ambient Genesis energy at low intensity. Local generation and dissolution permit the working no-conventional-pipes/sewer-mains design, including sites without a natural river or spring, without banning decorative waterways.
+
+### Durability and distributed maintenance
+Permanent carved stone sigils do not require daily repair merely because they operate. Some arrays may tolerate scratches or partial obstruction, but the actual redundancy/fault-tolerance architecture is unrecovered; neither universal fragility nor invulnerability is established. Major physical damage, overdriven channels or paste sabotage can require inspection and repair. A damaged fountain can be out of service while surrounding facilities continue operating. [The paste owner](../TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md) governs substrate restoration and professional geometry reconstruction; hypothetical theft/vandalism is not an Arc Two event.
+
+### Spatial service responsibilities
+Freight and Warehousing connects gates, caravan freight, industrial output and distribution; Caravan Stables remains distinct animal care. Localized Food Storage and Distribution serves neighborhoods across the 100-square-mile city. Civic Sigil Maintenance is administered through White civic authority, with distributed crews/depots possible; exact counts/sites are open. Basic Education/Education, Groceries/Open Market, guilds/Crafters/Shops, Trees and Crops remain distinct key functions. Mixed-use blocks and Misc Services preserve assignable capacity; once assigned, business locations persist. [The 29-function key](../GEOGRAPHY/CITY_DESIGN_KEY.md) and [route specification](../GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md) own the exact labels and geometry.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md](../CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md), [WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md](../CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # Phase-grown stone architecture and Genesis municipal utilities
 
 **Project:** MK163  

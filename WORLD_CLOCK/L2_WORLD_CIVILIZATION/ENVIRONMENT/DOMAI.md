@@ -1,3 +1,31 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds explicit six-class working radii and scoped Crown intervention policy; prior ontology and open non-isometric geometry remain intact. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### MK163 selected working sizes
+
+| Class | Exterior radius mi | Interior radius mi (×1.7) | ELDRIS allowed |
+|---|---:|---:|---|
+| Red | 3 | 5.1 | R |
+| Orange | 5 | 8.5 | R/O |
+| Yellow | 7 | 11.9 | R/O/Y |
+| Green | 11 | 18.7 | R/O/Y/G |
+| Blue | 13 | 22.1 | R/O/Y/G/B |
+| Violet | 17 | 28.9 | R/O/Y/G/B/V |
+
+Exterior radii are **3, 5, 7, 11, 13, 17 miles**; the working internal linear radius is **×1.7**. These author-selected MK163 parameters supersede the previous absence of a size choice, without replacing AERA's non-isometric geometry. Class is the maximum eligible eldris family, not a guaranteed spawn inventory. No White-class domai exists. Exact metric, lifespan, horizon and yields remain open.
+
+### Response threshold and competitive core recovery
+The earlier Yellow+ response example is now an explicit ordinary MK163 deployment policy: the Crown generally leaves Red/Orange to local noble houses, specialized aithren and vaelum, and commits forces from Yellow upward because ranged Genesis expression raises the danger. Noble strike teams and exceptional aithren can race for the non-conscious White core, harvest along the route and use expensive dimensional storage. The first capable group to break the core can recover it, subject to unassigned property/contract rules; this is not magical Crown ownership. Crown resources support repeated high-class operations and usually secure most White supply, without guaranteeing success.
+
+An aborted formation can leave small White clusters rather than a mature core. [Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md) owns Kaira’s specific collapse and resources. [The economy owner](../ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md) governs political allocation, private exchanges/banks and Awakening affordability. Core non-consciousness, progressive unraveling and evacuation danger remain unchanged.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md](DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md), [WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md](../ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # domai — temporary bounded Genesis-event landscapes
 
 **Project:** MK163  

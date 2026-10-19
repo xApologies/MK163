@@ -1,3 +1,30 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Reconciles the old event IDs with the new chapter order, city-arrival endpoint, mushroom ledger and no-smithy-return correction; later anchors remain unchanged. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Current narrative sequence
+A1-C1: apothecary salve and wraps, missing Fireball Card recovered, smithy cart loading, abecca, leave ~1100.
+A1-C2: day one Village Hub→Riverbend→Green Hollow; day two Green Hollow→Oak Hollow, collapse two-thirds toward Stone Hollow, three Red ELDRIS, trauma, crystal/mushroom harvest, collapse outside Stone Hollow.
+A1-C3: Stone Hollow alchemist healing, White-heavy Awakening, consume 3 of 7 mushrooms, pay 1, keep 3; change clothes, some red crystal for supplies/ahm.
+A1-C4: return #8→#7→#5→Village Hub, avoid smithy, arrange escape.
+A1-final 2–3 chapters: caravan to intermediate city, explore, transfer caravan to Violet Dungeon City; first inn.
+A2-open: first of three apartment negotiations fails; ultimately NW Orange District rental; local noble-origin rumors begin.
+A2-parallel: chainmail ring supplier, shirt and repairs, Cardsmith study, Metal Manipulation Card, vaen harvesting, meals/abecca/raeon.
+A2-Nyx: rescue near third dungeon return; maintain repository parent/cub ecology.
+A2-exit: first Chainmail Robe completed and publicly revealed. Arc Three owns Black Sprite Binding.
+
+The stable existing events KAIRA-COLLAPSE, KAIRA-AWAKENING and KAIRA-DEPARTURE now map to C2, C3 and C4 respectively, followed by city arrival at the end of Arc 1. The earlier “five chapters” and “return for possessions” rows are retained as history. A1-C1's list is not a reordered route: the active path is apothecary→smithy loading→apothecary card recovery→abecca→departure.
+
+Inventory: seven mushrooms gathered, three in potion, one paid, three kept. Recovered White crystals are consumed; Black stasis crystal is retained and unbound. Bloodstained clothes are burned and replaced. Maternal books/Card and any discarded possessions require accounted physical continuity; no smithy recovery is allowed. Missing return-leg durations remain open, not teleported.
+
+Kaira knows her experience but not the collapse's biological trigger or the Black Sprite identity; the alchemist fears White evidence without recognizing the prophecy; city neighbors know appearance/housing rather than the hidden history. Noble rumors remain false social inference. The existing Nyx, Arc Two robe endpoint, Arc Three bond, six planned Black bonds, calendar, tournament and Ring-continuity rows remain unchanged. [Arc 1](../BOOKS/RED/ARCS/ARC_001/ARC.md), [Arc 2](../BOOKS/RED/ARCS/ARC_002/ARC.md), [regional route](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md) and [Kaira](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) are the active owners.
+
+Detailed supplied reconstruction/evidence: [CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md](WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 > **Delta 004 authority update — 2026-10-15:** The appended Delta 004 rows refine the older opening/Awakening/robe timing and add Nyx and the six bonds. Existing tournament, ring, calendar and antagonist constraints remain active. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # MK163 continuity — canonical state across planned events

@@ -1,3 +1,22 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds White Dust distribution, private reserves and unequal Awakening access; existing currencies, commodity distinctions and unknown conversion rates are preserved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Distribution and banking
+The king is aware that White material is strategically scarce. The Crown may offer no White Dust at a given time, reserve it for royal priorities, use it to support political agreements, allocate it to allied nobles, sell it, or condition access on service and contract obligations. Noble houses may harvest independently, receive royal allocation, or purchase at exchanges. Aithren groups may harvest and sell. Rich merchants can buy on the open market through Genesis Dust exchanges when stock is available. Banks may purchase and hold Genesis Dust reserves, including scarce White material, and thus become another potential route of acquisition. The precise regulatory regime, reserve ratios, prices, banking instruments and royal monopoly enforcement remain unassigned. This is an economic model of scarcity and influence, not a modern securities exchange transplanted wholesale.
+
+### Alchemical and other demand
+White superposition provides structural opportunities that ordinary single-basin crystal energy cannot. White material has uses in advanced alchemy, Binding Circles, and occasional Cardsmithing. Awakening Potions require White material and are therefore extraordinary in cost. Other ingredients and skilled alchemy matter, but White material dominates economic accessibility. Some wealthy merchants can obtain Awakening, and nobles can be Afflicted just as commoners can; neither class nor social rank changes the inherited biological mutation. However, noble households are the predominant consumers because they can marshal wealth, political relationships and direct Crown access. Even ordinary affluent households may not be able to purchase an Awakening Potion. Availability and affordability are distinct: possessing money does not guarantee that the Crown or market is offering White Dust.
+
+### Scope and qualified scarcity
+The Crown's practical supply dominance follows its repeated core-recovery capability, not a physical/legal ban on private ownership or an upstream universal law. Private noble/aithren harvest, merchants, exchanges and bank reserves remain possible. Scarcity and availability differ from affordability. The source's californium comparison is a rarity analogy, not an Earth-dollar valuation. Exact White Dust prices, reserve ratios, taxes, monopoly enforcement, transaction law and ahm:eln conversion remain open. [Domai](../ENVIRONMENT/DOMAI.md) owns the response/core rules; [Kaira](../../L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) owns the false noble-origin inference, and [Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md) owns the dangerous small White-crystal evidence and alchemist transaction.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md](WHITE_DUST_CROWN_POLITICAL_ECONOMY.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
 # eln, ahm, diamond chips and resource exchange
 
 **Project:** MK163  

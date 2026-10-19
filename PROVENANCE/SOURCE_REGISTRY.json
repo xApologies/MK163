@@ -79,5 +79,20 @@
   ],
   "attached_sources_manifest": "PROVENANCE/SOURCE_DOCUMENTS/ATTACHMENT_MANIFEST.json",
   "prophecy_sources_manifest": "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
-  "author_evidence": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl"
+  "author_evidence": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl",
+  "subsequent_deliveries": [
+    {
+      "id": "MK163_LIVE_MODEL_EXPORT_005",
+      "baseline_commit": "bfd51233d73c4e572fdedc2a0fca51af50af81b2",
+      "package_sha256": "6402e6077db9a5fc413b1d7463d332268560d140eea29cc4408a7f0c5e729b53",
+      "source_authority": "PROVENANCE/DELTA_005_COVERAGE_AND_AUTHORITY.md",
+      "author_excerpts": [
+        "PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+        "PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md"
+      ],
+      "import_report": "PROVENANCE/DELTA_005_IMPORT_REPORT.json",
+      "upstream_reverified": false,
+      "full_raw_transcript_available": false
+    }
+  ]
 }

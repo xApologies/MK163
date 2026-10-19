@@ -1,3 +1,13 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Adds the two exact evidence collections and their scope; retains every prior author passage. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+Delta 005 adds **35 supplied partial author excerpts**: E001–E018 in [PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md](../DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md) and S019–S035 in [PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md](../DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md). The exact files remain the evidence containers; this journal is their common navigation owner. They are package-reproduced passages, not independently authenticated access to the full originating conversation. Literal dictation is retained. The 67 existing W-series passages and machine-readable baseline journal remain unchanged. Current interpretations and supersessions are recorded in [PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md](../CORRECTIONS_AND_SOURCE_BOUNDARIES.md).
+
+---
+
+## Prior record retained in full
+
 # MK163 foundational workshop — author evidence journal
 
 Full-length author passages retained from the available conversation. Topic IDs are organizational IDs, not fabricated original message identifiers or exact timestamps. Dictation is preserved. Some source records combine successive passages on the same topic; no missing hidden chat text is invented. Canonical topic files state the current interpretation and corrections.

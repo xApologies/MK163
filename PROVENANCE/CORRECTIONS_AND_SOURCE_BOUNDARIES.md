@@ -1,3 +1,27 @@
+> **Delta 005 current authority — integrated 2026-10-19:** Records explicit supersessions and source-internal scope reconciliations without deleting historical statements. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+| Subject | Prior statement retained | Current scoped disposition |
+|---|---|---|
+| Arc 1 chapter structure | Five working beats; collapse C3, Awakening C4 | C1 apothecary/departure; C2 delivery/collapse; C3 Awakening; C4 return/escape; final 2–3 caravan chapters; city-arrival endpoint. |
+| Possessions | Return to collect possessions | Avoid the smithy entirely; reconcile carried items and leave discarded/left-behind items absent unless an authorized route accounts for them. |
+| Delivery path | Hub→Riverbend→Hollowmere shorthand | Hub→2→5→3→8→7→5→Hub; #6 Hollowmere remains a separate dungeon satellite. |
+| Eyes | Exceptional post-Awakening choice open | Steel-gray retained irises with faint internal luminescence; old black/spectral source remains historical. |
+| Public response | E005's earlier blanket expectation of unchanged treatment | Later E016/S033 and current reconstruction explicitly make Awakening recognizable; frontier fear and varied city reactions remain contextual. |
+| Domai | No universal selected size; Yellow+ response example | Six working MK163 radii and ×1.7 internal radius; ordinary Crown response Yellow+, without universal AERA doctrine or exclusive ownership. |
+| City map | Text key unavailable in Delta 004 | All 26 labels plus three additions recovered in Delta 005 text; no original map image supplied or coordinates invented. |
+| Source supplement wording | Village ledger loosely says city arrival in a later arc | More specific Arc 1 architecture and continuity own arrival at the end of Arc 1. |
+| Black crystal | Generic open-register query about earlier consumption/activation | Explicit event inventory retains the crystal unbound for Arc 3; earlier interaction is unspecified, not an asserted consumption or early bond. |
+
+The package's other rejected suggestions—overhanging upper smithies, caravan 80,000 miles/day, hidden Awakening, mandatory noble ancestry, universal hostility, Crown magical exclusivity, separate crystal specialists and automatic age erosion of tables—are kept as rejected in the supplied sources. They are not falsely attributed to the baseline when absent there. The 80,000-mile circumference versus 2.7× Earth comparison remains open.
+
+[The complete new decision/qualification register](DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md) and [supplied corrections](../CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md) retain all details. AERA/MK147/MK727/MK157/MK117 source presence does not import their plots. New alchemical technical synchronization with AERA remains pending; no upstream repository is changed.
+
+---
+
+## Prior record retained in full
+
 > **Delta 004 authority update — 2026-10-15:** The Delta 004 decisions below extend the prior source scopes and resolve the old tentative robe placement. Older restrictions remain for unselected plots; explicit scoped re-adoptions now govern. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # Corrections and source boundaries — active MK163

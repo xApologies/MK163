@@ -1,0 +1,554 @@
+{
+  "delivery": "MK163_LIVE_MODEL_EXPORT_005",
+  "integrated_date": "2026-10-19",
+  "baseline_commit": "bfd51233d73c4e572fdedc2a0fca51af50af81b2",
+  "status": "PASS",
+  "scope": "Complete supplied-package integration and preservation checks; not a COMPLETE—WORKSHOP certification.",
+  "counts": {
+    "baseline_files": 281,
+    "added": 39,
+    "modified": 29,
+    "unchanged": 252,
+    "deleted": 0,
+    "payload_files": 25,
+    "manifest_records": 34,
+    "coverage_rows": 37,
+    "merged_rows": 35,
+    "already_present_rows": 2,
+    "conflicted_rows": 0,
+    "author_excerpts": 35
+  },
+  "checks": [
+    {
+      "check": "archive CRC",
+      "status": "PASS",
+      "detail": "35 regular entries, no CRC error."
+    },
+    {
+      "check": "complete manifest inventory",
+      "status": "PASS",
+      "detail": "34 declared records plus the manifest itself; no undeclared entry."
+    },
+    {
+      "check": "manifest BASELINE_REPOSITORY_AUDIT.json",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest COVERAGE_MATRIX.json",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest COVERAGE_MATRIX.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest LIVE_AUDIT_REPORT.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest README.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest RECONCILIATION_RULES.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest audit_package.py",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest executable.me",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest execution.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/BOOKS/RED/ARCS/ARC_001/STONE_HOLLOW_AWAKENING_DETAIL.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/PROVENANCE/DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/PROVENANCE/DELTA_005_COVERAGE_AND_AUTHORITY.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_TABLES_AND_HOUSES.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "manifest payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+      "status": "PASS",
+      "detail": "Size and SHA-256 verified independently of the supplied validator."
+    },
+    {
+      "check": "preserved BASELINE_REPOSITORY_AUDIT.json",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved COVERAGE_MATRIX.json",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved COVERAGE_MATRIX.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved LIVE_AUDIT_REPORT.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved MANIFEST.json",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved README.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved RECONCILIATION_RULES.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved audit_package.py",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved executable.me",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved execution.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/BOOKS/RED/ARCS/ARC_001/STONE_HOLLOW_AWAKENING_DETAIL.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/PROVENANCE/DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/PROVENANCE/DELTA_005_COVERAGE_AND_AUTHORITY.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_TABLES_AND_HOUSES.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "preserved payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+      "status": "PASS",
+      "detail": "All original bytes retained contiguously; supplements may have an ownership header and the paste owner has added cases."
+    },
+    {
+      "check": "path safety",
+      "status": "PASS",
+      "detail": "Pre-extraction audit rejected absolute/traversal/reserved paths, symlinks, reparse destinations and _inbox/.git targets. All 25 target paths were new; original tree clean."
+    },
+    {
+      "check": "baseline preservation",
+      "status": "PASS",
+      "detail": {
+        "byte_identical": 252,
+        "complete_old_bytes_retained_in_expanded_files": 27,
+        "json_documents_with_identical_prior_values": 2,
+        "removed": 0
+      }
+    },
+    {
+      "check": "_inbox unchanged",
+      "status": "PASS",
+      "detail": "All original input files, including all ZIPs and 04.pdf, unchanged; no added/deleted input files."
+    },
+    {
+      "check": "same existing repository",
+      "status": "PASS",
+      "detail": "Existing main at expected baseline; origin unchanged."
+    },
+    {
+      "check": "baseline tree declaration",
+      "status": "PASS",
+      "detail": "Package tree count 336 matches 281 blobs plus directories; no claim of semantic review of all historical sources."
+    },
+    {
+      "check": "Delta 004 complete payload preservation",
+      "status": "PASS",
+      "detail": "All 18 original Delta 004 payload byte sequences remain present, including PDF and seven JPEGs."
+    },
+    {
+      "check": "Live Model 003 regression",
+      "status": "PASS",
+      "detail": "Existing validator --structural-only passes 242 paths, 76 topic records, 67 author passages, original attachment hashes, eight prophecy blobs and full API recombination. Separate delta checks cover all new/expanded bytes."
+    },
+    {
+      "check": "Arc 1 corrected structure",
+      "status": "PASS",
+      "detail": "C1–C4 plus 2–3 caravan chapters; planning lock, flexible realization, no authored prose."
+    },
+    {
+      "check": "Arc 1 no smithy retrieval and city endpoint",
+      "status": "PASS",
+      "detail": "Former return-for-possessions and caravan-departure endpoint explicitly superseded; current exit matches Arc 2 entry."
+    },
+    {
+      "check": "all arc fields retained",
+      "status": "PASS",
+      "detail": "Three approved Red arc contracts retain all eight constitutional fields; no new arcs or chapter files."
+    },
+    {
+      "check": "Arc 2 boundaries",
+      "status": "PASS",
+      "detail": "Failed first haggling added; Nyx, robe endpoint and later Sprite bond retained."
+    },
+    {
+      "check": "mushroom arithmetic",
+      "status": "PASS",
+      "detail": "Seven collected, three consumed, one paid, three retained."
+    },
+    {
+      "check": "route order and two measured legs",
+      "status": "PASS",
+      "detail": "Delivery order 2→5→3→8→7→5; #6 excluded. 6.6 and 9.4 miles retained; remaining return distances open."
+    },
+    {
+      "check": "Awakening selection and scars",
+      "status": "PASS",
+      "detail": "Healthy pigmentation/steel-gray eyes and four scar regions retained; visible Awakening and false noble origin distinguished."
+    },
+    {
+      "check": "29 exact city labels",
+      "status": "PASS",
+      "detail": "26 exact original labels plus three approved additions, original order unchanged."
+    },
+    {
+      "check": "grid and city arithmetic",
+      "status": "PASS",
+      "detail": "Eighth-mile block 660 ft and 10 acres; city 100 sq mi; 31-hour clock does not wrap at 2400. Actual occupied grid/coordinates remain open."
+    },
+    {
+      "check": "city gates",
+      "status": "PASS",
+      "detail": "Three per side gives 12; exact selected gate and five-mile measurement endpoints remain open."
+    },
+    {
+      "check": "Blacksmith Row correction",
+      "status": "PASS",
+      "detail": "Recessed upper suites/promenade within footprint; not an industrial furnace district. Suite counts/length/process percentages stay illustrative."
+    },
+    {
+      "check": "domai radius and tier table",
+      "status": "PASS",
+      "detail": "Six exterior/interior radius pairs and cumulative eligible tiers; no White class."
+    },
+    {
+      "check": "no unapproved arc files",
+      "status": "PASS",
+      "detail": "Only existing Red Arc 1/2 contracts expanded; Arc 3 untouched; no chapters/later arcs fabricated."
+    },
+    {
+      "check": "35 literal supplied excerpts",
+      "status": "PASS",
+      "detail": "E001–E018 and S019–S035 retain literal dictation and are indexed by the existing journal. Full originating transcript not available."
+    },
+    {
+      "check": "37 coverage rows accounted",
+      "status": "PASS",
+      "detail": "No row ignored. Each declared canonical target exists and was reviewed; two already-present arc rows preserved without new macro changes."
+    },
+    {
+      "check": "active naming",
+      "status": "PASS",
+      "detail": {
+        "incorrect_active_variants": [],
+        "source_quotes": "Unmodified literal dictation permitted."
+      }
+    },
+    {
+      "check": "working diff whitespace",
+      "status": "PASS",
+      "detail": "Passes existing .gitattributes whitespace policy; staged check follows."
+    },
+    {
+      "check": "Windows path uniqueness",
+      "status": "PASS",
+      "detail": "No case-insensitive path collisions across all existing and candidate files."
+    },
+    {
+      "check": "file-size policy",
+      "status": "PASS",
+      "detail": "All files below 100 MiB; unchanged large originals remain in place."
+    },
+    {
+      "check": "no inbox or unrelated stage targets",
+      "status": "PASS",
+      "detail": "Only approved integration, source receipts, corrected validator and reports are included."
+    }
+  ],
+  "prior_validator_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "validator_repair": {
+    "subject": "Supplied validator schema error",
+    "disposition": "Original run failed KeyError: files. MANIFEST.json uses records. Exact original preserved; repaired helper uses records, reports record/payload counts and scope. Repaired validator and independent checks pass."
+  },
+  "source_and_design_limits": [
+    "Full raw workshop transcript unavailable. The 35 excerpts are package-reproduced partial passages, not independently authenticated full-turn exports. All supplied reconstruction records retained; COMPLETE—WORKSHOP is not certified.",
+    "No new original city images/PDFs or upstream corpus files were supplied. Textual city key recovered; original map association, pixel coordinates, widths and route measurements remain open. Earlier MK117 source-workup gap remains.",
+    "Only the MK163 baseline and local/supplied source records were read; AERA/MK147/MK727/MK157 source paths described by the package are references, not newly fetched or reverified revisions.",
+    "Unspecified return-leg distances, exact caravan timing/chapter count, 31-hour solar model and circumference discrepancy remain open; illustrative 300–500-mile hops and 3.5–4-week journey are not universal rates.",
+    "Maternal-item transport and belongings left/discarded at the smithy require physical inventory reconciliation; no return or spontaneous reappearance is invented. Black stasis crystal remains retained/unbound until Arc 3.",
+    "Recipes, paste activation/licensing/penalties, array fault tolerance, table capacities/curves, manufacturer/king/noble/merchant names, prices and ahm:eln conversion, map/business addresses, apartment outcomes and domai lifespan/metric/yields remain open as listed in the supplied register."
+  ],
+  "unresolved_destructive_conflicts": [],
+  "manual_review": [
+    "All 25 payload records, both excerpt collections, execution/reconciliation rules and 37 coverage rows read.",
+    "All 18 package-listed baseline owners plus relevant constitutions, index, continuity, provenance and cross-domain records inspected; repository searched for existing counterparts.",
+    "Current owners updated with additions only; existing ER foam, agriculture, Nyx/robe, biography, calendar, tournament and Ring rules retained.",
+    "No image/scene/map reconstruction, upstream corpus copying, missing dialogue or new unapproved arcs."
+  ],
+  "finalization": "Commit only after staged-path equality, exact Git-blob checks and whitespace pass; ordinary push and post-push fetch confirm remote SHA in execution response."
+}
