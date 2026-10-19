@@ -1,0 +1,204 @@
+{
+  "delivery": "MK163_LIVE_MODEL_006_CODEX_CHECKPOINT",
+  "status": "PASS",
+  "baseline_commit": "9b2002d6a8e14dc3cf8c5959af80d30885fc2aad",
+  "counts": {
+    "baseline_files": 320,
+    "added": 40,
+    "modified": 21,
+    "unchanged": 299,
+    "deleted": 0,
+    "new_canonical_owners": 9,
+    "session_files": 22,
+    "new_source_receipts": 25,
+    "verified_legacy_files_skipped": 35,
+    "recovery_archives_skipped": 1,
+    "coverage_rows": 22,
+    "prior_workshop_history_unchanged": 5,
+    "prior_checkpoint_history_unchanged": 21,
+    "unresolved_destructive_conflicts": 0,
+    "documented_inner_hash_corrections": 2
+  },
+  "checks": [
+    {
+      "check": "package verification",
+      "status": "PASS",
+      "detail": {
+        "archive_sha256": "c45ffc20cae9f1aa8d791a071d79e7d6c42a91f9cc779ea55d5fa15a11afd774",
+        "documented_corrections": [
+          {
+            "path": "ECONOMIC_FOUNDATION_INDEX.md",
+            "stale_inner_sha256": "a5008f4a9fba283989b7509d9c0cb0e282efd34c8d2f580a6edc73d2d1ae8d38",
+            "outer_verified_sha256": "6cc0052254cb12bdb80bb4ee0b283142eebcf1e4b395da3cdd22d3f637225df3"
+          },
+          {
+            "path": "VISUALS/ATLAS_INDEX.md",
+            "stale_inner_sha256": "2b64e0b19390a0808249d7f6d6ded16821b7799c6fb79acc47d4530f058522c4",
+            "outer_verified_sha256": "6b2ef97775df2d1ae5d1f17b3d3669ad9d034dccd5e4a8ffbc02461b3335911d"
+          }
+        ],
+        "archive_entries": 61,
+        "outer_manifest_records": 60,
+        "legacy_manifest_records": 34,
+        "session_files": 22,
+        "session_hash_records": 20,
+        "crc": "PASS",
+        "paths": "PASS",
+        "outer_hashes": "PASS",
+        "legacy_hashes": "PASS",
+        "inner_hashes": "PASS after the two documented outer-verified corrections; original retained"
+      }
+    },
+    {
+      "check": "baseline/main",
+      "status": "PASS",
+      "detail": "Existing xApologies/MK163 main; fetched origin matches current Delta 005 baseline, not stale bfd5123 metadata."
+    },
+    {
+      "check": "all prior files preserved",
+      "status": "PASS",
+      "detail": {
+        "byte_identical": 299,
+        "whole_old_byte_sequence_retained": 20,
+        "all_prior_JSON_values_retained": 1,
+        "deleted": 0
+      }
+    },
+    {
+      "check": "history unchanged",
+      "status": "PASS",
+      "detail": {
+        "prior_workshop_files": 5,
+        "prior_checkpoint_files": 21,
+        "all_byte_identical": true
+      }
+    },
+    {
+      "check": "Live003 regression",
+      "status": "PASS",
+      "detail": {
+        "delivery": "MK163_LIVE_MODEL_003",
+        "validated_root": "C:\\Users\\rando\\_MK163",
+        "status": "PASS",
+        "payload_files_found": 242,
+        "topic_records": 76,
+        "author_evidence_passages": 67,
+        "source_preservation_checked": true,
+        "prophecy_git_blobs_checked": true,
+        "api_parts_recombined_hash_checked": true,
+        "errors": [],
+        "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+      }
+    },
+    {
+      "check": "inherited L0/L1 unchanged",
+      "status": "PASS",
+      "detail": "No new fundamental physics or unverified upstream corpus copied."
+    },
+    {
+      "check": "_inbox unchanged",
+      "status": "PASS",
+      "detail": "Every input file retained, no new/deleted input and none tracked."
+    },
+    {
+      "check": "all 61 entries accounted for",
+      "status": "PASS",
+      "detail": {
+        "new_source_copies": 25,
+        "verified_legacy_files_skipped": 35,
+        "nested_recovery_zip_skipped": 1
+      }
+    },
+    {
+      "check": "all session sources exact",
+      "status": "PASS",
+      "detail": "22 exact files including 2 SVGs, selected original JPEG, source notes and original hash receipts."
+    },
+    {
+      "check": "old coverage not replayed",
+      "status": "PASS",
+      "detail": "37 legacy rows already integrated in Delta 005; exact source metadata/coverage retained at existing checkpoint paths."
+    },
+    {
+      "check": "income tables and annualization",
+      "status": "PASS",
+      "detail": "All multiples, six monthly values and six annual values; 11 accounting months, not an invented calendar."
+    },
+    {
+      "check": "rent averages and ratios",
+      "status": "PASS",
+      "detail": "50/45/43.75/50/46.67/75%; averages not mandatory rents; Kaira actual lease OPEN."
+    },
+    {
+      "check": "crystal prices and mass units",
+      "status": "PASS",
+      "detail": "Seven kg/100g/g values; White/Violet 6.2; no Dust pricing or recipe inferred."
+    },
+    {
+      "check": "Card class benchmarks",
+      "status": "PASS",
+      "detail": "Five class prices and increments; no individual catalogue entry or automatic surcharge."
+    },
+    {
+      "check": "currency and six White notes",
+      "status": "PASS",
+      "detail": "6*30=180; 180*180=32400; standard and high-value note series distinct; original tint qualification retained."
+    },
+    {
+      "check": "armor and ring allocation",
+      "status": "PASS",
+      "detail": "Armor averages 50/110/180; shirt 200; input80+remainder120; no net-profit assertion; layered base380; unit ring cost verified."
+    },
+    {
+      "check": "weapon construction prices",
+      "status": "PASS",
+      "detail": "All six physical-only benchmarks; enhancement pricing unassigned."
+    },
+    {
+      "check": "impulse arithmetic and qualifications",
+      "status": "PASS",
+      "detail": "Both representations, full-system closure and 136/1360,680/6800 illustration verified; no solved field coupling or universal damage multiplier."
+    },
+    {
+      "check": "melee proposal remains proposal",
+      "status": "PASS",
+      "detail": "Proposed 60+25+15=100 does not set population-wide demographics."
+    },
+    {
+      "check": "calendar discrepancy maintained",
+      "status": "PASS",
+      "detail": "No repair of the nine missing calendar days or wage treatment."
+    },
+    {
+      "check": "naming and training",
+      "status": "PASS",
+      "detail": "aen/Ain distinct; prior Fireball skill not reset; no automatic training success; Row selection and arc endpoints reconciled."
+    },
+    {
+      "check": "narrative boundaries",
+      "status": "PASS",
+      "detail": "Arc1, Arc3, Nyx and bond progression byte-identical; no new chapters/arcs or Ring acquisition."
+    },
+    {
+      "check": "visual price fidelity",
+      "status": "PASS",
+      "detail": "Original SVG text and bar scaling agree; affordability SVG is explicitly qualitative. Selected JPEG viewed and SHA-verified, no regeneration."
+    },
+    {
+      "check": "topic coverage",
+      "status": "PASS",
+      "detail": "Every Session006 source/visual/hash receipt has a disposition and one or more scoped owner links; overlapping documents do not create competing full models."
+    },
+    {
+      "check": "active naming",
+      "status": "PASS",
+      "detail": "Current additions use Kaira/Nyx/raeon/maege; exact historical source spellings remain untouched."
+    },
+    {
+      "check": "diff whitespace",
+      "status": "PASS",
+      "detail": "Git whitespace check passes."
+    }
+  ],
+  "scope": "Full supplied incremental checkpoint retained/reconciled. Not a verbatim full chat or entire upstream corpus. Links and final manifest hashes additionally verified by validate_live_model_006.py before commit."
+}

@@ -1,3 +1,31 @@
+> **Live Model 006 current authority — 2026-10-19:** Updates navigation to Session 006 owners and source boundaries. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+Current checkpoint: **MK163_LIVE_MODEL_006_CODEX_CHECKPOINT**, integrated incrementally on Delta 005. The older delivery labels identify history. New and updated facts have one canonical owner; complete source records and visual originals remain under provenance. Read [the current corrections](../PROVENANCE/LIVE_MODEL_006_CORRECTIONS_AND_BOUNDARIES.md) and [source/coverage index](../PROVENANCE/WORKSHOP/LIVE_MODEL_006/INTEGRATION_INDEX.md).
+
+- [CURRENCY_AND_COMMODITY_EXCHANGE](L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md)
+- [CHROMATIC_INDIVIDUAL_INCOME_SCALE](L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md)
+- [CHROMATIC_RENTAL_AVERAGES](L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_RENTAL_AVERAGES.md)
+- [GENESIS_CRYSTAL_MARKET_PRICES](L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md)
+- [GENESIS_CARD_CLASS_PRICES](L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md)
+- [ARMOR_AND_CHAINMAIL_PRICES](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+- [MELEE_WEAPON_BASE_PRICES](L2_WORLD_CIVILIZATION/ECONOMY/MELEE_WEAPON_BASE_PRICES.md)
+- [ARMOR_MATERIALS_AND_ENHANCEMENT](L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md)
+- [GENESIS_WEAPONS_AND_IMPULSE](L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_WEAPONS_AND_IMPULSE.md)
+- [MELEE_COMBAT_COMPETENCY](L2_WORLD_CIVILIZATION/CULTURE/MELEE_COMBAT_COMPETENCY.md)
+- [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [KAIRA](L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [STARSCAPE_AND_CALENDAR](L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md)
+- [NOBILITY_AND_CIVIC_AUTHORITY](L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md)
+- [SERIES_STRUCTURE](L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md)
+
+[Execution and validation report](../CHECKPOINTS/LIVE_MODEL_006_EXECUTION.md). No older source is promoted merely by inclusion in the recovery payload.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Current integration is MK163_LIVE_MODEL_EXPORT_005; previous delivery labels are historical. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

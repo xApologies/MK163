@@ -1,3 +1,13 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds scoped combat references without duplicating biological augmentation mechanics. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The [new combat-competency record](../CULTURE/MELEE_COMBAT_COMPETENCY.md) expands guard transitions, recovery and timed activation. It preserves personal augmentation as complementary to equipment, rather than a guarantee of superiority or invulnerability. The 60/25/15 conventional-melee distribution remains a proposal. [Heavy-weapon physics](../TECHNOLOGY/GENESIS_WEAPONS_AND_IMPULSE.md) remains a conceptual engineering selection with unresolved field coupling and conservation accounting; no additional profession or automatic mastery is created.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Augmenter — locally anchored bodily Transduction and martial equipment
 
 **Project:** MK163  

@@ -1,3 +1,19 @@
+> **Live Model 006 current authority — 2026-10-19:** Expands manual competence and distinguishes newly learned Metal Manipulation and aen control. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+### Current skill distinctions for Red Arc 2
+
+Kaira is already an expert manual chainmail armorsmith: heating metal, drawing wire, winding mandrels, forming rings, closing/assembling and finishing. Years of manual work precede Metal Manipulation. She knows activation of her inherited Fireball Card; Metal Manipulation is a newly learned discipline requiring precision and repetition. Her ready-made business rings are purchased rather than newly manufactured by her.
+
+She starts deliberate aen training in Arc 2 with theoretical Genesis Field knowledge but beginner practical control. Access, formation, closure, width, endurance and control require practice; difficulty frustrates her. No exact basin, milestone, training duration or mastery is assigned. This is distinct from Card activation and does not boost operational Card throughput.
+
+Her independence, ordinary demonstration shirt, developing supplier friendship and social raeon are situated in [the arc contract](../../../BOOKS/RED/ARCS/ARC_002/ARC.md). Her current phenotype, scars, ordinary Afflicted origin, false noble rumors, Nyx and future equipment boundaries remain unchanged. The field model stays with [the existing aen owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md). Sources: [ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md) and [AEN_NAMING_AND_KAIRA_TRAINING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Kaira is visibly Awakened with healthy retained Afflicted pigmentation, steel-gray luminous eyes and persistent scars. The false noble-origin rumor is a seven-book motif; the previously open exceptional-eye choice is now resolved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

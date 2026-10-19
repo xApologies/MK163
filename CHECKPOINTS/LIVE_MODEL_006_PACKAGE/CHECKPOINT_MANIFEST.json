@@ -1,0 +1,306 @@
+{
+  "checkpoint": "LIVE_MODEL_006",
+  "date": "2026-10-19",
+  "files": [
+    {
+      "path": "CODEX_HANDOFF/PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md",
+      "size": 3896,
+      "sha256": "f7efc90b620202518116b82fcf324f197fbde433ea30e7498bb5612a2edcd861"
+    },
+    {
+      "path": "CODEX_HANDOFF/README_CODEX.md",
+      "size": 1341,
+      "sha256": "5db50b95526f0e98f66cde48ac8d1d5a4bc4bf2045ee132ff0160de6dd50b18e"
+    },
+    {
+      "path": "DELTA_005_ORIGINAL/MK163_LIVE_MODEL_EXPORT_005_CODEX.zip",
+      "size": 85274,
+      "sha256": "6402e6077db9a5fc413b1d7463d332268560d140eea29cc4408a7f0c5e729b53"
+    },
+    {
+      "path": "LIVE_MODEL_006/BASELINE_REPOSITORY_AUDIT.json",
+      "size": 2288,
+      "sha256": "176bbfe01fea1d7e58402d3a6303286a14634754d56a4ca72231817e3fd6c02a"
+    },
+    {
+      "path": "LIVE_MODEL_006/COVERAGE_MATRIX.json",
+      "size": 16604,
+      "sha256": "107f7ed9b898375cbc8ab4f6e675ced1fc21ffc8199f359b827a8da24d38ce91"
+    },
+    {
+      "path": "LIVE_MODEL_006/COVERAGE_MATRIX.md",
+      "size": 8357,
+      "sha256": "c87df10052157d2e645d3c5ed421affe76988a5ad5450df583a1c78189c5cc09"
+    },
+    {
+      "path": "LIVE_MODEL_006/LIVE_AUDIT_REPORT.md",
+      "size": 1706,
+      "sha256": "6528a66fe56bd83d10513a1e4bab917340b8a850a62fc35b18307867c1449eb5"
+    },
+    {
+      "path": "LIVE_MODEL_006/MANIFEST.json",
+      "size": 6954,
+      "sha256": "5aa588dc1942131b34b08d712080c096e67c64fd0ba9e8c8617d3ca203623b18"
+    },
+    {
+      "path": "LIVE_MODEL_006/README.md",
+      "size": 1158,
+      "sha256": "f3720368500303b88d554d1e6235a6359556e51b1f786c5ee53ac13a7a641000"
+    },
+    {
+      "path": "LIVE_MODEL_006/RECONCILIATION_RULES.md",
+      "size": 1273,
+      "sha256": "4ee4ad0664903e7c78eddfbd2b5e24b8c111025c1e76bc73a4719f5a3089fa98"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md",
+      "size": 3535,
+      "sha256": "1a39ce08885f167e79851c7a4ef5a3452ca6c051e9ea82f3e44619e79e22fbf5"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md",
+      "size": 3413,
+      "sha256": "6866d1567ab874f15dc496c6bc671a4e59c26107b73f581b6def9b81c22ee5d7"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/ARMOR_MATERIALS_AND_ENCHANTMENT_EXTENSION.md",
+      "size": 1821,
+      "sha256": "990ffbc06c1b7707baae25d2cf66f95eb32a872d2b5c907918709b8e4d0baee8"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/CHAINMAIL_SHIRT_PRICE.md",
+      "size": 2513,
+      "sha256": "26ebd77afa631af782326c8337cd8b1a8b038aebf1d18b836e9cf1a055ca72df"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+      "size": 1645,
+      "sha256": "d1a8a1715b13946f7a121558fed3ed438c9d04ae20ffcf8b72e2e5a5769869bf"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/CHROMATIC_RENTAL_AVERAGES.md",
+      "size": 2094,
+      "sha256": "4cc73781eb40da0132ef345191360115459e73d8e1ac3cb21c4a9334f5d75ce4"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/CURRENCY_CONVERSION_DECISION.md",
+      "size": 2305,
+      "sha256": "812dbe90ef4b3bbc8e3e763e8137565462b0dd35c1892279513e6861e49d579b"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/ECONOMIC_FOUNDATION_INDEX.md",
+      "size": 2001,
+      "sha256": "6cc0052254cb12bdb80bb4ee0b283142eebcf1e4b395da3cdd22d3f637225df3"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/GENESIS_CARD_CLASS_PRICES.md",
+      "size": 1394,
+      "sha256": "c852ea6849e41be20db8df4ba44547c674e8eb0d01be941161ff144d97b7463c"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/GENESIS_CRYSTAL_MARKET_PRICES.md",
+      "size": 2266,
+      "sha256": "2c1fda4ab24607bc983c2e4a5ab66b7c37c6f2afb96b462e2b1359253168ede9"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/GENESIS_WEAPON_IMPULSE_GEOMETRY.md",
+      "size": 3202,
+      "sha256": "2277b4e6a7edc794196193bfa11dfc4bbdcd72f57eced306ba9625b619f6d419"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/LEATHER_ARMOR_MARKET_AVERAGES.md",
+      "size": 1635,
+      "sha256": "36710717fca7539fefd52902a391bfb4ac682dd983e97963eeb80c0999da3019"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/MELEE_COMBAT_COMPETENCY_EXTENSION.md",
+      "size": 1893,
+      "sha256": "0bf5b5da9f45cf6ed636ea8282a71c57b8d7166784feef605af4319254ccdff0"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.md",
+      "size": 1602,
+      "sha256": "4a5b0a818757f4014c33d35f69f3dc98195c114efafdf32201ba44bb8e6df7d5"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.sha256",
+      "size": 94,
+      "sha256": "e3ed231ee55d4f1bc5620d2845cfd9635edcfbfc71b866380e5b05ce4ff36276"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/SESSION_006_HASHES.json",
+      "size": 2308,
+      "sha256": "e5ed90eb92c0afbdb6ff1add843e24d3951044a426c5405cdd18c93415df2110"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/ATLAS_INDEX.md",
+      "size": 1712,
+      "sha256": "6b2ef97775df2d1ae5d1f17b3d3669ad9d034dccd5e4a8ffbc02461b3335911d"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.md",
+      "size": 930,
+      "sha256": "822155fe7ee266eba836ea18c0e171485ed17a208a6ff5aa10bcd0e38b06edc9"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.svg",
+      "size": 2105,
+      "sha256": "a41332fe97eb2fc6c6ef29dbfbaee3cb9f9bdc8c56221d122010008c8a2a9b3a"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/LEATHER_ARMOR_AVERAGES.svg",
+      "size": 1695,
+      "sha256": "f376bd6ad42a47711684a916c64957276f1e66831bea2b63802a4f3e9f7c4f7e"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.jpeg",
+      "size": 911796,
+      "sha256": "057fea97835345c294c585c7fcdb97aa0ed72374a132e52eab9a7df6680db18b"
+    },
+    {
+      "path": "LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.md",
+      "size": 2030,
+      "sha256": "5a2d4e96de1d479e395b1e17f0c65ecaa12bc9193329eb2ebf7d5c754ba766b6"
+    },
+    {
+      "path": "LIVE_MODEL_006/audit_package.py",
+      "size": 2087,
+      "sha256": "8a053d2bd11fd8a40b7b0855c216e666bb7ebc4a55e2a310f1fb575c571d4114"
+    },
+    {
+      "path": "LIVE_MODEL_006/executable.me",
+      "size": 162,
+      "sha256": "3da41a93b762654c77a383d33d17675f06fc347b01ef7c05f7cff0d482bbe620"
+    },
+    {
+      "path": "LIVE_MODEL_006/execution.md",
+      "size": 6924,
+      "sha256": "f54ceea9ac859d28f49a8f1e7e5db25b98b9330bc5b470e6266050d9717687a5"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/BOOKS/RED/ARCS/ARC_001/STONE_HOLLOW_AWAKENING_DETAIL.md",
+      "size": 6689,
+      "sha256": "d8c6160d5c272edb1a0f5b4e9415a188536db7acc9c50b8c8f84a67695a98d37"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+      "size": 10052,
+      "sha256": "65e15574c4da662d996711852c71bf5eaa4eb33f3522bf36586f5869ecb7d2cf"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+      "size": 8136,
+      "sha256": "bedc9c0883d4283e4689c656d3fcf5f3c53b6fb757db125004762c066514bf09"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md",
+      "size": 5430,
+      "sha256": "3bea8067401f84b82cbdadc30ef17f5b8953abd0c0b17ee8ce132874e48d1b4d"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md",
+      "size": 2820,
+      "sha256": "a08e5f14ca07000cbbd3d32059a37ab4ae591436cb6dc68295819b162626d888"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/PROVENANCE/DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md",
+      "size": 6053,
+      "sha256": "ffeac6c311791041e0fdcb57810769f9ce76c0aabe30829376b2dfb8dfd70d43"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/PROVENANCE/DELTA_005_COVERAGE_AND_AUTHORITY.md",
+      "size": 5341,
+      "sha256": "0bd5188292aea3166cfb5f51686401d130fa6f0a017a17f26b4962840addaf75"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+      "size": 9071,
+      "sha256": "d902569cd3a109d08e14be8020a7ff9ab0c9f9e42295d25918a0f76bf6440877"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md",
+      "size": 9214,
+      "sha256": "9c876f2b6090a1dc6fa289edc699a7054272f32fa61e549734666abd8cee4dde"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md",
+      "size": 1232,
+      "sha256": "9285543a2cb8916fe81919976d030db42f685676fc884ec80d94b04dcd72bfc2"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md",
+      "size": 7297,
+      "sha256": "fc2f7f1446070275816f3000e6454fdf9fd62fefa666183834cb81753abf60ac"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md",
+      "size": 7483,
+      "sha256": "5de736a3facb32eaed4c92ba1c7b70c50f93a55d03ace1fd127c15b2022b0db3"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+      "size": 6892,
+      "sha256": "d63bc994a549f0b9bc60abf9e65a0659e04efe3865bce5cfcad8f91cb8ea3377"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md",
+      "size": 2340,
+      "sha256": "60f3be5c3901ad7c17d156d6df4eb9e989b0b3581834e6bbb97581819b85895c"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+      "size": 1694,
+      "sha256": "913c331b29d6369ec7912a6ea8dd485a99ee9b9e3919d46847613a154953a91f"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+      "size": 6242,
+      "sha256": "4e1f7fe24581dcd668bc07504adcd561bf3721878195a54d7fb6892238af9099"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md",
+      "size": 6009,
+      "sha256": "6de5a1be6f10818d39d7efe90e75ba12e52a6dfa9385022cb9ac3367d74ccda6"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+      "size": 1581,
+      "sha256": "2665c08343d06e03ed9ae6039c398a212b8464e69d0352270cf40b756fc81f96"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+      "size": 2545,
+      "sha256": "dc245fd66003f2e4250b0b206acab80776557102f0cc1e14c5b6b8422710e464"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+      "size": 8083,
+      "sha256": "be6444f20c63689899dfbce42435b05de5f8492ef91c85b2fc93567364c58889"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+      "size": 1744,
+      "sha256": "8f159d324be92456cc33d6e2628c4d5f72661a5ae73310d9543a1a89b6738b9c"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_TABLES_AND_HOUSES.md",
+      "size": 2999,
+      "sha256": "691caf4f2608f9237f698847a6b0c1062c07a6f60f66960d50ff4837f0b13ddb"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+      "size": 5363,
+      "sha256": "e6f034223b541abaa8a33efc43e38ccaae566d9544a4f8a7d9818192dc7f0391"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md",
+      "size": 2144,
+      "sha256": "089212b2a0954c8354428a5b3794f8d668569deb44e64ba671033376420cdbaa"
+    },
+    {
+      "path": "LIVE_MODEL_006/payload/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+      "size": 5933,
+      "sha256": "50852dc3df5b8d2bd5fcb09c7acbf0497f171f52104702f9119de961a04cebab"
+    }
+  ]
+}

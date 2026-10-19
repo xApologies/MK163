@@ -1,3 +1,35 @@
+> **Live Model 006 current authority — 2026-10-19:** Selects the Blacksmith Row supplier, separates manual/Card/aen competencies and expands existing parallel strands. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+### Training, livelihood and independent life
+
+This remains a substantial, deliberate slice-of-life arc. Kaira's new life is no longer dominated by expectation of early death. Daily observation introduces Genesis equipment, artisan commerce, city life, friendships and the World Clock. Independence and freedom, aen practice, Card learning, raeon and Nyx develop in parallel; no chapters, success milestones or timetable are assigned here.
+
+**Separate skills:** Kaira already owns her mother's Fireball Card and knows activation. Learning precise Metal Manipulation is a new operational discipline, not first-ever Card activation and not automatic mastery from using Fireball. She practices on purchased, ready-made rings rather than manufacturing her business stock herself. She is independently a beginner in deliberate control of her newly Awakened biological aen. The theoretical background does not grant basin access, formation, closure, width, endurance or control automatically. She struggles, becomes frustrated and improves through repetition. No successful basin, time-to-mastery, fixed milestone or chapter placement is selected. Existing useful-dot/closed-ring/band, formation-only open arc, shared fatigue, no Card-throughput boost and basin exclusivity constraints continue to apply.
+
+**Supplier and business selection:** The author now locates the supplier on Blacksmith Row, superseding “plausible stage, not assigned supplier.” This is a particular still-unnamed smith who respects Kaira's craft knowledge; friendship begins and she buys a large box/quantity of prefabricated rings. The Row, shop address and supplier identity remain open. Her ordinary, high-quality demonstration shirt is manually assembled to show workmanship, not a magical showcase. She approaches dungeon delvers with quality and pricing, obtains few early orders, and grows slowly before the first robe draws wider attention. The earlier one/two→three/four order example and repair/harvesting income remain intact.
+
+Kaira's established manual expertise includes heating metal, drawing wire, winding mandrels, forming rings, closing/assembling mail and finishing. Those prior skills do not mean she makes the rings she now buys or has already mastered Metal Manipulation. Raeon is social recreation and relationship-building, distinct from operational Genesis Cards. Residual Afflicted stigma and false noble-status rumors are separate reactions to her appearance and costly Awakening.
+
+The first robe's completion and public reveal still ends Arc 2; broader popularity and business expansion accelerate in Arc 3. The opening remains failed haggling at the first of three apartment viewings; the actual lease price remains open. Nyx's existing ecology/adoption, Arc 3's Black Sprite bond and the Red-ending Ring restriction remain unchanged.
+
+### Dependencies and source
+
+- [KAIRA](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [AEN_TRAINING_AND_THROUGHPUT](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md)
+- [ARMOR_AND_CHAINMAIL_PRICES](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+- [GENESIS_CARD_CLASS_PRICES](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md)
+- [BLACKSMITH_ROW_AND_ARTISANS](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+- [AEN_NAMING_AND_KAIRA_TRAINING](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md)
+- [ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md)
+
+Status remains **outlined**; arc-first development and variable chapter realization continue.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Arc 1 now supplies city arrival; Arc 2 opens with failed haggling at the first of three apartment viewings. Existing Nyx ecology, parallel work/study strands and first-robe endpoint are preserved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

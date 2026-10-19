@@ -1,3 +1,13 @@
+> **Live Model 006 current authority — 2026-10-19:** Routes current corrections to their full register without rewriting earlier evidence. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+[The full Live Model 006 correction register](LIVE_MODEL_006_CORRECTIONS_AND_BOUNDARIES.md) governs the new exchange, approved benchmarks, White-note/royal-house selection, Row supplier, naming and training additions. Older “unknown conversion,” wholly-open pricing and supplier statements remain as history and no longer override those scoped decisions. Unselected values, calendar discrepancy, weapon field hypotheses and all unchanged source boundaries remain in force.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Records explicit supersessions and source-internal scope reconciliations without deleting historical statements. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

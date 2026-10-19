@@ -1,3 +1,13 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds current checkpoint references and preserves all earlier operating instructions. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+For Live Model 006 and later updates, read [the Live Model 006 corrections](PROVENANCE/LIVE_MODEL_006_CORRECTIONS_AND_BOUNDARIES.md) and [integration coverage](PROVENANCE/WORKSHOP/LIVE_MODEL_006/INTEGRATION_INDEX.md), then use the current topic owners. Preserve all workshop and CHECKPOINTS history. aen (AY-n) and Ain (EYE-n) are different terms; never blanket-autocorrect. Approved prices are scoped benchmarks/averages, not every transaction. The nine-day calendar discrepancy and Genesis-weapon field implementation remain open. The nested Delta 005 handoff in the 006 package is historical recovery data, not permission to replay it.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Current Delta 005 instructions supersede the older five-beat Arc 1 guard only; preservation and source boundaries still apply. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

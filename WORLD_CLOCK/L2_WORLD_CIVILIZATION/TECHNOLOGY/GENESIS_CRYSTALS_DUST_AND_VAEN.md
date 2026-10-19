@@ -1,3 +1,13 @@
+> **Live Model 006 current authority — 2026-10-19:** Routes the new material prices to their single owner; other commodity unknowns remain. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The earlier absence of crystal prices is superseded by [the Session 006 crystal-market owner](../ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md). That schedule does not set dust, White Dust, vaen or diamond prices, processing yields or energy-conversion laws. Crystals remain distinct from dust and finite-reservoir diamonds. No Restoration recipe is established. All inherited formations and engineering uses remain intact.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Genesis crystals, Genesis Dust and vaen — distinct engineering resources
 
 **Project:** MK163  

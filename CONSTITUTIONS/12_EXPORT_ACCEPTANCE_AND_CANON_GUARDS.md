@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Scoped currency acceptance update follows the new author selection; no other guard is weakened. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The former hard-check phrase “unknown exchange rate” is superseded only for **1 Red eln = 180 ahm** by the explicit Live Model 006 author decision. Validate the approved ordinary denominations and White-note series against [the currency owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md). Do not convert diamond-chip energy grades into currency denominations or infer White Dust/recipe prices. All unrelated hard checks and preservation requirements remain in force.
+
+For this checkpoint, the outer CHECKPOINT_MANIFEST verifies the supplied bytes. The two stale inner Session 006 hash entries must remain visible as source history and be reconciled by the new validated integration manifest, never silently overwritten. [Execution and validation report](../CHECKPOINTS/LIVE_MODEL_006_EXECUTION.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Constitution 12 — Delivery acceptance and anti-loss checks
 
 **Project:** MK163  

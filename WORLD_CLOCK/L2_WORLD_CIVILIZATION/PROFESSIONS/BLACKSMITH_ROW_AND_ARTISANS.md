@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Resolves the supplier location at Row level while preserving unnamed identity and open coordinates. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The prior unassigned supplier relationship is now selected: Kaira befriends a still-unnamed Blacksmith Row smith who respects her manual craft and supplies prefabricated rings. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns that narrative; [the armor economy](../ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) owns the approved standard batch and shirt allocation. No supplier name, particular Row, shop address or robe-reveal venue is selected. Existing architecture, rank distinctions and artisan categories remain unchanged.
+
+[Mycelium armor materials](../TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) records the new ordinary leather selection without rewriting all textiles or importing a hide requirement. Source: [ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Blacksmith Row and artisan economy
 LOCKED definition: **Blacksmith Row is not an industrial forge district. It is a professional artisan plaza where highly competent smiths demonstrate their mastery of matter through Transduction.**
 

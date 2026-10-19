@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Links newly approved economic references without deriving geography or ranks from prices. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The new [individual income schedule](../ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md) and [average rents](../ECONOMY/CHROMATIC_RENTAL_AVERAGES.md) supply economic references, not residency requirements or professional ranks. White stays civic. Maintained lower districts, square-ring geometry, unassigned ring widths and the Yellow→Green threshold remain unchanged. Blue→Violet carries the selected luxury premium.
+
+The [original affordability SVG](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.svg) is qualitative, with [source interpretation](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.md): its coordinates do not encode rents, ratios, US-dollar conversion or measured geography. The numeric rental owner takes precedence for prices.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds the Yellow→Green lifestyle threshold and qualified nighttime crime; preserves the already established square-ring and maintained-city rules. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

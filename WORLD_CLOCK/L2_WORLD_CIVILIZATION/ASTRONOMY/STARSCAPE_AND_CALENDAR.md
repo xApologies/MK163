@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds eleven-month salary accounting while explicitly preserving the nine-day calendar discrepancy. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The author explicitly uses **11 accounting months** for annual income. This is an accounting choice, not a repair of the historical month list: **351 listed days versus 360 days leaves nine days unresolved**. Their wage treatment, intercalation and dates remain open. The 31-hour day, six-day week, 60-week year and four 90-day seasons remain in force. Twelve 30-day months was an incorrect proposal, not the calendar.
+
+Source: [CHROMATIC_INDIVIDUAL_INCOME_SCALE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md); salary values are owned by [CHROMATIC_INDIVIDUAL_INCOME_SCALE](../ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Inherited circumbinary system and local calendar
 
 **Project:** MK163  

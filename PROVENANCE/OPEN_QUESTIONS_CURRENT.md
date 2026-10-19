@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Closes explicitly settled questions while retaining detailed unresolved boundaries. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+Resolved only within explicit scope: ahm-to-Red-eln conversion, six White-note values/design reference, Aellin Crown as royal house, individual income, district average rents, crystal/Card class/ordinary armor/weapon benchmarks, standard ring input allocation, Row supplier setting and aen pronunciation. [Full correction and open-parameter register](LIVE_MODEL_006_CORRECTIONS_AND_BOUNDARIES.md) preserves the precise limits.
+
+Still open: Kaira's actual rent; food and fees; White Dust/diamond prices and yields; generic Restoration/Awakening formulations; actual net profit and work time; named supplier, business coordinates and family members; mastery timetable; weapon field mechanics; nine-day calendar/pay discrepancy; later chapters and all unrelated prior gaps. White crystal price is not White Dust price; a reference average is not a universal price. The original full transcript remains unavailable.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Closes only parameters explicitly settled by Delta 005; retains source-recovery limits and unassigned values. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

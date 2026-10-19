@@ -1,3 +1,15 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds the provisional chapter-length expectation and confirms arc-first pacing without new chapters. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+Develop approved arcs before assigning chapters. The author retains the approximately **1,100–1,300-page** book aspiration and gives **roughly 40–80 pages per chapter, possibly shorter**, as a provisional realization expectation. It is not a fixed quota, a replacement outline or authorization to fabricate scenes. The earlier 30–80 example remains historical; neither range forces a count.
+
+Arc 1's closing caravan movement still takes a flexible two or three chapters in its current plan. Arc 2 is deliberately slow, substantial slice-of-life independence and learning; no chapter allocation is supplied. Its first-robe reveal endpoint and Arc 3's wider movement remain. Source: [ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY](../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md) and [DECISION_AND_REVISION_JOURNAL](../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Replaces obsolete five-working-chapter references with Delta 005’s explicit architecture; other approved arcs remain intact. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

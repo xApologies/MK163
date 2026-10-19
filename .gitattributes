@@ -26,3 +26,9 @@ WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/** -whitespace
 *.jpeg binary
 *.zip binary
 *.bin binary
+
+# Session 006 source originals must survive checkout without byte conversion.
+PROVENANCE/WORKSHOP/LIVE_MODEL_006/** -text
+CHECKPOINTS/LIVE_MODEL_006_PACKAGE/** -text
+CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json text eol=lf
+CHECKPOINTS/LIVE_MODEL_006_VALIDATION.json text eol=lf

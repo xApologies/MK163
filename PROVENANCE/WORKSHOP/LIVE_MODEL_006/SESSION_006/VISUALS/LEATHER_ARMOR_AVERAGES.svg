@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430">
+<rect width="960" height="430" fill="#171a22"/>
+<text x="44" y="57" font-size="29" font-family="sans-serif" font-weight="bold" fill="#f4f4f4">MK163 — Average Unenchanted Armor Prices</text>
+<text x="44" y="88" font-size="16" font-family="sans-serif" fill="#c3c7d1">Author workshop reference · eln · not a performance ranking</text>
+<text x="45" y="152" font-size="19" font-family="sans-serif" fill="#f5f5f5">Light leather</text>
+<rect x="265" y="130" width="127.49999999999999" height="31" rx="5" fill="#C83E43"/>
+<text x="407.5" y="152" font-size="18" font-family="sans-serif" fill="#f5f5f5">50 eln</text>
+<text x="45" y="220" font-size="19" font-family="sans-serif" fill="#f5f5f5">Medium leather</text>
+<rect x="265" y="198" width="280.5" height="31" rx="5" fill="#E98B35"/>
+<text x="560.5" y="220" font-size="18" font-family="sans-serif" fill="#f5f5f5">110 eln</text>
+<text x="45" y="288" font-size="19" font-family="sans-serif" fill="#f5f5f5">Full leather</text>
+<rect x="265" y="266" width="458.99999999999994" height="31" rx="5" fill="#875AC0"/>
+<text x="739.0" y="288" font-size="18" font-family="sans-serif" fill="#f5f5f5">180 eln</text>
+<text x="45" y="356" font-size="19" font-family="sans-serif" fill="#f5f5f5">Chainmail shirt</text>
+<rect x="265" y="334" width="509.99999999999994" height="31" rx="5" fill="#448DCD"/>
+<text x="790.0" y="356" font-size="18" font-family="sans-serif" fill="#f5f5f5">200 eln</text>
+<text x="44" y="414" font-size="14" font-family="sans-serif" fill="#c3c7d1">Enchanting is additional. Medium artisan examples: 200–300 eln; full leather: ~400 eln.</text>
+</svg>

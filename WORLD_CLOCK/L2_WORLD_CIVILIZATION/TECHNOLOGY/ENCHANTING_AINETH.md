@@ -1,3 +1,13 @@
+> **Live Model 006 current authority — 2026-10-19:** Links new scoped applications while retaining inherited mechanics and unresolved physics. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The four inherited configurations below remain unchanged and combinable. New MK163 applications are recorded in [armor materials and enhancement](ARMOR_MATERIALS_AND_ENHANCEMENT.md) and [heavy-weapon handling/impact design](GENESIS_WEAPONS_AND_IMPULSE.md). Weapon field/Shield anchoring is a working hypothesis, not finalized sigil physics. These applications do not settle the Chainmail Robe's recipe or impose a universal cost. [Card pricing](../ECONOMY/GENESIS_CARD_CLASS_PRICES.md) separates class benchmarks from additional engineering without double charging.
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Aineth, Ain and Aenith — enchanted equipment engineering
 
 **Project:** MK163  

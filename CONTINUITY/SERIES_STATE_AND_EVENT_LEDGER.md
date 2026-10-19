@@ -1,3 +1,21 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds skill and livelihood continuity without new scene dates, chapter counts or possession events. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+| State / event ID | Placement | Current distinction | Owner |
+|---|---|---|---|
+| KAIRA-MANUAL-CRAFT | Before Arc 2 and ongoing | Expert manual mail skills precede Metal Manipulation; purchased rings are still used for the new business. | [KAIRA](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) |
+| KAIRA-CARD-LEARNING | Red Arc 2 | Fireball activation already known; precise Metal Manipulation is a separate new discipline. | [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md) |
+| KAIRA-AEN-PRACTICE | Red Arc 2, scene/time open | Beginner deliberate practice and frustration; no assigned basin, successful milestone or mastery duration. | [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md) |
+| KAIRA-ROW-SUPPLIER | Red Arc 2, scene/time open | Particular unnamed Row smith, mutual craft respect, friendship and purchased ready-made rings. | [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md) |
+| KAIRA-SHIRT-BUSINESS | Red Arc 2 | Ordinary manual demonstration and slow initial orders; market allocation does not fix actual net profit. | [ARMOR_AND_CHAINMAIL_PRICES](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) |
+
+The first apartment negotiation, Nyx adoption, robe endpoint, Black Sprite bond in Arc 3, and no Ring before Red's ending remain unchanged. Market benchmarks do not retroactively fix Kaira's actual rent, exact crystal inventory valuation, order dates or time to mastery. Calendar discrepancy remains unresolved. Sources: [DECISION_AND_REVISION_JOURNAL](../PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Reconciles the old event IDs with the new chapter order, city-arrival endpoint, mushroom ledger and no-smithy-return correction; later anchors remain unchanged. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

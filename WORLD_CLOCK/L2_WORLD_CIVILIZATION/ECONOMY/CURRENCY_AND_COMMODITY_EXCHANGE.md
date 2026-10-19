@@ -1,3 +1,48 @@
+> **Live Model 006 current authority — 2026-10-19:** The explicit 180-ahm exchange and approved White-note series supersede earlier uncertainty; commodity distinctions remain. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+### Currency conversion and six ordinary denominations
+
+**1 Red eln = 6 Violet ahm coins = 6 × 30 = 180 base ahm.** This explicit author choice replaces the earlier unknown/tentative conversion. The seven-Violet-coin alternative is rejected; 30 ahm does not equal one Red eln. Preserve the old tentative “30 gold/diamond coins” wording as history rather than silently treating it as the same proposal.
+
+The ordinary chromatic ahm denominations remain Red 1, Orange 6, Yellow 12, Green 18, Blue 24 and Violet 30 ahm; no White ahm coin is added. The standard chromatic note reference is the separate 1/6/12/18/24/30 eln series, confirmed by the later selected-reference note. Prices use the Red eln base accounting unit. Neither note color nor coin denomination defines a charged Genesis Diamond's energy grade. The inherited coin materials, phase growth and counterfeit-resistance discussion remain intact. Dictated “Om” and “Elm” are source variants of ahm and eln.
+
+### White eln high-value series
+
+The later selected six-note reference and decision journal supersede the currency document's earlier provisional single-note entry. The high-value series is author-approved:
+
+| Accent | White-note face value in eln |
+|---|---:|
+| Red | 180 |
+| Orange | 360 |
+| Yellow | 540 |
+| Green | 720 |
+| Blue | 900 |
+| Violet | 1080 |
+
+These are banknotes, not White ahm coins or new energy basins. The first White note equals 180 eln = 32,400 ahm, distinct from one Red eln = 180 ahm. The initial $100-bill analogy described the role of a high-denomination note, not a real-world exchange rate.
+
+The author selected the exact six-note JPEG's engraving, heraldic ornament, horizontal proportions and chromatic accents. In-world paper is distinctly bright/pearl white, whiter than the warm artwork; warm yellow, amber, aged parchment and rustic cream are not the selected paper tint. Retain the JPEG unchanged, not a regenerated variant, and do not import incidental illustration batch numbers into canon. It is an author-facing reference, not automatic permission to illustrate the published novel. “AELLIN CROWN” and “ELN CERTIFICATE” appear on it. The author now identifies Aellin Crown as the royal house; the political owner records that scoped selection without inventing a kingdom name or family roster.
+
+### Newly assigned economic references and remaining limits
+
+The prior broad statement that all conversions/prices are unknown yields only to the specific Session 006 schedules below. White Genesis Crystal and White Genesis Dust remain distinct: only crystal price is set. Food/meals, fees, taxes, market fluctuations, counterfeiting details, dust yields/prices, Awakening/Restoration recipes and Kaira's actual lease remain open. Income, household income, commercial revenue, prices and net profit remain different quantities.
+
+- [CHROMATIC_INDIVIDUAL_INCOME_SCALE](CHROMATIC_INDIVIDUAL_INCOME_SCALE.md)
+- [CHROMATIC_RENTAL_AVERAGES](CHROMATIC_RENTAL_AVERAGES.md)
+- [GENESIS_CRYSTAL_MARKET_PRICES](GENESIS_CRYSTAL_MARKET_PRICES.md)
+- [GENESIS_CARD_CLASS_PRICES](GENESIS_CARD_CLASS_PRICES.md)
+- [ARMOR_AND_CHAINMAIL_PRICES](ARMOR_AND_CHAINMAIL_PRICES.md)
+- [MELEE_WEAPON_BASE_PRICES](MELEE_WEAPON_BASE_PRICES.md)
+- [NOBILITY_AND_CIVIC_AUTHORITY](../CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md)
+
+Sources: [CURRENCY_CONVERSION_DECISION.md](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CURRENCY_CONVERSION_DECISION.md), [VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.md](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.md), [VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.jpeg](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.jpeg), [ECONOMIC_FOUNDATION_INDEX.md](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ECONOMIC_FOUNDATION_INDEX.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds White Dust distribution, private reserves and unequal Awakening access; existing currencies, commodity distinctions and unknown conversion rates are preserved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

@@ -1,3 +1,17 @@
+> **Live Model 006 current authority — 2026-10-19:** Adds author pronunciation and forbids blanket Ain→aen normalization. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+The author distinguishes lowercase **aen** (A-E-N), approximately **AY-n**, /eɪn/, long A as in day, soft final n, from **Ain** (A-I-N), approximately **EYE-n**, /aɪn/, as in eye. aen are cutaneous biological Genesis anchors; Ain is an individual persistent enchantment. Aenith remains the enchanted object; Aineth remains enchanting.
+
+Never globally autocorrect Ain/ain into aen. Resolve dictated terms from context and the phonetic cue; flag genuinely unresolved ambiguity. Contextual “Aen” or wrist-ring references can normalize to lowercase aen in active prose. Preserve source quotes exactly. The existing Kaira and raeon dictation rules remain in force.
+
+Source: [AEN_NAMING_AND_KAIRA_TRAINING](../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
 # Naming constitution
 
 Preserve AERA's canonical terminology and exact spellings. Examples: `maege` singular, `maegi` plural, `vaen`, `domai`, `velis`, `raeon`, `Aineth` (enchanting), `Ain` (enchantment), `Aenith` (enchanted object). The canonical character name is `Kaira` (K-A-I-R-A); dictated `Kira` is a transcription variant. When a source conflicts, record the discrepancy and consult the current author-established choice. Do not invent replacements.

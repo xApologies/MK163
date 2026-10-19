@@ -93,6 +93,17 @@
       "import_report": "PROVENANCE/DELTA_005_IMPORT_REPORT.json",
       "upstream_reverified": false,
       "full_raw_transcript_available": false
+    },
+    {
+      "id": "MK163_LIVE_MODEL_006_CODEX_CHECKPOINT",
+      "baseline_commit": "9b2002d6a8e14dc3cf8c5959af80d30885fc2aad",
+      "package_sha256": "c45ffc20cae9f1aa8d791a071d79e7d6c42a91f9cc779ea55d5fa15a11afd774",
+      "source_index": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/INTEGRATION_INDEX.md",
+      "decision_journal": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md",
+      "execution_report": "CHECKPOINTS/LIVE_MODEL_006_EXECUTION.md",
+      "manifest": "CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json",
+      "upstream_reverified": false,
+      "full_raw_transcript_available": false
     }
   ]
 }
