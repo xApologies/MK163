@@ -1,3 +1,13 @@
+> **Live Model 007 current authority — 2026-10-20:** Resolves the specific lease while preserving the entire district-average schedule. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+All district averages below remain unchanged. The older statement that Kaira's actual lease is OPEN is superseded only by the explicit **110 eln/month** agreement. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the 170/130/105 viewings and return to the second property. Orange's 90-eln average is not her rent or a price ceiling. Deposit, dimensions, exact address and unrelated calendar questions remain OPEN.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 # Chromatic residential rental averages
 
 **Status:** AUTHOR-ESTABLISHED MK163 working reference; qualifications below apply.

@@ -1,3 +1,13 @@
+> **Live Model 007 current authority — 2026-10-20:** Registers the complete 007 source receipt and scoped upstream verification. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+Input: MK163_LIVE_MODEL_007_EXHAUSTIVE_CODEX.zip, SHA-256 `bdf7f161bb8a00077714084c3ba03a35346bc69bb26ee5b930b11f0b6413f2da`; 18 manifest records plus the manifest itself, all preserved at [the complete source index](WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md). This is a supplied semantic workshop delta, not a literal transcript. [Source boundaries](LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md) records exact local upstream revisions read, historical ZIP treatment, image limitations and the source's commit/tree labeling correction. No 006 workshop or checkpoint was overwritten.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Registers the current checkpoint and deduplicated source retention. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

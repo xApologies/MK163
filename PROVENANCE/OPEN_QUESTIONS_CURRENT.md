@@ -1,3 +1,13 @@
+> **Live Model 007 current authority — 2026-10-20:** Closes only expressly settled questions and links the full remaining-issues register. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+The 110-eln lease, viewing outcomes, immediate first smith friendship, 300,000-ring/1000-eln base contract, eleven-day manufacture, eight elapsed shirt days and selected raeon narrative direction are now resolved within scope. Older OPEN entries below no longer govern those points. [The complete 007 register](LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md) retains all remaining OPEN/PROPOSED questions and source limits. No exact recipe, individual Card price, enchanting surcharge, Row count, physical weave, lower tournament placement rule or unseen dungeon scene is selected.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Closes explicitly settled questions while retaining detailed unresolved boundaries. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

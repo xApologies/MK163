@@ -1,0 +1,13 @@
+# Arc Two — apartment, social identity, emotional throughline
+
+## Three apartment viewings
+Caravan elderly couple sharing Kaira's wagon told her Orange District average rent is ~90 eln/month (INHERITED average). After initial inn stay, Arc 2 opens in medias res at the first failed negotiation. Employee sees afflicted stigma despite Awakened traits, is bored and dismissive, quotes **170 eln**. Kaira recognizes this is excessive and leaves. Second property quoted **130**, she likes its location and amenities. Third quoted **105**, cheaper but less appealing. She returns to second, haggles awkwardly to **110 eln/month**, accepts it. The earlier **500→430→410** rent scenario is SUPERSEDED historical workshop evidence; do not merge. Apartment exact coordinates, landlord, deposit, dimensions remain OPEN.
+
+## Daily life and city movement
+The city is a 10×10-mile Violet-dungeon city, with apartment in northwestern Orange District a little east of literal northwest corner; exact map open. Kaira explores coffee/abecca, restaurants, raeon shop, Genesis Card shop, and furniture stores. Initially empty apartment; ordinary affordable metal furniture (table, two chairs, perhaps seating/bed) delivered next day after Green District shopping. Wood is scarce, metal dominant; upscale bespoke metal furniture belongs at Yellow Blacksmith Row, not a requirement for her Orange apartment. She generally buys meals rather than cooking; fruit for breakfast, favorite food venues emerge through the narrative, names not yet assigned. Visits can recur; avoid rigid chapter or daily timetable.
+
+## The emotional arc
+Kaira is reclaiming her humanity, self-determination and future after affliction and indentured smithy work. Some people see affliction and superstition, others Awakened/noble wealth, others treat her as an ordinary person. City reactions are not uniformly accepting. She can leave bad interactions and choose her community. Master smith recognizes her **craft**; raeon players recognize her **gameplay**; shopkeepers may see wealth. No sudden universal social acceptance, and no obligatory confrontation each scene. Freedom includes mundane choices: furniture, coffee, lunch, hobbies, breaks, work and friendships. Her robe is a long-held private design finally realized, not solely protective armor. This emotional principle informs all parallel Arc Two strands without altering its existing macro arc.
+
+## Arc boundary
+No fixed chapter count; opening independence and work lead into dungeon outreach, Nyx, harvesting, professional business, study and robe. Completion/public reveal of first robe ends Arc Two (INHERITED). Do not shift Nyx's third-dungeon-return rescue, Black Sprite bond or Dimensional Ring acquisition from their owning later events.

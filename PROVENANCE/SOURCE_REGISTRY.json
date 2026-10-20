@@ -104,6 +104,22 @@
       "manifest": "CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json",
       "upstream_reverified": false,
       "full_raw_transcript_available": false
+    },
+    {
+      "id": "MK163_LIVE_MODEL_007_EXHAUSTIVE",
+      "baseline_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "package_sha256": "bdf7f161bb8a00077714084c3ba03a35346bc69bb26ee5b930b11f0b6413f2da",
+      "source_index": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md",
+      "reverse_diff": "PROVENANCE/LIVE_MODEL_007_REVERSE_DIFF.json",
+      "execution_report": "CHECKPOINTS/LIVE_MODEL_007_EXECUTION.md",
+      "manifest": "CHECKPOINTS/LIVE_MODEL_007_MANIFEST.json",
+      "full_raw_transcript_available": false,
+      "upstream_remote_tips_fetched": false,
+      "local_upstream_revisions_read": {
+        "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+        "MK727": "8e5f5fead9621c81cf2064190cc732dbd399f7f1",
+        "_raeon": "cbd71e8696c1edc9c71253490da7352f7645338a"
+      }
     }
   ]
 }

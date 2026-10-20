@@ -1,3 +1,22 @@
+> **Live Model 007 current authority — 2026-10-20:** Adds the approved custom ring contract without replacing 006 market benchmarks or promoting the surcharge. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+### Kaira's specific Arc 2 commission
+
+The established order is **300,000 Genesis-infused iron self-closing rings** for a negotiated **1000 eln base contract**. The former 30,000-ring idea is superseded. Approximate planning allocation is **25,000 shirt + 250,000 five-layer robe + 25,000 contingency = 300,000**; exact robe requirement remains OPEN and the demonstration shirt is approximately 23,000–25,000 rings.
+
+The unchanged standard reference below gives 300,000 × 80 / 23,000 = **1043.47826 eln**, about 1043.48, as a comparison only. It does not imply equal materials, identical retail unit rates or a universal discount. The suggested **+100 eln mass-reduction surcharge and 1100 eln combined total are PROPOSED, not approved**. Full enchanted cost, incidental costs, margins/net profit, future robe retail and repair fees remain OPEN. No protective enchantment is bundled into the mass-reduction function.
+
+The existing standard 23,000-ring/80-eln input and 200-eln ordinary shirt benchmarks remain unchanged. Kaira's new custom demonstration uses manual expertise plus learned Transduction; it no longer has an exclusively manual construction requirement. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the 11-day supplier manufacture, approximate pickups and eight elapsed shirt days. These are specific narrative durations, not universal production rates. [Materials and design](../TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) owns durability, self-closing geometry and weave limitations.
+
+
+Sources: [03_ARC_TWO](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md); [08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md); [09_WEAVE_CARD_AND_TIMELINE_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 # Ordinary armor prices and chainmail production allocation
 
 **Status:** AUTHOR-ESTABLISHED MK163 working reference; qualifications below apply.

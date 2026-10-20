@@ -1,3 +1,30 @@
+> **Live Model 007 current authority — 2026-10-20:** Adds approved MK163 formats and community details, with scoped upstream verification and open fees/placements. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+### MK163 social and tournament decisions
+
+Raeon values strategic ability, tactics, creativity and sportsmanship at the table more than birthright, nobility or wealth. Collection access can still be unequal; skill is not automatically purchased. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns Kaira's community, ongoing indecision, practice and first Utility/Universal rental. Cards are durable reusable maege glass, distinct from operational Genesis Cards.
+
+**Standard** uses the current published cycle for sanctioned events. **Open** admits any published cycle for casual and potentially organized events. These are MK163 workshop format decisions, not a claim that upstream software implements them. Deck fundamentals remain inherited. Shops stock old and current cards; older stock may be cheaper while rare old cards retain value. Example dollar prices are not eln/ahm prices.
+
+The selected local tournament cadence is six days: registration on days 1–5, single-elimination head-to-head play on day 6, approximately 30–50 entrants with variable attendance. Seven prize positions run Red through White, **White first**; other entrants receive no prize. In **Standard**, Red–Violet receive older-cycle cards and White receives a current-cycle card. In **Open**, all seven receive older-cycle cards. Placement colors do not determine the prize card's basin. Lower-place ranking/tiebreaks are **OPEN**; no extra matches or administrative formula is invented. This is separate from the King's Tournament.
+
+Three teaching house-deck archetypes are **Tempo** (aggressive Degrade/early field pressure), **Control** (Restoration, sustained/emergent fields and defense), and **Utility/Universal** (draw, selection, flexible configurations and response). They are not formats or final decklists. Casual practice with the assistant is distinct from tournament rental; rented decks must be legal for the event. One Orange ahm entry and one Red ahm rental remain **ILLUSTRATIVE**, not fixed shop or universal fees.
+
+### Verified scoped upstream reference
+
+Local `_raeon` commit **cbd71e8696c1edc9c71253490da7352f7645338a**, `design/cards/CARD_SYSTEM.md`, was read: 60-card constructed decks; 120 Field Generators + 14 Prime Fields + 51 Utilities = 185 ordinary Cycle-1 cards; normal limits two Field Generators and three Utilities per identity, unique Prime identity and three active Prime positions. No additional color uniqueness rule follows. These are inherited, not new MK163 mechanics; older recalled ~160/~200 counts do not override that revision. Individual card definitions remain under design, so no names/effects are invented.
+
+`design/game/GAME_DESIGN_DOCUMENT.md` at that same local revision describes approximately 15-minute target sessions, not a guaranteed duration, and provisional product direction with individually accepted game rules. No complete catalogue or playable release is asserted, and no upstream files were modified. Novel exposition remains experiential through play/dialogue.
+
+
+Sources: [04_RAEON](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md); [10_RAEON_FULL_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 # raeon, Prism, Genesis collections and daily culture
 
 **Project:** MK163  

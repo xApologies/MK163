@@ -1,3 +1,28 @@
+> **Live Model 007 current authority — 2026-10-20:** Clarifies optional channel dust and narrative-led recipe development without canonizing proposed formulations. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+**Author-established development policy:** develop alchemical recipes when the narrative needs them, recording the needed recipe, interactions, cost and outcome and locking them only after approval. No exhaustive universal catalogue or extra physics textbook is required.
+
+Ru’ne are the **individual physically carved orthogonal corridors composing a sigil**. They are not decorative block art or dissolved ingredients. Genesis dust is optional and generally placed **in the corresponding ru’ne channels** to stabilize transfer during high throughput, toggling or near-complete discharge; red dust in a red channel is an example. Crystals alone can drive a circuit. Dust is not automatically poured into the receiving beaker or required in every channel. Some special recipes incorporate it directly; White Genesis Dust is the exceptional superposition-structuring case and can enter the medium directly.
+
+For the discussed Restoration setup, a rectangular workbench acts as a binding circuit: six chromatic crystal anchors feed a central vessel/target through an orthogonal sigil. “Circle” does not demand a circular table. This six-basin preparation does not remove the general table's existing optional White anchor or invent a seventh ordinary basin. A water beaker is a possible medium; exact topology is not approved.
+
+Inputs may include structured chromatic crystals, optional dust, identity-bearing vaen, Type 1–5 materials and the target. Vaen are neither necessarily elements nor obligatory reagents; compatible identities can be selected/resolved. Existing AERA Type 1 chemistry/Types 2–5 Genesis-mediated material categories and material-science inheritance remain unchanged.
+
+### Preserved proposals and examples, not finalized recipes
+
+[The complete alchemy workshop](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md) preserves the **PROPOSED** six cuts R230/O170/Y330/G560/B430/V610 g (2330 g total), with the arithmetic **4958.50 eln** at unchanged 006 crystal prices. No Restoration dosage, yield, consumption/reuse, other reagents or retail price is established. The earlier three-basin Restoration proposal is rejected; the unrelated two-slider control example below remains an apparatus illustration.
+
+Awakening candidates include Type 2–3 materials, White Dust and possibly vaen, but no recipe, identity, quantity, yield or cost is selected. Do not turn the illustrative helium-4/iron/Green-dust stable-liquid-iron example into an Awakening ingredient. The source's controlled helium intermediate, superfluid-condition discussion and R/O/G iron-infusion example remain illustrative with formulation/classification open. Existing Arc 1 exceptional Awakening and biology are unaffected. No new universal operator, solved field mathematics or copied upstream corpus is introduced.
+
+
+Sources: [01_ALCHEMY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md); [05_ALCHEMY_DEEP_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds detailed configurable tables, seven anchor positions, operator-controlled transfer profiles, proprietary houses and repair lifecycle; existing material hierarchy and staged-apparatus rules remain unchanged. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

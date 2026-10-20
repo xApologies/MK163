@@ -1,3 +1,27 @@
+> **Live Model 007 current authority — 2026-10-20:** Adds relative event dependencies and prevents order-day/shirt-day conflation. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+These are approved outline states, not claims of drafted scenes or fixed calendar dates. [Arc 2](../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the narrative.
+
+| Stable event/state ID | Relative placement | Entry → exit / dependency |
+|---|---|---|
+| KAIRA-ORANGE-LEASE | After inn, Arc 2 opening viewings | Quotes 170/130/105; returns to second → agrees 110 eln/month. |
+| KAIRA-SMITH-FIRST-FRIEND | First chosen-supplier conversation | Craft discussion → immediate peer respect/friendship; mentorship develops later. |
+| KAIRA-RING-COMMISSION | Supplier visit; commission day zero reference only | 300,000-ring order; 1000 eln base; eleven-day manufacture; exact enchanting surcharge OPEN. |
+| KAIRA-METAL-CARD-PRACTICE | Green shop, before first ring pickup | Known Fireball activation → intended three-basin purchase and scrap practice; ID/colors/price OPEN. |
+| KAIRA-SHIRT-EIGHT-DAYS | From first pickup around commission day 3 | Eight elapsed days → finished ~23,000–25,000-ring shirt around day 11, individual-ring competence only. |
+| KAIRA-SHIRT-SMITH-REVISIT | Following shirt completion, around day 11/12 | Shirt → expert opinion and business advice; shirt-project “day nine” is not order-day nine. |
+| KAIRA-ROBE-EXPERIMENTS | Home that night | Shirt complete → begins separate 3D robe experiments; interlayer topology OPEN. |
+| KAIRA-SHIRT-DUNGEON-OUTREACH | Following day | Carries shirt NW toward staging community; ~5 miles working estimate; scene/route OPEN. |
+| KAIRA-RAEON-ONGOING-DECK | First three browsing days and later parallel routines | Few promising cards, practice and Utility/Universal tournament rental; no completed personal deck or selected result. |
+
+No new possession bypasses physical carrying limits. Nyx's third-return adoption, first-robe Arc 2 endpoint, Arc 3 Black Sprite bond and Red-ending Dimensional Ring are retained. Unrelated calendar and maternal-item carrying questions remain open.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Adds skill and livelihood continuity without new scene dates, chapter counts or possession events. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

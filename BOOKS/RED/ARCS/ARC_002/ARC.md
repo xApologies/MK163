@@ -1,3 +1,54 @@
+> **Live Model 007 current authority — 2026-10-20:** Expands the approved Arc 2 sequence and resolves the lease, first friendship and relative craft chronology. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+### Existing arc contract and entry
+
+MK163-RED-ARC-002 remains **outlined**, with variable chapters, the existing objective/conflict/actors, Nyx and parallel livelihood/study strands. Arc 1 supplies city arrival and an initial inn stay. Arc 2 still opens in medias res at failed haggling during the first of three apartment viewings. Its exit remains completion and public reveal of the first Chainmail Robe; Black Sprite Binding belongs to Arc 3 and the Dimensional Ring to Red's ending. No dungeon scene, dialogue, named cast or chapter allocation is supplied in 007.
+
+### Apartment and reclaimed everyday life
+
+The elderly couple sharing the caravan wagon had told Kaira that Orange average rent is about 90 eln/month. The first apartment employee is bored and dismissive, responding to Afflicted stigma despite her Awakened traits, and quotes **170 eln**. Kaira recognizes the excessive price and leaves. The second property costs **130 eln** and has the location and amenities she prefers. The third is **105 eln**, cheaper but less appealing. She returns to the second and awkwardly negotiates **110 eln/month**, then accepts it. This resolves the earlier open outcome and supersedes the historical 500→430→410 scenario; it does not change district averages.
+
+The apartment remains northwestern Orange, a little east of the literal NW corner, conveniently but not immediately near a northern gate. Exact coordinates, dimensions, landlord and deposit remain OPEN. Initially sparse/empty, it receives ordinary affordable metal furniture, including a table and two chairs; possible additional seating/bed is not a fixed inventory. Delivery is the following morning after the shopping sequence that includes the Green District Card-shop visit. Do not infer that her ordinary furniture was a bespoke Row commission. Abecca, restaurants, fruit, shopping and recurring visits mark independence; favorite venues remain unnamed and routes unmeasured. Fruit breakfasts and purchased lunches/dinners continue without inventing a cooking subplot or rigid daily timetable.
+
+Her emotional throughline is reclaimed humanity, agency and a future after Affliction and indentured smithy work. Some people respond to stigma, some see wealthy Awakening or presumed nobility, and some recognize a person, player or craftsperson. She can leave a bad interaction and choose her community. No universal city acceptance, obligatory confrontation, new antagonist or true noble ancestry follows.
+
+### First smith friendship and contract
+
+She browses the closest Yellow Blacksmith Row and multiple suppliers: one too slow, one too expensive to haggle, another with unacceptable ring quality. The chosen unnamed master mailwright offers exceptional rings. During the **first meeting**, her discussion of Genesis-infused iron, elasticity, self-closing geometry, tolerances, durability, shape recovery, process, price and her proprietary weave immediately floors him. They connect as craft peers before signing; he is her first genuine friend. Later business mentorship and confidant status develop across arcs: pricing, clients, commissions, deposits and margins. He also learns from her geometry. This is reciprocal respect, not friendship withheld until repeated demonstrations. Name, rank, exact Row and shop remain OPEN.
+
+She commissions **300,000 rings** for the approved **1000 eln base contract**. [The armor economy owner](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) records allocation, comparison and unapproved surcharge; [the materials owner](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) records self-closing rings, mass reduction only and the separate shirt/robe designs. The master participates personally and delegates some work to a colleague in the same working shop, not an offsite factory.
+
+### Card purchase, learning and eight elapsed shirt days
+
+In an upscale Green District Genesis Card shop she buys the intended standardized **three-basin General Metal Manipulation** design, rather than a six-basin universal-general or two-basin iron-only design. This is an established MK163 purchase direction within MK727's proposed industrial family, **not a verified published catalogue entry**. ID, basin colors, full compatibility and individual price remain OPEN; the suggested 540-eln Advanced-class mapping is not an approved purchase price. She is treated as affluent Awakened, explores the displays and reconnects emotionally with her cardsmith mother and three books. This does not resolve the older open physical carrying history of those possessions.
+
+She already knows activation of her mother's Fireball Card. She asks the smith for scrap metal and practices targeting, holding and deforming it before rings arrive. With rings she learns orienting, opening, threading and releasing the self-closing geometry, initially using hand support and fumbling. Expert manual pattern/fit judgment precedes this learning; Card activation is not metal-control mastery. The earlier exclusively manual description of this demonstration shirt is superseded by manual skill combined with gradual Transduction assistance. Her separate beginner aen practice remains unchanged.
+
+The accepted manufacture period is **11 days**, superseding a 15-day proposal. Approximate pickups are commission days **3, 6, 9 and 11**. Exact batches remain OPEN: about 80,000 rings in the first pickup and a roughly 50×40×30 cm chest (about 20×16×12 inches) are illustrative. Mass reduction makes carrying feasible but leaves bulk; do not put the entire 300,000-ring order in that illustrative chest or grant her a Dimensional Ring.
+
+The **eight elapsed days** of constructing the roughly **23,000–25,000-ring demonstration shirt** start with the first pickup, not with commissioning. Completion is around commission day 11, with the next smith visit around day 11/12 as approximate indexing permits. The workshop's “day nine” is relative to the shirt project, not order-day nine; exact absolute scene dates remain OPEN. She can work up to about 20 hours on an intense 31-hour day, without requiring that every day. Meals, abecca, frustration breaks and raeon continue. The old 96-hour and 100–150-hour work estimates are planning assumptions, not required totals. By the end she has practical efficiency with individual rings, not mastery of all metals or complex objects.
+
+She shows the finished shirt to the smith for expert opinion, recognition and business advice. At home that night she begins robe experiments; following day she carries the **shirt**, not an unfinished or completed robe, toward the Violet dungeon aithren staging community northwest of the city. Roughly five miles remains a working cartographic estimate; route, encounters and the dungeon scene are not supplied. Existing slow early orders, repairs, harvesting, Nyx's third-return rescue and later robe endpoint remain intact.
+
+### Raeon as an ongoing social strand
+
+The community recognizes gameplay, strategy, tactics, creativity and sportsmanship; wealth still affects access to collections. Across the first three days Kaira browses Prime Fields, Field Generators and Utilities, chats and practices with the assistant using house decks, and buys a few promising Prime Fields/Utilities without a named card list. She is an enthusiastic indecisive beginner: standard versus emergent fields, early versus late development, and card draw remain choices she explores. She does **not** finish a personal 60-card deck or master the game in three days. That project continues through manufacture and shirt work without a deadline.
+
+For her first tournament she rents the **Utility/Universal** house deck, legal for the selected format; first placement, final deck, assistant name and friendship development beyond the supplied direction remain OPEN. Casual house-deck practice does not automatically incur tournament rental on every visit. [The culture owner](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md) owns Standard/Open formats, prizes, cadence and house archetypes. Teach through play and conversations, not a rulebook inserted into the novel.
+
+### Design and source dependencies
+
+[Shirt and robe construction intent](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) preserves the Offset-Lattice concept, abstract graph and unvalidated physical topology. [The robe event owner](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) preserves the garment's identity and approved visual scope. [The correction register](../../../../PROVENANCE/LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md) distinguishes all current supersessions and OPEN matters.
+
+
+Sources: [03_ARC_TWO](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md); [06_CITY_APARTMENT_EMOTIONAL_RECOVERY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md); [08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md); [09_WEAVE_CARD_AND_TIMELINE_RECOVERY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md); [10_RAEON_FULL_RECOVERY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Selects the Blacksmith Row supplier, separates manual/Card/aen competencies and expands existing parallel strands. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

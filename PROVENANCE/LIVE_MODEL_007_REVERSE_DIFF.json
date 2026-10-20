@@ -1,0 +1,694 @@
+{
+  "checkpoint": "LIVE_MODEL_007",
+  "baseline_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+  "supplied_reverse_diff": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/AUDIT/REVERSE_DIFF.md",
+  "status": "RECONCILED_COMPLETE_SUPPLIED_SCOPE",
+  "rows": [
+    {
+      "id": "LM007-R01",
+      "supplied_row": {
+        "domain": "Chromatic crystal price, income, district rent",
+        "existing_006": "integrated",
+        "new_007": "reference only",
+        "status": "INHERITED",
+        "destination": "economy; no duplicate"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_RENTAL_AVERAGES.md"
+      ],
+      "before_semantic_assessment": "006 already owns the approved scales; no new scale imported. Rental owner only gains a link closing the specific lease.",
+      "disposition": "inherited-skip",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_RENTAL_AVERAGES.md"
+      ],
+      "after_required_fragments": [
+        "31,000",
+        "3000",
+        "90"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R02",
+      "supplied_row": {
+        "domain": "Restoration recipe",
+        "existing_006": "no finalized formula",
+        "new_007": "R230/O170/Y330/G560/B430/V610g, cost 4958.5 eln; yield open",
+        "status": "PROPOSED recipe",
+        "destination": "alchemy workshop / owner only with status"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "before_semantic_assessment": "No finalized Restoration recipe at baseline; preserve six-cut exploration and qualified arithmetic, do not activate a recipe.",
+      "disposition": "proposal-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "after_required_fragments": [
+        "PROPOSED",
+        "2330",
+        "4958.50",
+        "No Restoration dosage"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R03",
+      "supplied_row": {
+        "domain": "Ru’ne vs sigil",
+        "existing_006": "inherited",
+        "new_007": "explicit dust channel correction",
+        "status": "ESTABLISHED clarification",
+        "destination": "alchemy/technology"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "before_semantic_assessment": "006/005 already allow selected channel dust; add explicit optional corresponding-channel correction and special direct-medium exceptions.",
+      "disposition": "applied-clarification",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "after_required_fragments": [
+        "individual physically carved",
+        "optional",
+        "White Genesis Dust"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R04",
+      "supplied_row": {
+        "domain": "Alchemy catalog",
+        "existing_006": "framework exists",
+        "new_007": "narrative-first per-recipe policy",
+        "status": "ESTABLISHED",
+        "destination": "alchemy workshop"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "before_semantic_assessment": "Existing alchemy framework has no required catalogue; make the new narrative-needed approval policy explicit.",
+      "disposition": "applied-policy",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "after_required_fragments": [
+        "when the narrative needs them",
+        "only after approval"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R05",
+      "supplied_row": {
+        "domain": "Awakening",
+        "existing_006": "biology exists",
+        "new_007": "advanced materials considered, no formula",
+        "status": "OPEN",
+        "destination": "alchemy workshop"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "before_semantic_assessment": "Existing exceptional Arc 1 potion and general biological effects do not select a commercial Awakening formula.",
+      "disposition": "open-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md"
+      ],
+      "after_required_fragments": [
+        "no recipe, identity, quantity, yield or cost",
+        "not",
+        "Awakening ingredient"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R06",
+      "supplied_row": {
+        "domain": "Apartment",
+        "existing_006": "failed first haggling, price open",
+        "new_007": "170,130,105; final 110 Orange",
+        "status": "ESTABLISHED",
+        "destination": "Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Baseline has three viewings with outcomes and rent open; current source selects the full negotiation. Old 500/430/410 is historical only.",
+      "disposition": "applied-supersession",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "170 eln",
+        "130 eln",
+        "105 eln",
+        "110 eln/month"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R07",
+      "supplied_row": {
+        "domain": "City emotional spine",
+        "existing_006": "independence established",
+        "new_007": "humanity through diverse social reactions",
+        "status": "ESTABLISHED",
+        "destination": "Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Independence and variable stigma/noble reactions already exist; extend the chosen-community emotional principle without new antagonists.",
+      "disposition": "applied-expansion",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "reclaimed humanity",
+        "choose her community",
+        "No universal city acceptance"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R08",
+      "supplied_row": {
+        "domain": "Blacksmith zoning",
+        "existing_006": "3 Yellow Rows, Red/Orange local",
+        "new_007": "only Row smithies in Yellow; high rent/visibility",
+        "status": "ESTABLISHED refinement",
+        "destination": "L2 professions"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "before_semantic_assessment": "Baseline permits independent Yellow shops and generally excludes upper-district noise; 007 explicitly narrows Yellow to Rows.",
+      "disposition": "applied-supersession",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "after_required_fragments": [
+        "supersedes the older allowance",
+        "Green/Blue/Violet exclude"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R09",
+      "supplied_row": {
+        "domain": "Row shop count",
+        "existing_006": "32–64 working range",
+        "new_007": "64 initial, 32 assistant recommendation",
+        "status": "OPEN",
+        "destination": "workshop only"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "before_semantic_assessment": "Baseline's 32–64 is a working range, not a final count; keep initial 64 and unapproved 32 open.",
+      "disposition": "open-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "after_required_fragments": [
+        "Final shop count is OPEN",
+        "not approval"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R10",
+      "supplied_row": {
+        "domain": "Row professions",
+        "existing_006": "metalwork/civic families",
+        "new_007": "furniture, bespoke civic crafts; remove false special categories",
+        "status": "ESTABLISHED direction",
+        "destination": "L2 professions"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "before_semantic_assessment": "Existing six civic domains remain; add bespoke families and reasoning, reject proposed specialist shops without choosing tenant quotas.",
+      "disposition": "applied-with-open-boundaries",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "after_required_fragments": [
+        "furniture/domestic",
+        "were rejected",
+        "final grouping and allocation remain OPEN"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R11",
+      "supplied_row": {
+        "domain": "Ring supplier",
+        "existing_006": "unnamed friend, bulk rings",
+        "new_007": "first-visit immediate respect; first genuine friend/mentor",
+        "status": "ESTABLISHED",
+        "destination": "Arc 2 / character"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "006 selects unnamed Row supplier/friendship; 007 settles immediate first-meeting recognition and subsequent reciprocal mentorship.",
+      "disposition": "applied-expansion",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "first meeting",
+        "first genuine friend",
+        "before signing"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R12",
+      "supplied_row": {
+        "domain": "Ring order",
+        "existing_006": "23k/80 eln standard",
+        "new_007": "300k/1000 eln, 11 days, batch pickups",
+        "status": "ESTABLISHED",
+        "destination": "Arc 2 / economy"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Standard 23k/80 benchmark survives; 300k/1000 and manufacture/pickups are specific new decisions, not new universal rates.",
+      "disposition": "applied-specific-contract",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "300,000",
+        "1000 eln",
+        "11 days",
+        "3, 6, 9 and 11"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R13",
+      "supplied_row": {
+        "domain": "Enchantment price",
+        "existing_006": "excluded from standard",
+        "new_007": "+100 eln suggestion, total 1100",
+        "status": "PROPOSED",
+        "destination": "workshop only"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md"
+      ],
+      "before_semantic_assessment": "006 enhancement price was open; source's +100 and 1100 are unapproved and remain so.",
+      "disposition": "proposal-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md"
+      ],
+      "after_required_fragments": [
+        "+100 eln",
+        "1100 eln",
+        "PROPOSED, not approved"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R14",
+      "supplied_row": {
+        "domain": "Ring design",
+        "existing_006": "standard ring",
+        "new_007": "self-closing Genesis-infused iron; mass reduction only",
+        "status": "ESTABLISHED design",
+        "destination": "L2 armor / Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md"
+      ],
+      "before_semantic_assessment": "006 ordinary demonstration wording now gains explicitly selected custom infused self-closing rings; mass reduction gives no extra protection.",
+      "disposition": "applied-specific-design",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md"
+      ],
+      "after_required_fragments": [
+        "Genesis-infused iron",
+        "elastic and self-closing",
+        "only selected enchantment is mass reduction"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R15",
+      "supplied_row": {
+        "domain": "Proprietary weave",
+        "existing_006": "prior first robe ~5 layers",
+        "new_007": "Offset-Lattice shirt, 3D robe separate",
+        "status": "ESTABLISHED concept; topology unverified",
+        "destination": "Arc 2 / technology"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md"
+      ],
+      "before_semantic_assessment": "Five-layer fitted robe already exists; new Offset-Lattice shirt concept and separate 3D robe intent do not validate geometry.",
+      "disposition": "applied-concept-only",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md"
+      ],
+      "after_required_fragments": [
+        "Offset-Lattice Weave",
+        "UNVALIDATED",
+        "interconnected topology remains OPEN"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R16",
+      "supplied_row": {
+        "domain": "Metal card",
+        "existing_006": "MK727 3-basin proposal",
+        "new_007": "purchase in Green, scrap practice, gradual mastery",
+        "status": "ESTABLISHED narrative",
+        "destination": "Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Baseline selects buying Metal Manipulation but no exact item; MK727 read confirms proposed family, not an existing catalogue entry.",
+      "disposition": "applied-direction-with-open-spec",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "three-basin General Metal Manipulation",
+        "not a verified published catalogue entry",
+        "scrap metal"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R17",
+      "supplied_row": {
+        "domain": "Card price",
+        "existing_006": "class benchmarks 540 Advanced",
+        "new_007": "540 mapping to General Metal Manipulation",
+        "status": "PROPOSED",
+        "destination": "workshop only"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md"
+      ],
+      "before_semantic_assessment": "The 540 class benchmark is already canon, but no approved item-specific mapping or price exists.",
+      "disposition": "proposal-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md"
+      ],
+      "after_required_fragments": [
+        "540-eln Advanced-class mapping",
+        "not an approved purchase price"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R18",
+      "supplied_row": {
+        "domain": "Shirt",
+        "existing_006": "demonstration established",
+        "new_007": "8 elapsed days, 23–25k rings, flexible work",
+        "status": "ESTABLISHED",
+        "destination": "Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Baseline describes manual demonstration and open duration; 007 selects eight elapsed days and gradual assisted individual-ring learning.",
+      "disposition": "applied-supersession",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "eight elapsed days",
+        "23,000–25,000",
+        "not order-day nine",
+        "not mastery of all metals"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R19",
+      "supplied_row": {
+        "domain": "Raeon game",
+        "existing_006": "existing MK727 social strand",
+        "new_007": "formats, prizes, house decks, community, indecision",
+        "status": "ESTABLISHED direction",
+        "destination": "Arc 2; refer _raeon"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Social game and possible six-day prize structure already exist; format/prize distinctions, house archetypes and ongoing indecision are new MK163 direction.",
+      "disposition": "applied-mk163-direction",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "Standard",
+        "Open",
+        "Tempo",
+        "Control",
+        "Utility/Universal",
+        "does not finish"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R20",
+      "supplied_row": {
+        "domain": "Tournament fees",
+        "existing_006": "none verified",
+        "new_007": "orange ahm entry/red ahm rental examples",
+        "status": "ILLUSTRATIVE/VERIFY",
+        "destination": "workshop only"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+      ],
+      "before_semantic_assessment": "No verified fixed fee at baseline; retain exact source examples only with ILLUSTRATIVE status.",
+      "disposition": "illustration-preserved",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+      ],
+      "after_required_fragments": [
+        "One Orange ahm",
+        "one Red ahm",
+        "ILLUSTRATIVE"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R21",
+      "supplied_row": {
+        "domain": "Dungeon outreach",
+        "existing_006": "planned",
+        "new_007": "next day carries shirt ~5 miles NW",
+        "status": "ESTABLISHED narrative direction, distance working",
+        "destination": "Arc 2"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_semantic_assessment": "Existing staging outreach retained; source specifies following-day shirt transport, while five miles remains a working estimate.",
+      "disposition": "applied-direction-scene-open",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md"
+      ],
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "following day",
+        "shirt, not",
+        "Roughly five miles",
+        "scene are not supplied"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    },
+    {
+      "id": "LM007-R22",
+      "supplied_row": {
+        "domain": "Aithren spelling",
+        "existing_006": "naming canon exists",
+        "new_007": "correct voice transcription",
+        "status": "INHERITED correction",
+        "destination": "no duplicate"
+      },
+      "before_commit": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+      "reviewed_current_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md"
+      ],
+      "before_semantic_assessment": "Exact aithren and other dictation terms already govern; no new group or duplicate naming authority.",
+      "disposition": "inherited-skip",
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md"
+      ],
+      "after_owner_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md"
+      ],
+      "after_required_fragments": [
+        "aithren",
+        "Kaira",
+        "raeon",
+        "aen",
+        "Ain"
+      ],
+      "unresolved_destructive_conflict": false,
+      "review_method": "Read supplied row and complete workshop files, compare current owner text, apply only established scope; fragments are regression checks, not proof of semantics."
+    }
+  ],
+  "not_claimed": [
+    "verbatim transcript",
+    "complete upstream mirrors",
+    "physical weave validation",
+    "unseen dungeon scene"
+  ]
+}

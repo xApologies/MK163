@@ -1,3 +1,13 @@
+> **Live Model 007 current authority — 2026-10-20:** Adds current operating references while preserving all prior instructions. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+For Live Model 007 and later updates, read [007 corrections](PROVENANCE/LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md), [source coverage](PROVENANCE/WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md) and the current topic owners. Preserve complete prior workshop/checkpoint history. The 110-eln lease, 300,000-ring/1000-eln base commission, eleven manufacture days and eight elapsed shirt days are selected. The +100 surcharge, 540 Card mapping, final Row count, potion yield and physical shirt/robe topology are not locked. Keep the historical preliminary ZIP and image captions subordinate to current written decisions. Do not replay their handoffs or invent the next dungeon scene.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Adds current checkpoint references and preserves all earlier operating instructions. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

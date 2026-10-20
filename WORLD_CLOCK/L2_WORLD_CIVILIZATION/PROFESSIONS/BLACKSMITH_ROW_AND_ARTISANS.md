@@ -1,3 +1,26 @@
+> **Live Model 007 current authority — 2026-10-20:** Refines zoning and working shops while retaining OPEN counts and rejecting unapproved specialist categories. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+The three prestigious Blacksmith Rows remain exclusively in Yellow. The explicit new zoning decision supersedes the older allowance for unrelated standalone Yellow smithies: smaller independent smithies, sometimes with conventional forges, belong in Red/Orange; Yellow smithies belong to the Rows. Green/Blue/Violet exclude smithies for disturbance, noise and traffic. Wealthy upper-district patrons visit Yellow. High rent, scarce visibility and master craft make the address prestigious (the source's Rodeo Drive analogy); professional rank still differs from district.
+
+Existing two-tier architecture, recessed upper promenade, no overhang and larger ground-floor suites remain. Approximately 300 m length and north/west/east placements are working examples, not final coordinates. **Final shop count is OPEN**: 64 (16 per side per tier) was reopened; 32 (8 per side per tier) was an assistant recommendation, not approval. Prior 32–64 working range does not ratify either endpoint. No numerical tenant quotas are established.
+
+Each smithy is a working shop with a master and multiple smiths, juniors and apprentices, not a showroom for an offsite corporate factory. A master plus about three experienced smiths, two juniors and one/two apprentices is an example only. Apprentices already know manual smithing and practice supervised low-risk Transduction. The master also manufactures. Large gates/fences can be built in segments in the shop, then kept in adjacent warehouse **storage**, not assigned to a second manufacturing site. Existing Metal/Thermal practices and manual finishing remain.
+
+Workshop families overlap: mailwrights (rings, shirts, exotic weaves); armorers (plate, articulated/composite armor); weaponsmiths (swords, massive swords, axes, mauls, polearms); architectural metalworkers (gates, fences, balconies, railings, structural ornament); furniture/domestic smiths (bespoke tables, chairs, four-poster beds, frames, chandeliers and fittings); artistic/ceremonial commissions (sculpture, monuments and decoration). Fine custom hinges, doors and chest hardware fit prestige commissions. Wood scarcity makes metal furniture ordinary; basic mass-produced furniture/fittings belong in Red/Orange commerce, while the Row serves bespoke work. These workshop families do not replace the six broader civic artisan domains.
+
+Separate metallurgical-specialist and sigil-substrate shop categories were rejected: alchemists supply advanced stocks, smiths know materials and can carve ru’ne, while enchanters configure effects. A separate conventional locksmith/security family is challenged by sigil/cube locks, not established as a new trade. Precision/instrument/mechanical one-off work has a tentative role; final grouping and allocation remain OPEN. Jewelry placement is not selected. The proposed numerical distributions remain brainstorming in the complete sources.
+
+[Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns Kaira's closest-Row browsing, first meeting and supplier relationship; exact Row identity, shop and reveal venue remain OPEN.
+
+
+Sources: [02_BLACKSMITH_ROW](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md); [07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md); [08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Resolves the supplier location at Row level while preserving unnamed identity and open coordinates. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

@@ -32,3 +32,11 @@ PROVENANCE/WORKSHOP/LIVE_MODEL_006/** -text
 CHECKPOINTS/LIVE_MODEL_006_PACKAGE/** -text
 CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json text eol=lf
 CHECKPOINTS/LIVE_MODEL_006_VALIDATION.json text eol=lf
+
+# Preserve exact 007 workshop, image and historical source attachment bytes.
+PROVENANCE/WORKSHOP/LIVE_MODEL_007/** -text
+.gitattributes text eol=lf
+PROVENANCE/SOURCE_REGISTRY.json text eol=lf
+PROVENANCE/LIVE_MODEL_007_REVERSE_DIFF.json text eol=lf
+CHECKPOINTS/LIVE_MODEL_007_MANIFEST.json text eol=lf
+CHECKPOINTS/LIVE_MODEL_007_VALIDATION.json text eol=lf

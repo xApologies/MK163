@@ -1,3 +1,13 @@
+> **Live Model 007 current authority — 2026-10-20:** Routes new corrections without editing earlier evidence. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+[Live Model 007 corrections](LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md) govern the current scoped supersessions. Earlier 006 and other statements remain in full as provenance. Current owners distinguish specific approved prices/durations from proposals and market averages. The supplied image and historical preliminary handoff are evidence, not independent execution or canon authority.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Routes current corrections to their full register without rewriting earlier evidence. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

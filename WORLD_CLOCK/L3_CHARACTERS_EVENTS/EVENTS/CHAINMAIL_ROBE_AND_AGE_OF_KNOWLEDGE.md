@@ -1,3 +1,20 @@
+> **Live Model 007 current authority — 2026-10-20:** Associates the exact new concept image and records its noncanonical captions without changing the robe endpoint. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+The first robe remains an opaque, gray-black, athletic close-fitting hooded mail garment, with a prominent hood, controlled drape and **no flowing/flared hem**. It is primarily a long-held personal fashion design, not protection-first armor. Five layers are coordinated by an intended three-dimensional interlayer construction whose topology remains OPEN. The approximate 250,000-ring plan and selected mass reduction do not fix stiffness, weight or protective performance. Prior five layer-specific roles remain illustrative.
+
+[The materials owner](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) owns technical design intent and distinguishes the Offset-Lattice shirt from the unsolved robe weave. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns construction and its completion/public reveal endpoint; the Arc 3 movement and Black Sprite bond remain unchanged.
+
+**LM007-VIS-001:** [original author-supplied concept image](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/VISUAL_REFERENCE/KAIRA_ROBE_AUTHOR_REFERENCE.png), preserved exactly. It is an imperfect visual reference. Its printed “five independent” layers, hardened steel, European 4-in-1, blade-blocking/protection claims, inability to sprint/acrobatics, pull-over closure, belt and floor-length specifications are **not adopted as decisions**. The written current decisions govern selected appearance/materials; a pictured face or the image's old name spelling does not redefine Kaira. No measured weave can be inferred from a rendering.
+
+
+Sources: [06_CITY_APARTMENT_EMOTIONAL_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md); [09_WEAVE_CARD_AND_TIMELINE_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Delta 004 authority update — 2026-10-15:** First-robe completion and public reveal now end Red Arc 2; the robe movement belongs to Arc 3. The former tentative Arc2/Arc3 placement is superseded within that scope. Day Zero remains in Red; its exact date remains open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # The Chainmail Robe and Day Zero of the Age of Knowledge

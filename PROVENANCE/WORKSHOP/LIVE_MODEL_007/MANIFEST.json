@@ -1,0 +1,97 @@
+{
+  "package": "MK163_LIVE_MODEL_007_EXHAUSTIVE",
+  "target": "xApologies/MK163",
+  "baseline_tree_sha": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+  "files": [
+    {
+      "path": "AUDIT/REVERSE_DIFF.md",
+      "bytes": 3523,
+      "sha256": "546a0f0d0b2106d706c791f6cfcad6f6ea95be4cc6b9981b493bf3a996a5ebb9"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 2971,
+      "sha256": "7e1192fef989443e36429e73d22925f3c00aa81c8aedf4dcdbc41e39de453b12"
+    },
+    {
+      "path": "README.md",
+      "bytes": 981,
+      "sha256": "38a2df8689837bf76a9347cc679a16700f4f7c0e26fb8c39a84f3dd3327686a9"
+    },
+    {
+      "path": "SOURCES/PRELIMINARY_DELTA_007_SUPERSEDED.zip",
+      "bytes": 8847,
+      "sha256": "808a737a2247947e7da61c8363f4c8b5a5c21c8f65416b8a68530df635b87ea5"
+    },
+    {
+      "path": "SOURCES/SOURCE_REGISTER.md",
+      "bytes": 1992,
+      "sha256": "7cfa03da7dc3d9241656b917042ab70a43bc4c4ac67f75099658880514d1c784"
+    },
+    {
+      "path": "SOURCES/VISUAL_REFERENCE/KAIRA_ROBE_AUTHOR_REFERENCE.png",
+      "bytes": 2458039,
+      "sha256": "df9715bff9f778a6df80a911f47c53b20d7324519592e31b4a5bb822bd50168f"
+    },
+    {
+      "path": "SOURCES/VISUAL_REFERENCE/README.md",
+      "bytes": 247,
+      "sha256": "a45fbba115a1c2eb10c57612467fb6cbffda69984f4cd97c3c145f4bb56c876c"
+    },
+    {
+      "path": "WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+      "bytes": 2284,
+      "sha256": "a9aaa7bec810ced5156b9d29c4c24fcc1b3422acb7da228ec5099b1d6abb1e52"
+    },
+    {
+      "path": "WORKSHOP/01_ALCHEMY.md",
+      "bytes": 1523,
+      "sha256": "23fe04b58768df6d1a4c5f7302db9e4ae90c4582d312ab80389d08b9e42bc035"
+    },
+    {
+      "path": "WORKSHOP/02_BLACKSMITH_ROW.md",
+      "bytes": 1747,
+      "sha256": "49e9c1613a135c0f5653dbe34dc8d22d25e36547e9c32f653725a6d2e3edb3ca"
+    },
+    {
+      "path": "WORKSHOP/03_ARC_TWO.md",
+      "bytes": 3561,
+      "sha256": "d8520cd2e417e3bf8956ddbbbf496e14a5aa856c2ef867430ce950da834fcd21"
+    },
+    {
+      "path": "WORKSHOP/04_RAEON.md",
+      "bytes": 2038,
+      "sha256": "ea2644e86ffbbf950331c046e3165be38b3b51ce711af087abc8dd685dfbb86b"
+    },
+    {
+      "path": "WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md",
+      "bytes": 3532,
+      "sha256": "6b64633f698a0fab448d1811d876d49af565cad9995e09eabbc68b14d75581ed"
+    },
+    {
+      "path": "WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md",
+      "bytes": 2771,
+      "sha256": "b6737abb58a92a7e387edbcf3229b111714fed1b0f988389162791c77a63197b"
+    },
+    {
+      "path": "WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md",
+      "bytes": 3813,
+      "sha256": "b590dd6b636264a9d9382d0d512b7cc59b0bef9bda182813f7f32b798016da90"
+    },
+    {
+      "path": "WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md",
+      "bytes": 2895,
+      "sha256": "76cc583c207199427a9a40cfae60beefcdc82131122afeb0054393aa3f380372"
+    },
+    {
+      "path": "WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md",
+      "bytes": 3836,
+      "sha256": "db43e4efd7157017e14b6c283837457adba56082ea1cef8955ddc5517e0915e9"
+    },
+    {
+      "path": "WORKSHOP/10_RAEON_FULL_RECOVERY.md",
+      "bytes": 3846,
+      "sha256": "deb498688a5f3ab00ec52506e7b3ac55ee075e05e9afca90573dfb613e5b3fe0"
+    }
+  ]
+}

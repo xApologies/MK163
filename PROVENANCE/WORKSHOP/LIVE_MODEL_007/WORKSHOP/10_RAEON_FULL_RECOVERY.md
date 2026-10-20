@@ -1,0 +1,19 @@
+# Raeon community, formats, tournaments, house decks, Kaira's hobby
+
+## Community identity
+Raeon provides an accessible shared social community in which strategy, tactics and sportsmanship are celebrated more than birthright or social rank. Wealth can still affect collection access; skill at the table cannot be bought automatically. Kaira is treated as player and regular, not solely afflicted or noble. She gains freedom to be an enthusiastic, indecisive beginner. Assistant/shop friendship possible; assistant name and tournament results OPEN.
+
+## Game authority
+`_raeon` current card system: 60-card constructed decks, Cycle-1 **120 Field Generators + 14 Prime Fields + 51 Utilities = 185** ordinary cards; normal copy limits 2 generators, 3 utilities, unique Prime identity, 3 active Prime slots. Historical user recalled ~160 or 200; current repo owns actual count. Game is short strategic play, approximately 15-minute target, with field configurations, emergent fields, degradation, restoration, utilities, card draw and sequencing. No technical manual/exposition dump in novel; teach via Kaira's games and assistant conversations. No new invented individual utility card names or effects unless verified.
+
+## Two formats (author-established workshop direction)
+**Standard**: current published cycle only; sanctioned events. **Open**: cards from any published cycle; casual and potentially organized events. Deck construction fundamentals same. Shops carry current and older cards, with generally cheaper old stock possible but rare old cards can be valuable. User's $5 new/$2.50–3 old were illustrative dollars, NOT canonical eln/ahm prices. Format is distinct from play style/archetype.
+
+## Six-day tournament
+Five days registration; day six single-elimination, variable ~30–50 entrants; winner advances, loser exits. Only seven prize positions Red through White rewarded; others no prize. Exact tiebreak/placement determination for positions 3–7 not established; don't complicate narrative or invent additional matches. **Standard**: White first gets current-cycle card; Red–Violet get older cards. **Open**: all Red–White placements older cards. Colors indicate prize placements, not awarded card basin. User example: **one Orange ahm** entry fee, **one Red ahm** house deck rental, affordable; confirm whether these exact amounts are approved shop policy vs illustration before universalizing. Maege-glass cards durable and reusable, low wear. Rental deck must be legal for event format.
+
+## Three house decks
+**Tempo**: aggressive Degrade, early field pressure. **Control**: Restoration, sustain, defense, emergent fields. **Utility/Universal**: flexible configurations, card draw and response. These are teaching/house archetypes, not separate formats or final catalog decklists. Kaira plays casually with assistant using house decks without automatically paying rental each visit. For first tournament she rents **Utility/Universal**. Her own 60-card deck takes much longer to perfect. Over first three days she browses Prime Fields, Field Generators and Utilities, buys few interesting cards, remains hilariously indecisive about standard vs emergent field strategies, early vs late development and card draw. She has wealth but not experience; does not immediately master the game or finish a deck. She can return daily for abecca, meals, games, chat and more browsing while rings are manufactured, then keep visiting during shirt project. Her hobby has no artificial completion deadline. First tournament placement and personal deck composition remain OPEN.
+
+## Inherited tournament context
+MK727 Arc Two history already included Red–White prize structure; `_raeon` governs card rules. Only genuinely new format, prize distinctions and Kaira narrative developments belong in MK163 007. Do not edit upstream repos.

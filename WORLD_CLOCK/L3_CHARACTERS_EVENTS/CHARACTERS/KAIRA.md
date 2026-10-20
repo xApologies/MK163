@@ -1,3 +1,15 @@
+> **Live Model 007 current authority — 2026-10-20:** Links the new relationship and skill continuity to the existing Arc 2 owner without creating a second story authority. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+[Arc 2's current record](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the selected lease, first master-smith friendship, Card purchase direction, training and ongoing raeon hobby. The smith recognizes her expertise at their first conversation and becomes her first genuine friend; later mentorship is reciprocal. Identity remains Afflicted-born and visibly Awakened, with variable social reactions and false noble assumptions rather than actual noble ancestry.
+
+Manual mailworking expertise, known Fireball activation, beginner Metal Manipulation and separate beginner aen control remain distinct skills. The new shirt uses hand support and gradually learned ring Transduction, superseding the exclusively manual demonstration description. Efficient individual-ring manipulation after eight elapsed shirt days is not general metal or Card mastery. No new aen milestone is inferred. Freedom includes mundane choices, breaks and chosen community; personal raeon deck completion remains open.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Expands manual competence and distinguishes newly learned Metal Manipulation and aen control. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

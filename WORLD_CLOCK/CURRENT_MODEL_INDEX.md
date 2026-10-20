@@ -1,3 +1,25 @@
+> **Live Model 007 current authority — 2026-10-20:** Points current navigation to the reconciled 007 owners and preservation evidence. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+Current incremental checkpoint: **MK163_LIVE_MODEL_007_EXHAUSTIVE**, on verified 006 commit `88a5766cd5d4ddbd5daf08194c11dfc55f598c86`. Read [007 corrections](../PROVENANCE/LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md) and [source coverage](../PROVENANCE/WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md).
+
+- [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [BLACKSMITH_ROW_AND_ARTISANS](L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+- [ARMOR_AND_CHAINMAIL_PRICES](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+- [ARMOR_MATERIALS_AND_ENHANCEMENT](L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md)
+- [ALCHEMY_AND_MATERIAL_SCIENCE](L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md)
+- [GAMES_SPORTS_AND_DAILY_LIFE](L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md)
+- [CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+- [KAIRA](L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [SERIES_STATE_AND_EVENT_LEDGER](../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md)
+
+Unchanged 006 economy/reference owners remain authoritative. Complete evidence and supersessions are retained; no alternate Arc 2 tree or upstream copy is introduced.
+
+---
+
+## Record before Live Model 007 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Updates navigation to Session 006 owners and source boundaries. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

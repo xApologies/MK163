@@ -1,0 +1,114 @@
+{
+  "checkpoint": "LIVE_MODEL_007",
+  "status": "PASS_PRE_PUBLICATION",
+  "pre_commit_sha": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+  "pre_commit_tree": "060fde4f1821248f8badb2ce1eb0165dcfaf49bd",
+  "post_commit_sha": {
+    "resolution": "The commit containing this immutable receipt; resolve with git log -1 --format=%H -- CHECKPOINTS/LIVE_MODEL_007_VALIDATION.json",
+    "literal_sha": null,
+    "reason": "A committed file cannot embed the hash of its own containing commit without changing it."
+  },
+  "remote_verification": {
+    "status": "PENDING_AT_COMMIT",
+    "procedure": "After normal push, fetch origin, then run validate_live_model_007.py with --root . --verify-remote and --report pointing to a new external receipt. Report its actual post_commit_sha to the author."
+  },
+  "archive_sha256": "bdf7f161bb8a00077714084c3ba03a35346bc69bb26ee5b930b11f0b6413f2da",
+  "package_and_installed_validation": {
+    "checkpoint": "LIVE_MODEL_007",
+    "status": "PASS",
+    "package": {
+      "archive_sha256": "bdf7f161bb8a00077714084c3ba03a35346bc69bb26ee5b930b11f0b6413f2da",
+      "archive_bytes": 2479914,
+      "archive_entries": 19,
+      "outer_manifest_records": 18,
+      "nested_manifest_records": 6,
+      "nested_duplicate_workshop_records": {
+        "DELTA/01_ALCHEMY.md": "WORKSHOP/01_ALCHEMY.md",
+        "DELTA/02_BLACKSMITH_ROW.md": "WORKSHOP/02_BLACKSMITH_ROW.md",
+        "DELTA/03_ARC_TWO.md": "WORKSHOP/03_ARC_TWO.md",
+        "DELTA/04_RAEON.md": "WORKSHOP/04_RAEON.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/DECISION_LOG.md": "WORKSHOP/00_PRELIMINARY_DECISIONS.md"
+      },
+      "manifest_self_reference": "Manifest hashed by archive/integration receipt, not by itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS"
+    },
+    "pre_commit_sha": "88a5766cd5d4ddbd5daf08194c11dfc55f598c86",
+    "installed": {
+      "installed_files": 386,
+      "prior_files_preserved": 360,
+      "baseline_files_byte_identical": 343,
+      "baseline_files_expanded": 17,
+      "prior_workshop_and_checkpoint_files_byte_identical": 56,
+      "source_members_exact": 19,
+      "local_links": "PASS",
+      "active_naming": "PASS",
+      "diff_whitespace": "PASS",
+      "safe_paths_case_and_sizes": "PASS",
+      "inbox_ignored_untracked": "PASS",
+      "inbox_snapshot": {
+        "status": "PASS",
+        "files_byte_identical": 9
+      },
+      "reverse_semantic_diff_regressions": {
+        "rows_rechecked": 22,
+        "complete_workshop_records_covered": 11,
+        "status_guard_regressions": "PASS",
+        "scoped_arithmetic": "PASS",
+        "limitation": "Checks support the documented human/model semantic review; they do not prove fictional physical feasibility or authenticate an unavailable raw chat."
+      }
+    }
+  },
+  "legacy_003_structural_and_original_source_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "legacy_006_package_regression": {
+    "delivery": "MK163_LIVE_MODEL_006_CODEX_CHECKPOINT",
+    "package": {
+      "archive_sha256": "c45ffc20cae9f1aa8d791a071d79e7d6c42a91f9cc779ea55d5fa15a11afd774",
+      "documented_corrections": [
+        {
+          "path": "ECONOMIC_FOUNDATION_INDEX.md",
+          "stale_inner_sha256": "a5008f4a9fba283989b7509d9c0cb0e282efd34c8d2f580a6edc73d2d1ae8d38",
+          "outer_verified_sha256": "6cc0052254cb12bdb80bb4ee0b283142eebcf1e4b395da3cdd22d3f637225df3"
+        },
+        {
+          "path": "VISUALS/ATLAS_INDEX.md",
+          "stale_inner_sha256": "2b64e0b19390a0808249d7f6d6ded16821b7799c6fb79acc47d4530f058522c4",
+          "outer_verified_sha256": "6b2ef97775df2d1ae5d1f17b3d3669ad9d034dccd5e4a8ffbc02461b3335911d"
+        }
+      ],
+      "archive_entries": 61,
+      "outer_manifest_records": 60,
+      "legacy_manifest_records": 34,
+      "session_files": 22,
+      "session_hash_records": 20,
+      "crc": "PASS",
+      "paths": "PASS",
+      "outer_hashes": "PASS",
+      "legacy_hashes": "PASS",
+      "inner_hashes": "PASS after the two documented outer-verified corrections; original retained"
+    },
+    "status": "PASS",
+    "scope": "Integrity and preservation of the supplied checkpoint; not proof of full raw-workshop completeness or field physics."
+  },
+  "semantic_review": {
+    "rows": 22,
+    "complete_workshop_records": 11,
+    "unresolved_destructive_conflicts": [],
+    "resolved_scope_conflicts": "See PROVENANCE/LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md.",
+    "not_promoted": "32 shops; +100/1100 pricing; 540 item mapping; final recipes/yields; physical weave proof; fixed raeon fees or lower-placement rules.",
+    "no_006_duplication": true,
+    "no_upstream_mutation": true,
+    "no_new_chapter_prose": true
+  }
+}
