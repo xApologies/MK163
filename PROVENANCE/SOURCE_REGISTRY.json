@@ -120,6 +120,22 @@
         "MK727": "8e5f5fead9621c81cf2064190cc732dbd399f7f1",
         "_raeon": "cbd71e8696c1edc9c71253490da7352f7645338a"
       }
+    },
+    {
+      "id": "MK163_LIVE_MODEL_008_EXHAUSTIVE_CODEX",
+      "baseline_commit": "efdec25d50767ce3d0690fdeb479c257cacca0e9",
+      "package_sha256": "a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923",
+      "source_index": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md",
+      "reverse_diff": "PROVENANCE/LIVE_MODEL_008_REVERSE_DIFF.json",
+      "execution_report": "CHECKPOINTS/LIVE_MODEL_008_EXECUTION.md",
+      "manifest": "CHECKPOINTS/LIVE_MODEL_008_MANIFEST.json",
+      "conflict": "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md",
+      "full_raw_transcript_available": false,
+      "local_upstream_revisions_read": {
+        "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+        "MK727": "8e5f5fead9621c81cf2064190cc732dbd399f7f1"
+      },
+      "upstream_remote_tips_fetched": false
     }
   ]
 }

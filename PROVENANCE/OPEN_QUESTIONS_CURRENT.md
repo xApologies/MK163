@@ -1,3 +1,13 @@
+> **Live Model 008 current authority — 2026-10-21:** Separates new author directions from remaining implementation and chronology questions. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+Newly selected directions include internal anchoring, visibility of organized and residual energy, full-six realm-anchor endpoint, staging layout and outreach context. These do not resolve implementation. [The complete 008 register](LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md) lists remaining parameters; [LM008-C01](LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) retains Armor/Green identity, mushroom event and mixed occupancy. Prior 007 open questions remain unless explicitly answered; no first sale, school outline, fixed map or spell is invented.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Closes only expressly settled questions and links the full remaining-issues register. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

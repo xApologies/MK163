@@ -1,3 +1,15 @@
+> **Live Model 008 current authority — 2026-10-21:** Routes new narrative and future-design distinctions to their owners without turning later possibilities into present powers. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+[Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) now records her prior repaired-mail deliveries and independent shirt-carrying outreach. Familiarity does not establish a specific old customer, sale or dungeon entry. Existing manual/Card/aen distinctions and all 007 livelihood decisions remain.
+
+Her eventual realm-specific Black Card architecture is a **developing author direction**, not current equipment, automatic spells or completed mastery. [The six bonds](../EVENTS/SIX_BLACK_BONDS.md) retain independent denizen agency and small initial native expression; [Card design](../../L1_FANTASY/GENESIS_CARDS.md) supplies the separate realm-anchor model. [LM008-C01](../../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) preserves the unresolved first Armor/Green-anchor identity, manufacturing resources and chronology. No Armor, CSR, Orbs, Halo or Domain ability is added to her current possessions by this checkpoint.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Links the new relationship and skill continuity to the existing Arc 2 owner without creating a second story authority. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

@@ -1,3 +1,24 @@
+> **Live Model 008 current authority — 2026-10-21:** Points current navigation to 008 owners and explicitly unresolved design boundaries. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+Current incremental checkpoint: **MK163_LIVE_MODEL_008_EXHAUSTIVE_CODEX**, compared against fetched 007 commit efdec25d50767ce3d0690fdeb479c257cacca0e9. Read [corrections](../PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md), [OPEN Armor/first-card conflict](../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) and [full source coverage](../PROVENANCE/WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md).
+
+- [TRANSDUCTION_LIFECYCLE](L1_FANTASY/TRANSDUCTION_LIFECYCLE.md)
+- [GENESIS_CARDS](L1_FANTASY/GENESIS_CARDS.md)
+- [RED_VIOLET_DUNGEON_CITY](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
+- [DUNGEON_DELVERS_AND_STORM_CHASERS](L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md)
+- [DUNGEONS](L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md)
+- [SIX_BLACK_BONDS](L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md)
+- [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [SERIES_STRUCTURE](L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md)
+
+Unchanged 007 decisions remain; original workshop and checkpoint histories are preserved.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Points current navigation to the reconciled 007 owners and preservation evidence. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

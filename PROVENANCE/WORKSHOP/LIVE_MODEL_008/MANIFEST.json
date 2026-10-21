@@ -1,0 +1,74 @@
+{
+  "package": "MK163_LIVE_MODEL_008_EXHAUSTIVE_CODEX",
+  "date": "2026-10-21",
+  "target": "xApologies/MK163",
+  "verified_baseline_commit": "efdec25d50767ce3d0690fdeb479c257cacca0e9",
+  "archive_kind": "exhaustive semantic workshop delta, not verbatim transcript",
+  "files": [
+    {
+      "path": "AUDIT/DECISION_MATRIX.md",
+      "bytes": 4053,
+      "sha256": "32deab4c50c6bc7f33952182f26a6e370a2babb98db13704009651fc71f5e0f6"
+    },
+    {
+      "path": "AUDIT/REVERSE_DIFF.md",
+      "bytes": 3281,
+      "sha256": "38a1a95ca861a737d5e09c34ded7e4e174f2e1a83c7de0249c1bf6823c6da8d8"
+    },
+    {
+      "path": "CANON_DELTA/ACTIVE_AUTHOR_DIRECTIONS.md",
+      "bytes": 2776,
+      "sha256": "870807ab8b851bbc66791d577f175669df5f2fa636b117c28f66921e716eb3b5"
+    },
+    {
+      "path": "Executable.md",
+      "bytes": 3450,
+      "sha256": "6beb66a999f7928505ca84f12eaf527b514a02f50c00924a656119987084ff9b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1353,
+      "sha256": "00cbdda3aa5ebd944e6c56d0c9e31640994235fbff5c665be71665c74471717b"
+    },
+    {
+      "path": "SOURCES/SOURCE_REGISTER.md",
+      "bytes": 3336,
+      "sha256": "f5a974705e856a535de992a96db401e77a5d69b173cbfcd765e291f2405b41be"
+    },
+    {
+      "path": "VISUAL_REFERENCE/README.md",
+      "bytes": 530,
+      "sha256": "bacced62913a655805c3d87ea4492acb09b816fb3f9232574bc3c1b407c3437f"
+    },
+    {
+      "path": "VISUAL_REFERENCE/SHAPING_ENERGY_MONTAGE.png",
+      "bytes": 2691320,
+      "sha256": "99eb08720016ee2d3954e7331f77042cb3bebc3814936f0b194adbdf19af213f"
+    },
+    {
+      "path": "WORKSHOP/01_DUNGEON_COMMUNITY.md",
+      "bytes": 5718,
+      "sha256": "a8b6842d90ad0215e59b251e79e3b56ce72f5cbc962791375d547d987f228610"
+    },
+    {
+      "path": "WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+      "bytes": 3502,
+      "sha256": "fd2fa3edff4cc7e7491f234443ffe101357cfdd8d81376b3a2f1229e7eb43d54"
+    },
+    {
+      "path": "WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+      "bytes": 6621,
+      "sha256": "2659f506cba668a9d97053a7efb7fb070909a5f67b63c56dabc06395d3dd1326"
+    },
+    {
+      "path": "WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+      "bytes": 6671,
+      "sha256": "d203689c834d360f4c113fde9fc3b068ea80c72d2f843260516f509a5829d1a1"
+    },
+    {
+      "path": "WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md",
+      "bytes": 3698,
+      "sha256": "6418a7d43bc6fd0bd65440f4e9b8a651a627e26e86f9c2ef13ec9c35bd9feba5"
+    }
+  ]
+}

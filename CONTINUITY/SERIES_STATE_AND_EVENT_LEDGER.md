@@ -1,3 +1,21 @@
+> **Live Model 008 current authority — 2026-10-21:** Records outreach context and later planning constraints while retaining the unresolved first-card conflict. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+| Stable ID | Placement/status | Preserved boundary and owner |
+|---|---|---|
+| KAIRA-SMITHY-MAIL-DELIVERIES | Prior indentured work; author-defined context | Existing familiarity with aithren repairs, not a newly named customer. [Arc 2](../BOOKS/RED/ARCS/ARC_002/ARC.md) |
+| KAIRA-SHIRT-DUNGEON-OUTREACH | Existing Arc 2 outline; scene OPEN | Backpack with light shirt and fruit; independent workmanship, no sale/descent invented. |
+| KAIRA-BLACKSTONE-EDUCATION | 008 scoped planning anchor, Red Arc IV | Previously unassigned in 007; no complete school arc. [Series planning](../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) |
+| KAIRA-FIRST-MAJOR-BLACK-CARD | Retained Red Arc V constraint; identity conflict OPEN | Legacy Armor/blank glass/mushroom versus suggested first Green anchor; no resolved title or recipe. [LM008-C01](../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) |
+| KAIRA-SIX-REALM-CARD-ANCHORS | Eventual design direction, realization OPEN | Each independent realm anchor; all six coupled endpoint; no current equipment or invented acquisition order. [Card owner](../WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md) |
+
+First-robe Arc 2 endpoint, Sprite bond in Arc 3, the complete existing six-bond order, denizen agency, ordinary occupancy and Red-ending Ring remain. No absolute dates, full later arc contracts, new biological transformation or extra personal interface is assigned.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Adds relative event dependencies and prevents order-day/shirt-day conflation. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

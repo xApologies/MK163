@@ -1,3 +1,13 @@
+> **Live Model 008 current authority — 2026-10-21:** Adds current 008 operating references and unresolved chronology safeguards. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+For Live Model 008 and later work read [008 corrections](PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md), [LM008-C01 chronology conflict](PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) and [complete coverage](PROVENANCE/WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md). Preserve old checkpoint/workshop bytes. Keep the six-stage lifecycle and ordinary occupancy; internal invisible topology may extend outward, and loaded as well as residual energy may be visible. Black realm anchors are a developing design, not completed abilities. Do not resolve Armor/first Green Card, mushroom use, mixed occupancy or intelligence by inference. Arc IV/V constraints are supplied by 008, not previously verified in local 007. Do not fabricate the dungeon customer scene.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Adds current operating references while preserving all prior instructions. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

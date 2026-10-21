@@ -1,3 +1,38 @@
+> **Live Model 008 current authority — 2026-10-21:** Records the developing realm-anchor design and its unresolved legacy event, preserving ordinary occupancy and source boundaries. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+### Ordinary operation: prepared geometry and active operator
+
+[The lifecycle owner](TRANSDUCTION_LIFECYCLE.md) now explicitly assigns energy loading/distribution, throughput, timing, efficiency, conscious collapse and reload to the practitioner. Prepared Card architecture assists geometry; the older lifecycle-automation phrasing does not remove those duties or guarantee mastery. This is a scoped 008 refinement, not a newly invented manual reconstruction requirement for the encoded manifold.
+
+All existing **ordinary Card basin exclusivity** remains: every required basin is occupied across personal interfaces while active; inactive Cards do not reserve basins, and six ordinary Cards require six disjoint single-basin sets. No extra access, aen boost or cancellation priority is supplied. Visible suspended/placed Cards can support ordinarily invisible, internally anchored working scaffolds; spatial extension does not make their topology visible.
+
+### Author-directed Black realm-anchor redesign — implementation OPEN
+
+The selected developing design is **six Black Neon Genesis Cards**, one corresponding to each R/O/Y/G/B/V realm's admissible magic. Each independently provides a **persistent realm-specific universal manifold anchor**, rather than a single fixed spell or reward ability. It is immediately useful as a method within that realm's admissibility, not an inert first card waiting through several books. While active it can support reconfiguration and transitions among compatible Shapings without total scaffold reconstruction; exact mechanics remain unselected.
+
+Each Card anchors **realm magic independently of the bonded denizen**. Bonds remain relationships and sources of native expression/learning; companions are not hardware, fuel, ingredients, enslaved summons or parts of a Card. Kaira supplies concepts, energy organization, conscious realization and fatigue-limited skill. Native expression, conventional Binding and Genesis Cards remain the three personal interface families; this is a special Card architecture, not a fourth interface.
+
+**Only the complete six-card set** is selected to couple into one unified universal anchor for exceptional coordinated cross-realm Transduction. Two to five Cards retain independent anchors; automatic partial coupling is not specified. 'Universal' is bounded by admissibility and competency, not omnipotence, free energy, unlimited cognition or automatic mastery. The coupling topology, energy/fatigue budget and engineering method remain OPEN.
+
+The author relates Green to possibilities, Orange to coherence/decoherence, and Red Dragon expression to the **six operational domains**, not six additional energy basins or Cards. Yellow organization/transformation, Blue duration/continuation and Violet spatial adjacency retain their inherited interpretive correspondences; their full Card scopes remain OPEN. No shadow-door spell, unrestricted teleportation or time travel is granted. [The existing bond owner](../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) and prophecy correspondence retain their established order and agency.
+
+The six Cards express corresponding chromatic aspects of **unified Neon**, bounded [0,1]; they are **not six independent Black basins** or a seventh free resource. Realm colors, energy basins, operational domains, Card anchors and book colors remain distinct classifications. No exact Neon/manifold equation is authored. The preserved at-most-six-active Black limit does not resolve same-basin Black/ordinary overlap or whether ordinary Cards count in a combined six-active total. Both remain **OPEN**; do not grant an occupancy bypass or silently allow more than six combined activations.
+
+### Legacy and chronology conflict retained
+
+The new architecture supersedes fixed-ability-only design as the leading direction, **not** the historical records or first-card event by implication. Armor of the Abyss, CSR, Genesis Orbs, Halo and Domain remain recorded as legacy designs, with the former undefined sixth slot. They are not automatically implemented Shapings of the new anchors. Armor through Green, a new first-card name and replacement of the mushroom-assisted Armor event are **not selected**. Adaptive intelligence remains PROPOSED/OPEN; there is no autonomous mind or new AI companion.
+
+[Conflict LM008-C01](../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) records the retained Red Arc IV education/Arc V first-major-card constraints and the unresolved Armor versus first Green-anchor identity. It also corrects the package's assertion that these were already local in 007: the explicit legacy event was verified in MK727 and supplied by 008; no Arc IV/V outline is fabricated. Exact mechanics and the event reconciliation require an author decision before realization.
+
+
+Complete source evidence: [02_BLACK_BONDS_PROPHECIES_AND_LEGACY](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md); [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md); [05_ALTERNATIVES_AND_PROVENANCE](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Genesis Cards — operational manifolds, basin occupation, and skill
 
 **Project:** MK163  

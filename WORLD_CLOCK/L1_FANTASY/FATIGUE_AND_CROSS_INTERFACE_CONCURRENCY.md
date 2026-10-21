@@ -1,3 +1,15 @@
+> **Live Model 008 current authority — 2026-10-21:** Retains occupancy and endurance constraints while explicitly flagging unresolved Black/ordinary concurrency. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The 008 Black realm-anchor design in [Genesis Cards](GENESIS_CARDS.md) preserves fatigue and the current ordinary-basin exclusivity rule. Six corresponding chromatic expressions of unified Neon are not six new bypass conduits. **Black/ordinary same-basin overlap and combined active-card counting remain OPEN**; do not assign a priority rule or allow more than six combined activations by omission. The at-most-six-active Black limit and independent energy, bandwidth, skill and attention constraints remain. No coupling/extension fatigue equation is supplied.
+
+Complete source evidence: [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Shared fatigue, basin access and cross-interface constraints
 
 **Project:** MK163  

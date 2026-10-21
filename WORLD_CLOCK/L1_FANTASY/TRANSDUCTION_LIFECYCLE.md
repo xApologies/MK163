@@ -1,3 +1,36 @@
+> **Live Model 008 current authority — 2026-10-21:** Clarifies internal anchoring, visible organized/residual energy, reusable scaffolds and operator control without changing the six-stage lifecycle. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+### Six stages retained; personal localization clarified
+
+**Conceive → Shape → Hold → Resolve → Manifest → Release** remains the complete six-stage lifecycle. The montage's five teaching panels do not replace it or add an interface. These are MK163 author-directed localization and operator-control refinements, not amendments to upstream AERA mathematics.
+
+Personal Shaping manifolds are **internally anchored in the practitioner's Genesis Field** and ordinarily invisible. The practitioner can sense, understand and work with the topology without observers seeing its geometry. Internal anchoring is not a requirement that all spatial support fit inside the body: a sufficiently complex or large manifold **may extend outside the body**, retaining its internal anchor and ordinarily invisible topology. No exact radius, extension equation or detection rule is selected. Geometry, spatial extent, throughput, output and efficiency are distinct; a large manifold does not automatically yield a large effect.
+
+This applies to native expression, conventional installed Bindings and active Card-assisted personal work. It does not prohibit external physical Binding Circles, alchemical tables, ru’ne/sigils, ER Foam, engineered projections or intentionally manifested constructs. An external installation instrument is not the same thing as its installed personal architecture or active scaffold.
+
+### Operator responsibility and reusable scaffolds
+
+Native practitioners form and stabilize geometry as well as operating it. Prepared Bindings and Cards assist the geometry, but the practitioner controls **energy placement, corridor loading, throughput, distribution, timing, efficiency, conscious collapse and reloading**, subject to skill and fatigue. This explicitly refines older prepared-complete-lifecycle automation wording: the prepared structure does not take these responsibilities away or make casting automatic. It does not require every Card user to invent its encoded mathematics, confer equal competency on different users, or change basin occupancy.
+
+The scaffold is **not necessarily destroyed by conscious collapse** of loaded energy into a Shaping. It can remain deployed for reloading and repeated realization; the installed architecture remains available between casts. No rule that every scaffold survives deactivation, damage or every circumstance is implied. The compact spiky-ball-to-expanded-manifold Binding analogy describes reusable deployment, not mandatory spherical geometry.
+
+A Fireball scaffold can be loaded, consciously realized, retained and reloaded. Ten rapid fireballs illustrate how residuals can accumulate before earlier energy disperses. Cadence still depends on transfer, concept, fatigue and control. The workshop's Red/Yellow/Green colors are illustrative and **do not establish Fireball's required basin recipe**.
+
+### Visible energy and invisible topology
+
+Distinguish ordinarily invisible manifold topology; **loaded/organized energy that may be visible** moving through it; residual/inefficient energy that can leave as chromatic wisps, puffs or clouds and dissipate into the local environment; and the realized Shaping, visible where appropriate. **Not all visible energy is waste.** The later organized-energy clarification supersedes the earlier residual-only interpretation. No mandatory aura or visual power meter follows. A novice may waste much energy; a master may move so much that a small fractional loss is conspicuous. No dissipation half-life, palette per spell, environmental hazard, absorption law or conservation equation is selected.
+
+An active physical Card may remain visibly suspended, carried or placed while its supported manifold is invisible and its realized result visible. Gestures are optional, not a new required interface. Tai Chi is an author analogy for internal sensing and deliberate control; no verified older quotation or compulsory martial sequence is claimed. [Narrative realization](../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) owns the illustrative montage's visual boundary.
+
+
+Complete source evidence: [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md); [05_ALTERNATIVES_AND_PROVENANCE](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # The universal six-stage Transduction lifecycle
 
 **Project:** MK163  

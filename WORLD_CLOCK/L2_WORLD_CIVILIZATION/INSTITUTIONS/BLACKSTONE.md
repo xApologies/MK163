@@ -1,3 +1,13 @@
+> **Live Model 008 current authority — 2026-10-21:** Links the new scoped educational placement while keeping course and school-story details unassigned. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The supplied 008 planning constraint places formal Cardsmith education in **Red Arc IV**. [The series owner](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) distinguishes that current scoped anchor from 007's previously open attendance chronology. Courses, timetable, named peers, full school arc and later fabrication implementation remain OPEN. The legacy first major original Black Card belongs to Arc V, with [Armor/Green-anchor reconciliation unresolved](../../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md); no old MK147 school narrative is imported.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Blackstone — Institution of Knowledge
 
 **Project:** MK163  

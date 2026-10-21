@@ -1,3 +1,28 @@
+> **Live Model 008 current authority — 2026-10-21:** Retains supplied chronology constraints with an explicit baseline discrepancy and records the montage as visual reference only. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+### Supplied 008 chronology anchors; legacy conflict not resolved
+
+The 008 workshop explicitly retains **Blackstone formal Cardsmith education in Red Arc IV** and the **first major original Black Card in Red Arc V**. These are scoped planning constraints for this integration, not completed arc contracts or chapter plans. The fetched 007 MK163 tree had only Arcs 1–3 and left exact Blackstone attendance unassigned; the explicit legacy Armor manufacture was verified in MK727 and supplied in 008. Do not describe these details as already present locally at 007.
+
+Legacy Armor of the Abyss manufacture from blank maege glass using the special living black mushroom vaen remains recorded in [LM008-C01](../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md). The new first-Green-realm-anchor direction does not silently rename, replace, advance or complete that event. Its identity, mushroom role and redesign reconciliation remain OPEN. The MK727 first-third-to-half-of-Arc-V detail is retained as upstream legacy precision, not a newly fixed MK163 scene slot. No Arc IV/V folder, school plot, roster, curriculum, first-card title or fabrication recipe is invented.
+
+Arc 2 still ends at first-robe completion/public reveal; Sprite bond remains Arc 3; the Ring remains Red's ending. Book and realm colors remain independent. Later Card acquisition timing is not selected by numeric symmetry.
+
+### Visual grammar — LM008-VIS-001
+
+[The complete supplied montage](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/VISUAL_REFERENCE/SHAPING_ENERGY_MONTAGE.png) is **VISUAL REFERENCE**, not an approved character portrait, costume, literal topology or final Shaping. The author endorsed its final large-scale panel as visual direction. Observers may see a physical active Card, optional gestures, organized and residual energy and the realized result; [the mechanism owner](../L1_FANTASY/TRANSDUCTION_LIFECYCLE.md) retains ordinarily invisible internally anchored topology, even when spatial support extends outward.
+
+The five numbered teaching panels do not supersede the **six-stage lifecycle**. Printed old terminology, tracing arcs, floating glyphs, exact Card layout, basin colors, costume, face and apparent scale do not acquire canon status. The montage's residual emphasis does not override the later rule that loaded energy can also be visible. Tai Chi remains an author analogy, not a verified prior-source quotation or mandatory gesture set. Narration can show effects and competent actions without invisible-equation exposition; the workshop's example line is illustrative prose, not a mandated manuscript sentence.
+
+
+Complete source evidence: [02_BLACK_BONDS_PROPHECIES_AND_LEGACY](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md); [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 006 current authority — 2026-10-19:** Adds the provisional chapter-length expectation and confirms arc-first pacing without new chapters. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

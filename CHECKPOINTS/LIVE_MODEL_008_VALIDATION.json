@@ -1,0 +1,104 @@
+{
+  "checkpoint": "LIVE_MODEL_008",
+  "status": "PASS_PRE_PUBLICATION",
+  "pre_commit_sha": "efdec25d50767ce3d0690fdeb479c257cacca0e9",
+  "pre_commit_tree": "a71deee5635c444c0ddb7732381bc181d5f46c3a",
+  "post_commit_sha": {
+    "resolution": "The commit containing this immutable receipt; resolve with git log -1 --format=%H -- CHECKPOINTS/LIVE_MODEL_008_VALIDATION.json",
+    "literal_sha": null,
+    "reason": "A committed file cannot embed its own containing commit hash without changing it."
+  },
+  "remote_verification": {
+    "status": "PENDING_AT_COMMIT",
+    "procedure": "After normal push, fetch origin/main and run validate_live_model_008.py with --root . --verify-remote and --report pointing to a new external receipt. Compare live SHA and six fetched content samples. Report the actual resulting SHA to the author."
+  },
+  "archive_sha256": "a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923",
+  "package_and_installed_validation": {
+    "checkpoint": "LIVE_MODEL_008",
+    "status": "PASS",
+    "package": {
+      "archive_sha256": "a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923",
+      "archive_bytes": 2650215,
+      "archive_entries": 14,
+      "manifest_records": 13,
+      "manifest_self_reference": "Manifest hashed by archive/integration receipt, not by itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS",
+      "source_visual_sha256": "99eb08720016ee2d3954e7331f77042cb3bebc3814936f0b194adbdf19af213f"
+    },
+    "pre_commit_sha": "efdec25d50767ce3d0690fdeb479c257cacca0e9",
+    "installed": {
+      "installed_files": 408,
+      "prior_files_preserved": 386,
+      "baseline_files_byte_identical": 364,
+      "baseline_files_expanded": 22,
+      "prior_workshop_and_checkpoint_files_byte_identical": 80,
+      "source_members_exact": 14,
+      "local_links": "PASS",
+      "active_naming": "PASS",
+      "diff_whitespace": "PASS",
+      "safe_paths_case_and_sizes": "PASS",
+      "inbox_ignored_untracked": "PASS",
+      "inbox_snapshot": {
+        "status": "PASS",
+        "files_byte_identical": 10
+      },
+      "reverse_semantic_diff_regressions": {
+        "rows_rechecked": 32,
+        "complete_workshop_records_covered": 5,
+        "status_guard_regressions": "PASS",
+        "armor_green_chronology_conflict": "OPEN_RETAINED",
+        "limitation": "Checks support the documented semantic review; they do not prove fictional physical feasibility or authenticate an unavailable raw chat."
+      }
+    }
+  },
+  "legacy_003_evidence_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "prior_007_package_validation": {
+    "checkpoint": "LIVE_MODEL_007",
+    "status": "PASS",
+    "package": {
+      "archive_sha256": "bdf7f161bb8a00077714084c3ba03a35346bc69bb26ee5b930b11f0b6413f2da",
+      "archive_bytes": 2479914,
+      "archive_entries": 19,
+      "outer_manifest_records": 18,
+      "nested_manifest_records": 6,
+      "nested_duplicate_workshop_records": {
+        "DELTA/01_ALCHEMY.md": "WORKSHOP/01_ALCHEMY.md",
+        "DELTA/02_BLACKSMITH_ROW.md": "WORKSHOP/02_BLACKSMITH_ROW.md",
+        "DELTA/03_ARC_TWO.md": "WORKSHOP/03_ARC_TWO.md",
+        "DELTA/04_RAEON.md": "WORKSHOP/04_RAEON.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_007/DECISION_LOG.md": "WORKSHOP/00_PRELIMINARY_DECISIONS.md"
+      },
+      "manifest_self_reference": "Manifest hashed by archive/integration receipt, not by itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS"
+    }
+  },
+  "prior_007_semantic_regression": {
+    "rows_rechecked": 22,
+    "complete_workshop_records_covered": 11,
+    "status_guard_regressions": "PASS",
+    "scoped_arithmetic": "PASS"
+  },
+  "semantic_review": {
+    "matrix_ids": 32,
+    "complete_workshop_records": 5,
+    "full_source_members": 14,
+    "armor_green_event_conflict": "OPEN_RETAINED",
+    "ordinary_occupancy": "UNCHANGED",
+    "source_history_discrepancy": "Arc IV/V Armor event not established locally at 007; verified legacy MK727 and 008 preservation direction documented.",
+    "invented_abilities_or_full_later_arcs": false
+  },
+  "preservation": "All earlier tracked files retained; all prior CHECKPOINTS/ and PROVENANCE/WORKSHOP/ bytes unchanged; prior content in expanded owners retained in full; registry prior values retained.",
+  "unintegrated_as_canon": "No supplied payload omitted. Unapproved alternatives, exact mechanics, missing map, intelligence, shadow-door spell, first-card title and Armor/Green reconciliation remain evidence or OPEN rather than implemented canon."
+}

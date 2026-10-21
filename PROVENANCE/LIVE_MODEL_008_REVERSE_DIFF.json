@@ -1,0 +1,817 @@
+{
+  "checkpoint": "LIVE_MODEL_008",
+  "baseline_commit": "efdec25d50767ce3d0690fdeb479c257cacca0e9",
+  "review_method": "Read actual 007 owners and incoming workshop in full; distinguish baseline evidence, author decisions, examples, proposals and unresolved conflicts. Later corrections have scoped precedence. Automated fragments support this review but do not prove semantics.",
+  "baseline_discrepancy": "Arc IV education / Arc V Armor manufacture absent from local 007 canonical tree; verified in MK727 and explicitly preserved by 008 as scoped planning constraints. See LM008-C01.",
+  "rows": [
+    {
+      "id": "LM008-R01",
+      "supplied_row": {
+        "ID": "01",
+        "Topic": "LIVE_MODEL_007 remote baseline",
+        "Status": "INHERITED",
+        "Source/qualification": "efdec25d..."
+      },
+      "before_semantic_assessment": "Verified clean fetched main and all 386 tracked paths at the supplied 007 SHA.",
+      "disposition": "INHERITED_VERIFIED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/CURRENT_MODEL_INDEX.md"
+      ],
+      "after_required_fragments": [
+        "efdec25d50767ce3d0690fdeb479c257cacca0e9"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R02",
+      "supplied_row": {
+        "ID": "02",
+        "Topic": "Dungeon delvers: 1980s computer engineers, NASCAR infield, forward operating base",
+        "Status": "AUTHOR-DEFINED / INHERITED",
+        "Source/qualification": "Storm chasers are separate tornado-chaser/elite-field-operator culture"
+      },
+      "before_semantic_assessment": "007 already distinguishes delvers and storm chasers; 008 sharpens analogies and everyday gathering details.",
+      "disposition": "APPLIED_AUTHOR_REFINEMENT",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "after_required_fragments": [
+        "1980s computer-engineering",
+        "NASCAR",
+        "forward-operating-base",
+        "Storm chasers"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R03",
+      "supplied_row": {
+        "ID": "03",
+        "Topic": "Persistent prismatic strata; eldris cannot cross strata or escape",
+        "Status": "INHERITED",
+        "Source/qualification": "AERA/MK163"
+      },
+      "before_semantic_assessment": "Existing dungeon owner establishes persistent prisms, contiguous strata and eldris confinement; no new safety exception.",
+      "disposition": "INHERITED_RETAINED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md"
+      ],
+      "after_required_fragments": [
+        "eldris cannot cross strata or escape",
+        "persistent prismatic"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R04",
+      "supplied_row": {
+        "ID": "04",
+        "Topic": "Violet staging settlement ~2×2 miles",
+        "Status": "WORKING",
+        "Source/qualification": "no finalized scaled map"
+      },
+      "before_semantic_assessment": "007 main city is 10×10 miles; staging dimensions were not a fixed map. Earlier 1×1/1.5×1.5 alternatives remain source history.",
+      "disposition": "APPLIED_WORKING_DIRECTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md"
+      ],
+      "after_required_fragments": [
+        "2×2-mile working footprint",
+        "10×10",
+        "No approved scaled map"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R05",
+      "supplied_row": {
+        "ID": "05",
+        "Topic": "North-offset excavated cave/sinkhole, winding descent",
+        "Status": "AUTHOR-DEFINED / WORKING",
+        "Source/qualification": "opening couple hundred meters; 180–200m assistant estimate"
+      },
+      "before_semantic_assessment": "Baseline has the geographic relationship, not the selected entrance layout or locked opening geometry.",
+      "disposition": "APPLIED_AUTHOR_DIRECTION_WITH_OPEN_DIMENSIONS",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md"
+      ],
+      "after_required_fragments": [
+        "north-offset",
+        "natural cave/sinkhole",
+        "180–200 m estimate",
+        "not selected"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R06",
+      "supplied_row": {
+        "ID": "06",
+        "Topic": "NW/NE private residences; southern civic/commercial and hospitality hub",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "street layout OPEN"
+      },
+      "before_semantic_assessment": "No baseline street plan or selected NW/NE housing arrangement; add approved placement without drawing streets.",
+      "disposition": "APPLIED_AUTHOR_DIRECTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md"
+      ],
+      "after_required_fragments": [
+        "Northwest and northeast private residences",
+        "Central/southern",
+        "Exact streets"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R07",
+      "supplied_row": {
+        "ID": "07",
+        "Topic": "Premium private housing and higher cost of living from dungeon proximity",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "Yellow/Green price analogies, no internal chromatic districts"
+      },
+      "before_semantic_assessment": "Existing large-city pricing does not set staging rents. Preserve Kaira’s 007 lease and distinguish the new location-premium analogy.",
+      "disposition": "APPLIED_AUTHOR_DIRECTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md"
+      ],
+      "after_required_fragments": [
+        "no internal chromatic residential districts",
+        "not a rent table",
+        "110-eln lease",
+        "proportional worker wages"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R08",
+      "supplied_row": {
+        "ID": "08",
+        "Topic": "Inns/restaurants, 2–3 night assembly, weeks-long expedition, resupply",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "durations examples, not universal"
+      },
+      "before_semantic_assessment": "Existing delver logistics and dungeon fatigue do not impose one universal expedition duration.",
+      "disposition": "APPLIED_AUTHOR_EXAMPLES",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md"
+      ],
+      "after_required_fragments": [
+        "two or three nights",
+        "roughly two weeks",
+        "six-month",
+        "not every expedition",
+        "none is granted to Kaira"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R09",
+      "supplied_row": {
+        "ID": "09",
+        "Topic": "Specific dungeon 17–23 miles deep",
+        "Status": "WORKING",
+        "Source/qualification": "no fixed travel times, geological fantasy allowance"
+      },
+      "before_semantic_assessment": "No prior fixed depth/travel-time formula for this dungeon; new specific range remains working.",
+      "disposition": "APPLIED_WORKING_RANGE",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md"
+      ],
+      "after_required_fragments": [
+        "17–23-mile depth",
+        "working specific range",
+        "not a universal depth"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R10",
+      "supplied_row": {
+        "ID": "10",
+        "Topic": "Kaira previously delivered repaired mail to dungeon community",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "now independent shirt-carrying craftswoman"
+      },
+      "before_semantic_assessment": "007 already has finished shirt, ongoing robe experimentation and departure toward dungeon; prior mail-delivery familiarity/backpack/fruit are new context.",
+      "disposition": "APPLIED_AUTHOR_CONTEXT_SCENE_OPEN",
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "backpack with fruit",
+        "delivering repaired mail",
+        "No first sale",
+        "one-pound shirt weight is unconfirmed"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R11",
+      "supplied_row": {
+        "ID": "11",
+        "Topic": "Six Black bonds/book order and six race-prophecy correspondences",
+        "Status": "INHERITED",
+        "Source/qualification": "MK163 SIX_BLACK_BONDS and PROPHECIES"
+      },
+      "before_semantic_assessment": "Actual 007 SIX_BLACK_BONDS and prophecy owner already contain all six independent book/realm mappings; retain full prior records, do not re-import them.",
+      "disposition": "INHERITED_VERIFIED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "six existing book/realm bonds",
+        "remain unchanged",
+        "not an eighth realm"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R12",
+      "supplied_row": {
+        "ID": "12",
+        "Topic": "Ordinary Binding incompatibility and exceptional identity bonds",
+        "Status": "INHERITED",
+        "Source/qualification": "no fourth magic interface"
+      },
+      "before_semantic_assessment": "Kaira’s failed ordinary Binding installations and independent identity bonds already established; realm anchors do not create a fourth interface.",
+      "disposition": "INHERITED_RETAINED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Conventional Binding incompatibility",
+        "three personal interface families",
+        "not a fourth interface"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R13",
+      "supplied_row": {
+        "ID": "13",
+        "Topic": "MK727 five original ability cards and undefined sixth",
+        "Status": "INHERITED HISTORICAL",
+        "Source/qualification": "Armor/CSR/Orbs/Halo/Domain, preserve"
+      },
+      "before_semantic_assessment": "The five-card legacy is verified in MK727 07_BLACK_CARDS, not an established local 007 first-card event; local robe record excludes replacing the robe with Armor.",
+      "disposition": "LEGACY_PRESERVED_WITH_CORRECTED_ATTRIBUTION",
+      "after_owner_paths": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "Armor of the Abyss",
+        "Continuous Spatial Resolution",
+        "Genesis Orbs",
+        "Halo",
+        "Domain",
+        "Sixth legacy slot",
+        "not supported by the fetched baseline"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R14",
+      "supplied_row": {
+        "ID": "14",
+        "Topic": "Black Cards should not each be a fixed spell or shaping",
+        "Status": "AUTHOR-DIRECTED",
+        "Source/qualification": "supersession design intent, full reconciliation OPEN"
+      },
+      "before_semantic_assessment": "Legacy fixed-ability architecture exists upstream; 008 is a new developing design direction, not a completed replacement of every old ability/event.",
+      "disposition": "APPLIED_DESIGN_SUPERSESSION_RECONCILIATION_OPEN",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "supersedes fixed-ability-only design",
+        "not automatically implemented",
+        "not selected"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R15",
+      "supplied_row": {
+        "ID": "15",
+        "Topic": "Six Neon cards individually anchor realm-specific universal manifold",
+        "Status": "AUTHOR-DIRECTED / WORKING",
+        "Source/qualification": "one per R/O/Y/G/B/V, all useful individually"
+      },
+      "before_semantic_assessment": "007 does not implement six realm-specific universal Card anchors; the workshop develops that architecture with individual usefulness.",
+      "disposition": "APPLIED_DEVELOPING_ARCHITECTURE",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "persistent realm-specific universal manifold anchor",
+        "immediately useful",
+        "exact mechanics remain unselected"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R16",
+      "supplied_row": {
+        "ID": "16",
+        "Topic": "Green possibilities, Orange coherence/decoherence, Red six operational domains",
+        "Status": "AUTHOR-DIRECTED",
+        "Source/qualification": "remaining realm magic details not fully specified"
+      },
+      "before_semantic_assessment": "Bond/prophecy correspondences pre-exist. New examples distinguish realm magic from basins and six operational domains.",
+      "disposition": "APPLIED_AUTHOR_EXAMPLES_SCOPES_OPEN",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Green to possibilities",
+        "Orange to coherence/decoherence",
+        "six operational domains",
+        "full Card scopes remain OPEN"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R17",
+      "supplied_row": {
+        "ID": "17",
+        "Topic": "All six cards form coupled universal anchor for exceptional large Transduction",
+        "Status": "AUTHOR-DIRECTED / WORKING",
+        "Source/qualification": "exact integration mechanism OPEN"
+      },
+      "before_semantic_assessment": "No existing local sixfold Card-coupling implementation; complete-set endpoint selected, mechanism and partial-set behavior unselected.",
+      "disposition": "APPLIED_WORKING_ENDPOINT",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Only the complete six-card set",
+        "Two to five Cards",
+        "automatic partial coupling is not specified"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R18",
+      "supplied_row": {
+        "ID": "18",
+        "Topic": "Card anchors realm magic, independent of bonded denizen",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "bond grants native expression and learning, no entity as component"
+      },
+      "before_semantic_assessment": "Independent bonded-denizen agency already established; workshop corrects early anchor wording to realm magic independent of the denizen.",
+      "disposition": "APPLIED_SCOPED_CORRECTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "realm magic independently of the bonded denizen",
+        "not hardware, fuel, ingredients",
+        "independent companion"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R19",
+      "supplied_row": {
+        "ID": "19",
+        "Topic": "Adaptive intelligence framework",
+        "Status": "PROPOSED / OPEN",
+        "Source/qualification": "no separate mind or consciousness canon"
+      },
+      "before_semantic_assessment": "No canonical autonomous Black Card intelligence; exploratory proposal must stay unimplemented.",
+      "disposition": "PROPOSAL_RETAINED_OPEN",
+      "after_owner_paths": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "optional intelligence idea is not an autonomous entity"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R20",
+      "supplied_row": {
+        "ID": "20",
+        "Topic": "Neon expression remains chromatic-basin-related, not a free extra basin",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "mixed occupancy OPEN"
+      },
+      "before_semantic_assessment": "Neon and ordinary basin exclusivity already exist. Legacy Black-card basin exemption does not settle the new chromatic architecture.",
+      "disposition": "APPLIED_BOUNDARY_MIXED_OCCUPANCY_OPEN",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "not six independent Black basins",
+        "mixed Black/ordinary same-basin occupancy and combined active total are OPEN"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R21",
+      "supplied_row": {
+        "ID": "21",
+        "Topic": "Personal manifold internally anchored, normally invisible",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "native, Binding and Card-assisted"
+      },
+      "before_semantic_assessment": "Existing lifecycle/geometry does not fully specify 008 personal localization. Add local author refinement without editing upstream AERA.",
+      "disposition": "APPLIED_AUTHOR_REFINEMENT",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "internally anchored",
+        "ordinarily invisible",
+        "native expression, conventional installed Bindings"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R22",
+      "supplied_row": {
+        "ID": "22",
+        "Topic": "Powerful manifold can spatially extend beyond body while internally anchored",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "exact radius OPEN"
+      },
+      "before_semantic_assessment": "Internal anchoring must not be interpreted as an anatomical size limit; extension is permitted, exact engineering remains open.",
+      "disposition": "APPLIED_AUTHOR_CLARIFICATION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "may extend outside the body",
+        "No exact radius",
+        "retaining its internal anchor"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R23",
+      "supplied_row": {
+        "ID": "23",
+        "Topic": "Loaded organized energy may be visible",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "not only waste; latest correction"
+      },
+      "before_semantic_assessment": "Workshop’s earlier residual-only reading is explicitly corrected later; source order must not demote the later author correction.",
+      "disposition": "APPLIED_LATER_CORRECTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "loaded/organized energy that may be visible",
+        "Not all visible energy is waste",
+        "supersedes the earlier residual-only"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R24",
+      "supplied_row": {
+        "ID": "24",
+        "Topic": "Residual energy dissipates into environment",
+        "Status": "AUTHOR-DEFINED / INHERITED",
+        "Source/qualification": "puffs/clouds, no fixed law"
+      },
+      "before_semantic_assessment": "Residual dissipation/inefficiency is compatible with inherited mechanics; add descriptive visibility without inventing an environmental law.",
+      "disposition": "APPLIED_AUTHOR_DESCRIPTION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "wisps, puffs or clouds",
+        "dissipate into the local environment",
+        "No dissipation half-life"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R25",
+      "supplied_row": {
+        "ID": "25",
+        "Topic": "Reusable scaffold persists across conscious collapse and reloads",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "ten-fireball example"
+      },
+      "before_semantic_assessment": "Prepared architectures pre-exist; 008 clarifies persistence of an active scaffold through conscious realization/reload, not indestructibility.",
+      "disposition": "APPLIED_AUTHOR_CLARIFICATION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "not necessarily destroyed by conscious collapse",
+        "reloading and repeated realization",
+        "Ten rapid fireballs"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R26",
+      "supplied_row": {
+        "ID": "26",
+        "Topic": "Practitioner owns energy control, throughput, timing, efficiency, collapse",
+        "Status": "AUTHOR-DEFINED / INHERITED",
+        "Source/qualification": "card/binding assists geometry"
+      },
+      "before_semantic_assessment": "007 Card/lifecycle wording describes prepared complete-lifecycle automation. 008 scopes that wording by explicitly retaining operator energy, timing and collapse duties.",
+      "disposition": "APPLIED_SCOPED_OPERATIONAL_AMENDMENT",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "refines older prepared-complete-lifecycle automation",
+        "corridor loading",
+        "conscious collapse and reloading",
+        "does not take these responsibilities away"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R27",
+      "supplied_row": {
+        "ID": "27",
+        "Topic": "Activated physical Card visible, result visible, manifold invisible",
+        "Status": "AUTHOR-DEFINED",
+        "Source/qualification": "optional gestures"
+      },
+      "before_semantic_assessment": "Existing physical Card can remain visible; clarify separation of invisible personal scaffold, organized/residual energy and visible result.",
+      "disposition": "APPLIED_AUTHOR_CLARIFICATION",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "active physical Card",
+        "supported manifold is invisible",
+        "Gestures are optional"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R28",
+      "supplied_row": {
+        "ID": "28",
+        "Topic": "Tai Chi as analogy for internal training",
+        "Status": "AUTHOR ANALOGY",
+        "Source/qualification": "exact original source passage not verified"
+      },
+      "before_semantic_assessment": "No independently verified older Tai Chi quotation; preserve as current author analogy only.",
+      "disposition": "AUTHOR_ANALOGY_SOURCE_LIMIT_RETAINED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "after_required_fragments": [
+        "Tai Chi is an author analogy",
+        "no verified older quotation"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R29",
+      "supplied_row": {
+        "ID": "29",
+        "Topic": "Shadow door between places/realms",
+        "Status": "EXAMPLE / OPEN",
+        "Source/qualification": "not authorized Green spell"
+      },
+      "before_semantic_assessment": "No baseline permission for the proposed Green shadow door; example remains open and realm admissibility matters.",
+      "disposition": "EXAMPLE_NOT_IMPLEMENTED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md"
+      ],
+      "after_required_fragments": [
+        "No shadow-door spell",
+        "unrestricted teleportation or time travel",
+        "remain unimplemented"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R30",
+      "supplied_row": {
+        "ID": "30",
+        "Topic": "Large-scale Shaping illustration",
+        "Status": "VISUAL REFERENCE",
+        "Source/qualification": "residual/loaded energy not visible topology"
+      },
+      "before_semantic_assessment": "New supplied PNG has no prior identical tracked file. Treat as visual reference, not canonical portrait/topology or a changed lifecycle.",
+      "disposition": "VISUAL_REFERENCE_PRESERVED_EXACTLY",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md"
+      ],
+      "after_required_fragments": [
+        "LM008-VIS-001",
+        "five numbered teaching panels",
+        "six-stage lifecycle",
+        "not an approved character portrait"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": false
+    },
+    {
+      "id": "LM008-R31",
+      "supplied_row": {
+        "ID": "31",
+        "Topic": "First Black Card in Arc V vs new Green anchor identity",
+        "Status": "OPEN CONFLICT",
+        "Source/qualification": "don't silently retcon Armor event"
+      },
+      "before_semantic_assessment": "Whole canonical 007 tree lacks claimed Arc IV/V Armor event; MK727 has it and 008 explicitly asks preservation. Record 008 planning constraints with corrected source attribution and unresolved identity.",
+      "disposition": "OPEN_CONFLICT_RETAINED_WITH_SOURCE_CORRECTION",
+      "after_owner_paths": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "after_required_fragments": [
+        "Red Arc IV",
+        "Red Arc V",
+        "first Green",
+        "not supported by the fetched baseline",
+        "Status: OPEN"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    },
+    {
+      "id": "LM008-R32",
+      "supplied_row": {
+        "ID": "32",
+        "Topic": "Six-card occupancy, energy/fatigue, coupling, intelligence",
+        "Status": "OPEN",
+        "Source/qualification": "preserve boundaries"
+      },
+      "before_semantic_assessment": "Ordinary occupancy and fatigue remain established; new architecture has unresolved mixed total, coupling and intelligence. Do not settle by legacy exception or inference.",
+      "disposition": "OPEN_MECHANICS_RETAINED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "combined active total are OPEN",
+        "at-most-six active Black",
+        "coupling topology",
+        "optional intelligence"
+      ],
+      "author_source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md"
+      ],
+      "unresolved_destructive_conflict": false,
+      "retained_open_conflict": true
+    }
+  ]
+}

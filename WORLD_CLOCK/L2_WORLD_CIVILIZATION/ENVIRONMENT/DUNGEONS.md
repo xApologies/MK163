@@ -1,3 +1,18 @@
+> **Live Model 008 current authority — 2026-10-21:** Scopes the new depth example to this dungeon and preserves the established containment and persistence rules. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The particular Violet dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
+
+Existing persistent prismatic geometry, contiguous strata, resource/spawn variation and eldris confinement are unchanged: **eldris cannot cross strata or escape into the outer settlement**. The new excavated entrance and surface community do not make the dungeon a temporary domai, a cleared/reset instance or a source of routine surface monster raids.
+
+
+Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Dungeons — persistent geographic prisms and contained danger
 
 **Project:** MK163  

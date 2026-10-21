@@ -1,3 +1,15 @@
+> **Live Model 008 current authority — 2026-10-21:** Protects physical installation from conflation with the new personal-manifold localization. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+Physical installation sigils remain external engineered instruments. Their installed personal architecture and active working manifold are distinct; the 008 internally anchored personal-manifold rule does not make the original circle internal or prohibit alchemical tables, external sigils or ER Foam. [The lifecycle owner](TRANSDUCTION_LIFECYCLE.md) governs deployment and visualization; previous resource and installation details remain intact.
+
+Complete source evidence: [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Binding Circles — physical sigils, resource anchors, and installed architecture
 
 **Project:** MK163  

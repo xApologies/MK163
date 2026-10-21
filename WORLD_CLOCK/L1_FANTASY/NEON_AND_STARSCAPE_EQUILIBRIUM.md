@@ -1,3 +1,15 @@
+> **Live Model 008 current authority — 2026-10-21:** Separates the new realm-anchor design vocabulary from new basins or invented Neon mathematics. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+[The Black Card design direction](GENESIS_CARDS.md) describes six realm-corresponding bounded [0,1] expressions of **unified Neon**, not independent Black energy basins. Correspondence to R/O/Y/G/B/V does not equate realms, operational domains, book order or Card counts. The existing reference landmarks and Starscape model below remain; no new Neon equation or access/occupancy bypass follows. Exact engineering and mixed occupancy remain OPEN.
+
+Complete source evidence: [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Neon configuration and material Starscape realization
 
 **Project:** MK163  

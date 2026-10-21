@@ -1,3 +1,13 @@
+> **Live Model 008 current authority — 2026-10-21:** Registers the full 008 payload and honest scope of upstream/source verification. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+008 input hash: a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923; 13 manifest records plus manifest, all 14 members preserved exactly. [Source coverage](WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md) maps five complete semantic workshop records and the visual. [Source boundaries](LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md) records verified local upstream revisions and scope; [chronology conflict](LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) distinguishes package assertions from the fetched 007 tree. No raw transcript, missing map, full upstream mirror or previous-checkpoint duplicate is claimed.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Registers the complete 007 source receipt and scoped upstream verification. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

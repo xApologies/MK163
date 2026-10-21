@@ -1,3 +1,15 @@
+> **Live Model 008 current authority — 2026-10-21:** Links the approved internal deployment/reuse clarification while retaining finite installed bandwidth and concept limits. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+An installed conventional Binding's reusable compact architecture deploys an **internally anchored, ordinarily invisible** working manifold; spatial support may extend beyond the body without moving the anchor or requiring visible topology. Prepared Shape/Hold reduces structural burden but not the practitioner's energy-control, timing, conscious realization or fatigue burden. The active scaffold can persist for reloading across Shapings; no new bandwidth equation or power-ceiling increase is introduced. [The lifecycle owner](TRANSDUCTION_LIFECYCLE.md) owns the full visibility/reuse refinement. Kaira's conventional incompatibility does not remove this interface for others.
+
+Complete source evidence: [03_BLACK_CARD_DESIGN_EVOLUTION](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md); [04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Binding bandwidth, normalized output, and conceptual efficiency
 
 **Project:** MK163  

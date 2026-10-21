@@ -1,3 +1,18 @@
+> **Live Model 008 current authority — 2026-10-21:** Expands existing delver culture through the specified analogies and keeps storm-chaser operations distinct. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The settled delver community combines **1980s computer-engineering curiosity**, **NASCAR infield sociability** and **forward-operating-base logistics/professionalism**. These author analogies refine existing engineering/festival descriptions without importing Earth ranks, machinery or a military hierarchy. Storm chasers retain the separate tornado-chaser/elite-field-operator comparison in the Wilds.
+
+Outside the confined dungeon, people play raeon, eat, drink abecca, compare Binding and Genesis Card configurations and transductive builds, trade materials, discuss alchemy and relax. Competence and contribution matter. Serious preparation, mapped navigation, changing resource sites, fatigue and resupply still govern deep expeditions; surface conviviality is not interior safety or constant danger from escaping eldris. [The staging-settlement owner](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md) records housing, hospitality and illustrative expedition durations. No universal moral stereotype or extra organizational rank is added.
+
+
+Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 # Two aithren cultures: settled delvers and mobile storm chasers
 
 **Project:** MK163  

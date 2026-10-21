@@ -1,3 +1,22 @@
+> **Live Model 008 current authority — 2026-10-21:** Adds the backpack, fruit and prior-delivery context without completing the unprovided dungeon scene. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+### First independent dungeon-community outreach — scene still OPEN
+
+After the existing shirt/smith/robe-experiment sequence, Kaira packs the **mass-reduced demonstration shirt in a backpack with fruit for lunch** and walks toward the Violet dungeon staging community roughly five miles northwest of the city. The possible one-pound shirt weight is unconfirmed. She carries the shirt, not a completed robe, and still has no Dimensional Ring.
+
+She already knows aithren and support commerce through **delivering repaired mail during her indentured smithy work**; a combined five-shirt repair order is illustrative, not an invented customer ledger. This is her first exposure as an independent peer presenting her own workmanship, not her first awareness of dungeon people. Recognizing an old customer is only a possibility. **No first sale, named customer, completed encounter or dungeon descent is established.**
+
+The [staging settlement](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md) and [delver culture](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) provide approved setting for later scene development. Arc 2 remains independent livelihood and identity-building with parallel learning, raeon, harvesting and Nyx; **completion and public reveal of the first robe still end Arc 2**. Nyx's third-return rescue, first Black Sprite bond in Arc 3 and the Ring at Red's ending remain unchanged. New Black realm anchors are a later developing design, not an Arc 2 possession or ability.
+
+
+Complete source evidence: [01_DUNGEON_COMMUNITY](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md); [05_ALTERNATIVES_AND_PROVENANCE](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Expands the approved Arc 2 sequence and resolves the lease, first friendship and relative craft chronology. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

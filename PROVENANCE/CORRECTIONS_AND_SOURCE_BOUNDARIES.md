@@ -1,3 +1,13 @@
+> **Live Model 008 current authority — 2026-10-21:** Routes current supersessions and explicitly retained conflicts. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+[008 corrections](LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md) govern the new personal-manifold, realm-anchor, staging and outreach scope. [LM008-C01](LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) remains OPEN: do not erase the legacy Armor event or grant a first Green ability. Earlier source bytes and all unrelated decisions remain.
+
+---
+
+## Record before Live Model 008 — retained in full
+
 > **Live Model 007 current authority — 2026-10-20:** Routes new corrections without editing earlier evidence. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration
