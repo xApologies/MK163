@@ -1,3 +1,21 @@
+> **Live Model 009B current authority — 2026-10-22:** Applies existing exclusivity and fatigue to modular ordinary Cards and preserves the unresolved activation procedure. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+Ordinary Temporary Transduction Systems in [the Card owner](GENESIS_CARDS.md) remain limited by sustaining fatigue, throughput, competency and active Card integrity; no arbitrary timer, mana bar or free-energy rule is added. Prepared geometry does not remove energy-control duties.
+
+Every active Card retains exclusive occupation of its required basins. Six disjoint single-basin Cards occupy all six, so **no independent native or bond expression through occupied basins** can accompany that setup. Third-party controls do not confer basin access or transfer sustainment automatically. Component compatibility, exact fatigue laws, operator handoff and activation against an already-running conflicting native Shaping remain OPEN.
+
+[Kaira’s exceptional endurance](../L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md) is a selected personal advantage with gradual realization, not infinite endurance, a universal fatigue multiplier or a bypass of ordinary occupancy. Retired exceptional Black Card concurrency questions remain retired; these new open questions concern ordinary engineering only.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [selected author excerpts](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

@@ -1,3 +1,23 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds separate environmental biological pressure and natural-boundary research without changing dungeon confinement. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Biological environmental pressure is a separate hazard
+
+In addition to eldris within discrete strata, **environmental Genesis-field pressure can destabilize biological coherence**, particularly in deeper Green/Blue/Violet conditions. Even a chamber cleared or locally secured against monsters may remain hazardous to unprotected biology. The workshop relates this to Genesis Mines and stratified energetic conditions; no new species, energy basin or exact depth-to-injury law is introduced. **Eldris still cannot cross chromatic strata or escape to the surface** under the existing dungeon confinement rules. Surface conviviality and containment do not make depth safe.
+
+Natural ru’ne/sigil structures may help stabilize prismatic transitions; some might be studied in a Blue stratum. Their formation, exact boundary mechanism and visibility are OPEN. No mandatory visible glyph, universal boundary sigil or new equation replaces the inherited persistent contiguous-stratum model. [The sigil owner](../TECHNOLOGY/SIGIL_ENGINEERING.md) distinguishes natural relationships from physical inscriptions.
+
+Dungeons are natural laboratories as well as resource/combat environments. Institutions/researchers may hire aithren escorts through existing organizations such as vaelum, taking specialists and supplies to protected local study sites. A **multiweek Blue-stratum expedition with three weeks studying one structure** is an illustrative research pattern, not an actual expedition, fixed duration, route or Blue-book placement. [Research logistics](../CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) and [two helkir functions](../PROFESSIONS/HELKIR.md) govern operational context. Existing particular 17–23-mile working depth, persistent routes, changing resources and staging geography remain unchanged.
+
+Complete supplied evidence: [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 008 current authority — 2026-10-21:** Scopes the new depth example to this dungeon and preserves the established containment and persistence rules. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

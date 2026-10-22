@@ -1,3 +1,22 @@
+> **Live Model 009B current authority — 2026-10-22:** Distinguishes combat restoration and sustained environmental coherence while retaining one helkir profession and open limits. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+The established coherence/topological biological profession supports two **operational roles**, not new compulsory professions or qualifications:
+
+- **Combat helkir** treat eldris-inflicted injuries, stabilize combatants, perform rapid restoration and support fighting teams.
+- **Environmental coherence helkir** sustain biological/topological coherence against persistent dungeon field pressure. Endurance and high fatigue threshold are central. Separate specialists may fill the roles even when one individual can perform both.
+
+Teams rotate, recover and provide redundancy; loss of the only sustaining helkir to fatigue can put a party in immediate danger even without nearby monsters. Protective coverage, overlap/handoff, recovery and fatigue thresholds remain OPEN. Two or three helkir in each role are author examples, not regulations. This adds no injury guarantee, resurrection, new interface, exact field law or fixed staffing rule. [The expedition owner](../CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) preserves the full illustrative party and proposed Kaira scenario; [dungeon conditions](../ENVIRONMENT/DUNGEONS.md) owns the environmental hazard.
+
+Complete supplied evidence: [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 # helkir — Coherence and topological biological stabilization
 
 **Project:** MK163  

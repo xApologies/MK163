@@ -1,3 +1,33 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds natural ru’ne/sigil discovery and reduced human engineering while preserving physical inscription and velis distinctions. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Natural relationships and human engineering — scoped author development
+
+**ru’ne** are elementary discovered mathematical/geometric expressions, analogized to letters; coherent compositions form **sigils**, analogized to words. Humanity discovers and mathematically characterizes relationships of the Genesis Field and Starscape rather than inventing those natural relationships. This is an analogy about scientific description, not a claim that every human model equals underlying ontology or that real-world quantum-field analogies are new AERA axioms.
+
+Natural ru’ne/sigil systems can form throughout the world without a designer, not only in dungeons or ruins. Some are transient under changing environmental/field conditions; others may persist for centuries or millennia. Natural structures can be immense, interrelated and beyond current human ability to reproduce. Their expression may lie in field topology, geology, mineral/crystal structure, environmental organization or sometimes visible geometric patterns. **A natural sigil need not be a visible carved mark.** Entire large phenomena may form one complex system.
+
+Humans observe, identify relationships, characterize mathematics, isolate useful relations and engineer **reduced-complexity local implementations**. Physical sigils may be carved, embedded or grown into stone/objects; appropriate field projections remain distinct inherited implementations. The two-stone-block example uses compatible spatial-locking sigils to support larger stable architecture; it does not copy all of nature's complexity. Understanding mathematics does not guarantee reproduction or control.
+
+### Illustrative environments and research
+
+Floating islands, compared in the source to Pandora's floating mountains, may themselves be natural sigil systems supporting levitation-like behavior. Another structure might collect, transport or generate water for waterfalls to land below. These are **illustrations, not mapped locations**: levitation, water source, conservation accounting and geometry remain OPEN; unlimited matter creation is not selected. Ephemeral formations may accompany storms, but no rule makes every domai contain a sigil.
+
+[Dungeon chromatic boundaries](../ENVIRONMENT/DUNGEONS.md) may involve immense natural structures that help stabilize stratification, including possible Blue-zone research subjects. No claim makes every boundary display glyphs or every dungeon require an observable sigil. Research supports expeditions, institutions, scientific professions, measurements, competing hypotheses and new engineering. An island/cave can remain physically unchanged while Kaira's ability to recognize its mathematics develops. The reader learns through observation and encounters rather than compulsory lectures.
+
+### Preserve the inherited physical taxonomy
+
+AERA's verified `L2/SIGILS_ARCHITECTS_VELIS.md` defines **physical ru’ne** as strongly orthogonal inscribed components, physical sigils as realized structures on substrates, and **velis** as temporary localized topology. Those human-engineering definitions and substrate integrity/repair distinctions remain. 009B expands MK163's natural phenomenon/discovery perspective; it does not rewrite upstream AERA, equate all natural field relationships with carved symbols, or conflate physical inscriptions with Architect velis or Card-relative systems.
+
+Complete supplied evidence: [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds cross-references to new scoped owners; no inherited mechanism is rewritten. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

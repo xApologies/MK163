@@ -1,3 +1,19 @@
+> **Live Model 009B current authority — 2026-10-22:** Connects modular Cards to existing Architect applications without equating Cards, velis and physical sigils. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+The inherited external field engineering, physical sigil infrastructure and temporary velis distinctions below remain. Architects already can establish comparable barriers, defensive structures and interactive facilities; permanent or infrastructure-supported city-wall applications are possible in their established scope. A velis remains temporary localized topology, not necessarily a carved sigil, with load/coherence/maintenance-dependent persistence rather than a universal timer.
+
+Kaira's future [Temporary Transduction Systems](../../L1_FANTASY/GENESIS_CARDS.md) offer portable, fatigue-limited modular ordinary-Card deployment of related architecture. She does not invent the underlying turret/barrier capability, external manifold or Architect profession. Third parties may use realized functions while the transductionist sustains the connections. Exact shared mechanisms between Card-relative systems and velis are OPEN; do not identify them as the same object. [Natural sigil discovery](../TECHNOLOGY/SIGIL_ENGINEERING.md) adds research context without erasing the human physical taxonomy.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds cross-references to new scoped owners; no inherited mechanism is rewritten. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

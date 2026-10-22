@@ -1,3 +1,27 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds a world-local culminating direction and long future horizon while retaining retirement and existing arc boundaries. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Seven-book horizon — author direction, realization OPEN
+
+The selected **world-local ending direction** is Kaira's eventual stabilization of the Genesis Field **locally to her planet**, addressing collapse conditions that threaten civilization with eldris. This is a proposed culminating narrative goal, not a completed event or solved mechanism. Precise geography, method, final conflict, and whether it prevents new eldris formation versus resolves existing eldris remain OPEN; existing monsters are not automatically erased.
+
+**Starscape/singularity-wide stabilization is a possible far-future continuation, outside the seven-book requirement**, not a committed sequel or obligation to finish universal mastery in White. The saga depicts her beginning; some development may take centuries, millennia or eons. Cabal of Maegi, pirates, cartels and other existing adventure strands are not cancelled by this direction. No antagonist roster, ending chapter or new physical law is assigned.
+
+### Learning and narrative latitude
+
+Red Arc IV formal human Cardsmith education remains; native realm learning unfolds with independent companions through experience, research, conversations and shared adventures rather than repeated school arcs. Kaira's future ordinary modular Card contribution is selected conceptually, with first prototype/chronology OPEN. Arc V special Black Card manufacture and the old Armor/Green obligation remain retired.
+
+The 1,100–1,300-page book aspiration supports exploration, slice-of-life, relationships, research, craft and adventure, not a fixed count or compulsory combat escalation. Readers discover natural ru’ne/sigils through environments and developing perception, not mandatory technical lectures. The illustrative Blue-zone rescue, floating islands and turret are possibilities, not locked scenes or mapped places. Arc 2 remains shirt/backpack/fruit outreach without a first customer, complete robe, deep research expedition or composite system; its robe reveal endpoint, Arc 3 Sprite and Red-ending Ring remain.
+
+Complete supplied evidence: [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

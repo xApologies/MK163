@@ -1,3 +1,17 @@
+> **Live Model 009B current authority — 2026-10-22:** Routes the new explicit scope corrections and evidence limitations. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+[009B corrections](LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern ordinary external Card-relative systems, natural sigil scope, biological dungeon pressure and bond-intuition development. The supplied stale institution question is superseded: protected vaelum is resolved. LIVE_MODEL_009 retirement remains unchanged; prior workshop/checkpoint/source evidence stays intact. Selected excerpts and detailed semantic reconstruction do not establish complete literal transcript fidelity.
+
+Complete supplied evidence: [decision ledger](WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md); [selected author excerpts](WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Routes the scoped author supersession and distinguishes retired Card questions from current open issues. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

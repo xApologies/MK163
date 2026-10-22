@@ -1,3 +1,23 @@
+> **Live Model 009B current authority — 2026-10-22:** Records exceptional but developing potential and endurance without adding current abilities, equipment or completed scenes. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+[Her Black-bond owner](../EVENTS/SIX_BLACK_BONDS.md) now distinguishes preexisting affinity, bond-altered realm intuition and acquired mastery. Kaira is intended to become potentially universal in admissible Shaping over vast time; she remains young and constrained by knowledge, concept, manifold skill, energy throughput, resources and fatigue. Do not reduce that extraordinary potential to an ordinary generalist, or convert it into current omnipotence.
+
+**Exceptional endurance/sustainment** is a defining innate and gradually realized advantage: she can eventually sustain Transduction longer and perform several specialist functions, potentially offense, defense, restoration, exploration, research, Cardsmithing and armorsmithing. This is not infinite fatigue, a numerical multiplier or a duty to fill every role simultaneously. Companions remain independent friends/mentors/party members, not components. Exact perceptual mechanism and learning acceleration are OPEN.
+
+Future [Temporary Transduction Systems](../../L1_FANTASY/GENESIS_CARDS.md) use ordinary Cards to offload prepared geometry while she develops native competence. Existing Metal Manipulation illustrates a learning bridge; a hypothetical meteor is only an example, not an approved Shaping or acquisition. Native expression becomes central over time; technology can remain useful professionally and for convenience. First system/prototype/chronology remain OPEN; no new system is in her current Arc 2 possessions.
+
+[The proposed Blue-stratum research rescue](../../L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) may demonstrate endurance/coherence after a Vaelith bond but is not an actual event, roster or guaranteed outcome. [The world-local ending direction](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) concerns the saga's horizon, not present capability. All biography, current outfit/shirt/robe state, ordinary skills, Nyx, six-bond order and Ring restriction remain.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

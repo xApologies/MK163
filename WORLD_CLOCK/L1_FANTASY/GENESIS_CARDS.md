@@ -1,3 +1,40 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds ordinary modular Card architecture, its external reference frame and unchanged occupancy constraints. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Ordinary Temporary Transduction Systems — author selected, engineering OPEN
+
+Kaira's future Cardsmith contribution is **Temporary Transduction Systems**, portable modular engineering using **ordinary Genesis Cards** as functional components of a shared architecture. A Card need not be synonymous with one standalone Shaping: compatible prepared components can jointly establish a persistent shared manifold, and a structural component need not yield a useful independent effect. This is an ordinary Card application, not a new subclass, fourth interface, special Black Card or prophecy-linked artifact. LIVE_MODEL_009 retirement remains active.
+
+The shared manifold is **external to the practitioner and card-relative**, referenced to the Cards' spatial configuration rather than Kaira's body. Cards are structural anchors/components **owned by the system in an operational sense**; the sustaining transductionist owns and maintains the active **basin connections**, supplying and directing energy. No legal ownership transfer is meant. The construct's location is independent of the practitioner's physical center, while operation remains dependent on their connections; range, movement and handoff are not thereby unlimited or solved. Geometry remains ordinarily invisible; physical activated Cards and realized effects may be visible. [The lifecycle owner](TRANSDUCTION_LIFECYCLE.md) scopes this new external arrangement against ordinary internally anchored personal work.
+
+Persistence is **fatigue-limited**, also constrained by throughput, competency and active Card integrity, not an arbitrary timer or a new mana resource. Component arrangements and functions can vary; larger Card counts are not inherently better and six is not a mandatory progression. A one-component system is a possibility whose meaningful distinction from an ordinary prepared Card remains OPEN. No first prototype, date, fixed component count, activation sequence or guaranteed failure behavior is selected.
+
+Prepared Card geometry can let Kaira understand an advanced Shaping before she can construct/hold its manifold natively. It offloads prepared structural complexity, **not operator energy competency**: energy transfer/loading, distribution, timing, direction, conscious realization and fatigue remain hers. Cards can bridge early native-mastery gaps without becoming her ultimate magical identity; she may retain technology for convenience and professional invention.
+
+### Illustrations — not approved designs or completed inventions
+
+- **Passive dome/barrier:** a shared external manifold centered on the Card arrangement can protect a group. Radius, Card count, energy cost and duration are unselected.
+- **Interactive turret:** Kaira sustains the connections while a third party may use exposed aim/fire controls without performing Transduction or acquiring basin access. No autonomous intelligence, automatic targeting or free energy follows; control implementation is OPEN.
+- **Fabrication workstation:** a craftsperson might use a temporary Genesis-supported tool while a transductionist sustains it. This is not a selected first prototype.
+- **One-part system:** potentially possible, not an established architecture or permission to resolve its distinction from an ordinary Card.
+
+[Architect field engineering](../L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md) already permits comparable external constructs, potentially permanent or infrastructure-supported turrets/barriers. Kaira's innovation is portable modular Card deployment, not inventing turrets, external manifolds or a new profession. Architect velis, physical ru’ne/sigils and temporary Card systems remain distinct implementations; exact shared mechanisms are OPEN.
+
+### Occupancy correction and retained open procedure
+
+**Every active ordinary Card still exclusively occupies every required basin across interfaces.** A composite does not bypass this. Six disjoint single-basin Cards occupy all six; the sustaining practitioner cannot independently use those occupied basins for native or bond-derived expression. The system operates through its Card connections. Black bonds can inform knowledge/design, not grant an occupancy exception; a third-party turret user gains no independent basin access. The earlier suggestion of simultaneous independent native/bond intervention through occupied basins is rejected. This clarification does **not** resolve how an ordinary Card is activated against a conflicting native Shaping already running; cancellation/priority remains OPEN.
+
+OPEN engineering: Card-to-Card compatibility/coupling and when the shared manifold forms; topology, placement/orientation/movement/range; damage and failure; interchangeability/reconfiguration; component and coexisting function counts; sustaining-operator handoff; user commands/controls; fatigue/throughput/energy accounting; first prototype and whether other Cardsmiths reproduce it. Do not import the retired special six-Card architecture to fill any gap.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

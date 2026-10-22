@@ -1,0 +1,105 @@
+{
+  "checkpoint": "LIVE_MODEL_009B",
+  "status": "PASS_PRE_PUBLICATION",
+  "baseline_commit": "50222dde617803cbdfaa6991d37d210411e4aa80",
+  "baseline_tree": "486c8464112881f1f7b8666000fece2f22ebadd0",
+  "archive_sha256": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+  "literal_transcript_complete": false,
+  "coverage": {
+    "topics": 36,
+    "decisions": 19,
+    "author_excerpts": 27,
+    "source_register_quotes": 6,
+    "dispositions": {
+      "ADD": 16,
+      "REVISE": 9,
+      "OPEN": 4,
+      "ALREADY_PRESENT": 7
+    },
+    "prior_history": 110
+  },
+  "post_commit_sha": {
+    "literal_sha": null,
+    "resolution": "git log -1 --format=%H -- CHECKPOINTS/LIVE_MODEL_009B_EXECUTION.md",
+    "reason": "A file cannot contain the hash of its own containing commit without changing that hash."
+  },
+  "remote_verification": {
+    "status": "PENDING_AT_COMMIT",
+    "procedure": "Normal git push origin main, fetch origin main, then validate_live_model_009b.py with --verify-remote and a new external --report. Require local/fetched/live SHA equality, zero divergence, clean tree and exact fetched content samples."
+  },
+  "no_conflicts_detected": true,
+  "unresolved_questions_report": "CHECKPOINTS/LIVE_MODEL_009B_OMISSIONS.md",
+  "scope_limit": "Topic-level manual semantic review plus mechanical integrity checks; selected quotes are not authenticated against an unavailable complete conversation.",
+  "package_and_installed_validation": {
+    "checkpoint": "LIVE_MODEL_009B",
+    "status": "PASS",
+    "package": {
+      "archive_sha256": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "archive_bytes": 28083,
+      "archive_entries": 15,
+      "manifest_records": 14,
+      "manifest_self_reference": "Manifest is hashed by inventory/receipt and whole archive, not itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS"
+    },
+    "pre_commit_sha": "50222dde617803cbdfaa6991d37d210411e4aa80",
+    "installed": {
+      "installed_files": 445,
+      "prior_files_preserved": 421,
+      "baseline_files_byte_identical": 399,
+      "baseline_files_expanded": 22,
+      "prior_workshop_and_checkpoint_files_byte_identical": 110,
+      "source_members_exact": 15,
+      "local_links": "PASS",
+      "active_naming": "PASS",
+      "diff_whitespace": "PASS",
+      "safe_paths_case_and_sizes": "PASS",
+      "inbox_ignored_untracked": "PASS",
+      "inbox_snapshot": {
+        "status": "PASS",
+        "files_byte_identical": 12
+      },
+      "reverse_semantic_diff_regressions": {
+        "supplied_topics": 36,
+        "author_decisions": 19,
+        "selected_author_excerpts": 27,
+        "source_register_quote_occurrences": 6,
+        "topic_status_counts": {
+          "ADD": 16,
+          "ALREADY_PRESENT": 7,
+          "CONFLICT": 0,
+          "OPEN": 4,
+          "REVISE": 9
+        },
+        "status_guards": "PASS",
+        "protected_owner_and_history_paths_byte_identical": 127,
+        "active_special_card_mechanics": "RETIRED",
+        "vaelum_identity": "RESOLVED",
+        "bond_chronology": "PRESERVED",
+        "remaining_open": [
+          "Ordinary coupling, controls, range, damage, reconfiguration, one-part distinction, fatigue, handoff and invention timing",
+          "Natural sigil grammar, formation, visibility, boundary, levitation and water mechanisms",
+          "Environmental depth/coherence/coverage/handoff/recovery laws",
+          "Bond perception, learning-rate and complete Dragon taxonomy; party logistics",
+          "Proposed rescue placement, roster and outcome",
+          "Planet-local stabilization method, final conflict and effects on existing/future eldris; uncommitted starscape future",
+          "Arc 2 first customer, dialogue/map details; unrelated inherited questions"
+        ],
+        "literal_transcript_complete": false,
+        "limitation": "Hashes/rows/fragments lock the manually reviewed artifact; they do not independently prove semantic interpretation or authenticate an unseen conversation."
+      }
+    }
+  },
+  "legacy_003_evidence_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  }
+}

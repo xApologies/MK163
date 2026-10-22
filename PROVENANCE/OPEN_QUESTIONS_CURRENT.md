@@ -1,3 +1,29 @@
+> **Live Model 009B current authority — 2026-10-22:** Separates selected new directions from all unassigned mechanisms, examples and already-retired special-Card questions. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### New ordinary engineering and natural research parameters — OPEN
+
+Ordinary Card-to-Card coupling/topology, formation timing, compatibility, component count and one-part distinction, reconfiguration/interchangeability, position/orientation/movement/range, damage/failure, sustaining-operator handoff, third-party controls, coexisting functions, energy/throughput/fatigue law, first prototype/chronology and reproducibility by other Cardsmiths remain OPEN. Any relation to velis is unselected; there is no fourth interface. Ordinary Card activation against already-running conflicting native work remains OPEN; settled basin exclusivity is unchanged.
+
+Natural ru’ne/sigil grammar/ontology, formation/dissolution and visibility, natural boundary stabilization, floating-island levitation/water/conservation; environmental biological destabilization with depth, protective coverage, helkir overlap/handoff, recovery and fatigue thresholds remain OPEN. Examples establish no mapped island, staffing regulation or actual expedition.
+
+Bond-altered intuition is selected, but exact perceptual/biological mechanism, direct sharing, learning acceleration, full Dragon-specific taxonomy and detailed party/role logistics are not. Extraordinary endurance and eventual admissible breadth do not fix numbers or current mastery. Proposed Blue-stratum rescue placement, roster, injury/death details and outcome remain OPEN.
+
+World-local stabilization is the selected proposed saga direction; method, geography, existing versus future eldris effects and final conflict remain OPEN. A starscape-wide continuation is uncommitted. Arc 2 first customer/map/dialogue remain unselected, as do unrelated prior gaps and mushroom use.
+
+### Resolved and retired boundaries
+
+**vaelum identity/spelling is RESOLVED** by explicit correction; there is one existing organization term, no naming conflict or new guild. Ordinary Temporary Transduction Systems are a selected professional direction, replacing the earlier total absence of such a direction; their first original implementation remains OPEN. LIVE_MODEL_009 special Black Card retirement, Armor/Green obligation closure and no required Arc V manufacture remain. New ordinary-system open questions do not reactivate retired Black Card engineering.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Closes special-Card questions as retired and preserves ordinary occupancy, native development and narrative open matters. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

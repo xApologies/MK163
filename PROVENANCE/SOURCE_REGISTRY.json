@@ -151,6 +151,25 @@
         "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751"
       },
       "upstream_remote_tips_fetched": false
+    },
+    {
+      "id": "MK163_LIVE_MODEL_009B_AUDITED_CODEX",
+      "attachment_filename": "MK163_LIVE_MODEL_009B_TERMINOLOGY_CORRECTED_CODEX.zip",
+      "baseline_commit": "50222dde617803cbdfaa6991d37d210411e4aa80",
+      "package_sha256": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "source_index": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/INTEGRATION_INDEX.md",
+      "reverse_diff": "PROVENANCE/LIVE_MODEL_009B_REVERSE_DIFF.json",
+      "corrections": "PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md",
+      "execution_report": "CHECKPOINTS/LIVE_MODEL_009B_EXECUTION.md",
+      "coverage_report": "CHECKPOINTS/LIVE_MODEL_009B_COVERAGE.md",
+      "omissions_report": "CHECKPOINTS/LIVE_MODEL_009B_OMISSIONS.md",
+      "manifest": "CHECKPOINTS/LIVE_MODEL_009B_MANIFEST.json",
+      "literal_transcript_complete": false,
+      "full_raw_transcript_available": false,
+      "local_upstream_revisions_read": {
+        "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751"
+      },
+      "upstream_remote_tips_fetched": false
     }
   ]
 }

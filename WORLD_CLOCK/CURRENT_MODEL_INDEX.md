@@ -1,3 +1,33 @@
+> **Live Model 009B current authority — 2026-10-22:** Routes current owners and 36-topic coverage while keeping 009 retirement and unchanged prior canon visible. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+Current scoped checkpoint: **LIVE_MODEL_009B**, reconciled against `50222dde617803cbdfaa6991d37d210411e4aa80`. Read [corrections/source limits](../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) and [all 36 topic dispositions](../CHECKPOINTS/LIVE_MODEL_009B_COVERAGE.md). LIVE_MODEL_009 Black Card retirement remains active; new systems use ordinary Genesis Cards.
+
+- [GENESIS_CARDS](L1_FANTASY/GENESIS_CARDS.md)
+- [TRANSDUCTION_LIFECYCLE](L1_FANTASY/TRANSDUCTION_LIFECYCLE.md)
+- [SIGIL_ENGINEERING](L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md)
+- [ARCHITECTS_AND_VELIS](L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md)
+- [DUNGEONS](L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md)
+- [HELKIR](L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md)
+- [DUNGEON_DELVERS_AND_STORM_CHASERS](L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md)
+- [SIX_BLACK_BONDS](L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md)
+- [KAIRA](L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md)
+- [BLACKSTONE](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md)
+- [SERIES_STRUCTURE](L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md)
+- [ARC](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [OPEN_QUESTIONS_CURRENT](../PROVENANCE/OPEN_QUESTIONS_CURRENT.md)
+
+[Exact source ledger and author-evidence coverage](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/INTEGRATION_INDEX.md) and [omissions/unresolved report](../CHECKPOINTS/LIVE_MODEL_009B_OMISSIONS.md) distinguish full supplied-payload preservation from unavailable literal transcript completeness. Protected vaelum is resolved. Prior records remain; unselected examples are not scenes, recipes or new abilities.
+
+Complete supplied evidence: [decision ledger](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md); [selected author excerpts](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Makes 009 the active authority for retirement and retains all unrelated model navigation. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

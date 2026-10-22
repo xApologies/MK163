@@ -1,3 +1,29 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds research escort logistics, illustrative staffing and a clearly proposed endurance/rescue scene. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Research escorts and sustainment
+
+Research institutions and other groups can hire aithren security/logistics to reach natural ru’ne/sigils in deep dungeon strata. Several provisioning days, descent, local camp/surveys, **three weeks of Blue-stratum observation** and return with mathematical measurements illustrate a possible mission. They do not define a standard itinerary or completed event. Researchers can be noncombatants; aithren are not all monster hunters. The existing **vaelum** organization can contract for research escorts; its identity and spelling are resolved, not a new guild. [The existing organization owner](AITHREN_VAELUM_ACCORD.md) remains authoritative.
+
+Combat helkir and environmental coherence helkir have distinct functions in [the profession owner](../PROFESSIONS/HELKIR.md). Planning includes coverage, rotation, recovery and redundancy under fatigue. The author's **two or three per role** is illustrative. The assistant's **20-person example: 8 combat aithren, 3 combat helkir, 3 environmental helkir, 4 researchers and 2 logistics** is explicitly ILLUSTRATIVE ONLY, not a required roster, selected cast or staffing standard. Environmental handoff/overlap mechanics and exact fatigue laws remain OPEN.
+
+### Proposed Kaira research/rescue scenario — not a dated event
+
+Following a Black Vaelith bond, Kaira might join a deep Blue-zone research expedition. When environmental helkir tire, she could sustain biological coherence so research continues. An eldris encounter could then injure several aithren while field pressure persists; she might maintain environmental protection **and restore wounded people simultaneously**, allowing other helkir to recover. Her exceptional endurance and learned coherence would establish community reputation through known Shapings, not a newly invented healing class. The Black Vaelith can independently act as a helkir/party member.
+
+This scenario is **PROPOSED, not locked or completed**. No chapter/book assignment, roster, death/injury count/severity, duration, success or integrated-versus-separate manifold mechanism is chosen. Ordinary Card basin exclusivity still applies; it is not a workaround for occupied basins. Kaira need not fill every role simultaneously or make other specialists obsolete.
+
+Provisioning, science, combat, protection, rest and resupply give expeditions stakes beyond fighting. Existing staging hospitality, repairs, raeon, builds and professional delver culture remain distinct from mobile Wilds storm chasers. The new research possibilities do not move Kaira's Arc 2 outreach into a completed expedition.
+
+Complete supplied evidence: [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 008 current authority — 2026-10-21:** Expands existing delver culture through the specified analogies and keeps storm-chaser operations distinct. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

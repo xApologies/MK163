@@ -1,3 +1,23 @@
+> **Live Model 009B current authority — 2026-10-22:** Confirms the exact outreach handoff and excludes future systems/research from current Arc 2 state. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Resumption state — inherited, no new completed scene
+
+Kaira carries the completed **mass-reduced demonstration chainmail shirt**, with the existing proprietary Offset-Lattice concept and Genesis-infused iron rings, in a **backpack with fruit for lunch**. Mass reduction is the selected enchantment scope; the full five-layer robe is **not complete**. She walks toward the Violet dungeon staging community roughly five miles northwest (working separation, not a measured route) to show workmanship and seek repairs/armorsmith income. Previous indentured repaired-mail deliveries supply familiarity; this is independent peer outreach, not first awareness of the community.
+
+**No first customer, named aithren, price, sale, dialogue, dungeon descent or completed expedition is added.** No Blue-stratum research mission, modular system demonstration or first prototype occurs here. Temporary Transduction Systems belong to future Cardsmith development with chronology OPEN. Existing detailed material, pricing, timing, suppliers and topology qualifications below continue to govern; the label Offset-Lattice does not solve the open physical interlayer weave.
+
+The existing 2×2-mile working staging plan, north-offset excavation, NW/NE residences, hospitality/logistics and delver culture remain at their owners; no scaled map is locked. Arc 2 stays a substantial independence/identity arc ending at first-robe completion and public reveal. First Sprite bond stays Arc 3, Ring Red's ending, formal Cardsmith education Arc IV; mandatory Arc V Black Card manufacture remains retired. No new chapter count or prose is authorized by the source's intention to resume.
+
+Complete supplied evidence: [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Retires the single future-special-Card reference without changing Arc 2 decisions. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

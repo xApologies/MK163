@@ -1,3 +1,21 @@
+> **Live Model 009B current authority — 2026-10-22:** Qualifies personal versus external Card-relative localization while retaining all six stages, energy visibility and operator duties. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+**Conceive → Shape → Hold → Resolve → Manifest → Release** remains the complete six-stage lifecycle.
+
+The 008 internally anchored personal-manifold account continues to govern native personal work, installed conventional Bindings and ordinary Card-assisted personal work within its original scope; such scaffolds may spatially extend outside the body while remaining internally anchored. **Temporary Transduction Systems are the new scoped external case:** their shared manifold is referenced to the Cards' spatial arrangement, not the practitioner. The Cards provide structural anchors, while the sustaining practitioner maintains basin connections. This explicit frame-of-reference refinement qualifies earlier broad Card-assisted localization language without making every personal Card external or selecting the unresolved one-component case.
+
+External reference is not visible geometry. Topology remains ordinarily invisible; activated Cards, loaded/organized energy when visible, dissipating residual energy and realized effects retain their distinct visual roles. No fixed radius, range or new detection rule is assigned. Prepared geometry still leaves the operator energy placement/loading, distribution, throughput, timing, efficiency, conscious realization and fatigue. Reusable scaffolds and the six stages are unchanged. External physical sigils, engineered projections and velis remain possible; these are not a fourth personal interface. [The Card owner](GENESIS_CARDS.md) carries all modular-system examples and engineering gaps.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [selected author excerpts](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 008 current authority — 2026-10-21:** Clarifies internal anchoring, visible organized/residual energy, reusable scaffolds and operator control without changing the six-stage lifecycle. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

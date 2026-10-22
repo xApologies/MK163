@@ -1,0 +1,22 @@
+# 03 — Dungeon research, escort parties, and environmental helkir
+
+**Status:** Natural-sigil research and dual healer functions AUTHOR-SELECTED worldbuilding. Specific expeditions and scene beats are illustrative, not completed canon.
+
+## Exploration beyond combat
+Dungeons are natural laboratories. Institutions and research groups may hire aithren for security and logistics to reach deep chromatic strata and study naturally occurring ru’ne/sigils. Some missions last weeks; a team might descend to the Blue stratum of a Violet dungeon, secure a local research camp, and spend **three weeks** observing one complex natural sigil. A research group may spend several days provisioning, descend, conduct surveys and return with mathematical measurements. Deep expeditions can involve researchers, escorts, supplies, healers and specialists; the staging settlement supports inns, restaurants, crafts, raeon, repairs and logistics. The settled delver community's social/technical culture remains distinct from mobile storm chasers.
+
+## Two independent hazards
+1. **Eldris** are confined within discrete dungeon strata, with combat threats within those strata. They cannot cross chromatic boundaries or escape to the surface as a routine threat under established dungeon rules.
+2. **Environmental Genesis-field pressure** itself can destabilize biological coherence, especially in deeper Green/Blue/Violet strata, even in an area cleared of monsters. Natural basin energy is hazardous to unprotected human biology; the author links this to Genesis Mines and the chaotic, stratified environment. This is not a new species or a new environmental energy basin.
+
+## Two helkir roles
+- **Combat helkir:** two or three may be assigned to treat eldris-inflicted injuries, stabilize combatants, perform rapid restoration and support the fighting team.
+- **Environmental coherence helkir:** another two or three may maintain ongoing biological/topological coherence against the dungeon's persistent Genesis-field pressure. Their key value is endurance and high fatigue threshold. These may be separate specialists even if an individual can do both jobs. They rotate, recover and provide redundancy. If the only sustaining helkir fatigues out, the party can be in immediate danger; planning must account for coverage and possible overlap/handoff, whose mechanics are OPEN.
+
+Example 20-person party suggested by assistant earlier (8 combat aithren, 3 combat helkir, 3 environmental helkir, 4 researchers, 2 logistics) is **ILLUSTRATIVE ONLY**, not a required organization, headcount or staffing rule. Likewise 'two or three' per helkir team is an author example, not a global regulation. The author originally dictated a contracting organization, subsequently corrected explicitly to protected **vaelum** (`D-A-E-L-U-M`), but current MK163 naming constitution also lists **vaelum**; preserve spelling and flag whether these refer to the same or different institution. Do not silently choose.
+
+## Kaira's possible defining expedition (PROPOSED scene, not locked)
+Following a Black Vaelith bond, Kaira learns coherence and may join a deep Blue-zone research expedition. When environmental helkir tire, she can take over sustained biological coherence so researchers continue their mission. A major eldris encounter could cause multiple injuries while environmental pressure persists. Kaira may maintain environmental stabilization **and** restore wounded aithren simultaneously, sustaining the workload of several ordinary specialists. Other helkir recover. Her exceptional endurance and coherence skill, rather than an unprecedented new Shaping, establish her reputation in the dungeon community. Whether integrated or separate manifolds are involved is OPEN; no chapter, death count, injury severity, hour count or fixed book placement selected. The Black Vaelith companion can also be an independent helkir/member of the party.
+
+## Operational significance
+Aithren escort researchers rather than all being monster hunters. Expedition safety depends on logistics, field science, combat, environmental protection, fatigue rotation and recovery. Even a secured Blue-zone chamber may remain deadly due to environmental instability. Kaira's unusually high endurance can be a critical enabling role; she may occupy offensive, defensive, healing, research, Cardsmith or armorsmith functions across adventures. She is not required to fill every role simultaneously or render specialists obsolete.

@@ -1,0 +1,1868 @@
+{
+  "checkpoint": "LIVE_MODEL_009B",
+  "baseline_commit": "50222dde617803cbdfaa6991d37d210411e4aa80",
+  "baseline_tree": "486c8464112881f1f7b8666000fece2f22ebadd0",
+  "scope": "Complete supplied 36-topic semantic delta; selected excerpts, not literal transcript completeness.",
+  "rows": [
+    {
+      "id": "T01",
+      "supplied_row": {
+        "Topic ID": "T01",
+        "Required preserved content": "Ordinary modular Cards become temporary Genesis systems, not Black Cards",
+        "Detailed record": "01"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "009 retires special Black Cards and leaves an original ordinary-Card contribution unselected. Ordinary prepared Cards already exist.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Selects future ordinary modular Temporary Transduction Systems without new subclass or completed prototype.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Temporary Transduction Systems",
+        "future",
+        "not a new subclass"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T02",
+      "supplied_row": {
+        "Topic ID": "T02",
+        "Required preserved content": "Shared external manifold referenced to cards, not Kaira",
+        "Detailed record": "01"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "008 personal Card-assisted manifolds were described as internally anchored. It did not distinguish a shared external composite frame.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md": "e53672da2f7b22ee80a2adaed8023846060f546294d85fb072a855b10665cf96"
+      },
+      "resulting_change": "Scopes external Card-relative systems separately; preserves internally anchored personal work and six-stage lifecycle.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "card-relative",
+        "internally anchored",
+        "Conceive → Shape → Hold → Resolve → Manifest → Release"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T03",
+      "supplied_row": {
+        "Topic ID": "T03",
+        "Required preserved content": "Cards structural anchors owned by system; operator owns basin connection",
+        "Detailed record": "01"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "009 ordinary Cards have basin connections, but shared-system structural ownership versus sustainer connection ownership is not established.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Adds structural anchors owned operationally by the system and connections maintained by the sustainer; no legal transfer.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "structural anchors",
+        "operational sense",
+        "basin connections",
+        "No legal ownership"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T04",
+      "supplied_row": {
+        "Topic ID": "T04",
+        "Required preserved content": "Fatigue-limited persistence, no arbitrary timer",
+        "Detailed record": "01"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Fatigue limits ordinary Transduction already; no selected persistent modular-system duration rule.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md": "e043787f7db222438b78bff8b89d50b357f998f657d576e9e4916dbcca4752d3"
+      },
+      "resulting_change": "Applies fatigue/throughput/competency/Card-integrity limits to persistence; no arbitrary timer or free-energy resource.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "after_required_fragments": [
+        "fatigue-limited",
+        "not an arbitrary timer",
+        "throughput"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T05",
+      "supplied_row": {
+        "Topic ID": "T05",
+        "Required preserved content": "Passive barrier/dome example",
+        "Detailed record": "01"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "No ordinary modular passive-dome design is selected; older special-Card designs are retired.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Keeps passive dome/barrier as illustration with radius, count, cost and duration unselected.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Passive dome/barrier",
+        "not approved designs",
+        "duration are unselected"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T06",
+      "supplied_row": {
+        "Topic ID": "T06",
+        "Required preserved content": "Interactive turret operated by third party",
+        "Detailed record": "01"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Architect infrastructure exists; no ordinary modular third-party turret implementation is selected.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Separates sustaining practitioner from aim/fire user; no independent basin access, autonomous targeting or free energy.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Interactive turret",
+        "third party",
+        "without performing Transduction",
+        "control implementation is OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T07",
+      "supplied_row": {
+        "Topic ID": "T07",
+        "Required preserved content": "Fabrication workstation and one-part system possibilities",
+        "Detailed record": "01"
+      },
+      "status": "OPEN",
+      "before_semantic_assessment": "Prepared single ordinary Cards exist; fabrication workstation and one-component shared-system distinction are not settled.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Preserves both possibilities as examples; one-part distinction and first prototype remain OPEN.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Fabrication workstation",
+        "One-part system",
+        "meaningful distinction",
+        "OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T08",
+      "supplied_row": {
+        "Topic ID": "T08",
+        "Required preserved content": "Architect permanent/infrastructure contrast and velis distinction",
+        "Detailed record": "01"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Architects already realize external field structures; temporary velis and physical inscriptions have distinct meanings.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md": "58d71c9c98f8335a0b5167d50a67e6f3f183f7cdf8e836e384d5a16961bb9d38",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1"
+      },
+      "resulting_change": "Adds portability/infrastructure comparison without making Kaira inventor of turrets or equating velis with Card systems.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "permanent or infrastructure-supported",
+        "velis remains temporary",
+        "mechanisms",
+        "OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T09",
+      "supplied_row": {
+        "Topic ID": "T09",
+        "Required preserved content": "Offload prepared geometry, not operator energy competency",
+        "Detailed record": "01"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "008 already distinguishes prepared scaffold from operator-controlled energy; early Card-to-native learning exists.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md": "e53672da2f7b22ee80a2adaed8023846060f546294d85fb072a855b10665cf96"
+      },
+      "resulting_change": "Applies existing duty to advanced prepared composite geometry and learning bridge; loading, timing, direction and fatigue remain.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ],
+      "after_required_fragments": [
+        "not operator energy competency",
+        "energy transfer/loading",
+        "timing",
+        "fatigue"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T10",
+      "supplied_row": {
+        "Topic ID": "T10",
+        "Required preserved content": "Six occupied basins forbid independent same-basin expression",
+        "Detailed record": "01"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "009 already expressly reserves each active ordinary Card basin across interfaces and forbids independent same-basin expression.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md": "e043787f7db222438b78bff8b89d50b357f998f657d576e9e4916dbcca4752d3"
+      },
+      "resulting_change": "Reaffirms settled exclusivity for composites and third-party controls; does not solve activation against running native work.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "after_required_fragments": [
+        "Six disjoint single-basin Cards",
+        "cannot independently",
+        "cancellation/priority remains OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T11",
+      "supplied_row": {
+        "Topic ID": "T11",
+        "Required preserved content": "Unresolved Card coupling/range/damage/reconfiguration",
+        "Detailed record": "01"
+      },
+      "status": "OPEN",
+      "before_semantic_assessment": "Ordinary conflicting activation procedure is OPEN. Retired Black Card coupling questions cannot supply a new ordinary design.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md": "9476acf7da1043bd75ad01f8a374253244ccaea985ec7bf54fedd5843735213a"
+      },
+      "resulting_change": "Lists all new ordinary coupling, range, damage, movement, controls, reconfiguration and prototype gaps separately from retired mechanics.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md"
+      ],
+      "after_required_fragments": [
+        "Card-to-Card compatibility/coupling",
+        "reconfiguration",
+        "damage",
+        "first prototype"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T12",
+      "supplied_row": {
+        "Topic ID": "T12",
+        "Required preserved content": "`ru’ne` letters/sigils words analogy, discovered math not invention",
+        "Detailed record": "02"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Physical ru’ne, sigils and mathematics exist; worldwide natural field-language discovery is not fully established by that owner.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90"
+      },
+      "resulting_change": "Adds discovered letters/words analogy with explicit scientific-model versus ontology limit.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "after_required_fragments": [
+        "analogized to letters",
+        "analogized to words",
+        "discovers",
+        "not a claim that every human model"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T13",
+      "supplied_row": {
+        "Topic ID": "T13",
+        "Required preserved content": "Natural large-scale, temporary/permanent formations across world",
+        "Detailed record": "02"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Inherited physical engineering and particular natural phenomena do not specify the new general natural formation scope.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90"
+      },
+      "resulting_change": "Adds spontaneous worldwide immense natural systems, transient or centuries/millennia persistent, not necessarily visible carvings.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "after_required_fragments": [
+        "throughout the world",
+        "transient",
+        "centuries or millennia",
+        "need not be a visible carved mark"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T14",
+      "supplied_row": {
+        "Topic ID": "T14",
+        "Required preserved content": "Human reduced-complexity sigil engineering and spatial locking blocks",
+        "Detailed record": "02"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Human physical inscription/construction already exists; complete reproduction of natural complexity was not selected.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90"
+      },
+      "resulting_change": "Adds reduction of useful natural relations and compatible two-block spatial locking as engineering illustration.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "after_required_fragments": [
+        "reduced-complexity local implementations",
+        "two-stone-block",
+        "spatial-locking"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T15",
+      "supplied_row": {
+        "Topic ID": "T15",
+        "Required preserved content": "Floating islands and water features, mechanism open",
+        "Detailed record": "02"
+      },
+      "status": "OPEN",
+      "before_semantic_assessment": "No mapped floating island or proven water/levitation mechanism is established for this delta.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md": "9476acf7da1043bd75ad01f8a374253244ccaea985ec7bf54fedd5843735213a"
+      },
+      "resulting_change": "Retains floating-island/water possibility with source/conservation and geometry OPEN; no unlimited matter.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md"
+      ],
+      "after_required_fragments": [
+        "Floating islands",
+        "not mapped locations",
+        "conservation accounting",
+        "OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T16",
+      "supplied_row": {
+        "Topic ID": "T16",
+        "Required preserved content": "Natural dungeon stratum boundary sigils, visible status open",
+        "Detailed record": "02"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Persistent contiguous dungeon strata and eldris confinement already exist; universal visible boundary sigils are not established.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md": "72fbc1ecf0ae9fc15b9ac5a7b053aa221a0d2dd5ec7db2cb1d3223946800e8a7",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90"
+      },
+      "resulting_change": "Adds possible natural stabilization/research while formation, visibility and mechanism stay OPEN; no mandatory glyphs.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ],
+      "after_required_fragments": [
+        "may help stabilize",
+        "visibility are OPEN",
+        "No mandatory visible glyph"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T17",
+      "supplied_row": {
+        "Topic ID": "T17",
+        "Required preserved content": "Science through research and exploratory narrative",
+        "Detailed record": "02"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Research, institutions and exploration fit existing world, but this particular natural-sigil discovery narrative is not detailed.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8"
+      },
+      "resulting_change": "Adds observation, measurements, hypotheses and developing perception, without required lectures or automatic control.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "after_required_fragments": [
+        "competing hypotheses",
+        "observation",
+        "Understanding mathematics does not guarantee"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T18",
+      "supplied_row": {
+        "Topic ID": "T18",
+        "Required preserved content": "Research aithren escorts, deep Blue zone multiweek expedition",
+        "Detailed record": "03"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Delver logistics and vaelum organization exist; no selected deep-stratum research mission or schedule.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md": "72fbc1ecf0ae9fc15b9ac5a7b053aa221a0d2dd5ec7db2cb1d3223946800e8a7"
+      },
+      "resulting_change": "Adds aithren research escort pattern and three-week Blue-stratum example, not completed event or book placement.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md"
+      ],
+      "after_required_fragments": [
+        "three weeks of Blue-stratum observation",
+        "not",
+        "completed event",
+        "researchers"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T19",
+      "supplied_row": {
+        "Topic ID": "T19",
+        "Required preserved content": "Environmental pressure separate from eldris",
+        "Detailed record": "03"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Dungeon eldris and energetic strata exist; separate environmental biological-coherence hazard is not explicit in the current detailed owner.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md": "72fbc1ecf0ae9fc15b9ac5a7b053aa221a0d2dd5ec7db2cb1d3223946800e8a7",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2"
+      },
+      "resulting_change": "Adds field pressure in deeper strata even without monsters, retaining confinement and all existing geography.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md"
+      ],
+      "after_required_fragments": [
+        "biological coherence",
+        "cleared or locally secured",
+        "Eldris still cannot cross"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T20",
+      "supplied_row": {
+        "Topic ID": "T20",
+        "Required preserved content": "Combat helkir versus environmental coherence helkir",
+        "Detailed record": "03"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Helkir coherence/restoration profession exists; operational split is not established as a required two-profession system.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda"
+      },
+      "resulting_change": "Distinguishes combat healing from sustained environmental protection as roles of existing profession.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "after_required_fragments": [
+        "Combat helkir",
+        "Environmental coherence helkir",
+        "not new compulsory professions"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T21",
+      "supplied_row": {
+        "Topic ID": "T21",
+        "Required preserved content": "Rotation, fatigue failure and redundancy",
+        "Detailed record": "03"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Fatigue and expedition logistics exist; no exact environmental coverage or staffing law.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda"
+      },
+      "resulting_change": "Adds rotation/recovery/redundancy and fatigue failure; author two/three and assistant 20-person roster remain examples.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "after_required_fragments": [
+        "rotate, recover",
+        "only sustaining helkir",
+        "ILLUSTRATIVE ONLY",
+        "handoff"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T22",
+      "supplied_row": {
+        "Topic ID": "T22",
+        "Required preserved content": "Proposed Kaira simultaneous sustainment/healing rescue, not fixed event",
+        "Detailed record": "03"
+      },
+      "status": "OPEN",
+      "before_semantic_assessment": "Vaelith/coherence potential and future adventure exist; no completed Blue-stratum rescue scene.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64"
+      },
+      "resulting_change": "Preserves proposed simultaneous protection/healing scenario, recovery and reputation without date, cast, injury count or guaranteed success.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "after_required_fragments": [
+        "PROPOSED, not locked or completed",
+        "restore wounded people simultaneously",
+        "No chapter/book assignment"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T23",
+      "supplied_row": {
+        "Topic ID": "T23",
+        "Required preserved content": "Protected `vaelum` restored; voice-transcription error resolved",
+        "Detailed record": "03, source register"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "Current naming constitution and organization owner already protect vaelum. Workshop 03 retains a superseded same/different-identity question.",
+      "before_owner_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "before_owner_sha256": {
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md": "19ab746b8be95334e3a5af2dd2bf307064362184b60854be5e2936f960bcc946",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md": "9230549796ca8a0a4596c3d6bfc73c3b453361128b340b015dd220f984609ef1",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda"
+      },
+      "resulting_change": "Applies explicit correction: one existing protected organization; stale source remains exact but identity issue is RESOLVED.",
+      "after_owner_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ],
+      "after_required_fragments": [
+        "vaelum",
+        "RESOLVED",
+        "not a second organization"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T24",
+      "supplied_row": {
+        "Topic ID": "T24",
+        "Required preserved content": "Black Singularity preexisting affinity; bond changes perception",
+        "Detailed record": "04"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Black Singularity identity, affinity and bond access exist; altered realm intuition is not fully distinguished from access.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64"
+      },
+      "resulting_change": "Adds preexisting affinity and bond-enabled realization with altered intuitive perception; exact mechanism deliberately unselected.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "after_required_fragments": [
+        "preexisting native",
+        "changes or expands intuitive",
+        "deliberately unselected"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T25",
+      "supplied_row": {
+        "Topic ID": "T25",
+        "Required preserved content": "Six independent natural mentors/party members",
+        "Detailed record": "04"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Six independent denizens, existing bond order and eight-member scope with Nyx already established.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c"
+      },
+      "resulting_change": "Develops natural mentoring, reciprocity and opinions without equipment status, role lock or remapping.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "independent",
+        "opinions",
+        "eight-person/being",
+        "reciprocal"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T26",
+      "supplied_row": {
+        "Topic ID": "T26",
+        "Required preserved content": "Bond access vs altered intuition vs acquired mastery",
+        "Detailed record": "04"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Existing access and gradual native skills do not automatically confer knowledge; detailed perception scope was absent.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c"
+      },
+      "resulting_change": "Explicitly separates access, altered intuition and practiced mastery; embodied-understanding analogy is not a download mechanism.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "Access, altered intuition and practiced mastery remain different",
+        "direct sharing mechanics are OPEN",
+        "without eliminating practice"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T27",
+      "supplied_row": {
+        "Topic ID": "T27",
+        "Required preserved content": "Institution of Knowledge for human Cardsmithing",
+        "Detailed record": "04"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "Red Arc IV human Cardsmith education at the Institution of Knowledge remains active after 009 retirement.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md": "d4531430fd29b83d7cfb382f490d7be34ab1aa29a0894a7102ce9f67fd12ccaf",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c"
+      },
+      "resulting_change": "Reaffirms ordinary human technology training and preserves broader curriculum; no new school roster/timetable.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "Red Arc IV formal Cardsmith education remains",
+        "human-engineered",
+        "broader existing curriculum"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T28",
+      "supplied_row": {
+        "Topic ID": "T28",
+        "Required preserved content": "Accelerated experiential education, no repeated school arcs",
+        "Detailed record": "04"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Companion learning and Arc IV formal schooling exist; repeated formal school arcs are not required by existing plan.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md": "d4531430fd29b83d7cfb382f490d7be34ab1aa29a0894a7102ce9f67fd12ccaf"
+      },
+      "resulting_change": "Selects accelerated experiential learning across adventures/shared years, without exact rate or repeated school arc per bond.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "after_required_fragments": [
+        "accelerate experiential learning",
+        "shared years",
+        "does not require a new formal school arc"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T29",
+      "supplied_row": {
+        "Topic ID": "T29",
+        "Required preserved content": "Kaira exceptional endurance, not infinite; multi-role generalist",
+        "Detailed record": "04"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Extraordinary affinity, skills and fatigue limits exist, but broad capability language must not reduce Kaira to an ordinary generalist.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c"
+      },
+      "resulting_change": "Adds exceptional innate/gradually realized endurance and possible specialist roles with no infinity, multiplier or compulsory simultaneous roles.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ],
+      "after_required_fragments": [
+        "Exceptional endurance/sustainment",
+        "not infinite fatigue",
+        "every role simultaneously"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T30",
+      "supplied_row": {
+        "Topic ID": "T30",
+        "Required preserved content": "Potentially universal admissible Shaping over long periods",
+        "Detailed record": "04"
+      },
+      "status": "REVISE",
+      "before_semantic_assessment": "Eventual broad sixfold native expression exists; current mastery remains incomplete.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64"
+      },
+      "resulting_change": "Clarifies eventually universal admissible potential over vast time, bounded by competency/resources/throughput/fatigue.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "after_required_fragments": [
+        "eventually universal across admissible Shapings",
+        "centuries, millennia or eons",
+        "resources and fatigue"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T31",
+      "supplied_row": {
+        "Topic ID": "T31",
+        "Required preserved content": "World-local Genesis stabilization as seven-book conclusion",
+        "Detailed record": "04"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "Existing saga structure/adventure strands do not specify this new planet-local culminating objective.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8",
+        "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md": "1caf63c329e07a483fdd252f3f5c716233591be51755bbac56ee6ff5ae6bdb24"
+      },
+      "resulting_change": "Records author-directed proposed world-local stabilization goal; mechanism, final conflict and existing/future eldris effects remain OPEN.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md"
+      ],
+      "after_required_fragments": [
+        "locally to her planet",
+        "proposed culminating narrative goal",
+        "prevents new eldris formation versus resolves existing eldris"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T32",
+      "supplied_row": {
+        "Topic ID": "T32",
+        "Required preserved content": "Starscape-wide future outside seven-book requirement",
+        "Detailed record": "04"
+      },
+      "status": "ADD",
+      "before_semantic_assessment": "No approved commitment to complete starscape-wide stabilization during seven books.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8"
+      },
+      "resulting_change": "Separates possible far-future continuation from seven-book requirement and avoids inventing a committed sequel.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "after_required_fragments": [
+        "outside the seven-book requirement",
+        "not a committed sequel",
+        "centuries, millennia or eons"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T33",
+      "supplied_row": {
+        "Topic ID": "T33",
+        "Required preserved content": "Arc Two shirt/backpack/fruit/dungeon outreach and no first sale",
+        "Detailed record": "05"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "Current Arc 2 already has mass-reduced demonstration shirt, backpack/fruit, prior delivery familiarity and independent repair outreach without sale.",
+      "before_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "before_owner_sha256": {
+        "BOOKS/RED/ARCS/ARC_002/ARC.md": "26cd0c2a4563e0463ee0d7b68c575083074d56e0095d1d32548f533173d549bb"
+      },
+      "resulting_change": "Reaffirms exact resumption state and existing Offset-Lattice concept; no customer, price, dialogue, descent or new scene.",
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "backpack with fruit",
+        "mass-reduced demonstration chainmail shirt",
+        "No first customer",
+        "Previous indentured"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T34",
+      "supplied_row": {
+        "Topic ID": "T34",
+        "Required preserved content": "No completed robe, no Arc Two research expedition or composite system",
+        "Detailed record": "05"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "Robe completion/public reveal is Arc 2 endpoint; first Sprite Arc 3, Ring Red ending. New future systems are absent from current possessions.",
+      "before_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "before_owner_sha256": {
+        "BOOKS/RED/ARCS/ARC_002/ARC.md": "26cd0c2a4563e0463ee0d7b68c575083074d56e0095d1d32548f533173d549bb",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8"
+      },
+      "resulting_change": "Explicitly prevents new research/composite proposals from leaking into Arc 2; full robe remains incomplete and invention timing OPEN.",
+      "after_owner_paths": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ],
+      "after_required_fragments": [
+        "five-layer robe is not complete",
+        "No Blue-stratum research mission",
+        "chronology OPEN"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T35",
+      "supplied_row": {
+        "Topic ID": "T35",
+        "Required preserved content": "Black Card retirement remains authoritative",
+        "Detailed record": "01, 04, 05"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "LIVE_MODEL_009 expressly retires special Black Card subclass, anchors, Neon engine and mandatory Armor/Arc V milestone.",
+      "before_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md"
+      ],
+      "before_owner_sha256": {
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8",
+        "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md": "de6b9c2a719ef2483a4031bf616db046a9f13d902d20b0a06fd2c7a300386d6e"
+      },
+      "resulting_change": "Retains retirement; new ordinary engineering does not revive old architecture, chronology obligation or exceptional concurrency.",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md"
+      ],
+      "after_required_fragments": [
+        "LIVE_MODEL_009 retirement remains active",
+        "Arc V special Black Card manufacture",
+        "remain retired"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "T36",
+      "supplied_row": {
+        "Topic ID": "T36",
+        "Required preserved content": "Protected nomenclature and historical dictation preservation",
+        "Detailed record": "Executable, source register"
+      },
+      "status": "ALREADY_PRESENT",
+      "before_semantic_assessment": "Protected nomenclature, aen/Ain distinction and verbatim historical quotation boundaries already govern.",
+      "before_owner_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md"
+      ],
+      "before_owner_sha256": {
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md": "19ab746b8be95334e3a5af2dd2bf307064362184b60854be5e2936f960bcc946"
+      },
+      "resulting_change": "Reaffirms ru’ne/Kaira/vaelum and other protected terms, exact source variants and resolved terminology correction.",
+      "after_owner_paths": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+        "PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md"
+      ],
+      "after_required_fragments": [
+        "ru’ne",
+        "aen/Ain distinction remains",
+        "Original source quotations remain literal"
+      ],
+      "destructive_conflict": false
+    }
+  ],
+  "decisions": [
+    {
+      "id": "009B-01",
+      "supplied_row": {
+        "ID": "009B-01",
+        "Status": "AUTHOR SELECTED, implementation OPEN",
+        "Decision / boundary": "Kaira's professional contribution: modular **Temporary Transduction Systems** built from ordinary Genesis Cards, not special Black Cards."
+      },
+      "topic_ids": [
+        "T01",
+        "T11"
+      ],
+      "owners": [
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ]
+    },
+    {
+      "id": "009B-02",
+      "supplied_row": {
+        "ID": "009B-02",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Composite Card system's manifold is externally **card-relative**, not practitioner-centered. Cards become structural anchors/components; sustaining practitioner owns active basin connection."
+      },
+      "topic_ids": [
+        "T02",
+        "T03"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md"
+      ]
+    },
+    {
+      "id": "009B-03",
+      "supplied_row": {
+        "ID": "009B-03",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Systems may be interactive or passive and usable by third parties without those users becoming sustaining transductionists. Temporary operation is fatigue-limited."
+      },
+      "topic_ids": [
+        "T04",
+        "T05",
+        "T06",
+        "T07"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ]
+    },
+    {
+      "id": "009B-04",
+      "supplied_row": {
+        "ID": "009B-04",
+        "Status": "AUTHOR CORRECTION",
+        "Decision / boundary": "Active Card occupancy blocks independent same-basin native/bond expression; six disjoint single-basin Cards occupy all six. No bypass."
+      },
+      "topic_ids": [
+        "T10"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ]
+    },
+    {
+      "id": "009B-05",
+      "supplied_row": {
+        "ID": "009B-05",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Architect infrastructure can produce similar constructs; modular Cards are portable, temporary architectural realization, not invention of turret/barrier."
+      },
+      "topic_ids": [
+        "T08",
+        "T09"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md"
+      ]
+    },
+    {
+      "id": "009B-06",
+      "supplied_row": {
+        "ID": "009B-06",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Natural `ru’ne` and sigils form spontaneously throughout nature, transiently or persistently, at complexities humanity cannot fully copy."
+      },
+      "topic_ids": [
+        "T12",
+        "T13",
+        "T16",
+        "T17"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ]
+    },
+    {
+      "id": "009B-07",
+      "supplied_row": {
+        "ID": "009B-07",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Humans discover mathematical relationships and engineer reduced local expressions, e.g. spatial-locking building blocks."
+      },
+      "topic_ids": [
+        "T14"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ]
+    },
+    {
+      "id": "009B-08",
+      "supplied_row": {
+        "ID": "009B-08",
+        "Status": "AUTHOR EXAMPLE",
+        "Decision / boundary": "Floating islands and water features may be natural sigil systems; exact physics and actual mapped locations OPEN."
+      },
+      "topic_ids": [
+        "T15"
+      ],
+      "owners": [
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ]
+    },
+    {
+      "id": "009B-09",
+      "supplied_row": {
+        "ID": "009B-09",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Research parties study natural dungeon sigils; aithren escorts, combat helkir and environmental coherence helkir have distinct operational roles."
+      },
+      "topic_ids": [
+        "T16",
+        "T18",
+        "T19",
+        "T20",
+        "T21"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md"
+      ]
+    },
+    {
+      "id": "009B-10",
+      "supplied_row": {
+        "ID": "009B-10",
+        "Status": "AUTHOR EXAMPLE",
+        "Decision / boundary": "Multi-week Blue-stratum research expedition, environmental sustainment and possible eldris battle/rescue by Kaira are potential narrative scenarios, not completed events."
+      },
+      "topic_ids": [
+        "T18",
+        "T22"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ]
+    },
+    {
+      "id": "009B-11",
+      "supplied_row": {
+        "ID": "009B-11",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Kaira has exceptional sustained Transduction capacity and can eventually occupy offensive, defensive, restorative, exploration and research roles. Not infinite fatigue."
+      },
+      "topic_ids": [
+        "T29"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ]
+    },
+    {
+      "id": "009B-12",
+      "supplied_row": {
+        "ID": "009B-12",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Black bonds alter/expand Kaira's natural realm-specific intuition/perception; each independent denizen mentors her. Exact physics intentionally unselected."
+      },
+      "topic_ids": [
+        "T24",
+        "T25",
+        "T26"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ]
+    },
+    {
+      "id": "009B-13",
+      "supplied_row": {
+        "ID": "009B-13",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Blackstone Institution of Knowledge teaches human Cardsmithing; realm-native Transduction learning unfolds through companions and experience, not repeated school arcs."
+      },
+      "topic_ids": [
+        "T27",
+        "T28"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ]
+    },
+    {
+      "id": "009B-14",
+      "supplied_row": {
+        "ID": "009B-14",
+        "Status": "AUTHOR SELECTED",
+        "Decision / boundary": "Kaira's potential is eventually universal across admissible Shapings, but practical knowledge/mastery/fatigue develop over long time."
+      },
+      "topic_ids": [
+        "T30"
+      ],
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+      ]
+    },
+    {
+      "id": "009B-15",
+      "supplied_row": {
+        "ID": "009B-15",
+        "Status": "AUTHOR DIRECTION, mechanics OPEN",
+        "Decision / boundary": "Seven-book saga culminates in world-local Genesis-field stabilization addressing eldris collapse pressure; starscape-wide stabilization reserved for possible later stories."
+      },
+      "topic_ids": [
+        "T31",
+        "T32"
+      ],
+      "owners": [
+        "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ]
+    },
+    {
+      "id": "009B-16",
+      "supplied_row": {
+        "ID": "009B-16",
+        "Status": "AUTHOR CORRECTION",
+        "Decision / boundary": "Protected word `ru’ne`, not `runae`/`runei`; `Kaira`, `aithren`, `Vaelith`, `helkir` and other current names. Preserve raw dictation only as quoted evidence."
+      },
+      "topic_ids": [
+        "T36"
+      ],
+      "owners": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+        "PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md"
+      ]
+    },
+    {
+      "id": "009B-17",
+      "supplied_row": {
+        "ID": "009B-17",
+        "Status": "CORRECTED / RESOLVED",
+        "Decision / boundary": "`vaelum` is the protected canonical organization term. The author explicitly corrected the voice-to-text spelling; use `vaelum` in all active prose and records. Preserve the mistaken transcription only as labeled evidence."
+      },
+      "topic_ids": [
+        "T23"
+      ],
+      "owners": [
+        "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md"
+      ]
+    },
+    {
+      "id": "009B-18",
+      "supplied_row": {
+        "ID": "009B-18",
+        "Status": "RETAIN",
+        "Decision / boundary": "LIVE_MODEL_009 retired Black Genesis Card subsystem; nothing in 009B reactivates it."
+      },
+      "topic_ids": [
+        "T35"
+      ],
+      "owners": [
+        "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ]
+    },
+    {
+      "id": "009B-19",
+      "supplied_row": {
+        "ID": "009B-19",
+        "Status": "RETAIN",
+        "Decision / boundary": "Arc Two current scene handoff: shirt/backpack/fruit, independent work outreach at dungeon staging; no invented customer, dungeon descent, or completed robe."
+      },
+      "topic_ids": [
+        "T33",
+        "T34"
+      ],
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+      ]
+    }
+  ],
+  "evidence_excerpts_reviewed": [
+    {
+      "id": "E01",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 7,
+      "line_sha256": "94652d7ebea96f1b49e5780b5983cbbae3cdcd3af43a2644f64a98e5494bc972",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T02"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E02",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 9,
+      "line_sha256": "19924e77e16464e9aab5da72d11b06f96a6cb74d215fcf3516024af5443914cb",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T01",
+        "T04"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E03",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 11,
+      "line_sha256": "791567f464174698ba43ccc0f311aa239f639a76b909027f31e9ce3ef67c6fe8",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T01",
+        "T03",
+        "T04"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E04",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 13,
+      "line_sha256": "1e8eecac64dec69a50a32a00bca192dcce19c941318d5880f8c6c512c07fc2d7",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T03"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E05",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 15,
+      "line_sha256": "4d984f6dc6c2630282e47ec024a0e95b1d3e07ac21233675b521f56b76748dd3",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T05",
+        "T06"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E06",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 17,
+      "line_sha256": "1bd9afff0bd55e3be74117adb8ff330dd9661298e18b869659d9b0a715135dd2",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T08"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E07",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 19,
+      "line_sha256": "7b73898577a72339726235303ced577d5c7220e2642b1d2faed55f99b3c7b02c",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T10"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E08",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 21,
+      "line_sha256": "f944081db1da655547430eb02f3f1d74e1d907f63cfa343617c3ff0bf1f4e00f",
+      "section": "Composite Card systems and reference frames",
+      "topic_ids": [
+        "T01"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E09",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 25,
+      "line_sha256": "644df6421865b26e38393ac51832afe9c9bba7b37af8822e1a989abb5b52fcca",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T12"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E10",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 27,
+      "line_sha256": "863f72cbae686dec3783dbc6f5b9353764f1064d57ce9637b8b413d46c85d337",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T12",
+        "T36"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E11",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 29,
+      "line_sha256": "2edfeeed35f222f7831ecea9e30744a0e4935a236e672380d17954267a56df6d",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T13"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E12",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 31,
+      "line_sha256": "e388c2d6853032378b923d17a950129ee4e0fe08ef4a73a5bca76bcb6d96dee7",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T13"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E13",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 33,
+      "line_sha256": "9126712b606ed5af41d7e8e6bd142a135fbc2743af549f23369a6ea8104550b5",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T14"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E14",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 35,
+      "line_sha256": "3a1bed910657bdbe1c946b7f26d96c2d9a1d444b993832de46cb7df85805e50e",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T14"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E15",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 37,
+      "line_sha256": "c89dff10c0f48a49d6a2c65fb33408dcec2197c0a6b26bc0406cea28a145ef60",
+      "section": "Natural ru’ne and sigils",
+      "topic_ids": [
+        "T15"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E16",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 41,
+      "line_sha256": "e83c2d9907c745d5e7abd08aa9cb10645ae4af51bdc9d227185015a3866d1a36",
+      "section": "Research, expedition roles and environmental hazards",
+      "topic_ids": [
+        "T18"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E17",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 43,
+      "line_sha256": "4082140c50ddcd0994da3eabe2d42e7e0d678d2e92ab65c02dd4ef491d1379b4",
+      "section": "Research, expedition roles and environmental hazards",
+      "topic_ids": [
+        "T20",
+        "T21"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E18",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 45,
+      "line_sha256": "bda74d5b325fa9bc2cdde4522ee8c0f99890abe957c9b83c8d99786e673fefb4",
+      "section": "Research, expedition roles and environmental hazards",
+      "topic_ids": [
+        "T23",
+        "T36"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E19",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 47,
+      "line_sha256": "3779e1ed4a0943f00fb8683468ad3de96a2fc8e9e9b4070ae7c6df5059a2e750",
+      "section": "Research, expedition roles and environmental hazards",
+      "topic_ids": [
+        "T19"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E20",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 49,
+      "line_sha256": "b34c2055cff5fd0633d50fa887424964f2bc3d9b63b5f2842363700ae0ca14fb",
+      "section": "Research, expedition roles and environmental hazards",
+      "topic_ids": [
+        "T22"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E21",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 53,
+      "line_sha256": "a484fc6c3e5fecb8c96f2d3813a56651fdd851cc58debb90588054ff854cf1d7",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T24"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E22",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 55,
+      "line_sha256": "5ab2027da4ecc1cb843ddc0d3b11a5a8b15472f879fd9304febecd8d1f63c7ef",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T24",
+        "T26"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E23",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 57,
+      "line_sha256": "aee3b95d180757f934af614fa8faaf1ebddf2a1770400558fbd3e7dfa05cc6aa",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T26"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E24",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 59,
+      "line_sha256": "45c69e8b8d2bb50a210fba4ac6cd0c69d05c5e9c42e20346b65832f023bd2a47",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T27",
+        "T36"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E25",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 61,
+      "line_sha256": "21377589a7a7312a8ce7cf282f7fdc3e9c3199928e936548406688eeee3d42a6",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T25",
+        "T28"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E26",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 63,
+      "line_sha256": "8bbc07393f3c39e5ef7851f06ddec9cd370160eb7052e0bbef97a434c55321d1",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T31"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "E27",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "line": 65,
+      "line_sha256": "4116e34c26cd38183b55a64620fa476cdd4c4757ae7bedebdd423d15c35105eb",
+      "section": "Bonds, education and ultimate narrative scope",
+      "topic_ids": [
+        "T32"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR01",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 21,
+      "line_sha256": "94652d7ebea96f1b49e5780b5983cbbae3cdcd3af43a2644f64a98e5494bc972",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T02"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR02",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 23,
+      "line_sha256": "2f6864613b2018eaaaa7e1cf3e85fd7912e7532e8c97f3c332970c9f1024e4a4",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T01"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR03",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 25,
+      "line_sha256": "f944081db1da655547430eb02f3f1d74e1d907f63cfa343617c3ff0bf1f4e00f",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T01",
+        "T36"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR04",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 27,
+      "line_sha256": "0540bd2b477031c96df396a254d438dc7c2d6d8c9e0c84400a40c70c0b59fde2",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T17"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR05",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 29,
+      "line_sha256": "117227afc3932744fe8004e0c2513c5a85d4da76ff585d281ef15cc0ba5c9fc5",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T24",
+        "T26"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    },
+    {
+      "id": "SR06",
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "line": 31,
+      "line_sha256": "aee3b95d180757f934af614fa8faaf1ebddf2a1770400558fbd3e7dfa05cc6aa",
+      "section": "Explicit author phrases preserved (selected, not comprehensive transcript)",
+      "topic_ids": [
+        "T26"
+      ],
+      "review": "Read in source context; author attribution is supplied, not independently authenticated. Literal dictation/ellipses retained; active terminology corrected and proposal/OPEN qualifiers preserved."
+    }
+  ],
+  "protected_byte_identical_paths": [
+    "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "BOOKS/RED/ARCS/ARC_003/ARC.md",
+    "CHECKPOINTS/DELTA_004_DELIVERY_MANIFEST.json",
+    "CHECKPOINTS/DELTA_004_EXECUTION.md",
+    "CHECKPOINTS/DELTA_004_VALIDATION.json",
+    "CHECKPOINTS/DELTA_005_PACKAGE/BASELINE_REPOSITORY_AUDIT.json",
+    "CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.json",
+    "CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.md",
+    "CHECKPOINTS/DELTA_005_PACKAGE/LIVE_AUDIT_REPORT.md",
+    "CHECKPOINTS/DELTA_005_PACKAGE/MANIFEST.json",
+    "CHECKPOINTS/DELTA_005_PACKAGE/README.md",
+    "CHECKPOINTS/DELTA_005_PACKAGE/RECONCILIATION_RULES.md",
+    "CHECKPOINTS/DELTA_005_PACKAGE/audit_package.py",
+    "CHECKPOINTS/DELTA_005_PACKAGE/executable.me",
+    "CHECKPOINTS/DELTA_005_PACKAGE/execution.md",
+    "CHECKPOINTS/DELTA_005_VALIDATION.json",
+    "CHECKPOINTS/LIVE_MODEL_003.md",
+    "CHECKPOINTS/LIVE_MODEL_003_DELIVERY_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_003_VALIDATION.json",
+    "CHECKPOINTS/LIVE_MODEL_006_EXECUTION.md",
+    "CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_006_PACKAGE/CHECKPOINT_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_006_PACKAGE/README_CODEX.md",
+    "CHECKPOINTS/LIVE_MODEL_006_VALIDATION.json",
+    "CHECKPOINTS/LIVE_MODEL_007_EXECUTION.md",
+    "CHECKPOINTS/LIVE_MODEL_007_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_007_VALIDATION.json",
+    "CHECKPOINTS/LIVE_MODEL_008_EXECUTION.md",
+    "CHECKPOINTS/LIVE_MODEL_008_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_008_VALIDATION.json",
+    "CHECKPOINTS/LIVE_MODEL_009_EXECUTION.md",
+    "CHECKPOINTS/LIVE_MODEL_009_MANIFEST.json",
+    "CHECKPOINTS/LIVE_MODEL_009_VALIDATION.json",
+    "CHECKPOINTS/README.md",
+    "CHECKPOINTS/TOOLS/reassemble_api_index.py",
+    "CHECKPOINTS/TOOLS/validate_delta_005_package.py",
+    "CHECKPOINTS/TOOLS/validate_live_model.py",
+    "CHECKPOINTS/TOOLS/validate_live_model_006.py",
+    "CHECKPOINTS/TOOLS/validate_live_model_007.py",
+    "CHECKPOINTS/TOOLS/validate_live_model_008.py",
+    "CHECKPOINTS/TOOLS/validate_live_model_009.py",
+    "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md",
+    "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md",
+    "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
+    "PROVENANCE/WORKSHOP/ACCEPTANCE_CHECKS.json",
+    "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+    "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl",
+    "PROVENANCE/WORKSHOP/COVERAGE.json",
+    "PROVENANCE/WORKSHOP/COVERAGE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/INTEGRATION_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARMOR_MATERIALS_AND_ENCHANTMENT_EXTENSION.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHAINMAIL_SHIRT_PRICE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHROMATIC_RENTAL_AVERAGES.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CURRENCY_CONVERSION_DECISION.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ECONOMIC_FOUNDATION_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_CARD_CLASS_PRICES.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_CRYSTAL_MARKET_PRICES.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_WEAPON_IMPULSE_GEOMETRY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/LEATHER_ARMOR_MARKET_AVERAGES.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_COMBAT_COMPETENCY_EXTENSION.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.sha256",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/SESSION_006_HASHES.json",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/ATLAS_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.svg",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/LEATHER_ARMOR_AVERAGES.svg",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.jpeg",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/AUDIT/REVERSE_DIFF.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/EXECUTABLE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/README.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/PRELIMINARY_DELTA_007_SUPERSEDED.zip",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/SOURCE_REGISTER.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/VISUAL_REFERENCE/KAIRA_ROBE_AUTHOR_REFERENCE.png",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/VISUAL_REFERENCE/README.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/AUDIT/DECISION_MATRIX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/AUDIT/REVERSE_DIFF.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/CANON_DELTA/ACTIVE_AUTHOR_DIRECTIONS.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/Executable.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/README.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/SOURCES/SOURCE_REGISTER.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/VISUAL_REFERENCE/README.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/VISUAL_REFERENCE/SHAPING_ENERGY_MONTAGE.png",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/Executable.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/README.md",
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/SOURCES/REGISTER.md",
+    "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md"
+  ],
+  "resolved_reconciliations": [
+    "Personal/internal versus shared/Card-relative external scope",
+    "Explicit vaelum correction supersedes stale Workshop 03 identity question",
+    "Author-directed proposed world-local goal retains mechanics OPEN"
+  ],
+  "unresolved_destructive_conflicts": [],
+  "remaining_open": [
+    "Ordinary coupling, controls, range, damage, reconfiguration, one-part distinction, fatigue, handoff and invention timing",
+    "Natural sigil grammar, formation, visibility, boundary, levitation and water mechanisms",
+    "Environmental depth/coherence/coverage/handoff/recovery laws",
+    "Bond perception, learning-rate and complete Dragon taxonomy; party logistics",
+    "Proposed rescue placement, roster and outcome",
+    "Planet-local stabilization method, final conflict and effects on existing/future eldris; uncommitted starscape future",
+    "Arc 2 first customer, dialogue/map details; unrelated inherited questions"
+  ],
+  "literal_transcript_complete": false,
+  "mechanical_validation_limit": "Hashes/rows/fragments lock the manually reviewed artifact; they do not independently prove semantic interpretation or authenticate an unseen conversation."
+}

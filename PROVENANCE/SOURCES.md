@@ -1,3 +1,19 @@
+> **Live Model 009B current authority — 2026-10-22:** Registers the corrected attachment identity, exact source preservation and honest evidence scope. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+The supplied filename is **MK163_LIVE_MODEL_009B_TERMINOLOGY_CORRECTED_CODEX.zip**; its manifest identifies **MK163_LIVE_MODEL_009B_AUDITED_CODEX** with the explicit terminology correction. SHA-256 `fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4`. All 15 members are retained exactly in [the noncolliding 009B source folder](WORKSHOP/LIVE_MODEL_009B/INTEGRATION_INDEX.md); every one of 14 manifest hashes passed.
+
+The source ledger records all five full workshop files, selected author-attributed excerpts, 36 topics, 19 decision rows and source/status limits. [The correction record](LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) documents the stale Workshop 03 question, explicit vaelum correction and prior authority boundaries. No unavailable raw transcript, image or full upstream corpus is claimed.
+
+Complete supplied evidence: [decision ledger](WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md); [selected author excerpts](WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Registers the exact new decision evidence and its scope without duplicating previous checkpoints. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

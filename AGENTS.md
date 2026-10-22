@@ -1,3 +1,19 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds scoped 009B operating guards and current coverage without weakening preservation or retirement. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+For this scope read [009B corrections](PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md), [36-topic coverage](CHECKPOINTS/LIVE_MODEL_009B_COVERAGE.md) and the current owners. Ordinary Temporary Transduction Systems use an external Card-relative frame; personal internal topology remains in its scope. No basin-exclusivity bypass, special Black Card resurrection, sixth-stage replacement or automatic native intervention through occupied basins.
+
+Use protected vaelum and ru’ne; the supplied stale institution question is resolved by the explicit correction. Preserve all original excerpts as evidence, including dictation errors, and never claim complete literal transcript recovery. Natural sigils, physical inscriptions and velis have distinct scopes. Kaira's affinity/endurance is extraordinary but mastery develops; bonds retain agency. Blue-zone rescue, floating islands, turrets and staffing counts are illustrative/proposed. No new Arc 2 scene, prototype, completed robe or deep expedition. The world-local ending is an author direction with implementation OPEN; starscape-wide completion is not a seven-book requirement.
+
+Complete supplied evidence: [decision ledger](PROVENANCE/WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md); [selected author excerpts](PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Updates execution guidance to the explicit 009 author decision without weakening preservation. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

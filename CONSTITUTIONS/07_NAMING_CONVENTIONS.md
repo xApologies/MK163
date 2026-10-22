@@ -1,3 +1,19 @@
+> **Live Model 009B current authority — 2026-10-22:** Confirms protected vaelum and ru’ne terminology and closes only the superseded transcription identity question. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+The author explicitly confirms **vaelum** (V-A-E-L-U-M), the existing protected organization term. The earlier voice-transcription identity question is **RESOLVED**, not a second organization. Use lowercase vaelum in active prose and contextual source commentary; retain mistaken literal dictation only within clearly labeled historical evidence. The stale question in supplied Workshop 03 is superseded by [the explicit correction](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/TERMINOLOGY_CORRECTION_009B.md).
+
+Also preserve **Kaira, ru’ne, sigil, aithren, helkir, maege/maegi, Vaelith, eldris, raeon, abecca, aen, Ain and velis**. The aen/Ain distinction remains. No guild, alias, character or new terminology is inferred from erroneous quoted transcription. Original source quotations remain literal; active language follows these corrected spellings.
+
+Complete supplied evidence: [decision ledger](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md); [selected author excerpts](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 006 current authority — 2026-10-19:** Adds author pronunciation and forbids blanket Ain→aen normalization. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

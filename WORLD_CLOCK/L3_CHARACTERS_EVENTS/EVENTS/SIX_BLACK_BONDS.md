@@ -1,3 +1,33 @@
+> **Live Model 009B current authority — 2026-10-22:** Adds realm-specific perception and independent mentorship while preserving every existing bond and prophecy mapping. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Preexisting affinity, altered intuition and acquired mastery
+
+Kaira's Black Singularity identity carries extraordinary **preexisting native Genesis Transduction affinity**. Each exceptional identity bond lets her realize a corresponding realm-specific expression and **changes or expands intuitive perception/understanding of its field relationships**. This is more than a spell list or generic access grant. It does not imply current full sixfold access or instant mastery: earlier eventual-access language concerns realization/progression, not newly manufactured affinity. Exact mathematical mapping, biological/neural change, cognitive interface, data transfer and learning-rate multiplier are **deliberately unselected**.
+
+Access, altered intuition and practiced mastery remain different. Denizens possess realm-native embodied understanding that can exceed centuries of human formal scholarship; the physicist-explaining-flight versus falcon-flying analogy illustrates this distinction, not a claim each denizen is a conventional classroom professor. Companions demonstrate, mentor and share experience; direct sharing mechanics are OPEN. Learning can be reciprocal as Kaira's human mathematical/Cardsmith education gives formal expression to their intuitions.
+
+### Independent companions and existing chronology
+
+The exact **six-bond book/realm order, forms, prophecy mappings, agency and conventional Binding incompatibility below remain unchanged**. Nyx remains separate; by Violet Kaira, Nyx and six independent Black companions form the existing eight-person/being party scope. Companions have opinions and expertise, not equipment status or six internalized powers.
+
+Working associations discussed are Sprite/Green possibility-realization; Vaelith/Orange coherence-decoherence; Dragon/Red the six operational Transduction domains, with dimensional geometry, chirality and Genesis expression as partial examples; Unicorn/Violet spatial/topological relationships; Primordial/Yellow organization/transformation; Leviathan/Blue duration/continuation. These do not remap books or supply a complete new Dragon taxonomy. Existing framework domain definitions remain at their owner. Suggested Dragon frontline/tank, Vaelith healing and Sprite imaginative roles are possibilities, not an exclusive locked party allocation overriding prior Primordial/Nyx roles.
+
+### Unconventional education and bounded extraordinary potential
+
+Humans may spend decades or centuries developing native manifold skill across accumulated generations. Kaira's unusual affinity and direct mentors can accelerate experiential learning dramatically through exploration, conversations, demonstrations and shared years, **without eliminating practice**. No exact acceleration is selected. [Blackstone](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md) retains formal human Cardsmith education in Red Arc IV; native realm learning does not require a new formal school arc for every bond.
+
+Her intended potential is **eventually universal across admissible Shapings**, not merely an ordinary generalist's breadth. Knowledge, concept, manifold competency, throughput, resources and fatigue still govern realization. Some mastery may take centuries, millennia or eons beyond the saga. Exceptional sustained capacity is innate/gradually realized, not infinite energy or full present mastery. [The character owner](../CHARACTERS/KAIRA.md) distinguishes capacities from future scenarios. Black bonds remain relationships/native expression, not ordinary installations or Card components. LIVE_MODEL_009 retirement remains active; no new Card-bond coupling or occupancy bypass is supplied.
+
+Complete supplied evidence: [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Corrects stale Card-navigation references only; all bond facts and original bytes remain intact. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

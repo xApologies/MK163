@@ -1,3 +1,19 @@
+> **Live Model 009B current authority — 2026-10-22:** Keeps Arc IV human Cardsmith schooling and distinguishes ongoing realm-native experiential mentorship. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+**Red Arc IV formal Cardsmith education remains.** The Institution of Knowledge provides Kaira's human-engineered mathematical/Cardsmith training; ordinary Genesis Cards are human technology rather than automatic denizen abilities. This does not remove the institution's broader existing curriculum or professions.
+
+Her [realm-native education](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) develops through independent Black companions, observation, demonstrations and shared adventures, avoiding repeated formal school arcs for each realm. Human theory and denizen intuition can inform each other. No precise learning-rate law, timetable, new curriculum, class roster or complete school story is authored. First modular ordinary-Card invention is future and unplaced. The required Arc V Black Card manufacture remains retired.
+
+Complete supplied evidence: [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Retains education and institution while removing the retired special-Card dependency. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession

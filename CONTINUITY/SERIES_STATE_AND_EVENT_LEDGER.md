@@ -1,3 +1,25 @@
+> **Live Model 009B current authority — 2026-10-22:** Records selected future directions and proposed scenarios without converting them into completed chronology. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+| Stable state/direction ID | 009B status | Owning boundary |
+|---|---|---|
+| KAIRA-SHIRT-DUNGEON-OUTREACH | Existing Arc 2 approach; no first customer | Completed shirt/backpack/fruit, incomplete robe; [Arc 2](../BOOKS/RED/ARCS/ARC_002/ARC.md) |
+| KAIRA-TEMPORARY-TRANSDUCTION-SYSTEMS | AUTHOR SELECTED future professional contribution; implementation/chronology OPEN | Ordinary Cards; no current prototype or special Black class. [Card owner](../WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md) |
+| KAIRA-BOND-INTUITIVE-EDUCATION | AUTHOR SELECTED progression principle | Existing six-bond order unchanged; no instant knowledge download. [Bond owner](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) |
+| KAIRA-BLUE-RESEARCH-RESCUE | PROPOSED scenario only | After Vaelith learning in the example; no book/chapter, roster or outcome. [Expedition owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) |
+| KAIRA-WORLD-LOCAL-STABILIZATION | Author-directed proposed saga horizon; method/final conflict OPEN | Planet-local, not required starscape-wide completion. [Series owner](../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) |
+
+These are planning statuses, not assertions that events occurred. Arc IV education remains; the retired first Black Card/realm-card states stay retired. No dates, completed scenes, new possessions, party reassignment, chapter count or mushroom use is supplied.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
 > **Live Model 009 current authority — 2026-10-22:** Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
 
 ## Live Model 009 — focused supersession
