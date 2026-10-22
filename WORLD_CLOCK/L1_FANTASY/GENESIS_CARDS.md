@@ -1,3 +1,31 @@
+> **Live Model 009 current authority — 2026-10-22:** Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+### Active Card mechanics
+
+**Active MK163 has ordinary Genesis Cards only.** Kaira may use, collect, trade, modify and craft ordinary Genesis Cards; her Cardsmithing profession remains. Her existing Fireball and Metal Manipulation use and their established competency limits remain. No replacement Card, ability or subclass is created.
+
+**RETIRED / SUPERSEDED:** the special Black Genesis Card subclass; six realm-specific universal Card manifold anchors; full-six/six-card Neon coupling and partial-set engineering; the Black-card intelligence framework; special Neon Card activation, mixed Black/ordinary occupancy and exceptional active-card limits; and mandated Armor of the Abyss, CSR, Orbs, Halo or Domain as Card powers. These are no longer active MK163 mechanics or engineering tasks. They remain historical sources and optional legacy inspirations, with no automatic conversion into ordinary Cards or native Shapings. Armor requires new explicit author approval before any future Shaping adoption.
+
+### Ordinary operation and retained boundaries
+
+The complete ordinary Card rules below remain active: encoded maege-glass geometry, personal activation/coupling, energy drawn through the Card, practitioner skill and physiological fatigue. Every required basin is exclusive across interfaces while its Card is active; inactive Cards reserve none. Six simultaneous ordinary Cards is only the theoretical case of six disjoint single-basin sets, not guaranteed endurance. aen does not boost Card conduits or use occupied basins. Native same-basin concurrency remains possible subject to capacity; **activating an ordinary Card against an already-running conflicting native Shaping remains OPEN**. No new cancellation or priority rule is selected.
+
+The 008 prepared-geometry/operator distinction remains: the practitioner controls energy loading, distribution, throughput, timing, efficiency, conscious collapse and reloading. [The unchanged lifecycle owner](TRANSDUCTION_LIFECYCLE.md) retains internally anchored ordinarily invisible topology, possible external spatial support, potentially visible organized/residual energy and reusable scaffolds. Conceive → Shape → Hold → Resolve → Manifest → Release is unchanged, as are fatigue and existing ordinary operation qualifications below.
+
+Three personal interfaces remain native Genesis expression, conventional Binding Circles and ordinary Genesis Cards. Kaira's conventional installation incompatibility and [six independent Black denizen bonds](../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) remain; exceptional identity bonds are not ordinary installed Bindings. Black Singularity and unified Neon belong to her Black identity and relationships, not an engineered special Card class. Bond progression and advanced native expression do not acquire new powers, equations or unlimited output through this retirement.
+
+[Series planning](../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) keeps Red Arc IV formal Cardsmith education and retires the mandatory Arc V first Black Card milestone. Arc V activity, a first original ordinary Card (if any), and black mushroom use remain OPEN. [LM008-C01](../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) is closed as an active design obligation, not resolved by choosing Armor or a first Green Card.
+
+Source: [009 author decision](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Records the developing realm-anchor design and its unresolved legacy event, preserving ordinary occupancy and source boundaries. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

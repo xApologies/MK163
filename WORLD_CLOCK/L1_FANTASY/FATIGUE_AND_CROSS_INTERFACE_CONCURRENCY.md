@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+Special Black Card mixed occupancy, exceptional active-card limits, six-card coupling and their engineering/fatigue questions are **RETIRED / SUPERSEDED** under [the current Card owner](GENESIS_CARDS.md). The 008 opening paragraph below no longer defines active exceptional-card constraints.
+
+Ordinary Card basin exclusivity, physiological fatigue across interfaces, installed Binding bandwidth, aen throughput and native skill/endurance remain unchanged in the full record. **Activating an ordinary Card after a conflicting native Shaping is already running remains OPEN**; no priority, cancellation or bypass is introduced. Retirement grants no extra energy access or new endurance rule.
+
+Source: [009 author decision](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Retains occupancy and endurance constraints while explicitly flagging unresolved Black/ordinary concurrency. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

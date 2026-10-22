@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Annotates the previous correction register so retired directions cannot masquerade as active authority. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+This 008 record remains historical provenance. Its realm-card design, mandatory Arc V Card event, Armor/Green selection obligation and exceptional Card engineering/occupancy questions are **RETIRED / SUPERSEDED** by [009](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md). They no longer govern as selected or OPEN active design work.
+
+All unrelated 008 corrections remain, including internal/invisible manifolds, visible organized/residual energy, operator control/reuse, six stages, staging/outreach detail, terminology, visual/source limits and the source-history discrepancy. Arc IV education remains; mushroom use is independently OPEN rather than bound to Armor fabrication. No original byte below is removed or revised.
+
+Source: [009 author decision](WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 # Live Model 008 — corrections, supersessions and source boundaries
 
 Baseline/current-main comparison: efdec25d50767ce3d0690fdeb479c257cacca0e9, clean existing main. All 13 MANIFEST records validate by SHA-256 and byte size; all 14 supplied members, including MANIFEST itself and the unedited PNG, are preserved exactly under WORKSHOP/LIVE_MODEL_008. Archive SHA-256: a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923.

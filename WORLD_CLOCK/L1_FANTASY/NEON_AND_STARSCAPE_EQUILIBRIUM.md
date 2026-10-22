@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Severs only the retired Card association; preserves all Neon cosmology and Black relationships. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+The 008 Card-specific realm-anchor association and mixed exceptional-card engineering questions below are **RETIRED / SUPERSEDED**. They do not govern Neon cosmology.
+
+Black Singularity and **unified Neon** remain features of Kaira's Black identity and exceptional relationships with the six independent Black denizens, not a special engineered Card class. The full existing cosmology below—including six reference landmarks, bounded coordinates, White superposition, Starscape equilibrium and the working Yellow coordinate—remains unchanged. Advanced native Neon expression and limits stay OPEN; no new equation, basin, power or occupancy exception is added. [The bond owner](../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) retains independent agency and native realm expression.
+
+Source: [009 author decision](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Separates the new realm-anchor design vocabulary from new basins or invented Neon mathematics. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

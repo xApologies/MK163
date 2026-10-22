@@ -1,3 +1,28 @@
+> **Live Model 009 current authority — 2026-10-22:** Closes special-Card questions as retired and preserves ordinary occupancy, native development and narrative open matters. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+### Retired questions — not active engineering work
+
+**RETIRED / SUPERSEDED:** special Black Card architecture and realm-card scopes, universal Card anchors, full-six or partial-set Card coupling, Black-card intelligence, special Neon Card activation, mixed Black/ordinary occupancy and combined exceptional-card counting. The Armor/Green first-card identity dispute and requirement to reconcile the old mushroom-assisted Armor manufacture are closed as active design obligations. Neither variant is selected. The literal old question text remains below for provenance.
+
+### Still OPEN
+
+- Exact future Arc V activities; Kaira's first original ordinary Card **if any**; the special black mushroom's future use, without a new consumption event or recipe.
+- Advanced native Neon expression and limits, and detailed Black bond progression. Relationships and independent agency remain; no invented powers or mathematics.
+- **Ordinary Card activation against an already-running conflicting native Shaping**, including cancellation/priority procedure. Existing ordinary basin exclusivity and fatigue remain unchanged; retiring exceptional Cards does not answer this ordinary interaction question.
+- All unrelated unresolved matters in current topic owners, including school details beyond Arc IV placement, later arc development, calendar discrepancies, precise craft/manifold parameters and missing historical sources.
+
+[Cards](../WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md) and [series planning](../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) own the active changes. Arc IV formal Cardsmith education is retained, not reopened by older unassigned-attendance wording. No retired special-Card question is silently relabeled as a new native power or ordinary Card invention.
+
+Source: [009 author decision](WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Separates new author directions from remaining implementation and chronology questions. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

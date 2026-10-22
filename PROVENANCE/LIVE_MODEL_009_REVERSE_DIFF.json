@@ -1,0 +1,1802 @@
+{
+  "checkpoint": "LIVE_MODEL_009",
+  "baseline_commit": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+  "method": "Focused source-to-repository semantic supersession. Reviewed all eight target rows, actual active dependency mentions and each current replacement. Automated checks verify reviewed exact content/status guards; text matching alone does not prove semantic correctness.",
+  "rows": [
+    {
+      "id": "LM009-R01",
+      "supplied_row": {
+        "Source path": "`WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md`",
+        "008 active text to reconcile": "“six Black Neon Genesis Cards”, each persistent realm universal anchor; full-six coupling; mixed Black occupancy open",
+        "009 intended state": "Explicitly superseded in active authority; retain historic bytes and ordinary Card rules"
+      },
+      "before_semantic_assessment": "008 developed a special realm-anchor class; ordinary Card rules already existed.",
+      "disposition": "RETIRED_SPECIAL_CLASS_ORDINARY_RETAINED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "after_required_fragments": [
+        "Active MK163 has ordinary Genesis Cards only",
+        "six-card Neon coupling",
+        "no automatic conversion",
+        "physiological fatigue"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R02",
+      "supplied_row": {
+        "Source path": "`WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md`",
+        "008 active text to reconcile": "Arc IV Cardsmith education and Arc V first major original Black Card",
+        "009 intended state": "Keep Arc IV education; Arc V Black Card milestone retired; no substitute plot"
+      },
+      "before_semantic_assessment": "008 kept education in Arc IV and first major original Black Card in Arc V as scoped constraints.",
+      "disposition": "KEEP_ARC_IV_RETIRE_ONLY_SPECIAL_ARC_V_MILESTONE",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "after_required_fragments": [
+        "Red Arc IV",
+        "does not cancel all Arc V events",
+        "if any",
+        "OPEN"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R03",
+      "supplied_row": {
+        "Source path": "`PROVENANCE/OPEN_QUESTIONS_CURRENT.md`",
+        "008 active text to reconcile": "Full-six anchors, Armor/Green conflict, mixed exceptional Card occupancy",
+        "009 intended state": "Close as retired special-Card questions; preserve ordinary occupancy open"
+      },
+      "before_semantic_assessment": "Current questions included exceptional overlap/coupling and a separate ordinary Card/native activation question.",
+      "disposition": "RETIRE_SPECIAL_QUESTIONS_KEEP_ORDINARY_OPEN",
+      "after_owner_paths": [
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "after_required_fragments": [
+        "RETIRED / SUPERSEDED",
+        "already-running conflicting native Shaping",
+        "Still OPEN"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R04",
+      "supplied_row": {
+        "Source path": "`PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md`",
+        "008 active text to reconcile": "Armor/Green unresolved active conflict",
+        "009 intended state": "Add supersession note: no active need to select either; keep source record intact"
+      },
+      "before_semantic_assessment": "LM008-C01 was actively OPEN, preserving both candidate designs and MK727 history.",
+      "disposition": "CLOSED_BY_RETIREMENT_NEITHER_VARIANT_SELECTED",
+      "after_owner_paths": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "after_required_fragments": [
+        "CLOSED AS AN ACTIVE DESIGN OBLIGATION",
+        "Neither Armor of the Abyss nor a first Green Black Card",
+        "optional legacy inspirations"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R05",
+      "supplied_row": {
+        "Source path": "`WORLD_CLOCK/CURRENT_MODEL_INDEX.md`, `CONTINUITY/*`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md`, any other active owner",
+        "008 active text to reconcile": "May refer to legacy Black Card plans",
+        "009 intended state": "Audit, update only actual governing mentions, preserve unrelated text"
+      },
+      "before_semantic_assessment": "Actual governing references found in these owners; older source-only links and explicit exclusions require no edits.",
+      "disposition": "SCOPED_NAVIGATION_AND_DEPENDENCIES_RECONCILED",
+      "after_owner_paths": [
+        "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+        "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "AGENTS.md",
+        "PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md",
+        "PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md"
+      ],
+      "after_required_fragments": [
+        "RETIRED / SUPERSEDED",
+        "KAIRA-FIRST-MAJOR-BLACK-CARD",
+        "KAIRA-SIX-REALM-CARD-ANCHORS"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R06",
+      "supplied_row": {
+        "Source path": "`WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md`, `WORLD_CLOCK/L1_FANTASY/PROPHECIES/*`",
+        "008 active text to reconcile": "Six bonds, realm correspondence, Black Prophecy",
+        "009 intended state": "Preserve unchanged, except navigational note if strictly necessary"
+      },
+      "before_semantic_assessment": "Six-bond facts, prophecy correspondences and cosmology already established; stale 008 navigation refers to special Cards.",
+      "disposition": "BOND_AND_COSMOLOGY_FACTS_PRESERVED_NAVIGATION_ONLY",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md"
+      ],
+      "after_required_fragments": [
+        "Navigation-only correction",
+        "not ordinary installed Bindings",
+        "unified Neon",
+        "cosmology below"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R07",
+      "supplied_row": {
+        "Source path": "`WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md`, `WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md`",
+        "008 active text to reconcile": "Internal manifolds and staging design",
+        "009 intended state": "Preserve unchanged"
+      },
+      "before_semantic_assessment": "008 manifold lifecycle, energy visibility, staging and Arc 2 event content are unrelated to retirement.",
+      "disposition": "UNCHANGED_MECHANICS_AND_SETTING_SCOPED_ARC_NOTE_ONLY",
+      "after_owner_paths": [
+        "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+        "BOOKS/RED/ARCS/ARC_002/ARC.md"
+      ],
+      "after_required_fragments": [
+        "Conceive → Shape → Hold → Resolve → Manifest → Release",
+        "loaded/organized energy",
+        "2×2-mile working footprint",
+        "Every Arc 2 event"
+      ],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    },
+    {
+      "id": "LM009-R08",
+      "supplied_row": {
+        "Source path": "`PROVENANCE/WORKSHOP/LIVE_MODEL_008/*` and previous checkpoints",
+        "008 active text to reconcile": "Historical semantic evidence",
+        "009 intended state": "Preserve byte-identical"
+      },
+      "before_semantic_assessment": "Prior workshop/image/checkpoints already preserved in the baseline; never replay old instructions.",
+      "disposition": "ALL_HISTORY_BYTE_IDENTICAL",
+      "after_owner_paths": [],
+      "after_required_fragments": [],
+      "source_files": [
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+        "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+      ],
+      "destructive_conflict": false
+    }
+  ],
+  "decisions": [
+    {
+      "id": "LM009-D01",
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "status": "RETIRED_SPECIAL_CLASS",
+      "fragments": [
+        "ordinary Genesis Cards only",
+        "RETIRED / SUPERSEDED",
+        "special Black Genesis Card subclass",
+        "six-card Neon coupling",
+        "Black-card intelligence"
+      ]
+    },
+    {
+      "id": "LM009-D02",
+      "owners": [
+        "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "status": "KEEP_EDUCATION_RETIRE_BLACK_CARD_MILESTONE",
+      "fragments": [
+        "Red Arc IV",
+        "Red Arc V",
+        "does not cancel all Arc V events",
+        "No substitute milestone"
+      ]
+    },
+    {
+      "id": "LM009-D03",
+      "owners": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md"
+      ],
+      "status": "CLOSED_BY_RETIREMENT",
+      "fragments": [
+        "CLOSED AS AN ACTIVE DESIGN OBLIGATION",
+        "Neither Armor of the Abyss nor a first Green Black Card"
+      ]
+    },
+    {
+      "id": "LM009-D04",
+      "owners": [
+        "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+      ],
+      "status": "LEGACY_INSPIRATION_ONLY",
+      "fragments": [
+        "optional legacy inspirations",
+        "new explicit author approval",
+        "no automatic conversion"
+      ]
+    },
+    {
+      "id": "LM009-D05",
+      "owners": [
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "status": "ORDINARY_INTERFACES_AND_CRAFT_RETAINED",
+      "fragments": [
+        "Fireball and Metal Manipulation",
+        "three personal interfaces",
+        "physiological fatigue",
+        "already-running conflicting native Shaping"
+      ]
+    },
+    {
+      "id": "LM009-D06",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+        "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+      ],
+      "status": "BONDS_PROPHECIES_NEON_RETAINED",
+      "fragments": [
+        "independent agency",
+        "not ordinary installed Bindings",
+        "Black Singularity",
+        "unified Neon"
+      ]
+    },
+    {
+      "id": "LM009-D07",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_002/ARC.md",
+        "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+        "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md"
+      ],
+      "status": "UNRELATED_008_DECISIONS_RETAINED",
+      "fragments": [
+        "Every Arc 2 event",
+        "Conceive → Shape → Hold → Resolve → Manifest → Release",
+        "ordinary Card basin exclusivity"
+      ]
+    },
+    {
+      "id": "LM009-D08",
+      "owners": [
+        "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+        "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md"
+      ],
+      "status": "OPEN_PARAMETERS_NOT_INVENTED",
+      "fragments": [
+        "if any",
+        "black mushroom",
+        "Advanced native Neon",
+        "detailed Black bond progression"
+      ]
+    }
+  ],
+  "protected_byte_identical_paths": [
+    "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+    "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+    "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+    "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+    "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "BOOKS/RED/ARCS/ARC_003/ARC.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md"
+  ],
+  "search_scope": {
+    "roots": [
+      "WORLD_CLOCK",
+      "BOOKS",
+      "CONTINUITY",
+      "CONSTITUTIONS"
+    ],
+    "extra_paths": [
+      "AGENTS.md",
+      "README.md"
+    ],
+    "excluded_source_directories": [
+      "SOURCE_API_4_3",
+      "MANUSCRIPTS"
+    ],
+    "pattern": "Black(?:[- _]+(?:Genesis|Neon))*[- _]+Cards?|six[- ]card|realm[- ]anchor|Black realm|Armor of the Abyss|Arc (?:IV|V)\\b|Neon|universal[- ](?:Card[- ])?manifold|sixfold",
+    "scanned_markdown_files": 151
+  },
+  "surviving_mentions": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "104cfb4a64d844e0b9594d7a8e19c6edf73381f2f1cdf1adaad5d6d3af437ecc",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "BLACK_CARD",
+            "Black Cards",
+            "Arc V",
+            "Black Card",
+            "realm-anchor"
+          ],
+          "line_sha256": "7357fafd4989f035c905f8457583f7f1119ed763b0f79301cfe0d40d4804aacb",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "Arc IV",
+            "Neon",
+            "Arc V",
+            "Neon"
+          ],
+          "line_sha256": "7c85b44a5aff11fdd27cc7f8c6aeaa5299bd04be26354d781245cf8c24c31608",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "d144be1995f2a8f6c14fcb3e98f311180335e654cf656b681fb3399eeef54b10",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "BLACK_CARD",
+            "Black realm",
+            "Arc IV"
+          ],
+          "line_sha256": "ab67beb32a7ee1f8424d84175f5bfec33a480af6b02bfa7ba1fcc2d62c0c2a23",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation."
+        }
+      ]
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+      "sha256": "26cd0c2a4563e0463ee0d7b68c575083074d56e0095d1d32548f533173d549bb",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "Black realm"
+          ],
+          "line_sha256": "b0a1d83e3ec50e37e709064809c922ac6596357d588faa65b2987c8c06ba7dbb",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires the single future-special-Card reference without changing Arc 2 decisions."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "9e7769a51ac95080061ba9658ecd266703a2c4c2d41d74e403a29da0b5b14fde",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires the single future-special-Card reference without changing Arc 2 decisions."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires the single future-special-Card reference without changing Arc 2 decisions."
+        },
+        {
+          "line": 27,
+          "matched_terms": [
+            "Black realm"
+          ],
+          "line_sha256": "12e772bdea6dda06f86c583ad1ad54208e7c5d309e05d705b92374b0fcf074bf",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires the single future-special-Card reference without changing Arc 2 decisions."
+        }
+      ]
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_003/ARC.md",
+      "sha256": "2b396a457fe7c37d2adc89fcd4a9a63a49ebea4b7335978968948fbdfecb9ec0",
+      "matches": [
+        {
+          "line": 3,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "4dfd0c3c16491a3702452e157e7287b5a5a68f00f1a5cd1bd3ba8598c68f2129",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Black Sprite Neon appearance and exceptional identity bond; no Card architecture."
+        }
+      ]
+    },
+    {
+      "path": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "sha256": "1caf63c329e07a483fdd252f3f5c716233591be51755bbac56ee6ff5ae6bdb24",
+      "matches": [
+        {
+          "line": 1,
+          "matched_terms": [
+            "Arc IV"
+          ],
+          "line_sha256": "2878132a1e0f4c76e1588943d837f74df3d550e99ad040ae9ff71ec57ccbdd2e",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "Arc IV"
+          ],
+          "line_sha256": "40731f377f34a29c011d45e49de10ccef18c7441ecd6b7c3ad7545ba4e47ad07",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 8,
+          "matched_terms": [
+            "BLACK-CARD",
+            "Arc V",
+            "Black Card"
+          ],
+          "line_sha256": "9a8e031f5c833a6bbe5f7c9023d40895e51b7505e03695181272c35d7c1ccc51",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "sixfold"
+          ],
+          "line_sha256": "dd3cb1c6a62a22518f82730e7bd0e5ddea75534316ce74b13c2afb115c81a331",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 11,
+          "matched_terms": [
+            "Arc V"
+          ],
+          "line_sha256": "1e991f47e5df63630bccdb1cad7fd9d7c14dea8273a415a8a0c876926c9af8c5",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 13,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "90b68694f886a1ba3eeafd4a6862f02d8b3879c103c41eae8d59dd67e0688353",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 19,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 29,
+          "matched_terms": [
+            "Arc IV"
+          ],
+          "line_sha256": "a3b5ff7dd68404b4093fc112e4f2dc44e0768e709d56f2e6ccfd36761dbe6c47",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 30,
+          "matched_terms": [
+            "BLACK-CARD",
+            "Arc V",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "0c75f9834f6646b4d6ce9de54e6ec31ff574511a360db3c49bcd9339599f151b",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        },
+        {
+          "line": 31,
+          "matched_terms": [
+            "realm anchor"
+          ],
+          "line_sha256": "c016231c4ec01d66cead61d0d76d64d747233a1329fb46a7daacc9df5abf26fb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "sha256": "4326544c8aef7c4669534cd5ed6ac403c6a8a865c6fc9124ce01b1982d3e1be5",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "Black Card",
+            "BLACK_CARD",
+            "Black Card",
+            "realm-anchor"
+          ],
+          "line_sha256": "fa39ce8851c03e501a28d52de99d1e2e33abc69a449382fcc08dc94cc43cfef9",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 8,
+          "matched_terms": [
+            "Arc IV",
+            "Arc V",
+            "Black Card"
+          ],
+          "line_sha256": "94ec7fb70e806f29de2bc649e4cf6f8101fac4921097a14b159c53ad2786ea63",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 10,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "0fb153de7c3bbe52798e62dfa4dc7d49f653f8cad8ea23522f1c303d3f68b969",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 16,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "90b68694f886a1ba3eeafd4a6862f02d8b3879c103c41eae8d59dd67e0688353",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 22,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 28,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "bef15f8e667f530f6df76e65d5762f93c9e838fc5a47e529f343a2b5ccddbce6",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        },
+        {
+          "line": 141,
+          "matched_terms": [
+            "Neon",
+            "NEON"
+          ],
+          "line_sha256": "2b209cee4a4a857a7c7ec8c198348701fb4425e649b3b50b9e770a9b7a762c19",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+      "sha256": "4fa7dcce897ef298f0f8b2ee51fa1d314d89cdb6b46d06fc5a563cff097e1b3a",
+      "matches": [
+        {
+          "line": 7,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "6bad56d30aa582a6620f1c4b75c44e5741a2cdf44e01981882c2b59ad2366a31",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Historical evidence link only; no active special Card mechanic."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+      "sha256": "4c5dccf5b49b507756c5311e019089135c69b02e39af555816d14f0fe1a84171",
+      "matches": [
+        {
+          "line": 7,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "6bad56d30aa582a6620f1c4b75c44e5741a2cdf44e01981882c2b59ad2366a31",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Historical evidence link only; no active special Card mechanic."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+      "sha256": "e043787f7db222438b78bff8b89d50b357f998f657d576e9e4916dbcca4752d3",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "Black Card",
+            "six-card"
+          ],
+          "line_sha256": "3a8a58e40e7ff94c9d1f3047a5d448f96f520b969eb864cb502573817f075ee9",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "53212b9a5ed194e8c960c774925b20634e04fea15eb6ea37df1217148f10ed28",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "Black realm",
+            "Neon"
+          ],
+          "line_sha256": "7e96190d0f62608a21b37c677802aa2313daabc92facda866dbae08df5cdeb13",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact."
+        },
+        {
+          "line": 23,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "6bad56d30aa582a6620f1c4b75c44e5741a2cdf44e01981882c2b59ad2366a31",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+      "sha256": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+      "matches": [
+        {
+          "line": 1,
+          "matched_terms": [
+            "Black Cards"
+          ],
+          "line_sha256": "143690a26a70e96a18dedb36b819ea8ab5a18ddeb915636ac50f4245bc1a01aa",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "Black Genesis Card",
+            "universal Card manifold",
+            "six-card",
+            "Neon",
+            "Black-card",
+            "Neon",
+            "Armor of the Abyss"
+          ],
+          "line_sha256": "2d044a40067a5743c7cb3854d5bffb128b977f58517b12475deeeccb142f9bbc",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 17,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "30b25154648633736674f5ec3356b36d749cb0f34bec3879da7d5b72b267798f",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 19,
+          "matched_terms": [
+            "Arc IV",
+            "Arc V",
+            "Black Card",
+            "Arc V",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "405b04829898a91d3da353cd7c4b57ac99b85ff370ce57eaffac776232e470a8",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "53212b9a5ed194e8c960c774925b20634e04fea15eb6ea37df1217148f10ed28",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 27,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 29,
+          "matched_terms": [
+            "realm-anchor"
+          ],
+          "line_sha256": "05f646333a398c9904e511a18177f3eeda79cdda17e5955a5301a98dd7d04b8e",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 39,
+          "matched_terms": [
+            "Black realm"
+          ],
+          "line_sha256": "6a81cd7cc680c1c3f4ed3a1c8dd25c6e9a1520c9663ab0ea1f66d331fcad7ccd",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 41,
+          "matched_terms": [
+            "Black Neon Genesis Cards",
+            "universal manifold"
+          ],
+          "line_sha256": "d07394ce5a6cc59a53b86965bf25e5eee650b615c902c602e09b59a3fc71b862",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 45,
+          "matched_terms": [
+            "six-card"
+          ],
+          "line_sha256": "52fbe1a4a7929290918e7bb53be7b24971ccf3fb119ffdf1f7d2112bfec7d89e",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 49,
+          "matched_terms": [
+            "six Card",
+            "Neon",
+            "Neon"
+          ],
+          "line_sha256": "a5f5dd3cdaab998ad87926e9f4a3d3b22ea62f5f0af32595bdba3307ac7f267f",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 53,
+          "matched_terms": [
+            "Armor of the Abyss"
+          ],
+          "line_sha256": "c37d9e9cb791caf0e90d162091d4d4cb93dada29769d7d0e0b05f6beaf2e06ee",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 55,
+          "matched_terms": [
+            "BLACK_CARD",
+            "Arc IV",
+            "Arc V",
+            "Arc IV"
+          ],
+          "line_sha256": "87850c0ad166a1fc6ab3904d6c7b663af4fb8696cc1bf0f119deb9636b4cc3d2",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        },
+        {
+          "line": 58,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "0d8ad1047eb47d108ddaafbc66888048934cae9cb7f8d66061d65ef3bc33e8b0",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/LIVE_MODEL_001.md",
+      "sha256": "49466c53e6ee3fe079713c9ff63343b5aa1f8886533648018889fdd599d7ec40",
+      "matches": [
+        {
+          "line": 7,
+          "matched_terms": [
+            "Neon",
+            "neon"
+          ],
+          "line_sha256": "7981a047e37b21cb60070a17277af37956c72e2d7c37a41ca1524a3dd87bf641",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Already labeled historical/incomplete; Neon cosmology unrelated to special Cards."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+      "sha256": "688979bc76122d20fe9a5b1a34fc901bcb20aea64f2cb382571aa681353274d9",
+      "matches": [
+        {
+          "line": 1,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "75e02ec5e6e143a29e62403c7e208e8b0023ffe0c907c3cacd96fd97e471e308",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 5,
+          "matched_terms": [
+            "realm-anchor",
+            "Neon"
+          ],
+          "line_sha256": "fe641c69bac6565ddf546e81743a26bd55c76101bdc91af9934b2e3c6d6a482e",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "Neon",
+            "Neon"
+          ],
+          "line_sha256": "80f17e63cf13b8e8816e8b3a6ce65e9b2dfa7927b2f912a662604cefdaf85e0c",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "53212b9a5ed194e8c960c774925b20634e04fea15eb6ea37df1217148f10ed28",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 17,
+          "matched_terms": [
+            "realm-anchor",
+            "Neon"
+          ],
+          "line_sha256": "e83964c0263253029ea5a497f72f11dc93554069cc8795a5e30c4fb552306c8f",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "Black Card",
+            "Neon",
+            "Neon"
+          ],
+          "line_sha256": "0f61df8c8dd96ba7f910e4f91898f0e6d08195a6c44d6709d61679f4c6369b8b",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 23,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "6bad56d30aa582a6620f1c4b75c44e5741a2cdf44e01981882c2b59ad2366a31",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 29,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "64ab6bec2f992bd24e7578423bc00252152c268bf118f4a5a877c0126a480e86",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 33,
+          "matched_terms": [
+            "NEON"
+          ],
+          "line_sha256": "2e8d884d6d1dadb48252c32b0623d0b8c80c6eb71a41aaf64e0cd2908af1ed34",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 37,
+          "matched_terms": [
+            "Neon",
+            "Neon"
+          ],
+          "line_sha256": "43e0aad2f96329ce0cdb6e55fd240dfdfcd6ec70266215b1ac77b426af93c7fb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 39,
+          "matched_terms": [
+            "Neon",
+            "Neon"
+          ],
+          "line_sha256": "12a7596ac2bbac459edf058a958ddb9755561f217b08d3ad3ff427dec8bce37c",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 49,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 51,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 53,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 55,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "9332b8e3c3dd1128399a6e72cb94bc029b6ede3d3f8c0155626a3a39eda351c6",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 57,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "1d71ab71e27ef16805130edb2c9e2802d775dba163bf4748d91894e224529057",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        },
+        {
+          "line": 61,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "0a5fb4a353ec8091130ca0d8cb7438d6e072c2b5ff867df3a19baefc98edd05a",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+      "sha256": "72f3bfd7ba0c2d9825298fd7cfea55107f44f939247ed521e4c866527e08cfce",
+      "matches": [
+        {
+          "line": 26,
+          "matched_terms": [
+            "sixfold"
+          ],
+          "line_sha256": "6b7cf5702eed627114a3972483cde80a911b8b583f5fbd531f99208c6ca69551",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Sixfold White superposition and prophecies, not Card coupling."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/README.md",
+      "sha256": "d1466594f65913971ee4d04d9e697c264e91f30dd6fe174d1b7270823ed9e9c8",
+      "matches": [
+        {
+          "line": 6,
+          "matched_terms": [
+            "Neon",
+            "NEON"
+          ],
+          "line_sha256": "559be737af9681fec1769a56c5875c8d2d52d3aa2dfd85b3788d635001828a7d",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Navigation to preserved Neon cosmology."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+      "sha256": "c021544761f8104f2ca377248cc8f37e1724dc7c7913b722916c721b4e4ec981",
+      "matches": [
+        {
+          "line": 26,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "16d2069d7b22714d79cfb9ed47e6bdc50ddcecd5556ae9b80318494c85c8d76e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Neon background qualifier and explicit Armor/old-story exclusion; no Card mechanic."
+        },
+        {
+          "line": 30,
+          "matched_terms": [
+            "Armor of the Abyss"
+          ],
+          "line_sha256": "82d70f87bee9571ac497dc2fe393081e5eeeea96e5369f713446ffe6f863e305",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Neon background qualifier and explicit Armor/old-story exclusion; no Card mechanic."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md",
+      "sha256": "e0190d5f5ac47ebe042d8d0d7b8a6ab22e8e93a56cb3cbc787ee1d3b8fff296f",
+      "matches": [
+        {
+          "line": 2,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "d0cbcc61c2d565e86a92fad5d518bd6cea57bde2c1f8334da9dc2f5aca6f10e5",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Denizen morphology/Neon visual reference, unrelated to engineered Cards."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+      "sha256": "e6a1ebbb2e49a660fb63d0758878812e93bfd6a967d4c2f08e8add98cee6f2bb",
+      "matches": [
+        {
+          "line": 51,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Preserved Neon environmental source evidence."
+        },
+        {
+          "line": 53,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 55,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+      "sha256": "618eee0f78ea9b4b02988df24d9c3d4c53d892cd3fad18a4ab4a9002266599e7",
+      "matches": [
+        {
+          "line": 30,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Preserved Neon environmental source evidence."
+        },
+        {
+          "line": 32,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 34,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "sha256": "05cb534f1ad87e5e18704c54eae83f6cdcf4dcd6cb64aee8f357caf55d24781b",
+      "matches": [
+        {
+          "line": 19,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Preserved Neon environmental source evidence."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 23,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+      "sha256": "b8763c6f794df135ab6c5097319f5a278d09f2aed49a036e22885ba236eb5ad4",
+      "matches": [
+        {
+          "line": 7,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "555151b1c9d58a811c519d9dee0092cddb10381a94457900ea62ebd7e7c85325",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Current Starscape/environment Neon and source quotes, unrelated to Cards."
+        },
+        {
+          "line": 19,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Current Starscape/environment Neon and source quotes, unrelated to Cards."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 23,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 25,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "9332b8e3c3dd1128399a6e72cb94bc029b6ede3d3f8c0155626a3a39eda351c6",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Current Starscape/environment Neon and source quotes, unrelated to Cards."
+        },
+        {
+          "line": 27,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "1d71ab71e27ef16805130edb2c9e2802d775dba163bf4748d91894e224529057",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 31,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "0a5fb4a353ec8091130ca0d8cb7438d6e072c2b5ff867df3a19baefc98edd05a",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "sha256": "d4531430fd29b83d7cfb382f490d7be34ab1aa29a0894a7102ce9f67fd12ccaf",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "Arc IV"
+          ],
+          "line_sha256": "79662533f147e1f68f421b5346fe7cf5aabf2470c870335abd7eaf0976d305d2",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retains education and institution while removing the retired special-Card dependency."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "Arc V",
+            "Black Card",
+            "Arc V"
+          ],
+          "line_sha256": "7053fb6f1f9ef2de7921e66dcc1743ed443775eb1d868fef57bd884582ca9a2e",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retains education and institution while removing the retired special-Card dependency."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "7b68e9b9cd4c61f38e4e18c15cbc1416448e93abf104eda4c276d429b17481cd",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Retains education and institution while removing the retired special-Card dependency."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retains education and institution while removing the retired special-Card dependency."
+        },
+        {
+          "line": 21,
+          "matched_terms": [
+            "Arc IV",
+            "Black Card",
+            "Arc V",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "589d6079865314bb7d216d4afe55ad265637e8fb94e748e0e46cb37f134a52e3",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Retains education and institution while removing the retired special-Card dependency."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+      "sha256": "d04bdd6d436fcde057892a43ee3d557eadbacb88c3d5288696b35258f111bdbb",
+      "matches": [
+        {
+          "line": 19,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "76956fdb7a67866fe8307686dc6ca0508f78024110b476197f1771cf6643105a",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Existing Black Sprite Neon expression and source boundary, not a Card mechanic."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "sha256": "da6f170ffd8b273029e95e911a0339a5aa08437503725ff16fcaaba8b54f74cc",
+      "matches": [
+        {
+          "line": 31,
+          "matched_terms": [
+            "Neon"
+          ],
+          "line_sha256": "e1f9ad072a67391268c2fc3943ff0f6761198c782757d2f49df0871bf7a3438e",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Preserved Neon environmental source evidence."
+        },
+        {
+          "line": 33,
+          "matched_terms": [
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon",
+            "neon"
+          ],
+          "line_sha256": "fbcfbf2aee2ea2458e04288a4cf09749112d91fade242459155ac8839444cec8",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        },
+        {
+          "line": 35,
+          "matched_terms": [
+            "neon"
+          ],
+          "line_sha256": "72414d8a093897dc5bbf9bc470c2af60c837d696efb43f4691cf92d818c3d080",
+          "classification": "PRESERVED_SOURCE_QUOTE_OR_HISTORICAL_BANNER",
+          "reason": "Original quoted evidence is unchanged; current scoped authority governs."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "sha256": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64",
+      "matches": [
+        {
+          "line": 7,
+          "matched_terms": [
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "9bafe54403d40eed1b47afad360d373835abf78597a16fa88641dfca6786968f",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "Arc IV",
+            "Arc V"
+          ],
+          "line_sha256": "18e90c74064a461027c4fdb439793bc7dbbde5c3e256aeb2562eff0ddd9935db",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        },
+        {
+          "line": 11,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "7b68e9b9cd4c61f38e4e18c15cbc1416448e93abf104eda4c276d429b17481cd",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        },
+        {
+          "line": 17,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        },
+        {
+          "line": 25,
+          "matched_terms": [
+            "Black Card",
+            "realm-anchor",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "69c6a016d66c74c7885d2dbe2fe1144cd70b6983f3047903ba2940d97a9b0869",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        },
+        {
+          "line": 125,
+          "matched_terms": [
+            "Black Cards"
+          ],
+          "line_sha256": "bb00e683ccd3deccc16e524018c6c3b388a8ba55fc4d30f1507f7a4b93e8bba2",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "sha256": "b4b71c030e7bd2e199e6d802d9cdb59b193a54be3b7f08dc2464dc3b0c9eeb57",
+      "matches": [
+        {
+          "line": 42,
+          "matched_terms": [
+            "Armor of the Abyss"
+          ],
+          "line_sha256": "ef7972cfca701c7d29249fa6480b95c12f35f87a90e8a902e6da1676dd3bcf39",
+          "classification": "UNCHANGED_SOURCE_REFERENCE_EXCLUSION_OR_UNRELATED_CANON",
+          "reason": "Explicit rejection of importing Armor into the first robe; keep unrelated future robe direction."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+      "sha256": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c",
+      "matches": [
+        {
+          "line": 5,
+          "matched_terms": [
+            "Black Card",
+            "realm-anchor",
+            "Arc V"
+          ],
+          "line_sha256": "898e5f40c46d4217724ff3e283e79dcfe2e61c4f5854c4f5c4ee4866af406c54",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "six Card"
+          ],
+          "line_sha256": "d013d2504977f8a7dffae01ed22317f30c2375b9148e890651318f2980d78a16",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "7b68e9b9cd4c61f38e4e18c15cbc1416448e93abf104eda4c276d429b17481cd",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 15,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 23,
+          "matched_terms": [
+            "Black Card",
+            "realm-anchor"
+          ],
+          "line_sha256": "1d6eadae0b47076cef07a669292955877af5edc95f3f2ea182b252ed02a847e9",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 25,
+          "matched_terms": [
+            "BLACK_CARD",
+            "realm-anchor",
+            "Arc IV"
+          ],
+          "line_sha256": "e4675bb031fb5b020868c34432e40e15fdc44759c0803e339428e11d05d1e299",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 28,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "972ef73c2e082b1fa53500d9147d4f0fb5eae1b8ad0877660afde023ae8d0a02",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        },
+        {
+          "line": 36,
+          "matched_terms": [
+            "sixfold"
+          ],
+          "line_sha256": "8b7e2f6e1c8958bb2e3ee2c5b8f37717dc996001151296e304b33041cfca560a",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact."
+        }
+      ]
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "sha256": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8",
+      "matches": [
+        {
+          "line": 1,
+          "matched_terms": [
+            "Arc IV",
+            "Arc V",
+            "Black Card"
+          ],
+          "line_sha256": "9bae779bae7b6145fb8902df7ca6077f4de807f04e8c131e60c96c0cce10899a",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 5,
+          "matched_terms": [
+            "Arc IV"
+          ],
+          "line_sha256": "3de1a8156fc1c2be9f95e3534feb2b92a2cb60f74c0942d577449b8f921215d4",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 7,
+          "matched_terms": [
+            "Black Card",
+            "Arc V",
+            "sixfold",
+            "Armor of the Abyss",
+            "Black Card",
+            "Arc V"
+          ],
+          "line_sha256": "0559e21a4b3635caec84bf558b0849b16bc342a6c5a168d679788a9262c49149",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 9,
+          "matched_terms": [
+            "Arc V",
+            "Arc V",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "7513620d941c303393310b119ce08024506b6a2066f3f87169a65832f741db64",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 13,
+          "matched_terms": [
+            "BLACK_CARD"
+          ],
+          "line_sha256": "53212b9a5ed194e8c960c774925b20634e04fea15eb6ea37df1217148f10ed28",
+          "classification": "CURRENT_EXPLICIT_RETIREMENT_OR_RETAINED_UNRELATED_CANON",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 19,
+          "matched_terms": [
+            "Black Card",
+            "six-card",
+            "Arc V",
+            "Black Card",
+            "Neon"
+          ],
+          "line_sha256": "036a48842f2272481201e20ee805aa59a7936ada4a7ed119dd544cf03b6eb6eb",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 27,
+          "matched_terms": [
+            "Arc IV",
+            "Black Card",
+            "Arc V"
+          ],
+          "line_sha256": "c91fb4e2da621e5b11661446c102e900e7924889f1c0c269a9cb5fd856d7857a",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 29,
+          "matched_terms": [
+            "Armor of the Abyss",
+            "BLACK_CARD",
+            "realm-anchor",
+            "Arc IV"
+          ],
+          "line_sha256": "67e2153688c38212d21e411fcad7af80b0ad2bcd182a995dcf10c7f83e5cd329",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        },
+        {
+          "line": 40,
+          "matched_terms": [
+            "BLACK_CARD",
+            "BLACK_CARD"
+          ],
+          "line_sha256": "0cb80bc7c1704f785065716d427918713905a6fbb3df748e18051cda470075ca",
+          "classification": "SCOPED_HISTORICAL_OR_UNRELATED_RECORD",
+          "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot."
+        }
+      ]
+    }
+  ],
+  "unresolved_active_special_card_mentions": [],
+  "retired_issues": [
+    "LM008-C01 Armor/Green selection",
+    "special Card mixed occupancy/counting",
+    "realm-card anchors/coupling/intelligence",
+    "mandatory Arc V Black Card manufacture"
+  ],
+  "remaining_open": [
+    "Arc V activities",
+    "first original ordinary Card if any",
+    "black mushroom use",
+    "advanced native Neon expression and limits",
+    "detailed Black bond progression",
+    "ordinary Card activation versus running conflicting native Shaping",
+    "unrelated prior open matters"
+  ]
+}

@@ -1,3 +1,23 @@
+> **Live Model 009 current authority — 2026-10-22:** Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+| Existing stable ID | Current 009 status | Scope |
+|---|---|---|
+| KAIRA-BLACKSTONE-EDUCATION | RETAINED — Red Arc IV formal Cardsmith education | No complete school outline or timetable added. |
+| KAIRA-FIRST-MAJOR-BLACK-CARD | RETIRED / SUPERSEDED | No required Arc V Black Card manufacture; neither Armor nor Green variant selected. |
+| KAIRA-SIX-REALM-CARD-ANCHORS | RETIRED / SUPERSEDED | No active realm-card architecture or sixfold Card endpoint. |
+
+The old rows below remain historical and do not impose active obligations. Arc V activities, a first original ordinary Card if any and the special black mushroom's future role remain OPEN. No new consumption, fabrication or replacement plot event is inserted. [Series planning](../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) owns those boundaries. All unrelated existing events—including Arc 2 outreach and robe endpoint, Arc 3 Sprite, six independent bonds, ordinary Card use and Red-ending Ring—remain unchanged.
+
+Source: [009 author decision](../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Records outreach context and later planning constraints while retaining the unresolved first-card conflict. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

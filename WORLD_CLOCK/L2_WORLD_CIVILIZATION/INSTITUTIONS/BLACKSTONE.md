@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Retains education and institution while removing the retired special-Card dependency. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**Red Arc IV formal Cardsmith education remains the author-directed planning constraint.** Kaira's ordinary Cardsmith profession, curriculum scope and institution remain. Course selection, timetable, peers and full school narrative remain OPEN.
+
+The former **Arc V first Black Card** dependency and Armor/Green reconciliation are **RETIRED / SUPERSEDED**, not school graduation or manufacturing requirements. [Series planning](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) leaves Arc V activity and a first original ordinary Card if any OPEN, with no replacement assignment. The full institution record and source boundaries remain unchanged below.
+
+Source: [009 author decision](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Links the new scoped educational placement while keeping course and school-story details unassigned. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

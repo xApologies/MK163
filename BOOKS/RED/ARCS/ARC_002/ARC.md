@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Retires the single future-special-Card reference without changing Arc 2 decisions. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**Scope-only correction:** the sentence below describing new Black realm anchors as a later developing design is **RETIRED / SUPERSEDED** by [009 ordinary-Card-only authority](../../../../WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md). It no longer establishes future special-Card plans.
+
+Every Arc 2 event, craft detail, ordinary Card use, shirt/backpack/fruit outreach boundary and uncompleted customer scene remains unchanged. First-robe completion/public reveal still ends Arc 2; Sprite bond remains Arc 3; the Ring remains Red's ending. No replacement event or new scene is supplied.
+
+Source: [009 author decision](../../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Adds the backpack, fruit and prior-delivery context without completing the unprovided dungeon scene. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

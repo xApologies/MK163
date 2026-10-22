@@ -1,3 +1,17 @@
+> **Live Model 009 current authority — 2026-10-22:** Registers the exact new decision evidence and its scope without duplicating previous checkpoints. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+009 is a focused author-decision package, not a replacement corpus or full conversation transcript. All six supplied members are retained exactly under WORKSHOP/LIVE_MODEL_009. Archive SHA-256: `dda8ab4415b5c07da38eca8b4c70553d20a3c6efab6a514deaa8ffa6469076cf`. [The source ledger](WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md) records the manifest and file coverage; [retirement provenance](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md) preserves what changed and what remains open. Earlier source references remain; an old OPEN/selected label does not override 009.
+
+Source: [009 author decision](WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Registers the full 008 payload and honest scope of upstream/source verification. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

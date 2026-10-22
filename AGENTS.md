@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Updates execution guidance to the explicit 009 author decision without weakening preservation. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+For this scope read [009 retirement](PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md) and the current Card/series owners. **Specialized Black Cards and required Arc V Black Card manufacture are RETIRED / SUPERSEDED**. Older 008 instructions to preserve an active realm-anchor design or keep Armor/Green engineering OPEN are historical; do not reactivate them. Preserve their original workshop/checkpoint bytes.
+
+Ordinary Genesis Cards, Cardsmithing, Red Arc IV education, the six-stage lifecycle, fatigue/ordinary occupancy, internal/invisible manifolds, Black bonds, Black Singularity, Neon, prophecies and unrelated canon remain. Ordinary Card-versus-running-native activation, Arc V activities, first original ordinary Card if any, mushroom use and native Neon/bond development remain OPEN. No replacement mechanics, plot or source-repository edits are authorized by historical files.
+
+Source: [009 author decision](PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Adds current 008 operating references and unresolved chronology safeguards. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

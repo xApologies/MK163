@@ -1,0 +1,3126 @@
+{
+  "checkpoint": "LIVE_MODEL_009",
+  "baseline_commit": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+  "baseline_tree": "93a2fc50a26d9158aa20b159c151129d89044642",
+  "archive_sha256": "dda8ab4415b5c07da38eca8b4c70553d20a3c6efab6a514deaa8ffa6469076cf",
+  "archive_bytes": 8037,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "operation": "modify",
+      "before_sha256": "66a0e4b3268ffe6af2100092bfce1bcdea7a317abb124c13e1a8ab07e2572e6b",
+      "after_sha256": "667f4e7278c09148221e8a92dfd9261600958afcc26718a59b46273529d59d56",
+      "after_bytes": 2034
+    },
+    {
+      "path": ".gitignore",
+      "operation": "unchanged",
+      "before_sha256": "1d1c8311106f538ec9c56fa6ca0e7ce84fb48a177d5ece757af2c0b806afe2b4",
+      "after_sha256": "1d1c8311106f538ec9c56fa6ca0e7ce84fb48a177d5ece757af2c0b806afe2b4",
+      "after_bytes": 38
+    },
+    {
+      "path": "AGENTS.md",
+      "operation": "modify",
+      "before_sha256": "65205fc73cf5bc5e2f189db127153339a33545ccbacc5aec21e97c4bed762c4d",
+      "after_sha256": "104cfb4a64d844e0b9594d7a8e19c6edf73381f2f1cdf1adaad5d6d3af437ecc",
+      "after_bytes": 8604
+    },
+    {
+      "path": "BOOKS/BLUE/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "a2ff8e53638a6ed7802779d75188dd75191cab6fd262c86cf0a7e43447284092",
+      "after_sha256": "a2ff8e53638a6ed7802779d75188dd75191cab6fd262c86cf0a7e43447284092",
+      "after_bytes": 1279
+    },
+    {
+      "path": "BOOKS/GREEN/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "e2fa20e9628fd3f31db516163c62c4ae42e73051a829db3e76baddf61882fee5",
+      "after_sha256": "e2fa20e9628fd3f31db516163c62c4ae42e73051a829db3e76baddf61882fee5",
+      "after_bytes": 1136
+    },
+    {
+      "path": "BOOKS/ORANGE/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "d9fc68c0ada929a57cde50aff288915818cdbe8d28ebfa6963d4fe6570b742c8",
+      "after_sha256": "d9fc68c0ada929a57cde50aff288915818cdbe8d28ebfa6963d4fe6570b742c8",
+      "after_bytes": 1150
+    },
+    {
+      "path": "BOOKS/README.md",
+      "operation": "unchanged",
+      "before_sha256": "9aa95c380ca3c59266adfb29035e9f0d0998fbfa353cd422d7074f32a9e618a1",
+      "after_sha256": "9aa95c380ca3c59266adfb29035e9f0d0998fbfa353cd422d7074f32a9e618a1",
+      "after_bytes": 122
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_001/ARC.md",
+      "operation": "unchanged",
+      "before_sha256": "76e9c6a2641d2ae68cf8918eaf85a015bea56e903babeca079ea21b027b14506",
+      "after_sha256": "76e9c6a2641d2ae68cf8918eaf85a015bea56e903babeca079ea21b027b14506",
+      "after_bytes": 23223
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_001/STONE_HOLLOW_AWAKENING_DETAIL.md",
+      "operation": "unchanged",
+      "before_sha256": "478f4f360435888ad67d630416ae0e9e9f7952537fb3c68c8bd6e7dcbea05f7f",
+      "after_sha256": "478f4f360435888ad67d630416ae0e9e9f7952537fb3c68c8bd6e7dcbea05f7f",
+      "after_bytes": 7007
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_001/WORKSHOP_RECONCILIATION_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "614bb6192085fcf4b75ce641b5a1e29adee896c81d4c6f9d8ea98e3895c86204",
+      "after_sha256": "614bb6192085fcf4b75ce641b5a1e29adee896c81d4c6f9d8ea98e3895c86204",
+      "after_bytes": 10370
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+      "operation": "modify",
+      "before_sha256": "3998a3d0ba1864bbafc34633fc5ea07ab11777ff52f70a2813865dd4b6b7d36c",
+      "after_sha256": "26cd0c2a4563e0463ee0d7b68c575083074d56e0095d1d32548f533173d549bb",
+      "after_bytes": 29580
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md",
+      "operation": "unchanged",
+      "before_sha256": "e3c081fe8def4eff53eba4a007bd6eea44f59f444d37391e6a9ff0b6cd98b059",
+      "after_sha256": "e3c081fe8def4eff53eba4a007bd6eea44f59f444d37391e6a9ff0b6cd98b059",
+      "after_bytes": 8454
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "8ed0cbb894b197c4df8af0f8e91a893dd436fc0e5a077f59ca8232e42ba610ed",
+      "after_sha256": "8ed0cbb894b197c4df8af0f8e91a893dd436fc0e5a077f59ca8232e42ba610ed",
+      "after_bytes": 5748
+    },
+    {
+      "path": "BOOKS/RED/ARCS/ARC_003/ARC.md",
+      "operation": "unchanged",
+      "before_sha256": "2b396a457fe7c37d2adc89fcd4a9a63a49ebea4b7335978968948fbdfecb9ec0",
+      "after_sha256": "2b396a457fe7c37d2adc89fcd4a9a63a49ebea4b7335978968948fbdfecb9ec0",
+      "after_bytes": 4989
+    },
+    {
+      "path": "BOOKS/RED/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "03db1bea15ad82d10440a26f50a52b6cc4d487a1505348714a68a66af9982bec",
+      "after_sha256": "03db1bea15ad82d10440a26f50a52b6cc4d487a1505348714a68a66af9982bec",
+      "after_bytes": 3430
+    },
+    {
+      "path": "BOOKS/VIOLET/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "3a4db12259ab1abb9c5fec2182f99ce8f6359390a0d030e06f9c738e94c70f32",
+      "after_sha256": "3a4db12259ab1abb9c5fec2182f99ce8f6359390a0d030e06f9c738e94c70f32",
+      "after_bytes": 1104
+    },
+    {
+      "path": "BOOKS/WHITE/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "17148429d02c38529fc1bdee3d4292bd25e012cac086805487a612220b92399e",
+      "after_sha256": "17148429d02c38529fc1bdee3d4292bd25e012cac086805487a612220b92399e",
+      "after_bytes": 1145
+    },
+    {
+      "path": "BOOKS/YELLOW/BOOK_OVERVIEW.md",
+      "operation": "unchanged",
+      "before_sha256": "81494c15fadddff866d4f3d317ef30eedaba6bd1bb8151d9edb84f1a067b4980",
+      "after_sha256": "81494c15fadddff866d4f3d317ef30eedaba6bd1bb8151d9edb84f1a067b4980",
+      "after_bytes": 1166
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_004_DELIVERY_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "054704143e92c81a837bab471e6cbb5dd288d09ef80d2396ba2002a517199e78",
+      "after_sha256": "054704143e92c81a837bab471e6cbb5dd288d09ef80d2396ba2002a517199e78",
+      "after_bytes": 5009
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_004_EXECUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "f9b4c7f758bdfb9e1e8b5d8f64dd75bce350ffff62e2467fc073f2364927f1fa",
+      "after_sha256": "f9b4c7f758bdfb9e1e8b5d8f64dd75bce350ffff62e2467fc073f2364927f1fa",
+      "after_bytes": 2260
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_004_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "d92137aa350bedc1cd61659965cc368c6888f87d5a87af9b9f1b6b4656834377",
+      "after_sha256": "d92137aa350bedc1cd61659965cc368c6888f87d5a87af9b9f1b6b4656834377",
+      "after_bytes": 11972
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/BASELINE_REPOSITORY_AUDIT.json",
+      "operation": "unchanged",
+      "before_sha256": "176bbfe01fea1d7e58402d3a6303286a14634754d56a4ca72231817e3fd6c02a",
+      "after_sha256": "176bbfe01fea1d7e58402d3a6303286a14634754d56a4ca72231817e3fd6c02a",
+      "after_bytes": 2288
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.json",
+      "operation": "unchanged",
+      "before_sha256": "107f7ed9b898375cbc8ab4f6e675ced1fc21ffc8199f359b827a8da24d38ce91",
+      "after_sha256": "107f7ed9b898375cbc8ab4f6e675ced1fc21ffc8199f359b827a8da24d38ce91",
+      "after_bytes": 16604
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/COVERAGE_MATRIX.md",
+      "operation": "unchanged",
+      "before_sha256": "c87df10052157d2e645d3c5ed421affe76988a5ad5450df583a1c78189c5cc09",
+      "after_sha256": "c87df10052157d2e645d3c5ed421affe76988a5ad5450df583a1c78189c5cc09",
+      "after_bytes": 8357
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/LIVE_AUDIT_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "6528a66fe56bd83d10513a1e4bab917340b8a850a62fc35b18307867c1449eb5",
+      "after_sha256": "6528a66fe56bd83d10513a1e4bab917340b8a850a62fc35b18307867c1449eb5",
+      "after_bytes": 1706
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "5aa588dc1942131b34b08d712080c096e67c64fd0ba9e8c8617d3ca203623b18",
+      "after_sha256": "5aa588dc1942131b34b08d712080c096e67c64fd0ba9e8c8617d3ca203623b18",
+      "after_bytes": 6954
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/README.md",
+      "operation": "unchanged",
+      "before_sha256": "f3720368500303b88d554d1e6235a6359556e51b1f786c5ee53ac13a7a641000",
+      "after_sha256": "f3720368500303b88d554d1e6235a6359556e51b1f786c5ee53ac13a7a641000",
+      "after_bytes": 1158
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/RECONCILIATION_RULES.md",
+      "operation": "unchanged",
+      "before_sha256": "4ee4ad0664903e7c78eddfbd2b5e24b8c111025c1e76bc73a4719f5a3089fa98",
+      "after_sha256": "4ee4ad0664903e7c78eddfbd2b5e24b8c111025c1e76bc73a4719f5a3089fa98",
+      "after_bytes": 1273
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/audit_package.py",
+      "operation": "unchanged",
+      "before_sha256": "8a053d2bd11fd8a40b7b0855c216e666bb7ebc4a55e2a310f1fb575c571d4114",
+      "after_sha256": "8a053d2bd11fd8a40b7b0855c216e666bb7ebc4a55e2a310f1fb575c571d4114",
+      "after_bytes": 2087
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/executable.me",
+      "operation": "unchanged",
+      "before_sha256": "3da41a93b762654c77a383d33d17675f06fc347b01ef7c05f7cff0d482bbe620",
+      "after_sha256": "3da41a93b762654c77a383d33d17675f06fc347b01ef7c05f7cff0d482bbe620",
+      "after_bytes": 162
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_PACKAGE/execution.md",
+      "operation": "unchanged",
+      "before_sha256": "f54ceea9ac859d28f49a8f1e7e5db25b98b9330bc5b470e6266050d9717687a5",
+      "after_sha256": "f54ceea9ac859d28f49a8f1e7e5db25b98b9330bc5b470e6266050d9717687a5",
+      "after_bytes": 6924
+    },
+    {
+      "path": "CHECKPOINTS/DELTA_005_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "732973daaf8373146593f8f1edab747b231d3c1ae92813ad6ad932751b496609",
+      "after_sha256": "732973daaf8373146593f8f1edab747b231d3c1ae92813ad6ad932751b496609",
+      "after_bytes": 26153
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_003.md",
+      "operation": "unchanged",
+      "before_sha256": "d430f07dbd6daea57a4a4d50e773d32a76d599d787a48fc2ef9c254f451f3156",
+      "after_sha256": "d430f07dbd6daea57a4a4d50e773d32a76d599d787a48fc2ef9c254f451f3156",
+      "after_bytes": 591
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_003_DELIVERY_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "09a592d6218f8f7c2e1b98db23d18ab7f49b8ae2c961e541d11e31643a53cc1e",
+      "after_sha256": "09a592d6218f8f7c2e1b98db23d18ab7f49b8ae2c961e541d11e31643a53cc1e",
+      "after_bytes": 71546
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_003_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "fa267da919394fe4475343694edac4c6419964b89c5a20c7081761731fa29959",
+      "after_sha256": "fa267da919394fe4475343694edac4c6419964b89c5a20c7081761731fa29959",
+      "after_bytes": 2984
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_006_EXECUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "23707bf07bd7fbc2462f8db8e3ae644fbfdd57305496d0cd08a40793507a6581",
+      "after_sha256": "23707bf07bd7fbc2462f8db8e3ae644fbfdd57305496d0cd08a40793507a6581",
+      "after_bytes": 24097
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_006_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "920e624c2e2e52c8843d8c7d1a035e076bba6425058f53256008678ab6f6bc69",
+      "after_sha256": "920e624c2e2e52c8843d8c7d1a035e076bba6425058f53256008678ab6f6bc69",
+      "after_bytes": 198276
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_006_PACKAGE/CHECKPOINT_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "d6f6ce90ff2da7a1769284f707f035678bb1cc08d61c50206511ca564bcaa318",
+      "after_sha256": "d6f6ce90ff2da7a1769284f707f035678bb1cc08d61c50206511ca564bcaa318",
+      "after_bytes": 12295
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_006_PACKAGE/README_CODEX.md",
+      "operation": "unchanged",
+      "before_sha256": "5db50b95526f0e98f66cde48ac8d1d5a4bc4bf2045ee132ff0160de6dd50b18e",
+      "after_sha256": "5db50b95526f0e98f66cde48ac8d1d5a4bc4bf2045ee132ff0160de6dd50b18e",
+      "after_bytes": 1341
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_006_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "31e93f000f7fd61b9501a22d547024f6b447b4dc6db74c65ff5759c783407ef8",
+      "after_sha256": "31e93f000f7fd61b9501a22d547024f6b447b4dc6db74c65ff5759c783407ef8",
+      "after_bytes": 7447
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_007_EXECUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "7ee6f7c774b373afb384af75b6a5eeca792599904e7782ef928ead985b760fc7",
+      "after_sha256": "7ee6f7c774b373afb384af75b6a5eeca792599904e7782ef928ead985b760fc7",
+      "after_bytes": 18228
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_007_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "76f6974fd4bdcfefabeb2e5af7ecc15db25c11c21b8bc88e66b75ae8b59d7b0b",
+      "after_sha256": "76f6974fd4bdcfefabeb2e5af7ecc15db25c11c21b8bc88e66b75ae8b59d7b0b",
+      "after_bytes": 132497
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_007_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "7995c0b005373afbc1d9ef61eaa25fd5a769b441e3da32141a12318172562a55",
+      "after_sha256": "7995c0b005373afbc1d9ef61eaa25fd5a769b441e3da32141a12318172562a55",
+      "after_bytes": 5110
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_008_EXECUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "aeeccd158dec91ebcd3aef2d271d9fde8d70573bc6d9174be60a311a4c5faeba",
+      "after_sha256": "aeeccd158dec91ebcd3aef2d271d9fde8d70573bc6d9174be60a311a4c5faeba",
+      "after_bytes": 8112
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_008_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "06b15fc9e089d88e6de1f91ae21c3ecc3d141acd566dcb553b46561e63d8e66f",
+      "after_sha256": "06b15fc9e089d88e6de1f91ae21c3ecc3d141acd566dcb553b46561e63d8e66f",
+      "after_bytes": 146754
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_008_VALIDATION.json",
+      "operation": "unchanged",
+      "before_sha256": "17351cf22f921187ca388a876290c8e194dee68e70a935ed347d3623c99cb9a5",
+      "after_sha256": "17351cf22f921187ca388a876290c8e194dee68e70a935ed347d3623c99cb9a5",
+      "after_bytes": 4951
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_009_EXECUTION.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "122c244e4cd843d1f838d4d06aaca7bce5a3b44736b1c0500462a86009a1d1d7",
+      "after_bytes": 13957
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_009_MANIFEST.json",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": null,
+      "after_bytes": null
+    },
+    {
+      "path": "CHECKPOINTS/LIVE_MODEL_009_VALIDATION.json",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "a1dddecb923f1d3b29fe6050dc79b8dce7c8d2e156915e1abe77fa0e81f6ef5c",
+      "after_bytes": 5772
+    },
+    {
+      "path": "CHECKPOINTS/README.md",
+      "operation": "unchanged",
+      "before_sha256": "eb27b3aca2dbf8bc6e8f36e348a22b33cffbd0d7fd9c317dfde64f214c6b6c72",
+      "after_sha256": "eb27b3aca2dbf8bc6e8f36e348a22b33cffbd0d7fd9c317dfde64f214c6b6c72",
+      "after_bytes": 110
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/reassemble_api_index.py",
+      "operation": "unchanged",
+      "before_sha256": "250e58b4b6a5d7283defc367baa7b4fb5f646e0ba0267efbb4e3a29498d091d6",
+      "after_sha256": "250e58b4b6a5d7283defc367baa7b4fb5f646e0ba0267efbb4e3a29498d091d6",
+      "after_bytes": 1447
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_delta_005_package.py",
+      "operation": "unchanged",
+      "before_sha256": "ffd1e68b9123ac69294a4088ebbf19a7ae1c2b72aaedcbec5c290909eef33cb6",
+      "after_sha256": "ffd1e68b9123ac69294a4088ebbf19a7ae1c2b72aaedcbec5c290909eef33cb6",
+      "after_bytes": 2191
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model.py",
+      "operation": "unchanged",
+      "before_sha256": "5ba5ad0bbf52978948f00f5defccab8b90e152834dd303d3aac9451f570787b0",
+      "after_sha256": "5ba5ad0bbf52978948f00f5defccab8b90e152834dd303d3aac9451f570787b0",
+      "after_bytes": 5119
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model_006.py",
+      "operation": "unchanged",
+      "before_sha256": "e3721c46c1eab7e0aa7e7d51e385c905bc8a17fc68ad1f565c06268e048aafce",
+      "after_sha256": "e3721c46c1eab7e0aa7e7d51e385c905bc8a17fc68ad1f565c06268e048aafce",
+      "after_bytes": 9652
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model_007.py",
+      "operation": "unchanged",
+      "before_sha256": "e78da376a965c20630aaf0819c549e460c3575f233f2e5dc17f295a013a23249",
+      "after_sha256": "e78da376a965c20630aaf0819c549e460c3575f233f2e5dc17f295a013a23249",
+      "after_bytes": 13745
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model_008.py",
+      "operation": "unchanged",
+      "before_sha256": "c999009215d399c33ea71a62f4a2fc2946ff1d4101778ef33363db8de2d0f602",
+      "after_sha256": "c999009215d399c33ea71a62f4a2fc2946ff1d4101778ef33363db8de2d0f602",
+      "after_bytes": 14422
+    },
+    {
+      "path": "CHECKPOINTS/TOOLS/validate_live_model_009.py",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "35d4b228b4bb95226946d899cb63fcd6b3550664e14bc69eeff7ff972201a1da",
+      "after_bytes": 15203
+    },
+    {
+      "path": "CONSTITUTIONS/00_AUTHORITY.md",
+      "operation": "unchanged",
+      "before_sha256": "c62e4b47a5f1bde3e2ceb4175af779138e7d3759830ab3466331935ab187bc25",
+      "after_sha256": "c62e4b47a5f1bde3e2ceb4175af779138e7d3759830ab3466331935ab187bc25",
+      "after_bytes": 871
+    },
+    {
+      "path": "CONSTITUTIONS/01_REPOSITORY_STRUCTURE.md",
+      "operation": "unchanged",
+      "before_sha256": "e65784ebdb1d87ec3f763e3e12c8895b93c0e407435a4f4fa8d660cd0c2ebdc3",
+      "after_sha256": "e65784ebdb1d87ec3f763e3e12c8895b93c0e407435a4f4fa8d660cd0c2ebdc3",
+      "after_bytes": 916
+    },
+    {
+      "path": "CONSTITUTIONS/02_WORLD_CLOCK.md",
+      "operation": "unchanged",
+      "before_sha256": "61df1e747d6175b9fcda02ee597167b5caa7ae1e96fe0ed047161033522b6c40",
+      "after_sha256": "61df1e747d6175b9fcda02ee597167b5caa7ae1e96fe0ed047161033522b6c40",
+      "after_bytes": 766
+    },
+    {
+      "path": "CONSTITUTIONS/03_CANON_AND_INHERITANCE.md",
+      "operation": "unchanged",
+      "before_sha256": "a61c0a71abac03395d67c6f7d6e0ed1396e852adeb7f20d442073a9fe7282481",
+      "after_sha256": "a61c0a71abac03395d67c6f7d6e0ed1396e852adeb7f20d442073a9fe7282481",
+      "after_bytes": 1239
+    },
+    {
+      "path": "CONSTITUTIONS/04_ARC_DEVELOPMENT.md",
+      "operation": "unchanged",
+      "before_sha256": "53afa6519ddf0dcc95aabfa5a8393e07f9866e5eaa036fb79698f6a4f74fa283",
+      "after_sha256": "53afa6519ddf0dcc95aabfa5a8393e07f9866e5eaa036fb79698f6a4f74fa283",
+      "after_bytes": 720
+    },
+    {
+      "path": "CONSTITUTIONS/05_NARRATIVE_AND_PROSE.md",
+      "operation": "unchanged",
+      "before_sha256": "030458b8f386de5879539a7e4e1d14ce335f82a065ce11ad4633210abfc5561e",
+      "after_sha256": "030458b8f386de5879539a7e4e1d14ce335f82a065ce11ad4633210abfc5561e",
+      "after_bytes": 419
+    },
+    {
+      "path": "CONSTITUTIONS/06_CONTINUITY.md",
+      "operation": "unchanged",
+      "before_sha256": "05fadd079d8af5d4fb5a318ace4b81b60568ef43cad10bc3ebcabd2eecfd27ee",
+      "after_sha256": "05fadd079d8af5d4fb5a318ace4b81b60568ef43cad10bc3ebcabd2eecfd27ee",
+      "after_bytes": 481
+    },
+    {
+      "path": "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "19ab746b8be95334e3a5af2dd2bf307064362184b60854be5e2936f960bcc946",
+      "after_sha256": "19ab746b8be95334e3a5af2dd2bf307064362184b60854be5e2936f960bcc946",
+      "after_bytes": 3089
+    },
+    {
+      "path": "CONSTITUTIONS/08_CODEX_WORKFLOW.md",
+      "operation": "unchanged",
+      "before_sha256": "ad8d59eccc168a029ee7dfdbceff431456a8e058ff10f231de42f3483382efb4",
+      "after_sha256": "ad8d59eccc168a029ee7dfdbceff431456a8e058ff10f231de42f3483382efb4",
+      "after_bytes": 1406
+    },
+    {
+      "path": "CONSTITUTIONS/09_CHANGE_CONTROL.md",
+      "operation": "unchanged",
+      "before_sha256": "a47fa096247ee5142baee0729d8d81e5caef746be3a8d010c45a58fbdaa43c58",
+      "after_sha256": "a47fa096247ee5142baee0729d8d81e5caef746be3a8d010c45a58fbdaa43c58",
+      "after_bytes": 957
+    },
+    {
+      "path": "CONSTITUTIONS/10_EXHAUSTIVE_LIVE_MODEL.md",
+      "operation": "unchanged",
+      "before_sha256": "b37de9561b2983de2f3152458fb25cb9c170b40e14f428d6f02b65a39f2130b9",
+      "after_sha256": "b37de9561b2983de2f3152458fb25cb9c170b40e14f428d6f02b65a39f2130b9",
+      "after_bytes": 6323
+    },
+    {
+      "path": "CONSTITUTIONS/11_LIVE_MODEL_MIRROR.md",
+      "operation": "unchanged",
+      "before_sha256": "e3cd8b1ab4d13e3892d9912755ed048ffb61392e07586b00640bff71c7b09d53",
+      "after_sha256": "e3cd8b1ab4d13e3892d9912755ed048ffb61392e07586b00640bff71c7b09d53",
+      "after_bytes": 17189
+    },
+    {
+      "path": "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md",
+      "operation": "unchanged",
+      "before_sha256": "ba94d75c9313cfbf91138c23510201d561df293a33ecbe45a316ca9907363348",
+      "after_sha256": "ba94d75c9313cfbf91138c23510201d561df293a33ecbe45a316ca9907363348",
+      "after_bytes": 8700
+    },
+    {
+      "path": "CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md",
+      "operation": "unchanged",
+      "before_sha256": "7b262487ad104e8ec555e77072f38e7e3baab7d41e418d1150d28dea243f942b",
+      "after_sha256": "7b262487ad104e8ec555e77072f38e7e3baab7d41e418d1150d28dea243f942b",
+      "after_bytes": 2814
+    },
+    {
+      "path": "CONSTITUTIONS/TEMPLATES/ARC_TEMPLATE.md",
+      "operation": "unchanged",
+      "before_sha256": "f06f0b473b44308dbb9f2411feb2f192121bbc944a75f5d0b2828e4f5c38f998",
+      "after_sha256": "f06f0b473b44308dbb9f2411feb2f192121bbc944a75f5d0b2828e4f5c38f998",
+      "after_bytes": 864
+    },
+    {
+      "path": "CONTINUITY/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "e731ac9542e12f05dd4f902358d41e72b63630b25f8e9498e9bfeec2003df669",
+      "after_sha256": "e731ac9542e12f05dd4f902358d41e72b63630b25f8e9498e9bfeec2003df669",
+      "after_bytes": 1156
+    },
+    {
+      "path": "CONTINUITY/README.md",
+      "operation": "unchanged",
+      "before_sha256": "4f3dcd68bcd66f10f61eb870befe0d9ec63eb6bddff5bde4b7babaaa2a198f30",
+      "after_sha256": "4f3dcd68bcd66f10f61eb870befe0d9ec63eb6bddff5bde4b7babaaa2a198f30",
+      "after_bytes": 97
+    },
+    {
+      "path": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "operation": "modify",
+      "before_sha256": "e9eae1fbbcd03c63e2047a9eaf5643f40341d8348d38886c5652188b014cc1ee",
+      "after_sha256": "1caf63c329e07a483fdd252f3f5c716233591be51755bbac56ee6ff5ae6bdb24",
+      "after_bytes": 18466
+    },
+    {
+      "path": "CONTINUITY/WORKSHOP_DELTA_005_EVENT_AND_CORRECTION_LEDGER.md",
+      "operation": "unchanged",
+      "before_sha256": "904e1b086ff7bd92b5657c223877d89724171a3ea7d7e29e47453bc0532c3ddb",
+      "after_sha256": "904e1b086ff7bd92b5657c223877d89724171a3ea7d7e29e47453bc0532c3ddb",
+      "after_bytes": 3178
+    },
+    {
+      "path": "PROVENANCE/BASELINE/CONSTITUTION_07_BEFORE_CORRECTION.md",
+      "operation": "unchanged",
+      "before_sha256": "700175e1846eaba5ba3ad6325092069a8395d05be508e7e9b051a82aa0d497f1",
+      "after_sha256": "700175e1846eaba5ba3ad6325092069a8395d05be508e7e9b051a82aa0d497f1",
+      "after_bytes": 408
+    },
+    {
+      "path": "PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md",
+      "operation": "modify",
+      "before_sha256": "efb82b4c1d56e1265510068e45d9197fb4db242998376957725e91e3a81f7517",
+      "after_sha256": "05f448d57a649b5a02a965bec9ec2c644b79ede7965c00bdb777511c7f5bccf2",
+      "after_bytes": 14926
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md",
+      "operation": "unchanged",
+      "before_sha256": "5e9711019571da78cfe6129f83cd06390478a28af89c884738ba2f51bccc988a",
+      "after_sha256": "5e9711019571da78cfe6129f83cd06390478a28af89c884738ba2f51bccc988a",
+      "after_bytes": 1442
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_EVIDENCE_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "1539b90a501a17a36f31e3f0c8074223a4ba3f73ab0e1973ac1ced0703145760",
+      "after_sha256": "1539b90a501a17a36f31e3f0c8074223a4ba3f73ab0e1973ac1ced0703145760",
+      "after_bytes": 4980
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_EVIDENCE_REGISTER.md",
+      "operation": "unchanged",
+      "before_sha256": "91f35bf297c190bbdaa8eacb503d7d41f166201aa2e016a22f1bb9e107830570",
+      "after_sha256": "91f35bf297c190bbdaa8eacb503d7d41f166201aa2e016a22f1bb9e107830570",
+      "after_bytes": 5704
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_IMPORT_REPORT.json",
+      "operation": "unchanged",
+      "before_sha256": "d922dfb0dc1f7cdf0de3ef03531d24f1e18caa60a8eb4d48ce86b488d10adad1",
+      "after_sha256": "d922dfb0dc1f7cdf0de3ef03531d24f1e18caa60a8eb4d48ce86b488d10adad1",
+      "after_bytes": 154184
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_IMPORT_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "ab73af24af65a99072f8e8aa89f00c62c4f4a6c0c54af08288cbe5b20fcb953b",
+      "after_sha256": "ab73af24af65a99072f8e8aa89f00c62c4f4a6c0c54af08288cbe5b20fcb953b",
+      "after_bytes": 15102
+    },
+    {
+      "path": "PROVENANCE/DELTA_004_UPSTREAM_AND_COVERAGE.md",
+      "operation": "unchanged",
+      "before_sha256": "3217484d48ac7ed14d0fd5b12415ee5ca721992fb206f0d493c3d2e7499a19b5",
+      "after_sha256": "3217484d48ac7ed14d0fd5b12415ee5ca721992fb206f0d493c3d2e7499a19b5",
+      "after_bytes": 2490
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_CANON_AND_OPEN_PARAMETERS_REGISTER.md",
+      "operation": "unchanged",
+      "before_sha256": "ffeac6c311791041e0fdcb57810769f9ce76c0aabe30829376b2dfb8dfd70d43",
+      "after_sha256": "ffeac6c311791041e0fdcb57810769f9ce76c0aabe30829376b2dfb8dfd70d43",
+      "after_bytes": 6053
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_COVERAGE_AND_AUTHORITY.md",
+      "operation": "unchanged",
+      "before_sha256": "0bd5188292aea3166cfb5f51686401d130fa6f0a017a17f26b4962840addaf75",
+      "after_sha256": "0bd5188292aea3166cfb5f51686401d130fa6f0a017a17f26b4962840addaf75",
+      "after_bytes": 5341
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_IMPORT_REPORT.json",
+      "operation": "unchanged",
+      "before_sha256": "2ab034e7c56e137f980cef83458c97b511bba7c29179811e42c17d5fa4c16803",
+      "after_sha256": "2ab034e7c56e137f980cef83458c97b511bba7c29179811e42c17d5fa4c16803",
+      "after_bytes": 219388
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_IMPORT_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "36096391819b68a6399bce93e8c1bf3273e132f7a6c7751b2b7d17ee2852f91e",
+      "after_sha256": "36096391819b68a6399bce93e8c1bf3273e132f7a6c7751b2b7d17ee2852f91e",
+      "after_bytes": 33255
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_VERBATIM_AUTHOR_EVIDENCE_EXCERPTS.md",
+      "operation": "unchanged",
+      "before_sha256": "d902569cd3a109d08e14be8020a7ff9ab0c9f9e42295d25918a0f76bf6440877",
+      "after_sha256": "d902569cd3a109d08e14be8020a7ff9ab0c9f9e42295d25918a0f76bf6440877",
+      "after_bytes": 9071
+    },
+    {
+      "path": "PROVENANCE/DELTA_005_WORKSHOP_AUTHOR_SOURCE_EXTENDED.md",
+      "operation": "unchanged",
+      "before_sha256": "9c876f2b6090a1dc6fa289edc699a7054272f32fa61e549734666abd8cee4dde",
+      "after_sha256": "9c876f2b6090a1dc6fa289edc699a7054272f32fa61e549734666abd8cee4dde",
+      "after_bytes": 9214
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_001_IMPORT_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "763e62ddcbf7736345e09232bac4f971b7d74ae1e9c1c89bef7cd34f8dcdf2e1",
+      "after_sha256": "763e62ddcbf7736345e09232bac4f971b7d74ae1e9c1c89bef7cd34f8dcdf2e1",
+      "after_bytes": 4201
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_001_OPEN_QUESTIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "715a78d3a3784e2fd9155c84f2fbf1dfa4e129c7a67b3a0398c0a4e5b8bf44c9",
+      "after_sha256": "715a78d3a3784e2fd9155c84f2fbf1dfa4e129c7a67b3a0398c0a4e5b8bf44c9",
+      "after_bytes": 1700
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_001_SOURCES.md",
+      "operation": "unchanged",
+      "before_sha256": "e3da9f89c74a7bdaf759c67d8ce975ffd12d9e5f8f7e2059b66c22c94f04652a",
+      "after_sha256": "e3da9f89c74a7bdaf759c67d8ce975ffd12d9e5f8f7e2059b66c22c94f04652a",
+      "after_bytes": 1443
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_003_IMPORT_REPORT.json",
+      "operation": "unchanged",
+      "before_sha256": "4a7b69530c500ca0b1ef392dfd43ba58fdc2c67daf3b495d3e6cff515a30aa98",
+      "after_sha256": "4a7b69530c500ca0b1ef392dfd43ba58fdc2c67daf3b495d3e6cff515a30aa98",
+      "after_bytes": 30544
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_003_IMPORT_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "35016956b9d8d19a050d4bcd989463c9617170dbf83478c026fb83d8c3f439ad",
+      "after_sha256": "35016956b9d8d19a050d4bcd989463c9617170dbf83478c026fb83d8c3f439ad",
+      "after_bytes": 24921
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_006_CORRECTIONS_AND_BOUNDARIES.md",
+      "operation": "unchanged",
+      "before_sha256": "bfef07ee175faab3573c3f3cfeb6b309f1c971436ef931394a11977a84cc9726",
+      "after_sha256": "bfef07ee175faab3573c3f3cfeb6b309f1c971436ef931394a11977a84cc9726",
+      "after_bytes": 5191
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_007_CORRECTIONS_AND_BOUNDARIES.md",
+      "operation": "unchanged",
+      "before_sha256": "c6f7dccfe4e805d8d22c716619b6f6ea46dd1b5db879f6e589faeddce26d3070",
+      "after_sha256": "c6f7dccfe4e805d8d22c716619b6f6ea46dd1b5db879f6e589faeddce26d3070",
+      "after_bytes": 7221
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_007_REVERSE_DIFF.json",
+      "operation": "unchanged",
+      "before_sha256": "12fdbdfdbbcf4f9b12685ad04f1581584f1ead3ed8469b6b97f566f5a63a63e9",
+      "after_sha256": "12fdbdfdbbcf4f9b12685ad04f1581584f1ead3ed8469b6b97f566f5a63a63e9",
+      "after_bytes": 31483
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md",
+      "operation": "modify",
+      "before_sha256": "f3fec44e2e822f7d844c8bc38f50c23fc8ed426f0ddb48c7ac6c3d286ad86db2",
+      "after_sha256": "7deef298649b347949b4c870131726e6e623037cc669dede3b97ef620c95491c",
+      "after_bytes": 7751
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md",
+      "operation": "modify",
+      "before_sha256": "5db1b1a86056e6d850aa21d9563e671705734b3064cf9c14ff659cebdf4b73eb",
+      "after_sha256": "691d41c1ad96403c41e36c04756f027cb2af2208c3fad4baf6dc519c47922ab4",
+      "after_bytes": 7726
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_008_REVERSE_DIFF.json",
+      "operation": "unchanged",
+      "before_sha256": "ca7f8a7806f59ac0143304a41044d657c78b5e2ea0e064679321b32b85f1c55f",
+      "after_sha256": "ca7f8a7806f59ac0143304a41044d657c78b5e2ea0e064679321b32b85f1c55f",
+      "after_bytes": 34658
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "de6b9c2a719ef2483a4031bf616db046a9f13d902d20b0a06fd2c7a300386d6e",
+      "after_bytes": 5626
+    },
+    {
+      "path": "PROVENANCE/LIVE_MODEL_009_REVERSE_DIFF.json",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "04fd5bb3075a0d47e0370086168412e73c7ee44600edbf82c31f738065cc18fb",
+      "after_bytes": 72155
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "4b19c198e1e6429b63cf2ae328e1e3b42513d2a8470cb2eaa2a8fa5996c742e8",
+      "after_sha256": "4b19c198e1e6429b63cf2ae328e1e3b42513d2a8470cb2eaa2a8fa5996c742e8",
+      "after_bytes": 131
+    },
+    {
+      "path": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+      "operation": "modify",
+      "before_sha256": "6bf70ee5079c6f3b6046dd86ff1dbf4afad049f6e7b3a2221572764230a7d7ea",
+      "after_sha256": "9476acf7da1043bd75ad01f8a374253244ccaea985ec7bf54fedd5843735213a",
+      "after_bytes": 15160
+    },
+    {
+      "path": "PROVENANCE/PROPHECY_SOURCE_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "eeb678066703fcb155103868a7afdf53110f3663d9eb5f002ab6a18d85846366",
+      "after_sha256": "eeb678066703fcb155103868a7afdf53110f3663d9eb5f002ab6a18d85846366",
+      "after_bytes": 4353
+    },
+    {
+      "path": "PROVENANCE/README.md",
+      "operation": "unchanged",
+      "before_sha256": "955fa7e917e35fd36913e4c74a5a231cac860c10dce2b7ed61921db5cd2c341e",
+      "after_sha256": "955fa7e917e35fd36913e4c74a5a231cac860c10dce2b7ed61921db5cd2c341e",
+      "after_bytes": 83
+    },
+    {
+      "path": "PROVENANCE/SOURCES.md",
+      "operation": "modify",
+      "before_sha256": "2861b4ea67df7c19acdc9fed0e532e9b5050b0f50b72d64207bddeeb82433f42",
+      "after_sha256": "cb7fece54cb77a5b2b175c67cebf23bc97d376032e2ccd324fae21a259bbffb7",
+      "after_bytes": 7490
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ATTACHMENT_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "12c13e0a52af6fbf10d19ae70cfb7691a771b8ef3ec912ffdd6509c2ad2fcc33",
+      "after_sha256": "12c13e0a52af6fbf10d19ae70cfb7691a771b8ef3ec912ffdd6509c2ad2fcc33",
+      "after_bytes": 13978
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/127BDBEE-82DF-45F9-8823-A18FF3C172E0.PNG",
+      "operation": "unchanged",
+      "before_sha256": "ce36cd1f078014236d220d793f3fb6c6efd4051e3d1220dfc8332e216cd83350",
+      "after_sha256": "ce36cd1f078014236d220d793f3fb6c6efd4051e3d1220dfc8332e216cd83350",
+      "after_bytes": 3222892
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/177E2ECE-1650-4509-9813-D3D88036A1F7.PNG",
+      "operation": "unchanged",
+      "before_sha256": "74a2d75d904fb4b1c9f37e05657f5b1dd4671a9f829f8b432daf94c67c286d3c",
+      "after_sha256": "74a2d75d904fb4b1c9f37e05657f5b1dd4671a9f829f8b432daf94c67c286d3c",
+      "after_bytes": 3372378
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/1C1277A4-3CC9-4B88-8DA9-2280F01C6665.PNG",
+      "operation": "unchanged",
+      "before_sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+      "after_sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+      "after_bytes": 3196647
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2A926098-AB10-4E59-9947-41D299ABD6A3.PNG",
+      "operation": "unchanged",
+      "before_sha256": "901785a6f3f79f0ee0a9bfb8abae1466603199f4a36e4427a73bb3592f3fd027",
+      "after_sha256": "901785a6f3f79f0ee0a9bfb8abae1466603199f4a36e4427a73bb3592f3fd027",
+      "after_bytes": 2499583
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/2BCFEE77-5000-4207-8233-A6902FA6C750.PNG",
+      "operation": "unchanged",
+      "before_sha256": "33a22ad7a8a5d121f9ac58a92211340804d3d936e2347cf52a99a8033cf5ff5b",
+      "after_sha256": "33a22ad7a8a5d121f9ac58a92211340804d3d936e2347cf52a99a8033cf5ff5b",
+      "after_bytes": 3791758
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00.PNG",
+      "operation": "unchanged",
+      "before_sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a",
+      "after_sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a",
+      "after_bytes": 3308190
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/852A12D5-A89A-42A7-B1B0-276A062D25A8.PNG",
+      "operation": "unchanged",
+      "before_sha256": "40bf7fb15eb8683b0105c0d3687e38ca48af10a344b4f372b0ddd1e23087e959",
+      "after_sha256": "40bf7fb15eb8683b0105c0d3687e38ca48af10a344b4f372b0ddd1e23087e959",
+      "after_bytes": 3228494
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/8D85A8C0-3DDF-48DF-B995-F288F1508378.PNG",
+      "operation": "unchanged",
+      "before_sha256": "87b1e6785fbf51918b4ec9d56633dfda77fbc79aa29f984c512a2e1ab3469357",
+      "after_sha256": "87b1e6785fbf51918b4ec9d56633dfda77fbc79aa29f984c512a2e1ab3469357",
+      "after_bytes": 2648963
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/ABEB1897-E2AD-43DA-ACBF-310650B0C4E0.PNG",
+      "operation": "unchanged",
+      "before_sha256": "f02926937db6764dae981e449d9e20d5639aec97b9b9d96359ab54343f5cdcee",
+      "after_sha256": "f02926937db6764dae981e449d9e20d5639aec97b9b9d96359ab54343f5cdcee",
+      "after_bytes": 3988477
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C4CA8B8C-3AF8-4722-A1E1-6F0FE394492C.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+      "after_sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+      "after_bytes": 641330
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/C5B5BD20-4B2A-48C8-AD35-9BCFCDFF68C0.PNG",
+      "operation": "unchanged",
+      "before_sha256": "1b6cadb8c2df2736e8552b53c83e0b564504b2104e9b5304368ea25f388d0a49",
+      "after_sha256": "1b6cadb8c2df2736e8552b53c83e0b564504b2104e9b5304368ea25f388d0a49",
+      "after_bytes": 3272254
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D1E3D7F5-5906-468E-9BDF-2CBDA186704E.PNG",
+      "operation": "unchanged",
+      "before_sha256": "7a3ace25889bae08bfad0dce3329ef4216787b0f76a0324b8efffb2cd3d088b6",
+      "after_sha256": "7a3ace25889bae08bfad0dce3329ef4216787b0f76a0324b8efffb2cd3d088b6",
+      "after_bytes": 3409654
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/D72A6BB1-DA8C-4415-9DF0-6D1778B73F3F.PNG",
+      "operation": "unchanged",
+      "before_sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+      "after_sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+      "after_bytes": 2364035
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Density Ladder.png",
+      "operation": "unchanged",
+      "before_sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca",
+      "after_sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca",
+      "after_bytes": 92080
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_0530.jpg",
+      "operation": "unchanged",
+      "before_sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5",
+      "after_sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5",
+      "after_bytes": 67292
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg",
+      "operation": "unchanged",
+      "before_sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+      "after_sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+      "after_bytes": 145723
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6900.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "after_sha256": "9662cfeac289df31e4015d1bf03573cf741dcee1b4df3b14fb767347a2b6899d",
+      "after_bytes": 465467
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6901.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "after_sha256": "6b235beef5ada8b94a4fa9b0dd291dc67b0a73e11cbcbd09061a66b80750b3ab",
+      "after_bytes": 283793
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6987.png",
+      "operation": "unchanged",
+      "before_sha256": "57783d51fb6f9d525ad0bbfac6d2587b737ea73a51656caa7e9a03441e4cf605",
+      "after_sha256": "57783d51fb6f9d525ad0bbfac6d2587b737ea73a51656caa7e9a03441e4cf605",
+      "after_bytes": 455819
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_6988.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "67e2e532ca01baa05bf0cbea9153f41d8cabf36140bd5ea3f0a02ac3467fbee5",
+      "after_sha256": "67e2e532ca01baa05bf0cbea9153f41d8cabf36140bd5ea3f0a02ac3467fbee5",
+      "after_bytes": 316696
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_CFACE7E4-AED2-48E5-A755-C7468C259C34.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "9000c65f3f5cb220ba04f80bf86e937135fa7debf11b3849e3eb32e3169e6760",
+      "after_sha256": "9000c65f3f5cb220ba04f80bf86e937135fa7debf11b3849e3eb32e3169e6760",
+      "after_bytes": 256636
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg",
+      "operation": "unchanged",
+      "before_sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8",
+      "after_sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8",
+      "after_bytes": 4335392
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/4.3.zip",
+      "operation": "unchanged",
+      "before_sha256": "0010a4de99d78748ede57670b3bca1df6185b7ba8dd0faf266cc3ba1a4ccf752",
+      "after_sha256": "0010a4de99d78748ede57670b3bca1df6185b7ba8dd0faf266cc3ba1a4ccf752",
+      "after_bytes": 7630835
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/43 Bandits(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+      "after_sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+      "after_bytes": 37089
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/44 Cartels(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+      "after_sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+      "after_bytes": 40236
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/45 Cabal of Ash and Crown(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+      "after_sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+      "after_bytes": 29230
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/46 Evil Organizations(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+      "after_sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+      "after_bytes": 83251
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/Dimensional Ring.pdf",
+      "operation": "unchanged",
+      "before_sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "after_sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "after_bytes": 98946
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+      "after_sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+      "after_bytes": 93053
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER.pdf",
+      "operation": "unchanged",
+      "before_sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "after_sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "after_bytes": 92298
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK Ultra.pdf",
+      "operation": "unchanged",
+      "before_sha256": "cca59f71a28079fb6fc511df7b811a88b7e3fde97d84bc1f299c3f4b86b12e8d",
+      "after_sha256": "cca59f71a28079fb6fc511df7b811a88b7e3fde97d84bc1f299c3f4b86b12e8d",
+      "after_bytes": 67402112
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MK117_Book1_Arc_Outline(1).pdf",
+      "operation": "unchanged",
+      "before_sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad",
+      "after_sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad",
+      "after_bytes": 14176
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/README.md",
+      "operation": "unchanged",
+      "before_sha256": "d3ac2227be85559d89a34094a8a410eae747557e358a2079fe18c4ce58e0fbe0",
+      "after_sha256": "d3ac2227be85559d89a34094a8a410eae747557e358a2079fe18c4ce58e0fbe0",
+      "after_bytes": 6472
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/BANDITS_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "47ee915f7b4564f162748faa0ab93a6958b616808e915a9345eec542db8320ba",
+      "after_sha256": "47ee915f7b4564f162748faa0ab93a6958b616808e915a9345eec542db8320ba",
+      "after_bytes": 7272
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CABAL_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "94634b9de2304aad60bc03de9359ab3c2064fca38789c056d882b0f7aa4f491a",
+      "after_sha256": "94634b9de2304aad60bc03de9359ab3c2064fca38789c056d882b0f7aa4f491a",
+      "after_bytes": 5156
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/CARTELS_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "944bdc2aa728fba667797fe50949aabc84f5a7331983cec95e9c042f40d129cb",
+      "after_sha256": "944bdc2aa728fba667797fe50949aabc84f5a7331983cec95e9c042f40d129cb",
+      "after_bytes": 7828
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIAMOND_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "cc1cbbfe126938fedae7726069aa3fdb6fd31f213832537a43bc816d9b2d04fd",
+      "after_sha256": "cc1cbbfe126938fedae7726069aa3fdb6fd31f213832537a43bc816d9b2d04fd",
+      "after_bytes": 5595
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/DIMENSIONAL_RING_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "6383d8b1b21c3f35177942c0273ab7f296ac50da9d36881ff84fb69ef73e336a",
+      "after_sha256": "6383d8b1b21c3f35177942c0273ab7f296ac50da9d36881ff84fb69ef73e336a",
+      "after_bytes": 13744
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK117_Book1_Arc_Outline_DELTA_004.txt",
+      "operation": "unchanged",
+      "before_sha256": "07c1322066b43ad2769d384f8ccde010dd30e29e54f384041cfe10bf42299986",
+      "after_sha256": "07c1322066b43ad2769d384f8ccde010dd30e29e54f384041cfe10bf42299986",
+      "after_bytes": 11375
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/MK_ULTRA_TOME.txt",
+      "operation": "unchanged",
+      "before_sha256": "c6514837bfbff2b348ee53d753e9c68f95f29983a64af606b3d96f4d83e00bb5",
+      "after_sha256": "c6514837bfbff2b348ee53d753e9c68f95f29983a64af606b3d96f4d83e00bb5",
+      "after_bytes": 1814780
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/PIRATES_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "540ecfc3bde66925c1dcb47229cd6cef42705113142839a700d55c6ea835fdf4",
+      "after_sha256": "540ecfc3bde66925c1dcb47229cd6cef42705113142839a700d55c6ea835fdf4",
+      "after_bytes": 8495
+    },
+    {
+      "path": "PROVENANCE/SOURCE_DOCUMENTS/TEXT/TOURNAMENT_MASTER.txt",
+      "operation": "unchanged",
+      "before_sha256": "17cbc7d99bfe2abc5190704ba103393e0ee71dd4a94723ec6b298b77297b9092",
+      "after_sha256": "17cbc7d99bfe2abc5190704ba103393e0ee71dd4a94723ec6b298b77297b9092",
+      "after_bytes": 10035
+    },
+    {
+      "path": "PROVENANCE/SOURCE_REGISTRY.json",
+      "operation": "modify",
+      "before_sha256": "2cd741b5335e84df2a7ecdf51e0161191750cf2e8d9b4f7d756a7272b6e2284d",
+      "after_sha256": "8afa73de0a2174c581a6d5f7a04bd28164b30d81b51b947d469d7bdf2df0dcfc",
+      "after_bytes": 6634
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/031DA1D6-DECF-44A0-AB8F-37B178D4FA6D.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "135933c460cbf9f15327cd107b52bcd41c7ab59280d8ecf5d7138262489f3c54",
+      "after_sha256": "135933c460cbf9f15327cd107b52bcd41c7ab59280d8ecf5d7138262489f3c54",
+      "after_bytes": 732476
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/51A904D0-5404-462A-B4D9-04749BA6706C.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "b3c76dc9f67d2c13ef9674841392214143166c273d51cf46d663f5226a3f57b5",
+      "after_sha256": "b3c76dc9f67d2c13ef9674841392214143166c273d51cf46d663f5226a3f57b5",
+      "after_bytes": 207474
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/5358BF94-008E-4878-989E-5B88A144DDB2.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "a3e3293c8e33a87b88a0898e8b3b95759f2e4a1d6951d4d83ca8ffde75e14987",
+      "after_sha256": "a3e3293c8e33a87b88a0898e8b3b95759f2e4a1d6951d4d83ca8ffde75e14987",
+      "after_bytes": 447403
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/5D3AACC5-CE05-49B0-B12D-BCCBC29552AC.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "dcaa8009f4856b6633957ec9c8bd5011a2c42ce908b58f0bfb995669df1fd4ba",
+      "after_sha256": "dcaa8009f4856b6633957ec9c8bd5011a2c42ce908b58f0bfb995669df1fd4ba",
+      "after_bytes": 537740
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/814D23F1-D8FE-4D9B-99ED-C5ECBD888A96.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "8f5af6988a569d82b584083c74daf5214cd909452d06376cd47a6a904c9c1dda",
+      "after_sha256": "8f5af6988a569d82b584083c74daf5214cd909452d06376cd47a6a904c9c1dda",
+      "after_bytes": 856064
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854(1).jpeg",
+      "operation": "unchanged",
+      "before_sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159",
+      "after_sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159",
+      "after_bytes": 262354
+    },
+    {
+      "path": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/AA0AE57A-4CF3-457D-A3A6-9ADBC4381CC1.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "334d76d0229238b19e8368ac3271ba401accd2f529a3c3cdf0e929c1a6f2ef5a",
+      "after_sha256": "334d76d0229238b19e8368ac3271ba401accd2f529a3c3cdf0e929c1a6f2ef5a",
+      "after_bytes": 322274
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/ACCEPTANCE_CHECKS.json",
+      "operation": "unchanged",
+      "before_sha256": "ef649acbe362c4cca0f4d9f71642400da2a73522926083c01403a823a33ea7f8",
+      "after_sha256": "ef649acbe362c4cca0f4d9f71642400da2a73522926083c01403a823a33ea7f8",
+      "after_bytes": 2998
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_EVIDENCE_JOURNAL.md",
+      "operation": "unchanged",
+      "before_sha256": "dc988185a3bb9dc863e688553bb3bd012a15f7e07e531627b747273616abbe10",
+      "after_sha256": "dc988185a3bb9dc863e688553bb3bd012a15f7e07e531627b747273616abbe10",
+      "after_bytes": 129709
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/AUTHOR_SOURCE_RECORDS.jsonl",
+      "operation": "unchanged",
+      "before_sha256": "bed52f121eaa964944a63546d201b1439b973062185eb5816ca4c2345802d201",
+      "after_sha256": "bed52f121eaa964944a63546d201b1439b973062185eb5816ca4c2345802d201",
+      "after_bytes": 140940
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.json",
+      "operation": "unchanged",
+      "before_sha256": "66b707edb7bc2ed1c8751aae8a05746897b0e086562a77ec1bb8c868337def99",
+      "after_sha256": "66b707edb7bc2ed1c8751aae8a05746897b0e086562a77ec1bb8c868337def99",
+      "after_bytes": 113020
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/COVERAGE.md",
+      "operation": "unchanged",
+      "before_sha256": "e7f23c9dd2feae11dda229c84a11aa82b8b7c8493ee42a3e1a14ac4ae48d60d6",
+      "after_sha256": "e7f23c9dd2feae11dda229c84a11aa82b8b7c8493ee42a3e1a14ac4ae48d60d6",
+      "after_bytes": 25559
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/DECISION_AND_REVISION_JOURNAL.md",
+      "operation": "unchanged",
+      "before_sha256": "f7efc90b620202518116b82fcf324f197fbde433ea30e7498bb5612a2edcd861",
+      "after_sha256": "f7efc90b620202518116b82fcf324f197fbde433ea30e7498bb5612a2edcd861",
+      "after_bytes": 3896
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/INTEGRATION_INDEX.md",
+      "operation": "unchanged",
+      "before_sha256": "8009eed18eca3299b18598f4d4475ab43612243d971827885daced793e11ef91",
+      "after_sha256": "8009eed18eca3299b18598f4d4475ab43612243d971827885daced793e11ef91",
+      "after_bytes": 10871
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md",
+      "operation": "unchanged",
+      "before_sha256": "1a39ce08885f167e79851c7a4ef5a3452ca6c051e9ea82f3e44619e79e22fbf5",
+      "after_sha256": "1a39ce08885f167e79851c7a4ef5a3452ca6c051e9ea82f3e44619e79e22fbf5",
+      "after_bytes": 3535
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md",
+      "operation": "unchanged",
+      "before_sha256": "6866d1567ab874f15dc496c6bc671a4e59c26107b73f581b6def9b81c22ee5d7",
+      "after_sha256": "6866d1567ab874f15dc496c6bc671a4e59c26107b73f581b6def9b81c22ee5d7",
+      "after_bytes": 3413
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARMOR_MATERIALS_AND_ENCHANTMENT_EXTENSION.md",
+      "operation": "unchanged",
+      "before_sha256": "990ffbc06c1b7707baae25d2cf66f95eb32a872d2b5c907918709b8e4d0baee8",
+      "after_sha256": "990ffbc06c1b7707baae25d2cf66f95eb32a872d2b5c907918709b8e4d0baee8",
+      "after_bytes": 1821
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHAINMAIL_SHIRT_PRICE.md",
+      "operation": "unchanged",
+      "before_sha256": "26ebd77afa631af782326c8337cd8b1a8b038aebf1d18b836e9cf1a055ca72df",
+      "after_sha256": "26ebd77afa631af782326c8337cd8b1a8b038aebf1d18b836e9cf1a055ca72df",
+      "after_bytes": 2513
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+      "operation": "unchanged",
+      "before_sha256": "d1a8a1715b13946f7a121558fed3ed438c9d04ae20ffcf8b72e2e5a5769869bf",
+      "after_sha256": "d1a8a1715b13946f7a121558fed3ed438c9d04ae20ffcf8b72e2e5a5769869bf",
+      "after_bytes": 1645
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CHROMATIC_RENTAL_AVERAGES.md",
+      "operation": "unchanged",
+      "before_sha256": "4cc73781eb40da0132ef345191360115459e73d8e1ac3cb21c4a9334f5d75ce4",
+      "after_sha256": "4cc73781eb40da0132ef345191360115459e73d8e1ac3cb21c4a9334f5d75ce4",
+      "after_bytes": 2094
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/CURRENCY_CONVERSION_DECISION.md",
+      "operation": "unchanged",
+      "before_sha256": "812dbe90ef4b3bbc8e3e763e8137565462b0dd35c1892279513e6861e49d579b",
+      "after_sha256": "812dbe90ef4b3bbc8e3e763e8137565462b0dd35c1892279513e6861e49d579b",
+      "after_bytes": 2305
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ECONOMIC_FOUNDATION_INDEX.md",
+      "operation": "unchanged",
+      "before_sha256": "6cc0052254cb12bdb80bb4ee0b283142eebcf1e4b395da3cdd22d3f637225df3",
+      "after_sha256": "6cc0052254cb12bdb80bb4ee0b283142eebcf1e4b395da3cdd22d3f637225df3",
+      "after_bytes": 2001
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_CARD_CLASS_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "c852ea6849e41be20db8df4ba44547c674e8eb0d01be941161ff144d97b7463c",
+      "after_sha256": "c852ea6849e41be20db8df4ba44547c674e8eb0d01be941161ff144d97b7463c",
+      "after_bytes": 1394
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_CRYSTAL_MARKET_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "2c1fda4ab24607bc983c2e4a5ab66b7c37c6f2afb96b462e2b1359253168ede9",
+      "after_sha256": "2c1fda4ab24607bc983c2e4a5ab66b7c37c6f2afb96b462e2b1359253168ede9",
+      "after_bytes": 2266
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/GENESIS_WEAPON_IMPULSE_GEOMETRY.md",
+      "operation": "unchanged",
+      "before_sha256": "2277b4e6a7edc794196193bfa11dfc4bbdcd72f57eced306ba9625b619f6d419",
+      "after_sha256": "2277b4e6a7edc794196193bfa11dfc4bbdcd72f57eced306ba9625b619f6d419",
+      "after_bytes": 3202
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/LEATHER_ARMOR_MARKET_AVERAGES.md",
+      "operation": "unchanged",
+      "before_sha256": "36710717fca7539fefd52902a391bfb4ac682dd983e97963eeb80c0999da3019",
+      "after_sha256": "36710717fca7539fefd52902a391bfb4ac682dd983e97963eeb80c0999da3019",
+      "after_bytes": 1635
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_COMBAT_COMPETENCY_EXTENSION.md",
+      "operation": "unchanged",
+      "before_sha256": "0bf5b5da9f45cf6ed636ea8282a71c57b8d7166784feef605af4319254ccdff0",
+      "after_sha256": "0bf5b5da9f45cf6ed636ea8282a71c57b8d7166784feef605af4319254ccdff0",
+      "after_bytes": 1893
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "4a5b0a818757f4014c33d35f69f3dc98195c114efafdf32201ba44bb8e6df7d5",
+      "after_sha256": "4a5b0a818757f4014c33d35f69f3dc98195c114efafdf32201ba44bb8e6df7d5",
+      "after_bytes": 1602
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/MELEE_WEAPON_BASE_PRICES.sha256",
+      "operation": "unchanged",
+      "before_sha256": "e3ed231ee55d4f1bc5620d2845cfd9635edcfbfc71b866380e5b05ce4ff36276",
+      "after_sha256": "e3ed231ee55d4f1bc5620d2845cfd9635edcfbfc71b866380e5b05ce4ff36276",
+      "after_bytes": 94
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/SESSION_006_HASHES.json",
+      "operation": "unchanged",
+      "before_sha256": "e5ed90eb92c0afbdb6ff1add843e24d3951044a426c5405cdd18c93415df2110",
+      "after_sha256": "e5ed90eb92c0afbdb6ff1add843e24d3951044a426c5405cdd18c93415df2110",
+      "after_bytes": 2308
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/ATLAS_INDEX.md",
+      "operation": "unchanged",
+      "before_sha256": "6b2ef97775df2d1ae5d1f17b3d3669ad9d034dccd5e4a8ffbc02461b3335911d",
+      "after_sha256": "6b2ef97775df2d1ae5d1f17b3d3669ad9d034dccd5e4a8ffbc02461b3335911d",
+      "after_bytes": 1712
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.md",
+      "operation": "unchanged",
+      "before_sha256": "822155fe7ee266eba836ea18c0e171485ed17a208a6ff5aa10bcd0e38b06edc9",
+      "after_sha256": "822155fe7ee266eba836ea18c0e171485ed17a208a6ff5aa10bcd0e38b06edc9",
+      "after_bytes": 930
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/CHROMATIC_AFFORDABILITY.svg",
+      "operation": "unchanged",
+      "before_sha256": "a41332fe97eb2fc6c6ef29dbfbaee3cb9f9bdc8c56221d122010008c8a2a9b3a",
+      "after_sha256": "a41332fe97eb2fc6c6ef29dbfbaee3cb9f9bdc8c56221d122010008c8a2a9b3a",
+      "after_bytes": 2105
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/LEATHER_ARMOR_AVERAGES.svg",
+      "operation": "unchanged",
+      "before_sha256": "f376bd6ad42a47711684a916c64957276f1e66831bea2b63802a4f3e9f7c4f7e",
+      "after_sha256": "f376bd6ad42a47711684a916c64957276f1e66831bea2b63802a4f3e9f7c4f7e",
+      "after_bytes": 1695
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.jpeg",
+      "operation": "unchanged",
+      "before_sha256": "057fea97835345c294c585c7fcdb97aa0ed72374a132e52eab9a7df6680db18b",
+      "after_sha256": "057fea97835345c294c585c7fcdb97aa0ed72374a132e52eab9a7df6680db18b",
+      "after_bytes": 911796
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/VISUALS/WHITE_ELN_SERIES_APPROVED_REFERENCE.md",
+      "operation": "unchanged",
+      "before_sha256": "5a2d4e96de1d479e395b1e17f0c65ecaa12bc9193329eb2ebf7d5c754ba766b6",
+      "after_sha256": "5a2d4e96de1d479e395b1e17f0c65ecaa12bc9193329eb2ebf7d5c754ba766b6",
+      "after_bytes": 2030
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/AUDIT/REVERSE_DIFF.md",
+      "operation": "unchanged",
+      "before_sha256": "546a0f0d0b2106d706c791f6cfcad6f6ea95be4cc6b9981b493bf3a996a5ebb9",
+      "after_sha256": "546a0f0d0b2106d706c791f6cfcad6f6ea95be4cc6b9981b493bf3a996a5ebb9",
+      "after_bytes": 3523
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/EXECUTABLE.md",
+      "operation": "unchanged",
+      "before_sha256": "7e1192fef989443e36429e73d22925f3c00aa81c8aedf4dcdbc41e39de453b12",
+      "after_sha256": "7e1192fef989443e36429e73d22925f3c00aa81c8aedf4dcdbc41e39de453b12",
+      "after_bytes": 2971
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/INTEGRATION_INDEX.md",
+      "operation": "unchanged",
+      "before_sha256": "a1eb685b48c3b9e6003ed9229f7ab23b572aeaa78ae9af1849bd35c70bc731f2",
+      "after_sha256": "a1eb685b48c3b9e6003ed9229f7ab23b572aeaa78ae9af1849bd35c70bc731f2",
+      "after_bytes": 8884
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "e5d443919278353b8c191fd9550446a43da772c9e40c32ba8479b19f420b6e77",
+      "after_sha256": "e5d443919278353b8c191fd9550446a43da772c9e40c32ba8479b19f420b6e77",
+      "after_bytes": 3194
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/README.md",
+      "operation": "unchanged",
+      "before_sha256": "38a2df8689837bf76a9347cc679a16700f4f7c0e26fb8c39a84f3dd3327686a9",
+      "after_sha256": "38a2df8689837bf76a9347cc679a16700f4f7c0e26fb8c39a84f3dd3327686a9",
+      "after_bytes": 981
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/PRELIMINARY_DELTA_007_SUPERSEDED.zip",
+      "operation": "unchanged",
+      "before_sha256": "808a737a2247947e7da61c8363f4c8b5a5c21c8f65416b8a68530df635b87ea5",
+      "after_sha256": "808a737a2247947e7da61c8363f4c8b5a5c21c8f65416b8a68530df635b87ea5",
+      "after_bytes": 8847
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/SOURCE_REGISTER.md",
+      "operation": "unchanged",
+      "before_sha256": "7cfa03da7dc3d9241656b917042ab70a43bc4c4ac67f75099658880514d1c784",
+      "after_sha256": "7cfa03da7dc3d9241656b917042ab70a43bc4c4ac67f75099658880514d1c784",
+      "after_bytes": 1992
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/VISUAL_REFERENCE/KAIRA_ROBE_AUTHOR_REFERENCE.png",
+      "operation": "unchanged",
+      "before_sha256": "df9715bff9f778a6df80a911f47c53b20d7324519592e31b4a5bb822bd50168f",
+      "after_sha256": "df9715bff9f778a6df80a911f47c53b20d7324519592e31b4a5bb822bd50168f",
+      "after_bytes": 2458039
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/SOURCES/VISUAL_REFERENCE/README.md",
+      "operation": "unchanged",
+      "before_sha256": "a45fbba115a1c2eb10c57612467fb6cbffda69984f4cd97c3c145f4bb56c876c",
+      "after_sha256": "a45fbba115a1c2eb10c57612467fb6cbffda69984f4cd97c3c145f4bb56c876c",
+      "after_bytes": 247
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/00_PRELIMINARY_DECISIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "a9aaa7bec810ced5156b9d29c4c24fcc1b3422acb7da228ec5099b1d6abb1e52",
+      "after_sha256": "a9aaa7bec810ced5156b9d29c4c24fcc1b3422acb7da228ec5099b1d6abb1e52",
+      "after_bytes": 2284
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/01_ALCHEMY.md",
+      "operation": "unchanged",
+      "before_sha256": "23fe04b58768df6d1a4c5f7302db9e4ae90c4582d312ab80389d08b9e42bc035",
+      "after_sha256": "23fe04b58768df6d1a4c5f7302db9e4ae90c4582d312ab80389d08b9e42bc035",
+      "after_bytes": 1523
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/02_BLACKSMITH_ROW.md",
+      "operation": "unchanged",
+      "before_sha256": "49e9c1613a135c0f5653dbe34dc8d22d25e36547e9c32f653725a6d2e3edb3ca",
+      "after_sha256": "49e9c1613a135c0f5653dbe34dc8d22d25e36547e9c32f653725a6d2e3edb3ca",
+      "after_bytes": 1747
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/03_ARC_TWO.md",
+      "operation": "unchanged",
+      "before_sha256": "d8520cd2e417e3bf8956ddbbbf496e14a5aa856c2ef867430ce950da834fcd21",
+      "after_sha256": "d8520cd2e417e3bf8956ddbbbf496e14a5aa856c2ef867430ce950da834fcd21",
+      "after_bytes": 3561
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md",
+      "operation": "unchanged",
+      "before_sha256": "ea2644e86ffbbf950331c046e3165be38b3b51ce711af087abc8dd685dfbb86b",
+      "after_sha256": "ea2644e86ffbbf950331c046e3165be38b3b51ce711af087abc8dd685dfbb86b",
+      "after_bytes": 2038
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/05_ALCHEMY_DEEP_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "6b64633f698a0fab448d1811d876d49af565cad9995e09eabbc68b14d75581ed",
+      "after_sha256": "6b64633f698a0fab448d1811d876d49af565cad9995e09eabbc68b14d75581ed",
+      "after_bytes": 3532
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/06_CITY_APARTMENT_EMOTIONAL_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "b6737abb58a92a7e387edbcf3229b111714fed1b0f988389162791c77a63197b",
+      "after_sha256": "b6737abb58a92a7e387edbcf3229b111714fed1b0f988389162791c77a63197b",
+      "after_bytes": 2771
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/07_ROW_ARCHITECTURE_AND_TRADES_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "b590dd6b636264a9d9382d0d512b7cc59b0bef9bda182813f7f32b798016da90",
+      "after_sha256": "b590dd6b636264a9d9382d0d512b7cc59b0bef9bda182813f7f32b798016da90",
+      "after_bytes": 3813
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/08_SMITH_CONTRACT_FRIENDSHIP_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "76cc583c207199427a9a40cfae60beefcdc82131122afeb0054393aa3f380372",
+      "after_sha256": "76cc583c207199427a9a40cfae60beefcdc82131122afeb0054393aa3f380372",
+      "after_bytes": 2895
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/09_WEAVE_CARD_AND_TIMELINE_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "db43e4efd7157017e14b6c283837457adba56082ea1cef8955ddc5517e0915e9",
+      "after_sha256": "db43e4efd7157017e14b6c283837457adba56082ea1cef8955ddc5517e0915e9",
+      "after_bytes": 3836
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md",
+      "operation": "unchanged",
+      "before_sha256": "deb498688a5f3ab00ec52506e7b3ac55ee075e05e9afca90573dfb613e5b3fe0",
+      "after_sha256": "deb498688a5f3ab00ec52506e7b3ac55ee075e05e9afca90573dfb613e5b3fe0",
+      "after_bytes": 3846
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/AUDIT/DECISION_MATRIX.md",
+      "operation": "unchanged",
+      "before_sha256": "32deab4c50c6bc7f33952182f26a6e370a2babb98db13704009651fc71f5e0f6",
+      "after_sha256": "32deab4c50c6bc7f33952182f26a6e370a2babb98db13704009651fc71f5e0f6",
+      "after_bytes": 4053
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/AUDIT/REVERSE_DIFF.md",
+      "operation": "unchanged",
+      "before_sha256": "38a1a95ca861a737d5e09c34ded7e4e174f2e1a83c7de0249c1bf6823c6da8d8",
+      "after_sha256": "38a1a95ca861a737d5e09c34ded7e4e174f2e1a83c7de0249c1bf6823c6da8d8",
+      "after_bytes": 3281
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/CANON_DELTA/ACTIVE_AUTHOR_DIRECTIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "870807ab8b851bbc66791d577f175669df5f2fa636b117c28f66921e716eb3b5",
+      "after_sha256": "870807ab8b851bbc66791d577f175669df5f2fa636b117c28f66921e716eb3b5",
+      "after_bytes": 2776
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/Executable.md",
+      "operation": "unchanged",
+      "before_sha256": "6beb66a999f7928505ca84f12eaf527b514a02f50c00924a656119987084ff9b",
+      "after_sha256": "6beb66a999f7928505ca84f12eaf527b514a02f50c00924a656119987084ff9b",
+      "after_bytes": 3450
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/INTEGRATION_INDEX.md",
+      "operation": "unchanged",
+      "before_sha256": "234b637cc64cd12b253ba93ebc99ee7b03afccb75f8a167ddc9443fc798d9cf3",
+      "after_sha256": "234b637cc64cd12b253ba93ebc99ee7b03afccb75f8a167ddc9443fc798d9cf3",
+      "after_bytes": 9185
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "a10ec8a9511c6cd86e9b5a9651851e86d05f26469e80cf3791fc63f5dba71e66",
+      "after_sha256": "a10ec8a9511c6cd86e9b5a9651851e86d05f26469e80cf3791fc63f5dba71e66",
+      "after_bytes": 2459
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/README.md",
+      "operation": "unchanged",
+      "before_sha256": "00cbdda3aa5ebd944e6c56d0c9e31640994235fbff5c665be71665c74471717b",
+      "after_sha256": "00cbdda3aa5ebd944e6c56d0c9e31640994235fbff5c665be71665c74471717b",
+      "after_bytes": 1353
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/SOURCES/SOURCE_REGISTER.md",
+      "operation": "unchanged",
+      "before_sha256": "f5a974705e856a535de992a96db401e77a5d69b173cbfcd765e291f2405b41be",
+      "after_sha256": "f5a974705e856a535de992a96db401e77a5d69b173cbfcd765e291f2405b41be",
+      "after_bytes": 3336
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/VISUAL_REFERENCE/README.md",
+      "operation": "unchanged",
+      "before_sha256": "bacced62913a655805c3d87ea4492acb09b816fb3f9232574bc3c1b407c3437f",
+      "after_sha256": "bacced62913a655805c3d87ea4492acb09b816fb3f9232574bc3c1b407c3437f",
+      "after_bytes": 530
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/VISUAL_REFERENCE/SHAPING_ENERGY_MONTAGE.png",
+      "operation": "unchanged",
+      "before_sha256": "99eb08720016ee2d3954e7331f77042cb3bebc3814936f0b194adbdf19af213f",
+      "after_sha256": "99eb08720016ee2d3954e7331f77042cb3bebc3814936f0b194adbdf19af213f",
+      "after_bytes": 2691320
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md",
+      "operation": "unchanged",
+      "before_sha256": "a8b6842d90ad0215e59b251e79e3b56ce72f5cbc962791375d547d987f228610",
+      "after_sha256": "a8b6842d90ad0215e59b251e79e3b56ce72f5cbc962791375d547d987f228610",
+      "after_bytes": 5718
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/02_BLACK_BONDS_PROPHECIES_AND_LEGACY.md",
+      "operation": "unchanged",
+      "before_sha256": "fd2fa3edff4cc7e7491f234443ffe101357cfdd8d81376b3a2f1229e7eb43d54",
+      "after_sha256": "fd2fa3edff4cc7e7491f234443ffe101357cfdd8d81376b3a2f1229e7eb43d54",
+      "after_bytes": 3502
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/03_BLACK_CARD_DESIGN_EVOLUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "2659f506cba668a9d97053a7efb7fb070909a5f67b63c56dabc06395d3dd1326",
+      "after_sha256": "2659f506cba668a9d97053a7efb7fb070909a5f67b63c56dabc06395d3dd1326",
+      "after_bytes": 6621
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/04_INTERNAL_MANIFOLDS_ENERGY_AND_VISUALS.md",
+      "operation": "unchanged",
+      "before_sha256": "d203689c834d360f4c113fde9fc3b068ea80c72d2f843260516f509a5829d1a1",
+      "after_sha256": "d203689c834d360f4c113fde9fc3b068ea80c72d2f843260516f509a5829d1a1",
+      "after_bytes": 6671
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md",
+      "operation": "unchanged",
+      "before_sha256": "6418a7d43bc6fd0bd65440f4e9b8a651a627e26e86f9c2ef13ec9c35bd9feba5",
+      "after_sha256": "6418a7d43bc6fd0bd65440f4e9b8a651a627e26e86f9c2ef13ec9c35bd9feba5",
+      "after_bytes": 3698
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "77e4f7e2e3023593a8199474722d495cf8ce04313e1d164fc2ce4ac7e5431980",
+      "after_bytes": 2552
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "1b3d9f69f65bdf084074e34c6f41bb3f065a811d93dc5d2935db73068a0afe5c",
+      "after_bytes": 2792
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/Executable.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "6b2f19f5a7541d787cde9b5f921626939c78c92c28ecf8c1323dd91f9505c7e8",
+      "after_bytes": 5706
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "9b95623045d96b1da824500b95c304649d60be0c95f1bbf813052164b60454b2",
+      "after_bytes": 3051
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/MANIFEST.json",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "d81935dae9ff6cf00d3400619fcedab244b15207182dbc9b7b1ba36d80f78c67",
+      "after_bytes": 938
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/README.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "b93c28477a3be95e8cd11e5171e3334d15e36e1484ac3317d8244ca5c254427e",
+      "after_bytes": 876
+    },
+    {
+      "path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/SOURCES/REGISTER.md",
+      "operation": "add",
+      "before_sha256": null,
+      "after_sha256": "01cfe1c2ae41fc1418228e2ca5c0a43fa34ca3c543385a616b9ed8a991fb0b18",
+      "after_bytes": 1681
+    },
+    {
+      "path": "README.md",
+      "operation": "unchanged",
+      "before_sha256": "57e44c23537d92736fa9bd725fa790f04d1f4f154d1a760e859264fac015011f",
+      "after_sha256": "57e44c23537d92736fa9bd725fa790f04d1f4f154d1a760e859264fac015011f",
+      "after_bytes": 1365
+    },
+    {
+      "path": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "operation": "modify",
+      "before_sha256": "7518894e8e5d27b41e9cfdd01c98fc08f826aadcd3d20411d84ddce5de19601a",
+      "after_sha256": "4326544c8aef7c4669534cd5ed6ac403c6a8a865c6fc9124ce01b1982d3e1be5",
+      "after_bytes": 21217
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/FOUNDATIONAL_SOURCE_CONTRACT.md",
+      "operation": "unchanged",
+      "before_sha256": "1417bf5b3e6236c557769d24009604c3969eaf87a3585c97062e86fcdb4a1b4a",
+      "after_sha256": "1417bf5b3e6236c557769d24009604c3969eaf87a3585c97062e86fcdb4a1b4a",
+      "after_bytes": 10505
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "d9cdd4af19b994281d2f1c292db381f940911a25dc34e3339c99219841b0f016",
+      "after_sha256": "d9cdd4af19b994281d2f1c292db381f940911a25dc34e3339c99219841b0f016",
+      "after_bytes": 945
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/README.md",
+      "operation": "unchanged",
+      "before_sha256": "9d8f560762005210fe319aa684c397b98205e3ff3a78b5f00f6dcfe9829d7284",
+      "after_sha256": "9d8f560762005210fe319aa684c397b98205e3ff3a78b5f00f6dcfe9829d7284",
+      "after_bytes": 317
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/RESOLUTION_BANDWIDTH_AND_CHIRALITY.md",
+      "operation": "unchanged",
+      "before_sha256": "62317d24f3a5bb5efd469dbb8dcf2a4dc9bcf67c3111b14bda94f8f7c6938e5a",
+      "after_sha256": "62317d24f3a5bb5efd469dbb8dcf2a4dc9bcf67c3111b14bda94f8f7c6938e5a",
+      "after_bytes": 13449
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/ALIAS_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "aa55f5a9f1f585cb46330c02c744fcd276d97c4b41a16ad5b9cd3c537ec8aacf",
+      "after_sha256": "aa55f5a9f1f585cb46330c02c744fcd276d97c4b41a16ad5b9cd3c537ec8aacf",
+      "after_bytes": 422
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CHANGELOG.md",
+      "operation": "unchanged",
+      "before_sha256": "0cacce2462991defb3f0d11ed27f6c3454bc934fa2be25f1e24b0b9bd8d8adad",
+      "after_sha256": "0cacce2462991defb3f0d11ed27f6c3454bc934fa2be25f1e24b0b9bd8d8adad",
+      "after_bytes": 6096
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/CURRENT_RELEASE_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "ca7b5cc7eade88b1578557166c8ae70dedcf6c6fb50373a80eb4aff0dece68fd",
+      "after_sha256": "ca7b5cc7eade88b1578557166c8ae70dedcf6c6fb50373a80eb4aff0dece68fd",
+      "after_bytes": 10276
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/EXTRACTION_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "d220ebd8776a87a3c41c2ebd6274bb679638ae79ec56637476535ef625b898bb",
+      "after_sha256": "d220ebd8776a87a3c41c2ebd6274bb679638ae79ec56637476535ef625b898bb",
+      "after_bytes": 18386
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_EQUATION_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "223ddf411522444de72fd953e9cecb475fe931efc5fdd540e4787af2f8319ead",
+      "after_sha256": "223ddf411522444de72fd953e9cecb475fe931efc5fdd540e4787af2f8319ead",
+      "after_bytes": 6726
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_MECHANISM_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "0ff25fa6433c14bb3e14607b8aa5ba170781c98ba56950d678653da26318d5dd",
+      "after_sha256": "0ff25fa6433c14bb3e14607b8aa5ba170781c98ba56950d678653da26318d5dd",
+      "after_bytes": 1057
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_OBJECT_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "934880d86e92bdc37ba44df2ddca1164af084f46bb5187bf3f1e552e4caf6aa7",
+      "after_sha256": "934880d86e92bdc37ba44df2ddca1164af084f46bb5187bf3f1e552e4caf6aa7",
+      "after_bytes": 12822
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/HAWKING_SOURCE_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "6a28bff1fd993e28b22367f550a69cd5773f8777380acb5b3b3e8a42a44fdf99",
+      "after_sha256": "6a28bff1fd993e28b22367f550a69cd5773f8777380acb5b3b3e8a42a44fdf99",
+      "after_bytes": 1003
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/LIVE_RUNTIME_STATE.md",
+      "operation": "unchanged",
+      "before_sha256": "dd03fb243bbe470a232accb50f06932f52bcfefc895066715723834afb2ff04c",
+      "after_sha256": "dd03fb243bbe470a232accb50f06932f52bcfefc895066715723834afb2ff04c",
+      "after_bytes": 491
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_CURRENT_CANONICAL.md",
+      "operation": "unchanged",
+      "before_sha256": "0071c1d9d6a89c283f57a9c225857fa8f49a63f8caff86d83cca4a66896b0259",
+      "after_sha256": "0071c1d9d6a89c283f57a9c225857fa8f49a63f8caff86d83cca4a66896b0259",
+      "after_bytes": 2032374
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP42_BACKUP.md",
+      "operation": "unchanged",
+      "before_sha256": "b7a6fd6793b2a79e4de193d0641f5a5e1db0ffb90fe1ebb757649058cf2430bb",
+      "after_sha256": "b7a6fd6793b2a79e4de193d0641f5a5e1db0ffb90fe1ebb757649058cf2430bb",
+      "after_bytes": 1823192
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_PRE_RP43_BACKUP.md",
+      "operation": "unchanged",
+      "before_sha256": "0150803639cd38c9159a06155819b913e8f3151ca429296e12c52f598745cd6c",
+      "after_sha256": "0150803639cd38c9159a06155819b913e8f3151ca429296e12c52f598745cd6c",
+      "after_bytes": 1827822
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/MK43_Ultra_API_v2.0_GENESIS_CANONICAL.md",
+      "operation": "unchanged",
+      "before_sha256": "8d0e82176f77fc6bb7a2684aabbf16aa5faf48ab0b5b2aa6e33707c13da8be32",
+      "after_sha256": "8d0e82176f77fc6bb7a2684aabbf16aa5faf48ab0b5b2aa6e33707c13da8be32",
+      "after_bytes": 1453258
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PACKAGE_CHECKSUMS.sha256",
+      "operation": "unchanged",
+      "before_sha256": "1c3c02a29b5955a351fd0d14cc9fb3e9810703bcbb291847144ff80ba60cc899",
+      "after_sha256": "1c3c02a29b5955a351fd0d14cc9fb3e9810703bcbb291847144ff80ba60cc899",
+      "after_bytes": 5896
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_EQUATION_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "a4bb0eba6ec6c5ac53fe12078e199e1d0aa80565279c3d4c70b0643b6be372d8",
+      "after_sha256": "a4bb0eba6ec6c5ac53fe12078e199e1d0aa80565279c3d4c70b0643b6be372d8",
+      "after_bytes": 4269
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_OBJECT_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "145f5b93968f1d3e4094e83c045181e1e60115564954de9fb1ffe6201b617bf7",
+      "after_sha256": "145f5b93968f1d3e4094e83c045181e1e60115564954de9fb1ffe6201b617bf7",
+      "after_bytes": 11347
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/PENROSE_THEOREM_REGISTRY.json",
+      "operation": "unchanged",
+      "before_sha256": "b61c401d68ff5233a43dd8782472122e9b96428ee250391a0baacaaca35fa161",
+      "after_sha256": "b61c401d68ff5233a43dd8782472122e9b96428ee250391a0baacaaca35fa161",
+      "after_bytes": 943
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/READ_FIRST_MK163.md",
+      "operation": "unchanged",
+      "before_sha256": "ea3a6b288000fe714903203706a8bd78575bfddea31cf44191c022d6b9c1a4c1",
+      "after_sha256": "ea3a6b288000fe714903203706a8bd78575bfddea31cf44191c022d6b9c1a4c1",
+      "after_bytes": 992
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RECOVERY_PASS_30_CURRENT_UPDATE.md",
+      "operation": "unchanged",
+      "before_sha256": "207c15c35d9c5d0f46122d9b5244b5b7f2f0530e6bf14db7bf06b5e47b0b3234",
+      "after_sha256": "207c15c35d9c5d0f46122d9b5244b5b7f2f0530e6bf14db7bf06b5e47b0b3234",
+      "after_bytes": 11730
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RELEASE_MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "3eb01316f908ce0732c0f22a505e6acc6161950c7bc6a52240243a1f710975a7",
+      "after_sha256": "3eb01316f908ce0732c0f22a505e6acc6161950c7bc6a52240243a1f710975a7",
+      "after_bytes": 833
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP40_STRUCTURAL_UPDATE_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "f3eae846d4fe254770c2018bbe293a19939aaf383226cbdc4c78f7f817d5a47c",
+      "after_sha256": "f3eae846d4fe254770c2018bbe293a19939aaf383226cbdc4c78f7f817d5a47c",
+      "after_bytes": 581
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP41_RECURSIVE_RECOVERY_ENGINE_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "1cd9c0c59423c7876f584039986913a7f239ec67a12fd471601a30dc9a7810e6",
+      "after_sha256": "1cd9c0c59423c7876f584039986913a7f239ec67a12fd471601a30dc9a7810e6",
+      "after_bytes": 803
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_001.bin",
+      "operation": "unchanged",
+      "before_sha256": "ec8cdb0bf6935e1aa5497b51b4dafba608a96cabc541ae707a8aea4f3d9bf13a",
+      "after_sha256": "ec8cdb0bf6935e1aa5497b51b4dafba608a96cabc541ae707a8aea4f3d9bf13a",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_002.bin",
+      "operation": "unchanged",
+      "before_sha256": "dd019e1ec5e4148587da37b099997403d355b2cc5adc9225c3b04db8d207faff",
+      "after_sha256": "dd019e1ec5e4148587da37b099997403d355b2cc5adc9225c3b04db8d207faff",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_003.bin",
+      "operation": "unchanged",
+      "before_sha256": "11eed28259f085a44b64312f0bd2060e01667a868bbf09521ada18ac09674c66",
+      "after_sha256": "11eed28259f085a44b64312f0bd2060e01667a868bbf09521ada18ac09674c66",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_004.bin",
+      "operation": "unchanged",
+      "before_sha256": "eea1a6a801e7347955b93eaf61c439534814e42e2b078b9e18a757c7a2af1fdc",
+      "after_sha256": "eea1a6a801e7347955b93eaf61c439534814e42e2b078b9e18a757c7a2af1fdc",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_005.bin",
+      "operation": "unchanged",
+      "before_sha256": "a982f5eca55330409fed52243d644948501ae51ea1b2b4f11508d88d6bf0d1f9",
+      "after_sha256": "a982f5eca55330409fed52243d644948501ae51ea1b2b4f11508d88d6bf0d1f9",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_006.bin",
+      "operation": "unchanged",
+      "before_sha256": "0eb58fa72e9cc401dab40a3391e34e8e9c0f165dab5a73f799a0f6cf01b951ed",
+      "after_sha256": "0eb58fa72e9cc401dab40a3391e34e8e9c0f165dab5a73f799a0f6cf01b951ed",
+      "after_bytes": 20971520
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_DEPENDENCY_INDEX.json.parts/part_007.bin",
+      "operation": "unchanged",
+      "before_sha256": "6629326dd27986bad2a332537a2af10ee85a7cd2dbf0286bed700ed36b54e532",
+      "after_sha256": "6629326dd27986bad2a332537a2af10ee85a7cd2dbf0286bed700ed36b54e532",
+      "after_bytes": 5854690
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_FINAL_CLOSURE_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "0721c14f79f0e6d2b0a44506a1be6d7cb4990d7613eb94dfded724fd35e8cea1",
+      "after_sha256": "0721c14f79f0e6d2b0a44506a1be6d7cb4990d7613eb94dfded724fd35e8cea1",
+      "after_bytes": 803
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP42_PACKAGE_MANIFEST.md",
+      "operation": "unchanged",
+      "before_sha256": "63f2f3cb8ba4b817d9d30e540a414026694ed3600714fe397960a121ab03b21b",
+      "after_sha256": "63f2f3cb8ba4b817d9d30e540a414026694ed3600714fe397960a121ab03b21b",
+      "after_bytes": 510
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP43_GENERAL_RELATIVITY_CLOSURE_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "0c5daf4cfbcd9bf21fe97f6a245caabb4094f7b8d1920ec231b2335ed0003e00",
+      "after_sha256": "0c5daf4cfbcd9bf21fe97f6a245caabb4094f7b8d1920ec231b2335ed0003e00",
+      "after_bytes": 829
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP44_GENERAL_RELATIVITY_EDGE_CRAWL_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "3eba991212d92f93e76282564ecb4eda03bb37889abd473ac2dddcd70de00b47",
+      "after_sha256": "3eba991212d92f93e76282564ecb4eda03bb37889abd473ac2dddcd70de00b47",
+      "after_bytes": 3387
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP45_GR_DEPENDENCY_LANDSCAPE_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "4183226a6fb598c9ce51db54a68425e8ba28f4f3af010ff5a3df140a3a6486bd",
+      "after_sha256": "4183226a6fb598c9ce51db54a68425e8ba28f4f3af010ff5a3df140a3a6486bd",
+      "after_bytes": 8646
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP46_BLACK_HOLE_RECURSIVE_CRAWL_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "fe972d39dc603cb51dcbedf18487592647e20606f649d42b108adbfee9037ff7",
+      "after_sha256": "fe972d39dc603cb51dcbedf18487592647e20606f649d42b108adbfee9037ff7",
+      "after_bytes": 877
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP47_GR_GLOBAL_RECURSIVE_CRAWL_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "c306e9789c1d8c8ab18ab4712d1afbc3a7659ce62612b75858501a0a93dcfb27",
+      "after_sha256": "c306e9789c1d8c8ab18ab4712d1afbc3a7659ce62612b75858501a0a93dcfb27",
+      "after_bytes": 920
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP48_WHITE_STATE_SINGULARITY_TARGETED_CLOSURE.md",
+      "operation": "unchanged",
+      "before_sha256": "3c8362d566b5f742c055a8c6661a41d0911c1d799709b3d7ad5aaf0c4f31e375",
+      "after_sha256": "3c8362d566b5f742c055a8c6661a41d0911c1d799709b3d7ad5aaf0c4f31e375",
+      "after_bytes": 961
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP49_SINGULARITY_MODE_ROUTING_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "03404b9e4aa5f360fc442a0006743bd76f9754a5720667504c0e3a1c6bb4c0c1",
+      "after_sha256": "03404b9e4aa5f360fc442a0006743bd76f9754a5720667504c0e3a1c6bb4c0c1",
+      "after_bytes": 858
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP50_PENROSE_INTEGRATION_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "5c66e64c9ed25909e1e82240317c1062317cb64c029ea3dd837e267a406aea89",
+      "after_sha256": "5c66e64c9ed25909e1e82240317c1062317cb64c029ea3dd837e267a406aea89",
+      "after_bytes": 1151
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP51_BLACK_HOLE_DEPENDENCY_GRAPH_AUDIT.md",
+      "operation": "unchanged",
+      "before_sha256": "ebd3dd6f4b5f451f345d832aa1d59bd40630008ce7c79a55e29c49367b53d166",
+      "after_sha256": "ebd3dd6f4b5f451f345d832aa1d59bd40630008ce7c79a55e29c49367b53d166",
+      "after_bytes": 688
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP52_HAWKING_INTEGRATION_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "7ce2980280452335b092a21400ed313e356a090d6f669a320642d6b7cabbab62",
+      "after_sha256": "7ce2980280452335b092a21400ed313e356a090d6f669a320642d6b7cabbab62",
+      "after_bytes": 1213
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/RP53_BLACK_HOLE_GLOBAL_CRAWL_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "57316730e87b68ead73f8a45f0f5001060ea3e882234084fdf269f00eba7014f",
+      "after_sha256": "57316730e87b68ead73f8a45f0f5001060ea3e882234084fdf269f00eba7014f",
+      "after_bytes": 571
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/SINGULARITY_MODE_ROUTING.json",
+      "operation": "unchanged",
+      "before_sha256": "3eec43e9995ec9a08e8a90c991bcb34670e2586943c8ff9affd67a26a1177815",
+      "after_sha256": "3eec43e9995ec9a08e8a90c991bcb34670e2586943c8ff9affd67a26a1177815",
+      "after_bytes": 1276
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "6809c70c88c7fd28d16a0c8d183f6a12d2ea50e3b361c9580bb8fb21987c8b24",
+      "after_sha256": "6809c70c88c7fd28d16a0c8d183f6a12d2ea50e3b361c9580bb8fb21987c8b24",
+      "after_bytes": 433
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_CURRENT.md",
+      "operation": "unchanged",
+      "before_sha256": "08e4f118042d71359cf89d1c92d6ed122ba33cbe112635c39141419f227d41ec",
+      "after_sha256": "08e4f118042d71359cf89d1c92d6ed122ba33cbe112635c39141419f227d41ec",
+      "after_bytes": 718
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP43.json",
+      "operation": "unchanged",
+      "before_sha256": "e0a511e2c7d9b670c0270e878bd4869980e29042b251cf7ba2880dd1e44921a2",
+      "after_sha256": "e0a511e2c7d9b670c0270e878bd4869980e29042b251cf7ba2880dd1e44921a2",
+      "after_bytes": 713
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP44.json",
+      "operation": "unchanged",
+      "before_sha256": "7fd88f64fc83b046d62d61b2e5fe661bd15776906940ab770676a12942771711",
+      "after_sha256": "7fd88f64fc83b046d62d61b2e5fe661bd15776906940ab770676a12942771711",
+      "after_bytes": 616
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP45.json",
+      "operation": "unchanged",
+      "before_sha256": "ab50d34fcc618de6afba6bca986fa734b57d7af130decc9c7992112d099a9244",
+      "after_sha256": "ab50d34fcc618de6afba6bca986fa734b57d7af130decc9c7992112d099a9244",
+      "after_bytes": 648
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP46.json",
+      "operation": "unchanged",
+      "before_sha256": "c23b680bfd2c9a4ed805e4fe2b7fdf5db31b529964ca193f8629d7d2a824bb8a",
+      "after_sha256": "c23b680bfd2c9a4ed805e4fe2b7fdf5db31b529964ca193f8629d7d2a824bb8a",
+      "after_bytes": 649
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP47.json",
+      "operation": "unchanged",
+      "before_sha256": "ba77e1739969e0e8869536f215c921b8ba11f3afc41e4f437887d8019e9c6c69",
+      "after_sha256": "ba77e1739969e0e8869536f215c921b8ba11f3afc41e4f437887d8019e9c6c69",
+      "after_bytes": 3963
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP48.json",
+      "operation": "unchanged",
+      "before_sha256": "bab46701137dc39fa4c4e79aeeae39cda72c23802872951301faea6e445555d1",
+      "after_sha256": "bab46701137dc39fa4c4e79aeeae39cda72c23802872951301faea6e445555d1",
+      "after_bytes": 632
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP49.json",
+      "operation": "unchanged",
+      "before_sha256": "f696d3ca40c7890553c3b1dd41bf02826012651045c9c14fb9538c9a162d4b8e",
+      "after_sha256": "f696d3ca40c7890553c3b1dd41bf02826012651045c9c14fb9538c9a162d4b8e",
+      "after_bytes": 610
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP50.json",
+      "operation": "unchanged",
+      "before_sha256": "7769baa5446da2c64db5eeec548fad38735af2a33e6888bce822c774c02147aa",
+      "after_sha256": "7769baa5446da2c64db5eeec548fad38735af2a33e6888bce822c774c02147aa",
+      "after_bytes": 1018
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP51.json",
+      "operation": "unchanged",
+      "before_sha256": "e27fef566c94b76b6be8ad7482955421d30f54335278af3d0145b323d1761e21",
+      "after_sha256": "e27fef566c94b76b6be8ad7482955421d30f54335278af3d0145b323d1761e21",
+      "after_bytes": 1006
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP52.json",
+      "operation": "unchanged",
+      "before_sha256": "620acbc468161e0584b53a53526b0eb6dbdc6f7a063104ed1855907397f1e439",
+      "after_sha256": "620acbc468161e0584b53a53526b0eb6dbdc6f7a063104ed1855907397f1e439",
+      "after_bytes": 1417
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/VALIDATION_REPORT_RP53.json",
+      "operation": "unchanged",
+      "before_sha256": "cc67bcf130200affd8af847045463147763616c27642e8cf0b580d1e8158bc78",
+      "after_sha256": "cc67bcf130200affd8af847045463147763616c27642e8cf0b580d1e8158bc78",
+      "after_bytes": 922
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MANIFEST.json",
+      "operation": "unchanged",
+      "before_sha256": "69df9326ef78025d28f3f6e2ca389ce88dea32dc2ecbbf27a26b13e68b1d780b",
+      "after_sha256": "69df9326ef78025d28f3f6e2ca389ce88dea32dc2ecbbf27a26b13e68b1d780b",
+      "after_bytes": 1268
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH.json",
+      "operation": "unchanged",
+      "before_sha256": "09137fc8f5b18bbcfd60aab715100e6d856578842a54eee9e6ebf401045fe1e4",
+      "after_sha256": "09137fc8f5b18bbcfd60aab715100e6d856578842a54eee9e6ebf401045fe1e4",
+      "after_bytes": 220228
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_DEPENDENCY_GRAPH_INTEGRATED.json",
+      "operation": "unchanged",
+      "before_sha256": "9e3c343e800efe5bc7a2f386d4dc0f2712f9ee8f6f8d8d75bb122feb497795d0",
+      "after_sha256": "9e3c343e800efe5bc7a2f386d4dc0f2712f9ee8f6f8d8d75bb122feb497795d0",
+      "after_bytes": 221499
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/MK43_GR_MATHEMATICAL_MODEL.md",
+      "operation": "unchanged",
+      "before_sha256": "2015f1dd2978202a518e29e0d7e3da71ae7ec74488dc125dec8631b9295ee9ac",
+      "after_sha256": "2015f1dd2978202a518e29e0d7e3da71ae7ec74488dc125dec8631b9295ee9ac",
+      "after_bytes": 43645
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/general_relativity_rp43/VALIDATION_REPORT.md",
+      "operation": "unchanged",
+      "before_sha256": "1df0b3846e596b971d9134c79695e94c3c14f6d2aea47a3b066445d721731408",
+      "after_sha256": "1df0b3846e596b971d9134c79695e94c3c14f6d2aea47a3b066445d721731408",
+      "after_bytes": 321
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Grammar(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "4814e50bbaf5a16c757991c5307d26f47afdc06e8ff6f5de0cfc9637d69d9961",
+      "after_sha256": "4814e50bbaf5a16c757991c5307d26f47afdc06e8ff6f5de0cfc9637d69d9961",
+      "after_bytes": 145919
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Phonology(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "dca0205f0bbcf1fffc41b0f8723f6d7e79a64ddb03c6911125d16996d0047b10",
+      "after_sha256": "dca0205f0bbcf1fffc41b0f8723f6d7e79a64ddb03c6911125d16996d0047b10",
+      "after_bytes": 127679
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Root Family(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "5b8d0d82c9b8f5ef13169820f76b0783f4a6b4a284f43735d78b92909b96680c",
+      "after_sha256": "5b8d0d82c9b8f5ef13169820f76b0783f4a6b4a284f43735d78b92909b96680c",
+      "after_bytes": 120655
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rosetta(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "54c24e94a2ac6652fd8a5280f2e6e19c8ad1f532c624f0ec3dfd044a3ac32aa2",
+      "after_sha256": "54c24e94a2ac6652fd8a5280f2e6e19c8ad1f532c624f0ec3dfd044a3ac32aa2",
+      "after_bytes": 3995
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Rules(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "9bb3ca84f0cfacc989d63a852decbf1bc11cb8d10a114ba6187bd5b608df1fb2",
+      "after_sha256": "9bb3ca84f0cfacc989d63a852decbf1bc11cb8d10a114ba6187bd5b608df1fb2",
+      "after_bytes": 149572
+    },
+    {
+      "path": "WORLD_CLOCK/L0_MATHEMATICS/SOURCE_API_4_3/sources/genesis_language_v0.1/Structure(10).pdf",
+      "operation": "unchanged",
+      "before_sha256": "744d6b14045f345721b7a1eb29322f8f527604909905bed4ce04b595caee4b0b",
+      "after_sha256": "744d6b14045f345721b7a1eb29322f8f527604909905bed4ce04b595caee4b0b",
+      "after_bytes": 112105
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_BANDWIDTH_AND_CONCEPT.md",
+      "operation": "unchanged",
+      "before_sha256": "4fa7dcce897ef298f0f8b2ee51fa1d314d89cdb6b46d06fc5a563cff097e1b3a",
+      "after_sha256": "4fa7dcce897ef298f0f8b2ee51fa1d314d89cdb6b46d06fc5a563cff097e1b3a",
+      "after_bytes": 13302
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/BINDING_CIRCLES_AND_INSTALLATION.md",
+      "operation": "unchanged",
+      "before_sha256": "4c5dccf5b49b507756c5311e019089135c69b02e39af555816d14f0fe1a84171",
+      "after_sha256": "4c5dccf5b49b507756c5311e019089135c69b02e39af555816d14f0fe1a84171",
+      "after_bytes": 7673
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/CHROMATIC_DOMAIN_STRUCTURE.md",
+      "operation": "unchanged",
+      "before_sha256": "a1191a9a507b33f79e0ba907bc75602de56191dc1d5f0fce9b073b23b4a248ad",
+      "after_sha256": "a1191a9a507b33f79e0ba907bc75602de56191dc1d5f0fce9b073b23b4a248ad",
+      "after_bytes": 6276
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/ER_FOAM_PROJECTION.md",
+      "operation": "unchanged",
+      "before_sha256": "5e6bb769dfc13f8245a6effc8718a3b988122dcaa41e6afbc8622062c22687a7",
+      "after_sha256": "5e6bb769dfc13f8245a6effc8718a3b988122dcaa41e6afbc8622062c22687a7",
+      "after_bytes": 7323
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md",
+      "operation": "modify",
+      "before_sha256": "02d866515432c1fd9c2d8498832a4222f1384c2818a82108d8abb611b88b100a",
+      "after_sha256": "e043787f7db222438b78bff8b89d50b357f998f657d576e9e4916dbcca4752d3",
+      "after_bytes": 25603
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+      "operation": "modify",
+      "before_sha256": "4ccc59fa6c3de395ae3e47d53f98c49f998f1a322ed82bdcd3a049bfd805266e",
+      "after_sha256": "16ab900387a85256517a7bf8aa3438936ba315ea889303570c3b745bb0aaf5f1",
+      "after_bytes": 30923
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "49466c53e6ee3fe079713c9ff63343b5aa1f8886533648018889fdd599d7ec40",
+      "after_sha256": "49466c53e6ee3fe079713c9ff63343b5aa1f8886533648018889fdd599d7ec40",
+      "after_bytes": 3100
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NATIVE_GENESIS.md",
+      "operation": "unchanged",
+      "before_sha256": "8bbde649874d0e5c5bfa1961a2dd35c2f9475eecfe3406c920bed57fda8bfafc",
+      "after_sha256": "8bbde649874d0e5c5bfa1961a2dd35c2f9475eecfe3406c920bed57fda8bfafc",
+      "after_bytes": 19187
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md",
+      "operation": "modify",
+      "before_sha256": "3dc0b1e4313c4e1281a4fecb546518151c2228f27459ded422713a49a2e5f9c6",
+      "after_sha256": "688979bc76122d20fe9a5b1a34fc901bcb20aea64f2cb382571aa681353274d9",
+      "after_bytes": 12313
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+      "operation": "unchanged",
+      "before_sha256": "52f66f22d596c22c14715e104e328ae8450225c6c30868af02bbce293e0306ee",
+      "after_sha256": "52f66f22d596c22c14715e104e328ae8450225c6c30868af02bbce293e0306ee",
+      "after_bytes": 9951
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+      "operation": "unchanged",
+      "before_sha256": "72f3bfd7ba0c2d9825298fd7cfea55107f44f939247ed521e4c866527e08cfce",
+      "after_sha256": "72f3bfd7ba0c2d9825298fd7cfea55107f44f939247ed521e4c866527e08cfce",
+      "after_bytes": 15131
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/01_THE_SEVEN_REALMS.md",
+      "operation": "unchanged",
+      "before_sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "after_sha256": "dcf7598d967b636a4b267cf11a999ea6088fbf335ee24311a44fb31ca751026c",
+      "after_bytes": 17224
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/02_THE_UNWRITTEN.md",
+      "operation": "unchanged",
+      "before_sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "after_sha256": "4d4d415d95ee08dc0c37194abbf059c47e6e98525fc40e1fbfeeed044e5deed0",
+      "after_bytes": 10044
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/03_BORROWED_HOURS.md",
+      "operation": "unchanged",
+      "before_sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "after_sha256": "9e5fc207d9b1a2ed82ca429aab22c18af0cf3b8577b49a3ed3f9787367a123e5",
+      "after_bytes": 15930
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/04_THE_THOUSAND_THREADS.md",
+      "operation": "unchanged",
+      "before_sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "after_sha256": "8ed23e8896a6f8ac94a7c97652eab0bfd9d86bda62aeedc930c6c504db957b04",
+      "after_bytes": 14948
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/05_THE_COVENANT_GARDEN.md",
+      "operation": "unchanged",
+      "before_sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "after_sha256": "eb1163c4662a21d1fbc65f22d8d8c2ee943baaa21ec274423a305210f92a299a",
+      "after_bytes": 12442
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/06_THE_LIVING_ART.md",
+      "operation": "unchanged",
+      "before_sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "after_sha256": "9c836829430f3f5483031978d60ceb2240ae4e865c9822ee0e8f4c87bcd88a86",
+      "after_bytes": 13377
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/07_THE_CARTOGRAPHERS.md",
+      "operation": "unchanged",
+      "before_sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "after_sha256": "9e4f8b2ddacea44228036ea2b668bf4c33c1c8bceca30f498e7885783d5e8be7",
+      "after_bytes": 10514
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+      "operation": "unchanged",
+      "before_sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "after_sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+      "after_bytes": 17514
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/README.md",
+      "operation": "unchanged",
+      "before_sha256": "d1466594f65913971ee4d04d9e697c264e91f30dd6fe174d1b7270823ed9e9c8",
+      "after_sha256": "d1466594f65913971ee4d04d9e697c264e91f30dd6fe174d1b7270823ed9e9c8",
+      "after_bytes": 1153
+    },
+    {
+      "path": "WORLD_CLOCK/L1_FANTASY/TRANSDUCTION_LIFECYCLE.md",
+      "operation": "unchanged",
+      "before_sha256": "e53672da2f7b22ee80a2adaed8023846060f546294d85fb072a855b10665cf96",
+      "after_sha256": "e53672da2f7b22ee80a2adaed8023846060f546294d85fb072a855b10665cf96",
+      "after_bytes": 12522
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/FOOD_PRODUCTION.md",
+      "operation": "unchanged",
+      "before_sha256": "faff8594d6544d051d24079fc700121840b3acb5208da104b5abd9d282fd37e7",
+      "after_sha256": "faff8594d6544d051d24079fc700121840b3acb5208da104b5abd9d282fd37e7",
+      "after_bytes": 13147
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/AGRICULTURE/ROYAL_AGRICULTURE_HISTORY_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "25053fd3b9c48ecf683c59938f43ff92109a2644e3622e644babc5b33922e685",
+      "after_sha256": "25053fd3b9c48ecf683c59938f43ff92109a2644e3622e644babc5b33922e685",
+      "after_bytes": 1597
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+      "operation": "unchanged",
+      "before_sha256": "45dbef0af5ae48fa1ee3716f0f0f366e2ba80822c3ef5b1b2487f5e3cfdc7775",
+      "after_sha256": "45dbef0af5ae48fa1ee3716f0f0f366e2ba80822c3ef5b1b2487f5e3cfdc7775",
+      "after_bytes": 13609
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+      "operation": "unchanged",
+      "before_sha256": "7dd0082729cec48de145c007df754846f03d40af9e447dd3ccbb69fb7bf08152",
+      "after_sha256": "7dd0082729cec48de145c007df754846f03d40af9e447dd3ccbb69fb7bf08152",
+      "after_bytes": 9487
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AFFLICTED.md",
+      "operation": "unchanged",
+      "before_sha256": "c021544761f8104f2ca377248cc8f37e1724dc7c7913b722916c721b4e4ec981",
+      "after_sha256": "c021544761f8104f2ca377248cc8f37e1724dc7c7913b722916c721b4e4ec981",
+      "after_bytes": 5618
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/HUMANITY_AND_THREE_EXPRESSIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "7a92e0757f1736a3cc788460b50f8831567d07aa0ca832b9398ac69e989b2e83",
+      "after_sha256": "7a92e0757f1736a3cc788460b50f8831567d07aa0ca832b9398ac69e989b2e83",
+      "after_bytes": 4575
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/LONGEVITY.md",
+      "operation": "unchanged",
+      "before_sha256": "93134cd166e14c197d759b6960f4bf81f8c04e1ab33c89ba6bf494ee965d045d",
+      "after_sha256": "93134cd166e14c197d759b6960f4bf81f8c04e1ab33c89ba6bf494ee965d045d",
+      "after_bytes": 16732
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md",
+      "operation": "unchanged",
+      "before_sha256": "99241ed77c50d4f3a5689fc9598bac29f36f6d19e28d5e4c1cf4cb87885e02f3",
+      "after_sha256": "99241ed77c50d4f3a5689fc9598bac29f36f6d19e28d5e4c1cf4cb87885e02f3",
+      "after_bytes": 16175
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md",
+      "operation": "unchanged",
+      "before_sha256": "e0190d5f5ac47ebe042d8d0d7b8a6ab22e8e93a56cb3cbc787ee1d3b8fff296f",
+      "after_sha256": "e0190d5f5ac47ebe042d8d0d7b8a6ab22e8e93a56cb3cbc787ee1d3b8fff296f",
+      "after_bytes": 2294
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md",
+      "operation": "unchanged",
+      "before_sha256": "bb7cc7ab7ed012cb754b45a7fdbe874613555ee0c7b24f193cbf138f854eece2",
+      "after_sha256": "bb7cc7ab7ed012cb754b45a7fdbe874613555ee0c7b24f193cbf138f854eece2",
+      "after_bytes": 15501
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md",
+      "operation": "unchanged",
+      "before_sha256": "49ee234a747740ef6f223bb6400d2cb9e876eed4285b23b60b6365df4b78d0e2",
+      "after_sha256": "49ee234a747740ef6f223bb6400d2cb9e876eed4285b23b60b6365df4b78d0e2",
+      "after_bytes": 9657
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CITY_LOGISTICS_AND_SIGIL_UTILITIES_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "64cede44a39a3b9e77d8faa9749ad1f5e850848638953b1f59670bdece2a65d7",
+      "after_sha256": "64cede44a39a3b9e77d8faa9749ad1f5e850848638953b1f59670bdece2a65d7",
+      "after_bytes": 8068
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+      "operation": "unchanged",
+      "before_sha256": "30c39789ac20a45b703f94aed17bbafd1aa4c38d4c24f9809babefafb82ae70c",
+      "after_sha256": "30c39789ac20a45b703f94aed17bbafd1aa4c38d4c24f9809babefafb82ae70c",
+      "after_bytes": 21672
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/ROYAL_CIVIC_AGRICULTURE_AND_SECURITY_SYNTHESIS.md",
+      "operation": "unchanged",
+      "before_sha256": "1b5048b4ceae32ad4398c2dba32903fa17e128343a196ec699175500bef5e1c7",
+      "after_sha256": "1b5048b4ceae32ad4398c2dba32903fa17e128343a196ec699175500bef5e1c7",
+      "after_bytes": 8226
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/SETTLEMENT_HIERARCHY.md",
+      "operation": "unchanged",
+      "before_sha256": "12b04cda3b66d158fb025748656e4151d9148c9663ff9b698a4b9155e54e06d3",
+      "after_sha256": "12b04cda3b66d158fb025748656e4151d9148c9663ff9b698a4b9155e54e06d3",
+      "after_bytes": 10089
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/TECHNOLOGICAL_ERA.md",
+      "operation": "unchanged",
+      "before_sha256": "fbb9c3bde61ef020c2d34095a341947b20bc15b4c0994515087ac5bcf2d8067e",
+      "after_sha256": "fbb9c3bde61ef020c2d34095a341947b20bc15b4c0994515087ac5bcf2d8067e",
+      "after_bytes": 9298
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+      "operation": "unchanged",
+      "before_sha256": "9230549796ca8a0a4596c3d6bfc73c3b453361128b340b015dd220f984609ef1",
+      "after_sha256": "9230549796ca8a0a4596c3d6bfc73c3b453361128b340b015dd220f984609ef1",
+      "after_bytes": 10804
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+      "operation": "unchanged",
+      "before_sha256": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda",
+      "after_sha256": "6a7aa5d5eec2dd6b90f9840b1522d3d17f86a9508322baa16889014141cf0dda",
+      "after_bytes": 14455
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "operation": "unchanged",
+      "before_sha256": "876f3fc08883fec50c64e9e2a3804a1188a8181c5e86cac35e514f03ef788d64",
+      "after_sha256": "876f3fc08883fec50c64e9e2a3804a1188a8181c5e86cac35e514f03ef788d64",
+      "after_bytes": 24258
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "operation": "unchanged",
+      "before_sha256": "bfced9b96a87662458a7cedbb86cf9a995d4154e8672fdd1b3f9503433029de9",
+      "after_sha256": "bfced9b96a87662458a7cedbb86cf9a995d4154e8672fdd1b3f9503433029de9",
+      "after_bytes": 15654
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/MELEE_COMBAT_COMPETENCY.md",
+      "operation": "unchanged",
+      "before_sha256": "c03880c9739e13eac527d1322f5e518a05d47ed49c9d6af8f8f26a485600b023",
+      "after_sha256": "c03880c9739e13eac527d1322f5e518a05d47ed49c9d6af8f8f26a485600b023",
+      "after_bytes": 2266
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "063b8eb8af08c2bc7806b488612bba5dc249367f39b9caa0d9d0103387319922",
+      "after_sha256": "063b8eb8af08c2bc7806b488612bba5dc249367f39b9caa0d9d0103387319922",
+      "after_bytes": 5707
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_INDIVIDUAL_INCOME_SCALE.md",
+      "operation": "unchanged",
+      "before_sha256": "f6f36c45f74089e1eba4127468adbafc779267062af89d524aae9c4989420810",
+      "after_sha256": "f6f36c45f74089e1eba4127468adbafc779267062af89d524aae9c4989420810",
+      "after_bytes": 2289
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CHROMATIC_RENTAL_AVERAGES.md",
+      "operation": "unchanged",
+      "before_sha256": "afd7372e94da85ab87b2d4122165ea6bf03e3a676ac4899fd040ab04f4081b25",
+      "after_sha256": "afd7372e94da85ab87b2d4122165ea6bf03e3a676ac4899fd040ab04f4081b25",
+      "after_bytes": 3161
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+      "operation": "unchanged",
+      "before_sha256": "ccb5716299759fd5a82f1611b0aa214dfafd00c0179536b89f7bdf37514d2e37",
+      "after_sha256": "ccb5716299759fd5a82f1611b0aa214dfafd00c0179536b89f7bdf37514d2e37",
+      "after_bytes": 29413
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "9a2431eb2bfc195c51584edb994b1d376592007e8f53dc5ca33b0414040abcd2",
+      "after_sha256": "9a2431eb2bfc195c51584edb994b1d376592007e8f53dc5ca33b0414040abcd2",
+      "after_bytes": 2387
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "ec16741bcbe77137eac91e24fb047cbbe28a0321c1456af77f34bbeb2fdb9910",
+      "after_sha256": "ec16741bcbe77137eac91e24fb047cbbe28a0321c1456af77f34bbeb2fdb9910",
+      "after_bytes": 2124
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MATHEMATICS_AND_INTELLECTUAL_PROPERTY.md",
+      "operation": "unchanged",
+      "before_sha256": "28de1b15f48c8bdb349c7eb79a979abb5bc2052b6b0c13aef7f0183110f1ced7",
+      "after_sha256": "28de1b15f48c8bdb349c7eb79a979abb5bc2052b6b0c13aef7f0183110f1ced7",
+      "after_bytes": 6565
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/MELEE_WEAPON_BASE_PRICES.md",
+      "operation": "unchanged",
+      "before_sha256": "b5420862708985c7dcdeefbc04eb3c4391291214bb50b22d298b1619f693591c",
+      "after_sha256": "b5420862708985c7dcdeefbc04eb3c4391291214bb50b22d298b1619f693591c",
+      "after_bytes": 1846
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/WHITE_DUST_CROWN_POLITICAL_ECONOMY.md",
+      "operation": "unchanged",
+      "before_sha256": "86d489a9cda97a849b4b398011e476c6a84f8f1cb44ce3a4ab6ea8ad5a4371c0",
+      "after_sha256": "86d489a9cda97a849b4b398011e476c6a84f8f1cb44ce3a4ab6ea8ad5a4371c0",
+      "after_bytes": 7472
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI.md",
+      "operation": "unchanged",
+      "before_sha256": "e6a1ebbb2e49a660fb63d0758878812e93bfd6a967d4c2f08e8add98cee6f2bb",
+      "after_sha256": "e6a1ebbb2e49a660fb63d0758878812e93bfd6a967d4c2f08e8add98cee6f2bb",
+      "after_bytes": 12968
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DOMAI_SIZES_AND_WHITE_ECONOMY_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "c4a2a58ee2bce57fa93cb90351d50f975a615c3085df81a24a876f0c197ba4dc",
+      "after_sha256": "c4a2a58ee2bce57fa93cb90351d50f975a615c3085df81a24a876f0c197ba4dc",
+      "after_bytes": 2685
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+      "operation": "unchanged",
+      "before_sha256": "72fbc1ecf0ae9fc15b9ac5a7b053aa221a0d2dd5ec7db2cb1d3223946800e8a7",
+      "after_sha256": "72fbc1ecf0ae9fc15b9ac5a7b053aa221a0d2dd5ec7db2cb1d3223946800e8a7",
+      "after_bytes": 14901
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md",
+      "operation": "unchanged",
+      "before_sha256": "618eee0f78ea9b4b02988df24d9c3d4c53d892cd3fad18a4ab4a9002266599e7",
+      "after_sha256": "618eee0f78ea9b4b02988df24d9c3d4c53d892cd3fad18a4ab4a9002266599e7",
+      "after_bytes": 16000
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "operation": "unchanged",
+      "before_sha256": "05cb534f1ad87e5e18704c54eae83f6cdcf4dcd6cb64aee8f357caf55d24781b",
+      "after_sha256": "05cb534f1ad87e5e18704c54eae83f6cdcf4dcd6cb64aee8f357caf55d24781b",
+      "after_bytes": 9774
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_MINES.md",
+      "operation": "unchanged",
+      "before_sha256": "6f5339ba1e6b74fd11eab0dd103ea73ecb1987b2b654ba360a75250b5e0dea80",
+      "after_sha256": "6f5339ba1e6b74fd11eab0dd103ea73ecb1987b2b654ba360a75250b5e0dea80",
+      "after_bytes": 13860
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_STORMS_AND_COLLAPSE.md",
+      "operation": "unchanged",
+      "before_sha256": "b8763c6f794df135ab6c5097319f5a278d09f2aed49a036e22885ba236eb5ad4",
+      "after_sha256": "b8763c6f794df135ab6c5097319f5a278d09f2aed49a036e22885ba236eb5ad4",
+      "after_bytes": 15954
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/CITY_DESIGN_KEY.md",
+      "operation": "unchanged",
+      "before_sha256": "913c331b29d6369ec7912a6ea8dd485a99ee9b9e3919d46847613a154953a91f",
+      "after_sha256": "913c331b29d6369ec7912a6ea8dd485a99ee9b9e3919d46847613a154953a91f",
+      "after_bytes": 1694
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md",
+      "operation": "unchanged",
+      "before_sha256": "263d5d515d950f5697835963d400fc3bf40584d47b6579368d497e576f03e37e",
+      "after_sha256": "263d5d515d950f5697835963d400fc3bf40584d47b6579368d497e576f03e37e",
+      "after_bytes": 16229
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+      "operation": "unchanged",
+      "before_sha256": "be8f6148f1cd8623319efa5126c53e4972b0e4a2e6fc8f191cdff5a75a8c6262",
+      "after_sha256": "be8f6148f1cd8623319efa5126c53e4972b0e4a2e6fc8f191cdff5a75a8c6262",
+      "after_bytes": 7615
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/SCENE_ROUTE_LEDGER_SPECIFICATION.md",
+      "operation": "unchanged",
+      "before_sha256": "4e1f7fe24581dcd668bc07504adcd561bf3721878195a54d7fb6892238af9099",
+      "after_sha256": "4e1f7fe24581dcd668bc07504adcd561bf3721878195a54d7fb6892238af9099",
+      "after_bytes": 6242
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VILLAGE_HUB_DELIVERY_SPATIAL_LEDGER.md",
+      "operation": "unchanged",
+      "before_sha256": "abc4379811a473d89aab91bb1fa71627f669a823a32690875a836f774c593e27",
+      "after_sha256": "abc4379811a473d89aab91bb1fa71627f669a823a32690875a836f774c593e27",
+      "after_bytes": 6384
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "baaa96932084b388bc8abe7a0898c8eb0e0efab4afe0d5ac956b72f81e9212a4",
+      "after_sha256": "baaa96932084b388bc8abe7a0898c8eb0e0efab4afe0d5ac956b72f81e9212a4",
+      "after_bytes": 2073
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "operation": "unchanged",
+      "before_sha256": "6888e3d0ee2f1650d91647ca5853f1cb415aa8e40521f56a52f7726a0ed776d5",
+      "after_sha256": "6888e3d0ee2f1650d91647ca5853f1cb415aa8e40521f56a52f7726a0ed776d5",
+      "after_bytes": 2008
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/BANDITS.md",
+      "operation": "unchanged",
+      "before_sha256": "d7b629d3cfe46228dad5cc910f25ccbb65664c4f4fb255bcaf5b2fcd0c9dc027",
+      "after_sha256": "d7b629d3cfe46228dad5cc910f25ccbb65664c4f4fb255bcaf5b2fcd0c9dc027",
+      "after_bytes": 9746
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "operation": "unchanged",
+      "before_sha256": "c75fb51e3d3d8768dde871f80246a32f2de6008d294df19ead566577cdc59676",
+      "after_sha256": "c75fb51e3d3d8768dde871f80246a32f2de6008d294df19ead566577cdc59676",
+      "after_bytes": 10070
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+      "operation": "unchanged",
+      "before_sha256": "3668ee7a292de9dc406582c0e1d27189963f065ccfaaf4fa7882091e3e08e8bf",
+      "after_sha256": "3668ee7a292de9dc406582c0e1d27189963f065ccfaaf4fa7882091e3e08e8bf",
+      "after_bytes": 10041
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+      "operation": "unchanged",
+      "before_sha256": "33a2167ee00cc1d50ff61d887fbb0cd68ad1890189806461baf4d2f07cea525f",
+      "after_sha256": "33a2167ee00cc1d50ff61d887fbb0cd68ad1890189806461baf4d2f07cea525f",
+      "after_bytes": 10471
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md",
+      "operation": "unchanged",
+      "before_sha256": "bac4365166a6d70d7bdb3efc84a98dd55818cf844d29e1da5f9c35ebe4e4c04b",
+      "after_sha256": "bac4365166a6d70d7bdb3efc84a98dd55818cf844d29e1da5f9c35ebe4e4c04b",
+      "after_bytes": 7652
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+      "operation": "unchanged",
+      "before_sha256": "a0c953f37f71b84eb38afe1b062c0082a4942104fd0b28f714e3478da55eceaf",
+      "after_sha256": "a0c953f37f71b84eb38afe1b062c0082a4942104fd0b28f714e3478da55eceaf",
+      "after_bytes": 14654
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+      "operation": "unchanged",
+      "before_sha256": "9ebe0f72dc0c70a2835e1bebbdf1c5182df2b6d814b1a488098e794bd4a1a065",
+      "after_sha256": "9ebe0f72dc0c70a2835e1bebbdf1c5182df2b6d814b1a488098e794bd4a1a065",
+      "after_bytes": 13182
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "operation": "modify",
+      "before_sha256": "8447ce0c89e624732cbf9f5b79feab4e0918a1bfc4a428fb0312c06b4ff331cc",
+      "after_sha256": "d4531430fd29b83d7cfb382f490d7be34ab1aa29a0894a7102ce9f67fd12ccaf",
+      "after_bytes": 34638
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "d183054b26ccc3981879c10014075e2aff1f21bba25f01e17b0612239fd20668",
+      "after_sha256": "d183054b26ccc3981879c10014075e2aff1f21bba25f01e17b0612239fd20668",
+      "after_bytes": 5662
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "operation": "unchanged",
+      "before_sha256": "58d71c9c98f8335a0b5167d50a67e6f3f183f7cdf8e836e384d5a16961bb9d38",
+      "after_sha256": "58d71c9c98f8335a0b5167d50a67e6f3f183f7cdf8e836e384d5a16961bb9d38",
+      "after_bytes": 16147
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/AUGMENTER.md",
+      "operation": "unchanged",
+      "before_sha256": "16b5f38b5fafb18c7fe8e8b6a048bcbd0501e8734eb5bf3091cb49485625bc4f",
+      "after_sha256": "16b5f38b5fafb18c7fe8e8b6a048bcbd0501e8734eb5bf3091cb49485625bc4f",
+      "after_bytes": 20829
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+      "operation": "unchanged",
+      "before_sha256": "5889fc213cd383c3a1049bf5377f14f38751e14c7aaeaa22b24616bb8bf3ec42",
+      "after_sha256": "5889fc213cd383c3a1049bf5377f14f38751e14c7aaeaa22b24616bb8bf3ec42",
+      "after_bytes": 7581
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/HELKIR.md",
+      "operation": "unchanged",
+      "before_sha256": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2",
+      "after_sha256": "8c78f13669f12d4c6c5ab340f314f0e7be8c3e6aada82d4ca413c47b97660da2",
+      "after_bytes": 23678
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/MAEGE.md",
+      "operation": "unchanged",
+      "before_sha256": "4eb1bc665005c8c3f2f8a0ede0c8a3e6700b970872e41f10e0370e89156feb5b",
+      "after_sha256": "4eb1bc665005c8c3f2f8a0ede0c8a3e6700b970872e41f10e0370e89156feb5b",
+      "after_bytes": 18993
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/PROFESSIONAL_CLASSIFICATION.md",
+      "operation": "unchanged",
+      "before_sha256": "229eba7cf41b0918affea668ad79212a47675f4604ebb86375a44176d9241cf2",
+      "after_sha256": "229eba7cf41b0918affea668ad79212a47675f4604ebb86375a44176d9241cf2",
+      "after_bytes": 20804
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+      "operation": "unchanged",
+      "before_sha256": "719fd346c73049af1492214166110f2bd58d377cbbf77380ec4559f63fb4f08c",
+      "after_sha256": "719fd346c73049af1492214166110f2bd58d377cbbf77380ec4559f63fb4f08c",
+      "after_bytes": 17040
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/SUMMONER.md",
+      "operation": "unchanged",
+      "before_sha256": "c8602f2a37cdbf96feafc2725b5dfc251ac0d5dccd7935378b1fdcb90f9984fa",
+      "after_sha256": "c8602f2a37cdbf96feafc2725b5dfc251ac0d5dccd7935378b1fdcb90f9984fa",
+      "after_bytes": 17812
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/README.md",
+      "operation": "unchanged",
+      "before_sha256": "9493f838a78ee0a9550fbe2fad88896e277ef1274b9af8d23ef44ddfb92fe3ac",
+      "after_sha256": "9493f838a78ee0a9550fbe2fad88896e277ef1274b9af8d23ef44ddfb92fe3ac",
+      "after_bytes": 5273
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "operation": "unchanged",
+      "before_sha256": "0aee065588cc2953f563a3096e27bba68a80d58638997da9ab376d70189d1ec4",
+      "after_sha256": "0aee065588cc2953f563a3096e27bba68a80d58638997da9ab376d70189d1ec4",
+      "after_bytes": 5060
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+      "operation": "unchanged",
+      "before_sha256": "d04bdd6d436fcde057892a43ee3d557eadbacb88c3d5288696b35258f111bdbb",
+      "after_sha256": "d04bdd6d436fcde057892a43ee3d557eadbacb88c3d5288696b35258f111bdbb",
+      "after_bytes": 7209
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/ORANGE_VAELITH.md",
+      "operation": "unchanged",
+      "before_sha256": "d75c774985b7f11338819dc936cc86e6a07b1f33f1ea22723aa1f1adb7863085",
+      "after_sha256": "d75c774985b7f11338819dc936cc86e6a07b1f33f1ea22723aa1f1adb7863085",
+      "after_bytes": 6358
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+      "operation": "unchanged",
+      "before_sha256": "117c8b40c1cef479133492a8d8e3665e3a6d1b83b1d7211d8dbd5eaa34ef0f4e",
+      "after_sha256": "117c8b40c1cef479133492a8d8e3665e3a6d1b83b1d7211d8dbd5eaa34ef0f4e",
+      "after_bytes": 6154
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "operation": "unchanged",
+      "before_sha256": "9f63573ab39a5e7eb3886d46d5e61fb68f16f87616cc6db16f1be598e4dfbc52",
+      "after_sha256": "9f63573ab39a5e7eb3886d46d5e61fb68f16f87616cc6db16f1be598e4dfbc52",
+      "after_bytes": 6540
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/VIOLET_UNICORNS.md",
+      "operation": "unchanged",
+      "before_sha256": "2e697f9d02eecc01e1e3d5f06176a1f207bc6e4f921bd7a9ad1fb6a7b0dc4ab7",
+      "after_sha256": "2e697f9d02eecc01e1e3d5f06176a1f207bc6e4f921bd7a9ad1fb6a7b0dc4ab7",
+      "after_bytes": 5896
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/YELLOW_PRIMORDIALS.md",
+      "operation": "unchanged",
+      "before_sha256": "4adcb5a277dc07f782ca40063e19b3f666fa50f40d6e0ad51309d9bd503ff705",
+      "after_sha256": "4adcb5a277dc07f782ca40063e19b3f666fa50f40d6e0ad51309d9bd503ff705",
+      "after_bytes": 5024
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_OPERATIONAL_PROCEDURES.md",
+      "operation": "unchanged",
+      "before_sha256": "dc9f685905576c2e9e53a4f5a7aef410a38ecb0f25594bc53db64be6b1d4aa49",
+      "after_sha256": "dc9f685905576c2e9e53a4f5a7aef410a38ecb0f25594bc53db64be6b1d4aa49",
+      "after_bytes": 8546
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_PASTE_CIVIC_REPAIR.md",
+      "operation": "unchanged",
+      "before_sha256": "8915dae3870fe56196ac24e9f206a846951e507c5958a8c133a98554d235cc5c",
+      "after_sha256": "8915dae3870fe56196ac24e9f206a846951e507c5958a8c133a98554d235cc5c",
+      "after_bytes": 4820
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMICAL_TABLES_AND_HOUSES.md",
+      "operation": "unchanged",
+      "before_sha256": "c6c7343915ef8130451fe02bf29421900ce407e0284ccea0226694a086edfcdf",
+      "after_sha256": "c6c7343915ef8130451fe02bf29421900ce407e0284ccea0226694a086edfcdf",
+      "after_bytes": 3389
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ALCHEMY_AND_MATERIAL_SCIENCE.md",
+      "operation": "unchanged",
+      "before_sha256": "740f10276e3e775dc7516872dbf808ae5f4612144a701f176c7ab088f19aec1d",
+      "after_sha256": "740f10276e3e775dc7516872dbf808ae5f4612144a701f176c7ab088f19aec1d",
+      "after_bytes": 32807
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md",
+      "operation": "unchanged",
+      "before_sha256": "550970e8711f26d00113eef81eede526d7b171041e53f65919f4d3e3af10d57a",
+      "after_sha256": "550970e8711f26d00113eef81eede526d7b171041e53f65919f4d3e3af10d57a",
+      "after_bytes": 5696
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIAMOND_CHARGING.md",
+      "operation": "unchanged",
+      "before_sha256": "90ebf609e7cf2b2ea56dbc70a6912cc3a4d1e07651d6141df0de7e1904961a4c",
+      "after_sha256": "90ebf609e7cf2b2ea56dbc70a6912cc3a4d1e07651d6141df0de7e1904961a4c",
+      "after_bytes": 17440
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md",
+      "operation": "unchanged",
+      "before_sha256": "a618747c12c3e61ea479aad84455e0c7b03c881a7d7d8ce177a7c0fe4e5d33ae",
+      "after_sha256": "a618747c12c3e61ea479aad84455e0c7b03c881a7d7d8ce177a7c0fe4e5d33ae",
+      "after_bytes": 16683
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ENCHANTING_AINETH.md",
+      "operation": "unchanged",
+      "before_sha256": "b9db4038d643b57fdcf325a2edfb1ca9c7b171bbbd0c1120f1fc3c6718ddb337",
+      "after_sha256": "b9db4038d643b57fdcf325a2edfb1ca9c7b171bbbd0c1120f1fc3c6718ddb337",
+      "after_bytes": 20482
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "operation": "unchanged",
+      "before_sha256": "da6f170ffd8b273029e95e911a0339a5aa08437503725ff16fcaaba8b54f74cc",
+      "after_sha256": "da6f170ffd8b273029e95e911a0339a5aa08437503725ff16fcaaba8b54f74cc",
+      "after_bytes": 28486
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md",
+      "operation": "unchanged",
+      "before_sha256": "4a6cade59f640aee7b1795cd1c89ccff97257d26f6eed790d8c3afe60f2d63e3",
+      "after_sha256": "4a6cade59f640aee7b1795cd1c89ccff97257d26f6eed790d8c3afe60f2d63e3",
+      "after_bytes": 16691
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_WEAPONS_AND_IMPULSE.md",
+      "operation": "unchanged",
+      "before_sha256": "f357649a3be9bf7bb82161247c7ee060fc8a0360e77857edf7124a0b7b189da9",
+      "after_sha256": "f357649a3be9bf7bb82161247c7ee060fc8a0360e77857edf7124a0b7b189da9",
+      "after_bytes": 3872
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+      "operation": "unchanged",
+      "before_sha256": "1aa22a1602d934dc327f6b1018607be231c9c8b25a682e357d497e5454d87f41",
+      "after_sha256": "1aa22a1602d934dc327f6b1018607be231c9c8b25a682e357d497e5454d87f41",
+      "after_bytes": 7672
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/PASTE_SECURITY_FAILURE_AND_REPAIR_CASES.md",
+      "operation": "unchanged",
+      "before_sha256": "36839e2bf4ffb28bbe1e6f0f1aa840e0709b9fd8611136a4c1bb2c82abc538fe",
+      "after_sha256": "36839e2bf4ffb28bbe1e6f0f1aa840e0709b9fd8611136a4c1bb2c82abc538fe",
+      "after_bytes": 5755
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+      "operation": "unchanged",
+      "before_sha256": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90",
+      "after_sha256": "284d3008c86b26031f33fc83607e388880115cbae829fe27898d938ccbfeca90",
+      "after_bytes": 20936
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+      "operation": "modify",
+      "before_sha256": "f0a86e67bdd31bcd4a5cbef87a083279db2e967b385e9681effd24038c84b34e",
+      "after_sha256": "6fcbbdfea667bb85c6a7e9ec6d8936bfdac0c8df236cd0a8011bac1df60d2a64",
+      "after_bytes": 48496
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md",
+      "operation": "unchanged",
+      "before_sha256": "1ec1d70b2d35f9334378ea030b06ed3bd7084ae1f29400c21eebfcc4f218810a",
+      "after_sha256": "1ec1d70b2d35f9334378ea030b06ed3bd7084ae1f29400c21eebfcc4f218810a",
+      "after_bytes": 2560
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "operation": "unchanged",
+      "before_sha256": "f5110ea29bfdfffc52d84ad96056702157a722cf54ec3e621916449f60e41435",
+      "after_sha256": "f5110ea29bfdfffc52d84ad96056702157a722cf54ec3e621916449f60e41435",
+      "after_bytes": 1332
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "operation": "unchanged",
+      "before_sha256": "b4b71c030e7bd2e199e6d802d9cdb59b193a54be3b7f08dc2464dc3b0c9eeb57",
+      "after_sha256": "b4b71c030e7bd2e199e6d802d9cdb59b193a54be3b7f08dc2464dc3b0c9eeb57",
+      "after_bytes": 26563
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md",
+      "operation": "unchanged",
+      "before_sha256": "4d5476c264eff0673ac946e49e20b8437f0d83da4bdecf721d5d3bfdd0ec76db",
+      "after_sha256": "4d5476c264eff0673ac946e49e20b8437f0d83da4bdecf721d5d3bfdd0ec76db",
+      "after_bytes": 6290
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+      "operation": "modify",
+      "before_sha256": "58e1f3c7cfba6a4c9ff8e08db110bce2e3a18603fa3a715d694b61179c9e3c12",
+      "after_sha256": "332841d6bdc4db74b0b51f0a3028521d0b9ddc0a3277e14212c0e230a8aac29c",
+      "after_bytes": 6255
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+      "operation": "unchanged",
+      "before_sha256": "e45d3354e59e6a7f97aa02017bcf1404f1cf717c34a4d0539b0071a4d29e4c59",
+      "after_sha256": "e45d3354e59e6a7f97aa02017bcf1404f1cf717c34a4d0539b0071a4d29e4c59",
+      "after_bytes": 11729
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "6655106563a11ae4c80c151c41b80cb2eb20c0a5e27ed86a288a423caf99dd89",
+      "after_sha256": "6655106563a11ae4c80c151c41b80cb2eb20c0a5e27ed86a288a423caf99dd89",
+      "after_bytes": 1905
+    },
+    {
+      "path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/README.md",
+      "operation": "unchanged",
+      "before_sha256": "301311f80b6207c34136f9cd017c40f59f6679881a1918a5a1829ef48caf8785",
+      "after_sha256": "301311f80b6207c34136f9cd017c40f59f6679881a1918a5a1829ef48caf8785",
+      "after_bytes": 415
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+      "operation": "unchanged",
+      "before_sha256": "08c01d04bbcfd9fe7e666f16e97df91e68eef36b9213237724668a77794112d8",
+      "after_sha256": "08c01d04bbcfd9fe7e666f16e97df91e68eef36b9213237724668a77794112d8",
+      "after_bytes": 10070
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/LIVE_MODEL_001.md",
+      "operation": "unchanged",
+      "before_sha256": "8b48035d3e34c82c26b18b95b103258157337cfe621e8e61f5d3ae0354e170e0",
+      "after_sha256": "8b48035d3e34c82c26b18b95b103258157337cfe621e8e61f5d3ae0354e170e0",
+      "after_bytes": 1235
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/README.md",
+      "operation": "unchanged",
+      "before_sha256": "54ba39c4b3f35097bd4ac64935416bcc0b2309a3489292e67743975df7cb3e4d",
+      "after_sha256": "54ba39c4b3f35097bd4ac64935416bcc0b2309a3489292e67743975df7cb3e4d",
+      "after_bytes": 307
+    },
+    {
+      "path": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "operation": "modify",
+      "before_sha256": "a7b9f85ca65ad513842bdba678c303026e7ef638a81fb90edadaedc547c0ec82",
+      "after_sha256": "4ed58cf98bb88cc025a3c729f487dff92eb072ca50a205e5a05f9354e39435e8",
+      "after_bytes": 42802
+    },
+    {
+      "path": "WORLD_CLOCK/README.md",
+      "operation": "unchanged",
+      "before_sha256": "31bdfadf16ced5a95b97903041e38d9fa5ac14b76195ac57cfbdb90ccbff184b",
+      "after_sha256": "31bdfadf16ced5a95b97903041e38d9fa5ac14b76195ac57cfbdb90ccbff184b",
+      "after_bytes": 610
+    }
+  ],
+  "source_mapping": [
+    {
+      "archive_path": "AUDIT/REVERSE_DIFF_TARGETS.md",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md"
+    },
+    {
+      "archive_path": "CANON_DELTA/ACTIVE_AUTHOR_DECISION.md",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md"
+    },
+    {
+      "archive_path": "Executable.md",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/Executable.md"
+    },
+    {
+      "archive_path": "MANIFEST.json",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/MANIFEST.json"
+    },
+    {
+      "archive_path": "README.md",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/README.md"
+    },
+    {
+      "archive_path": "SOURCES/REGISTER.md",
+      "repository_path": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/SOURCES/REGISTER.md"
+    }
+  ],
+  "self_reference": "This output manifest alone has null after hash/size and is anchored by its containing Git commit; the supplied MANIFEST.json is fully hashed.",
+  "changes": {
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/AUDIT/REVERSE_DIFF_TARGETS.md": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/Executable.md": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/MANIFEST.json": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/README.md": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/SOURCES/REGISTER.md": {
+      "operation": "add",
+      "reason": "Exact supplied 009 member, preserved as source data for this authorized update."
+    },
+    "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md": {
+      "operation": "modify",
+      "reason": "Retires specialized Black Cards while retaining ordinary Cardsmithing, operation and all unrelated mechanics.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md": {
+      "operation": "modify",
+      "reason": "Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md": {
+      "operation": "modify",
+      "reason": "Closes special-Card questions as retired and preserves ordinary occupancy, native development and narrative open matters.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md": {
+      "operation": "modify",
+      "reason": "Retires the Armor/Green conflict as an active obligation without deleting history or selecting either design.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L1_FANTASY/FATIGUE_AND_CROSS_INTERFACE_CONCURRENCY.md": {
+      "operation": "modify",
+      "reason": "Retires exceptional-card questions only; ordinary occupancy and fatigue remain intact.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L1_FANTASY/NEON_AND_STARSCAPE_EQUILIBRIUM.md": {
+      "operation": "modify",
+      "reason": "Severs only the retired Card association; preserves all Neon cosmology and Black relationships.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md": {
+      "operation": "modify",
+      "reason": "Retains education and institution while removing the retired special-Card dependency.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": {
+      "operation": "modify",
+      "reason": "Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": {
+      "operation": "modify",
+      "reason": "Corrects stale Card-navigation references only; all bond facts and original bytes remain intact.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "BOOKS/RED/ARCS/ARC_002/ARC.md": {
+      "operation": "modify",
+      "reason": "Retires the single future-special-Card reference without changing Arc 2 decisions.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md": {
+      "operation": "modify",
+      "reason": "Supersedes two special-Card continuity states and retains Arc IV education and every unrelated event.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md": {
+      "operation": "modify",
+      "reason": "Makes 009 the active authority for retirement and retains all unrelated model navigation.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "AGENTS.md": {
+      "operation": "modify",
+      "reason": "Updates execution guidance to the explicit 009 author decision without weakening preservation.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md": {
+      "operation": "modify",
+      "reason": "Routes the scoped author supersession and distinguishes retired Card questions from current open issues.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/LIVE_MODEL_008_CORRECTIONS_AND_BOUNDARIES.md": {
+      "operation": "modify",
+      "reason": "Annotates the previous correction register so retired directions cannot masquerade as active authority.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/SOURCES.md": {
+      "operation": "modify",
+      "reason": "Registers the exact new decision evidence and its scope without duplicating previous checkpoints.",
+      "prior_bytes_preserved_as_suffix": true
+    },
+    "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md": {
+      "operation": "add",
+      "reason": "Durable author evidence, eight scoped decisions, retired questions, unchanged canon and remaining open matters."
+    },
+    "PROVENANCE/SOURCE_REGISTRY.json": {
+      "operation": "modify",
+      "reason": "Appends only the 009 source receipt, preserving every previous key/value."
+    },
+    ".gitattributes": {
+      "operation": "modify",
+      "reason": "Protects original 009 source bytes and new JSON LF endings.",
+      "prior_bytes_preserved_as_prefix": true
+    },
+    "PROVENANCE/LIVE_MODEL_009_REVERSE_DIFF.json": {
+      "operation": "add",
+      "reason": "Eight exact target rows, eight decision dispositions, protected-owner guards and complete surviving-mention audit."
+    },
+    "PROVENANCE/WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md": {
+      "operation": "add",
+      "reason": "Six-member source ledger, exact hashes and source/coverage boundaries."
+    },
+    "CHECKPOINTS/TOOLS/validate_live_model_009.py": {
+      "operation": "add",
+      "reason": "Read-only package, preservation, focused supersession and remote-content validator."
+    },
+    "CHECKPOINTS/LIVE_MODEL_009_MANIFEST.json": {
+      "operation": "add",
+      "reason": "Full baseline/after hashes, exact source-member mapping and reviewed changes."
+    },
+    "CHECKPOINTS/LIVE_MODEL_009_EXECUTION.md": {
+      "operation": "add",
+      "reason": "Execution, file-by-file coverage, scoped supersessions, checks and unresolved matters."
+    },
+    "CHECKPOINTS/LIVE_MODEL_009_VALIDATION.json": {
+      "operation": "add",
+      "reason": "Immutable pre-publication validation receipt and separate remote verification procedure."
+    }
+  }
+}

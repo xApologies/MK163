@@ -1,3 +1,21 @@
+> **Live Model 009 current authority — 2026-10-22:** Retires the Armor/Green conflict as an active obligation without deleting history or selecting either design. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**LM008-C01 status: RETIRED / SUPERSEDED — CLOSED AS AN ACTIVE DESIGN OBLIGATION.** The full original conflict and MK727 history remain verbatim below. This is retirement of the special-Card subsystem, not resolution in favor of either candidate.
+
+Neither **Armor of the Abyss** nor a **first Green Black Card** is required in MK163. Their old Arc V manufacture obligation, realm-anchor reconciliation and special Black/ordinary occupancy questions no longer govern. Armor, CSR, Orbs, Halo and Domain remain **optional legacy inspirations**, not automatic MK163 spells, ordinary Cards or current possessions. Any future Armor Shaping requires new explicit author approval.
+
+Red Arc IV formal Cardsmith education remains. Exact Arc V events, a first original ordinary Card if any, black mushroom use and ordinary Card-versus-running-native activation remain OPEN at [the current open register](OPEN_QUESTIONS_CURRENT.md). Do not select a replacement or infer a mushroom recipe. The 008 source-history distinction (legacy MK727 versus previously absent local 007 event) remains accurate historical provenance.
+
+Source: [009 author decision](WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 # LM008-C01 — first original Black Card / Armor chronology conflict
 
 **Status: OPEN, explicitly retained by the author. Publication of this record does not resolve or implement either first-card identity.**

@@ -1,3 +1,23 @@
+> **Live Model 009 current authority — 2026-10-22:** Keeps Arc IV education and removes only the required Arc V Black Card milestone, without a replacement plot. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**Retained planning constraint:** Blackstone formal Cardsmith education in **Red Arc IV**. The profession, learning direction and existing educational scope remain; no complete school arc, timetable or new chapter plan is supplied.
+
+**RETIRED / SUPERSEDED:** the requirement for a first major original Black Card in **Red Arc V**, the Armor/first-Green-card selection obligation, realm-card acquisition sequence and sixfold Card endpoint. Neither Armor of the Abyss nor a first Green Black Card is required. The former Arc V placement is historical and does not govern current planning.
+
+This does **not cancel all Arc V events**. Exact future Arc V activities, a first original ordinary Card **if any**, and the special black mushroom's future role remain **OPEN**. No substitute milestone, recipe, Card, Armor Shaping or plot is invented. [LM008-C01](../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) is retired as an active conflict without selecting either design. MK727's manufacture details remain provenance, not a current event.
+
+All unrelated narrative decisions remain: Arc 2 first-robe completion/public reveal, Arc 3 first Sprite bond, Red-ending Ring, existing book/bond order, variable-length arc development and the complete 008 visual grammar. The montage remains visual reference; its five teaching panels do not replace the six-stage lifecycle. Detailed original passages and evidence remain below unchanged.
+
+Source: [009 author decision](../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Retains supplied chronology constraints with an explicit baseline discrepancy and records the montage as visual reference only. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

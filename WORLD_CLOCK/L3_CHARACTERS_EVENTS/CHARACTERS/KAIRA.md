@@ -1,3 +1,21 @@
+> **Live Model 009 current authority — 2026-10-22:** Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+Kaira remains an ordinary Cardsmith who may use, collect, modify and craft ordinary Genesis Cards. Her existing Fireball activation, beginner Metal Manipulation, expert manual mailworking and separate aen training remain unchanged; this update grants no new Card or mastery.
+
+The 008 future Black Card architecture and required Armor/first-Green manufacture are **RETIRED / SUPERSEDED**, including their status as future design obligations. [Her six exceptional Black relationships](../EVENTS/SIX_BLACK_BONDS.md), conventional Binding incompatibility, independent denizen agency, Black Prophecy, Black Singularity and native Neon development remain. The bonds are not ordinary installed Bindings. No Armor, CSR, Orbs, Halo or Domain is automatically assigned as a Card, Shaping or possession.
+
+[Planning](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) retains Red Arc IV education; Arc V events, first original ordinary Card if any and special black mushroom use stay OPEN. Her prior biography, livelihood, outreach, appearance, relationships and equipment chronology remain intact.
+
+Source: [009 author decision](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Routes new narrative and future-design distinctions to their owners without turning later possibilities into present powers. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

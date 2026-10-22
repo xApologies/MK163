@@ -1,0 +1,114 @@
+{
+  "checkpoint": "LIVE_MODEL_009",
+  "status": "PASS_PRE_PUBLICATION",
+  "pre_commit_sha": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+  "pre_commit_tree": "93a2fc50a26d9158aa20b159c151129d89044642",
+  "archive_sha256": "dda8ab4415b5c07da38eca8b4c70553d20a3c6efab6a514deaa8ffa6469076cf",
+  "post_commit_sha": {
+    "literal_sha": null,
+    "resolution": "Resolve the containing commit with git log -1 --format=%H -- CHECKPOINTS/LIVE_MODEL_009_VALIDATION.json",
+    "reason": "A committed file cannot contain the literal hash of its own containing commit without changing that hash."
+  },
+  "remote_verification": {
+    "status": "PENDING_AT_COMMIT",
+    "procedure": "After normal push fetch origin/main; run validate_live_model_009.py --root . --verify-remote and write a new external receipt with --report. Require local/fetched/live SHA equality, zero divergence, clean tree and eight exact fetched content samples."
+  },
+  "legacy_003_evidence_regression": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "historical_008_validator": {
+    "status": "PASS",
+    "scope": "008 semantic validator on exact pre-009 baseline files in a temporary plain directory; not a new repository and not a claim that retired mechanics remain current.",
+    "baseline_commit": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+    "fixture_files": 18,
+    "historical_semantics": {
+      "rows_rechecked": 32,
+      "complete_workshop_records_covered": 5,
+      "status_guard_regressions": "PASS",
+      "armor_green_chronology_conflict": "OPEN_RETAINED",
+      "limitation": "Checks support the documented semantic review; they do not prove fictional physical feasibility or authenticate an unavailable raw chat."
+    },
+    "original_008_package": {
+      "archive_sha256": "a2cb460b2121422e7194c6b8f5119167994b33bc0f45e64ead5e405bc80f8923",
+      "archive_bytes": 2650215,
+      "archive_entries": 14,
+      "manifest_records": 13,
+      "manifest_self_reference": "Manifest hashed by archive/integration receipt, not by itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS",
+      "source_visual_sha256": "99eb08720016ee2d3954e7331f77042cb3bebc3814936f0b194adbdf19af213f"
+    }
+  },
+  "package_and_installed_validation": {
+    "checkpoint": "LIVE_MODEL_009",
+    "status": "PASS",
+    "package": {
+      "archive_sha256": "dda8ab4415b5c07da38eca8b4c70553d20a3c6efab6a514deaa8ffa6469076cf",
+      "archive_bytes": 8037,
+      "archive_entries": 6,
+      "manifest_records": 5,
+      "manifest_self_reference": "Manifest is hashed by inventory/receipt and whole archive, not itself.",
+      "path_safety_crc_hashes_and_sizes": "PASS"
+    },
+    "pre_commit_sha": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+    "installed": {
+      "installed_files": 421,
+      "prior_files_preserved": 408,
+      "baseline_files_byte_identical": 390,
+      "baseline_files_expanded": 18,
+      "prior_workshop_and_checkpoint_files_byte_identical": 99,
+      "source_members_exact": 6,
+      "local_links": "PASS",
+      "active_naming": "PASS",
+      "diff_whitespace": "PASS",
+      "safe_paths_case_and_sizes": "PASS",
+      "inbox_ignored_untracked": "PASS",
+      "inbox_snapshot": {
+        "status": "PASS",
+        "files_byte_identical": 11
+      },
+      "reverse_semantic_diff_regressions": {
+        "supplied_target_rows": 8,
+        "author_decisions": 8,
+        "status_guards": "PASS",
+        "scanned_markdown_files": 151,
+        "matching_files_reviewed": 26,
+        "surviving_mentions_classified": 121,
+        "protected_owner_paths_byte_identical": 18,
+        "active_special_card_mechanics": "RETIRED",
+        "armor_green_conflict": "CLOSED_BY_RETIREMENT_NEITHER_SELECTED",
+        "remaining_open": [
+          "Arc V activities",
+          "first original ordinary Card if any",
+          "black mushroom use",
+          "advanced native Neon expression and limits",
+          "detailed Black bond progression",
+          "ordinary Card activation versus running conflicting native Shaping",
+          "unrelated prior open matters"
+        ],
+        "limitation": "Mechanical checks lock the reviewed dispositions/content and byte preservation; they do not independently prove every semantic judgment or authenticate an unseen conversation."
+      }
+    }
+  },
+  "source_scope": "All six supplied members exact; five manifest entries validated. Package-attributed author quotations retained, originating conversation not independently accessible. Focused supersession, not full live-model replacement.",
+  "current_semantic_disposition": "Special Black Card mechanics and mandatory Arc V manufacture retired; Armor/Green conflict closed by retirement, neither variant selected. Ordinary Cards, education, bonds, cosmology and unrelated canon retained.",
+  "remaining_open": [
+    "Arc V activities",
+    "first original ordinary Card if any",
+    "black mushroom use",
+    "advanced native Neon expression and limits",
+    "detailed Black bond progression",
+    "ordinary Card-versus-running-native activation procedure",
+    "unrelated prior current questions"
+  ],
+  "validation_limit": "Historical 008 semantics are checked against exact baseline files, not asserted as current canon. 009 status guards and classified search audit test the new authority. Historical validators/checkpoint reports are never rewritten."
+}

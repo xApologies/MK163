@@ -1,3 +1,26 @@
+> **Live Model 009 current authority — 2026-10-22:** Makes 009 the active authority for retirement and retains all unrelated model navigation. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+Current focused checkpoint: **LIVE_MODEL_009 — Black Card Retirement**, reconciled against fetched main `dbc78f7bee9781da4447ccb6bdb7baf8cc198288`. [The author decision and supersession ledger](../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md) supersedes only special Black Card mechanics and mandatory manufacture. The prior 008 links to an active realm-anchor design or OPEN Armor/Green conflict are historical.
+
+- [Ordinary Genesis Cards and retained operational rules](L1_FANTASY/GENESIS_CARDS.md)
+- [Arc IV education retained; Arc V Black Card milestone retired](L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md)
+- [Current OPEN questions and retired questions](../PROVENANCE/OPEN_QUESTIONS_CURRENT.md)
+- [Retired LM008-C01 with complete legacy history](../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md)
+- [Unchanged six-bond canon with corrected navigation](L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md)
+- [Full 009 payload and file coverage](../PROVENANCE/WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md)
+
+The lifecycle, internal/invisible manifolds, organized/residual energy, staging settlement, prophecies and all unrelated decisions remain at their existing owners. This is a focused update, not a replacement live model.
+
+Source: [009 author decision](../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Points current navigation to 008 owners and explicitly unresolved design boundaries. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

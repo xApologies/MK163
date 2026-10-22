@@ -136,6 +136,21 @@
         "MK727": "8e5f5fead9621c81cf2064190cc732dbd399f7f1"
       },
       "upstream_remote_tips_fetched": false
+    },
+    {
+      "id": "MK163_LIVE_MODEL_009_BLACK_CARD_RETIREMENT_CODEX",
+      "baseline_commit": "dbc78f7bee9781da4447ccb6bdb7baf8cc198288",
+      "package_sha256": "dda8ab4415b5c07da38eca8b4c70553d20a3c6efab6a514deaa8ffa6469076cf",
+      "source_index": "PROVENANCE/WORKSHOP/LIVE_MODEL_009/INTEGRATION_INDEX.md",
+      "decision_record": "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md",
+      "reverse_diff": "PROVENANCE/LIVE_MODEL_009_REVERSE_DIFF.json",
+      "execution_report": "CHECKPOINTS/LIVE_MODEL_009_EXECUTION.md",
+      "manifest": "CHECKPOINTS/LIVE_MODEL_009_MANIFEST.json",
+      "full_raw_transcript_available": false,
+      "local_upstream_revisions_read": {
+        "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751"
+      },
+      "upstream_remote_tips_fetched": false
     }
   ]
 }

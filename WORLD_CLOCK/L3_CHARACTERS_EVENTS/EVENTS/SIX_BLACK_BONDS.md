@@ -1,3 +1,19 @@
+> **Live Model 009 current authority — 2026-10-22:** Corrects stale Card-navigation references only; all bond facts and original bytes remain intact. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**Navigation-only correction; the complete six-bond record below is unchanged.** References in the 008 introduction to a new Black Card realm-anchor direction and OPEN Armor/Green reconciliation are **RETIRED / SUPERSEDED**. Follow [the 009 Card owner](../../L1_FANTASY/GENESIS_CARDS.md) and [current planning](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md); those former links do not impose Card engineering or an Arc V manufacture requirement.
+
+All six existing bond identities/order, independent agency, prophecy correspondences, conventional Binding incompatibility and native realm expression remain as recorded. These are exceptional identity relationships, not ordinary installed Bindings and not six Cards. No new bond progression, ability or chronology is authored.
+
+Source: [009 author decision](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
 > **Live Model 008 current authority — 2026-10-21:** Separates inherited identity bonds from the new Card anchors and exposes the retained chronology conflict. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration
