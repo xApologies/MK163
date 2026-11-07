@@ -1,0 +1,26 @@
+{
+  "artifact": "MK163 Kaira Support Specialist Green certification",
+  "previous_archive": "MK163_Support_Specialist_Group_Damage_Average_Cumulative.zip",
+  "previous_archive_sha256": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775",
+  "scores": [
+    5,
+    5,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4
+  ],
+  "sum": 54,
+  "exact_mean": "54/13",
+  "rounded_mean": 4.154,
+  "official_rank": "Green",
+  "nested_archive_preserved": true,
+  "repository_changes": "none"
+}

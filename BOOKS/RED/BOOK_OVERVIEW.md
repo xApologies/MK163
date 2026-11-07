@@ -1,3 +1,23 @@
+# Book Red · seven-arc index
+
+**Book Red consolidation · 2026-11-07.** These colors are arcs **within Book Red**, not separate books, realm assignments, dungeon ranks or certification scores.
+
+| Arc | Owning record | Selected scope |
+|---:|---|---|
+| 1 | [Red](ARCS/ARC_001/ARC.md) | Village, Awakening and departure; earlier detailed chapter work retained. |
+| 2 | [Orange](ARCS/ARC_002/ARC.md) | Independence, craft and Nyx joining the family; physical robe reveal at close. |
+| 3 | [Yellow](ARCS/ARC_003/ARC.md) | Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. |
+| 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. |
+| 5 | [Blue](ARCS/ARC_005/ARC.md) | New city, Support exam, first research contract and independent field refinement. |
+| 6 | [Violet](ARCS/ARC_006/ARC.md) | Closed native rings and coupled seams, Crown research and vaelum affiliation. |
+| 7 | [White](ARCS/ARC_007/ARC.md) | King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. |
+
+No chapter counts or scene prose are supplied by this consolidation. The exact opening Arc 2 approach is unchanged. The author expressly retained fourth/Green and rejected Yellow.
+
+Source and decisions: [Book Red reconciliation](../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Delta 005 current authority — integrated 2026-10-19:** Replaces obsolete five-working-chapter references with Delta 005’s explicit architecture; other approved arcs remain intact. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

@@ -1,3 +1,13 @@
+# Blackstone Keep and the Blue Domain capital
+
+**Book Red consolidation · 2026-11-07.** Blackstone Keep is the Institution of Knowledge **inside the 13 × 13 mile Blue Domain capital** (169 square miles). Its **4 × 4 mile campus** occupies 16 square miles. Its city already participates in the four-capital King’s Highway; no separate Blackstone-to-capital portal. Campus placement, gate location and exact royal academic contracts remain OPEN. The Crown’s capital and the Blue capital remain distinct.
+
+One of three equally premier institutions (other names OPEN). The Alchemist sponsors admission, tuition and housing at the close of Yellow. Kaira studies human Cardsmithing with a sigil, styluses and maege-glass; the Princess studies advanced Transduction/mathematics following private tutoring. Years pass; high honors and a portfolio of student Cards do not confer a Master Cardsmith title or commercial clientele. The Sprite’s Resolution insight helps her reason about Card topology; she still learns technique. No official honor title or timetable selected. [Green Arc](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Keeps Arc IV human Cardsmith schooling and distinguishes ongoing realm-native experiential mentorship. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

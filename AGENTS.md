@@ -1,3 +1,11 @@
+# Book Red consolidation · current scope
+
+**Book Red consolidation · 2026-11-07.** Read [the Nov 7 decisions](PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md), [coverage](CHECKPOINTS/BOOK_RED_2026_11_07_COVERAGE.md), and [the seven numbered Book Red arc owners](BOOKS/RED/BOOK_OVERVIEW.md). Preserve prior sources literally. The author rejected Yellow: fourth / Green and no Dimensional Ring before Red’s ending. Use Raeon, abecca, Kaira, Nyx, ru’ne, ELDRIS, aithren and vaelum. Green/fourth Tournament placement and Green Support certification are independent. Preserve 009 retirement and 009B ordinary occupancy; no new Card subsystem, upstream edits, invented chapters, fixed rosters or unselected mathematical laws. Only the scoped updates supersede historical guards against previously unapproved later arcs.
+
+Source and decisions: [Book Red reconciliation](PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds scoped 009B operating guards and current coverage without weakening preservation or retirement. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

@@ -1,3 +1,11 @@
+# Book Red naming decisions
+
+**Book Red consolidation · 2026-11-07.** Use **Raeon** for the game, **ELDRIS** for the hostile name, **abecca** for the bean/drink, **Kaira**, **Nyx**, **Black Sprite** (they/them), **aithren** for an individual and **vaelum** for an independent organization. The **Accord Registry** is a Crown institution, not a vaelum. Use **Helkir** as the examination role title; helkir remains the protected practitioner term. Preserve **maege/maegi**, **ru’ne**, **aen** versus **Ain**. Natural ru’ne/sigils and engineered physical inscriptions retain their 009B distinction. Chainmail Robe is the physical invention; Genesis Robe is native energy architecture. Scope this casing correction to current usage; original quotations and source documents retain their literal spellings.
+
+Source and decisions: [Book Red reconciliation](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Confirms protected vaelum and ru’ne terminology and closes only the superseded transcription identity question. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

@@ -1,3 +1,11 @@
+# Native specializations in MK163
+
+**Book Red consolidation · 2026-11-07.** [Realm table and Dragon capabilities](../../L1_FANTASY/OPERATIONAL_DOMAINS.md): Red Dragon—Chirality; Orange Vaelith—Topology; Yellow Primordial—Persistence; Green Sprite—Resolution; Blue Leviathan—Bandwidth; Violet Unicorn—Genesis Field. These are native emphases, not exclusive ownership or a remapping of the books. Formal location of Topology in the five-node chain remains OPEN.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # The seven inhabited realms and their natural denizens
 
 **Project:** MK163  

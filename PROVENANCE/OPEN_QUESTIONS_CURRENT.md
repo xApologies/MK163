@@ -1,3 +1,13 @@
+# Book Red · decisions and remaining open questions
+
+**Book Red consolidation · 2026-11-07.** Tournament outcome is **resolved**, not OPEN: fourth / Green; rejected Yellow proposal. The seven arc roles, actual first Support score, contract depth, three ordinary Cards, Genesis Robe and vaelum affiliation are selected. First implementation/timing of the separate ordinary modular Temporary Transduction Systems remains OPEN. Black Card retirement is unchanged.
+
+Open: official graduation distinction and exact chronology; campus location/gates and coin design/verification; city and visitor names, housing terms; station-specific thresholds, trauma sampling, intervention/retest rules and accreditation; team composition and research findings; energy-ring coupling, persistence, range, costs, failure, Crown researchers/concessions and whether the King actually receives a robe; vaelum name/roster, qualifier sequence, Ring grade and exact final race. No literal quantum operator, calibrated formula or missing scene is supplied. [Corrections and supersessions](BOOK_RED_2026_11_07_DECISIONS.md).
+
+Source and decisions: [Book Red reconciliation](BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Separates selected new directions from all unassigned mechanisms, examples and already-retired special-Card questions. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

@@ -1,0 +1,11 @@
+# Established armorsmith, emerging Cardsmith
+- Kaira is already a recognizable and somewhat famous innovator in fashion/armor as originator of the **Chainmail Robe**, associated with the emerging **Age of Knowledge**.
+- Earlier, in a mature city connected with a Violet Dungeon, she was known for this original design, not as a Cardsmith.
+- In the new centuries-old Blue Dungeon city, the Cardsmith market is crowded with established professionals, customers and longstanding relationships. High honors alone do not create a commercial identity.
+- She considers returning her primary attention to armorsmithing, because she knows how to earn a living through armor repairs, commissions and Chainmail Robes.
+- She is older after years of study at Blackstone; this is a new start, but **not** a start from nothing.
+- A casual visitor at the **unnamed coffee shop** notices Nyx and remarks: **'He'd make a great Guardian.'**
+- This is a remark about Nyx's apparent potential, not proof he would be competent. Kaira does not want to force Nyx into a Guardian role or expose him to danger for her ambitions.
+- The remark rekindles Kaira's lifelong romanticized fascination with the dungeon community, stemming from growing up in a developing dungeon hub.
+- She realizes she might **become an aithren herself** and craft and deploy her own Cards rather than only sell them to others. Delving offers direct practical feedback, a new way to distinguish herself as a Cardsmith, and the possibility of creating Cards for an eventual vaelum.
+- No specific coffee-shop visitor identity, new proprietor, or shop name is established.

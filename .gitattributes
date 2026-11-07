@@ -58,3 +58,6 @@ PROVENANCE/WORKSHOP/LIVE_MODEL_009B/** -text
 PROVENANCE/LIVE_MODEL_009B_REVERSE_DIFF.json text eol=lf
 CHECKPOINTS/LIVE_MODEL_009B_MANIFEST.json text eol=lf
 CHECKPOINTS/LIVE_MODEL_009B_VALIDATION.json text eol=lf
+
+# Verbatim Book Red source material: retain historical bytes and whitespace.
+PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/** -text -whitespace

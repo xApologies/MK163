@@ -1,0 +1,13 @@
+{
+  "checkpoint": "Offensive Specialist Test",
+  "project": "MK163",
+  "prior_archive": "Healthcare_Test.zip",
+  "prior_sha256": "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224",
+  "status": "author-locked workshop; no repository push",
+  "type": "cumulative detailed decision checkpoint, not verbatim transcript",
+  "files": [
+    "README.md",
+    "OFFENSIVE_SPECIALIST_TEST.md",
+    "PROVENANCE_AND_OPEN.md"
+  ]
+}

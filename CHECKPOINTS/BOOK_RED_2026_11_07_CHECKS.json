@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BR-01",
+    "topic": "Seven-arc structure",
+    "before": "First three detailed arc owners; later timing/education/Ring anchors.",
+    "result": "Route seven colors within Book Red without assigning chapter counts or remapping book-level Black bonds.",
+    "owners": [
+      "BOOKS/RED/BOOK_OVERVIEW.md",
+      "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+    ],
+    "required": [
+      "seven",
+      "Orange",
+      "fourth / Green"
+    ]
+  },
+  {
+    "id": "BR-02",
+    "topic": "Red/Orange/Yellow",
+    "before": "Early arc owners and later candidate Alchemist contact.",
+    "result": "Retain Red/Orange text. Confirm Orange adoption, select Yellow original-robe commission, bond and Blackstone sponsorship; detailed ordering still OPEN.",
+    "owners": [
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "BOOKS/RED/ARCS/ARC_003/ARC.md"
+    ],
+    "required": [
+      "Orange arc of Book Red",
+      "tuition",
+      "first Black Sprite"
+    ]
+  },
+  {
+    "id": "BR-03",
+    "topic": "Alchemist and Princess",
+    "before": "Candidate customer / unidentified royals.",
+    "result": "Preserve personal, economic and study details, 27-year-old non-governing Princess, working Alchemist age and illustrative vintages.",
+    "owners": [
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md"
+    ],
+    "required": [
+      "87",
+      "27",
+      "163",
+      "best friend"
+    ]
+  },
+  {
+    "id": "BR-04",
+    "topic": "Blackstone geography and education",
+    "before": "Arc IV institution; separate campus-to-capital transit not established.",
+    "result": "Apply explicit inside-capital geography; no extra gateway, invented campus site or credential.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md"
+    ],
+    "required": [
+      "13 × 13",
+      "4 × 4",
+      "high honors",
+      "separate"
+    ]
+  },
+  {
+    "id": "BR-05",
+    "topic": "Raeon games and coin",
+    "before": "Existing game and six-day calendar, no selected royal first night.",
+    "result": "Preserve four wins in five, Princess’s first-night departure, continuing invitations, tactical guests and limited travel privilege.",
+    "owners": [
+      "BOOKS/RED/ARCS/ARC_004/ARC.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md"
+    ],
+    "required": [
+      "wins four out of five",
+      "stacks the guest list",
+      "tax-/duty-free",
+      "six-day week"
+    ]
+  },
+  {
+    "id": "BR-06",
+    "topic": "Blue relocation and catalyst",
+    "before": "Arc V manufacture retired; independent career not previously specified.",
+    "result": "Blue dungeon, Green District apartment, crowded market, abecca shop, rideable Nyx, visitor’s line, distinct cities and 2×2-mile staging.",
+    "owners": [
+      "BOOKS/RED/ARCS/ARC_005/ARC.md"
+    ],
+    "required": [
+      "Green District",
+      "centuries-old",
+      "2 miles by 2 miles",
+      "He'd make a great Guardian"
+    ]
+  },
+  {
+    "id": "BR-07",
+    "topic": "Registry and contracts",
+    "before": "Existing recognition of aithren and vaelum.",
+    "result": "Select Crown ownership, civilian contracting/recruitment, verified materials and payout, marketplace, national capability statistics.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md"
+    ],
+    "required": [
+      "Crown-owned",
+      "statistics",
+      "apothecary",
+      "service",
+      "gross"
+    ]
+  },
+  {
+    "id": "BR-08",
+    "topic": "Shared certification",
+    "before": "White required all thirteen; other trade aggregation unspecified.",
+    "result": "Apply floor mean only to four roles; single chamber/integrated sigil, 13 configurations, incomplete vs failed; do not generalize to every trade.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY/GUARDIAN.md"
+    ],
+    "required": [
+      "100-foot-radius",
+      "200-foot-diameter",
+      "single integrated floor sigil",
+      "floor(sum",
+      "13 sequential stations"
+    ]
+  },
+  {
+    "id": "BR-09",
+    "topic": "Helkir stations",
+    "before": "Role/biological coherence known; historic separate sigil wording.",
+    "result": "Thirteen concurrent-in-sequence configurations: four timed sustainment, nine restoration; end color vs highest achieved, three trauma regions.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY/HELKIR.md"
+    ],
+    "required": [
+      "Integrated Biological Restoration",
+      "ring color at the end",
+      "highest coherence attained",
+      "three damaged regions"
+    ]
+  },
+  {
+    "id": "BR-10",
+    "topic": "Offensive stations",
+    "before": "Earlier scoring unfinalized.",
+    "result": "Six stationary targets, two static groups, two dynamic groups, three mixed engagements. Elimination time; thresholds/ally deductions OPEN.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY/OFFENSIVE.md"
+    ],
+    "required": [
+      "Static Group I",
+      "Dynamic Group II",
+      "Allied Interposition",
+      "elimination time",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "BR-11",
+    "topic": "Guardian containment and medical protocol",
+    "before": "Duration was an earlier ranking proposal.",
+    "result": "Maximum hostile breach across trial; allied trauma deductions/any death fails in 11–13, treatment outside active trials, real danger.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY/GUARDIAN.md"
+    ],
+    "required": [
+      "maximum radial displacement",
+      "No healing is permitted during",
+      "severe trauma",
+      "Failed (0)"
+    ]
+  },
+  {
+    "id": "BR-12",
+    "topic": "Support scenarios and metric",
+    "before": "Earlier worst-injured-ally scoring.",
+    "result": "Six individual, four two-ally and three full-party scenarios; accumulated average across protected group, any allied death fails; thresholds OPEN.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY/SUPPORT.md"
+    ],
+    "required": [
+      "accumulated average group damage",
+      "death",
+      "Static Group I",
+      "Integrated Combat Support"
+    ]
+  },
+  {
+    "id": "BR-13",
+    "topic": "Kaira’s entry assessment",
+    "before": "52-point illustrative vector; no locked first result.",
+    "result": "Both companions contribute to one profile. Actual vector, 54/91, Green; shield perception/management distinct from sustainment.",
+    "owners": [
+      "BOOKS/RED/ARCS/ARC_005/ARC.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md"
+    ],
+    "required": [
+      "54/13",
+      "4.154",
+      "Genesis field",
+      "separate",
+      "all protected allies survive"
+    ]
+  },
+  {
+    "id": "BR-14",
+    "topic": "Cards and research contract",
+    "before": "Candidate raw beam/first contract unspecified; after-Vaelith Blue-stratum rescue was only proposed.",
+    "result": "Fireball, Resolution pseudo-healing and individual Genesis Shield after Registry visit. Approximately three weeks to Yellow/Green; independent environmental Support.",
+    "owners": [
+      "BOOKS/RED/ARCS/ARC_005/ARC.md",
+      "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+    ],
+    "required": [
+      "Fireball",
+      "Resolution",
+      "Individual Genesis Shield",
+      "Yellow and Green",
+      "roughly three-week",
+      "refine"
+    ]
+  },
+  {
+    "id": "BR-15",
+    "topic": "Native realm emphasis / Dragon capabilities",
+    "before": "009B partial Dragon examples, 010 interim assignments.",
+    "result": "Use 011 final map and 010 Dragon-specific six; no changes to AERA generic taxonomy, no added chain node or new mathematical operator.",
+    "owners": [
+      "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md"
+    ],
+    "required": [
+      "Chirality",
+      "Topology",
+      "Persistence",
+      "Resolution",
+      "Bandwidth",
+      "Genesis Field",
+      "Elemental Transduction"
+    ]
+  },
+  {
+    "id": "BR-16",
+    "topic": "Sprite and Nyx",
+    "before": "Independent bonds and intuitive education.",
+    "result": "Young Sprite communicates mentally and can reinforce/disrupt, not infallible or a full healer. Nyx flower energy and rideable role remain distinct.",
+    "owners": [
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+    ],
+    "required": [
+      "mind-to-mind",
+      "dust",
+      "humanoid",
+      "flower-energy"
+    ]
+  },
+  {
+    "id": "BR-17",
+    "topic": "Cardsmiths and native craft",
+    "before": "Existing ordinary Cards, sigils, velis.",
+    "result": "Two manufacture routes, trained native Master Cardsmith, six resource positions and central nonmandatory-Violet anchor. Sketch is illustrative; 2.3× not fixed.",
+    "owners": [
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md"
+    ],
+    "required": [
+      "two specially crafted styluses",
+      "central violet-colored",
+      "2.3",
+      "biological capacity",
+      "deactivation"
+    ]
+  },
+  {
+    "id": "BR-18",
+    "topic": "Physical robe vs Genesis Robe",
+    "before": "Physical fashion movement, special Black Cards retired.",
+    "result": "Violet closed black energy rings, intermittent shimmer, paired slit behavior, cost/persistence OPEN. Distinct from both physical robe and Ring reward.",
+    "owners": [
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md"
+    ],
+    "required": [
+      "topologically closed",
+      "intermittent",
+      "between distinct ring manifolds",
+      "load-bearing"
+    ]
+  },
+  {
+    "id": "BR-19",
+    "topic": "Crown discovery, cloaks and vaelum",
+    "before": "Violet team/qualifiers previously OPEN.",
+    "result": "Three women have robes; King requests one, negotiation not completed commission; Crown-only research and compatible vaelum. No invented team or lab.",
+    "owners": [
+      "BOOKS/RED/ARCS/ARC_006/ARC.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md"
+    ],
+    "required": [
+      "three women",
+      "concessions",
+      "not yet broadly recognized",
+      "vaelum"
+    ]
+  },
+  {
+    "id": "BR-20",
+    "topic": "White endpoint",
+    "before": "004/009B and Constitution 12 establish fourth/Green; package proposed Yellow.",
+    "result": "Author explicitly rejects Yellow. Keep Green/fourth, end-of-Red acquisition, race and later logistics. No alternate rank or open outcome.",
+    "owners": [
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+      "BOOKS/RED/ARCS/ARC_007/ARC.md"
+    ],
+    "required": [
+      "Keep Green/fourth; reject the Yellow change",
+      "no Dimensional Ring",
+      "dungeon",
+      "fourth"
+    ]
+  },
+  {
+    "id": "BR-21",
+    "topic": "Protected names and source scope",
+    "before": "Historical variants retained; 009B governs external/manifold distinction.",
+    "result": "Apply Raeon and ELDRIS casing, abecca substance, ru’ne, Kaira, independent Sprite; preserve originals and ordinary occupancy.",
+    "owners": [
+      "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+      "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md"
+    ],
+    "required": [
+      "Raeon",
+      "ELDRIS",
+      "abecca",
+      "ru’ne",
+      "occupied basins"
+    ]
+  }
+]

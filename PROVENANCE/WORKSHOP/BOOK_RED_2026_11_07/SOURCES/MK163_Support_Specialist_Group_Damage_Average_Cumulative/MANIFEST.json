@@ -1,0 +1,8 @@
+{
+  "checkpoint": "MK163 Support Specialist Group Damage Average",
+  "status": "author locked scoring amendment",
+  "inherits": "MK163_Support_Specialist_13_Trial_Cumulative_Locked.zip",
+  "sha256": "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3",
+  "change": "replace worst-injured ally with accumulated average group damage; any ally death remains automatic failed station",
+  "github_push": false
+}

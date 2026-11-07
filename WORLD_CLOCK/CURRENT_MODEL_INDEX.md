@@ -1,3 +1,23 @@
+# Current owners · Book Red and the Accord Registry
+
+**Book Red consolidation · 2026-11-07.** Current 2026-11-07 consolidation on the 009B baseline. See [the seven Book Red arcs](../BOOKS/RED/BOOK_OVERVIEW.md), [author decisions and supersessions](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md), and [source and topic coverage](../CHECKPOINTS/BOOK_RED_2026_11_07_COVERAGE.md). The author retains fourth / Green and rejects the Yellow Tournament proposal. Prior retirement, unrelated canon and provenance continue to govern.
+
+- [AITHREN_VAELUM_ACCORD](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md)
+- [ACCORD_REGISTRY_EXAMINATIONS](L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md)
+- [KAIRA_FIRST_SUPPORT_CERTIFICATION](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md)
+- [BLACKSTONE](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md)
+- [CARDSMITHING_AND_FABRICATION](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md)
+- [OPERATIONAL_DOMAINS](L1_FANTASY/OPERATIONAL_DOMAINS.md)
+- [ALCHEMIST_AND_PEOPLES_PRINCESS](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md)
+- [SIX_BLACK_BONDS](L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md)
+- [GENESIS_ROBE](L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md)
+- [TOURNAMENT_AND_RING_ACQUISITION](L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md)
+- [OPEN_QUESTIONS_CURRENT](../PROVENANCE/OPEN_QUESTIONS_CURRENT.md)
+
+Source and decisions: [Book Red reconciliation](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Routes current owners and 36-topic coverage while keeping 009 retirement and unchanged prior canon visible. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

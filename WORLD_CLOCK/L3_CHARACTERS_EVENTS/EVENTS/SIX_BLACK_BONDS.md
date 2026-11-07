@@ -1,3 +1,32 @@
+# Black Sprite: Resolution, communication and growth
+
+**Book Red consolidation · 2026-11-07.** ## Resolution-level healing: new functional distinction
+- The Sprite's early ability has complementary manifestations: (a) destabilize/disrupt a locally permitted Genesis-energy organization; (b) reinforce/bolster an admissible energy configuration.
+- The latter can support local energetic coherence and sustaining biological function. The Sprite is not directly stabilizing the Genesis Field itself and is not doing the Vaelith's native topology repair.
+- Kaira can learn from the Sprite and eventually use an engineered Card to achieve a limited supportive/restorative effect. Early healing is **pseudo-healing**: superficial cuts, scrapes and minor injuries are examples; limb regeneration and full complex tissue reconstruction are explicitly not available in Book Red. Exact tissue recovery mechanism, rates, fatigue, energy requirements, limits and efficacy are OPEN.
+- The Sprite can itself act as an auxiliary healer/sustainer, but is not an accomplished healer of major wounds. Kaira learns in both directions: her formal conceptual mathematics helps the young Sprite, while its native Resolution intuition helps Kaira.
+- Book Orange's Black Vaelith bond remains the transition to true/full restorative specialization; native Vaelith Coherence–Decoherence and topology operate through **different geometry** from Sprite Resolution support. Orange healing is not merely a numerically stronger version of the same operator. Author described molecular/biological restoration as a deeper capability; no exact formal mathematical operator has been supplied.
+- Sprite and Vaelith may produce similar outward healing consequences by distinct architectural routes: Green through Resolution-level admissible energy configuration; Orange through topology/Coherence–Decoherence. This is the author's cross-realm expressive symmetry principle, not operator identity.
+
+## Party and young companions
+- Nyx is a Green Realm-native feline, not a Sprite and not one of the six Black bonds. By Blackstone entry Nyx is rideable, large and robust; in Blue he is a highly mobile frontline/tank who can leap, occupy ELDRIS, and serve as Kaira's mount. He manifests energy-sustaining flowers through species-specific Green Realm expression, and has additional undeveloped potential. Exceptional individual of his species, still young and not all-powerful.
+- The Black Sprite is a young, exceptional, non-gendered Black Sprite (they/them), native Green Realm denizen. Native small black recursive flame-wisp, intermittent full-neon leakage; can adopt a humanoid-shaped recursive, visibly nonhuman embodiment (not human biology or a disguise). Favors this shape for physically interacting and fighting. Durable/robust melee protector, not invulnerable. Limited early sophisticated Green Shaping; powerful potential must be developed.
+- Native Sprite communication is mind-to-mind. Sprite may communicate privately with Kaira, sometimes translate Nyx's mental impressions, and sometimes perceive other people's intentions/thoughts and warn Kaira. Not established as perfect omniscient lie detection. Range, privacy, resistance, consent, interpretation and cognitive limitations OPEN.
+- Kaira and the Black Sprite mutually develop understanding. Kaira's bond amplifies Sprite expression. The Sprite's ability to amplify magical effects is separate from the bond's amplification; no unchecked multiplication or infinite energy. The trio's early encounters are physically intensive/hack-and-slash despite their far greater latent potential.
+
+## ELDRIS, combat and resource consequence
+- The Sprite can realize an early disruption of permitted energy organization supporting an ELDRIS, rather than simply burning it at molecular scale. This can defeat/destabilize the ELDRIS while reducing recoverable Genesis dust. Expedition resource harvesters may be annoyed: the party survives but loses valuable yield. Exact quantity, conversion, conservation, and ELDRIS mechanism not specified; preserve as story effect and open mechanics.
+- The inverse-like capability is local admissible energy reinforcement/coherence. Do NOT assert a formal mathematical inverse has been proven.
+- Fire-like Sprite manifestations may resemble elemental Dragon fire but interact with underlying Genesis organization rather than molecular combustion. Similar visual outcomes do not imply identical geometry.
+
+
+
+By the settled Blue assessment Kaira uses limited Resolution pseudo-healing, not full Vaelith restorative topology. ELDRIS dust loss has no invented conversion rate. The complete Dragon capabilities and corrected realm emphases are now at [operational domains](../../L1_FANTASY/OPERATIONAL_DOMAINS.md). No change to book/bond order, conventional incompatibility, companion agency or Black Card retirement.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds realm-specific perception and independent mentorship while preserving every existing bond and prophecy mapping. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

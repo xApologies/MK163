@@ -1,0 +1,146 @@
+{
+  "package": "MK163 Book Red arcs and Accord Registry Codex handoff",
+  "date": "2026-11-07",
+  "repository": "xApologies/MK163",
+  "archive_count": 15,
+  "archives": [
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Guardian_Containment_Allied_Protection_Locked.zip",
+      "bytes": 5041123,
+      "sha256": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Guardian_Test_Locked.zip",
+      "bytes": 5030229,
+      "sha256": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Healthcare_Test.zip",
+      "bytes": 5016178,
+      "sha256": "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_BLUE_ARC_NARRATIVE_LOCKED.zip",
+      "bytes": 10839,
+      "sha256": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_Kaira_Support_Certification_Green_54_of_91_Cumulative.zip",
+      "bytes": 5054301,
+      "sha256": "dc59ca506fe972fd5d86d24043eed321675f4f57f23a71c9dcba80e0b83159a9"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_LIVE_MODEL_009B_TERMINOLOGY_CORRECTED_CODEX(1).zip",
+      "bytes": 28083,
+      "sha256": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT.zip",
+      "bytes": 4371362,
+      "sha256": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_LIVE_MODEL_011_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 4870592,
+      "sha256": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_LIVE_MODEL_012_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 5001936,
+      "sha256": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_LIVE_MODEL_013_ACCORD_REGISTRY_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 5013574,
+      "sha256": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_Support_Specialist_13_Trial_Cumulative_Locked.zip",
+      "bytes": 5045762,
+      "sha256": "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/MK163_Support_Specialist_Group_Damage_Average_Cumulative.zip",
+      "bytes": 5051695,
+      "sha256": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Offensive_Specialist_Test.zip",
+      "bytes": 5021293,
+      "sha256": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Offensive_Specialist_Test_Updated.zip",
+      "bytes": 5032594,
+      "sha256": "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575"
+    },
+    {
+      "path": "MK163_PUSH/SOURCE_ARCHIVES/Offensive_Specialist_Time_Rating_Locked.zip",
+      "bytes": 5036032,
+      "sha256": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80"
+    }
+  ],
+  "documents": [
+    {
+      "path": "MK163_PUSH/README_START_HERE.md",
+      "bytes": 1573,
+      "sha256": "ed8e4933c09df5cf827fe33bf7c8bed3745cca5fdd30ec93a3448c9c7078cae6"
+    },
+    {
+      "path": "MK163_PUSH/CANON/00_PROTECTED_TERMINOLOGY_AND_CORRECTIONS.md",
+      "bytes": 1698,
+      "sha256": "9afeb29bb0f26ff9f681cd231a17cae8eb7eef01d0613b956a00dccc927f78e3"
+    },
+    {
+      "path": "MK163_PUSH/CANON/01_GREEN_ARC_BLACKSTONE_AND_ROYAL_RAEON.md",
+      "bytes": 4516,
+      "sha256": "54a7c2f652aee85353c4ec31916a5f0159aed2c11bb48d6ecf928ca904481e44"
+    },
+    {
+      "path": "MK163_PUSH/CANON/02_BLUE_ARC_HANDOFF.md",
+      "bytes": 2708,
+      "sha256": "4b1a0114b778e3b9c97a99048c66b2636dc3154abc6dc75f3fb324f2ff689b55"
+    },
+    {
+      "path": "MK163_PUSH/CANON/03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE.md",
+      "bytes": 5084,
+      "sha256": "c16d8388ea24d9b097602b1dd2875ee0f3325c335d3dd98eaea9ec94ad81e82c"
+    },
+    {
+      "path": "MK163_PUSH/CANON/04_WHITE_ARC_TOURNAMENT_AND_CONFLICT.md",
+      "bytes": 2147,
+      "sha256": "b52463f8b7d60d2849c5b8d74c20065890f3145ba8cb1c57e244eedc31c9e879"
+    },
+    {
+      "path": "MK163_PUSH/CANON/05_KAIRA_EXAMINATION_SCORE_LEDGER.md",
+      "bytes": 2083,
+      "sha256": "2ac283d7fb308eedf5757c0d8850b5faf171a5f4bba6bd1eee5e192198750a59"
+    },
+    {
+      "path": "MK163_PUSH/CANON/06_ACCORD_REGISTRY_FOUR_ROLE_FULL_RULES.md",
+      "bytes": 6385,
+      "sha256": "6aaaf4421fe33405b59fc9fb045f15eaec4680df3cca9774b33b08205cb368d6"
+    },
+    {
+      "path": "MK163_PUSH/CANON/07_CORRECTION_SUPERSESSION_LEDGER.md",
+      "bytes": 1795,
+      "sha256": "71308fb269929db137ca63602fe61bc5bbca564b318eaee460267fe957c1d4b7"
+    },
+    {
+      "path": "MK163_PUSH/CANON/08_COVERAGE_AND_SOURCE_REGISTER.md",
+      "bytes": 1745,
+      "sha256": "f648c878679c9338951e313efd1665b8cc4ebc1b8f31cdf69dfb82f306039a8d"
+    },
+    {
+      "path": "MK163_PUSH/executable.md",
+      "bytes": 4765,
+      "sha256": "07cf1a6a74f3ffd1f83c7899554e952beb4a8adebc0c0427e37725da42b9eee8"
+    }
+  ],
+  "limitations": [
+    "not raw full transcript",
+    "GitHub content not copied",
+    "tournament old Green/fourth vs new Yellow conflict requires reconciliation"
+  ],
+  "push_performed": false
+}

@@ -1,3 +1,11 @@
+# Red native specialization in MK163
+
+**Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Chirality; six Dragon capabilities, beginning with Elemental Transduction**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Delta 004 authority update — 2026-10-15:** Delta 004 describes Dragons as generalists across six Transduction domains. The earlier source restriction to one specialization per individual is superseded for MK163 by this explicit author selection; it remains recorded below. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # Red — Dragons

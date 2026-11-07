@@ -1,3 +1,11 @@
+# Blue native specialization in MK163
+
+**Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Bandwidth**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # Blue — Leviathans
 
 **Project:** MK163  

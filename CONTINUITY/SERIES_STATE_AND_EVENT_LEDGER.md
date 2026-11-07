@@ -1,3 +1,21 @@
+# Book Red · continuity through the White arc
+
+**Book Red consolidation · 2026-11-07.** Read these states in order. They are author-selected planning anchors, not evidence of finished chapters.
+
+- **RED-001 Red:** Village, Awakening and departure; earlier detailed chapter work retained. [Arc owner](../BOOKS/RED/ARCS/ARC_001/ARC.md).
+- **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
+- **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
+- **RED-004 Green:** Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
+- **RED-005 Blue:** New city, Support exam, first research contract and independent field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
+- **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
+- **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).
+
+No Ring during Blue or Violet. The first independent environmental Support contract in Yellow/Green strata is separate from the proposed after-Vaelith Blue rescue. Graduation, certification and first native garment are distinct milestones.
+
+Source and decisions: [Book Red reconciliation](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Records selected future directions and proposed scenarios without converting them into completed chronology. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

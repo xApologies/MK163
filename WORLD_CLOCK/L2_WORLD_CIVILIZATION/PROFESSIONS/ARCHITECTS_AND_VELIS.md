@@ -1,3 +1,11 @@
+# Architect competency and Master Cardsmithing
+
+**Book Red consolidation · 2026-11-07.** Direct native architecture is a transferable skill, not a new formal hybrid rank. A Master Cardsmith can natively construct Card geometry; an Architect is not automatically a Cardsmith. Kaira’s first native robe-ring work in Violet does not confer Master Cardsmith status. [Manufacture](../TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) and [Genesis Robe](../../L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Connects modular Cards to existing Architect applications without equating Cards, velis and physical sigils. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

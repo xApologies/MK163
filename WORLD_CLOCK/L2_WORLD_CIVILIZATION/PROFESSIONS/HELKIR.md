@@ -1,3 +1,11 @@
+# Helkir assessment and environmental Support
+
+**Book Red consolidation · 2026-11-07.** [The 13 Helkir stations](../INSTITUTIONS/ACCORD_REGISTRY/HELKIR.md) assess sustainment and restoration of projected biological manifolds. The chosen Book Red Blue research contract is environmental **Support**: Kaira protects the expedition from domain pressure; she is not a dedicated combat helkir. This does not revoke the independent environmental coherence helkir role or settle the later proposed Vaelith scenario.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Distinguishes combat restoration and sustained environmental coherence while retaining one helkir profession and open limits. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

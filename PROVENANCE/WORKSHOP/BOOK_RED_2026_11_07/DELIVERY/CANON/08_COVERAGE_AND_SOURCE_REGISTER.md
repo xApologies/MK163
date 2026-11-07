@@ -1,0 +1,16 @@
+# Coverage register (workshop topics → substantive record)
+- Prior MK163 009B, 010–013 checkpoints: unchanged bytes in SOURCE_ARCHIVES.
+- Helkir 13 tests: CANON/06 plus SOURCE_ARCHIVES/Healthcare_Test.zip.
+- Offensive 13 tests/time ranking: CANON/06 plus SOURCE_ARCHIVES/Offensive_Specialist_Time_Rating_Locked.zip and earlier source variants.
+- Guardian 13 tests/medical/ring/allies: CANON/06 plus SOURCE_ARCHIVES/Guardian_Containment_Allied_Protection_Locked.zip and earlier source variants.
+- Support 13 tests/average group damage: CANON/06 plus SOURCE_ARCHIVES/MK163_Support_Specialist_Group_Damage_Average_Cumulative.zip and earlier source variants.
+- Kaira exam exact score: CANON/05 plus SOURCE_ARCHIVES/MK163_Kaira_Support_Certification_Green_54_of_91_Cumulative.zip.
+- Green Blackstone/King/Raeon/challenge coin: CANON/01 (new complete workshop delta).
+- Blue city/career/contract/three Cards: CANON/02 and unchanged SOURCE_ARCHIVES/MK163_BLUE_ARC_NARRATIVE_LOCKED.zip (full detailed files).
+- Violet Genesis Ring/Robe/slit coupling/Crown research/vaelum: CANON/03 (new complete workshop delta).
+- White Tournament/ring: CANON/04 and repository conflict register.
+- Protected vocabulary: CANON/00.
+- Decision corrections and supersession: CANON/07.
+- Full exact prior workshop transcripts: **NOT AVAILABLE AS RAW TEXT IN THIS PACKAGE**. Historical checkpoint ZIPs carry authored detail and selected evidence; do not claim transcript completeness.
+- MK163 Git repository complete contents: **NOT EMBEDDED**. Codex must read current repo and use existing source owners, preserving original records.
+- Orange/Red/Yellow arcs: **NO newly invented material**. Preserve current repository source owners and historical checkpoint records.

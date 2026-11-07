@@ -1,3 +1,11 @@
+# Book Red’s first independent research contract
+
+**Book Red consolidation · 2026-11-07.** [Book Red Blue](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) selects a roughly three-week trip in a Blue-ranked dungeon through Red/Orange to Yellow/Green. Kaira takes environmental Support work as an independent Green-rated aithren. This is **not** the earlier proposed deep Blue-stratum, after-Vaelith rescue. The three places are distinct: the childhood Green dungeon hub; the earlier Violet dungeon staging community near the Green-domain city; and the centuries-old Blue dungeon city with a 2 × 2 mile staging district. No retcon to old mapped routes or new named city.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds research escort logistics, illustrative staffing and a clearly proposed endurance/rescue scene. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

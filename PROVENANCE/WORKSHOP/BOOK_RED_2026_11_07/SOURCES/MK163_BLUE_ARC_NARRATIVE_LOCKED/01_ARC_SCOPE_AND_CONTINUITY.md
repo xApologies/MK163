@@ -1,0 +1,8 @@
+# Blue Arc: scope and chronology
+- **Blue Arc** is the current arc being closed. Kaira completed her Blackstone education during the preceding **Green Arc**.
+- Nyx joins Kaira's family in the **Orange Arc** (not Yellow, not Red). Earlier incorrect Yellow/Red statements are superseded. By Blue he is older, larger, rideable, and frequently carries Kaira through the city.
+- Kaira's earlier childhood dungeon hub was developing around a **Green Dungeon**. A separate previously visited established city associated with a **Violet Dungeon** is part of her earlier experience. Do not conflate these places or invent geography.
+- Kaira's established armorsmith identity precedes Blue. The original **Chainmail Robe** is her design, widely recognized in society and connected with the emerging Age of Knowledge.
+- The **Black Sprite** uses they/them, can take a humanoid combat form, and has developing native insight into Genesis-field topology specifically at the Resolution level. They are a family member, not equipment.
+- Voice transcription protected vocabulary: Kaira (not Kira); Nyx (not Nix); **abecca** is the coffee analogue, not a proprietor or named establishment; **aithren** is individual professional identity; **vaelum** is a recognized independent organization; **ru’ne** is an individual physical sigil mark. 'Coffee shop' is a generic description; **do not invent a shop named 'Abecca's'**. Research into naturally forming runae/sigils is described as such; exact classification and orthography of 'runae' remains subject to source canon.
+- Other worldbuilding, mechanics and source authority remain in the upstream AERA/MK163 repositories. Do not treat assistant illustrations or proposed names as canon.

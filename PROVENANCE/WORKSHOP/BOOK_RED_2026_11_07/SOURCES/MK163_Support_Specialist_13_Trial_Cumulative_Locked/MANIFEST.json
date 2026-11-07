@@ -1,0 +1,8 @@
+{
+  "name": "MK163 Support Specialist 13 Trial Cumulative Locked",
+  "parent": "Guardian_Containment_Allied_Protection_Locked.zip",
+  "parent_sha256": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+  "parent_preserved_byte_for_byte": true,
+  "status": "13-test structure locked; tactical scenario examples and qualitative injury grades subject to calibration",
+  "repository_changes": "none"
+}

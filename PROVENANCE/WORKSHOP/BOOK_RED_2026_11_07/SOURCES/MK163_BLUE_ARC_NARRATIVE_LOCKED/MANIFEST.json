@@ -1,0 +1,18 @@
+{
+  "title": "MK163 Blue Arc narrative checkpoint",
+  "scope": "Blue Arc only; excludes detailed Accord Registry scoring",
+  "files": [
+    "README.md",
+    "01_ARC_SCOPE_AND_CONTINUITY.md",
+    "02_BLACKSTONE_GRADUATION_AND_CARDSMITHING.md",
+    "03_RELOCATION_AND_CITY_LIFE.md",
+    "04_PROFESSIONAL_DILEMMA_AND_CATALYST.md",
+    "05_STAGING_DISTRICT_AND_ACCORD_REGISTRY.md",
+    "06_PREPARATION_CARDS_AND_EXAMINATION_NARRATIVE.md",
+    "07_FIRST_RESEARCH_CONTRACT.md",
+    "08_BLUE_ARC_CONTRACTS_AND_CARD_REFINEMENT.md",
+    "09_PROVENANCE_AND_OPEN_ITEMS.md"
+  ],
+  "source": "user-established workshop decisions",
+  "repository_write": false
+}

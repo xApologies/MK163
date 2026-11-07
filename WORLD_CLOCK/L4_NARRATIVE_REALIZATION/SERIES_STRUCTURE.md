@@ -1,3 +1,11 @@
+# Seven arcs per book; Book Red progression
+
+**Book Red consolidation · 2026-11-07.** The seven books remain distinct from their seven sequential arc colors Red, Orange, Yellow, Green, Blue, Violet and White. Book Red’s stable Arc 1–7 owners are at [the book overview](../../BOOKS/RED/BOOK_OVERVIEW.md). Arc lengths/chapters remain variable. Green is human Cardsmith education, Blue independent certification/fieldwork, Violet native Genesis Robe/coupled seams and affiliation, White the championship and Ring; there is no mandatory Arc V Black Card manufacture. These are not the six successive books’ Black bonds. The 009B planet-local ending direction is unchanged.
+
+Source and decisions: [Book Red reconciliation](../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds a world-local culminating direction and long future horizon while retaining retirement and existing arc boundaries. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

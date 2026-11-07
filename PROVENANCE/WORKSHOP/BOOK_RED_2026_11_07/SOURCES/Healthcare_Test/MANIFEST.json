@@ -1,0 +1,12 @@
+{
+  "artifact": "Healthcare Test",
+  "project": "MK163",
+  "checkpoint": "LIVE_MODEL_014",
+  "baseline": "MK163_LIVE_MODEL_013_ACCORD_REGISTRY_CUMULATIVE_CHECKPOINT.zip",
+  "baseline_sha256": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+  "tests": 13,
+  "sustainment": 4,
+  "restoration": 9,
+  "status": "author-locked workshop canon; not pushed to GitHub",
+  "scope": "Helkir examination; cumulative prior checkpoint embedded unchanged"
+}

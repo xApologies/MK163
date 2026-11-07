@@ -1,3 +1,11 @@
+# The People’s Princess and territorial government
+
+**Book Red consolidation · 2026-11-07.** The 27-year-old youngest royal daughter does not govern Blue or another territorial domain. She is distinct from the governing princess; whether they are sisters is OPEN. Her advanced education and friendship with Kaira are at [the character owner](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md). No change to the Aellin Crown or its domain offices.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 006 current authority — 2026-10-19:** Records the explicit royal-house selection while preserving open names and jurisdiction. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

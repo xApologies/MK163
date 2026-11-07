@@ -1,0 +1,13 @@
+{
+  "artifact": "Offensive_Specialist_Time_Rating_Locked",
+  "inheritance_archive": "Offensive_Specialist_Test_Updated.zip",
+  "inheritance_sha256": "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575",
+  "integrity": "nested baseline byte-for-byte",
+  "repository_changes": "none",
+  "docs": [
+    "README.md",
+    "OFFENSIVE_EXAMINATION_AND_SCORING.md",
+    "OPEN_ITEMS.md"
+  ],
+  "status": "author locked time-based scoring"
+}

@@ -1,3 +1,11 @@
+# Blackstone access and the King’s challenge coin
+
+**Book Red consolidation · 2026-11-07.** Blackstone uses the ordinary Blue capital gateways. No additional campus portal is selected. The King’s personal challenge coin grants Kaira tax-/duty-free use of the Highway to attend his recurring Raeon gatherings in the Crown’s capital, including from her later home. It is not a title, appointment, military clearance or general exemption for other travelers. Coin design/verification, the route from the later city, and general toll policy remain OPEN. The four-capital, six-pair network and inward-facing local orientation below stand.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # The King’s Highway — four capitals, twelve gateways, six paired links
 
 **Project:** MK163  

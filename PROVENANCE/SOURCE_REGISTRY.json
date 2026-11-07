@@ -170,6 +170,17 @@
         "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751"
       },
       "upstream_remote_tips_fetched": false
+    },
+    {
+      "id": "BOOK_RED_2026_11_07",
+      "filename": "MK163_BOOK_RED_CODEX_PUSH_EXHAUSTIVE.zip",
+      "sha256": "771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62",
+      "baseline": "f2be3e917321c0fe0efbb6e37f30c0948e7f84fa",
+      "source_inventory": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCE_INVENTORY.json",
+      "coverage": "CHECKPOINTS/BOOK_RED_2026_11_07_COVERAGE.md",
+      "execution_report": "CHECKPOINTS/BOOK_RED_2026_11_07_INTEGRATION.md",
+      "author_ruling": "Keep Green/fourth; reject the Yellow change",
+      "literal_transcript_complete": false
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "checkpoint": "LIVE_MODEL_013",
+  "project": "MK163",
+  "scope": "Permanent Accord Registry canon and all post-012 workshop decisions",
+  "previous_archive": "MK163_LIVE_MODEL_012_CUMULATIVE_CHECKPOINT.zip",
+  "previous_sha256": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+  "source_status": "Existing AERA/MK147/MK157 doctrine verified via connected GitHub; new MK163 expansions author-locked; no push",
+  "transcript_status": "Detailed decision recovery, not verbatim transcript",
+  "files": [
+    "README.md",
+    "DELTA/01_ACCORD_REGISTRY_CANON.md",
+    "DELTA/02_RATINGS_ROLES_AND_TESTS.md",
+    "DELTA/03_CONTRACTS_VAELUM_AND_ECONOMY.md",
+    "DELTA/04_KAIRA_BLUE_ARC.md",
+    "DELTA/05_PROVENANCE_SUPERSESSION_AND_OPENS.md"
+  ]
+}

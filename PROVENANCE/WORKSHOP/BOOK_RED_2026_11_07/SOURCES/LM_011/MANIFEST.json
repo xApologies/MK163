@@ -1,0 +1,38 @@
+{
+  "checkpoint": "LIVE_MODEL_011",
+  "cumulative_strategy": "full unmodified prior ZIP nested plus detailed append-only post-checkpoint delta",
+  "baseline_filename": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT.zip",
+  "baseline_sha256": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+  "files": {
+    "MK163_LIVE_MODEL_011/README.md": {
+      "size": 1900,
+      "sha256": "92a083e3e4d27692340c7a06b112836f61272f3e4307f4d16ed63093fbde4869"
+    },
+    "MK163_LIVE_MODEL_011/DELTA/01_DECISIONS_EXHAUSTIVE.md": {
+      "size": 8795,
+      "sha256": "60b09e80125ce50c51f1738a5d81df2f6adca9740b786ef0fd7ad91f585941f5"
+    },
+    "MK163_LIVE_MODEL_011/DELTA/02_REALM_ARCHITECTURE_AND_SUPERSESSION.md": {
+      "size": 4126,
+      "sha256": "84a24bf6d016a5b2aff05acabb5763e9626bbc2d6f069d11031b3b02d549c934"
+    },
+    "MK163_LIVE_MODEL_011/DELTA/03_AUTHOR_STATEMENTS_AND_STATUS.md": {
+      "size": 3088,
+      "sha256": "c8942be41c37ebb3dd9b52e12613925c4637d48bb4c0ddc5c604c03035b3318a"
+    },
+    "MK163_LIVE_MODEL_011/DELTA/04_SOURCE_AND_MEDIA.md": {
+      "size": 1058,
+      "sha256": "38fd7684e9b0109dbaeae3e5de33e1d581052dc65d3e2c17ad13c5e1d29c8c87"
+    },
+    "MK163_LIVE_MODEL_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg": {
+      "size": 527825,
+      "sha256": "3b97ee32e3fb39068923ca92c7ad52374487377a34c60f975049e430d4ed643a"
+    },
+    "MK163_LIVE_MODEL_011/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT.zip": {
+      "size": 4371362,
+      "sha256": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf"
+    }
+  },
+  "raw_transcript_included": false,
+  "github_modified": false
+}

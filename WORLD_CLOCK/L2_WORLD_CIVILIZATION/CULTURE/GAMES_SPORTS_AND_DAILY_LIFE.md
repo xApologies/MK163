@@ -1,3 +1,11 @@
+# Raeon and royal games
+
+**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; her friendly royal rivalry is recorded in [Green Arc](../../../BOOKS/RED/ARCS/ARC_004/ARC.md). The King's gatherings fall on the **last day of the six-day week**, whose name remains OPEN. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 007 current authority — 2026-10-20:** Adds approved MK163 formats and community details, with scoped upstream verification and open fees/placements. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

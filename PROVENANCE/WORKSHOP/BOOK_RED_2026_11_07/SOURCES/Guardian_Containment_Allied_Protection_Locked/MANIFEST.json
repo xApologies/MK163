@@ -1,0 +1,13 @@
+{
+  "artifact": "Guardian_Containment_Allied_Protection_Locked",
+  "inheritance_archive": "Offensive_Specialist_Time_Rating_Locked.zip",
+  "inheritance_sha256": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+  "integrity": "nested baseline byte-for-byte",
+  "repository_changes": "none",
+  "docs": [
+    "README.md",
+    "GUARDIAN_FULL_EXAMINATION.md",
+    "PROVENANCE_AND_OPEN_ITEMS.md"
+  ],
+  "status": "author locked spatial containment and ally protection"
+}

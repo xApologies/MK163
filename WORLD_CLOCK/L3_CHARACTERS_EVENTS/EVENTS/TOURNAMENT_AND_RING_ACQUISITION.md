@@ -1,3 +1,11 @@
+# Book Red White arc: fourth / Green confirmed
+
+**Book Red consolidation · 2026-11-07.** Author decision, 2026-11-07: **“Keep Green/fourth; reject the Yellow change.”** White is the seventh arc of Book Red. Kaira competes with her team in the dangerous dungeon race, places fourth / Green and receives the high-quality Dimensional Ring at the end of Red. No Ring earlier. The ZIP’s Yellow proposal is rejected, not an open alternate outcome. No roster, qualifier sequence, ceremony or numerical Ring grade is supplied.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # Book Red endpoint — Green placement and Dimensional Ring
 
 **Project:** MK163  

@@ -1,0 +1,13 @@
+{
+  "name": "Guardian_Test",
+  "scope": "MK163 Accord Registry Guardian examination; shared universal chamber",
+  "baseline_archive": "Offensive_Specialist_Test.zip",
+  "baseline_sha256": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+  "author_locked": true,
+  "repository_pushed": false,
+  "new_files": [
+    "README.md",
+    "GUARDIAN_TEST.md",
+    "PROVENANCE_AND_OPEN.md"
+  ]
+}

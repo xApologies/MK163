@@ -1,0 +1,11 @@
+{
+  "checkpoint": "Guardian_Test_Locked",
+  "previous_archive": "Guardian_Test.zip",
+  "previous_sha256": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+  "status": "Author-locked workshop canon, not pushed",
+  "documents": [
+    "README.md",
+    "GUARDIAN_MEDICAL_PROTOCOL.md",
+    "PROVENANCE_AND_OPEN.md"
+  ]
+}

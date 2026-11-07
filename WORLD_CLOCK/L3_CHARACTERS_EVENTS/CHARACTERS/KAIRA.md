@@ -1,3 +1,11 @@
+# Kaira’s Book Red progression
+
+**Book Red consolidation · 2026-11-07.** Orange: Nyx joins the family. Yellow: the first Black Sprite bond and the Alchemist’s sponsorship. Green: a high-honors Cardsmith graduate, not yet a Master Cardsmith. Blue: creates a purpose-built three-Card kit, earns [Green Support certification](../EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and takes independent contracts. Violet: her first direct native Architect construction is a closed Genesis-energy ring, followed by [the Genesis Robe](../EVENTS/GENESIS_ROBE.md) and vaelum affiliation. White: Green/fourth and the book-ending Ring. These are successive plan states, not Arc 2 possessions, simultaneous basin access or present mastery. See [the Alchemist and Princess](ALCHEMIST_AND_PEOPLES_PRINCESS.md) for the relationships and their independent roles.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Records exceptional but developing potential and endurance without adding current abilities, equipment or completed scenes. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

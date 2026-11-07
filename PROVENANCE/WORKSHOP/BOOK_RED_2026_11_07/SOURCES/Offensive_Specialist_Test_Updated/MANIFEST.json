@@ -1,0 +1,8 @@
+{
+  "artifact": "Offensive Specialist Test \u2014 Time-Based Scoring Update",
+  "status": "author-locked offensive time-based scoring; Guardian duration model proposal",
+  "prior_archive": "Guardian_Test_Locked.zip",
+  "prior_sha256": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+  "source_chain": "Guardian_Test_Locked -> Guardian_Test -> Offensive_Specialist_Test -> Healthcare_Test -> earlier LIVE_MODEL checkpoints",
+  "github_updated": false
+}

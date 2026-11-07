@@ -1,0 +1,16 @@
+{
+  "checkpoint": "LIVE_MODEL_012",
+  "project": "MK163",
+  "type": "cumulative-additive",
+  "previous_archive": "MK163_LIVE_MODEL_011_CUMULATIVE_CHECKPOINT.zip",
+  "previous_sha256": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+  "sketch_original_filename": "IMG_5485.jpeg",
+  "sketch_sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+  "notes": "Detailed new Cardsmithing delta; prior LIVE_MODEL_011 archive embedded unchanged, itself containing 010. Not verbatim transcript; no GitHub push.",
+  "delta_files": [
+    "README.md",
+    "DELTA/01_AUTHOR_DECISIONS_AND_MECHANICS.md",
+    "DELTA/02_PROCESS_AND_EXAMPLES.md",
+    "DELTA/03_PROVENANCE_AND_OPEN_ITEMS.md"
+  ]
+}

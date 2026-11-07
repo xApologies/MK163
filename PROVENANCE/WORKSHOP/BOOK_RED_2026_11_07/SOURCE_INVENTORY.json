@@ -1,0 +1,1567 @@
+{
+  "archive_sha256": "771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62",
+  "archives": {
+    "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942": {
+      "name": "Guardian_Containment_Allied_Protection_Locked.zip",
+      "bytes": 5041123,
+      "members": [
+        {
+          "path": "Guardian_Containment_Allied_Protection_Locked/BASELINE_UNMODIFIED/Offensive_Specialist_Time_Rating_Locked.zip",
+          "sha256": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+          "bytes": 5036032
+        },
+        {
+          "path": "Guardian_Containment_Allied_Protection_Locked/README.md",
+          "sha256": "72b22a05d4604725ceb38f8836f4a4ed51555b78282216c243da8dd548fee839",
+          "bytes": 532
+        },
+        {
+          "path": "Guardian_Containment_Allied_Protection_Locked/GUARDIAN_FULL_EXAMINATION.md",
+          "sha256": "241cf44c95f2420220cea2ba0309bea7354f1f4752b78f4b1f51b8b84dfe7884",
+          "bytes": 6231
+        },
+        {
+          "path": "Guardian_Containment_Allied_Protection_Locked/PROVENANCE_AND_OPEN_ITEMS.md",
+          "sha256": "fe026ff058092f4b5455420adb43d239f078dcb3c20b018c4187ee6a368a6d1a",
+          "bytes": 1005
+        },
+        {
+          "path": "Guardian_Containment_Allied_Protection_Locked/MANIFEST.json",
+          "sha256": "fc37270a91b0cb4700bebc6819f8b2ce4b9514a9140018bdbb4969bfddabe1d3",
+          "bytes": 483
+        }
+      ]
+    },
+    "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80": {
+      "name": "Guardian_Containment_Allied_Protection_Locked/BASELINE_UNMODIFIED/Offensive_Specialist_Time_Rating_Locked.zip",
+      "bytes": 5036032,
+      "members": [
+        {
+          "path": "Offensive_Specialist_Time_Rating_Locked/BASELINE_UNMODIFIED/Offensive_Specialist_Test_Updated.zip",
+          "sha256": "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575",
+          "bytes": 5032594
+        },
+        {
+          "path": "Offensive_Specialist_Time_Rating_Locked/README.md",
+          "sha256": "bc43694ccf2e6e1c1162ea47ee8ee46b60b6fd2bb3c200a550924cce033e0eeb",
+          "bytes": 560
+        },
+        {
+          "path": "Offensive_Specialist_Time_Rating_Locked/OFFENSIVE_EXAMINATION_AND_SCORING.md",
+          "sha256": "4d08e06de6901c5e6fa0b77034d59037b99252dec063cc980bc7d479fc53fd38",
+          "bytes": 3307
+        },
+        {
+          "path": "Offensive_Specialist_Time_Rating_Locked/OPEN_ITEMS.md",
+          "sha256": "8ee8fe694ec5cf35a5f62c407a2353faa1cfc27ebf33ce104c3e2ee1d1c6c025",
+          "bytes": 353
+        },
+        {
+          "path": "Offensive_Specialist_Time_Rating_Locked/MANIFEST.json",
+          "sha256": "853ec6328dd421ccbda7259b1257fb2dba7a438294a6a41afd472b179a5dbc5a",
+          "bytes": 443
+        }
+      ]
+    },
+    "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575": {
+      "name": "Offensive_Specialist_Time_Rating_Locked/BASELINE_UNMODIFIED/Offensive_Specialist_Test_Updated.zip",
+      "bytes": 5032594,
+      "members": [
+        {
+          "path": "Offensive_Specialist_Test_Updated/BASELINE_UNMODIFIED/Guardian_Test_Locked.zip",
+          "sha256": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+          "bytes": 5030229
+        },
+        {
+          "path": "Offensive_Specialist_Test_Updated/README.md",
+          "sha256": "a75a47dc5bcdd66ea5fe1f11006d7cea888efe00e12a172e6fd91c9786449fd2",
+          "bytes": 3027
+        },
+        {
+          "path": "Offensive_Specialist_Test_Updated/MANIFEST.json",
+          "sha256": "85ebb3e4a7e67e97dc72232778658ce4719d7d662f4034193be5ce0a6018f352",
+          "bytes": 471
+        }
+      ]
+    },
+    "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb": {
+      "name": "Offensive_Specialist_Test_Updated/BASELINE_UNMODIFIED/Guardian_Test_Locked.zip",
+      "bytes": 5030229,
+      "members": [
+        {
+          "path": "Guardian_Test_Locked/BASELINE_UNMODIFIED/Guardian_Test.zip",
+          "sha256": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+          "bytes": 5026528
+        },
+        {
+          "path": "Guardian_Test_Locked/README.md",
+          "sha256": "b301c4257b4b79157371f45d6a31168f5a708b5bcbf7dd8aa647169a86b0238b",
+          "bytes": 592
+        },
+        {
+          "path": "Guardian_Test_Locked/GUARDIAN_MEDICAL_PROTOCOL.md",
+          "sha256": "4144aeccb4ace2d8b154cf6f5faeb2c375ac063bf0eaaaf2aa1bed492fe8139e",
+          "bytes": 3444
+        },
+        {
+          "path": "Guardian_Test_Locked/PROVENANCE_AND_OPEN.md",
+          "sha256": "0a01389bd34eacb38046fb2ecb8a8227a23feb711fee7d698beac4bc5770f1c6",
+          "bytes": 1045
+        },
+        {
+          "path": "Guardian_Test_Locked/MANIFEST.json",
+          "sha256": "4544864f5ec186218f4d18d3c1ddd40f8e6321f88ac6e8a7e0ab5bb3db6e5195",
+          "bytes": 334
+        }
+      ]
+    },
+    "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577": {
+      "name": "Guardian_Test_Locked/BASELINE_UNMODIFIED/Guardian_Test.zip",
+      "bytes": 5026528,
+      "members": [
+        {
+          "path": "Guardian_Test/BASELINE_UNMODIFIED/Offensive_Specialist_Test.zip",
+          "sha256": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+          "bytes": 5021293
+        },
+        {
+          "path": "Guardian_Test/README.md",
+          "sha256": "7b276a8e458f210bd401b16c902d8f8d69e07b58ac1906a66515cfdc9d52fcbc",
+          "bytes": 688
+        },
+        {
+          "path": "Guardian_Test/GUARDIAN_TEST.md",
+          "sha256": "aa52168582ed3498d9b3a521ced095354c5997b07b74f75d22ffd3346fddcb4a",
+          "bytes": 6084
+        },
+        {
+          "path": "Guardian_Test/PROVENANCE_AND_OPEN.md",
+          "sha256": "751aaa77c8df137507f117f0195796e389c7f3cc37884ff10f32bc5080b2fc3a",
+          "bytes": 2142
+        },
+        {
+          "path": "Guardian_Test/MANIFEST.json",
+          "sha256": "5db0b697308e001332c17b9be07abec9dd108036bd945b8a5faeb4ad24215300",
+          "bytes": 403
+        }
+      ]
+    },
+    "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4": {
+      "name": "Guardian_Test/BASELINE_UNMODIFIED/Offensive_Specialist_Test.zip",
+      "bytes": 5021293,
+      "members": [
+        {
+          "path": "Offensive_Specialist_Test/BASELINE_UNMODIFIED/Healthcare_Test.zip",
+          "sha256": "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224",
+          "bytes": 5016178
+        },
+        {
+          "path": "Offensive_Specialist_Test/README.md",
+          "sha256": "d6c67d49ca1271fb4709b35bd1ad2fe6c8a8f3cc5288b2f56ad6a33c18808c0b",
+          "bytes": 785
+        },
+        {
+          "path": "Offensive_Specialist_Test/OFFENSIVE_SPECIALIST_TEST.md",
+          "sha256": "f0dbd58b5fc255eebe35ffd830bf406776b0f6ec43af7175b13d4f6c27b664ad",
+          "bytes": 5075
+        },
+        {
+          "path": "Offensive_Specialist_Test/PROVENANCE_AND_OPEN.md",
+          "sha256": "e03df77cba95a6ea4889102c5aab03d2022d9c44a3774f9a109acf285567cbe4",
+          "bytes": 2231
+        },
+        {
+          "path": "Offensive_Specialist_Test/MANIFEST.json",
+          "sha256": "a54d5456728de852daa470f6bf818987c701300e0e200a6a8a92c875ff7524a4",
+          "bytes": 433
+        }
+      ]
+    },
+    "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224": {
+      "name": "Offensive_Specialist_Test/BASELINE_UNMODIFIED/Healthcare_Test.zip",
+      "bytes": 5016178,
+      "members": [
+        {
+          "path": "Healthcare_Test/HEALTHCARE_TEST.md",
+          "sha256": "cbf41ca04aaf6bde65e95a1321db734897b9d13ae63d411c2f2375743c908313",
+          "bytes": 5947
+        },
+        {
+          "path": "Healthcare_Test/MANIFEST.json",
+          "sha256": "2bb774b50b7ef79436ace1840154909e70cc631a555eb4e0dc2d9ad9f40bb052",
+          "bytes": 462
+        },
+        {
+          "path": "Healthcare_Test/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_013_ACCORD_REGISTRY_CUMULATIVE_CHECKPOINT.zip",
+          "sha256": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+          "bytes": 5013574
+        }
+      ]
+    },
+    "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9": {
+      "name": "Healthcare_Test/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_013_ACCORD_REGISTRY_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 5013574,
+      "members": [
+        {
+          "path": "MK163_LIVE_MODEL_013/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_012_CUMULATIVE_CHECKPOINT.zip",
+          "sha256": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+          "bytes": 5001936
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/README.md",
+          "sha256": "ceb26c440f96fcd3517fcc46c43f37cf73922939f8f85994b8bc61b40d2031af",
+          "bytes": 1246
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/DELTA/01_ACCORD_REGISTRY_CANON.md",
+          "sha256": "969d6cf309ee80205a22ffded14901e1aa289f174758cf91ba5653a50b3444dc",
+          "bytes": 4666
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/DELTA/02_RATINGS_ROLES_AND_TESTS.md",
+          "sha256": "f46e23346841ba14ae163874e944939020733ab722824055ded86de5e712b207",
+          "bytes": 4131
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/DELTA/03_CONTRACTS_VAELUM_AND_ECONOMY.md",
+          "sha256": "e37e21e3b4301a3d5b9658bbce2dfbe6eca60a648089aaadfdc920024cb95587",
+          "bytes": 4024
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/DELTA/04_KAIRA_BLUE_ARC.md",
+          "sha256": "3833f18059cfc5577f6aa2ae23d0e49c1ef59cf05db5c1b466d85406ab253458",
+          "bytes": 2323
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/DELTA/05_PROVENANCE_SUPERSESSION_AND_OPENS.md",
+          "sha256": "bbabc51063454e1eda72969031219b5ba785b1a7b4c8f5c8fb9ec1dbccd75d0a",
+          "bytes": 3316
+        },
+        {
+          "path": "MK163_LIVE_MODEL_013/MANIFEST.json",
+          "sha256": "6bb35fb0ce201412524461180f31d7fb3467916f621066fae16eff2c827850fc",
+          "bytes": 764
+        }
+      ]
+    },
+    "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8": {
+      "name": "MK163_LIVE_MODEL_013/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_012_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 5001936,
+      "members": [
+        {
+          "path": "MK163_LIVE_MODEL_012/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_011_CUMULATIVE_CHECKPOINT.zip",
+          "sha256": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+          "bytes": 4870592
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/REFERENCES/USER_CARDSMITH_SIGIL_SKETCH.jpeg",
+          "sha256": "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f",
+          "bytes": 145723
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/README.md",
+          "sha256": "95cda8747ea695f9d30bcbe67358cd1b9ba09f87659aa1202d12bf0231204c36",
+          "bytes": 1605
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/DELTA/01_AUTHOR_DECISIONS_AND_MECHANICS.md",
+          "sha256": "61ea8a60e112db13eabe6dc50b60b93cfae0819c1c6fa59f25a30671d16fafa5",
+          "bytes": 7381
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/DELTA/02_PROCESS_AND_EXAMPLES.md",
+          "sha256": "4f44daf0302c1dba0080e1e12a49fb22c1424fa80f4e21809fbc8268a3c63ff6",
+          "bytes": 3764
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/DELTA/03_PROVENANCE_AND_OPEN_ITEMS.md",
+          "sha256": "4cbfac567f0d57b38b0bb68babcb7e53d536a43819f17302390aadb2e4315809",
+          "bytes": 3242
+        },
+        {
+          "path": "MK163_LIVE_MODEL_012/MANIFEST.json",
+          "sha256": "a7232c8db4fcb81e7fe61d4ab468d45763def46170d399557797557b7e4a95d9",
+          "bytes": 721
+        }
+      ]
+    },
+    "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523": {
+      "name": "MK163_LIVE_MODEL_012/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_011_CUMULATIVE_CHECKPOINT.zip",
+      "bytes": 4870592,
+      "members": [
+        {
+          "path": "MK163_LIVE_MODEL_011/README.md",
+          "sha256": "92a083e3e4d27692340c7a06b112836f61272f3e4307f4d16ed63093fbde4869",
+          "bytes": 1900
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/DELTA/01_DECISIONS_EXHAUSTIVE.md",
+          "sha256": "60b09e80125ce50c51f1738a5d81df2f6adca9740b786ef0fd7ad91f585941f5",
+          "bytes": 8795
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/DELTA/02_REALM_ARCHITECTURE_AND_SUPERSESSION.md",
+          "sha256": "84a24bf6d016a5b2aff05acabb5763e9626bbc2d6f069d11031b3b02d549c934",
+          "bytes": 4126
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/DELTA/03_AUTHOR_STATEMENTS_AND_STATUS.md",
+          "sha256": "c8942be41c37ebb3dd9b52e12613925c4637d48bb4c0ddc5c604c03035b3318a",
+          "bytes": 3088
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/DELTA/04_SOURCE_AND_MEDIA.md",
+          "sha256": "38fd7684e9b0109dbaeae3e5de33e1d581052dc65d3e2c17ad13c5e1d29c8c87",
+          "bytes": 1058
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg",
+          "sha256": "3b97ee32e3fb39068923ca92c7ad52374487377a34c60f975049e430d4ed643a",
+          "bytes": 527825
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT.zip",
+          "sha256": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+          "bytes": 4371362
+        },
+        {
+          "path": "MK163_LIVE_MODEL_011/MANIFEST.json",
+          "sha256": "e7b0f89f7c62f70d9ff42b96fae34856cf458f7ab65cd886c3166238f3a135dc",
+          "bytes": 1633
+        }
+      ]
+    },
+    "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf": {
+      "name": "MK163_LIVE_MODEL_011/BASELINE_UNMODIFIED/MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT.zip",
+      "bytes": 4371362,
+      "members": [
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CANON/DECISION_LEDGER.md",
+          "sha256": "87326133391cb72a7f30fe28df13a63bbf1f643d5a32dff7ecef308731025ead",
+          "bytes": 10505
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CANON/REALM_MECHANICS.md",
+          "sha256": "a778876b6f4a43115428bec4cbc4726fbf40abaa166504a385093e2607f71daa",
+          "bytes": 6796
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CHARACTERS/ALCHEMIST_AND_PRINCESS.md",
+          "sha256": "937ed3c13c3f377862648a0fcac02c25d969647463e9b345177251a88a0c83d5",
+          "bytes": 4271
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CHARACTERS/KAIRA_AND_PARTY.md",
+          "sha256": "19dfa3ebc6161d6c017c3da0c2c2c3c22b6caeedac9d8aa0a01dfec21e1e4858",
+          "bytes": 4507
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/MANIFEST.json",
+          "sha256": "49dce0c28f793eca17cf511a8dc8936b5fd5de6039ecc04f78be42c170ca4d56",
+          "bytes": 2065
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/NARRATIVE/BLUE_VIOLET_HANDOFF.md",
+          "sha256": "be0f3cae1e54e9cf3b0f34f02089fc48f58df7605fa1cca2516c488fd76d6b9e",
+          "bytes": 3220
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/NARRATIVE/BOOK_RED_ARCS.md",
+          "sha256": "95cd6e457d4dec7895e134f35390876cb41e73620d77900dde9b3a98031d5900",
+          "bytes": 5904
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/PROVENANCE/SOURCE_REGISTER.md",
+          "sha256": "ee31a3283096fb4b3e1a69dc59ca810c460bce10410af17ae23f18bf164bd26c",
+          "bytes": 4170
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/PROVENANCE/SUPERSESSIONS_AND_UNCERTAINTIES.md",
+          "sha256": "bb05b9e77796de5b0dd46e72e13467cb15d57aeea48efde37afba9a3e783aeaa",
+          "bytes": 3967
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/README.md",
+          "sha256": "e1b7e2fe80497dea055d9ead23ceb28ff175bcbd4401a49091316dabd752953b",
+          "bytes": 3464
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/REFERENCES/USER_SUPPLIED_REFERENCE_01.jpeg",
+          "sha256": "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159",
+          "bytes": 262354
+        },
+        {
+          "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/REFERENCES/USER_SUPPLIED_REFERENCE_02.png",
+          "sha256": "2001a3ca7903b75b732d8b4ee9415b8fa1d98fb09d0da62ca7d8418ecf3ff19d",
+          "bytes": 4101762
+        }
+      ]
+    },
+    "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7": {
+      "name": "MK163_BLUE_ARC_NARRATIVE_LOCKED.zip",
+      "bytes": 10839,
+      "members": [
+        {
+          "path": "MK163_BLUE_ARC/README.md",
+          "sha256": "efb2946f44d9dcf17491ab0bcfd5e7d2e3eff3f1348f98e55efb24ea76962daa",
+          "bytes": 636
+        },
+        {
+          "path": "MK163_BLUE_ARC/01_ARC_SCOPE_AND_CONTINUITY.md",
+          "sha256": "6d70932dbd1c74ca750ab63bd60f07252357dae8d27e7a70f21db857b3f55621",
+          "bytes": 1723
+        },
+        {
+          "path": "MK163_BLUE_ARC/02_BLACKSTONE_GRADUATION_AND_CARDSMITHING.md",
+          "sha256": "929241c1cb1b720268a0a61e91d9c622bbb5be5b50823d6277bc19ac7abb6686",
+          "bytes": 972
+        },
+        {
+          "path": "MK163_BLUE_ARC/03_RELOCATION_AND_CITY_LIFE.md",
+          "sha256": "9d408bbf1eae37ad417c741cb5f448e15ae0be4fe0091dcae8272bec6d239de9",
+          "bytes": 1679
+        },
+        {
+          "path": "MK163_BLUE_ARC/04_PROFESSIONAL_DILEMMA_AND_CATALYST.md",
+          "sha256": "9ae1646949acdd3ea995125d55425462af5203c67110aa27ec0ad93ac70c9bd9",
+          "bytes": 1620
+        },
+        {
+          "path": "MK163_BLUE_ARC/05_STAGING_DISTRICT_AND_ACCORD_REGISTRY.md",
+          "sha256": "b81fa010d72bed88e6f7cea2db790047e73a7210d19d122c71733118e92527ac",
+          "bytes": 1732
+        },
+        {
+          "path": "MK163_BLUE_ARC/06_PREPARATION_CARDS_AND_EXAMINATION_NARRATIVE.md",
+          "sha256": "d0577de047cbaf9464f171773ad3bb26d7a32f299bd79b6e1ee181aaa619ea37",
+          "bytes": 2919
+        },
+        {
+          "path": "MK163_BLUE_ARC/07_FIRST_RESEARCH_CONTRACT.md",
+          "sha256": "9231909f11d5b45197c8dad1dd1ca9022286396d2a816a57e24123bcf2c6c351",
+          "bytes": 1346
+        },
+        {
+          "path": "MK163_BLUE_ARC/08_BLUE_ARC_CONTRACTS_AND_CARD_REFINEMENT.md",
+          "sha256": "bd296070c3acc8f4e7bfd9774c2a2a8a4bd2998e23a26efff704a341a8f87dc1",
+          "bytes": 1822
+        },
+        {
+          "path": "MK163_BLUE_ARC/09_PROVENANCE_AND_OPEN_ITEMS.md",
+          "sha256": "db7ccbf4a457f5032ee530f9423616182530a810a90b99fabb130b19befb6d75",
+          "bytes": 1666
+        },
+        {
+          "path": "MK163_BLUE_ARC/MANIFEST.json",
+          "sha256": "05d5bf21a2f3f90c04de5a083e1955aa9f42695ee3099e6a20aed4b929d9defc",
+          "bytes": 647
+        }
+      ]
+    },
+    "dc59ca506fe972fd5d86d24043eed321675f4f57f23a71c9dcba80e0b83159a9": {
+      "name": "MK163_Kaira_Support_Certification_Green_54_of_91_Cumulative.zip",
+      "bytes": 5054301,
+      "members": [
+        {
+          "path": "INHERITED_UNMODIFIED/MK163_Support_Specialist_Group_Damage_Average_Cumulative.zip",
+          "sha256": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775",
+          "bytes": 5051695
+        },
+        {
+          "path": "CURRENT_CANON/KAIRA_SUPPORT_CERTIFICATION_LOCKED.md",
+          "sha256": "d54b6fc59a14332b775d24f2822f7a1a0ccd3f672c73e10a1a2dce329638297b",
+          "bytes": 3724
+        },
+        {
+          "path": "MANIFEST.json",
+          "sha256": "84e14c3c074520d0c27d7367420284b0cc9c039c1647e8b5e98d5a5d742c4330",
+          "bytes": 521
+        }
+      ]
+    },
+    "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775": {
+      "name": "INHERITED_UNMODIFIED/MK163_Support_Specialist_Group_Damage_Average_Cumulative.zip",
+      "bytes": 5051695,
+      "members": [
+        {
+          "path": "INHERITED_UNMODIFIED/MK163_Support_Specialist_13_Trial_Cumulative_Locked.zip",
+          "sha256": "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3",
+          "bytes": 5045762
+        },
+        {
+          "path": "SUPPORT_SPECIALIST/CURRENT_13_TRIAL_CERTIFICATION.md",
+          "sha256": "5796ff880da3d13fac0c1b269e29f3463917cd2700a8bbcf8abb791585425728",
+          "bytes": 9606
+        },
+        {
+          "path": "SUPPORT_SPECIALIST/SCORING_AMENDMENT.md",
+          "sha256": "c067f4b9257cd6cd92d75a0e8439ad52ea37a3631f39499fdc6b74df9bff1fc9",
+          "bytes": 2152
+        },
+        {
+          "path": "SUPPORT_SPECIALIST/MANIFEST.json",
+          "sha256": "66e197c329dd9ddfb3f6a889a54fd9f987ff328aea17892c7132d21b854629aa",
+          "bytes": 420
+        }
+      ]
+    },
+    "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3": {
+      "name": "INHERITED_UNMODIFIED/MK163_Support_Specialist_13_Trial_Cumulative_Locked.zip",
+      "bytes": 5045762,
+      "members": [
+        {
+          "path": "INHERITED_UNMODIFIED/Guardian_Containment_Allied_Protection_Locked.zip",
+          "sha256": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+          "bytes": 5041123
+        },
+        {
+          "path": "SUPPORT_SPECIALIST/13_TRIAL_CERTIFICATION.md",
+          "sha256": "bad9ac72de9e330fdcf4cc586efdbb9828330a442583b7c5f0799bfa28d5de0f",
+          "bytes": 9319
+        },
+        {
+          "path": "SUPPORT_SPECIALIST/MANIFEST.json",
+          "sha256": "9cb4309d9e1176f7dd50d2aca58ad06d0842ec3b4cce55c3b667ebab79fa6313",
+          "bytes": 414
+        }
+      ]
+    },
+    "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4": {
+      "name": "MK163_LIVE_MODEL_009B_TERMINOLOGY_CORRECTED_CODEX(1).zip",
+      "bytes": 28083,
+      "members": [
+        {
+          "path": "COVERAGE_MATRIX.md",
+          "sha256": "dc4948cf0e6ba6498d952dbab5d70e016940c1de582370bdd35ca79cdd8e738c",
+          "bytes": 2945
+        },
+        {
+          "path": "DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md",
+          "sha256": "9b10efab7df247ab2e2440b0a44f083cc8c335e3b74bfb1883e66899b5bb5b81",
+          "bytes": 3626
+        },
+        {
+          "path": "Executable.md",
+          "sha256": "81c7317c7a546e8b1c15ef6c00db2d791151089eb11045c5ad7451a987b83351",
+          "bytes": 6532
+        },
+        {
+          "path": "OPEN_QUESTIONS.md",
+          "sha256": "aa260b2c76b5773d0463da6d217800f56c98229eb65f05e8be694df8f231be8a",
+          "bytes": 1645
+        },
+        {
+          "path": "PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+          "sha256": "fbf8645b04e6ae7064a11694870e9bdeff0dc02ebb97caa0ad86bd41b6871fb2",
+          "bytes": 5077
+        },
+        {
+          "path": "PROVENANCE/CONFLICTS_AND_STATUS.md",
+          "sha256": "92940104e73aa89776ea66727345299d3b1fbeb48e49dd3b84e1300ba7406663",
+          "bytes": 1967
+        },
+        {
+          "path": "PROVENANCE/TERMINOLOGY_CORRECTION_009B.md",
+          "sha256": "55ae4d9356a293773d4ca7761d5fd2e756fb0f897329b72e9f63484e69573dc7",
+          "bytes": 1027
+        },
+        {
+          "path": "README.md",
+          "sha256": "bbb0c3b3977a0d7b19af3aaeaf5c967c8f6ad619b010d8a90f064904e01eb9cf",
+          "bytes": 1081
+        },
+        {
+          "path": "SOURCE_REGISTER.md",
+          "sha256": "0e91d16ebaaeb476bff43d0f0d3a2579ee05bfdff782f65faf57adb667aa2c6c",
+          "bytes": 3474
+        },
+        {
+          "path": "WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md",
+          "sha256": "1df02ba1bf9daae519a06d7afcf07b4018da15029a7a6d63a5e6666a07fb2f3f",
+          "bytes": 5442
+        },
+        {
+          "path": "WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md",
+          "sha256": "a1146c2a2e6786ce188bd20fdccd84c7578e4bd04199663fd1e543dd16dd2918",
+          "bytes": 4232
+        },
+        {
+          "path": "WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md",
+          "sha256": "b8070bd56da0e0fd3cf7d8d99c219de09ff414def1b2e4b6aee278d7ed0136b5",
+          "bytes": 4480
+        },
+        {
+          "path": "WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md",
+          "sha256": "7816902c01df39f05538183257648a7f793067115ab1dad304c861326bce77ad",
+          "bytes": 5682
+        },
+        {
+          "path": "WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md",
+          "sha256": "3ed0e35fd928fe9fecda5f1fb8ad4b0bc176124f2596473a505d8441f0eaa0dc",
+          "bytes": 2789
+        },
+        {
+          "path": "MANIFEST.json",
+          "sha256": "57c773dfb35d9404f6319f409ae43227911a9a4ea099c0c4a0696d2e3c77ae43",
+          "bytes": 2605
+        }
+      ]
+    }
+  },
+  "leaves": {
+    "cbf41ca04aaf6bde65e95a1321db734897b9d13ae63d411c2f2375743c908313": {
+      "path": "Healthcare_Test/HEALTHCARE_TEST.md",
+      "archive": "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224",
+      "bytes": 5947,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Healthcare_Test/HEALTHCARE_TEST.md",
+      "sections": [
+        "# Healthcare Test — Accord Registry Helkir Certification",
+        "## Examination apparatus",
+        "## The thirteen tests",
+        "## Sustainment rules — stations 01–04",
+        "## Restoration rules — stations 05–13",
+        "## Consecutive examination, fatigue, and certification",
+        "## Scope, provenance, and open matters"
+      ]
+    },
+    "2bb774b50b7ef79436ace1840154909e70cc631a555eb4e0dc2d9ad9f40bb052": {
+      "path": "Healthcare_Test/MANIFEST.json",
+      "archive": "4082a3bb4bf187dd8a4ad9db10c4a985e1b2878fd9b170454c330306e5d6f224",
+      "bytes": 462,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Healthcare_Test/MANIFEST.json"
+    },
+    "92a083e3e4d27692340c7a06b112836f61272f3e4307f4d16ed63093fbde4869": {
+      "path": "MK163_LIVE_MODEL_011/README.md",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 1900,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/README.md",
+      "sections": [
+        "# MK163 LIVE_MODEL_011 — Cumulative checkpoint",
+        "## Open next work"
+      ]
+    },
+    "60b09e80125ce50c51f1738a5d81df2f6adca9740b786ef0fd7ad91f585941f5": {
+      "path": "MK163_LIVE_MODEL_011/DELTA/01_DECISIONS_EXHAUSTIVE.md",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 8795,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/DELTA/01_DECISIONS_EXHAUSTIVE.md",
+      "sections": [
+        "# Post-010 author decisions — detailed, append-only",
+        "## Blue Arc entry identity: Cardsmith, not conventional mage",
+        "## Resolution-level healing: new functional distinction",
+        "## Party and young companions",
+        "## ELDRIS, combat and resource consequence",
+        "## Geography and movement",
+        "## Tournament continuity"
+      ]
+    },
+    "84a24bf6d016a5b2aff05acabb5763e9626bbc2d6f069d11031b3b02d549c934": {
+      "path": "MK163_LIVE_MODEL_011/DELTA/02_REALM_ARCHITECTURE_AND_SUPERSESSION.md",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 4126,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/DELTA/02_REALM_ARCHITECTURE_AND_SUPERSESSION.md",
+      "sections": [
+        "# Genesis architecture — newest author-selected realm mapping",
+        "## Upstream chain retained",
+        "## Six realm-to-specialization assignments (LATEST, AUTHOR-LOCKED)",
+        "## Explicit supersession sequence — KEEP ALL HISTORY",
+        "## Structural interpretation",
+        "## Repository change required, not performed"
+      ]
+    },
+    "c8942be41c37ebb3dd9b52e12613925c4637d48bb4c0ddc5c604c03035b3318a": {
+      "path": "MK163_LIVE_MODEL_011/DELTA/03_AUTHOR_STATEMENTS_AND_STATUS.md",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 3088,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/DELTA/03_AUTHOR_STATEMENTS_AND_STATUS.md",
+      "sections": [
+        "# Post-checkpoint author decision trail — chronological, close paraphrase (NOT verbatim export)",
+        "## Prior checkpoint scope carried through nesting",
+        "## Critical negative constraints"
+      ]
+    },
+    "38fd7684e9b0109dbaeae3e5de33e1d581052dc65d3e2c17ad13c5e1d29c8c87": {
+      "path": "MK163_LIVE_MODEL_011/DELTA/04_SOURCE_AND_MEDIA.md",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 1058,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/DELTA/04_SOURCE_AND_MEDIA.md",
+      "sections": [
+        "# Sources and visual provenance"
+      ]
+    },
+    "3b97ee32e3fb39068923ca92c7ad52374487377a34c60f975049e430d4ed643a": {
+      "path": "MK163_LIVE_MODEL_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 527825,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg"
+    },
+    "87326133391cb72a7f30fe28df13a63bbf1f643d5a32dff7ecef308731025ead": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CANON/DECISION_LEDGER.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 10505,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/CANON/DECISION_LEDGER.md",
+      "sections": [
+        "# Decision Ledger — This Conversation",
+        "## Character and social world",
+        "## Realm mechanics and party",
+        "## Book structure and chronology"
+      ]
+    },
+    "a778876b6f4a43115428bec4cbc4726fbf40abaa166504a385093e2607f71daa": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CANON/REALM_MECHANICS.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 6796,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/CANON/REALM_MECHANICS.md",
+      "sections": [
+        "# Realm Mechanics — Precise Workshop Model",
+        "## A. Framework-level distinctions",
+        "### Selected Dragon-native Red Realm domains",
+        "### Upstream order used by author",
+        "## B. Expressive symmetry, not identical mechanisms",
+        "## C. Black Sprite initial capabilities",
+        "## D. Nyx",
+        "## E. Existing AERA Sprite biology verified",
+        "## F. Explicit constraints"
+      ]
+    },
+    "937ed3c13c3f377862648a0fcac02c25d969647463e9b345177251a88a0c83d5": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CHARACTERS/ALCHEMIST_AND_PRINCESS.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 4271,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/CHARACTERS/ALCHEMIST_AND_PRINCESS.md",
+      "sections": [
+        "# The Alchemist, the People's Princess, and Kaira's Friendships",
+        "## The Alchemist",
+        "## The People's Princess",
+        "## Relationship trajectory"
+      ]
+    },
+    "19dfa3ebc6161d6c017c3da0c2c2c3c22b6caeedac9d8aa0a01dfec21e1e4858": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/CHARACTERS/KAIRA_AND_PARTY.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 4507,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/CHARACTERS/KAIRA_AND_PARTY.md",
+      "sections": [
+        "# Kaira, Black Sprite, Nyx — Book Red Original Trio",
+        "## Kaira",
+        "## Black Sprite (they/them)",
+        "## Nyx (male in conversation)",
+        "## Initial party interaction",
+        "## Original Black bond sequence (BOOK order, not arc order)"
+      ]
+    },
+    "49dce0c28f793eca17cf511a8dc8936b5fd5de6039ecc04f78be42c170ca4d56": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/MANIFEST.json",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 2065,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/MANIFEST.json"
+    },
+    "be0f3cae1e54e9cf3b0f34f02089fc48f58df7605fa1cca2516c488fd76d6b9e": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/NARRATIVE/BLUE_VIOLET_HANDOFF.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 3220,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/NARRATIVE/BLUE_VIOLET_HANDOFF.md",
+      "sections": [
+        "# Blue / Violet Arc Handoff — Deliberately Open",
+        "## What the author wants to do next",
+        "### Dungeon community",
+        "### Kaira's present assets",
+        "### Decisions not yet made",
+        "### Design principle"
+      ]
+    },
+    "95cd6e457d4dec7895e134f35390876cb41e73620d77900dde9b3a98031d5900": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/NARRATIVE/BOOK_RED_ARCS.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 5904,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/NARRATIVE/BOOK_RED_ARCS.md",
+      "sections": [
+        "# Book Red — Seven-Arc Architecture",
+        "## Red Arc 1",
+        "## Orange Arc 2",
+        "## Yellow Arc 3",
+        "## Green Arc 4",
+        "## Blue Arc 5 — DO NOT PREMATURELY OUTLINE",
+        "## Violet Arc 6 — DO NOT PREMATURELY OUTLINE",
+        "## White Arc 7",
+        "## Other non-overrides"
+      ]
+    },
+    "ee31a3283096fb4b3e1a69dc59ca810c460bce10410af17ae23f18bf164bd26c": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/PROVENANCE/SOURCE_REGISTER.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 4170,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/PROVENANCE/SOURCE_REGISTER.md",
+      "sections": [
+        "# Source Register and Verification",
+        "## Verified live in this conversation via GitHub connector",
+        "## Existing file references in earlier conversation (not freshly fetched for this export)",
+        "## Repository traversal performed",
+        "## User-provided visual assets",
+        "## Scope / provenance honesty"
+      ]
+    },
+    "bb05b9e77796de5b0dd46e72e13467cb15d57aeea48efde37afba9a3e783aeaa": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/PROVENANCE/SUPERSESSIONS_AND_UNCERTAINTIES.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 3967,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/PROVENANCE/SUPERSESSIONS_AND_UNCERTAINTIES.md",
+      "sections": [
+        "# Supersessions, Pending Edits, and Open Boundaries",
+        "## Explicitly superseded or corrected",
+        "## Mathematical and lore unknowns — do not invent",
+        "## Repository integration plan — NOT EXECUTED"
+      ]
+    },
+    "e1b7e2fe80497dea055d9ead23ceb28ff175bcbd4401a49091316dabd752953b": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/README.md",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 3464,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/README.md",
+      "sections": [
+        "# MK163 — LIVE_MODEL_010 — Major Workshop Checkpoint",
+        "## Read this first",
+        "### Navigation",
+        "### Mandatory terminology",
+        "### Core invariants"
+      ]
+    },
+    "5c3b81dbe4556d85febe223aeb4dd8150c568f0a9f8d52f4a64fa9ee777e0159": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/REFERENCES/USER_SUPPLIED_REFERENCE_01.jpeg",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 262354,
+      "installed": "PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854(1).jpeg"
+    },
+    "2001a3ca7903b75b732d8b4ee9415b8fa1d98fb09d0da62ca7d8418ecf3ff19d": {
+      "path": "MK163_LIVE_MODEL_010_MAJOR_CHECKPOINT/REFERENCES/USER_SUPPLIED_REFERENCE_02.png",
+      "archive": "a579632529d2f77d3dfba6bef9a2c43668627ee89f5aeafb917c0c04c29bdcbf",
+      "bytes": 4101762,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_010/REFERENCES/USER_SUPPLIED_REFERENCE_02.png"
+    },
+    "e7b0f89f7c62f70d9ff42b96fae34856cf458f7ab65cd886c3166238f3a135dc": {
+      "path": "MK163_LIVE_MODEL_011/MANIFEST.json",
+      "archive": "e301b0a59c5a3838a9c98b97dc5d9edc280f03a392438e3b6e084edf6610e523",
+      "bytes": 1633,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/MANIFEST.json"
+    },
+    "328b52833bec5a10c157576c792fd577c0543ace45c8b7fc2a206d764015524f": {
+      "path": "MK163_LIVE_MODEL_012/REFERENCES/USER_CARDSMITH_SIGIL_SKETCH.jpeg",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 145723,
+      "installed": "PROVENANCE/SOURCE_DOCUMENTS/IMAGES/IMG_5485.jpg"
+    },
+    "95cda8747ea695f9d30bcbe67358cd1b9ba09f87659aa1202d12bf0231204c36": {
+      "path": "MK163_LIVE_MODEL_012/README.md",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 1605,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_012/README.md",
+      "sections": [
+        "# MK163 — LIVE_MODEL_012 cumulative checkpoint",
+        "## Inheritance and recovery"
+      ]
+    },
+    "61ea8a60e112db13eabe6dc50b60b93cfae0819c1c6fa59f25a30671d16fafa5": {
+      "path": "MK163_LIVE_MODEL_012/DELTA/01_AUTHOR_DECISIONS_AND_MECHANICS.md",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 7381,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_012/DELTA/01_AUTHOR_DECISIONS_AND_MECHANICS.md",
+      "sections": [
+        "# LIVE_MODEL_012 — Complete new author decisions: Cardsmithing and architecture",
+        "## 1. Professional classification (explicitly author locked)",
+        "## 2. Biological access versus competency",
+        "## 3. Workbench design — author-supplied drawing",
+        "## 4. Direct native method — Master Cardsmith",
+        "## 5. Architects throughout the story",
+        "## 6. Kaira's narrative trajectory"
+      ]
+    },
+    "4f44daf0302c1dba0080e1e12a49fb22c1424fa80f4e21809fbc8268a3c63ff6": {
+      "path": "MK163_LIVE_MODEL_012/DELTA/02_PROCESS_AND_EXAMPLES.md",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 3764,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_012/DELTA/02_PROCESS_AND_EXAMPLES.md",
+      "sections": [
+        "# Manufacturing walkthrough, distinctions and examples",
+        "## A. Assisted Cardsmithing procedure",
+        "## B. Direct native Cardsmithing procedure",
+        "## C. Why two routes coexist",
+        "## D. Distinguish three systems",
+        "## E. Image provenance"
+      ]
+    },
+    "4cbfac567f0d57b38b0bb68babcb7e53d536a43819f17302390aadb2e4315809": {
+      "path": "MK163_LIVE_MODEL_012/DELTA/03_PROVENANCE_AND_OPEN_ITEMS.md",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 3242,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_012/DELTA/03_PROVENANCE_AND_OPEN_ITEMS.md",
+      "sections": [
+        "# Provenance, supersession, and open work",
+        "## Source authority consulted in the workshop",
+        "## Author-selected versus proposed",
+        "## Explicit corrections / no contamination",
+        "## Audit methodology"
+      ]
+    },
+    "a7232c8db4fcb81e7fe61d4ab468d45763def46170d399557797557b7e4a95d9": {
+      "path": "MK163_LIVE_MODEL_012/MANIFEST.json",
+      "archive": "bf7f469973219fb101ff0e09e14b69e5fd2b813a31ab70f186561bfc5527d0b8",
+      "bytes": 721,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_012/MANIFEST.json"
+    },
+    "ceb26c440f96fcd3517fcc46c43f37cf73922939f8f85994b8bc61b40d2031af": {
+      "path": "MK163_LIVE_MODEL_013/README.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 1246,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/README.md",
+      "sections": [
+        "# MK163 LIVE_MODEL_013 — Accord Registry permanent canon checkpoint"
+      ]
+    },
+    "969d6cf309ee80205a22ffded14901e1aa289f174758cf91ba5653a50b3444dc": {
+      "path": "MK163_LIVE_MODEL_013/DELTA/01_ACCORD_REGISTRY_CANON.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 4666,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/DELTA/01_ACCORD_REGISTRY_CANON.md",
+      "sections": [
+        "# Accord Registry — Permanent MK163 institutional canon (author locked)",
+        "## Identity and ownership",
+        "## Kingdom intelligence / statistical role — newly explicit and permanently locked",
+        "## Core Registry functions",
+        "## Community value",
+        "## Canon scope"
+      ]
+    },
+    "f46e23346841ba14ae163874e944939020733ab722824055ded86de5e712b207": {
+      "path": "MK163_LIVE_MODEL_013/DELTA/02_RATINGS_ROLES_AND_TESTS.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 4131,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/DELTA/02_RATINGS_ROLES_AND_TESTS.md",
+      "sections": [
+        "# Crown-recognized examination framework — established and open details",
+        "## Four role categories (author selected)",
+        "## Assessment structure",
+        "## Companions in assessment — Kaira",
+        "## Next explicit research task"
+      ]
+    },
+    "e37e21e3b4301a3d5b9658bbce2dfbe6eca60a648089aaadfdc920024cb95587": {
+      "path": "MK163_LIVE_MODEL_013/DELTA/03_CONTRACTS_VAELUM_AND_ECONOMY.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 4024,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/DELTA/03_CONTRACTS_VAELUM_AND_ECONOMY.md",
+      "sections": [
+        "# Contract brokerage, labor supply, and the vaelum marketplace",
+        "## Terminology",
+        "## Contract examples author provided",
+        "### Apothecary resource request",
+        "### Research expedition",
+        "## Labor economics",
+        "## Historical foundation"
+      ]
+    },
+    "3833f18059cfc5577f6aa2ae23d0e49c1ef59cf05db5c1b466d85406ab253458": {
+      "path": "MK163_LIVE_MODEL_013/DELTA/04_KAIRA_BLUE_ARC.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 2323,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/DELTA/04_KAIRA_BLUE_ARC.md",
+      "sections": [
+        "# Kaira — Green Arc graduation and Blue Arc entry (author decisions and proposals)",
+        "## Locked motivation and circumstances",
+        "## Workshop suggestions not yet author-locked"
+      ]
+    },
+    "bbabc51063454e1eda72969031219b5ba785b1a7b4c8f5c8fb9ec1dbccd75d0a": {
+      "path": "MK163_LIVE_MODEL_013/DELTA/05_PROVENANCE_SUPERSESSION_AND_OPENS.md",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 3316,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/DELTA/05_PROVENANCE_SUPERSESSION_AND_OPENS.md",
+      "sections": [
+        "# Source audit, corrections, and pending repository integration",
+        "## Verified existing source documents",
+        "## New MK163 authority and supersession",
+        "## Open work — do not fabricate"
+      ]
+    },
+    "6bb35fb0ce201412524461180f31d7fb3467916f621066fae16eff2c827850fc": {
+      "path": "MK163_LIVE_MODEL_013/MANIFEST.json",
+      "archive": "bfcd448b46e6bd1347ce5ba9856bb83f9ec5c88c6d27d86f002ea998b0fd21e9",
+      "bytes": 764,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_013/MANIFEST.json"
+    },
+    "d6c67d49ca1271fb4709b35bd1ad2fe6c8a8f3cc5288b2f56ad6a33c18808c0b": {
+      "path": "Offensive_Specialist_Test/README.md",
+      "archive": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+      "bytes": 785,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test/README.md",
+      "sections": [
+        "# MK163 — Offensive Specialist Test (author-locked workshop checkpoint)"
+      ]
+    },
+    "f0dbd58b5fc255eebe35ffd830bf406776b0f6ec43af7175b13d4f6c27b664ad": {
+      "path": "Offensive_Specialist_Test/OFFENSIVE_SPECIALIST_TEST.md",
+      "archive": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+      "bytes": 5075,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test/OFFENSIVE_SPECIALIST_TEST.md",
+      "sections": [
+        "# Accord Registry — Offensive Specialist Examination",
+        "## Examination chamber",
+        "## Thirteen tests — exactly three categories",
+        "### Category I — Six individual ELDRIS configurations (Tests 1–6)",
+        "### Category II — Four ELDRIS group configurations (Tests 7–10)",
+        "### Category III — Three dynamic mixed allied/ELDRIS configurations (Tests 11–13)",
+        "## Examination operation and scoring inherited from Accord Registry",
+        "## Purpose"
+      ]
+    },
+    "e03df77cba95a6ea4889102c5aab03d2022d9c44a3774f9a109acf285567cbe4": {
+      "path": "Offensive_Specialist_Test/PROVENANCE_AND_OPEN.md",
+      "archive": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+      "bytes": 2231,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test/PROVENANCE_AND_OPEN.md",
+      "sections": [
+        "# Provenance, supersession and open details",
+        "## Direct author decisions locked in this workshop",
+        "## Previous assistant proposals not promoted to fixed law",
+        "## Underlying source distinctions",
+        "## Next author-selected work"
+      ]
+    },
+    "a54d5456728de852daa470f6bf818987c701300e0e200a6a8a92c875ff7524a4": {
+      "path": "Offensive_Specialist_Test/MANIFEST.json",
+      "archive": "287ce067da1067d133d0f43d4af948b90737353921c304ddd0a2b441d7a1d3d4",
+      "bytes": 433,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test/MANIFEST.json"
+    },
+    "7b276a8e458f210bd401b16c902d8f8d69e07b58ac1906a66515cfdc9d52fcbc": {
+      "path": "Guardian_Test/README.md",
+      "archive": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+      "bytes": 688,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test/README.md",
+      "sections": [
+        "# MK163 — Guardian Test checkpoint"
+      ]
+    },
+    "aa52168582ed3498d9b3a521ced095354c5997b07b74f75d22ffd3346fddcb4a": {
+      "path": "Guardian_Test/GUARDIAN_TEST.md",
+      "archive": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+      "bytes": 6084,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test/GUARDIAN_TEST.md",
+      "sections": [
+        "# Accord Registry — Guardian Certification Examination",
+        "## Universal shared chamber (newly locked)",
+        "## Projected ELDRIS ontology and physical consequences",
+        "## Purpose of Guardian role",
+        "## Thirteen consecutive Guardian tests",
+        "### Category I — Six individual ELDRIS sustainment trials",
+        "### Category II — Four escalating ELDRIS group trials",
+        "### Category III — Three allied-protection trials",
+        "## Activation, timing, fatigue and rating",
+        "## Shared institutional context"
+      ]
+    },
+    "751aaa77c8df137507f117f0195796e389c7f3cc37884ff10f32bc5080b2fc3a": {
+      "path": "Guardian_Test/PROVENANCE_AND_OPEN.md",
+      "archive": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+      "bytes": 2142,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test/PROVENANCE_AND_OPEN.md",
+      "sections": [
+        "# Decision status and preservation audit",
+        "## Explicitly author locked in the latest workshop",
+        "## Already locked from inherited checkpoints",
+        "## Open — do not invent",
+        "## Recovery"
+      ]
+    },
+    "5db0b697308e001332c17b9be07abec9dd108036bd945b8a5faeb4ad24215300": {
+      "path": "Guardian_Test/MANIFEST.json",
+      "archive": "af003814ad552ddbce9c96c6849ee2a2f2243993a73ffe71f8cae8de0ae7e577",
+      "bytes": 403,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test/MANIFEST.json"
+    },
+    "b301c4257b4b79157371f45d6a31168f5a708b5bcbf7dd8aa647169a86b0238b": {
+      "path": "Guardian_Test_Locked/README.md",
+      "archive": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+      "bytes": 592,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test_Locked/README.md",
+      "sections": [
+        "# Guardian Test — locked checkpoint with medical protocol"
+      ]
+    },
+    "4144aeccb4ace2d8b154cf6f5faeb2c375ac063bf0eaaaf2aa1bed492fe8139e": {
+      "path": "Guardian_Test_Locked/GUARDIAN_MEDICAL_PROTOCOL.md",
+      "archive": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+      "bytes": 3444,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test_Locked/GUARDIAN_MEDICAL_PROTOCOL.md",
+      "sections": [
+        "# Accord Registry — Guardian examination medical protocol",
+        "## Core intent",
+        "## Room and trials inherited unchanged",
+        "## Medical staffing and boundaries — new lock",
+        "## Important source boundaries"
+      ]
+    },
+    "0a01389bd34eacb38046fb2ecb8a8227a23feb711fee7d698beac4bc5770f1c6": {
+      "path": "Guardian_Test_Locked/PROVENANCE_AND_OPEN.md",
+      "archive": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+      "bytes": 1045,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test_Locked/PROVENANCE_AND_OPEN.md",
+      "sections": [
+        "# Provenance and unresolved specifications"
+      ]
+    },
+    "4544864f5ec186218f4d18d3c1ddd40f8e6321f88ac6e8a7e0ab5bb3db6e5195": {
+      "path": "Guardian_Test_Locked/MANIFEST.json",
+      "archive": "4a0c3b210c642861d961417580e85ec6d56de98ac4ea20de93361e3bb13623eb",
+      "bytes": 334,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Test_Locked/MANIFEST.json"
+    },
+    "a75a47dc5bcdd66ea5fe1f11006d7cea888efe00e12a172e6fd91c9786449fd2": {
+      "path": "Offensive_Specialist_Test_Updated/README.md",
+      "archive": "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575",
+      "bytes": 3027,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test_Updated/README.md",
+      "sections": [
+        "# Offensive Specialist Test — Scoring Update",
+        "## New rule — Offensive Specialist rating is time-based",
+        "## Guardian contrast — discussion, not yet an independently finalized Guardian scoring amendment",
+        "## Existing Guardian medical protocol preserved"
+      ]
+    },
+    "85ebb3e4a7e67e97dc72232778658ce4719d7d662f4034193be5ce0a6018f352": {
+      "path": "Offensive_Specialist_Test_Updated/MANIFEST.json",
+      "archive": "da6bc635cbfcd79c748ec6a7efad3343c2508f4bdf94d1127ad06cc36db4c575",
+      "bytes": 471,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Test_Updated/MANIFEST.json"
+    },
+    "bc43694ccf2e6e1c1162ea47ee8ee46b60b6fd2bb3c200a550924cce033e0eeb": {
+      "path": "Offensive_Specialist_Time_Rating_Locked/README.md",
+      "archive": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+      "bytes": 560,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Time_Rating_Locked/README.md",
+      "sections": [
+        "# Offensive Specialist — Time-Based Rating (Author Locked)"
+      ]
+    },
+    "4d08e06de6901c5e6fa0b77034d59037b99252dec063cc980bc7d479fc53fd38": {
+      "path": "Offensive_Specialist_Time_Rating_Locked/OFFENSIVE_EXAMINATION_AND_SCORING.md",
+      "archive": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+      "bytes": 3307,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Time_Rating_Locked/OFFENSIVE_EXAMINATION_AND_SCORING.md",
+      "sections": [
+        "# Accord Registry — Offensive Specialist Examination",
+        "## Universal chamber",
+        "## Thirteen consecutive configurations",
+        "### Category I: Single ELDRIS, six tests",
+        "### Category II: Four ELDRIS groups",
+        "### Category III: Three mixed allied engagements",
+        "## Author-locked station rating rule",
+        "## Authority/provenance"
+      ]
+    },
+    "8ee8fe694ec5cf35a5f62c407a2353faa1cfc27ebf33ce104c3e2ee1d1c6c025": {
+      "path": "Offensive_Specialist_Time_Rating_Locked/OPEN_ITEMS.md",
+      "archive": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+      "bytes": 353,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Time_Rating_Locked/OPEN_ITEMS.md",
+      "sections": [
+        "# Open items"
+      ]
+    },
+    "853ec6328dd421ccbda7259b1257fb2dba7a438294a6a41afd472b179a5dbc5a": {
+      "path": "Offensive_Specialist_Time_Rating_Locked/MANIFEST.json",
+      "archive": "64cdb92221ace9dafcbf69ea5da4bbc81aa4f2da1bc7fbedc10e9aa9d2b99d80",
+      "bytes": 443,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Offensive_Specialist_Time_Rating_Locked/MANIFEST.json"
+    },
+    "72b22a05d4604725ceb38f8836f4a4ed51555b78282216c243da8dd548fee839": {
+      "path": "Guardian_Containment_Allied_Protection_Locked/README.md",
+      "archive": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+      "bytes": 532,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Containment_Allied_Protection_Locked/README.md",
+      "sections": [
+        "# Guardian — Spatial Containment and Allied Protection (Author Locked)"
+      ]
+    },
+    "241cf44c95f2420220cea2ba0309bea7354f1f4752b78f4b1f51b8b84dfe7884": {
+      "path": "Guardian_Containment_Allied_Protection_Locked/GUARDIAN_FULL_EXAMINATION.md",
+      "archive": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+      "bytes": 6231,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Containment_Allied_Protection_Locked/GUARDIAN_FULL_EXAMINATION.md",
+      "sections": [
+        "# Accord Registry — Guardian Certification: Complete Current Workshop Specification",
+        "## Chamber and apparatus",
+        "## Category I — Six individual ELDRIS",
+        "## Category II — Four group configurations",
+        "## Category III — Three allied-protection configurations",
+        "## Locked chromatic spatial containment measurement",
+        "## Category III — Locked combined protection measurement",
+        "## Guardian medical protocol — locked",
+        "## Overall rating",
+        "## Source / authority"
+      ]
+    },
+    "fe026ff058092f4b5455420adb43d239f078dcb3c20b018c4187ee6a368a6d1a": {
+      "path": "Guardian_Containment_Allied_Protection_Locked/PROVENANCE_AND_OPEN_ITEMS.md",
+      "archive": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+      "bytes": 1005,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Containment_Allied_Protection_Locked/PROVENANCE_AND_OPEN_ITEMS.md",
+      "sections": [
+        "# Supersession, status, and open items"
+      ]
+    },
+    "fc37270a91b0cb4700bebc6819f8b2ce4b9514a9140018bdbb4969bfddabe1d3": {
+      "path": "Guardian_Containment_Allied_Protection_Locked/MANIFEST.json",
+      "archive": "fa60fa8286a18be7fe793bf6c568fb6837482713ea2f703753a5aed2dfdea942",
+      "bytes": 483,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/Guardian_Containment_Allied_Protection_Locked/MANIFEST.json"
+    },
+    "efb2946f44d9dcf17491ab0bcfd5e7d2e3eff3f1348f98e55efb24ea76962daa": {
+      "path": "MK163_BLUE_ARC/README.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 636,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/README.md",
+      "sections": [
+        "# MK163 — BLUE ARC NARRATIVE CHECKPOINT"
+      ]
+    },
+    "6d70932dbd1c74ca750ab63bd60f07252357dae8d27e7a70f21db857b3f55621": {
+      "path": "MK163_BLUE_ARC/01_ARC_SCOPE_AND_CONTINUITY.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1723,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/01_ARC_SCOPE_AND_CONTINUITY.md",
+      "sections": [
+        "# Blue Arc: scope and chronology"
+      ]
+    },
+    "929241c1cb1b720268a0a61e91d9c622bbb5be5b50823d6277bc19ac7abb6686": {
+      "path": "MK163_BLUE_ARC/02_BLACKSTONE_GRADUATION_AND_CARDSMITHING.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 972,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/02_BLACKSTONE_GRADUATION_AND_CARDSMITHING.md",
+      "sections": [
+        "# Graduation and the Black Sprite"
+      ]
+    },
+    "9d408bbf1eae37ad417c741cb5f448e15ae0be4fe0091dcae8272bec6d239de9": {
+      "path": "MK163_BLUE_ARC/03_RELOCATION_AND_CITY_LIFE.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1679,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/03_RELOCATION_AND_CITY_LIFE.md",
+      "sections": [
+        "# New Blue Dungeon city"
+      ]
+    },
+    "9ae1646949acdd3ea995125d55425462af5203c67110aa27ec0ad93ac70c9bd9": {
+      "path": "MK163_BLUE_ARC/04_PROFESSIONAL_DILEMMA_AND_CATALYST.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1620,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/04_PROFESSIONAL_DILEMMA_AND_CATALYST.md",
+      "sections": [
+        "# Established armorsmith, emerging Cardsmith"
+      ]
+    },
+    "b81fa010d72bed88e6f7cea2db790047e73a7210d19d122c71733118e92527ac": {
+      "path": "MK163_BLUE_ARC/05_STAGING_DISTRICT_AND_ACCORD_REGISTRY.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1732,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/05_STAGING_DISTRICT_AND_ACCORD_REGISTRY.md",
+      "sections": [
+        "# First visit to the dungeon staging district and Accord Registry"
+      ]
+    },
+    "d0577de047cbaf9464f171773ad3bb26d7a32f299bd79b6e1ee181aaa619ea37": {
+      "path": "MK163_BLUE_ARC/06_PREPARATION_CARDS_AND_EXAMINATION_NARRATIVE.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 2919,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/06_PREPARATION_CARDS_AND_EXAMINATION_NARRATIVE.md",
+      "sections": [
+        "# Card preparation and first Support certification",
+        "## Chronology",
+        "## Capabilities and constraints"
+      ]
+    },
+    "9231909f11d5b45197c8dad1dd1ca9022286396d2a816a57e24123bcf2c6c351": {
+      "path": "MK163_BLUE_ARC/07_FIRST_RESEARCH_CONTRACT.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1346,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/07_FIRST_RESEARCH_CONTRACT.md",
+      "sections": [
+        "# First independent contract: natural sigil research"
+      ]
+    },
+    "bd296070c3acc8f4e7bfd9774c2a2a8a4bd2998e23a26efff704a341a8f87dc1": {
+      "path": "MK163_BLUE_ARC/08_BLUE_ARC_CONTRACTS_AND_CARD_REFINEMENT.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1822,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/08_BLUE_ARC_CONTRACTS_AND_CARD_REFINEMENT.md",
+      "sections": [
+        "# Blue Arc ongoing professional development and closure"
+      ]
+    },
+    "db7ccbf4a457f5032ee530f9423616182530a810a90b99fabb130b19befb6d75": {
+      "path": "MK163_BLUE_ARC/09_PROVENANCE_AND_OPEN_ITEMS.md",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 1666,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/09_PROVENANCE_AND_OPEN_ITEMS.md",
+      "sections": [
+        "# Provenance and non-invention controls",
+        "## Locked in this narrative checkpoint",
+        "## Still OPEN; do not manufacture",
+        "## Authority"
+      ]
+    },
+    "05d5bf21a2f3f90c04de5a083e1955aa9f42695ee3099e6a20aed4b929d9defc": {
+      "path": "MK163_BLUE_ARC/MANIFEST.json",
+      "archive": "2d2026e023d4ca7f4c1934932e58ef6173c640edfb2bef13da6ffc8c04d720c7",
+      "bytes": 647,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_BLUE_ARC_NARRATIVE_LOCKED/MANIFEST.json"
+    },
+    "bad9ac72de9e330fdcf4cc586efdbb9828330a442583b7c5f0799bfa28d5de0f": {
+      "path": "SUPPORT_SPECIALIST/13_TRIAL_CERTIFICATION.md",
+      "archive": "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3",
+      "bytes": 9319,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Support_Specialist_13_Trial_Cumulative_Locked/13_TRIAL_CERTIFICATION.md",
+      "sections": [
+        "# MK163 — Accord Registry Combat Support Specialist: 13-Trial Certification",
+        "## Core identity",
+        "## Examination technology and procedure",
+        "## Category I — One allied combatant against one ELDRIS (tests 1–6)",
+        "## Category II — Two allies: Guardian + Offensive Specialist (tests 7–10)",
+        "## Category III — Full projected allied expedition party (tests 11–13)",
+        "## Important distinction: fixed objectives, flexible means",
+        "## Kaira story implication (author intent)",
+        "## Open design decisions"
+      ]
+    },
+    "9cb4309d9e1176f7dd50d2aca58ad06d0842ec3b4cce55c3b667ebab79fa6313": {
+      "path": "SUPPORT_SPECIALIST/MANIFEST.json",
+      "archive": "5f816ea952d1510ee125679d8abfbee52b9514c0ecb6e35071a9b6f35c08cdc3",
+      "bytes": 414,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Support_Specialist_13_Trial_Cumulative_Locked/MANIFEST.json"
+    },
+    "5796ff880da3d13fac0c1b269e29f3463917cd2700a8bbcf8abb791585425728": {
+      "path": "SUPPORT_SPECIALIST/CURRENT_13_TRIAL_CERTIFICATION.md",
+      "archive": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775",
+      "bytes": 9606,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Support_Specialist_Group_Damage_Average_Cumulative/CURRENT_13_TRIAL_CERTIFICATION.md",
+      "sections": [
+        "# MK163 — Accord Registry Combat Support Specialist: 13-Trial Certification",
+        "## Core identity",
+        "## Examination technology and procedure",
+        "## Category I — One allied combatant against one ELDRIS (tests 1–6)",
+        "## Category II — Two allies: Guardian + Offensive Specialist (tests 7–10)",
+        "## Category III — Full projected allied expedition party (tests 11–13)",
+        "## Important distinction: fixed objectives, flexible means",
+        "## Kaira story implication (author intent)",
+        "## Open design decisions"
+      ]
+    },
+    "c067f4b9257cd6cd92d75a0e8439ad52ea37a3631f39499fdc6b74df9bff1fc9": {
+      "path": "SUPPORT_SPECIALIST/SCORING_AMENDMENT.md",
+      "archive": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775",
+      "bytes": 2152,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Support_Specialist_Group_Damage_Average_Cumulative/SCORING_AMENDMENT.md",
+      "sections": [
+        "# Author-Locked Scoring Amendment — Accumulated Average Group Damage"
+      ]
+    },
+    "66e197c329dd9ddfb3f6a889a54fd9f987ff328aea17892c7132d21b854629aa": {
+      "path": "SUPPORT_SPECIALIST/MANIFEST.json",
+      "archive": "7def9d211762a4a54d0d9d2540feb696217916fc9612ea6e4de00723fa63d775",
+      "bytes": 420,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Support_Specialist_Group_Damage_Average_Cumulative/MANIFEST.json"
+    },
+    "d54b6fc59a14332b775d24f2822f7a1a0ccd3f672c73e10a1a2dce329638297b": {
+      "path": "CURRENT_CANON/KAIRA_SUPPORT_CERTIFICATION_LOCKED.md",
+      "archive": "dc59ca506fe972fd5d86d24043eed321675f4f57f23a71c9dcba80e0b83159a9",
+      "bytes": 3724,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Kaira_Support_Certification_Green_54_of_91_Cumulative/KAIRA_SUPPORT_CERTIFICATION_LOCKED.md",
+      "sections": [
+        "# MK163 — Kaira: Initial Accord Registry Support Specialist Certification",
+        "## Authority and status",
+        "## Locked score ledger",
+        "## Calculation",
+        "## Established narrative context",
+        "## Boundaries"
+      ]
+    },
+    "84e14c3c074520d0c27d7367420284b0cc9c039c1647e8b5e98d5a5d742c4330": {
+      "path": "MANIFEST.json",
+      "archive": "dc59ca506fe972fd5d86d24043eed321675f4f57f23a71c9dcba80e0b83159a9",
+      "bytes": 521,
+      "installed": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/MK163_Kaira_Support_Certification_Green_54_of_91_Cumulative/MANIFEST.json"
+    },
+    "dc4948cf0e6ba6498d952dbab5d70e016940c1de582370bdd35ca79cdd8e738c": {
+      "path": "COVERAGE_MATRIX.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 2945,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/COVERAGE_MATRIX.md",
+      "sections": [
+        "# Mandatory reverse-diff coverage matrix"
+      ]
+    },
+    "9b10efab7df247ab2e2440b0a44f083cc8c335e3b74bfb1883e66899b5bb5b81": {
+      "path": "DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 3626,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/DECISIONS/AUTHOR_DECISIONS_AND_SUPERSESSIONS.md",
+      "sections": [
+        "# Decision ledger — LIVE_MODEL_009B"
+      ]
+    },
+    "81c7317c7a546e8b1c15ef6c00db2d791151089eb11045c5ad7451a987b83351": {
+      "path": "Executable.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 6532,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/Executable.md",
+      "sections": [
+        "# Executable.md — MK163 LIVE_MODEL_009B Codex handoff",
+        "## Baselines",
+        "## Intake",
+        "## Reverse semantic diff, not file overwrite",
+        "## Non-negotiable guards",
+        "## Validation and delivery",
+        "## Audit clarification"
+      ]
+    },
+    "aa260b2c76b5773d0463da6d217800f56c98229eb65f05e8be694df8f231be8a": {
+      "path": "OPEN_QUESTIONS.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 1645,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/OPEN_QUESTIONS.md",
+      "sections": [
+        "# Open questions and non-decisions"
+      ]
+    },
+    "fbf8645b04e6ae7064a11694870e9bdeff0dc02ebb97caa0ad86bd41b6871fb2": {
+      "path": "PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 5077,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md",
+      "sections": [
+        "# Author evidence supplement — LIVE_MODEL_009B",
+        "## Composite Card systems and reference frames",
+        "## Natural ru’ne and sigils",
+        "## Research, expedition roles and environmental hazards",
+        "## Bonds, education and ultimate narrative scope",
+        "## Preservation boundaries"
+      ]
+    },
+    "92940104e73aa89776ea66727345299d3b1fbeb48e49dd3b84e1300ba7406663": {
+      "path": "PROVENANCE/CONFLICTS_AND_STATUS.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 1967,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/CONFLICTS_AND_STATUS.md",
+      "sections": [
+        "# Provenance, supersession, and status guard"
+      ]
+    },
+    "55ae4d9356a293773d4ca7761d5fd2e756fb0f897329b72e9f63484e69573dc7": {
+      "path": "PROVENANCE/TERMINOLOGY_CORRECTION_009B.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 1027,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/TERMINOLOGY_CORRECTION_009B.md",
+      "sections": [
+        "# LIVE_MODEL_009B — Protected terminology correction (author authority, 2026-10-22)"
+      ]
+    },
+    "bbb0c3b3977a0d7b19af3aaeaf5c967c8f6ad619b010d8a90f064904e01eb9cf": {
+      "path": "README.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 1081,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/README.md",
+      "sections": [
+        "# MK163 LIVE_MODEL_009B — Exhaustive scoped workshop delta"
+      ]
+    },
+    "0e91d16ebaaeb476bff43d0f0d3a2579ee05bfdff782f65faf57adb667aa2c6c": {
+      "path": "SOURCE_REGISTER.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 3474,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/SOURCE_REGISTER.md",
+      "sections": [
+        "# Source register and evidence limits",
+        "## Repository sources inspected during packaging",
+        "## Conversation-derived author directions",
+        "## Explicit author phrases preserved (selected, not comprehensive transcript)",
+        "## Source boundary caveats"
+      ]
+    },
+    "1df02ba1bf9daae519a06d7afcf07b4018da15029a7a6d63a5e6666a07fb2f3f": {
+      "path": "WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 5442,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md",
+      "sections": [
+        "# 01 — Temporary Transduction Systems: Kaira's Cardsmith contribution",
+        "## Discovery and distinction",
+        "## Modularity and persistence",
+        "## Illustrative applications — NOT approved designs",
+        "## Relation to Architects",
+        "## Crucial occupancy correction",
+        "## Open engineering questions"
+      ]
+    },
+    "a1146c2a2e6786ce188bd20fdccd84c7578e4bd04199663fd1e543dd16dd2918": {
+      "path": "WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 4232,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md",
+      "sections": [
+        "# 02 — Natural ru’ne, sigils and scientific discovery",
+        "## Natural mathematical language",
+        "## Natural occurrence",
+        "## Human discovery and reduction",
+        "## Environmental examples (illustrative, not mapped locations)",
+        "## Science and narrative",
+        "## AERA source boundary"
+      ]
+    },
+    "b8070bd56da0e0fd3cf7d8d99c219de09ff414def1b2e4b6aee278d7ed0136b5": {
+      "path": "WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 4480,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md",
+      "sections": [
+        "# 03 — Dungeon research, escort parties, and environmental helkir",
+        "## Exploration beyond combat",
+        "## Two independent hazards",
+        "## Two helkir roles",
+        "## Kaira's possible defining expedition (PROPOSED scene, not locked)",
+        "## Operational significance"
+      ]
+    },
+    "7816902c01df39f05538183257648a7f793067115ab1dad304c861326bce77ad": {
+      "path": "WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 5682,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md",
+      "sections": [
+        "# 04 — Black bonds, natural intuition, and Kaira's unconventional education",
+        "## Affinity, bond and mastery",
+        "## Independent companions, party roles, and progression",
+        "## Educational structure",
+        "## Potential versus current ability",
+        "## Seven-book conclusion and longer future",
+        "## Preserve scope"
+      ]
+    },
+    "3ed0e35fd928fe9fecda5f1fb8ad4b0bc176124f2596473a505d8441f0eaa0dc": {
+      "path": "WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 2789,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md",
+      "sections": [
+        "# 05 — Arc Two return point and narrative boundaries"
+      ]
+    },
+    "57c773dfb35d9404f6319f409ae43227911a9a4ea099c0c4a0696d2e3c77ae43": {
+      "path": "MANIFEST.json",
+      "archive": "fb47c6ca529d8f2c0dc62db53a84f24df47e4680c745ecc082d694ed99708ba4",
+      "bytes": 2605,
+      "installed": "PROVENANCE/WORKSHOP/LIVE_MODEL_009B/MANIFEST.json"
+    }
+  },
+  "original_filename": "MK163_BOOK_RED_CODEX_PUSH_EXHAUSTIVE.zip",
+  "boundary": "Original ZIP containers remain in external staging. Member data is stored once or linked to byte-identical existing files. All historical statements and archived instructions are source only."
+}

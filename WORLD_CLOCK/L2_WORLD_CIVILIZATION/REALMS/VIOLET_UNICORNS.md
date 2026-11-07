@@ -1,3 +1,11 @@
+# Violet native specialization in MK163
+
+**Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Genesis Field**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Delta 004 authority update — 2026-10-15:** Delta 004 supplies selected humanoid physiology, energy horns and six-anchor integration. The earlier blanket deferral of physiological detail is narrowed to parameters the new owner still leaves open. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
 
 # Violet — Unicorns

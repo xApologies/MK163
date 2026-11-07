@@ -1,3 +1,74 @@
+# Crown Accord Registry: recognition, services and contracts
+
+**Book Red consolidation · 2026-11-07.** ## Identity and ownership
+- The **Accord Registry is a Crown-owned institution** operating at kingdom level. It is NOT a guild, NOT a vaelum, NOT a military unit, and NOT a universal chain of command over civilian adventurers.
+- It is the Crown's professional accreditation, registration, contract coordination, labor-market oversight, and statistical knowledge institution for the **aithren** community and **vaelum** organizations.
+- The Accord Registry maintains knowledge of registered individuals, their credentials, their assessed role-specific competence, and recognized vaelum organizations, membership and available professional capacity.
+- It is an intermediary between clients requiring expedition labor or specialized services and the qualified individual aithren or vaelum able to supply them.
+- It can maintain physical public-facing Registry halls near dungeon cities and elsewhere, with job and recruitment postings, certification and professional records. A Registry hall is not itself an adventuring guild.
+- Relationship: **Crown (owner/authority) → Accord Registry (Crown-owned institution) → formally recognized independent vaelum (organizations) / individually registered aithren (professionals)**. This is accreditation and commercial coordination, NOT Crown military command.
+
+## Kingdom intelligence / statistical role — newly explicit and permanently locked
+- The Registry supplies the Crown with **data, statistics and analytics about the capabilities of its citizens active in dungeon-related professions**.
+- The Crown thereby gains a systematic landscape of national adventuring capacity: competency distributions, chromatic ratings, role availability, geographic concentrations, organizational memberships, available specialists, and the kinds of expeditions or services its people can undertake.
+- The Crown's interest in that capability landscape is institutionally important even though the precise royal uses, reporting frequency, privacy policy, statistical methodologies and any strategic consequences are NOT YET DEFINED.
+- Do not invent a military conscription mandate, surveillance powers, compulsory citizenship registration, individual medical disclosures, or any detailed data-sharing law from this information function.
+
+## Core Registry functions
+1. Register and recognize vaelum, including knowledge of their membership and professional specializations.
+2. Register individual aithren, including independent practitioners.
+3. Establish, maintain and administer professional examinations and certification requirements.
+4. Maintain Crown-recognized individual competency ratings and assessment documentation.
+5. Publish job contracts and recruitment postings for vaelum and individual aithren.
+6. Match clients with suitably qualified applicants, including referring multiple candidates for client selection.
+7. Advise clients on minimum role-specific staffing based on known dungeon-domain hazards and the intended mission.
+8. Coordinate contracts and delivery of recovered materials, confirm fulfillment and facilitate payment.
+9. Support mixed-source expedition staffing: individual specialists plus personnel provided by several different vaelum.
+10. Produce aggregated knowledge, statistics and analytical reporting for the Crown on its registered civilian adventuring capabilities.
+
+## Community value
+- **For clients:** verified qualifications, reliable applicant discovery, access to competitive bids, qualified specialist selection, organized contracting and fulfillment.
+- **For independent aithren:** an accredited reputation and access to work without mandatory vaelum membership; may retain direct fees subject to actual costs and rules.
+- **For vaelum:** recognized organizational status, a marketplace for deploying members, staffing/recruitment opportunities, and reputational differentiation.
+- **For the wider dungeon community:** coordination among researchers, merchants, apothecaries, physicians, scholars, guards, harvesters, support practitioners and expedition specialists.
+- **For the Crown:** a structured picture of citizens' adventuring capacity and the organized civilian services available in the kingdom.
+
+
+
+## Contract examples author provided
+### Apothecary resource request
+- Apothecary posts a contract requesting a specified amount/type of identity-bearing `vaen` from a dungeon region (e.g. Orange, Red, Yellow).
+- Accord Registry records posting and requirements.
+- Registered individual or vaelum accepts and retrieves material.
+- Registry receives/verifies delivered material, facilitates agreed payout, and arranges transfer to apothecary.
+- Exact escrow, commissions, authentication, dispute and legal protocols OPEN.
+
+### Research expedition
+- Research group submits expedition needs to Registry.
+- Registry may identify suitable vaelum already seeking work or publish open recruitment.
+- Five candidate vaelum may apply; Registry passes credentials/options to the research client, which chooses.
+- Alternatively the expedition may be assembled from **different sources**: e.g. a support-only vaelum provides four rotating environmental sustainers, two independent Guardians provide battlefield protection, a medical vaelum provides three Helkir, and an independent offensive specialist joins.
+- Registry uses knowledge of the dungeon and research objectives to advise that **two or three healers at minimum** may be required for particular conditions. Whether such staffing advice is mandatory is OPEN.
+- The research group controls research objectives; contracted professionals supply escort, navigation, security, sustained environmental protection, logistics, medical care, recovery and extraction as specified.
+- Sustained Green-domain environmental damage/pressure may demand rotation of support personnel due to fatigue. Distinguish prevention/mitigation of environmental attrition from healing direct combat trauma.
+- Guardians physically/energetically control the battlefield; they do not have MMO-style automatic monster aggro.
+
+## Labor economics
+- Vaelum may sell the services of individual members and retain a portion of the client fee as organizational revenue.
+- Author's **arbitrary illustration**, not in-world currency: a two-week expedition hires a Helkir for $50; their vaelum pays the worker $30 and retains $20 gross, before operating expenses. Three such workers imply $150 client cost, $90 wages, $60 gross retained by vaelum.
+- An independently registered Blue-ranked Helkir might directly earn the full $50 client fee before expenses and any Registry fees.
+- Vaelum membership offers organizational reputation, access to contracts, staffing and possibly services; exact membership benefits, contracts, commission, tax or insurance rules OPEN.
+- Independent work offers direct contracting and earnings potential but also independent client acquisition, negotiation, preparation and risk.
+- The Registry may facilitate commercial exchange but is **not** thereby itself a private labor guild or employer of all practitioners.
+
+
+
+This is MK163 kingdom policy. Size, specialization and membership vary; a vaelum can have dozens or hundreds of members and is not the same as a party assembled for one mission. The dollar example is illustrative, not in-world currency. [Role certification and examinations](../INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # aithren, vaelum and Accord Registry
 
 **Project:** MK163  

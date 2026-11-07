@@ -1,3 +1,11 @@
+# Book Red source delivery · 2026-11-07
+
+**Book Red consolidation · 2026-11-07.** Attachment MK163_BOOK_RED_CODEX_PUSH_EXHAUSTIVE.zip, SHA-256 771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62, supplied from Downloads. All 15 listed source ZIPs and 11 listed documents verified; their exact containers stay in external staging. [Inventory of every archive, member, content hash and installed path](WORKSHOP/BOOK_RED_2026_11_07/SOURCE_INVENTORY.json) resolves each unique leaf to retained bytes. Prior 009B is referenced by matching hashes. [Current author ruling and source boundaries](BOOK_RED_2026_11_07_DECISIONS.md). Source excerpts and reconstructions do not establish literal transcript completeness.
+
+Source and decisions: [Book Red reconciliation](BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Registers the corrected attachment identity, exact source preservation and honest evidence scope. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

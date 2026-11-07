@@ -1,3 +1,11 @@
+# Scoped mixed-score rule for the four Registry roles
+
+**Book Red consolidation · 2026-11-07.** For the four Crown Accord Registry combat-role examinations only, the score is now selected: all 13 stations must be completed; each scores 0–7, and the overall rating is the floor of their equal-weight mean. No completion means no rating; a complete mean below one fails. White still requires all 13 White. The formula for unrelated professions remains OPEN. [Registry examinations](../INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # Chromatic qualification and the White mastery condition
 
 **Project:** MK163  

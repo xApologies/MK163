@@ -1,0 +1,15 @@
+# Protected terms — active corrections
+- **Kaira**, not Kira, Kiru, Akira.
+- **Nyx**, not Nix. Nyx joins Kaira's family in **Orange**. Later spoken Yellow/Red claims were corrected.
+- **Black Sprite**, **they/them**, independent sentient companion, not equipment; humanoid combat form available.
+- **Raeon**, title case, R-a-e-o-n, the existing Genesis Card game. Not Rayon or RAEON.
+- **abecca**, a bean/coffee analogue, NOT a shop, owner, person's name, or two-word 'ab ecca'. The coffee shop in the scene is unnamed. 'Coffee shop' is the author's dictation-safe generic term.
+- **aithren**, individual professional identity (dictation Aethrin/Aethryn); **vaelum**, independent recognized organization (dictation Valum, Velum).
+- **Accord Registry**, Crown-owned institution, not a guild or vaelum.
+- **Helkir**, dedicated biological restoration practitioner; **maege/maegi** protected singular/plural.
+- **ELDRIS**, protected hostile name. No 'Eldritch' or 'Eltrus' as new creatures.
+- **ru’ne** individual physical sigil mark; 'runae' in the research-contract utterance may be dictation and must be cross-checked before canonization. Preserve intent: naturally occurring sigil structures in Yellow/Green dungeon domains.
+- **Chainmail Robe**, Kaira's earlier physical invention, not 'chainmail rope' or 'chainmail road'.
+- **Genesis Robe**, new native energy-manifold garment, not interchangeable with Chainmail Robe.
+- **Blackstone Keep**, institution in the Blue Domain capital under the new author decision, subject to explicit provenance reconciliation.
+- Do not transform analogy ('Saturday', 'entangled', 'magnetic', 'valedictorian', 'computer scientist') into literal setting canon.

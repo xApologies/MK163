@@ -1,3 +1,11 @@
+# Book Red acceptance checks
+
+**Book Red consolidation · 2026-11-07.** For the four Accord Registry combat roles, apply the selected 13-station floor-of-mean rule at [the role owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md). The prior below-White aggregation question remains OPEN for other professions. The author reconfirmed **fourth / Green**, rejecting Yellow; retain the existing Tournament hard check and no Ring before the end of Red. The shift to **Raeon** and **ELDRIS** casing affects active usage, not historical quotations. No Black Card machinery returns.
+
+Source and decisions: [Book Red reconciliation](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 006 current authority — 2026-10-19:** Scoped currency acceptance update follows the new author selection; no other guard is weakened. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

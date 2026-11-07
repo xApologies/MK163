@@ -1,3 +1,28 @@
+# MK163 realm emphases versus the universal operational taxonomy
+
+**Book Red consolidation · 2026-11-07.** ## Upstream chain retained
+Genesis Field → Resolution → Bandwidth → Persistence → Chirality.
+
+## Six realm-to-specialization assignments (LATEST, AUTHOR-LOCKED)
+| Chromatic realm | Native population | Primary Genesis specialization |
+| --- | --- | --- |
+| Red | Dragons | **Chirality** |
+| Orange | Vaelith | **Topology** |
+| Yellow | Primordials | **Persistence** |
+| Green | Sprites | **Resolution** |
+| Blue | Leviathans | **Bandwidth** |
+| Violet | Unicorns | **Genesis Field** |
+
+The Orange/Topology specialization is separate from the five-node chain as currently written; its exact formal placement and mathematical meaning are **OPEN**. Do not invent a sixth chain node, equate Topology to Chirality, or assign a specific operator without further author selection.
+
+
+
+For MK163 the six **Dragon-associated capabilities** are Elemental Transduction (ordinary elemental fire), Dimensional Geometry (including CSR flight), Genesis Field Topology (Architect-like organization), Genesis Expression (raw beams/orbs), Resonance (biological reinforcement), and Chirality (admissibility). Finite energy and skill remain limiting. This is distinct from the inherited generic operational list, six basins, six-stage lifecycle and order of books/bonds. Orange’s persistent topology/coherence supports restoration; Green can produce similar outward effects through Resolution, not an identical operator. The provisional Red=Bandwidth+Chirality and Orange=Bandwidth+Chirality primary assignments are superseded. No upstream text or mathematics is amended.
+
+Source and decisions: [Book Red reconciliation](../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 # Six operational domains — not colors, professions, or lifecycle stages
 
 **Project:** MK163  

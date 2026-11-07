@@ -1,3 +1,11 @@
+# Physical Chainmail Robe and later native Genesis Robe
+
+**Book Red consolidation · 2026-11-07.** The original garment retains magnetic connections along its front, back and side slits. Kaira integrates a small chainmail maker’s signature in original robes; chest, shoulder or back of hood are possibilities, not fixed placement. The Alchemist’s Yellow commission and sponsorship are now selected, with design and terms OPEN. The distinct energy garment, paired ring behavior and Crown research belong at [Genesis Robe](GENESIS_ROBE.md). Earlier candidate-only descriptions are superseded only for these events; no MK147 or MK117 plot is imported wholesale.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
 > **Live Model 007 current authority — 2026-10-20:** Associates the exact new concept image and records its noncanonical captions without changing the robe endpoint. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration
