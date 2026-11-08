@@ -1,0 +1,77 @@
+{
+  "BOOKS/RED/BOOK_OVERVIEW.md": [
+    {
+      "line": 10,
+      "before": "| 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. |\n",
+      "after": "| 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal raeon gatherings, challenge coin. |\n"
+    }
+  ],
+  "BOOKS/RED/ARCS/ARC_004/ARC.md": [
+    {
+      "line": 1,
+      "before": "# Green · Blackstone and the royal Raeon table\n",
+      "after": "# Green · Blackstone and the royal raeon table\n"
+    },
+    {
+      "line": 21,
+      "before": "- Her previous armorsmithing/Chainmail Robe success provides substantial wealth. She can afford a serious competitive Raeon deck and accumulated Card collection.\n",
+      "after": "- Her previous armorsmithing/Chainmail Robe success provides substantial wealth. She can afford a serious competitive raeon deck and accumulated Card collection.\n"
+    },
+    {
+      "line": 22,
+      "before": "- She plays Raeon strategically and tactically with unusual natural aptitude, develops a completed deck, joins local tournaments and games at Blackstone, and repeatedly defeats the Princess, who is her close friend.\n",
+      "after": "- She plays raeon strategically and tactically with unusual natural aptitude, develops a completed deck, joins local tournaments and games at Blackstone, and repeatedly defeats the Princess, who is her close friend.\n"
+    },
+    {
+      "line": 29,
+      "before": "- The King hosts regular, relaxed Raeon gatherings with generals, military advisers, strategists, nobles, counselors, financial advisers and other invited guests. The gatherings permit informal political and military conversation, drinks and friendly competition, not a formal council.\n",
+      "after": "- The King hosts regular, relaxed raeon gatherings with generals, military advisers, strategists, nobles, counselors, financial advisers and other invited guests. The gatherings permit informal political and military conversation, drinks and friendly competition, not a formal council.\n"
+    },
+    {
+      "line": 30,
+      "before": "- The Princess is frustrated that she seldom defeats Kaira at Raeon. Knowing her father's competitive nature, she brings Kaira to one gathering, greets her father, sits Kaira down, and mischievously leaves her there on the **first night**.\n",
+      "after": "- The Princess is frustrated that she seldom defeats Kaira at raeon. Knowing her father's competitive nature, she brings Kaira to one gathering, greets her father, sits Kaira down, and mischievously leaves her there on the **first night**.\n"
+    },
+    {
+      "line": 35,
+      "before": "- Kaira's friendship with the King grows through Raeon and through her friendship with his daughter.\n",
+      "after": "- Kaira's friendship with the King grows through raeon and through her friendship with his daughter.\n"
+    },
+    {
+      "line": 36,
+      "before": "- The King becomes increasingly aware of Kaira as an anomaly: Awakened Afflicted, Chainmail Robe originator, extraordinarily good Raeon player, accompanied by Nyx and the Black Sprite. His exact knowledge of her deeper identity remains OPEN.\n",
+      "after": "- The King becomes increasingly aware of Kaira as an anomaly: Awakened Afflicted, Chainmail Robe originator, extraordinarily good raeon player, accompanied by Nyx and the Black Sprite. His exact knowledge of her deeper identity remains OPEN.\n"
+    },
+    {
+      "line": 40,
+      "before": "- The King awards Kaira a personal **challenge coin** representing the recurring Raeon invitation and granting **tax-/duty-free use of the King's Highway** to reach the Crown's capital for games from her later city.\n",
+      "after": "- The King awards Kaira a personal **challenge coin** representing the recurring raeon invitation and granting **tax-/duty-free use of the King's Highway** to reach the Crown's capital for games from her later city.\n"
+    }
+  ],
+  "BOOKS/RED/ARCS/ARC_006/ARC.md": [
+    {
+      "line": 19,
+      "before": "Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to Raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).\n",
+      "after": "Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).\n"
+    }
+  ],
+  "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md": [
+    {
+      "line": 3,
+      "before": "**Book Red consolidation · 2026-11-07.** Blackstone uses the ordinary Blue capital gateways. No additional campus portal is selected. The King’s personal challenge coin grants Kaira tax-/duty-free use of the Highway to attend his recurring Raeon gatherings in the Crown’s capital, including from her later home. It is not a title, appointment, military clearance or general exemption for other travelers. Coin design/verification, the route from the later city, and general toll policy remain OPEN. The four-capital, six-pair network and inward-facing local orientation below stand.\n",
+      "after": "**Book Red consolidation · 2026-11-07.** Blackstone uses the ordinary Blue capital gateways. No additional campus portal is selected. The King’s personal challenge coin grants Kaira tax-/duty-free use of the Highway to attend his recurring raeon gatherings in the Crown’s capital, including from her later home. It is not a title, appointment, military clearance or general exemption for other travelers. Coin design/verification, the route from the later city, and general toll policy remain OPEN. The four-capital, six-pair network and inward-facing local orientation below stand.\n"
+    }
+  ],
+  "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md": [
+    {
+      "line": 25,
+      "before": "- Kaira and Princess attend the King's regular **Raeon** game wearing their new robes; the King sees them and wants one himself.\n",
+      "after": "- Kaira and Princess attend the King's regular **raeon** game wearing their new robes; the King sees them and wants one himself.\n"
+    },
+    {
+      "line": 27,
+      "before": "- The King knows Kaira already from years of friendly Raeon rivalry and her close friendship with the Princess.\n",
+      "after": "- The King knows Kaira already from years of friendly raeon rivalry and her close friendship with the Princess.\n"
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+# raeon · game and storefront
+
+**Orange arc of Book Red · 2026-11-08.** The game’s protected name is now **raeon**. The southeastern raeon shop and adjacent unnamed abecca shop belong to the Violet staging settlement. Collectible maege-glass game Cards are distinct from operational Genesis Cards. Vael drops two undamaged game Cards; Kaira browses, recovers her composure and buys none at the staging prices. [First encounter](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md). Existing game mechanics, Green royal gatherings and limited challenge coin remain.
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Raeon and royal games
 
 **Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; her friendly royal rivalry is recorded in [Green Arc](../../../BOOKS/RED/ARCS/ARC_004/ARC.md). The King's gatherings fall on the **last day of the six-day week**, whose name remains OPEN. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.

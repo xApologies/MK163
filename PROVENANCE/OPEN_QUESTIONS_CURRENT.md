@@ -1,3 +1,15 @@
+# Orange · resolved beats and outstanding parameters
+
+**Orange arc of Book Red · 2026-11-08.** The first independent visit, craft posting, two promising smithies, freight, Vael encounter and frog/moss/mineral return are selected. No actual first invoice/customer, shop name, precise gate/route, surveyed map, exact pricing/terms, frog species/toxicity, mineral identity/market value, numeric ring intervals/yield, second-stage station count or precise flattened geometry is selected. One versus two abecca stops remains OPEN; first return and later third-return Nyx adoption are distinct. [Full correction and open-parameter ledger](WORKSHOP/ORANGE_ARC_2026_11_08/PROVENANCE/11_CORRECTIONS_SUPERSESSIONS_AND_OPEN_PARAMETERS.md).
+
+[Decision and source boundaries](ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Book Red · decisions and remaining open questions
 
 **Book Red consolidation · 2026-11-07.** Tournament outcome is **resolved**, not OPEN: fourth / Green; rejected Yellow proposal. The seven arc roles, actual first Support score, contract depth, three ordinary Cards, Genesis Robe and vaelum affiliation are selected. First implementation/timing of the separate ordinary modular Temporary Transduction Systems remains OPEN. Black Card retirement is unchanged.

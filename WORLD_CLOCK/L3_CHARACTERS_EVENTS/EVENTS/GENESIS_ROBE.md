@@ -22,9 +22,9 @@
 ## Three women and King
 - The alchemist immediately wants a Genesis Robe of her own.
 - The Princess obtains a Genesis Robe through her characteristic ingenuity. The three women — **Kaira, Princess, alchemist** — each have one.
-- Kaira and Princess attend the King's regular **Raeon** game wearing their new robes; the King sees them and wants one himself.
+- Kaira and Princess attend the King's regular **raeon** game wearing their new robes; the King sees them and wants one himself.
 - The Princess negotiates with her father, **extracting concessions on Kaira's behalf** before Kaira makes him a robe. Exact concessions, whether the commission is completed, terms, and Kaira's reaction remain OPEN. Do not assume the Princess owns Kaira's work.
-- The King knows Kaira already from years of friendly Raeon rivalry and her close friendship with the Princess.
+- The King knows Kaira already from years of friendly raeon rivalry and her close friendship with the Princess.
 
 ## Crown research and Age of Knowledge
 - The Crown's technical circles discover not only unprecedented **closed energy ring manifolds**, but the unprecedented **shared-state coupled seam behavior**.

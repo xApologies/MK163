@@ -16,7 +16,7 @@ Personally constructing and coupling stable ring manifolds is difficult; the com
 
 ## Major events
 
-Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to Raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
+Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
 
 ## Vaelum and personal trajectory
 - During Violet Kaira affiliates with a **vaelum**, finding a regular dungeon-delving group she harmonizes with. She shifts from primarily independent Accord Registry contract postings to shared expeditions with companions.

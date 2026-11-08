@@ -1,3 +1,56 @@
+# OR-06 — Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics
+
+**Orange arc of Book Red · 2026-11-08.** ## State arriving at the settlement
+
+Kaira is visibly **Awakened** with retained white Afflicted pigmentation, luminous steel-gray eyes, distinctive scars, slim strong build. She has no Dimensional Ring (not awarded until Book Red White Arc), no large wagon or formal registered dungeon certification, no profitable chainmail workshop in the staging area, and no completed Chainmail Robe. She has produced a **lightweight mass-reduced demonstration chainmail shirt**, based on her innovative Offset-Lattice concept and the specialized Genesis-infused iron rings ordered from her friend at Blacksmith Row in the large city. Her backpack contains the **completed shirt** and ordinary lunch/fruit items; the finished five-layer robe is not there. She makes the approximately five-mile working separation plus city walk to staging on foot. The scene is her **first independent peer outreach as a self-employed armorsmith**, not her first exposure to aithren—she previously delivered repaired mail during indenture at the Village Hub.
+
+The staging settlement consists of paved stone streets, northwest/northeast residences, north-offset dungeon entrance, central social civic/Registry area, **southwest craftspeople/markets**, and **southeast inns/restaurants/shops**. All are well cared for; do not present it as dirt-track smoky medieval camp.
+
+## First abecca and sandwich
+
+The author describes Kaira first stopping at a **coffee shop serving abecca** and ordering **a sandwich and abecca**, taking a moment to enjoy herself and observe how community members mingle. She particularly loves the coffee-analogue beverage and often seeks it. The shop remains **unnamed** (NOT an invented person called "Abecca" or "Abecca's"). Later the author explicitly places an **abecca shop immediately beside the raeon Cards shop**, and Kaira **exits that shop** just before the Vael collision. The exact time of the later stop relative to her first sandwich/abecca stop is **OPEN**; do not silently invent a second meal or contradict the first. The stable adjacency is adopted, regardless of whether these references ultimately designate one or two separate stops.
+
+## Accord Registry initial visit: service posting and awkward outreach
+
+Kaira has no idea how to market herself independently to unknown professional groups. The Crown-owned Accord Registry is a community meeting place as well as a professional registry and contract marketplace. She arrives, observes adventurers, personnel, posting boards, research and vaelum groups, and asks to lodge her **independent armor-repair service posting**. The Registry accepts or establishes the posting and keeps her availability on file. The offer is for freelance **assessment-based armor repair**, with competitive **0.9 × equivalent city repair fees**, collection/delivery and turnaround negotiated. Kaira cannot give a reliable quote until she inspects the armor. The user has analogized possible repairs of 30 or 100 eln, not fixed rate cards. She should not accidentally receive an aithren professional certification or become a vaelum member in Orange—the Registry later certifies her Green Support Specialist role in **Blue**.
+
+She makes some attempts to approach or considers approaching aithren directly. She finds it awkward to interrupt groups of strangers or invite business by walking around looking for people wearing armor—nobody wears full field equipment constantly. She is **introverted from years of Afflicted stigma and indentured smith work**, but can converse well about genuine craftsmanship; she is not socially unintelligent. The posting alone does not instantly create paying customers. No direct customer sale or signed contract with an aithren is yet established from this Registry scene.
+
+## Southwest artisans / first smith contacts
+
+Kaira leaves the central Registry area and visits the **southwest** smithies to find professionals carrying repair backlogs. Her goal isn't to open a storefront or denounce the local price premium: she wants **subcontracting** relationships whereby established shops maintain their customer interface and she performs agreed chainmail repair at home in the city. Not every smith repairs chainmail; others specialize in other armor, weapons, plate or unrelated work.
+
+- **First smithy:** declined; no suitable chainmail repairs or not the shop's focus. Exact specialty/name OPEN.
+- **Second smithy:** declined for similar lack of need/suitable chainmail workload. The sequence of reasons is not a fixed dialogue.
+- **Third smithy:** **interested**; substantial chainmail-repair workload/backlog (three weeks was an illustrative possibility). The owner or qualified smith can examine the 23–25k-ring demonstration shirt, question Kaira's skill, and consider subcontracted work. Agreement to work together is established direction; no exact first item, quote, completed invoice or accepted total order is authored. Kaira feels excited and relieved.
+- **Additional outreach:** Kaira visits **several more smithies**, establishes **one additional cooperative/potential work relationship**, for **two meaningful smithy contacts total** from the day's visit. Exact number of remaining rejections and specific shop names/owners OPEN.
+
+She knows enough to explain weave, elastic self-closing rings, precision and cost. Technical confidence is stronger than sales confidence; she builds professional connections with artisans without suddenly becoming an extrovert. The independent mailwright in the city is already her first real craft friendship and ring supplier and is **not** the third staging smithy.
+
+## Business structure, quotations and risk
+
+Kaira is an independent **subcontractor**, not an in-house employee (the user's I-9 analogy was explicitly withdrawn). Local smithy keeps customer-facing contract and charges its regular premium while she receives an agreed discounted city-equivalent repair labor price. Her initial proposed **0.9 × city** rate is not 0.9% and does not automatically cover freight, unusual materials, insurance or net profit. Customer repair charges vary with damage after inspection. A plausible example is a low-damage 30 eln repair versus major-damage 100 eln, but neither is an approved universal price. Kaira can reject unprofitable/unsafe jobs, and no exact 4-day or 5-day deadline is compulsory; those were illustrative.
+
+## Freight problem and solution
+
+Without a Dimensional Ring, Kaira cannot carry a huge pile of damaged armor home in an ordinary backpack. The proposed earlier solution "limit first order to one small piece and walk it back" was **superseded by the author's preferred freight solution**. She returns to the **Accord Registry** after the smithy conversations and asks about delivery into the city, perhaps a reliable pickup schedule. The Registry refers her to an **independent commercial logistics / freight business** in or serving the craftsmen/service district, rather than employing a vaelum/aithren automatically or itself running the freight operation. She contacts/engages this provider and arranges **pickup at subcontracting smithies → delivery to her apartment in large city → pickup after repairs → return to those smithies**. Actual scheduled pickup days, price, parcel authentication, proof-of-delivery, protection against theft, carriage type and who pays fees OPEN. Do not create a magical teleportation/dimensional ring or a new independent fictional freight provider name without author selection.
+
+Freight allows Kaira to preserve **her own trips** to the staging settlement to build relationships and inspect work while the equipment moves separately. This leaves her free to take a nature detour on the way home. The very first commercial transaction has not been dramatized as a successful finished repair; don't close this pending fact by invention.
+
+## Departure after the day's business
+
+The user next places Kaira at the southeast **raeon** card shop, immediately adjacent to the **abecca** shop; this becomes the Vael collision scene detailed in OR-07. She does not buy a raeon Card due to staging markup. Leaving on foot, unencumbered by customer armor because of the freight arrangement, she heads toward the city and later notices the wildlife trail described in OR-08. Her workday is eventful and emotionally significant even though exact clock stamps, lengths of meetings, rest stops, prices and individual NPC names remain OPEN.
+
+After the freight arrangement: [Vael at the adjacent shops](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md), then [the first return on foot](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md). The inherited approach state below describes the moment before this visit; these are selected beats, not drafted dialogue or completed customer invoices.
+
+Sources: [OR-06 full workshop record](../../../../PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/06_ORANGE_VISIT_REGISTRY_SMITHY_SUBCONTRACTING_FREIGHT.md) · [selected author evidence](../../../../PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/PROVENANCE/13_AUTHOR_EVIDENCE_SELECTED_VERBATIM.md) · [corrections and open questions](../../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Confirms the exact outreach handoff and excludes future systems/research from current Arc 2 state. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

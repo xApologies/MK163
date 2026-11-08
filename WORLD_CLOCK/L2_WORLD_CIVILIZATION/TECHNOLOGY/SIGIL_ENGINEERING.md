@@ -1,3 +1,15 @@
+# Orange · two ring-forming workstations
+
+**Orange arc of Book Red · 2026-11-08.** For specialized chainmail rings, [the production owner](SIGIL_CHAINMAIL_RING_FABRICATION.md) distinguishes material input, two constrained phase fields, a journeyman’s supervision and finite T₁/T₂. The three concurrent spool systems are an example, not a new operator or unlimited resource. Staging utilities and after-hours barriers are at [stone and sigil infrastructure](../INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md).
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds natural ru’ne/sigil discovery and reduced human engineering while preserving physical inscription and velis distinctions. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

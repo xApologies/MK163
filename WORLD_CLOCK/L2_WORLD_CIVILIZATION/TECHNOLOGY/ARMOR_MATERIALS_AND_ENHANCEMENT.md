@@ -1,3 +1,15 @@
+# Orange · ring preparation versus shirt assembly
+
+**Orange arc of Book Red · 2026-11-08.** The specialized mailwright supplies elastic self-closing iron rings. [Full two-stage manufacture](SIGIL_CHAINMAIL_RING_FABRICATION.md) leaves the exact flattened profile, yield and tolerances open. The supplier’s eleven-day commission does not replace Kaira’s eight elapsed days of shirt assembly; no resolution of the robe’s weave or new enchantment surcharge follows.
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 > **Live Model 007 current authority — 2026-10-20:** Adds material and weave design intent while keeping physical construction unvalidated and protection unassigned. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

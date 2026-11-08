@@ -61,3 +61,6 @@ CHECKPOINTS/LIVE_MODEL_009B_VALIDATION.json text eol=lf
 
 # Verbatim Book Red source material: retain historical bytes and whitespace.
 PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/** -text -whitespace
+
+# Keep Nov 8 workshop evidence exactly as supplied.
+PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/** -text -whitespace

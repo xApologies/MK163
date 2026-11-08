@@ -1,3 +1,15 @@
+# Orange spelling and continuity checks
+
+**Orange arc of Book Red · 2026-11-08.** Use lowercase raeon in active prose. Preserve literal earlier spelling in archived sources. For Book Red’s Orange first visit, distinguish two promising shop relationships from a paid repair, and the first walk from Nyx’s third return. The prior 13-score floor rule, Green/fourth Tournament result and end-of-Red Ring checks continue unchanged.
+
+[Decision and source boundaries](../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Book Red acceptance checks
 
 **Book Red consolidation · 2026-11-07.** For the four Accord Registry combat roles, apply the selected 13-station floor-of-mean rule at [the role owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md). The prior below-White aggregation question remains OPEN for other professions. The author reconfirmed **fourth / Green**, rejecting Yellow; retain the existing Tournament hard check and no Ring before the end of Red. The shift to **Raeon** and **ELDRIS** casing affects active usage, not historical quotations. No Black Card machinery returns.

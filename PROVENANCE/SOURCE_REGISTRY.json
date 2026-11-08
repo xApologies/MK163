@@ -181,6 +181,18 @@
       "execution_report": "CHECKPOINTS/BOOK_RED_2026_11_07_INTEGRATION.md",
       "author_ruling": "Keep Green/fourth; reject the Yellow change",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_ORANGE_2026_11_08",
+      "filename": "MK163_ORANGE_2026_11_08_EXHAUSTIVE_CODEX_PUSH.zip",
+      "sha256": "052d5e3a684cf4c1ffb61f5b23cb4b64bcd32a0757d37c06b2946a08a86c656c",
+      "baseline": "2992259ffa0cb44f2c70e9040c35feda91f5858b",
+      "source_inventory": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/SOURCE_INDEX.json",
+      "corrections": "PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md",
+      "coverage": "CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md",
+      "validation": "CHECKPOINTS/ORANGE_2026_11_08_VALIDATION.json",
+      "report": "CHECKPOINTS/ORANGE_2026_11_08_INTEGRATION.md",
+      "literal_transcript_complete": false
     }
   ]
 }

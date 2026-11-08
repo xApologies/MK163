@@ -1,3 +1,15 @@
+# November 8 · Orange workshop receipt
+
+**Orange arc of Book Red · 2026-11-08.** Attachment MK163_ORANGE_2026_11_08_EXHAUSTIVE_CODEX_PUSH.zip, 99,149,368 bytes; SHA-256 052d5e3a684cf4c1ffb61f5b23cb4b64bcd32a0757d37c06b2946a08a86c656c. [Per-member inventory](WORKSHOP/ORANGE_ARC_2026_11_08/SOURCE_INDEX.json) distinguishes exact installed texts and user references from external source containers, PDF and concept artwork; the parent package already matches the Nov 7 receipt.
+
+[Decision and source boundaries](ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Book Red source delivery · 2026-11-07
 
 **Book Red consolidation · 2026-11-07.** Attachment MK163_BOOK_RED_CODEX_PUSH_EXHAUSTIVE.zip, SHA-256 771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62, supplied from Downloads. All 15 listed source ZIPs and 11 listed documents verified; their exact containers stay in external staging. [Inventory of every archive, member, content hash and installed path](WORKSHOP/BOOK_RED_2026_11_07/SOURCE_INVENTORY.json) resolves each unique leaf to retained bytes. Prior 009B is referenced by matching hashes. [Current author ruling and source boundaries](BOOK_RED_2026_11_07_DECISIONS.md). Source excerpts and reconstructions do not establish literal transcript completeness.

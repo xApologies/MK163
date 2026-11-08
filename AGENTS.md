@@ -1,3 +1,15 @@
+# Book Red Orange workshop · current scope
+
+**Orange arc of Book Red · 2026-11-08.** Read [November 8 corrections](PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md), [topic coverage](CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md) and the existing Orange arc owner. Use lowercase **raeon** in active prose. The first independent staging visit now has selected events; preserve the former approach as its entry state. Keep figures illustrative where designated; neither a paid repair nor actual street map is supplied. No early Nyx, Sprite, dimensional storage or certification; fourth/Green at Red’s end is unchanged. Treat every original record and render according to its provenance.
+
+[Decision and source boundaries](PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Book Red consolidation · current scope
 
 **Book Red consolidation · 2026-11-07.** Read [the Nov 7 decisions](PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md), [coverage](CHECKPOINTS/BOOK_RED_2026_11_07_COVERAGE.md), and [the seven numbered Book Red arc owners](BOOKS/RED/BOOK_OVERVIEW.md). Preserve prior sources literally. The author rejected Yellow: fourth / Green and no Dimensional Ring before Red’s ending. Use Raeon, abecca, Kaira, Nyx, ru’ne, ELDRIS, aithren and vaelum. Green/fourth Tournament placement and Green Support certification are independent. Preserve 009 retirement and 009B ordinary occupancy; no new Card subsystem, upstream edits, invented chapters, fixed rosters or unselected mathematical laws. Only the scoped updates supersede historical guards against previously unapproved later arcs.

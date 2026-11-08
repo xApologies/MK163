@@ -1,3 +1,15 @@
+# Orange · independent craft work and first return
+
+**Orange arc of Book Red · 2026-11-08.** The completed shirt, confidence in craft and difficulty soliciting strangers lead to two potential subcontracting relationships and independent freight arrangements. Vael’s prejudice despite her visible Awakening provokes genuine anger. Browsing the raeon shop and a voluntary nature detour help her recover. She returns with moss and mineral vaen, without a Ring, Nyx, Sprite, paid invoice or Support credential. See [ARC](../../../BOOKS/RED/ARCS/ARC_002/ARC.md), [KAIRA_AND_VAEL_FIRST_ENCOUNTER](../EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md), [GENESIS_FLORA_FAUNA_AND_VAEN](../../L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md), [SERIES_STATE_AND_EVENT_LEDGER](../../../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md).
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Kaira’s Book Red progression
 
 **Book Red consolidation · 2026-11-07.** Orange: Nyx joins the family. Yellow: the first Black Sprite bond and the Alchemist’s sponsorship. Green: a high-honors Cardsmith graduate, not yet a Master Cardsmith. Blue: creates a purpose-built three-Card kit, earns [Green Support certification](../EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and takes independent contracts. Violet: her first direct native Architect construction is a closed Genesis-energy ring, followed by [the Genesis Robe](../EVENTS/GENESIS_ROBE.md) and vaelum affiliation. White: Green/fourth and the book-ending Ring. These are successive plan states, not Arc 2 possessions, simultaneous basin access or present mastery. See [the Alchemist and Princess](ALCHEMIST_AND_PEOPLES_PRINCESS.md) for the relationships and their independent roles.

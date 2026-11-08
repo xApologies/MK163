@@ -1,3 +1,15 @@
+# Vael · correction to the older rival reference
+
+**Orange arc of Book Red · 2026-11-08.** The first collision mentioned below is at the southeastern **raeon shop**, not outside a smithy. “Blue-ranked” in the earlier text is a historical characterization; the current source establishes a nobleman’s son but leaves precise personal/family rank and Tournament history open. [Vael’s encounter](../EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md) governs. No change to the Alchemist or Princess’s established relationships.
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # The Alchemist and the People’s Princess
 
 ## The Alchemist

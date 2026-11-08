@@ -7,7 +7,7 @@
 | 1 | [Red](ARCS/ARC_001/ARC.md) | Village, Awakening and departure; earlier detailed chapter work retained. |
 | 2 | [Orange](ARCS/ARC_002/ARC.md) | Independence, craft and Nyx joining the family; physical robe reveal at close. |
 | 3 | [Yellow](ARCS/ARC_003/ARC.md) | Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. |
-| 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. |
+| 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal raeon gatherings, challenge coin. |
 | 5 | [Blue](ARCS/ARC_005/ARC.md) | New city, Support exam, first research contract and independent field refinement. |
 | 6 | [Violet](ARCS/ARC_006/ARC.md) | Closed native rings and coupled seams, Crown research and vaelum affiliation. |
 | 7 | [White](ARCS/ARC_007/ARC.md) | King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. |

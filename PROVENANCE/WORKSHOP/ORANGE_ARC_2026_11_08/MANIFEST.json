@@ -1,0 +1,249 @@
+{
+  "package": "MK163_ORANGE_2026_11_08",
+  "date": "2026-11-08",
+  "target_repository": "xApologies/MK163",
+  "current_repository_baseline_commit": "2992259ffa0cb44f2c70e9040c35feda91f5858b",
+  "previous_cumulative_checkpoint_sha256": "771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62",
+  "current_aera_reference_revision": "6f71b068cba3bf7d851041084e7bb90700a0a751",
+  "git_push_completed": false,
+  "is_literal_complete_chat_transcript": false,
+  "is_complete_repeated_git_repository": false,
+  "contains_previous_checkpoint_exactly": true,
+  "cumulative_source_archive_policy": "Previous checkpoint stored unchanged as an archival source; Codex should not reimport original archives into canonical Git tree",
+  "new_decision_topics": [
+    "OR-01",
+    "OR-02",
+    "OR-03",
+    "OR-04",
+    "OR-05",
+    "OR-06",
+    "OR-07",
+    "OR-08",
+    "OR-09",
+    "OR-10"
+  ],
+  "files": [
+    {
+      "path": "CHECKS/ACCEPTANCE_TESTS_AND_BOUNDS.md",
+      "bytes": 6151,
+      "sha256": "dda373c284c9a503ce15aab3a443e1392e7e209198f38c43d566532b038fda2a",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "CHECKS/verify_manifest.py",
+      "bytes": 2693,
+      "sha256": "d3386e03d0d5ae90cd8114ee5d0157ca2b2d33528aec270bed24264a65ecca61",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/01_SETTLEMENT_GEOGRAPHY_ZONING_AND_ACCESS.md",
+      "bytes": 6198,
+      "sha256": "ac39c0b09e435ecceb85b962c6d959d95821d1786a0fc9b24a7a07dc602654a4",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/02_ECONOMIC_PREMIUM_RESOURCES_PRICES_AND_HOUSING.md",
+      "bytes": 5679,
+      "sha256": "ac56f0039d40f86853637490ad7ffab11ded08efa9b85dc27e0daefb0deb343e",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/03_STONE_SIGIL_ARCHITECTURE_ENVIRONMENTAL_INTERIORS.md",
+      "bytes": 6100,
+      "sha256": "a6fef71a5f51502a9b33e24e31948dcc22a2004d854457c43b9d41616c103e6b",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/04_REGISTRY_COMMON_HALL_INNS_RAEON_AND_SHOP_PLAZA.md",
+      "bytes": 6164,
+      "sha256": "261a2e3bae1bd27d02f8e689550e81cad65dee0fcce36c944f7237283d95a170",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/05_SMITHY_MODULES_SOUTHWEST_CRAFTSMEN_PLAZA.md",
+      "bytes": 6407,
+      "sha256": "bd851832fc507ef5f9b88e95c4c2a01301ae9a02ca258b89b2dc077cdeb82699",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/06_ORANGE_VISIT_REGISTRY_SMITHY_SUBCONTRACTING_FREIGHT.md",
+      "bytes": 8836,
+      "sha256": "175708981569c7ad283adaf05b4f65493211e855c1199a0abf03dfe260354617",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/07_VAEL_RAEON_CARD_SHOP_CHARACTER_ARC.md",
+      "bytes": 7033,
+      "sha256": "191b06fb1fd826297ee3c1c6eb6f6ffbb1afc5882d3ad31da114ed398aafc796",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/08_FIRST_NATURE_DETOUR_GENESIS_FROG_MOSS_MINERAL_VAEN.md",
+      "bytes": 7157,
+      "sha256": "f91f843a51cabf72b5569b2fafa60191a0b0faf0b6811af4afffa97b42c5971b",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/09_SIGIL_CHAINMAIL_INGOT_SPOOL_RING_PARALLEL_TRANSDUCTION.md",
+      "bytes": 11687,
+      "sha256": "d4d3bf62c3184ee6911daa13e839e2e6893341f5fc1e573cc2a4ca22f5d419eb",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "DECISIONS/10_RING_COMMISSION_CHRONOLOGY_AND_ARC_EVENT_LEDGER.md",
+      "bytes": 5621,
+      "sha256": "cc40d541c8dcb7cb1bf1c17b9baa387314bd607ffcc4a2b21ccace508dd3188a",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "PROVENANCE/11_CORRECTIONS_SUPERSESSIONS_AND_OPEN_PARAMETERS.md",
+      "bytes": 9128,
+      "sha256": "7b8001318cf76ba25176eccc7ca1e58d2102f279e48b28ad4c1b9465381a7dbd",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "PROVENANCE/12_REPO_TARGET_CHANGE_PLAN.md",
+      "bytes": 6473,
+      "sha256": "aea5ee808dbf2cec77b32450642048502b551c0c7eabd55648d679d726e4b142",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "PROVENANCE/13_AUTHOR_EVIDENCE_SELECTED_VERBATIM.md",
+      "bytes": 17333,
+      "sha256": "1eb2934e0807f6a813a2cf98eebcbc4680827259dde15b14282114d3aac12391",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "PROVENANCE/14_VISUALS_ATTACHMENTS_AND_CANON_STATUS.md",
+      "bytes": 5475,
+      "sha256": "abf33d179783355d7425a1a7aa3e34037dec3a27ba758871001cdff43ec64fb8",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "README_START_HERE.md",
+      "bytes": 6873,
+      "sha256": "1d3f2e393953fb4a610079021149f789478febaed0632dd1a2d84b9a3ff46396",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    },
+    {
+      "path": "SOURCE_ARCHIVES/Elevators.pdf",
+      "bytes": 92900,
+      "sha256": "9b5fcb86be072310e3d34b9cb2396158c23686807adef17086db99ddc322b88a",
+      "semantic_status": "user_supplied_canonical_ground_city_only_pdf"
+    },
+    {
+      "path": "SOURCE_ARCHIVES/MK163_AERA_CHIRALITY_TOPOLOGY_MINI_CHECKPOINT_2026-11-08.md",
+      "bytes": 12150,
+      "sha256": "24f074f501bcec08bd200238113b0eaf683470489efeef22188531db72516dea",
+      "semantic_status": "separate_future_aera_reconciliation"
+    },
+    {
+      "path": "SOURCE_ARCHIVES/MK163_AERA_CHIRALITY_TOPOLOGY_MINI_CHECKPOINT_2026-11-08.zip",
+      "bytes": 6006,
+      "sha256": "46e9ec4f09f0d024afad1eba5b9d274be97956bae79ea1444ac0955aa978428d",
+      "semantic_status": "separate_future_aera_reconciliation"
+    },
+    {
+      "path": "SOURCE_ARCHIVES/MK163_BOOK_RED_CODEX_PUSH_EXHAUSTIVE.zip",
+      "bytes": 64650400,
+      "sha256": "771e2ab681dbdddc762e935b7d3c7230c08b6c0184e1d9f641605c060d539f62",
+      "semantic_status": "archival_previous_checkpoint_already_integrated"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SELECTED_CONCEPTS/a_highly_detailed_cinematic_realistic_fantasy_sm.png",
+      "bytes": 3016305,
+      "sha256": "a9cb781a20ac605fbd926c17604eb1a271bf7d6ad965c945ed255003d093d74f",
+      "semantic_status": "clean_reduced_smithy_concept"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SELECTED_CONCEPTS/accord_registry_atrium.png",
+      "bytes": 3511694,
+      "sha256": "4656225c61d924b46993118f0a03520a17a011685a34b96f2ab30006d72850dd",
+      "semantic_status": "alternative_registry_concept_not_literal_map"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SELECTED_CONCEPTS/accord_registry_hall_of_light.png",
+      "bytes": 3269459,
+      "sha256": "3026816932d255cb7f2d8b13710c1fe2e36886a30f5a7289e8e136b29183a112",
+      "semantic_status": "alternative_registry_concept_not_literal_map"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SELECTED_CONCEPTS/smiths_court_three_masterworks.png",
+      "bytes": 3152867,
+      "sha256": "ad90f47be56cacac7b7d696d2e218a9b1c174a94fd02a7e6938ef131f7a305eb",
+      "semantic_status": "large_three_bay_smith_row_concept"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SELECTED_CONCEPTS/sunlit_arcades_of_three_master_smithies.png",
+      "bytes": 3422475,
+      "sha256": "70d34271c803545f6431ec7a451f68a32d13e9cdc5807c702f7d6cf7d4a522e7",
+      "semantic_status": "alternate_large_three_bay_smith_row_concept"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SUPERSEDED_EXPLORATIONS/a_highly_detailed_cinematic_cartographic_infograp.png",
+      "bytes": 3989922,
+      "sha256": "a268bf08dab9066295be2c8b851d4dae91e65cb9e54786fec1d4d4106fee5d30",
+      "semantic_status": "rejected_wrong_scale_and_zoning_map"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SUPERSEDED_EXPLORATIONS/a_highly_detailed_cinematic_fantasy_aera_genesis.png",
+      "bytes": 3477665,
+      "sha256": "29acba8f601a807f2663618e9a16aa51c731c4430c17f39be18e24b4bdf7dc08",
+      "semantic_status": "rejected_huge_smithy_holographic_display"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SUPERSEDED_EXPLORATIONS/a_highly_detailed_cinematic_ultra_realistic_fant.png",
+      "bytes": 3009895,
+      "sha256": "3f9e77c2901b7395a0469cffa8c5b0bf72b70b3ab6ab624ae0fe09893e39b079",
+      "semantic_status": "rejected_small_repetitive_smiths"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/SUPERSEDED_EXPLORATIONS/smiths_row_four_grand_arcades.png",
+      "bytes": 3346649,
+      "sha256": "2ab707b989f07af6a346677fca93f143a162cc1d79f73a17c430230b9b284cd5",
+      "semantic_status": "rejected_four_narrow_identical_shop_bays"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/474198A8-BAA3-41A5-AABF-20D7D5B0AF9B.jpeg",
+      "bytes": 872911,
+      "sha256": "2ad59ababc7e1c10caefd8940db1e56eae08eacb413a504b5d0fd4d83584ec7c",
+      "semantic_status": "user_selected_inn_interior"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/5E8AC18A-3BF0-4853-945F-D80526D61160.jpeg",
+      "bytes": 1011852,
+      "sha256": "56de21967b5cfcc494651d4356380225ae7b130d1a150df79364b7cc34119170",
+      "semantic_status": "user_selected_accord_registry_interior"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/6529DAB0-6835-492B-95C0-FD2C36DAD6E2.jpeg",
+      "bytes": 409261,
+      "sha256": "e76ae9a64409df4d07fe3f1ff725d1c9701d18c24f7c1b14c6b1d16e29a88c6c",
+      "semantic_status": "user_illustrative_warning_frog"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/716C7CD3-18BF-404F-90E3-58BF45A966F2.jpeg",
+      "bytes": 827569,
+      "sha256": "cae6d5e57e20928589a08f1445ba1fd09075bf708a999a49f295d505aba61683",
+      "semantic_status": "user_selected_smith_row_three_front_reference"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/7B28C14C-E96C-471F-B236-3D4B7DD6A7CA.jpeg",
+      "bytes": 757221,
+      "sha256": "fc91fb102bb362b8f93d2569ffc94264d3f23d3b1cf8553603d5ca3f8fc06323",
+      "semantic_status": "user_selected_smith_row_perspective_reference"
+    },
+    {
+      "path": "VISUAL_EVIDENCE/USER_REFERENCES/IMG_7023(1).jpeg",
+      "bytes": 242307,
+      "sha256": "10ca6a219827a29f78372b1fe83bde6aa93fd61daf034792fc28c4ab44fced12",
+      "semantic_status": "user_staging_layout_working_not_scale_map"
+    },
+    {
+      "path": "executable.md",
+      "bytes": 10110,
+      "sha256": "6b31b701cc29aea52a12c79f7d5568c8163fb35f3de2a6845dcc618841d44f2b",
+      "semantic_status": "detailed_source_record_or_validation_instruction"
+    }
+  ]
+}

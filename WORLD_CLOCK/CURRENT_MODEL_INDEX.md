@@ -1,3 +1,26 @@
+# Current owners · Orange workshop
+
+**Orange arc of Book Red · 2026-11-08.** This update concerns the second arc of Book Red, not Book Orange or a new AERA integration. [Coverage and source register](../CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md).
+
+- [OR-01 · Violet Dungeon staging settlement: geography, zoning and access](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
+- [OR-02 · Staging economy: 1.3–1.7 locality premium, resource wealth, repair markets](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+- [OR-03 · Civic architecture: stone, spatial locking, lighting, water, greenery, sigil flame](L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md)
+- [OR-04 · Accord Registry public halls, inn interiors, civic daily life and amenities](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md)
+- [OR-05 · Smithy architecture: standard-depth modular bays, two tiers, horizontal growth](L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+- [OR-06 · Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [OR-07 · First Vael conflict at neighboring abecca/raeon shops](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md)
+- [OR-08 · First return journey: animal path, warning-color frog, moss and mineral vaen](L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md)
+- [OR-09 · Full manufacturing model: ingot → spool → flat chainmail rings, parallel sigil stations](L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_CHAINMAIL_RING_FABRICATION.md)
+- [OR-10 · Chronology and state ledger: Red Book Orange, shop day, ring pickups, Nyx boundary](../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md)
+
+[Decision and source boundaries](../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Current owners · Book Red and the Accord Registry
 
 **Book Red consolidation · 2026-11-07.** Current 2026-11-07 consolidation on the 009B baseline. See [the seven Book Red arcs](../BOOKS/RED/BOOK_OVERVIEW.md), [author decisions and supersessions](../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md), and [source and topic coverage](../CHECKPOINTS/BOOK_RED_2026_11_07_COVERAGE.md). The author retains fourth / Green and rejects the Yellow Tournament proposal. Prior retirement, unrelated canon and provenance continue to govern.

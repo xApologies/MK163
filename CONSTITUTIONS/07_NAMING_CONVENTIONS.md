@@ -1,3 +1,15 @@
+# Current game spelling and working character name
+
+**Orange arc of Book Red · 2026-11-08.** Use **raeon**, lowercase even at the beginning of a sentence, for the existing game. Use **abecca**, **vaen**, **maege/maegi**, **aithren**, **vaelum**, **ru’ne**, **ELDRIS**, **Kaira**, **Nyx** and **Vael**. Vael (V-A-E-L) is a working author-selected name, not evidence of a verified family name or house rank. The previous November 7 title-case convention below is superseded only for the game. Literal source quotations, titles, and historical records stay unchanged.
+
+[Decision and source boundaries](../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
 # Book Red naming decisions
 
 **Book Red consolidation · 2026-11-07.** Use **Raeon** for the game, **ELDRIS** for the hostile name, **abecca** for the bean/drink, **Kaira**, **Nyx**, **Black Sprite** (they/them), **aithren** for an individual and **vaelum** for an independent organization. The **Accord Registry** is a Crown institution, not a vaelum. Use **Helkir** as the examination role title; helkir remains the protected practitioner term. Preserve **maege/maegi**, **ru’ne**, **aen** versus **Ain**. Natural ru’ne/sigils and engineered physical inscriptions retain their 009B distinction. Chainmail Robe is the physical invention; Genesis Robe is native energy architecture. Scope this casing correction to current usage; original quotations and source documents retain their literal spellings.

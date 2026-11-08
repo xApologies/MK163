@@ -1,0 +1,304 @@
+{
+  "rows": [
+    {
+      "id": "OR-01",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md",
+      "before": "The 2×2 working footprint, north-offset entrance, five-mile separation and NW/NE residences already existed. The southern land uses were less specific and a scaled map was unavailable.",
+      "after": "Fix SW crafts/markets and SE hospitality/shops; retain distinct main city, NW/NE residence options and unmeasured author-owned cartography.",
+      "evidence": [
+        "A08-001",
+        "A08-002"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/01_SETTLEMENT_GEOGRAPHY_ZONING_AND_ACCESS.md",
+      "source_sections": [
+        "Identity and geometry",
+        "Author-corrected zoning (current)",
+        "Housing and length of stay",
+        "Land use and community character",
+        "Author-supervised cartography boundary"
+      ],
+      "required": [
+        "2 miles × 2 miles",
+        "approximately five miles",
+        "**Southwest**",
+        "**Southeast**",
+        "north-offset",
+        "not a scale-accurate street map"
+      ]
+    },
+    {
+      "id": "OR-02",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+      "before": "The city had equipment averages, ordinary shirt component costs and a separate negotiated ring commission. Earlier locality premiums were contextual, not this broad comparative range.",
+      "after": "Apply 1.3–1.7× comparable city pricing and damage-inspected 0.9× subcontract rate; retain illustrative vs binding figures, costs, wealth, housing and no wage/profit guarantee.",
+      "evidence": [
+        "A08-001",
+        "A08-003",
+        "A08-004",
+        "A08-010"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/02_ECONOMIC_PREMIUM_RESOURCES_PRICES_AND_HOUSING.md",
+      "source_sections": [
+        "Relative economic levels",
+        "Dungeon-generated purchasing power and consumption",
+        "Existing armor economy — do not invent replacements",
+        "Kaira's commercial offer"
+      ],
+      "required": [
+        "1.3–1.7 × C",
+        "0.9 ×",
+        "50 eln",
+        "110 eln",
+        "180 eln",
+        "200 eln",
+        "120 eln",
+        "NOT net profit",
+        "100 eln"
+      ]
+    },
+    {
+      "id": "OR-03",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md",
+      "before": "Engineered stone, sigils, generation/dissolution, and temporary velis existed. The Orange interior, after-hours threshold and lighting/heat choices were not established together.",
+      "after": "Add maintained stone, open commercial fronts/barriers, layered maege lights, balanced water/dissolution, smokeless sigil heat and flora; omit invented controls/automatic cleaning.",
+      "evidence": [],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/03_STONE_SIGIL_ARCHITECTURE_ENVIRONMENTAL_INTERIORS.md",
+      "source_sections": [
+        "Materials and architectural grammar",
+        "Maege lights and ambiance",
+        "Water generation and dissolution",
+        "Sigil fireplace",
+        "Building security and open entrances",
+        "Socially inhabited, not showroom sterile",
+        "Source ownership boundary"
+      ],
+      "required": [
+        "maege lights",
+        "dissolution field",
+        "no burning wood",
+        "private residences",
+        "barrier"
+      ]
+    },
+    {
+      "id": "OR-04",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+      "before": "The Crown Registry already recognized practitioners, administered four exams and coordinated contracts. The Orange craft posting, freight referral and selected hall/inn references are new uses.",
+      "after": "Extend existing Crown duties with social hall and independent craft postings/referrals. Inns, premium suites and adjacent shops are bounded illustrations or selections as marked.",
+      "evidence": [
+        "A08-003",
+        "A08-005",
+        "A08-007",
+        "A08-008"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/04_REGISTRY_COMMON_HALL_INNS_RAEON_AND_SHOP_PLAZA.md",
+      "source_sections": [
+        "Accord Registry: Crown institution and social space",
+        "Preferred Registry interior image",
+        "Inns, taverns, hotels and residences",
+        "The southeast commercial area",
+        "City/settlement culture and environmental identity"
+      ],
+      "required": [
+        "community gathering place",
+        "independent freight",
+        "11 to 20-something rooms",
+        "four stories",
+        "directly adjacent"
+      ]
+    },
+    {
+      "id": "OR-05",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+      "before": "City Rows already had two-tier recessed promenades, no overhang, several smithing families and an OPEN tenant count. Staging shops are not the elite city Rows.",
+      "after": "Add 1/2/3 adjoining bays, 30–40 ft depth and 40/20/20 recessed example; keep sizes distinct from frontage, actual tenants, names and alternate images.",
+      "evidence": [
+        "A08-002",
+        "A08-004"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/05_SMITHY_MODULES_SOUTHWEST_CRAFTSMEN_PLAZA.md",
+      "source_sections": [
+        "Where and what the businesses are",
+        "Horizontal bays, open to the street",
+        "Two-story terrace relationship",
+        "Correct functional aesthetic: smiths as conductors of matter",
+        "Visual status and names",
+        "Relation to Kaira"
+      ],
+      "required": [
+        "30–40 feet",
+        "three adjoining bays",
+        "~40 feet",
+        "~20 feet",
+        "NO OVERHANG",
+        "two facing rows"
+      ]
+    },
+    {
+      "id": "OR-06",
+      "owner": "BOOKS/RED/ARCS/ARC_002/ARC.md",
+      "before": "Arc 2 stopped at Kaira approaching with her shirt, backpack and lunch. Old guards forbade inventing a customer or sale. The delivery now selects the visit but still no paid job.",
+      "after": "Continue the approach: sandwich/abecca; Registry notice and awkward solicitation; two refusals, third interested, one additional contact; independent round-trip freight.",
+      "evidence": [
+        "A08-003",
+        "A08-004",
+        "A08-005",
+        "A08-006",
+        "A08-007"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/06_ORANGE_VISIT_REGISTRY_SMITHY_SUBCONTRACTING_FREIGHT.md",
+      "source_sections": [
+        "State arriving at the settlement",
+        "First abecca and sandwich",
+        "Accord Registry initial visit: service posting and awkward outreach",
+        "Southwest artisans / first smith contacts",
+        "Business structure, quotations and risk",
+        "Freight problem and solution",
+        "Departure after the day's business"
+      ],
+      "required": [
+        "completed shirt",
+        "sandwich and abecca",
+        "First smithy",
+        "Second smithy",
+        "Third smithy",
+        "two meaningful smithy contacts",
+        "independent commercial logistics",
+        "first commercial transaction"
+      ]
+    },
+    {
+      "id": "OR-07",
+      "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md",
+      "before": "The Nov 7 Alchemist/Princess file actually mentioned a Blue-ranked rival and an outside-smithy collision. Other historical material proposed the Village Hub. None is a second first meeting.",
+      "after": "Place Vael and his two friends at the southeastern raeon shop. Two undamaged dropped Cards, Afflicted prejudice, Kaira’s anger, recovery and no purchase. Name is working; precise rank unconfirmed.",
+      "evidence": [
+        "A08-007",
+        "A08-008",
+        "A08-009",
+        "A08-010"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/07_VAEL_RAEON_CARD_SHOP_CHARACTER_ARC.md",
+      "source_sections": [
+        "Character identity and source validation boundary",
+        "Shop geography and doors",
+        "The accident — precise beat sequence",
+        "Character relationships and future seven-book scope",
+        "Emotional arc and limits",
+        "Source and naming corrections"
+      ],
+      "required": [
+        "two friends",
+        "two Cards",
+        "Both Cards are dropped",
+        "undamaged",
+        "genuine anger",
+        "NOT to purchase",
+        "Afflicted"
+      ]
+    },
+    {
+      "id": "OR-08",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "before": "Genesis-adapted life and naturally occurring vaen were already distinct. The earlier Nyx discovery concerns the third return; no first frog/moss/stone excursion was locked.",
+      "after": "First return: 15–20 min on fauna trail, warning-display frog as indicator, moss and distinct green mineral vaen, full backpack, mentally marked site; no sale, mushroom repeat or Nyx.",
+      "evidence": [
+        "A08-011",
+        "A08-012",
+        "A08-013",
+        "A08-014",
+        "A08-015"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/08_FIRST_NATURE_DETOUR_GENESIS_FROG_MOSS_MINERAL_VAEN.md",
+      "source_sections": [
+        "Why Kaira detours",
+        "The frog — ecological indicator, NOT vaen",
+        "The moss and mineral site",
+        "Harvesting and departure",
+        "Nyx chronology boundary",
+        "Narrative emotional throughline"
+      ],
+      "required": [
+        "15–20 minutes",
+        "frog itself is NOT vaen",
+        "mineral nodules are the identity-bearing vaen",
+        "fills the available space",
+        "mentally marks",
+        "third dungeon-related return"
+      ]
+    },
+    {
+      "id": "OR-09",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_CHAINMAIL_RING_FABRICATION.md",
+      "before": "The specialized rings, supplier, base price and commission duration existed; materials and topology remained bounded. The two constrained sigil stations and supervised parallel operation are new.",
+      "after": "Preserve both manufacturing steps including coil separation and undefined flattening, journeyman operation, three parallel Stage 1 tables as example, bounded throughput and OPEN T₁/T₂/R/N₂.",
+      "evidence": [
+        "A08-016",
+        "A08-017",
+        "A08-018",
+        "A08-019",
+        "A08-020",
+        "A08-021"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/09_SIGIL_CHAINMAIL_INGOT_SPOOL_RING_PARALLEL_TRANSDUCTION.md",
+      "source_sections": [
+        "Prior repository manufacturing facts (preserve)",
+        "Source intent: physical inspiration, not traditional manual chainmail forging",
+        "Stage 1: ingot-to-wire spool (wire sigil)",
+        "Stage 2: wire spool to split/flattened ring batch (ring sigil)",
+        "Shop operation: journeyman, not one-by-one master work",
+        "Parallel station scheduling — computer render-farm analogy",
+        "Capacity arithmetic and interval definitions",
+        "Relation to source mathematics and materials",
+        "Why this matters narratively"
+      ],
+      "required": [
+        "300,000",
+        "wire spool",
+        "phase-field projection",
+        "tight helical/spiral coil",
+        "flattened chainmail rings",
+        "qualified journeyman",
+        "three separate",
+        "T₁",
+        "T₂",
+        "R × min",
+        "27,272.727"
+      ]
+    },
+    {
+      "id": "OR-10",
+      "owner": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "before": "Day 3/6/9/11 pickups, eight elapsed shirt days, Orange Nyx and later book/arc anchors existed. The first staging day ended at the approach in earlier accounts.",
+      "after": "Record supplier work versus Kaira’s own shirt labor, selected first-day event order and material custody; protect third-return Nyx, Yellow Sprite, later Violet garment and White Ring.",
+      "evidence": [
+        "A08-001",
+        "A08-006",
+        "A08-007",
+        "A08-010",
+        "A08-011",
+        "A08-015",
+        "A08-019",
+        "A08-021"
+      ],
+      "source": "PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/DECISIONS/10_RING_COMMISSION_CHRONOLOGY_AND_ARC_EVENT_LEDGER.md",
+      "source_sections": [
+        "Fixed prior ring commission sequence",
+        "Material custody and business distinction",
+        "Narrative parallel activities",
+        "Event ownership and no-loss guards"
+      ],
+      "required": [
+        "~3",
+        "~6",
+        "~9",
+        "~11",
+        "80,000",
+        "eight elapsed days",
+        "fourth / Green",
+        "third dungeon-related return"
+      ]
+    }
+  ],
+  "baseline": "2992259ffa0cb44f2c70e9040c35feda91f5858b"
+}
