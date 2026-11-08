@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "repository": "MK163",
+  "baseline": "4e7a340b3b6c5dd5e9931239988eb71e3f53288d",
+  "source_archive_sha256": "8641541ebdbe3f0cc7e1f7039be32ce108c4d70907aefd4413742e6c1c51d4ed",
+  "archive_bytes": 13064,
+  "manifest_hashes_checked": 6,
+  "members_including_manifest": 7,
+  "scoped_original_files_exact": 5,
+  "baseline_files_preserved": 585,
+  "prior_files_unchanged": 579,
+  "modified": 6,
+  "added": 7,
+  "deleted": 0,
+  "topics": [
+    {
+      "scope": "Formation in White; two distinct events",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Examples, conditional substrates and supersessions",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Interpretive realm emphasis and bounds",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Prophecy boundary and unresolved questions",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "status": "PASS"
+    },
+    {
+      "scope": "Red native assignment remains MK163-specific",
+      "owner": "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+      "status": "PASS"
+    }
+  ],
+  "unchanged_scope_guards": [
+    "WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/RED_DRAGONS.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "BOOKS/RED/ARCS/ARC_001/ARC.md",
+    "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md"
+  ],
+  "changed_paths": [
+    "CHECKPOINTS/VAEN_DUAL_2026_11_08_INTEGRATION.md",
+    "CHECKPOINTS/VAEN_DUAL_2026_11_08_VALIDATION.json",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/01_MK163/01_VAEN_TWO_STAGE_MODEL.md",
+    "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/01_MK163/02_REALM_AND_PROPHECY_PATH.md",
+    "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/03_AUDIT/REPO_BASELINES_AND_SCOPE.md",
+    "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/executable.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md"
+  ],
+  "literal_transcript_complete": false,
+  "publication": "Pre-publication validation. Live commit verification is reported after the normal push."
+}

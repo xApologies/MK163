@@ -1,0 +1,6 @@
+# Verified live GitHub baselines before Codex work — 2026-11-08
+- MK163 `xApologies/MK163` main: `4e7a340b3b6c5dd5e9931239988eb71e3f53288d` (Orange staging economy, Vael encounter, sigil ring fabrication).
+- AERA `xApologies/AERA` main: `6f71b068cba3bf7d851041084e7bb90700a0a751` (Genesis Mines oscillation/equilibrium).
+- Read AERA `L1/OPERATIONS.md`, `L2/ALCHEMY_VAEN.md`, `L2/BIOLOGY/00_READ_FIRST.md`, `L2/BIOLOGY/07_VAELITH_PROPHECY_CROSSWALK.md`, `CONCEPTS/08_CROSSWALK.md`, `PROPHECIES.md`, `CONCEPTS/00_READ_FIRST.md`, `CONCEPTS/05_COVENANT_GARDENS.md`, `CONCEPTS/06_LIVING_ART.md`; read MK163 `WORLD_CLOCK/L1_FANTASY/OPERATIONAL_DOMAINS.md`, `WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md`, `WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md`, Orange vaen ecology and resource owners. GitHub references are source snapshots, not files duplicated into this ZIP.
+- Scope is two repositories only; no changes to MK147, MK231, MK727, _raeon or mathematical-physics AERA upstream repositories.
+- The original full chat transcript is not available as a downloadable source in this turn. These records are detailed author-decision recovery from the available conversation and verified repository sources, **not a verbatim exhaustive transcript**. Do not claim otherwise.

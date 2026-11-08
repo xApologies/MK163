@@ -1,3 +1,9 @@
+## November 8 vaen decision · resource and realm owners
+
+[What makes an item vaen](L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) · [Biological and mineral examples](L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md) · [Interpretive realm and prophecy crosswalk](L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md) · [Integration record and scope](../CHECKPOINTS/VAEN_DUAL_2026_11_08_INTEGRATION.md). Existing Orange arc chronology and framework owners continue below.
+
+---
+
 # Current owners · Orange workshop
 
 **Orange arc of Book Red · 2026-11-08.** This update concerns the second arc of Book Red, not Book Orange or a new AERA integration. [Coverage and source register](../CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md).

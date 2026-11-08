@@ -193,6 +193,16 @@
       "validation": "CHECKPOINTS/ORANGE_2026_11_08_VALIDATION.json",
       "report": "CHECKPOINTS/ORANGE_2026_11_08_INTEGRATION.md",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_AERA_VAEN_DUAL_2026_11_08",
+      "baseline": "4e7a340b3b6c5dd5e9931239988eb71e3f53288d",
+      "archive_sha256": "8641541ebdbe3f0cc7e1f7039be32ce108c4d70907aefd4413742e6c1c51d4ed",
+      "source_manifest": "PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/MANIFEST.json",
+      "coverage": "CHECKPOINTS/VAEN_DUAL_2026_11_08_INTEGRATION.md",
+      "validation": "CHECKPOINTS/VAEN_DUAL_2026_11_08_VALIDATION.json",
+      "interpretive_path_not_l0": true,
+      "literal_transcript_complete": false
     }
   ]
 }

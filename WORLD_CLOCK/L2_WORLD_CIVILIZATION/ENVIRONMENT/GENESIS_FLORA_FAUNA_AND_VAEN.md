@@ -1,3 +1,23 @@
+## Expression in an ecosystem versus a vaen identity
+
+A Stage 1 organism or mineral need not carry a Stage 2 identity. One or two mushrooms in an expressive patch may become vaen while their neighbors do not. [The resource owner](../TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) defines both events and optional later uses. These examples describe the substrate and what changes; they are not new encounters.
+
+- **Red Arc fungus:** special mushroom resource in Kaira's Awakening Potion. Model: fungal Genesis expression followed by identity-bearing vaen formation; do not invent a new potion recipe or assert all mushrooms in a patch share the same identity.
+- **Flowers:** established natural vaen category; particular blossoms may undergo second-stage identity realization.
+- **Orange Arc:** Kaira's first return from the Violet Dungeon staging settlement, distinct from later Nyx adoption. Moss is under Genesis expression; translucent green mineral nodules embedded in/beneath it are **mineral vaen**, not Genesis crystals. The moss and mineral conditions interact in a localized ecology; exact causal microscopic field mechanics remain open. Her warning-color frog is Genesis-expressive fauna and **not itself vaen**.
+- **Specialized seeds:** environment-grown or environment-realized seeds can become vaen after the second event; not all seeds.
+- **Tree:** an entire Genesis-expressive tree can itself become vaen; alternatively bark, leaves, sap/resin, or hardened amber-like products can acquire the second-stage identity. This supersedes an earlier suggestion to categorically exclude entire trees. Ordinary roots/nodules were initially rejected as a preferred example, not established as a universal impossibility.
+- **Fauna:** a deer may undergo Genesis expression, and its **antlers** can separately acquire identity-bearing vaen geometry. This supersedes the earlier broad dismissal of scales/feathers/antlers; a naturally shed or retained component may qualify where the second event is established. Do not assume the whole deer becomes a harvestable item or that the animal must be killed.
+- **Shells:** tentative permissible example, not a guaranteed category.
+- **Mineral concretions, deposits, nodules, stones:** permitted vaen after second-stage identity formation, including Orange Arc stones.
+- **Natural glass:** a lightning–sand event with Genesis environmental interaction may produce glass that subsequently bears a vaen identity; no claim that all lightning strikes make vaen.
+- **Mineralized wood/fossils:** re-admitted as conditional possibilities after earlier 50/50 discussion and provisional rejection. They may capture a Genesis interaction and later an identity-bearing geometry; not all fossils qualify.
+- **Lichen:** more naturally classified as Genesis expression, not selected as a vaen example in this workshop. This is preference, not a physical prohibition.
+
+The fungus example does not change the original Awakening inventory, potion or unresolved future use of the special black mushroom. The first Orange frog/moss/mineral excursion and the third-return adoption of Nyx remain distinct. See [Original evidence and scene boundaries](../../../PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/01_MK163/01_VAEN_TWO_STAGE_MODEL.md).
+
+---
+
 # OR-08 — First return journey: animal path, warning-color frog, moss and mineral vaen
 
 **Orange arc of Book Red · 2026-11-08.** ## Why Kaira detours

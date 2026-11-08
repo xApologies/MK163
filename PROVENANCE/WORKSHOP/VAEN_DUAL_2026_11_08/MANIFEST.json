@@ -1,0 +1,39 @@
+{
+  "package": "MK163_AERA_VAEN_DUAL_2026_11_08",
+  "repos": {
+    "MK163": "4e7a340b3b6c5dd5e9931239988eb71e3f53288d",
+    "AERA": "6f71b068cba3bf7d851041084e7bb90700a0a751"
+  },
+  "files": [
+    {
+      "path": "01_MK163/01_VAEN_TWO_STAGE_MODEL.md",
+      "bytes": 6011,
+      "sha256": "a0a615e8559b435dd96c020764d851087c2985c08be68e579a401884ba192134"
+    },
+    {
+      "path": "01_MK163/02_REALM_AND_PROPHECY_PATH.md",
+      "bytes": 4222,
+      "sha256": "6d4ee0f4df0bc12f4f789265643cde29190c64974174bd3aba3c64d20410337c"
+    },
+    {
+      "path": "02_AERA/01_VAEN_FRAMEWORK_UPDATE.md",
+      "bytes": 4323,
+      "sha256": "70325946d4cb4f3692e15b6704a62a2066bfe83732c7588b08b4d06d10c0e704"
+    },
+    {
+      "path": "02_AERA/02_RED_REALM_ELEMENTAL_TRANSDUCTION_CORRECTION.md",
+      "bytes": 3255,
+      "sha256": "6d882759b568cca3a252241bbd6539251f3acd37b7d5e8099618fc8f8ac3e09e"
+    },
+    {
+      "path": "03_AUDIT/REPO_BASELINES_AND_SCOPE.md",
+      "bytes": 1294,
+      "sha256": "20f531d658f3c0acef30dad634eb442898bd1d981b062bc656587bb13a70d94f"
+    },
+    {
+      "path": "executable.md",
+      "bytes": 4907,
+      "sha256": "4fe9ec569f6ee0894e7f18a90aef7884f7cdc7982e864140f6489dfad28a4d3d"
+    }
+  ]
+}

@@ -100,3 +100,7 @@ Current MK163 interpretation lives in the detailed World Clock topic files. Sour
 ## Delta 004 integration — 2026-10-15
 
 [Delta 004 source register](DELTA_004_UPSTREAM_AND_COVERAGE.md) records package-declared upstream revisions and scoped MK163 selections. [Delta 004 evidence register](DELTA_004_EVIDENCE_REGISTER.md) indexes the new original PDF, complete page-numbered text and seven original JPEGs with integrity data and association limits. [The correction ledger](DELTA_004_CORRECTIONS_AND_BOUNDARIES.md) and [machine-readable import report](DELTA_004_IMPORT_REPORT.json) track this integration without duplicating the unchanged corpora. The original source registry, attachments and 67 author evidence passages remain unchanged; no new raw conversation transcript was supplied.
+
+## Dual vaen workshop · November 8, 2026
+
+Package SHA-256 8641541ebdbe3f0cc7e1f7039be32ce108c4d70907aefd4413742e6c1c51d4ed. [Original delivery inventory](WORKSHOP/VAEN_DUAL_2026_11_08/MANIFEST.json); [MK163 integration, source coverage and boundaries](../CHECKPOINTS/VAEN_DUAL_2026_11_08_INTEGRATION.md). The two MK163 decision files are preserved exactly here; the two AERA-only records are integrated separately in AERA.

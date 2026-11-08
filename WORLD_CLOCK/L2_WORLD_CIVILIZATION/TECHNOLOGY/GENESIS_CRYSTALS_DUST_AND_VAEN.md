@@ -1,3 +1,24 @@
+## Formation of natural vaen · November 8, 2026
+
+**Established MK163 resource model.**
+
+Use protected lower-case **vaen** (dictation: vein, vane, Vane). A vaen is a naturally occurring item or a specific part of an item which, following an initial Genesis expression, undergoes a **secondary Genesis evolutionary event** realizing a **specialized identity-bearing geometry**. This is not equivalent to high energy concentration, a generic glowing object, a Genesis crystal, Genesis Dust, a newly discovered chemical element, or a standard alchemical Type 2–5 material. The secondary identity is distinct from the first-stage expression. Genesis 'evolution' is a structural/environmental development and need not mean Darwinian speciation or inheritance across generations.
+
+**Stage 0 — native material existence in White:** fungus, flower, tree, seed, animal, mineral, shell, resin, naturally formed glass, fossil/mineralized wood, etc. Ordinary matter participates in the White Realm's superposed existence.
+
+**Stage 1 — Genesis expression:** localized environmental geometry/pressure and field interaction alter an item's organization or properties. Genesis-expressive organisms can be adapted or dependent under the inherited biological classification. A whole fungal patch may express Genesis, yet none of its mushrooms need be vaen. Glow is neither required nor sufficient.
+
+**Stage 2 — vaen realization:** a second Genesis-field interaction/evolution, within admissible environmental geometry, yields a particular identity-bearing structure in an entire item or a localized part. One or two mushrooms in a larger expressive patch may acquire vaen identities. The acquired geometry is specialized to the item, but comparable identities can recur under comparable conditions; not every vaen is unique worldwide, rare, or valuable.
+
+The framework does **not** require a person to perform a Binding or a sigil operation to create natural vaen. Binding Circles may later select compatible identities from suitable vaen, but are not the universal creation mechanism.
+
+## Identity, use and economy
+A vaen can bear one or multiple compatible identities. Material substrate and acquired identity are separate descriptive dimensions. Applications include alchemy and optional Binding identity selection; don't invent universal prices, a catalog of powers, mass-to-energy conversion, or guaranteed recipes. Some resources are common and environmentally renewable, others exceptional. Identity geometry may be distributed across an entire organism or concentrated in a component. Do not conflate the Green appearance of Orange Arc mineral nodules with a compulsory Green-basin provenance.
+
+[Substrates and conditional examples](../ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md) · [Interpretive realm and prophecy pathway](../REALMS/SEVEN_REALMS.md) · [Author decision](../../../PROVENANCE/WORKSHOP/VAEN_DUAL_2026_11_08/01_MK163/01_VAEN_TWO_STAGE_MODEL.md). Crystal prices, dust, diamond reserves and the Type 1–5 material classification below keep their existing scope.
+
+---
+
 > **Live Model 006 current authority — 2026-10-19:** Routes the new material prices to their single owner; other commodity unknowns remain. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration
