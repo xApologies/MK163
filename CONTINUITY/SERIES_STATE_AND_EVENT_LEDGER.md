@@ -1,3 +1,15 @@
+# Orange timeline · commission Day 0 through Day 39
+
+[Current running day ledger](ORANGE_RUNNING_DAY_LEDGER.md) owns elapsed days and visit order. Day 12: first staging visit; unranked listing deferred, two private smithy contacts and separate freight referral. Vaeryn warning; three mineral vaen on the first return. Day 26: second visit, first eleven repairs approved, third smithy joins, White Chainmail Armorsmith after appraisal and practical. Day 39: third visit, backpack without shirt; finds the dead mother and rescues Nyx. Completion of the physical robe remains undated. Earlier approximate Day 13/14 visit and unassigned third-visit day are superseded.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-10 — Chronology and state ledger: Red Book Orange, shop day, ring pickups, Nyx boundary
 
 **Orange arc of Book Red · 2026-11-08.** ## Fixed prior ring commission sequence

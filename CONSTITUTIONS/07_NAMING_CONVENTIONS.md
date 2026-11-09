@@ -1,3 +1,15 @@
+# Vaeryn and Registry badge terminology
+
+**Vaeryn** (V-A-E-R-Y-N, VAY-rin) is the species; **Nyx** is the individual cub. **Sigilcraft** is the approved fifth family. **Craftsmanship** is Kaira’s badge family and **White Chainmail Armorsmith** is her specialization/rank. Preserve lowercase vaen, aen, raeon, abecca, eln, and literal source quotations.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # Current game spelling and working character name
 
 **Orange arc of Book Red · 2026-11-08.** Use **raeon**, lowercase even at the beginning of a sentence, for the existing game. Use **abecca**, **vaen**, **maege/maegi**, **aithren**, **vaelum**, **ru’ne**, **ELDRIS**, **Kaira**, **Nyx** and **Vael**. Vael (V-A-E-L) is a working author-selected name, not evidence of a verified family name or house rank. The previous November 7 title-case convention below is superseded only for the game. Literal source quotations, titles, and historical records stay unchanged.

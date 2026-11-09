@@ -64,3 +64,6 @@ PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/** -text -whitespace
 
 # Keep Nov 8 workshop evidence exactly as supplied.
 PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/** -text -whitespace
+
+# Preserve checkpoint 005 originals exactly, including both author JPEGs.
+PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/** -text -whitespace

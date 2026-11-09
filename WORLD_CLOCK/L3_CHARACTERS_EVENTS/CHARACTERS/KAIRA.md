@@ -1,3 +1,22 @@
+# Kaira · ordinary possessions and professional recognition
+
+The smallest of the three newly found mineral vaen is her personal keepsake: **about two inches** across, smooth, green, partially translucent, faint internal glow and perceptible weight. Handling it in her palm/pocket becomes a habit across all seven books, not a prescribed power, charm or required appearance in every scene. The other two stones are sold. Her three black mushroom vaen are a separate inventory.
+
+- Several days pass; Kaira continues Chainmail Robe experimentation, reads her novel, maintains fledgling repair business and ordinary coffee/food/card-shop routines. First physical Chainmail Robe remains unfinished; completion/public reveal remains the endpoint of Orange Arc.
+- Kaira wants to make her apartment personal by displaying and caring for living botanical resources. She goes shopping for attractive pots/planters, then acquires several small succulents over following days. Number, species, costs, exact shop and placement OPEN. Ordinary plants are not automatically vaen.
+- **Verified black mushroom inventory from Red Arc 1:** harvested 7; **3 consumed** in exceptional White-heavy Awakening Potion, **1 given to Stone Hollow alchemist** as payment, **3 retained by Kaira**. Three are genuine living black mushroom vaen. They are distinct from the new mineral vaen. They can become her indoor living collection, but appropriate cultivation environment and container conditions remain OPEN; do not assume ordinary soil or invent their future use.
+- Kaira's interest in living vaen, flowers, moss, fungi and unusual plants persists throughout the saga. Fungi are biologically distinct from plants.
+
+The shopping is Day 15 and plant delivery Day 16; cultivation conditions and precise contents remain open. White Chainmail Armorsmith recognizes her existing expertise at 23: mother died at 15, smith took her in around 16, roughly seven years of exploited work. Not a White Transduction rank. On Day 39 she rescues Nyx; he is family, not equipment. [Relative chronology](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # Orange · independent craft work and first return
 
 **Orange arc of Book Red · 2026-11-08.** The completed shirt, confidence in craft and difficulty soliciting strangers lead to two potential subcontracting relationships and independent freight arrangements. Vael’s prejudice despite her visible Awakening provokes genuine anger. Browsing the raeon shop and a voluntary nature detour help her recover. She returns with moss and mineral vaen, without a Ring, Nyx, Sprite, paid invoice or Support credential. See [ARC](../../../BOOKS/RED/ARCS/ARC_002/ARC.md), [KAIRA_AND_VAEL_FIRST_ENCOUNTER](../EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md), [GENESIS_FLORA_FAUNA_AND_VAEN](../../L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md), [SERIES_STATE_AND_EVENT_LEDGER](../../../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md).

@@ -1,3 +1,15 @@
+# Ring supplier and Orange client repairs
+
+The master mailwright’s shop fabricated the demonstration-shirt rings by sigil Transduction. Kaira sets/accepts component quality, rejects defects and uses a beginner Metal Manipulation Card to align and close rings. The Crown assesses her independent garment workmanship, not fabrication of these supplied rings. On Day 17 she orders compatible repair rings and obtains tools; rings arrive Day 19. Customer pieces may include steel or different metals; exact quantities and specs are OPEN. [Practical and seven domains](../PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-09 — Full manufacturing model: ingot → spool → flat chainmail rings, parallel sigil stations
 
 **Book Red · Orange · 2026-11-08.**

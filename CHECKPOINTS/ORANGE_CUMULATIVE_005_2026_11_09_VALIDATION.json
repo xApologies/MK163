@@ -1,0 +1,112 @@
+{
+  "status": "PASS",
+  "baseline": "4494f1fa4a045de471bbdc801af1dd9bd9eb745b",
+  "attachment": "MK163_CUMULATIVE_005_REBUILT.zip",
+  "archive_bytes": 822562,
+  "archive_sha256": "410be5be4b610e0ad019659aed8b3fc29a26ab777fe0e28fc0d97e74c4a50d07",
+  "manifest_hashes": 14,
+  "source_members_exact": 15,
+  "images_sha256": {
+    "VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg": "213656a94b6cd02686f0b26f2131a250c4edf9d48d84375e303f7ba6304dc3fc",
+    "VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg": "6e400136b30f2ca18363bcbc8ee675db3ab8e09bda5d56c94b475b8ecf08e334"
+  },
+  "prior_files_preserved": 592,
+  "prior_files_byte_identical": 573,
+  "prior_checkpoint_and_workshop_byte_identical": 262,
+  "added": 22,
+  "modified": 19,
+  "deleted": 0,
+  "visit_days": [
+    12,
+    26,
+    39
+  ],
+  "first_repair_items": 11,
+  "first_cycle_days": 5,
+  "second_cycle_days": 8,
+  "local_links": "PASS",
+  "changes": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md",
+    "CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_VALIDATION.json",
+    "CHECKPOINTS/TOOLS/validate_orange_cumulative_005.py",
+    "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+    "CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/ACCORD_REGISTRY_COMPLETE_MODEL.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_HISTORY.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/README.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_DAY_LEDGER.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_LEDGER_005.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/SOURCES.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VAERYN_SPECIES_AND_NYX_DAY39.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/AUTHOR_AUTHORITY.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/README.md",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg",
+    "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/execution.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/QUALIFICATION_AND_WHITE_MASTERY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_CHAINMAIL_RING_FABRICATION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md"
+  ],
+  "literal_transcript_complete": false,
+  "inbox_byte_identical": 16,
+  "historical_checks": {
+    "live 006 original package": {
+      "status": "PASS"
+    },
+    "live 007 original package": {
+      "status": "PASS"
+    },
+    "live 008 original package": {
+      "status": "PASS"
+    },
+    "live 009 original package": {
+      "status": "PASS"
+    },
+    "live 009b original package": {
+      "status": "PASS"
+    },
+    "delta 005 original package": {
+      "status": "PASS"
+    },
+    "Book Red exact 2992259ffa0cb44f2c70e9040c35feda91f5858b": {
+      "status": "PASS"
+    },
+    "Orange exact 4e7a340b3b6c5dd5e9931239988eb71e3f53288d": {
+      "status": "PASS"
+    }
+  },
+  "legacy_003_evidence": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "publication": "Pre-publication; actual SHA and push status are verified separately."
+}

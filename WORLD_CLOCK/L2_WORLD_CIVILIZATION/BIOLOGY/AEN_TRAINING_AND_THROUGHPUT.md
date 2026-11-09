@@ -1,3 +1,20 @@
+# Orange Days 15 and 17 · seeking instruction
+
+- **aen**, lower-case A-E-N, are six cutaneous Genesis energy-access channels, one per Red/Orange/Yellow/Green/Blue/Violet. Standard wrist progression: dot → open arc → closed ring → widening band along skin surface, **not tissue depth**. Even a stable dot requires practice; training is hard. Widening raises potential throughput and maintenance/fatigue cost.
+- Kaira senses her newly integrated Awakened Genesis biology but lacks practical aen control, like learning to use a new limb. She should seek a paid specialist mentor, plausibly in Green or Blue District, rather than suddenly master it. Teacher, price, address, exercises, achievements remain OPEN.
+- AERA existing rule **retained**: aen can enhance energy loading for native Shapings and prepared Bindings, including complex and sustained channeling, subject to control, admissibility and cumulative basin-specific fatigue. **NO aen throughput boost for operational Genesis Cards**, which draw through their own exclusive basin interface. Author explicitly declined changing this rule.
+- Kaira's unusually high endurance offers eventual sustained-work advantage, not immediate mastery. She has prior Fireball Card activation and beginner Metal Manipulation; she has not yet mastered independent native Shaping through aen.
+
+Day 15 inquiry at the Green District city Registry → **two days** → Day 17 follow-up/contact or scheduling. Registry teaching accreditation is distinct from chromatic professional rank. The teacher’s own location need not be the Registry; noble-house private networks are distinct from this referral. No fixed instructor, price, first lesson or attained aen stage. Sources: [LIVE_MODEL](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md), [RUNNING_DAY_LEDGER](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # aen — dot, arc, ring and band
 
 **Project:** MK163  

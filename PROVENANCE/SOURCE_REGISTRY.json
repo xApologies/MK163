@@ -203,6 +203,21 @@
       "validation": "CHECKPOINTS/VAEN_DUAL_2026_11_08_VALIDATION.json",
       "interpretive_path_not_l0": true,
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_ORANGE_CUMULATIVE_CHECKPOINT_005",
+      "physical_filename": "MK163_CUMULATIVE_005_REBUILT.zip",
+      "baseline": "4494f1fa4a045de471bbdc801af1dd9bd9eb745b",
+      "archive_sha256": "410be5be4b610e0ad019659aed8b3fc29a26ab777fe0e28fc0d97e74c4a50d07",
+      "source_manifest": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/MANIFEST.json",
+      "audit": "CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md",
+      "validation": "CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_VALIDATION.json",
+      "chronology": "CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md",
+      "images": [
+        "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg",
+        "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg"
+      ],
+      "literal_transcript_complete": false
     }
   ]
 }

@@ -1,3 +1,15 @@
+# Vael encounter · Day 12 business context
+
+Before meeting Vael beside the southeast raeon shop, Kaira has two promising private smithy contacts and an independent freight arrangement, **not an active professional listing**. The Registry deferred her unranked inquiry. The other encounter beats stand; she buys nothing and does not meet Nyx on this return. [Current Orange arc](../../../BOOKS/RED/ARCS/ARC_002/ARC.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-07 — First Vael conflict at neighboring abecca/raeon shops
 
 **Book Red · Orange · 2026-11-08.**

@@ -1,3 +1,34 @@
+# Crown Registry · professional services, locations and access
+
+## 1. Identity, scope and jurisdiction
+The Accord Registry is a **Crown-level kingdom-wide institution** governing recognized professional competence. It administers professional evaluations, chromatic rank records, accreditation, credentials, verification, professional service accounts/listings, referrals and Crown reporting/analytics. It is a welcoming civic institution and visible social hub, not merely a combat/adventurer guild, quest board or freight operator.
+
+**Location rule:** In a large city (Red through Violet districts), the main city Accord Registry is in the **Green District**. In a small city (Red/Orange/Yellow districts), it is in the **Yellow District**. The Violet Dungeon staging settlement has its own Accord Registry branch, with its precise district designation OPEN. Kaira uses both city and staging branches.
+
+**Registry professional listings require an appropriate recognized rank**. Independent private contracts do not: Kaira can subcontract for smithies before certification. Professional directory accounts identify family, discipline/specialization, rank and offered services. A customer can search by craft, availability or other service details; exact directory mechanism and fees OPEN. The Registry connects parties but is not the provider of their service. For example, on Day 24 it tells Kaira where to find the **city office of her existing freight provider**; it does not carry armor itself.
+
+**Accreditation versus chromatic rank:** Independent aen instructors may hold a Registry teaching accreditation. The accreditation is not automatically a Red-through-White rank. Noble houses often use their own inherited/private instructor networks; freelancers may advertise through the Registry. Day 15 city inquiry, Day 17 city follow-up for contact/scheduling. Instructor name, cost, schedule and first lesson OPEN.
+
+**Public/social role:** Kaira uses the Registry as a familiar help desk for Transduction-adjacent questions, testing, services, suppliers, contracts and civic processes. Staff gradually recognize her curiosity, friendliness and awkwardly numerous questions. Her retained white Afflicted appearance makes her visually conspicuous but does not make her universally admired or instantly famous. The staging branch is busy with working vaelum, artisans, merchants, professional clients and adventurers.
+
+## 2. Building, aesthetics and testing infrastructure
+Author-provided architectural reference: welcoming monumental three-story public Registry with pale stone, light, indoor greenery, water, glowing sigil ornament, staffed counters and consultation areas. The prior Orange workshop retains the preferred Registry interior reference. This cumulative delivery supplies the badge and adult Vaeryn images, not another building rendering.
+- **Ground floor:** public reception, inquiries, professional account and contract services, consultation, community circulation.
+- **Second floor:** professional accreditation administration, assessors, consultations, scheduling and records.
+- **Third floor:** Crown administration, oversight, regional records and reporting.
+- **Underground basement:** assessment and practical testing facilities, storage, workstations and discipline-appropriate rooms. Includes a **large 100-radius examination circle** used for role-based testing (Guardian, Helkir, Offensive Specialist, Support Specialist). The existing [MK163 combat-role owner](../INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md) specifies **100 feet radius / 200 feet diameter**, a single integrated floor sigil and thirteen consecutive configurations. The units are verified in MK163; no universal chamber dimension is inferred from AERA. Chainmail practicals are conducted at equipped workshop stations, not necessarily in the large circle.
+- Registry acquires test materials from local professional suppliers, e.g. Blacksmith Row and regional smithies, via ordinary procurement; does not need to fabricate all materials itself. Standard materials and tools are stored on-site; examination fee **includes a standard material allowance**. Exact fee, quantities, suppliers and material authentication OPEN. Larger branches and staging branches may have different stock and room capacity without changing the Crown examination standard.
+
+The earlier Orange permission for an unranked professional posting is superseded. Independent private contracts, freight referrals and social use remain. [Five credential families and the separate craft examination](../PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md). Sources: [CHECKPOINT_003_DECISIONS](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md), [ACCORD_REGISTRY_COMPLETE_MODEL](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/ACCORD_REGISTRY_COMPLETE_MODEL.md), [RUNNING_LEDGER_005](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_LEDGER_005.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-04 — Accord Registry public halls, inn interiors, civic daily life and amenities
 
 **Orange arc of Book Red · 2026-11-08.** ## Accord Registry: Crown institution and social space

@@ -1,3 +1,23 @@
+# Orange Day 14 · first custom deck and independent reading
+
+- Following morning Kaira drinks abecca, turns her retained green stone in her hand and decides to complete her personal **raeon** deck that day.
+- She returns to the **regular large-city raeon shop** she has visited across the first three days of early deck-building. Exact district, shop name, assistant identity remain OPEN. This is distinct from the staging-settlement shop.
+- Prior established state: a few purchased Prime Fields/Utilities, informal house-deck practice with shop assistant, no completed deck; her first tournament used a rented Utility/Universal house deck.
+- **New decision:** a highly knowledgeable shop employee helps Kaira design and purchase her **first complete entry-level custom 60-card deck**. She actively participates, then plays approximately one or two casual games with local players. Results and opponents OPEN. Shop is a social place where people of different status play; raeon is a widespread civic pastime, including royal participation.
+- Do not invent decklist, cards, rules, exact prices, or format. Retrieve current `_raeon` source for a legal specific list before finalizing deck mechanics. MK163 prior rules: 60-card constructed deck; Prime identity uniqueness and three active Prime positions; max two Field Generators and three Utilities per identity.
+- On way home she buys **The Geometry of Existence**, the established MK173 literary work, **not** a generic good-versus-evil fantasy. It concerns Genesis Field, geometry, identity and existence. This is an intentional **in-world literary crossover**; it does not merge MK173 historical events into MK163 reality.
+- She reads it recreationally at home between ordinary work.
+
+The Day 26 games show intuition and fast learning, not invincibility. The existing royal gatherings happen later in Green. Sources: [LIVE_MODEL](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md), [CHECKPOINT_003_DECISIONS](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # raeon · game and storefront
 
 **Orange arc of Book Red · 2026-11-08.** The game’s protected name is now **raeon**. The southeastern raeon shop and adjacent unnamed abecca shop belong to the Violet staging settlement. Collectible maege-glass game Cards are distinct from operational Genesis Cards. Vael drops two undamaged game Cards; Kaira browses, recovers her composure and buys none at the staging prices. [First encounter](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md). Existing game mechanics, Green royal gatherings and limited challenge coin remain.

@@ -1,3 +1,15 @@
+# Chainmail qualification · appraisal and demonstrated authorship
+
+Finished-work appraisal plus **supervised practical verification** determines this specialized professional rank. Of the seven domains, input quality belongs to the supplier as fabrication and to the applicant as material judgment. Domains 2–7 are the maker’s own workmanship. The number of stations, duration and exact fees are not locked. [Full procedure, badge families and Kaira’s result](REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md). Preserve the separate, unchanged four combat-role 13-station floor-of-mean rules; no such formula is supplied for this chainmail credential.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # Scoped mixed-score rule for the four Registry roles
 
 **Book Red consolidation · 2026-11-07.** For the four Crown Accord Registry combat-role examinations only, the score is now selected: all 13 stations must be completed; each scores 0–7, and the overall rating is the floor of their equal-weight mean. No completion means no rating; a complete mean below one fails. White still requires all 13 White. The formula for unrelated professions remains OPEN. [Registry examinations](../INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).

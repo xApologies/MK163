@@ -1,3 +1,15 @@
+# Two distinct Orange returns · moss, mineral vaen and Vaeryn
+
+On Day 12 she hears about Vaeryn but meets none. Warning-display frog: expressive fauna, not vaen. The moss is expressive flora; she harvests it and **three mineral vaen**. Day 13: Yellow apothecary buys the moss, Green specialist buys the two larger stones; Kaira keeps the smallest. Moss properties, intrinsic mineral identities and prices remain OPEN. No change to the two-stage vaen definition or the three black mushroom vaen she retains separately. The extensive flower territory, den and cub appear on Day 39. [Vaeryn flower ecology](../BIOLOGY/VAERYN.md) · [Dated custody](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 ## Expression in an ecosystem versus a vaen identity
 
 A Stage 1 organism or mineral need not carry a Stage 2 identity. One or two mushrooms in an expressive patch may become vaen while their neighbors do not. [The resource owner](../TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) defines both events and optional later uses. These examples describe the substrate and what changes; they are not new encounters.

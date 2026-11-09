@@ -1,3 +1,15 @@
+# Orange repair cycles and transaction limits
+
+Independent subcontracting needs no Registry listing. Eleven items arrive Day 16; repairs on Days 19–23, pickup Day 25 and customer acceptance Day 26. A third smithy joins. Second batch arrives Day 28, count OPEN; provider collects Day 37. No exact invoice, price, payment date or freight charge is established. The 20 eln offer for one mineral vaen is illustrative and rejected; not a sale or universal valuation. Prior 0.9× city repair offer, locality premium and supplier prices are unchanged. [Day ledger](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-02 — Staging economy: 1.3–1.7 locality premium, resource wealth, repair markets
 
 **Orange arc of Book Red · 2026-11-08.** ## Relative economic levels

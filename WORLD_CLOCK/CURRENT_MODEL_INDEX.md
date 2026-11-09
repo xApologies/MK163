@@ -1,3 +1,15 @@
+# Current Orange cumulative 005 · records
+
+[Running Day 0–39 ledger](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) · [Book Red Orange arc](../BOOKS/RED/ARCS/ARC_002/ARC.md) · [Registry access](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md) · [Five badge families and White craft practical](L2_WORLD_CIVILIZATION/PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md) · [Vaeryn biology and adult image](L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md) · [Nyx’s rescue](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Integration audit](../CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md). Previous vaen ontology, historical source records and unrelated arc anchors remain intact.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 ## November 8 vaen decision · resource and realm owners
 
 [What makes an item vaen](L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) · [Biological and mineral examples](L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md) · [Interpretive realm and prophecy crosswalk](L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md) · [Integration record and scope](../CHECKPOINTS/VAEN_DUAL_2026_11_08_INTEGRATION.md). Existing Orange arc chronology and framework owners continue below.

@@ -1,3 +1,49 @@
+# Book Red · Orange · independent work, certification and Nyx
+
+[Current Day 0–39 ledger](../../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md). These are author-selected scenes and intervals, not new chapter assignments.
+
+**Days 11–12.** The shirt is finished Day 11; Kaira shows it to the supplier and experiments on the physical robe that evening. First independent visit Day 12: she asks to list repairs at the staging Registry, learns rank is required and postpones. She hears that large territorial Vaeryn have been sighted and solo detours are discouraged. Her two promising smithy contacts and independent freight arrangements remain valid. The sandwich/abecca, Vael collision with two undamaged game Cards, no purchase, and return along the fauna trail remain. Frog and moss express Genesis; she collects moss and **three mineral vaen**. No Vaeryn encounter or dungeon descent this day.
+
+**Day 13 · resource sale.**
+
+- Kaira explores the **Yellow District** to sell harvested resources. Yellow is mid-market, not the cheapest or most affluent district.
+- She first approaches alchemists with three mineral vaen; receives unfavorable offers, with **20 eln illustrative** for one lowball offer, not a proven fair market valuation. Some merchants exploit her ambiguous Afflicted/Awakened appearance and presumed weak social standing. She refuses to sell there.
+- A kind experienced woman apothecary in Yellow buys her Genesis-expressive moss on agreeable terms. No exact price, medicinal effect, shop name or seller name assigned. Apothecary recommends a Green District Binding specialist.
+- In Green District, Kaira receives a more respectful specialist appraisal and **sells two larger mineral vaen**, retaining the smallest. Exact sale price, buyer identity and stone's structural identity remain OPEN.
+- Kept stone: approximately **2 inches diameter**, smooth, green, partially translucent, faint **internal Genesis glow**, perceptible weight in pocket. It is not a good-luck charm or assigned secret power. Kaira handles it in her pocket or palm as a growing personal habit, symbolizing freely chosen possession and independence. **Retain across all seven books**, without forcing appearance in every scene.
+- After a full day walking through the city, she returns home, perhaps with an abecca. This closes the resource-selling excursion.
+
+**Day 14.** Morning abecca and keepsake. Her regular city shop’s knowledgeable employee helps her build her first complete 60-card deck. One or two casual games; she buys *The Geometry of Existence* on the way home. [Game and book details](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md). This literary crossover imports no MK173 historical events.
+
+**Days 15–17.** On Day 15 the Green District city Registry agrees to contact an accredited independent aen instructor. She shops for pots/plants with next-day delivery, reads and dines at a local restaurant. She returns on Day 17 for contact/scheduling, alongside her mailwright errand. No first lesson or immediate mastery. [Training limits](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md); [Home and continuing possessions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md).
+
+**First business cycle.**
+
+- Day 16: first freight shipment of **11 damaged chainmail items** reaches Kaira's city apartment; she inspects them and determines required replacement-ring specifications.
+- Day 17: Kaira visits her friend, the master mailwright on Yellow Blacksmith Row, to commission **repair-specific compatible rings** (not automatically the Genesis-infused iron rings used for her demonstration shirt and experimental robe). Customer mail may be made of differing metals including steel; precise materials and order quantities remain OPEN. She also obtains repair tools. Day 17 Accord Registry follow-up about her independent aen tutor remains in force; the two errands can coexist.
+- Day 18: preparation, other work, ordinary leisure. No compulsory full scene.
+- Day 19: receives or collects compatible repair rings; starts customer repairs that evening.
+- Days 19–23 inclusive: **five-day** repair period for 11 items, varying minor through extensive. Craftsmanship and customer work take priority; no need for eleven detailed repair scenes or continuous labor. She has morning fruit from her bowl, regular abecca (sometimes twice daily), purchased lunches/dinners, limited cooking ability and equipment; reads MK173 novel, tends plants, occasionally plays raeon; Chainmail Robe remains unfinished. Exact hours, damage distribution, fees, material amounts and margin OPEN.
+- Day 24: finished work ready. Kaira visits the **Green District city Accord Registry** to find the **city office of the same independent freight provider** she engaged at the Violet Dungeon staging settlement on Day 12. Registry supplies directions; Kaira visits provider's city office and schedules pickup. This is NOT a new freight company and the Registry does not itself transport goods.
+- Day 25: freight provider collects the eleven repaired items at her apartment for return to staging-settlement smithies.
+- Day 26: Kaira makes her **second** dungeon-related staging-settlement visit (distinct from later **third** visit where she encounters Nyx). She carries her finished 23–25k-ring Offset-Lattice demonstration shirt in her backpack, starts with abecca at local café, visits the two original smithies, confirms deliveries and receives their enthusiastic approval of precision repairs. Both give new work; a **third** smithy enters a trial/working subcontract relationship. Exact new order size, receipts, invoice settlement and payment timing OPEN. She plays a couple of raeon games with her first deck: strong intuition and fast learning but not an unbeatable expert. She is increasingly recognizable through white retained Afflicted pigmentation, steel-gray eyes, scars, and repeated friendly visits; not instantly famous or universally welcomed.
+
+**Day 26 · White Chainmail Armorsmith.** After satisfied customers, a third interested smithy and casual raeon games, Kaira presents the shirt for [completed-work appraisal AND a supervised practical](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md). She is eligible to list professionally, but activation, fees, first direct Registry job and actual payout remain OPEN. Supplier-made rings are an input she selects and evaluates, not a fabrication skill she demonstrates. She shows her White Craftsmanship badge over dinner at her favorite Orange District restaurant.
+
+**Days 27–38.** Day 27: celebrates with her friend, the master mailwright, then spends the rest of the day on her unfinished robe. The second batch arrives Day 28; repairs span Days 28–35 inclusive. Day 36: completion, quality checks and dispatch preparation. Day 37 pickup by the same provider. Day 38: quiet robe work during transit. No second-batch count, invoice or exact fee. Reading, plants, regular fruit/abecca, purchased meals, occasional raeon and frugal Card-shop browsing fit around the work.
+
+**Day 39.** Third staging visit, backpack **without her demonstration shirt**. Confirm delivery before checking in with the three satisfied smithies. She may browse one-off Registry inquiries without taking excess work. While foraging she follows extensive manifested flowers to a shallow den among rocks. Mother dead outside/near the entrance; she hears the mewing, unstriped black male cub and takes him into her care. [Full encounter and limits of Kaira’s knowledge](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md). No early Sprite or Ring. Completion/public reveal of the physical Chainmail Robe still ends Orange at an unassigned time.
+
+Sources: [LIVE_MODEL](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md), [RUNNING_DAY_LEDGER](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_DAY_LEDGER.md), [CHECKPOINT_003_DECISIONS](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md), [ACCORD_REGISTRY_COMPLETE_MODEL](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/ACCORD_REGISTRY_COMPLETE_MODEL.md), [RUNNING_LEDGER_005](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_LEDGER_005.md), [VAERYN_SPECIES_AND_NYX_DAY39](../../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VAERYN_SPECIES_AND_NYX_DAY39.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # OR-06 — Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics
 
 **Orange arc of Book Red · 2026-11-08.** ## State arriving at the settlement

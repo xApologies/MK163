@@ -1,0 +1,68 @@
+{
+  "checkpoint": "005",
+  "date": "2026-11-09",
+  "cumulative_from": [
+    "001",
+    "002",
+    "003",
+    "004"
+  ],
+  "files": {
+    "CHECKPOINT_003_DECISIONS.md": {
+      "sha256": "3334141310c872e2a91a3dc2a573e42343d3373569d407cd113596b42719e0fe",
+      "bytes": 9343
+    },
+    "SOURCES.md": {
+      "sha256": "b06269e144d2d4165fb86ec2cc9101688ce5107ccaeed7af38eb973eef54bf27",
+      "bytes": 2462
+    },
+    "LIVE_MODEL.md": {
+      "sha256": "5d45fd7dfa5205baaf19a461ec1966b80f33c3faf35c1d40e42cbef93d5f6fdc",
+      "bytes": 11980
+    },
+    "execution.md": {
+      "sha256": "aa50fc022b8b31d5b4861d818977e74e6c3e82b3a85e5c311987bb4e59db1519",
+      "bytes": 4795
+    },
+    "RUNNING_LEDGER_005.md": {
+      "sha256": "974269fb15109737555a655c4356b42936b2ecc06c42e547a28cb7ab09dafdd1",
+      "bytes": 3413
+    },
+    "RUNNING_DAY_LEDGER.md": {
+      "sha256": "39e9ea443ffc2f0cf74824fa89603ce646c670ab1518663a4da52a3ad13d9877",
+      "bytes": 5875
+    },
+    "README.md": {
+      "sha256": "6bf5d7682375928a1aded4abd23a0ce1da57999c64dab0edbbd167d1a425393a",
+      "bytes": 2876
+    },
+    "ACCORD_REGISTRY_COMPLETE_MODEL.md": {
+      "sha256": "128bb73a93959bf687b8940c70c68cefabff1323a06dd1c8852fac120c4866d8",
+      "bytes": 14668
+    },
+    "VAERYN_SPECIES_AND_NYX_DAY39.md": {
+      "sha256": "9418ce53387081ce9e754c6b4c5e98b53488debda2b0c49849c4575390b776c7",
+      "bytes": 4963
+    },
+    "CHECKPOINT_HISTORY.md": {
+      "sha256": "1168568db14947e09b16b87acae617a0c6e79bad50dcc02320921e1612dce202",
+      "bytes": 1617
+    },
+    "VISUAL_REFERENCES/README.md": {
+      "sha256": "32eb68055a278a5152780808488e501e630ef455cab4d7d3dd40d8e6678f6e02",
+      "bytes": 2226
+    },
+    "VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg": {
+      "sha256": "213656a94b6cd02686f0b26f2131a250c4edf9d48d84375e303f7ba6304dc3fc",
+      "bytes": 549865
+    },
+    "VISUAL_REFERENCES/AUTHOR_AUTHORITY.md": {
+      "sha256": "9c872c20a351b64f87d19f1870a0671a087b8d542d685e123eaf0f545f2a86d1",
+      "bytes": 1921
+    },
+    "VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg": {
+      "sha256": "6e400136b30f2ca18363bcbc8ee675db3ab8e09bda5d56c94b475b8ecf08e334",
+      "bytes": 249140
+    }
+  }
+}

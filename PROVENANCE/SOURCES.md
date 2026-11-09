@@ -1,3 +1,15 @@
+# Cumulative 005 · rebuilt Orange attachment
+
+Physical file MK163_CUMULATIVE_005_REBUILT.zip; manifest declares checkpoint 005 cumulative from 001–004; README identifies the current Orange handoff. 822,562 bytes; SHA-256 410be5be4b610e0ad019659aed8b3fc29a26ab777fe0e28fc0d97e74c4a50d07. [Exact source inventory](WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/MANIFEST.json); [Integration audit](../CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md). The one cumulative delivery supplies all original members; no separate predecessor packages imported.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # November 8 · Orange workshop receipt
 
 **Orange arc of Book Red · 2026-11-08.** Attachment MK163_ORANGE_2026_11_08_EXHAUSTIVE_CODEX_PUSH.zip, 99,149,368 bytes; SHA-256 052d5e3a684cf4c1ffb61f5b23cb4b64bcd32a0757d37c06b2946a08a86c656c. [Per-member inventory](WORKSHOP/ORANGE_ARC_2026_11_08/SOURCE_INDEX.json) distinguishes exact installed texts and user references from external source containers, PDF and concept artwork; the parent package already matches the Nov 7 receipt.

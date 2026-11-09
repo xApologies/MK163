@@ -1,3 +1,15 @@
+# Current Orange cumulative checkpoint · 005
+
+Read [the day ledger](CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) and [the supersessions](PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md). Day 12: no unranked listing, private subcontracting allowed, Vaeryn warning. Day 26: completed work plus supervised practical; White Chainmail Armorsmith only. Supplier made the rings. Day 39: third staging visit, no shirt, mother dead, father’s fate unknown, seven-week male cub without adult stripes. Use the exact approved badge and adult species images within their stated scope. No inherited repo edits, early Sprite, Blue Support credential or Ring.
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # Book Red Orange workshop · current scope
 
 **Orange arc of Book Red · 2026-11-08.** Read [November 8 corrections](PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md), [topic coverage](CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md) and the existing Orange arc owner. Use lowercase **raeon** in active prose. The first independent staging visit now has selected events; preserve the former approach as its entry state. Keep figures illustrative where designated; neither a paid repair nor actual street map is supplied. No early Nyx, Sprite, dimensional storage or certification; fourth/Green at Red’s end is unchanged. Treat every original record and render according to its provenance.

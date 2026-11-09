@@ -1,3 +1,15 @@
+# Orange checkpoint 005 · settled and unselected
+
+Visits are dated **12, 26 and 39**. Appraisal plus practical establishes White Chainmail Armorsmith only. Actual listing activation remains OPEN; private repairs need no listing. The eleven first repairs are accepted, while actual prices/payments, freight fees and the second batch count are OPEN. No chosen tutor/fee/lesson, exact decklist, mineral identity/value, mushroom cultivation, practical station count/duration or alternate badge design. Stripe triggers/onset, exact flower mechanics, father’s fate, attacker and specific Shaping remain OPEN; mother is dead. Absolute dates, naming/care of Nyx and date of Orange robe reveal remain unassigned. [Day ledger](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
 # Orange · resolved beats and outstanding parameters
 
 **Orange arc of Book Red · 2026-11-08.** The first independent visit, craft posting, two promising smithies, freight, Vael encounter and frog/moss/mineral return are selected. No actual first invoice/customer, shop name, precise gate/route, surveyed map, exact pricing/terms, frog species/toxicity, mineral identity/market value, numeric ring intervals/yield, second-stage station count or precise flattened geometry is selected. One versus two abecca stops remains OPEN; first return and later third-return Nyx adoption are distinct. [Full correction and open-parameter ledger](WORKSHOP/ORANGE_ARC_2026_11_08/PROVENANCE/11_CORRECTIONS_SUPERSESSIONS_AND_OPEN_PARAMETERS.md).
