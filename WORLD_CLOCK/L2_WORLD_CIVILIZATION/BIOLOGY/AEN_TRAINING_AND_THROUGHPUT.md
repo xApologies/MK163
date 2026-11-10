@@ -1,3 +1,25 @@
+# aen Stage I · five lessons and independent closure
+
+**aen** is the protected spelling; do not capitalize as a new acronym. Instructor is an accredited independent aen tutor, identity/fee/lesson duration open. First contact Day 15, follow-up Day 17. Five introductory lessons: **Day 21 Red point; Day 27 Red/Orange/Yellow points; Day 32 all six Red through Violet points; Day 38 attempts but cannot yet close Red ring; Day 43 closes Red and Orange, starts Yellow ring and maintains six active points**. The tutor ends Stage I and instructs independent practice until all six can be stably closed. Only after that does a second course on **ring width expansion / broader basin access** begin. Do not conflate points, closed rings and widened rings; no automatic mastery or combat skill.
+
+## Basin closure order and geometric intuition
+**Red < Orange < Yellow < Green < Blue < Violet** in increasing difficulty of constraining/closing aen ring. User's photon-spectrum analogy describes increasing effective energy/elasticity; it is an analogy, not an assertion of literal optical frequency or a new physical equation. Exact operators, numerical stiffness, basin width and energy law remain open. aen point manifestation and ring closure are distinct achievements.
+
+
+## State at Day 63
+
+Yellow closes during the Days 52–62 ellipsis. At Day 63 Red, Orange and Yellow are closed; Green is an active point being worked toward closure, and Blue and Violet remain active points. Stage II has **not** begun. The Day 43 end of introductory instruction is not completion of all six rings. [Opening scene concept](../../../BOOKS/RED/ARCS/ARC_003/ARC.md).
+
+Earlier useful-draw and fatigue rules remain: dot/closed ring/widened band can provide useful extra draw; the open arc is a formation-only state whose elastic resistance makes simultaneous useful draw impractical. Widening follows stable closure and extends along skin, not into tissue. Native Shapings and prepared Bindings can benefit subject to admissibility and shared basin fatigue; operational Genesis Cards do not receive an aen throughput boost, nor permit concurrent aen use of their occupied basin. Exceptional endurance does not grant instant control or combat expertise.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/AEN_STAGE_ONE_AND_YELLOW_HANDOFF_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Orange Days 15 and 17 · seeking instruction
 
 - **aen**, lower-case A-E-N, are six cutaneous Genesis energy-access channels, one per Red/Orange/Yellow/Green/Blue/Violet. Standard wrist progression: dot → open arc → closed ring → widening band along skin surface, **not tissue depth**. Even a stable dot requires practice; training is hard. Widening raises potential throughput and maintenance/fatigue cost.

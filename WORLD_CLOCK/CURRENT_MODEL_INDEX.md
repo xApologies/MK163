@@ -1,3 +1,15 @@
+# Current Orange completion 006 · owners
+
+[Ledger through Day 63](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) · [Orange finale](../BOOKS/RED/ARCS/ARC_002/ARC.md) · [Yellow opening](../BOOKS/RED/ARCS/ARC_003/ARC.md) · [Physical robe](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Nyx care](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [aen lessons](L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Banking](L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md) · [Integration audit](../CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md). Unchanged cumulative sources/images resolve through [the verified source map](../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json).
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Current Orange cumulative 005 · records
 
 [Running Day 0–39 ledger](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) · [Book Red Orange arc](../BOOKS/RED/ARCS/ARC_002/ARC.md) · [Registry access](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md) · [Five badge families and White craft practical](L2_WORLD_CIVILIZATION/PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md) · [Vaeryn biology and adult image](L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md) · [Nyx’s rescue](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Integration audit](../CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md). Previous vaen ontology, historical source records and unrelated arc anchors remain intact.

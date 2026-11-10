@@ -1,3 +1,17 @@
+# Completed physical robe · technical verification boundary
+
+The repository `WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md` specifies an **Offset-Lattice** abstract graph with primary P(i,j)=(i,j), secondary Q(i,j)=(i+1/2,j+1/2), and each Q connected to four adjacent P vertices. This describes an intended connectivity relation for the demonstration shirt, **not a mechanically verified threading/crossing specification**. The robe's separate genuinely 3D five-layer interconnection is still technically **OPEN**; the narrative can establish a completed robe without falsely claiming the physical topology has been mathematically solved. Do not assign unvalidated fire/energy resistance or fixed weight. Magnetic front/back/side slit closure is established. Five-layer weave exact geometry remains an explicit future technical design item.
+
+Narrative completion is Day 50, public debut Day 51; [garment/event owner](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md). Approx. 250,000 rings is still a planning estimate, not a final count. The written gray-black, opaque, fitted athletic hooded garment, controlled drape/no flare and magnetic front/back/side slit closures govern over the imperfect image. Supplier-made Genesis-infused iron elastic self-closing rings and selected mass reduction continue; no unvalidated fire/energy protection or fixed weight is added.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Orange · ring preparation versus shirt assembly
 
 **Orange arc of Book Red · 2026-11-08.** The specialized mailwright supplies elastic self-closing iron rings. [Full two-stage manufacture](SIGIL_CHAINMAIL_RING_FABRICATION.md) leaves the exact flattened profile, yield and tolerances open. The supplier’s eleven-day commission does not replace Kaira’s eight elapsed days of shirt assembly; no resolution of the robe’s weave or new enchantment surcharge follows.

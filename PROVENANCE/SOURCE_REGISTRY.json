@@ -218,6 +218,21 @@
         "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg"
       ],
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_ORANGE_COMPLETION_006",
+      "physical_filename": "Orange completion.zip",
+      "date": "2026-11-10",
+      "baseline": "4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c",
+      "archive_sha256": "6de8b2be15eaa70179ab028a6c77cbac55606f6acb8eeed2201286dc67c5bfeb",
+      "source_manifest": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/MANIFEST.json",
+      "source_map": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md",
+      "validation": "CHECKPOINTS/ORANGE_COMPLETION_006_VALIDATION.json",
+      "chronology": "CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md",
+      "unchanged_members_reused": 12,
+      "new_or_changed_source_members": 8,
+      "literal_transcript_complete": false
     }
   ]
 }

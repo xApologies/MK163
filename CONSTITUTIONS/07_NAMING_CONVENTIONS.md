@@ -1,3 +1,15 @@
+# Checkpoint 006 · scoped banking name
+
+Use the supplied **Mage Glass** name for the banking card, per [banking owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md). This explicit scoped product/material wording is not a renaming of protected maege/maegi practitioners or a global replacement in old source evidence. Keep lowercase aen and raeon; Kaira, Nyx, Vaeryn and all other protected spellings remain.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Vaeryn and Registry badge terminology
 
 **Vaeryn** (V-A-E-R-Y-N, VAY-rin) is the species; **Nyx** is the individual cub. **Sigilcraft** is the approved fifth family. **Craftsmanship** is Kaira’s badge family and **White Chainmail Armorsmith** is her specialization/rank. Preserve lowercase vaen, aen, raeon, abecca, eln, and literal source quotations.

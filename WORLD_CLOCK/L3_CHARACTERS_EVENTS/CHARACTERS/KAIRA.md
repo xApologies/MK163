@@ -1,3 +1,19 @@
+# Kaira · Orange exit and Yellow entry state
+
+By Orange’s Day 51 finale Kaira has completed the physical Chainmail Robe on Day 50, publicly debuted it, cares for Nyx and continues the three-smithy repair business. Her White Chainmail Armorsmith badge retains the exact approved geometry and diamond. [Robe and public stops](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md); [Nyx care and supervised travel](NYX.md).
+
+Her first bank account is opened during the early apartment search, working Day −1; [paper records and Mage Glass account credential](../../L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md) govern custody. The valuable banked Green Genesis crystal used for Nyx is **not** her permanent two-inch green mineral vaen keepsake. Three retained black mushroom vaen remain separate (7 − 3 − 1 = 3). No exact account holdings or crystal grade/value/lifetime is assigned.
+
+[Five introductory lessons](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) culminate Day 43 with Red/Orange closed, Yellow begun and all six points active. By Day 63 Yellow is closed; Green is being worked toward closure, Blue/Violet remain points and Stage II has not started. Neither White craft rank nor endurance confers automatic Transduction mastery. Later Black Sprite, school, Blue Support, Violet Genesis Robe and fourth/Green Ring at Red’s end retain their scopes.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Kaira · ordinary possessions and professional recognition
 
 The smallest of the three newly found mineral vaen is her personal keepsake: **about two inches** across, smooth, green, partially translucent, faint internal glow and perceptible weight. Handling it in her palm/pocket becomes a habit across all seven books, not a prescribed power, charm or required appearance in every scene. The other two stones are sold. Her three black mushroom vaen are a separate inventory.

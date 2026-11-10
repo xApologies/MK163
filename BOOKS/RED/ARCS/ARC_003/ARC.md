@@ -1,3 +1,22 @@
+# Yellow opening · MK163-RED-ARC-003 · Day 63
+
+**Status: approved opening scene concept, not a full authored chapter or chapter-count assignment.**
+
+**Orange ends Day 51. Yellow begins Day 63, twelve elapsed days later**. Days 52–62 are narrative ellipsis: Kaira continues repairs, living with and socializing Nyx, wearing her finished physical robe, enjoying abecca/raeon, practicing aen and maintaining professional ties. During this period she succeeds in closing **Yellow**. By Day 63 **Red, Orange and Yellow are closed**; **Green is an active point being worked toward closure**, Blue and Violet are still active points. No Stage II yet. Yellow Arc opening: Kaira in her apartment, **wearing her Chainmail Robe**, with Nyx asleep in her lap; she struggles against the increased elastic resistance of closing Green, perhaps nearly joining ends before the ring relaxes open. This is a **scene concept**, not a full authored chapter. Do not dramatize every incremental ring closure or create a training montage by default.
+
+## Arc separation
+Yellow Arc is **Arc 3 of Book Red**. It inherits the robe, growing reputation, Nyx, ongoing business and aen training. It owns future robe movement, Alchemist friendship/commission, first Black Sprite bond and Blackstone sponsorship as established repository anchors; these have NOT occurred on Day 63 merely because they are Yellow Arc objectives. No Dimensional Ring until Book Red's ending, no Genesis-energy Robe until later Violet Arc. Keep Yellow's remaining day ledger open for future cumulative checkpoint 007+.
+
+The possible near-closure and elastic reopening of Green is a scene option, not a completed Green ring. [aen progression](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) owns the training details. The established Alchemist friendship/commission and end-of-Yellow sponsorship below remain selected future arc anchors, not completed opening-day events; the source phrase about remaining Yellow ledger being open concerns dates and development, not erasure of that existing exit direction. [Current relative chronology](../../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/AEN_STAGE_ONE_AND_YELLOW_HANDOFF_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Yellow (MK163-RED-ARC-003): commission, bond and sponsorship
 
 **Book Red consolidation · 2026-11-07.** The Alchemist seeks a unique original after imitations appear, and becomes Kaira’s close friend and older-sister mentor. At Yellow’s close she sponsors Kaira’s Blackstone admission, tuition and campus housing. A wine-for-admission exchange remains a proposal. The first Black Sprite bond remains in this arc; exact ordering, commission terms and chapter count stay OPEN. This explicit 010 selection supersedes only the older candidate/unknown-exit wording below. [Character record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md); [Green entry](../ARC_004/ARC.md).

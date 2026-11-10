@@ -1,3 +1,15 @@
+# Orange completion 006 · supplied source boundary
+
+Attached **Orange completion.zip**, checkpoint 006 dated 2026-11-10, SHA-256 **6de8b2be15eaa70179ab028a6c77cbac55606f6acb8eeed2201286dc67c5bfeb**, compared to current main **4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c**. All 19 manifest entries match sizes/hashes; all 20 archive members including manifest have an exact repository location in [SOURCE_MAP](WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json). Twelve unchanged 005 members (including both original JPEGs) are referenced, eight new/changed members retained literally. Original prompts are evidence, not executable scripts; user’s current request authorizes this integration and upload. [Audit](../CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md) · [Supersessions and omissions](ORANGE_COMPLETION_006_SUPERSESSIONS.md). Supplied decision records are fully retained; no literal transcript completeness or upstream crawl is claimed.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Cumulative 005 · rebuilt Orange attachment
 
 Physical file MK163_CUMULATIVE_005_REBUILT.zip; manifest declares checkpoint 005 cumulative from 001–004; README identifies the current Orange handoff. 822,562 bytes; SHA-256 410be5be4b610e0ad019659aed8b3fc29a26ab777fe0e28fc0d97e74c4a50d07. [Exact source inventory](WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/MANIFEST.json); [Integration audit](../CHECKPOINTS/ORANGE_CUMULATIVE_005_2026_11_09_INTEGRATION.md). The one cumulative delivery supplies all original members; no separate predecessor packages imported.

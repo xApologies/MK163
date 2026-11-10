@@ -1,3 +1,15 @@
+# Mage Glass banking application
+
+Checkpoint 006 explicitly calls the banking credential **Mage Glass**: a fixed local manifold assigned through a bank sigil, projecting a numerical account reference for registered-card verification. [Full banking procedure and security limits](../ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md). The card carries no balances or valuables and does not automate handwritten ledgers. This scoped banking name/application does not rename maege/maegi or retire unrelated inherited construct uses.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # maege glass and Genesis constructs
 
 **Project:** MK163  

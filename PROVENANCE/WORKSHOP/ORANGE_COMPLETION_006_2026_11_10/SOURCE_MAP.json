@@ -1,0 +1,127 @@
+{
+  "checkpoint": "006",
+  "archive_sha256": "6de8b2be15eaa70179ab028a6c77cbac55606f6acb8eeed2201286dc67c5bfeb",
+  "baseline": "4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c",
+  "members": {
+    "ACCORD_REGISTRY_COMPLETE_MODEL.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/ACCORD_REGISTRY_COMPLETE_MODEL.md",
+      "sha256": "128bb73a93959bf687b8940c70c68cefabff1323a06dd1c8852fac120c4866d8",
+      "bytes": 14668,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "AEN_STAGE_ONE_AND_YELLOW_HANDOFF_006.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/AEN_STAGE_ONE_AND_YELLOW_HANDOFF_006.md",
+      "sha256": "c25aa213be1dc9bf9e14dd66e883a30fbd24b02fec27d5b767173a044cd0ea11",
+      "bytes": 2722,
+      "disposition": "new exact 006 source"
+    },
+    "BANKING_MAGE_GLASS_006.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/BANKING_MAGE_GLASS_006.md",
+      "sha256": "7e048ca7b7c3010014914b4fa329fbc3c40efba9e719cbc79678d03fef9d0256",
+      "bytes": 3111,
+      "disposition": "new exact 006 source"
+    },
+    "CHECKPOINT_003_DECISIONS.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md",
+      "sha256": "3334141310c872e2a91a3dc2a573e42343d3373569d407cd113596b42719e0fe",
+      "bytes": 9343,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "CHECKPOINT_HISTORY.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/CHECKPOINT_HISTORY.md",
+      "sha256": "f13ae9dd7b1bf59446883a32c5b0a62b66e6c11a61be03e8125bd468819c3117",
+      "bytes": 1856,
+      "disposition": "new exact 006 source"
+    },
+    "CODEX_INTEGRATION_006.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/CODEX_INTEGRATION_006.md",
+      "sha256": "8e667f98e88e56af968d9b09bf16d658f2534830332840fb8336ad2dd4553b4e",
+      "bytes": 2299,
+      "disposition": "new exact 006 source"
+    },
+    "LIVE_MODEL.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md",
+      "sha256": "5d45fd7dfa5205baaf19a461ec1966b80f33c3faf35c1d40e42cbef93d5f6fdc",
+      "bytes": 11980,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "MANIFEST.json": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/MANIFEST.json",
+      "sha256": "dee2efb98d5f3b1212814dffc8964a1467e5b27a90473cae08feeee966f442e7",
+      "bytes": 3092,
+      "disposition": "new exact 006 source"
+    },
+    "ORANGE_ARC_COMPLETION_006.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md",
+      "sha256": "b79341cae15bec568f1a138bf8661c55bc345202f94bba17f6d1cb6d3979c432",
+      "bytes": 5548,
+      "disposition": "new exact 006 source"
+    },
+    "ORANGE_DAY_LEDGER_COMPLETE_006.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_DAY_LEDGER_COMPLETE_006.md",
+      "sha256": "34243f80a022c0728a24d76d6adac97f4bb59d62526fc9ee2bb1f40e4716aff8",
+      "bytes": 4852,
+      "disposition": "new exact 006 source"
+    },
+    "README.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/README.md",
+      "sha256": "14e953afe6bd11508ff17aa6ccaefe2db930db1d4f77da266677b5c13eef9535",
+      "bytes": 3274,
+      "disposition": "new exact 006 source"
+    },
+    "RUNNING_DAY_LEDGER.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_DAY_LEDGER.md",
+      "sha256": "39e9ea443ffc2f0cf74824fa89603ce646c670ab1518663a4da52a3ad13d9877",
+      "bytes": 5875,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "RUNNING_LEDGER_005.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/RUNNING_LEDGER_005.md",
+      "sha256": "974269fb15109737555a655c4356b42936b2ecc06c42e547a28cb7ab09dafdd1",
+      "bytes": 3413,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "SOURCES.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/SOURCES.md",
+      "sha256": "b06269e144d2d4165fb86ec2cc9101688ce5107ccaeed7af38eb973eef54bf27",
+      "bytes": 2462,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "VAERYN_SPECIES_AND_NYX_DAY39.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VAERYN_SPECIES_AND_NYX_DAY39.md",
+      "sha256": "9418ce53387081ce9e754c6b4c5e98b53488debda2b0c49849c4575390b776c7",
+      "bytes": 4963,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg",
+      "sha256": "213656a94b6cd02686f0b26f2131a250c4edf9d48d84375e303f7ba6304dc3fc",
+      "bytes": 549865,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "VISUAL_REFERENCES/AUTHOR_AUTHORITY.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/AUTHOR_AUTHORITY.md",
+      "sha256": "9c872c20a351b64f87d19f1870a0671a087b8d542d685e123eaf0f545f2a86d1",
+      "bytes": 1921,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "VISUAL_REFERENCES/README.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/README.md",
+      "sha256": "32eb68055a278a5152780808488e501e630ef455cab4d7d3dd40d8e6678f6e02",
+      "bytes": 2226,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg",
+      "sha256": "6e400136b30f2ca18363bcbc8ee675db3ab8e09bda5d56c94b475b8ecf08e334",
+      "bytes": 249140,
+      "disposition": "reused byte-identical 005 source"
+    },
+    "execution.md": {
+      "path": "PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/execution.md",
+      "sha256": "aa50fc022b8b31d5b4861d818977e74e6c3e82b3a85e5c311987bb4e59db1519",
+      "bytes": 4795,
+      "disposition": "reused byte-identical 005 source"
+    }
+  }
+}

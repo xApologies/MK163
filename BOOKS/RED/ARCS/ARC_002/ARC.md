@@ -1,3 +1,25 @@
+# Orange completion · MK163-RED-ARC-002
+
+**Status: author-locked completion anchors, outlined scene beats; no new drafted chapters or fixed chapter count.** The existing entry state, principal conflict and prior detailed events below remain. The new exit is **Day 51**, after Day 50 physical robe completion and its Day 51 public debut. Orange is Arc 2 of Book Red.
+
+The narrative develops Kaira’s independent life after Awakening: apartment, first bank account, professional chainmail work, three staging smithy clients, White Chainmail Armorsmith credential, ordinary friendships and raeon, accredited independent aen lessons, Nyx and the original five-layer physical robe. [Full running chronology](../../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) owns Day −1 working placement and all dates; earlier Day 0–39 details remain in full below. Five lessons on Days 21/27/32/38/43 coexist with repairs and social scenes, rather than replacing them.
+
+**Days 39–43.** Nyx settles at home on Day 39 evening. Days 40–41 develop care and reveal tiny orange almost-luminous flowers. Third repair batch arrives Day 41; on Day 42 the city Registry refers her to a realm-fauna specialist at an unnamed learning institution. She learns Green crystal nourishment and draws on one banked Green crystal, distinct from her mineral keepsake; exact withdrawal time OPEN. Day 43 closes the introductory aen lessons with Red/Orange closed and Yellow begun. [Full care and socialization](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Training state](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Banking procedure](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md).
+
+**Days 41–49.** Third batch from the same three staging smithies takes eight inclusive repair days, 41–48, alongside aen practice, Nyx, ordinary leisure and robe work. Count, materials, payments and exact freight terms remain OPEN. Day 49 final check, packing and existing-provider pickup; approximately two days transit. Confirm actual receipt before customer approval on Day 51.
+
+**Days 50–51.** [Full completion and public-debut record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) owns the finished garment and three-stop sequence: Yellow Blacksmith Row mailwright, familiar city abecca/barista friend, then staging smithies. She wears robe and exact White Craftsmanship badge; Nyx rides in the backpack with the Green crystal in a separate secure pouch. Fourth staging visit, no descent. The robe and cub attract attention without instant fame or universal acceptance.
+
+**Exit/dependencies.** Physical robe, Nyx, business, bank account and developing aen carry into Yellow; topology is technically OPEN despite narrative completion. No early Sprite, Dimensional Ring, Blue Support credential or native-energy Genesis Robe. Stage II has not begun. [Yellow opens Day 63](../ARC_003/ARC.md) after the twelve-elapsed-day jump.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Book Red · Orange · independent work, certification and Nyx
 
 [Current Day 0–39 ledger](../../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md). These are author-selected scenes and intervals, not new chapter assignments.

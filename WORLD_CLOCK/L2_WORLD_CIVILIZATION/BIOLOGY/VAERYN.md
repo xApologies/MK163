@@ -1,3 +1,15 @@
+# Vaeryn juvenile nutrition · Nyx observation
+
+The new [Nyx care record](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) fixes his tiny vivid orange almost-luminous flowers, instinctive and less effective than adult flower sustenance, and Green Genesis crystal nourishment. These are separate sources; juvenile flower color is not adult stripe color. This individual record does not establish universal juvenile flower color, all-flower vaen status, precise conversion, crystal grade/rate/lifespan, or stripe onset. The two original approved visual references and all prior species/parent-fate limits remain unchanged.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Vaeryn · Green Realm felines
 
 Protected spelling **Vaeryn**, pronounced **VAY-rin**.

@@ -1,3 +1,22 @@
+# Physical Chainmail Robe · Day 50 completion, Day 51 debut
+
+### Day 50 — Completion
+
+Kaira completes her first **physical five-layer Chainmail Robe**, after beginning experiments Day 11 and intermittently working through business, lessons and Nyx care. Approx. 39 elapsed days between Day 11 and Day 50. Garment: opaque gray-black, form-fitting/athletic, hooded, controlled drape, no flowing flared hem; front, back and side slits with magnetic ring closures; supplier-made Genesis-infused iron elastic self-closing rings with selected mass reduction. Approx. 250,000 robe rings is a **planning estimate**, not audited final count. Do not substitute later native-energy Genesis Robe. Author-approved robe image in existing repository is an imperfect silhouette reference, not a validated weave proof.
+
+### Day 51 — Public debut and arc ending
+Kaira wears the completed robe and her White Craftsmanship badge. Nyx accompanies her **in her backpack** with a securely carried **Green Genesis crystal in a separate pouch**. The crystal provides portable energy nourishment: she can take Nyx out, hold him and let him siphon energy as needed; a crystal is valuable and is depleted gradually, not instantly. Nyx's backpack becomes a familiar mobile resting place. At first stop, the city master mailwright friend on Yellow Blacksmith Row sees the finished robe, recognizes her technical skill, and meets the young Vaeryn; he may be surprised at her raising a potentially huge territorial species. Second stop, her familiar abecca shop and barista friend: Kaira displays robe and introduces Nyx; he may sit in lap/on a permitted chair, play with a small ball or feather wand, or nap. Third stop, Violet Dungeon staging settlement: she follows up with the **three smithies** on returned customer repairs and wears the robe in public; professional smiths can appreciate its complex weave, workmanship, fitted drape, and precision. Shipment picked up Day 49 may arrive approximately Day 51; verify receipt before writing customer approval. No dungeon descent, Black Sprite bond or Dimensional Ring. The robe and cub both attract attention; no instant celebrity or blanket public acceptance.
+
+This selects narrative completion, not solved engineering. [Materials and unresolved topology](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) owns the technical boundary. The small maker’s signature and its unselected placement remain governed by the earlier Book Red decision below. The distinct native-energy Genesis Robe remains in Violet. **Commission Day 0 is not the historical Day Zero of the Age of Knowledge**: that later retrospective date/scene remains OPEN. Social/cultural influence grows in Yellow; no instant kingdom-wide phenomenon or blanket acceptance. [Day ledger](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Physical Chainmail Robe and later native Genesis Robe
 
 **Book Red consolidation · 2026-11-07.** The original garment retains magnetic connections along its front, back and side slits. Kaira integrates a small chainmail maker’s signature in original robes; chest, shoulder or back of hood are possibilities, not fixed placement. The Alchemist’s Yellow commission and sponsorship are now selected, with design and terms OPEN. The distinct energy garment, paired ring behavior and Crown research belong at [Genesis Robe](GENESIS_ROBE.md). Earlier candidate-only descriptions are superseded only for these events; no MK147 or MK117 plot is imported wholesale.

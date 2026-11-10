@@ -1,3 +1,27 @@
+# Orange completion · stable event extensions
+
+[Running ledger through Day 63](ORANGE_RUNNING_DAY_LEDGER.md) owns dates. All earlier anchored events persist; this extends rather than restarts the commission clock.
+
+| Stable ID | Placement | Participants and change of state | Dependency |
+|---|---|---|---|
+| OR006-BANK-FIRST | Working Day −1 | Kaira/clerk; first paper account and Mage Glass credential, crystals in custody. | Early apartment search; exact viewing relation OPEN. |
+| OR006-AEN-STAGE-I | Days 21, 27, 32, 38, 43 | Kaira/accredited tutor; points → first closed rings, then independent practice. | Day 15 inquiry / Day 17 follow-up; not Stage II. |
+| OR006-NYX-CARE | Days 39 evening–42 | Kaira/Nyx; home adjustment, orange flowers, realm-fauna specialist referral, Green crystal nourishment. | Day 39 third return/adoption; father’s fate remains unknown. |
+| OR006-REPAIR-THIRD | Days 41–49 | Kaira/three smithies/same carrier; third batch repaired 41–48, checked/packed/picked up 49. | Existing contracts; counts/payments OPEN. |
+| OR006-ROBE-COMPLETE | Day 50 | Kaira completes physical five-layer robe. | Intermittent work since Day 11, no verified weave topology. |
+| OR006-ORANGE-FINALE | Day 51 | Kaira/Nyx, mailwright, barista, three staging smithies; robe debuted, fourth visit. | Receipts precede approval; no dungeon descent. |
+| OR006-YELLOW-OPEN | Day 63 | Kaira practicing Green closure at home, robe worn, Nyx asleep in lap. | Days 52–62 ellipsis; three closed rings, no Stage II. |
+
+Commission Day 0 and historical Age of Knowledge Day Zero are distinct. The latter remains undated; no automatic equivalence to Day 51. No replacement for the detailed event or character owners.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_DAY_LEDGER_COMPLETE_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Orange timeline · commission Day 0 through Day 39
 
 [Current running day ledger](ORANGE_RUNNING_DAY_LEDGER.md) owns elapsed days and visit order. Day 12: first staging visit; unranked listing deferred, two private smithy contacts and separate freight referral. Vaeryn warning; three mineral vaen on the first return. Day 26: second visit, first eleven repairs approved, third smithy joins, White Chainmail Armorsmith after appraisal and practical. Day 39: third visit, backpack without shirt; finds the dead mother and rescues Nyx. Completion of the physical robe remains undated. Earlier approximate Day 13/14 visit and unassigned third-visit day are superseded.

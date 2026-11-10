@@ -1,3 +1,15 @@
+# Bank custody and ordinary transactions
+
+The new [banking owner](BANKING_AND_MAGE_GLASS_ACCOUNTS.md) records handwritten accounts and the fixed-manifold Mage Glass verification card. Deposited crystals remain customer property unless exchanged/sold; no automatic conversion to eln or card-held balance. Existing currency/commodity schedules remain, while Kaira’s exact crystal price/holdings and banking fees are unselected.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 > **Live Model 006 current authority — 2026-10-19:** The explicit 180-ahm exchange and approved White-note series supersede earlier uncertainty; commodity distinctions remain. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

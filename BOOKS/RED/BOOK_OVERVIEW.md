@@ -1,3 +1,15 @@
+# Book Red · Orange exit and Yellow opening
+
+Orange (Arc 2) now completes the physical robe Day 50 and ends with public debut Day 51. Yellow (Arc 3) opens Day 63 after twelve elapsed days, with Nyx in Kaira’s lap during Green aen closure practice. [Orange](ARCS/ARC_002/ARC.md) · [Yellow](ARCS/ARC_003/ARC.md) · [Day ledger](../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md). All seven arc scopes and later selected milestones remain intact.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Book Red · seven-arc index
 
 **Book Red consolidation · 2026-11-07.** These colors are arcs **within Book Red**, not separate books, realm assignments, dungeon ranks or certification scores.

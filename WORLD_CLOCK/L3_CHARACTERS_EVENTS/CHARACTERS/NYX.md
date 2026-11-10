@@ -1,3 +1,19 @@
+# Nyx · home, nourishment and supervised travel after Day 39
+
+Day 39 evening: Kaira brings Nyx home; he settles into the apartment, plays and rests/sleeps while she does not yet understand his care. Days 40–41: she observes his own tiny vibrant orange, almost-luminous flowers. Day 42 the Green District city Accord Registry refers her to a local realm-fauna specialist at an unnamed institution of learning. She learns about Vaeryn energy nutrition, parental flower sustenance, juvenile self-manifestation and Green Genesis crystal feeding. Researcher placement on Day 40 is superseded. She withdraws or arranges withdrawal of one banked Green crystal; precise withdrawal time remains OPEN. This is a financially painful but worthwhile commitment with gradual depletion over an extended period. [Bank custody and crystal distinction](../../L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md).
+
+From adoption onward, Kaira ordinarily takes Nyx with her rather than leaving him home alone. She deliberately socializes him with friendly humans and ordinary city environments, under her supervision, so he learns familiarity and trust rather than treating every person as a threat. He is a young cub, playful and frequently sleeping; his backpack is his familiar traveling refuge. Do not assume unrestricted access to every commercial establishment, unmonitored interactions, immediate tameness of an adult Vaeryn, or that a tiny backpack remains adequate indefinitely. He has no mature dermal stripes at this age. Adult male Vaeryn transition Green/Blue/Violet; females Red/Orange/Yellow; his juvenile manifested flowers are vivid orange, nearly but not fully luminous. His Green crystal sustenance and naturally manifested flowers are distinct sources. The parent-flower mechanism remains canonical; juvenile own-flower expression is instinctive but smaller/less effective. No animal-meat feeding requirement. The crystal's grade, price, lifespan and absorption rate remain open.
+
+On Day 51 he travels in the backpack; the Green Genesis crystal is secure in a **separate pouch**. Kaira can take him out, hold him and allow energy siphoning as needed. At the abecca shop he may sit in her lap/on a permitted chair, play with a small ball or feather wand, or nap; these are options, not mandatory actions or guaranteed shop access. At the Day 63 opening he is asleep in her lap. Exact medical needs, naming moment, return-home transport details and growth schedule remain OPEN. Mother remains deceased; father was hunted with fate unknown. This rescue/adoption is not a Black bond.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Nyx · the Day 39 rescue
 
 Nyx is a **male Vaeryn**, about **seven weeks** old, black, with **no visible adult striping**. [Species and adult-only visual reference](../../L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md). His established later rideability by Blackstone entry stands; no new saddle, riding scene or exact onset age is selected.

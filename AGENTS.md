@@ -1,3 +1,15 @@
+# Current Orange completion · 006
+
+Read [the current day ledger](CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) and [the supersessions](PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Physical robe completed Day 50, public debut/Orange finale Day 51; Yellow opens Day 63. aen lessons 21/27/32/38/43; three closed rings by Day 63, no Stage II. Day 42 realm-fauna referral and banked Green crystal nourishment; crystal is not the mineral vaen keepsake. Banking Day −1 is provisional; commission Day 0 is not Age of Knowledge Day Zero. Preserve originals, exact badge/adult images and all unrelated canon. No inherited repo edits, premature Sprite/Ring or invented weave.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Current Orange cumulative checkpoint · 005
 
 Read [the day ledger](CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) and [the supersessions](PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md). Day 12: no unranked listing, private subcontracting allowed, Vaeryn warning. Day 26: completed work plus supervised practical; White Chainmail Armorsmith only. Supplier made the rings. Day 39: third staging visit, no shirt, mother dead, father’s fate unknown, seven-week male cub without adult stripes. Use the exact approved badge and adult species images within their stated scope. No inherited repo edits, early Sprite, Blue Support credential or Ring.

@@ -67,3 +67,6 @@ PROVENANCE/WORKSHOP/ORANGE_ARC_2026_11_08/** -text -whitespace
 
 # Preserve checkpoint 005 originals exactly, including both author JPEGs.
 PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/** -text -whitespace
+
+# Preserve Orange completion 006 source bytes; unchanged 005 members are referenced.
+PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/** -text -whitespace

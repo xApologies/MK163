@@ -1,0 +1,137 @@
+{
+  "status": "PASS",
+  "baseline": "4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c",
+  "archive": "Orange completion.zip",
+  "archive_bytes": 833353,
+  "archive_sha256": "6de8b2be15eaa70179ab028a6c77cbac55606f6acb8eeed2201286dc67c5bfeb",
+  "manifest_hashes": 19,
+  "source_members_exact": 20,
+  "unchanged_members_reused": 12,
+  "new_source_members": 8,
+  "images_sha256": {
+    "VISUAL_REFERENCES/ACCORD_REGISTRY_FIVE_BADGES_APPROVED.jpeg": "213656a94b6cd02686f0b26f2131a250c4edf9d48d84375e303f7ba6304dc3fc",
+    "VISUAL_REFERENCES/VAERYN_ADULT_AUTHOR_REFERENCE.jpeg": "6e400136b30f2ca18363bcbc8ee675db3ab8e09bda5d56c94b475b8ecf08e334"
+  },
+  "prior_files_preserved": 614,
+  "prior_files_byte_identical": 593,
+  "prior_history_files_byte_identical": 280,
+  "added": 14,
+  "modified": 21,
+  "deleted": 0,
+  "checked_links": 108,
+  "topic_rows": 15,
+  "supersession_rows": 14,
+  "visit_days": [
+    12,
+    26,
+    39,
+    51
+  ],
+  "lesson_days": [
+    21,
+    27,
+    32,
+    38,
+    43
+  ],
+  "repair_spans": [
+    5,
+    8,
+    8
+  ],
+  "robe_completion_day": 50,
+  "orange_finale_day": 51,
+  "yellow_opening_day": 63,
+  "elapsed_gap": 12,
+  "protected_owner_count": 14,
+  "support_score": "54/91 Green",
+  "unresolved_blocking_conflicts": [],
+  "literal_transcript_complete": false,
+  "changes": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_002/ARC.md",
+    "BOOKS/RED/ARCS/ARC_003/ARC.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md",
+    "CHECKPOINTS/ORANGE_COMPLETION_006_VALIDATION.json",
+    "CHECKPOINTS/TOOLS/validate_orange_completion_006.py",
+    "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+    "CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/AEN_STAGE_ONE_AND_YELLOW_HANDOFF_006.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/BANKING_MAGE_GLASS_006.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/CHECKPOINT_HISTORY.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/CODEX_INTEGRATION_006.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_DAY_LEDGER_COMPLETE_006.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/README.md",
+    "PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/CURRENCY_AND_COMMODITY_EXCHANGE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+  ],
+  "legacy_checks": {
+    "legacy003_current_structure": {
+      "status": "PASS",
+      "scope": "Current structure, original source/evidence and recorded acceptance checks",
+      "files": 242,
+      "topics": 76,
+      "author_passages": 67
+    },
+    "delta005_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "live006_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "live007_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "live008_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "live009_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "live009b_source": {
+      "status": "PASS",
+      "scope": "Original supplied ZIP package validator"
+    },
+    "book_red_historical_snapshot": {
+      "status": "PASS",
+      "scope": "Original pinned commit, Git blob reads; does not claim current semantic validation",
+      "snapshot": "2992259ffa0cb44f2c70e9040c35feda91f5858b"
+    },
+    "orange_20261108_historical_snapshot": {
+      "status": "PASS",
+      "scope": "Original pinned commit, Git blob reads; does not claim current semantic validation",
+      "snapshot": "4e7a340b3b6c5dd5e9931239988eb71e3f53288d"
+    },
+    "orange005_historical_snapshot": {
+      "status": "PASS",
+      "scope": "Original pinned commit, Git blob reads; does not claim current semantic validation",
+      "snapshot": "4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c"
+    }
+  },
+  "inbox_unchanged_files": 18,
+  "source_scope": "Complete supplied decision-record payload preserved; no literal transcript-completeness claim"
+}

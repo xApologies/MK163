@@ -1,0 +1,11 @@
+# Codex Handoff — MK163 Cumulative Checkpoint 006
+
+This archive is a **cumulative handoff**, preserving all files of MK163 Cumulative 005 plus four new topical authority files, a new checkpoint history entry, updated README, and fresh manifest. It closes Book Red **Orange Arc Day 51** and creates a **Yellow Arc Day 63 opening**. Do not push automatically on receipt; the author will upload later and explicitly ask Codex to integrate.
+
+## Recommended scoped integration
+1. Inspect current `xApologies/MK163` default branch and checkpoint 005 audit. Compare rather than duplicate the 001–005 source archive already imported in `PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09`.
+2. Add checkpoint 006 source records and update canonical owners: `BOOKS/RED/ARCS/ARC_002/ARC.md`, `BOOKS/RED/ARCS/ARC_003/ARC.md`, `CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md`, relevant Aen biology/training and economy/banking owner(s), and `WORLD_CLOCK/CURRENT_MODEL_INDEX.md`. Preserve prior text as historical evidence and record supersessions explicitly.
+3. Preserve existing original author-approved five-badge JPEG and adult Vaeryn JPEG **byte-for-byte**. Do not generate or substitute imagery. Existing robe author reference already in MK163 is imperfect and must not be reinterpreted as a validated physical weave.
+4. Explicitly distinguish Day 0 commission from the separate historical 'Day Zero of the Age of Knowledge', which has not been dated. Keep Day -1 bank account placement working until early apartment viewings are reconciled. Preserve aen dates 21/27/32/38/43 and 42 realm-fauna referral, 41–48 repairs, 49 pickup, 50 robe completion, 51 public debut, 63 Yellow opening.
+5. Preserve AERA inheritance; do not copy AERA physics; do not alter `_raeon`, MK173 or other repos. No invented cast, prices, crystal consumption rate, institution name, formal species taxonomy, or mechanically solved weave.
+6. Validate relative-day arithmetic, protected spellings and image hashes; record integration coverage, explicit unresolved items, changed files, and commit SHA. Push only when authorized by the user.

@@ -1,3 +1,15 @@
+# Third repair cycle and unresolved accounts
+
+The third damaged-mail batch from three staging smithies arrives Day 41; repairs run Days 41–48 inclusive, then check/pack/pickup Day 49 and approximately Day 51 delivery. [Chronology](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) retains the first/second cycles and receipt-before-approval requirement. Exact third-batch count, payments, materials, supplies, margin and freight charges remain OPEN. No new uniform price or paid invoice is inferred.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
 # Orange repair cycles and transaction limits
 
 Independent subcontracting needs no Registry listing. Eleven items arrive Day 16; repairs on Days 19–23, pickup Day 25 and customer acceptance Day 26. A third smithy joins. Second batch arrives Day 28, count OPEN; provider collects Day 37. No exact invoice, price, payment date or freight charge is established. The 20 eln offer for one mineral vaen is illustrative and rejected; not a sale or universal valuation. Prior 0.9× city repair offer, locality premium and supplier prices are unchanged. [Day ledger](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).

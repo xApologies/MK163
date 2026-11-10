@@ -1,3 +1,15 @@
+# Orange completion 006 · settled dates and remaining questions
+
+Robe completion **Day 50**, Orange finale **Day 51**, Yellow opening **Day 63**. Five aen lessons **21/27/32/38/43** and Day 42 realm-fauna referral are now selected. Day −1 banking remains working; precise withdrawal time, account security details, prices/crystal lifetime, instructor/researcher/institution names, exact weave, father’s fate and remaining Yellow dates stay OPEN. Three closed rings by Day 63 is not Stage II or six closures. [Complete supersessions, open parameters and source limits](ORANGE_COMPLETION_006_SUPERSESSIONS.md).
+
+Checkpoint 006 · 2026-11-10.
+
+## Earlier record · preserved verbatim
+
+All earlier questions remain unless explicitly answered above; superseded undated completion/lesson/care statements are historical.
+
+---
+
 # Orange checkpoint 005 · settled and unselected
 
 Visits are dated **12, 26 and 39**. Appraisal plus practical establishes White Chainmail Armorsmith only. Actual listing activation remains OPEN; private repairs need no listing. The eleven first repairs are accepted, while actual prices/payments, freight fees and the second batch count are OPEN. No chosen tutor/fee/lesson, exact decklist, mineral identity/value, mushroom cultivation, practical station count/duration or alternate badge design. Stripe triggers/onset, exact flower mechanics, father’s fate, attacker and specific Shaping remain OPEN; mother is dead. Absolute dates, naming/care of Nyx and date of Orange robe reveal remain unassigned. [Day ledger](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
