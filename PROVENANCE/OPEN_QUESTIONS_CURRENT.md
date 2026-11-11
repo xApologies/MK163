@@ -1,3 +1,15 @@
+# Resolved: original Checkpoint 018 daily-ledger bytes
+
+Both Day 0–116 historical originals (.md and .csv) are recovered exactly. The historical 018 ledger OPEN item below is closed. The active Day 0–167 chronology is unchanged; recovered historical events are not merged into it or treated as new canon. Calendar totals/week alignment, other source gaps and all design questions remain OPEN as recorded.
+
+[Repair audit and validated hashes](../CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/INTEGRATION_REPORT.md).
+
+## Prior record · preserved verbatim
+
+Only the two-file historical-gap status above is superseded. Every other scoped decision, open question and source boundary remains.
+
+---
+
 # Checkpoint 020 decisions versus remaining OPENs
 
 Now selected: incomes 310/580/890/1290/3000/5100; ordinary robe tier prices 560/770/980/1190/1400, Kaira original 1550 and Registry retail 1700; monthly seven-robe plan; calendar names and Day 0 date/weekday anchor; first Green crystal withdrawal 42 and total three, further 94/137; Nyx dated growth/flowers; Green/Blue aen closures 85/123; Age of Knowledge founding proposal 164; Black Sprite bond/eyes 166. Older OPEN statements below are superseded only for these exact parameters.

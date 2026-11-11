@@ -1,3 +1,15 @@
+# Checkpoint 020 accumulated historical repair
+
+The repaired ZIP has SHA-256 **8d6b7366c94ee1e587507972be70741b18a8b9faf8338e811ca619c0ef456787**. Its 41 earlier members are unchanged; only the two original 018 ledgers and repair note are new. Both historical files match the original 018 manifest; all 115 declared hashes across four manifests pass. The unchanged parent manifests are original evidence; their outer inventory is not rewritten to pretend it listed the new repair note. The new mapping accounts for all 44 entries.
+
+[Repair source map](WORKSHOP/CUMULATIVE_020_2026_11_11/HISTORICAL_LEDGER_REPAIR_MAP.json) · [Additive repair audit](../CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/INTEGRATION_REPORT.md).
+
+## Prior record · preserved verbatim
+
+Only the two-file historical-gap status above is superseded. Every other scoped decision, open question and source boundary remains.
+
+---
+
 # Cumulative 020 · supplied accumulated 016–020 records
 
 Physical ZIP MK163_CUMULATIVE_CHECKPOINT_020_ACCUMULATED_2026-11-11.zip, SHA-256 **97f83c0752fd011ece795a3fcdb05f09392b4fa5d28c0d5c54eee8d4049d6a79**. 41 supplied members, 39 new preserved, 2 exact existing Black visuals reused. Full path/hash manifest and approved historical gap in [source map](WORKSHOP/CUMULATIVE_020_2026_11_11/SOURCE_MAP.json); [integration audit](../CHECKPOINTS/CUMULATIVE_020/INTEGRATION_REPORT.md). No archive container, inbox, external repository or repeated Pouch 015 payload is committed. The author approves integration with missing 018 historical ledgers documented; original complete-parent claims are retained as source history, not verified facts.

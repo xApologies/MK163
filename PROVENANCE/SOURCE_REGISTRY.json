@@ -262,6 +262,22 @@
       "reused_members": 2,
       "missing_historical_018_ledgers": 2,
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_CUMULATIVE_CHECKPOINT_020_HISTORICAL_LEDGER_REPAIR",
+      "date": "2026-11-11",
+      "baseline": "9062336207f55413f1c753f1214653b4fac8ac2b",
+      "physical_filename": "MK163_CUMULATIVE_CHECKPOINT_020_HISTORICAL_LEDGER_REPAIRED_2026-11-11.zip",
+      "archive_sha256": "8d6b7366c94ee1e587507972be70741b18a8b9faf8338e811ca619c0ef456787",
+      "prior_archive_sha256": "97f83c0752fd011ece795a3fcdb05f09392b4fa5d28c0d5c54eee8d4049d6a79",
+      "source_map": "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/HISTORICAL_LEDGER_REPAIR_MAP.json",
+      "audit": "CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/VALIDATION.json",
+      "effect": "Restore the two exact historical 018 ledgers; current 020 canon and prior checkpoints unchanged",
+      "unchanged_archive_entries": 41,
+      "new_archive_entries": 3,
+      "historical_gap": "resolved",
+      "literal_transcript_complete": false
     }
   ]
 }

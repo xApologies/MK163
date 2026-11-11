@@ -1,3 +1,15 @@
+# Checkpoint 020 historical ledger repair · 2026-11-11
+
+The two previously missing Checkpoint 018 Day 0–116 ledger originals are now restored and verified against their original SHA-256 values. The current Day 0–167 ledger and all canonical owners are unchanged. Earlier missing-file statements below and in the original 020 audit describe the pre-repair snapshot. No other historical-source completeness claim or calendar resolution follows.
+
+[Repair audit](CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/INTEGRATION_REPORT.md) · [Exact source mapping](PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/HISTORICAL_LEDGER_REPAIR_MAP.json).
+
+## Prior record · preserved verbatim
+
+Only the two-file historical-gap status above is superseded. Every other scoped decision, open question and source boundary remains.
+
+---
+
 # Current cumulative checkpoint 020 · Day 167
 
 Read [the successor Red day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) and [the scoped supersessions](CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Orange still ends 51; explicit retrospective attendance/withdrawal additions do not move its ending. Yellow starts 63 and remains unfinished after 167. Green/Blue aen close 85/123, Violet OPEN; Sprite bond and Black/Neon eyes occur 166, not White Awakening. Age of Knowledge founding proposal 164 is not commission Day 0. Three Green crystals withdrawn 42/94/137 leave 2/1/0 banked. Seven original robes/month from 116: Kaira 1, two home-based smiths 3 each. Revised individual incomes and robe tiers live in existing L2 owners; no Pouch 015 energy or inherited repo rewrite.

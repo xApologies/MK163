@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "date": "2026-11-11",
+  "scope": "Accumulated historical ledger repair only",
+  "baseline": "9062336207f55413f1c753f1214653b4fac8ac2b",
+  "archive": "MK163_CUMULATIVE_CHECKPOINT_020_HISTORICAL_LEDGER_REPAIRED_2026-11-11.zip",
+  "archive_sha256": "8d6b7366c94ee1e587507972be70741b18a8b9faf8338e811ca619c0ef456787",
+  "prior_archive_sha256": "97f83c0752fd011ece795a3fcdb05f09392b4fa5d28c0d5c54eee8d4049d6a79",
+  "source_members_verified": 44,
+  "prior_source_members_reused_without_changes": 41,
+  "new_source_members": 3,
+  "manifest_hashes_passed": 115,
+  "manifests": {
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/INHERITED_CHECKPOINT_019/INHERITED_CHECKPOINT_018/INHERITED_CHECKPOINT_017/SHA256_MANIFEST_017.json": 19,
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/INHERITED_CHECKPOINT_019/INHERITED_CHECKPOINT_018/SHA256_MANIFEST_018.json": 26,
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/INHERITED_CHECKPOINT_019/SHA256_MANIFEST_019.json": 30,
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/SHA256_MANIFEST_020.json": 40
+  },
+  "historical_rows_md_csv_agree": 117,
+  "historical_018_ledger_gap": "RESOLVED",
+  "new_originals": {
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/INHERITED_CHECKPOINT_019/INHERITED_CHECKPOINT_018/CALENDAR/DAILY_LEDGER_DAY_000_116.md": {
+      "sha256": "85b169f49a2fc5149f09786656ef0d74a69b1f4e36e4fd903f77cb0645dc9cc4",
+      "bytes": 10660,
+      "disposition": "new repair entry",
+      "installed": "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/CALENDAR/DAILY_LEDGER_DAY_000_116.md"
+    },
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/INHERITED_CHECKPOINT_019/INHERITED_CHECKPOINT_018/CALENDAR/DAILY_LEDGER_DAY_000_116.csv": {
+      "sha256": "687fcf95130f63d5718ec433789edc64f2ca957a1dcd7db2e31154ba5c6e5d94",
+      "bytes": 8264,
+      "disposition": "new repair entry",
+      "installed": "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/CALENDAR/DAILY_LEDGER_DAY_000_116.csv"
+    },
+    "MK163_CUMULATIVE_CHECKPOINT_020_2026-11-11/HISTORICAL_LEDGER_REPAIR_NOTE.md": {
+      "sha256": "ed2d7bbc80c6e8e091dcad9ea453b300d3b115deb971b3a0177bb185fa90dc6a",
+      "bytes": 1095,
+      "disposition": "new repair entry",
+      "installed": "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/HISTORICAL_LEDGER_REPAIR_NOTE.md"
+    }
+  },
+  "files_added": [
+    "CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/CUMULATIVE_020_HISTORICAL_REPAIR/VALIDATION.json",
+    "CHECKPOINTS/TOOLS/validate_checkpoint_020_repair.py",
+    "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/CALENDAR/DAILY_LEDGER_DAY_000_116.csv",
+    "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/CALENDAR/DAILY_LEDGER_DAY_000_116.md",
+    "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/HISTORICAL_LEDGER_REPAIR_NOTE.md",
+    "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/HISTORICAL_LEDGER_REPAIR_MAP.json"
+  ],
+  "files_modified": [
+    "AGENTS.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json"
+  ],
+  "files_deleted": [],
+  "prior_files_byte_identical": 742,
+  "canonical_owners_and_current_day_000_167_ledger_unchanged": true,
+  "all_previous_checkpoint_workshop_and_images_unchanged": true,
+  "modified_markdown_prior_bytes_preserved": true,
+  "source_registry_prior_entries_preserved": true,
+  "repair_command": "python -B -X utf8 CHECKPOINTS/TOOLS/validate_checkpoint_020_repair.py --root . --archive-dir _inbox",
+  "repair_result": "PASS: source SHA-256, ZIP CRC and safe paths, manifests, historical ledger agreement, full baseline file comparison, scoped metadata, exact path inventory and Git whitespace checks",
+  "structural_command": "python -B -X utf8 CHECKPOINTS/TOOLS/validate_live_model.py --root . --manifest CHECKPOINTS/LIVE_MODEL_003_DELIVERY_MANIFEST.json --structural-only",
+  "structural_result": {
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": []
+  },
+  "remote_prepublication_head": "9062336207f55413f1c753f1214653b4fac8ac2b",
+  "publication_status": "Pre-commit validation receipt; final commit and remote verification reported separately after push",
+  "unresolved_by_this_repair": [
+    "Calendar total/week alignment",
+    "Other missing-source references",
+    "Nyx rough-age and rental-deck placement questions",
+    "Existing design OPENs"
+  ],
+  "new_conflicts": [],
+  "literal_transcript_completeness_claimed": false,
+  "outer_manifests_regenerated": false,
+  "outer_manifest_scope": "Preserved original inventories; restored files covered by 018 manifest; all 44 entries including new repair note hashed in additive repair map"
+}
