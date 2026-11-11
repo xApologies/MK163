@@ -1,0 +1,62 @@
+{
+  "working_hours_per_red_charge": 2.7,
+  "exact_equal_mix_hours_per_red_charge": 2.6073460941541646,
+  "exact_equal_mix_fraction": "5040/1933",
+  "warning": "2.7h is provisional author calibration, not exact harmonic-rate result",
+  "rows": [
+    {
+      "basin": "Red",
+      "cumulative_red_equivalent": 1,
+      "incremental_red_equivalent": 1,
+      "active_hours_incremental_at_2h42": 2.7,
+      "active_hours_cumulative_at_2h42": 2.7,
+      "active_hours_incremental_exact_equal_mix": 2.607346,
+      "active_hours_cumulative_exact_equal_mix": 2.607346
+    },
+    {
+      "basin": "Orange",
+      "cumulative_red_equivalent": 13,
+      "incremental_red_equivalent": 12,
+      "active_hours_incremental_at_2h42": 32.4,
+      "active_hours_cumulative_at_2h42": 35.1,
+      "active_hours_incremental_exact_equal_mix": 31.288153,
+      "active_hours_cumulative_exact_equal_mix": 33.895499
+    },
+    {
+      "basin": "Yellow",
+      "cumulative_red_equivalent": 143,
+      "incremental_red_equivalent": 130,
+      "active_hours_incremental_at_2h42": 351.0,
+      "active_hours_cumulative_at_2h42": 386.1,
+      "active_hours_incremental_exact_equal_mix": 338.954992,
+      "active_hours_cumulative_exact_equal_mix": 372.850491
+    },
+    {
+      "basin": "Green",
+      "cumulative_red_equivalent": 1001,
+      "incremental_red_equivalent": 858,
+      "active_hours_incremental_at_2h42": 2316.6,
+      "active_hours_cumulative_at_2h42": 2702.7,
+      "active_hours_incremental_exact_equal_mix": 2237.102949,
+      "active_hours_cumulative_exact_equal_mix": 2609.95344
+    },
+    {
+      "basin": "Blue",
+      "cumulative_red_equivalent": 5005,
+      "incremental_red_equivalent": 4004,
+      "active_hours_incremental_at_2h42": 10810.8,
+      "active_hours_cumulative_at_2h42": 13513.5,
+      "active_hours_incremental_exact_equal_mix": 10439.813761,
+      "active_hours_cumulative_exact_equal_mix": 13049.767201
+    },
+    {
+      "basin": "Violet",
+      "cumulative_red_equivalent": 15015,
+      "incremental_red_equivalent": 10010,
+      "active_hours_incremental_at_2h42": 27027.0,
+      "active_hours_cumulative_at_2h42": 40540.5,
+      "active_hours_incremental_exact_equal_mix": 26099.534402,
+      "active_hours_cumulative_exact_equal_mix": 39149.301604
+    }
+  ]
+}

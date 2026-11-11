@@ -1,3 +1,17 @@
+# Stored diamond energy · extraction fatigue prepaid
+
+Charging draws and organizes basin energy and incurs extraction/organization fatigue then. Discharging that stored, organized, docile energy **does not itself incur basin-extraction fatigue**. It does not establish elimination of all physiological/conceptual/control fatigue, grant missing knowledge/manifold geometry, or automate conscious Shaping execution. Personal charging capacity, attention and recovery remain constraints; no universal session cutoff follows from a Red-charge reference time.
+
+Aithren may carry separate Red, Orange and Blue reserves for an operation requiring those energies. Violet-state reserves can avoid the immediate burden of raw Violet extraction for a practitioner who fatigues quickly. Whether a high-state reservoir selectively discharges individual lower-basin components is OPEN. Existing active Card basin exclusivity and ordinary fatigue during initial extraction remain; a reserve supplies no automatic Card/aen concurrency bypass. [Stored-energy and charging owner](../L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md).
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/GENESIS_CRYSTALS_VS_DIAMONDS.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Applies existing exclusivity and fatigue to modular ordinary Cards and preserves the unresolved activation procedure. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

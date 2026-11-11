@@ -1,0 +1,61 @@
+{
+  "status": "conditional volume scaling for 25mm",
+  "volume_ratio_25mm_to_7mm": 45.55393586005832,
+  "7mm_red_charge_active_hours": 2.7,
+  "rows": [
+    {
+      "basin": "Red",
+      "red_equivalent_threshold": 1,
+      "incremental_red_equivalents": 1,
+      "7mm_incremental_active_hours": 2.7,
+      "7mm_total_active_hours": 2.7,
+      "25mm_incremental_active_hours": 122.995627,
+      "25mm_total_active_hours": 122.995627
+    },
+    {
+      "basin": "Orange",
+      "red_equivalent_threshold": 13,
+      "incremental_red_equivalents": 12,
+      "7mm_incremental_active_hours": 32.4,
+      "7mm_total_active_hours": 35.1,
+      "25mm_incremental_active_hours": 1475.947522,
+      "25mm_total_active_hours": 1598.943149
+    },
+    {
+      "basin": "Yellow",
+      "red_equivalent_threshold": 143,
+      "incremental_red_equivalents": 130,
+      "7mm_incremental_active_hours": 351.0,
+      "7mm_total_active_hours": 386.1,
+      "25mm_incremental_active_hours": 15989.431487,
+      "25mm_total_active_hours": 17588.374636
+    },
+    {
+      "basin": "Green",
+      "red_equivalent_threshold": 1001,
+      "incremental_red_equivalents": 858,
+      "7mm_incremental_active_hours": 2316.6,
+      "7mm_total_active_hours": 2702.7,
+      "25mm_incremental_active_hours": 105530.247813,
+      "25mm_total_active_hours": 123118.622449
+    },
+    {
+      "basin": "Blue",
+      "red_equivalent_threshold": 5005,
+      "incremental_red_equivalents": 4004,
+      "7mm_incremental_active_hours": 10810.8,
+      "7mm_total_active_hours": 13513.5,
+      "25mm_incremental_active_hours": 492474.489796,
+      "25mm_total_active_hours": 615593.112245
+    },
+    {
+      "basin": "Violet",
+      "red_equivalent_threshold": 15015,
+      "incremental_red_equivalents": 10010,
+      "7mm_incremental_active_hours": 27027.0,
+      "7mm_total_active_hours": 40540.5,
+      "25mm_incremental_active_hours": 1231186.22449,
+      "25mm_total_active_hours": 1846779.336735
+    }
+  ]
+}

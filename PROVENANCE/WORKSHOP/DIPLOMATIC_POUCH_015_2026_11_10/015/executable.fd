@@ -1,0 +1,17 @@
+# Codex execution instructions — MK163 Diplomatic Pouch 015
+**This `.fd` file is UTF-8 Markdown, named exactly as requested.** Read `README.md` and `PROVENANCE/DECISION_LEDGER.md` before making edits.
+
+## Goal
+Integrate the *new* global Genesis crystal/diamond and Shaping-energy economy decisions into `xApologies/MK163`, and the **Yellow Arc-only** narrative delta. Preserve earlier repo canon and checkpoint provenance.
+
+## Procedure
+1. Inspect working tree, active branch, default remote, last commit, and relevant current owner files listed in `PROVENANCE/SOURCE_POINTERS.md`. Do not assume this pouch's repo snapshot is current.
+2. Verify `ARCHIVE/MK163_CUMULATIVE_014_REVISED_UNIVERSAL_DIAMOND_ENERGY.zip` CRC and manifest. Unpack in a temporary work area; do not indiscriminately commit all archive files or reimport nested historical archives.
+3. Produce an authority/crosswalk table comparing each `CANON/` and `NARRATIVE/` delta to the current MK163 owners. Preserve full existing material, add scoped amendments; if current canon conflicts, stop and flag conflict for author rather than overwrite.
+4. Use existing World Clock source owners for Genesis diamonds, crystal prices, Cards, Binding Circles, Transduction, economy and character events. Create only minimal new documents if no suitable owner exists.
+5. The Yellow Arc is **not** Book Yellow and is **not** Orange Arc. Do not alter completed Orange material. Insert only grounded Yellow decisions, keeping OPEN details OPEN.
+6. `Shaping` is the operation; `Binding` is an interface. Treat MK727's 1,245 catalog as upstream provenance, not automatically MK163-owned. Do not silently import/rename/duplicate the catalog. Produce a proposed `SHAPINGS` migration plan with original IDs and interface metadata, awaiting author authorization.
+7. Preserve raw-crystal prices, five Card class benchmarks, mass-law historical calibration, revised charge ladder and the full 64-configuration matrix. Do not invent charged-diamond prices.
+8. Run `AUDIT/VALIDATION_PLAN.md`; write `INTEGRATION_REPORT.md`, `REVERSE_DIFF.md`, `OPEN_ISSUES.md`, and an exact changed-path list. Include numerical checks and source hashes.
+9. Stage changes only after review. **Do not commit or push until user explicitly approves.** After authorized push, audit remote SHA and affected files.
+10. If a file or repository is inaccessible, document it and stop that part; never claim a push or successful audit without verification.

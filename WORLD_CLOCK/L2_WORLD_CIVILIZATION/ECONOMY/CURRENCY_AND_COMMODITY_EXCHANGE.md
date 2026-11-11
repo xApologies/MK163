@@ -1,3 +1,29 @@
+# Diamond energy exchange · separate commodity and container
+
+Protected **aithren** (A-I-T-H-R-E-N) are adventurers; uppercase source emphasis is not a new spelling or profession.
+
+1. Aithren carry charged diamonds as reserves matched to their Shapings, e.g. separate Red, Orange and Blue reservoirs for an operation requiring those energies.
+2. Some people fatigue rapidly when directly accessing Violet; Violet-state diamonds permit use of previously stabilized energy without that extraction burden.
+3. Energy stored in diamonds is a tradeable commodity; the container has independent physical value. Empty, partially charged, and fully charged diamonds are not economically identical.
+4. Households and off-duty workers may charge portable diamonds over time, accumulating exchangeable energy. Charging is not automatically effortless: personal endurance/fatigue and attention constraints remain.
+5. Charging can offset income; a specialized charging occupation is *possible* but not proven profitable by the raw-crystal prices or active charging hours alone.
+6. Diamonds and naturally formed Genesis crystals are separate markets: stored accessible energy vs intrinsic basin structure.
+7. Charging time is an active-work quantity; elapsed days depend on daily capacity and recovery.
+8. The raw Genesis crystal price table is NOT a charged-diamond price table. No retail price, buyback price, margin, deposit, fee, or energy-to-eln parity has been canonized for charged diamonds.
+
+
+The six single-basin access Card concept costs **6 × 100 = 600 eln** in benchmark equipment, excluding blanks, tools and fees. [Card benchmark and scope](GENESIS_CARD_CLASS_PRICES.md); [Engineering/occupancy boundaries](../../L1_FANTASY/GENESIS_CARDS.md).
+
+OPEN: charged 7 mm/25 mm retail and buyback prices by state, spreads, container collateral/deposits, fees, certification, fractional charges and wages. Selective basin discharge remains OPEN. No exchange rate between raw-crystal value and stored diamond energy is created; neither active charging hours nor raw-crystal arithmetic establishes a profitable occupation.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/DIAMOND_EXCHANGE_AND_AITHREN.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Bank custody and ordinary transactions
 
 The new [banking owner](BANKING_AND_MAGE_GLASS_ACCOUNTS.md) records handwritten accounts and the fixed-manifold Mage Glass verification card. Deposited crystals remain customer property unless exchanged/sold; no automatic conversion to eln or card-held balance. Existing currency/commodity schedules remain, while Kaira’s exact crystal price/holdings and banking fees are unselected.

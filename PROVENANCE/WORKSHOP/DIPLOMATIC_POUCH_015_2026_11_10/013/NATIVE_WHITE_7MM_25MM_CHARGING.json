@@ -1,0 +1,116 @@
+{
+  "model": "equal native White superposition",
+  "exact_rate_red_equivalents_per_hour": "1933/5040",
+  "exact_7mm_red_hours": "5040/1933",
+  "size_volume_ratio": "15625/343",
+  "rows": [
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Red",
+      "red_equivalent_threshold": 1,
+      "incremental_red_equivalents": 1,
+      "empty_to_target_active_hours": 2.607346094154,
+      "previous_to_target_active_hours": 2.607346094154
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Orange",
+      "red_equivalent_threshold": 13,
+      "incremental_red_equivalents": 12,
+      "empty_to_target_active_hours": 33.895499224004,
+      "previous_to_target_active_hours": 31.28815312985
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Yellow",
+      "red_equivalent_threshold": 143,
+      "incremental_red_equivalents": 130,
+      "empty_to_target_active_hours": 372.850491464046,
+      "previous_to_target_active_hours": 338.954992240041
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Green",
+      "red_equivalent_threshold": 1001,
+      "incremental_red_equivalents": 858,
+      "empty_to_target_active_hours": 2609.953440248319,
+      "previous_to_target_active_hours": 2237.102948784273
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Blue",
+      "red_equivalent_threshold": 5005,
+      "incremental_red_equivalents": 4004,
+      "empty_to_target_active_hours": 13049.767201241593,
+      "previous_to_target_active_hours": 10439.813760993275
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 7,
+      "target": "Violet",
+      "red_equivalent_threshold": 15015,
+      "incremental_red_equivalents": 10010,
+      "empty_to_target_active_hours": 39149.30160372478,
+      "previous_to_target_active_hours": 26099.534402483187
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Red",
+      "red_equivalent_threshold": 1,
+      "incremental_red_equivalents": 1,
+      "empty_to_target_active_hours": 118.774876738072,
+      "previous_to_target_active_hours": 118.774876738072
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Orange",
+      "red_equivalent_threshold": 13,
+      "incremental_red_equivalents": 12,
+      "empty_to_target_active_hours": 1544.073397594941,
+      "previous_to_target_active_hours": 1425.298520856868
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Yellow",
+      "red_equivalent_threshold": 143,
+      "incremental_red_equivalents": 130,
+      "empty_to_target_active_hours": 16984.807373544347,
+      "previous_to_target_active_hours": 15440.733975949408
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Green",
+      "red_equivalent_threshold": 1001,
+      "incremental_red_equivalents": 858,
+      "empty_to_target_active_hours": 118893.65161481044,
+      "previous_to_target_active_hours": 101908.84424126608
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Blue",
+      "red_equivalent_threshold": 5005,
+      "incremental_red_equivalents": 4004,
+      "empty_to_target_active_hours": 594468.2580740522,
+      "previous_to_target_active_hours": 475574.60645924177
+    },
+    {
+      "pathway": "native_white_equal_six_component",
+      "diamond_edge_mm": 25,
+      "target": "Violet",
+      "red_equivalent_threshold": 15015,
+      "incremental_red_equivalents": 10010,
+      "empty_to_target_active_hours": 1783404.7742221565,
+      "previous_to_target_active_hours": 1188936.5161481043
+    }
+  ]
+}

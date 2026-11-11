@@ -1,3 +1,15 @@
+# Pouch 015 · global Genesis energy and scoped Yellow updates
+
+[Diamond storage, mass and all 768 charging outcomes](L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md) · [Natural crystal structure and fixed mass calibration](L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) · [Raw-crystal prices](L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md) · [Five Card benchmarks and six-Card concept cost](L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CARD_CLASS_PRICES.md) · [Cards/Shapings and unresolved implementation](L1_FANTASY/GENESIS_CARDS.md) · [Yellow commission recovery](../BOOKS/RED/ARCS/ARC_003/ARC.md) · [Integration audit](../CHECKPOINTS/DIPLOMATIC_POUCH_015/INTEGRATION_REPORT.md). Orange is unchanged; original cumulative checkpoints/images resolve through [the source inventory](../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/SOURCE_INVENTORY.json).
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Current Orange completion 006 · owners
 
 [Ledger through Day 63](../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) · [Orange finale](../BOOKS/RED/ARCS/ARC_002/ARC.md) · [Yellow opening](../BOOKS/RED/ARCS/ARC_003/ARC.md) · [Physical robe](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Nyx care](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [aen lessons](L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Banking](L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md) · [Integration audit](../CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md). Unchanged cumulative sources/images resolve through [the verified source map](../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json).

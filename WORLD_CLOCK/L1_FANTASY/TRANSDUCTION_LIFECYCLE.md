@@ -1,3 +1,15 @@
+# Shaping is the operation; Binding is an interface
+
+**Conceive → Shape → Hold → Resolve → Manifest → Release** remains the six-stage lifecycle. A Shaping is the realized operation; native expression, installed conventional Binding and ordinary Genesis Card are distinct personal interfaces. Prepared geometry assists without removing concept, control, loading, timing, conscious execution, fatigue or responsibility. No universal spell catalog is renamed or imported. [Proposed SHAPINGS organization](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/SHAPINGS_MIGRATION_PLAN.md) remains a plan awaiting authorization. Stored diamond energy changes the extraction-fatigue source, not this lifecycle or manifold knowledge requirement.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/SHAPINGS_CARDS_BINDINGS.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Qualifies personal versus external Card-relative localization while retaining all six stages, energy visibility and operator duties. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration

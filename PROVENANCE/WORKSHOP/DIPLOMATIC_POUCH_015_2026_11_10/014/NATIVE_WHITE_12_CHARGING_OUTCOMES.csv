@@ -1,0 +1,13 @@
+pathway,input_configuration,input_basin_count,cube_edge_mm,target_state,red_equivalent_threshold,incremental_red_equivalents,combined_red_equivalents_per_hour,from_empty_active_hours,from_previous_active_hours
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Red,1,1,0.38353174603174606,2.6073460941541646,2.6073460941541646
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Orange,3,2,0.38353174603174606,7.822038282462493,5.214692188308329
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Yellow,9,6,0.38353174603174606,23.46611484738748,15.644076564924987
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Green,18,9,0.38353174603174606,46.93222969477496,23.46611484738748
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Blue,36,18,0.38353174603174606,93.86445938954992,46.93222969477496
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,7,Violet,72,36,0.38353174603174606,187.72891877909984,93.86445938954992
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Red,1,1,0.38353174603174606,118.77487673807236,118.77487673807236
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Orange,3,2,0.38353174603174606,356.3246302142171,237.54975347614473
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Yellow,9,6,0.38353174603174606,1068.9738906426512,712.6492604284342
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Green,18,9,0.38353174603174606,2137.9477812853024,1068.9738906426512
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Blue,36,18,0.38353174603174606,4275.895562570605,2137.9477812853024
+native_white_equal_six_component,Native White (equal accessible six-basin composition),6,25,Violet,72,36,0.38353174603174606,8551.79112514121,4275.895562570605

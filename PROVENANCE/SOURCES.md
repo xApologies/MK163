@@ -1,3 +1,15 @@
+# Pouch 015 · cumulative source integration
+
+Attached **MK163_DIPLOMATIC_POUCH_015_YELLOW_ARC_GENESIS_ENERGY_CUMULATIVE.zip**, SHA-256 **188bfeedbddea8eaabf682d419de370a5a7d167ca3b232abe6533abd0d890130**; compared to fetched main **05c6977aebd5b5c6388fe9517f9435910538d793**. Ten archives pass CRC; 75 declared hashes pass. All 77 unique nonarchive leaves have exact repository mappings: 20 existing Orange 006 sources reused, 57 new checkpoint 007–015 sources preserved. [Source inventory](WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/SOURCE_INVENTORY.json) · [Audit](../CHECKPOINTS/DIPLOMATIC_POUCH_015/INTEGRATION_REPORT.md). Earlier source handoffs remain historical data. Full supplied payload preservation does not claim literal transcript recovery or wholesale upstream verification. Commit/push await the handoff’s explicit final approval gate.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Orange completion 006 · supplied source boundary
 
 Attached **Orange completion.zip**, checkpoint 006 dated 2026-11-10, SHA-256 **6de8b2be15eaa70179ab028a6c77cbac55606f6acb8eeed2201286dc67c5bfeb**, compared to current main **4bc6a822fcd2fe97eb53dd1216d602d3c7b0f62c**. All 19 manifest entries match sizes/hashes; all 20 archive members including manifest have an exact repository location in [SOURCE_MAP](WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/SOURCE_MAP.json). Twelve unchanged 005 members (including both original JPEGs) are referenced, eight new/changed members retained literally. Original prompts are evidence, not executable scripts; user’s current request authorizes this integration and upload. [Audit](../CHECKPOINTS/ORANGE_COMPLETION_006_INTEGRATION.md) · [Supersessions and omissions](ORANGE_COMPLETION_006_SUPERSESSIONS.md). Supplied decision records are fully retained; no literal transcript completeness or upstream crawl is claimed.

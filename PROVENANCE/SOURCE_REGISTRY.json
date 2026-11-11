@@ -233,6 +233,19 @@
       "unchanged_members_reused": 12,
       "new_or_changed_source_members": 8,
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_DIPLOMATIC_POUCH_015",
+      "date": "2026-11-10",
+      "physical_filename": "MK163_DIPLOMATIC_POUCH_015_YELLOW_ARC_GENESIS_ENERGY_CUMULATIVE.zip",
+      "baseline": "05c6977aebd5b5c6388fe9517f9435910538d793",
+      "archive_sha256": "188bfeedbddea8eaabf682d419de370a5a7d167ca3b232abe6533abd0d890130",
+      "state": "prepared locally; commit/push require approval",
+      "source_inventory": "PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/SOURCE_INVENTORY.json",
+      "audit": "CHECKPOINTS/DIPLOMATIC_POUCH_015/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md",
+      "validation": "CHECKPOINTS/DIPLOMATIC_POUCH_015/VALIDATION.json",
+      "literal_transcript_complete": false
     }
   ]
 }

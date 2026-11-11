@@ -1,3 +1,17 @@
+# Raw-crystal schedule retained · cube-price derivations
+
+The complete existing schedule below is unchanged: **20, 35, 60, 110, 230, 500 eln per 100 g** for Red–Violet; White **3,100 eln per 100 g**. Per kilogram: 200/350/600/1100/2300/5000/31000. No charged-diamond, dust or empty-container selling price follows.
+
+[Selected 25 mm and 7 mm crystal mass model](../TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) and [full twelve-row reference](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/014/ALL_12_MASS_AND_CRYSTAL_PRICE_RECORDS.csv) yield arithmetic same-volume crystal values, not mandatory retail quotes: **price = raw crystal grams / 100 × basin price per 100 g**. Red 25 mm is 20 eln; Red 7 mm is 0.43904 eln. Cutting costs, markup, market conditions and transaction conventions remain OPEN; White cube price cannot be computed without its unselected mass.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/014/MASTER_GENESIS_DIAMOND_AND_CRYSTAL_REFERENCE.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Genesis crystal market reference prices
 
 **Status:** AUTHOR-ESTABLISHED MK163 working reference; qualifications below apply.

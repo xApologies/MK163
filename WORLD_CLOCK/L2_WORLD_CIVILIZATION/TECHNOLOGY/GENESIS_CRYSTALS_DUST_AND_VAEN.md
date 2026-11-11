@@ -1,3 +1,33 @@
+# Natural Genesis crystals · structure, normalized mass and separate resources
+
+Genesis crystals are naturally forming, basin-specific **structured Genesis energy resources**. Ordinary practitioners cannot create them by Transduction. They supply intrinsic energy structure as well as energy for Binding installation, alchemy, ru’ne/sigils and fabrication. Mining/harvesting, scarcity and basin identity underpin their market. Installation/recipes may consume them when specified; not all uses are nondestructive. The RAM/configuration comparison is an analogy, not literal computer hardware.
+
+A rechargeable diamond reserve supplies organized energy; it **cannot replace the intrinsic basin-specific structure of a crystal required by a recipe**. A compatible reserve/conduit arrangement remains distinct from finite consumption. Genesis Dust, charged diamonds, natural crystals, and two-stage identity-bearing vaen remain separate; the complete prior vaen model below is unchanged.
+
+## Author-selected fictional mass normalization
+
+Reference raw crystal cube: **25 mm**, **15.625 cm³**, Red **100 g**. Small comparison cube: **7 mm**, **0.343 cm³**. Same-basin density is held constant between these references; volume factor (7/25)^3 = **0.021952**, inverse **15625/343 ≈ 45.55393586**. This is volume equivalence, not a packing count.
+
+For the six discrete historical calibration factors H = **[1,13,143,1001,5005,15015]**, mass m25(H) = **100 g × [1 + 0.2 log10(H)]**; m7 = m25 × (7/25)^3; effective density = m25 / 15.625 cm³. The coefficient 0.2 is selected phenomenology, not a derivation from E=mc² or measured mineral physics. Fixed volume/increasing mass implies increasing effective density; at fixed mass, edge varies with inverse-density cube root. Do not extend the law continuously beyond its six calibrated states.
+
+Coordinates q = **1/7, 2/7, 3/7, 4/7, 5/7, 6/7** describe dimensionless basin structure, not energy quantity, grams, density, probabilities or joules/cm³. Physical energy density u remains uncalibrated. White is six-basin superposition, not a seventh independent source; **White cube mass/density remain OPEN** despite its established market price.
+
+The old H factors now calibrate mass only. **Charging** uses C = **[1,3,9,18,36,72]**; substituting C into the logarithmic mass law is forbidden absent a new author decision. Earlier illustrative density tables are historical, not competing selected mass laws.
+
+Checkpoint 008 explicitly adopts additive fictional diamond mass: matched-volume raw Genesis energy mass + carbon lattice mass at 3.515 g/cm³. This supersedes 007’s pending assumption, not ordinary real-world physics. Empty 7 mm diamond = **1.205645 g**, empty 25 mm = **54.921875 g**; charged 25 mm Red = **154.921875 g**, replacing the earlier illustrative 101 g. This does not make the two materials interchangeable for structure or price.
+
+Mass at standardized geometry/charge is a screening check, not proof of authenticity. A weighted counterfeit can match mass; dimensions, carbon-lattice identity and charge-state sigil inspection are also needed. Exact inspection/certification engineering remains OPEN.
+
+[Full twelve-record mass/price reference and charge matrices](GENESIS_DIAMONDS.md) · [Existing raw-crystal prices](../ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md) · [007 normalization](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/007/GENESIS_CRYSTAL_STANDARD.md) · [008 additive convention](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/008/GENESIS_CRYSTAL_DIAMOND_MASS_AND_PRICES.md).
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/GENESIS_CRYSTALS_VS_DIAMONDS.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 ## Formation of natural vaen · November 8, 2026
 
 **Established MK163 resource model.**

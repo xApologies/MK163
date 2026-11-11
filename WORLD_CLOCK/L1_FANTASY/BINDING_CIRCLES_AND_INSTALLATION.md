@@ -1,3 +1,17 @@
+# Supplemental diamond energy versus structural crystal input
+
+Natural Genesis crystals supply intrinsic basin-specific structure as well as energy. If installation or fabrication requires that structure, charged diamonds **do not replace it**. Diamond reserves may supply additional energy to supported sigil/Binding Circle arrangements, potentially extending operation duration/output where engineered; no unlimited or automatically safe overclocking. Designated crystal/resource inputs can still be consumed by installation. Physical installation instruments, installed personal architecture and active manifolds remain distinct.
+
+Direct individual-basin charging via Circles is an author-selected conceptual pathway. The [independent-stream matrix](../L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md) assumes concurrent full-rate addition; concrete circle/sigil topology, efficiency and operator limits remain OPEN. This is not a newly authored recipe or permission to infer identity compatibility.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/GENESIS_CRYSTALS_VS_DIAMONDS.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 > **Live Model 008 current authority — 2026-10-21:** Protects physical installation from conflation with the new personal-manifold localization. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
 
 ## Live Model 008 integration

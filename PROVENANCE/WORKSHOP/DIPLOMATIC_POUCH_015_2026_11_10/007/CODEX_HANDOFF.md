@@ -1,0 +1,3 @@
+# Integration handoff — do not execute until user requests
+
+Integrate this incremental Yellow Arc checkpoint **after** Orange Arc Completion Cumulative 006. Preserve the full earlier cumulative checkpoint archive and original reference images. Do not replace repository files wholesale or erase historical provenance. Apply only scoped current-authority amendments described in GENESIS_CRYSTAL_STANDARD.md. Keep the existing per-kg crystal prices. Do not assert diamond charged masses are derived. AERA sync is a later separate operation. Report exact modified paths and commit SHA; do not claim a push until performed.

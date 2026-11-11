@@ -1,3 +1,17 @@
+# Six Foundational access Cards · scoped equipment benchmark
+
+The existing five class prices remain **Foundational 100; Common Specialization 230; Advanced 540; Powerful 1,300; Exceptional 3,100 eln**. Individual retail prices can differ. New author-selected conceptual equipment: six single-basin access Cards, one Red/Orange/Yellow/Green/Blue/Violet, **100 eln each, 600 eln total**. This is reference equipment cost, not a full charging-business startup cost; diamond blanks, tools and fees are separate.
+
+[Card behavior and catalog matching](../../L1_FANTASY/GENESIS_CARDS.md) remain engineering work. MK727’s historical class/basin assignments and MK157 price ladders do not replace this MK163 schedule. No source ID, working conduit-to-diamond implementation, tested throughput or actual purchase by Kaira is selected.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/DIAMOND_EXCHANGE_AND_AITHREN.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Genesis Card class retail benchmarks
 
 **Status:** AUTHOR-ESTABLISHED MK163 working reference; qualifications below apply.

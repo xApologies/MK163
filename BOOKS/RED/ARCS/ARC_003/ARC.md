@@ -1,3 +1,39 @@
+# Yellow Arc · recovered commission and robe working model
+
+**Scope: Book Red, Arc 3 (MK163-RED-ARC-003), not Book Yellow or Orange.** This is a selective workshop recovery, not an exhaustive transcript or finished arc/chapter. The verified existing opening is Day 63: Kaira wears the completed physical robe, Nyx sleeps in her lap, and she struggles toward closing Green after closing Red/Orange/Yellow. The next recovered sequence is **Green-ring practice → visit to a mailwright on Blacksmith’s Row → acceptance of her first Chainmail Robe commission**. No additional exact date/time, customer identity, price actually agreed, dialogue or chapter numbering is inferred. The first commission is not automatically the later Alchemist’s special commission.
+
+## Working garment and retail breakdown
+
+Five-layer physical Chainmail Robe intent: **opaque, close-fitting, lightweight, smooth, washable, rust-resistant, wearable without underclothes**. These design intentions do not solve the genuine 3D interlayer weave, establish a finalized material recipe, prove protection, fix mass or override the existing approved appearance/materials. No change is made to completed Orange construction/debut or its original ring commission.
+
+New **working retail breakdown**, not a universal quote or completed transaction:
+
+| Component | eln |
+|---|---:|
+| Rings | 850 |
+| Mass-reduction enchantment | 150 |
+| Labor | 300 |
+| Margin | 250 |
+| Total | **1,550** |
+
+850 + 150 + 300 + 250 = 1,550. The 1,000-eln Orange 300,000-ring base contract and its unapproved +100 surcharge are separate historical business scopes and remain unchanged. No free protective enchantment, exact final ring count, guaranteed net profit or specific Alchemist price follows.
+
+## Alchemist relationship and limits
+
+The existing more detailed Alchemist owner continues to govern her botany, Genesis-expressing fruits, prestigious wines, international vintner identity, social role, friendship/older-sister mentorship, and Yellow-close Blackstone sponsorship. Her interest in a unique original Chainmail Robe is selected; design and detailed commission/sponsorship terms remain OPEN. **Vintage 137 is a proposal**, not a locked recipe/effect; existing numeric cultivar examples are not erased.
+
+Book Yellow (Book Three) has its separately selected Red Black Dragon egg bond. No such bond, new Nyx scene or Orange revision is created here. The remaining Yellow day ledger, exact event ordering beyond the recovered sequence, first Black Sprite bond details and chapter realization stay within the already selected arc boundaries below.
+
+[Existing Alchemist/Princess record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Preserved robe event owner](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Separate Book Yellow](../../../YELLOW/BOOK_OVERVIEW.md).
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/NARRATIVE/YELLOW_ARC_ONLY.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Yellow opening · MK163-RED-ARC-003 · Day 63
 
 **Status: approved opening scene concept, not a full authored chapter or chapter-count assignment.**

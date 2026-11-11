@@ -1,3 +1,21 @@
+# Shaping operation and six Foundational access Card concept
+
+A **Shaping** is the realized Transduction operation. **Binding** identifies one prepared interface, not the universal name of an operation. Native expression, installed conventional Binding and ordinary Genesis Card are the three personal interfaces; the six-stage lifecycle and prepared-geometry/operator responsibilities remain below.
+
+The author selects six Foundational single-basin energy-access Cards, one for each Red/Orange/Yellow/Green/Blue/Violet basin, at **100 eln each (600 total)**, potentially supplying charging access. This is a conceptual design selection, **not a solved implementation or a newly imported catalog entry**. Card coupling, prepared conduit behavior, sustained control, basin-to-diamond routing, output/efficiency and existing-versus-new entry matching require reconciliation. No new names/legacy IDs or fatigue-free initial extraction are invented. The MK727 snapshot has zero single-basin Foundational rows matching this specification; [proposed migration/crosswalk](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/SHAPINGS_MIGRATION_PLAN.md) records the verified source counts and waits for separate author authorization.
+
+Every active ordinary Card exclusively occupies every basin it requires across personal interfaces; simultaneously active Cards need disjoint sets. Six independent single-basin Cards is a theoretical ceiling case, subject to capacity/endurance; it does not guarantee all-six full-rate charging. Native same-basin concurrency remains available except where Card occupancy excludes it; no occupied-basin access through aen, no aen Card boost and no forced cancellation/priority rule for a previously active native Shaping.
+
+[64-configuration charging model](../L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_DIAMONDS.md) is conditional arithmetic: 63 subsets of independent streams plus one native White aggregate pathway. It is not a catalog validation or physiological guarantee. Special Black Card retirement, ordinary personal/modular frames, source evidence and all unrelated canon remain intact.
+
+Pouch 015 · 2026-11-10. [Authority crosswalk and supersessions](../../CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md). Source: [Exact supplied evidence](../../PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/015/CANON/SHAPINGS_CARDS_BINDINGS.md).
+
+## Earlier record · preserved verbatim
+
+The complete earlier record follows. Only explicit scoped amendments above supersede it; unrelated canon and all original evidence remain.
+
+---
+
 # Ordinary Card fabrication and Kaira’s three Blue expedition Cards
 
 **Book Red consolidation · 2026-11-07.** [Cardsmithing and fabrication](../L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) owns both manufacturing routes. After graduation and her Registry visit, Kaira prepares ordinary Fireball, Resolution pseudo-healing and individual Genesis Shield Cards. The earlier candidate raw beam does not occupy the third slot. A shield attaches to the recipient’s Genesis field, not armor. Neither the three-card kit nor her exceptional endurance implies simultaneous use through occupied basins. These are not a Temporary Transduction System prototype, special Black Cards or a new interface.

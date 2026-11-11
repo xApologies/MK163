@@ -1,0 +1,26 @@
+{
+  "README.md": {
+    "sha256": "aee906d61f7710bf32411e7313ce3f252757d84219a677b799a28703cca9c3a5",
+    "bytes": 1037
+  },
+  "009/DIAMOND_AND_ENERGY_STRUCTURING.md": {
+    "sha256": "2dde43739e6ce0fb515156b236b202d3fb5421ad6e4e8a928ceb731c83c3caec",
+    "bytes": 5137
+  },
+  "009/CODEX_HANDOFF.md": {
+    "sha256": "c33bb1c9e359bd5f0cfea38abe8549f0085117a26133deff6bac178b0ec7c553",
+    "bytes": 970
+  },
+  "009/CHARGING_LADDER.csv": {
+    "sha256": "2dbc8e40dea4807b7edbc478cd7415168bc5aa49d0ea987418724fd91ba1cc4a",
+    "bytes": 508
+  },
+  "009/CHARGING_LADDER.json": {
+    "sha256": "10961bc0fade5c7b01abadcb4476f5154e64dde9ba8bf1222f8308623947f4bd",
+    "bytes": 2279
+  },
+  "ARCHIVE/MK163_CUMULATIVE_008_GENESIS_ENERGY_ECONOMY.zip": {
+    "sha256": "220e024bcd3ab46d1384e93771537c695dbdff3487c8043f8968ccad5c8d50f6",
+    "bytes": 843819
+  }
+}

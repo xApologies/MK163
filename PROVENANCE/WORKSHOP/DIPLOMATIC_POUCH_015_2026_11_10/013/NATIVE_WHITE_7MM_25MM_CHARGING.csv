@@ -1,0 +1,13 @@
+pathway,diamond_edge_mm,target,red_equivalent_threshold,incremental_red_equivalents,empty_to_target_active_hours,previous_to_target_active_hours
+native_white_equal_six_component,7,Red,1,1,2.607346094154,2.607346094154
+native_white_equal_six_component,7,Orange,13,12,33.895499224004,31.28815312985
+native_white_equal_six_component,7,Yellow,143,130,372.850491464046,338.954992240041
+native_white_equal_six_component,7,Green,1001,858,2609.953440248319,2237.102948784273
+native_white_equal_six_component,7,Blue,5005,4004,13049.767201241593,10439.813760993275
+native_white_equal_six_component,7,Violet,15015,10010,39149.30160372478,26099.534402483187
+native_white_equal_six_component,25,Red,1,1,118.774876738072,118.774876738072
+native_white_equal_six_component,25,Orange,13,12,1544.073397594941,1425.298520856868
+native_white_equal_six_component,25,Yellow,143,130,16984.807373544347,15440.733975949408
+native_white_equal_six_component,25,Green,1001,858,118893.65161481044,101908.84424126608
+native_white_equal_six_component,25,Blue,5005,4004,594468.2580740522,475574.60645924177
+native_white_equal_six_component,25,Violet,15015,10010,1783404.7742221565,1188936.5161481043

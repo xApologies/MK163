@@ -1,0 +1,89 @@
+{
+  "checkpoint": 11,
+  "scope": "global world clock",
+  "historical_hours_empty_to_red_by_basin": {
+    "Red": 8,
+    "Orange": 7,
+    "Yellow": 5,
+    "Green": 3,
+    "Blue": 2,
+    "Violet": 1
+  },
+  "standard_chip_mm": 7,
+  "historical_chip_inches": 0.25,
+  "target_factors_red_equivalent": {
+    "Red": 1,
+    "Orange": 13,
+    "Yellow": 143,
+    "Green": 1001,
+    "Blue": 5005,
+    "Violet": 15015
+  },
+  "volume_factor_25mm_over_7mm": 45.55393586005832,
+  "assumptions": [
+    "historical 1/4 inch rates provisionally applied to 7 mm",
+    "simultaneous independent basin throughputs add",
+    "25 mm energy capacity scales with volume",
+    "constant throughput across target states"
+  ],
+  "native_white_working_hours": 2.7,
+  "native_white_not_equal_direct_six": true,
+  "sample_combinations": [
+    {
+      "active_basins": "Red",
+      "rate_red_charges_per_hour": 0.125,
+      "7mm_empty_to_red_hours": 8.0,
+      "25mm_empty_to_red_hours": 364.43148688,
+      "7mm_empty_to_orange_hours": 104.0,
+      "7mm_empty_to_violet_hours": 120120.0
+    },
+    {
+      "active_basins": "Red+Orange",
+      "rate_red_charges_per_hour": 0.267857143,
+      "7mm_empty_to_red_hours": 3.733333333,
+      "25mm_empty_to_red_hours": 170.068027211,
+      "7mm_empty_to_orange_hours": 48.533333329,
+      "7mm_empty_to_violet_hours": 56055.999994995
+    },
+    {
+      "active_basins": "Red+Orange+Yellow",
+      "rate_red_charges_per_hour": 0.467857143,
+      "7mm_empty_to_red_hours": 2.13740458,
+      "25mm_empty_to_red_hours": 97.367191151,
+      "7mm_empty_to_orange_hours": 27.78625954,
+      "7mm_empty_to_violet_hours": 32093.1297687
+    },
+    {
+      "active_basins": "Red+Orange+Yellow+Green",
+      "rate_red_charges_per_hour": 0.801190476,
+      "7mm_empty_to_red_hours": 1.248142645,
+      "25mm_empty_to_red_hours": 56.857809989,
+      "7mm_empty_to_orange_hours": 16.225854385,
+      "7mm_empty_to_violet_hours": 18740.861814675
+    },
+    {
+      "active_basins": "Red+Orange+Yellow+Green+Blue",
+      "rate_red_charges_per_hour": 1.301190476,
+      "7mm_empty_to_red_hours": 0.76852699,
+      "25mm_empty_to_red_hours": 35.009429206,
+      "7mm_empty_to_orange_hours": 9.99085087,
+      "7mm_empty_to_violet_hours": 11539.43275485
+    },
+    {
+      "active_basins": "Red+Orange+Yellow+Green+Blue+Violet",
+      "rate_red_charges_per_hour": 2.301190476,
+      "7mm_empty_to_red_hours": 0.434557682,
+      "25mm_empty_to_red_hours": 19.79581279,
+      "7mm_empty_to_orange_hours": 5.649249866,
+      "7mm_empty_to_violet_hours": 6524.88359523
+    },
+    {
+      "active_basins": "Violet only",
+      "rate_red_charges_per_hour": 1,
+      "7mm_empty_to_red_hours": 1,
+      "25mm_empty_to_red_hours": 45.55393586,
+      "7mm_empty_to_orange_hours": 13,
+      "7mm_empty_to_violet_hours": 15015
+    }
+  ]
+}
