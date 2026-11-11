@@ -1,3 +1,48 @@
+# Robe market, production and current affordability
+
+The new ordinary robe tiers are civilization-wide prices, not revisions to the Orange 300,000-ring contract, established armor prices or supplier manufacture. Only the selected price/cost scopes below supersede earlier illustrative alternatives.
+
+## Approved price schedule (eln)
+
+| Product | Layers | Ring materials | Labor | Mass-reduction sigil | Margin | Retail |
+|---|---:|---:|---:|---:|---:|---:|
+| Basic | 1 | 170 | 140 | 150 | 100 | **560** |
+| Common | 2 | 340 | 180 | 150 | 100 | **770** |
+| Improved | 3 | 510 | 220 | 150 | 100 | **980** |
+| Premium | 4 | 680 | 260 | 150 | 100 | **1,190** |
+| Standard five-layer | 5 | 850 | 300 | 150 | 100 | **1,400** |
+| Kaira's original | 5 | 850 | 300 | 150 | 250 | **1,550** |
+
+For ordinary copies with integer layer count L = 1..5: ring material 170L; labor 100+40L; enchantment 150; margin 100; total **P(L)=350+210L eln**. Kaira's established working original has a 150-eln creator/market premium over standard five-layer retail, represented in the modeled margin; the component schedule describes the original. Checkpoints 017–020 additionally establish specific commissioned sales and the 1,550 wholesale / 1,700 Registry retail agreement; it is no longer merely an unaccepted quote in that later scope.
+
+## Manufacturing and identity rules
+- **Mandatory mass reduction:** all marketed robe tiers include the 150-eln standard sigil service, irrespective of layer count. The completed garment is placed in the sigil anchor basin and enchanted. This is a standardized price/model, not proof of identical energy throughput or every engineering detail.
+- One-layer garments are low-end imitations; they may need clothing underneath. More layers generally improve coverage/opacity and raise materials and labor. Kaira's five-layer original is intended to be opaque, close-fitting, lightweight, smooth, washable, rust-resistant and wearable without underclothes. Layer count alone does not guarantee these properties or reproduce her interlayer weave.
+- Lower-priced robes permit Red/Orange and other residents to participate in the emerging Transductionist dress identity. Inspired imitations and fraudulent counterfeit claims are distinct; no new intellectual-property enforcement regime is established here.
+- Ring count: **not yet canonically fixed** for the complete five-layer original. Equal-per-layer approximation N(L)=L/5 * N(5) is illustrative only; no absolute ring count or finished engineering recipe is invented.
+- Margin is a price component, not assured net profit; overhead, fees, material sourcing, fit, weave complexity and market variation remain open.
+
+## Affordability using revised incomes (not savings promises)
+Red monthly income 310, average rent 50, after-rent 260. Orange income 580, rent 90, after-rent 490. A two-layer 770-eln robe takes at least ceil(770/260)=3 months for Red and ceil(770/490)=2 months for Orange **only if every after-rent eln is saved**. Food, clothing and other expenses extend these durations. Do not assert two months for Red as an actual affordability result.
+
+## Wholesale operation from Day 116
+
+Registry wholesale **1550** to Kaira; customer retail **1700**; Registry gross markup **150**, not a 10% deduction. Seven original five-layer robes/month: Kaira makes one, two employed home-based smiths three each. Each employee receives 580 eln/month, not per robe. Conditional on seven accepted/purchased robes: 7×1550=10850 revenue; 7×(850+150)=7000 direct costs; 2×580=1160 payroll; residual **2690 eln** before freight, overhead, rejects, taxes and manager compensation. Stock is purchased/held/marketed by Registry; cash timing/payment terms are not invented. No guaranteed realized income or apartment factory.
+
+Earlier employee-only six-robe model remains valid as a separate comparison: 9300−6000−1160=2140. Solo contribution per robe is 550 before overhead (300 imputed own labor plus 250 modeled margin); three/month gives 1650. Do not add three extra Kaira robes to the selected seven/month plan. Ten-day average means elapsed calendar turnaround in her flexible rhythm, sometimes about eight with more effort, not ten uninterrupted full-day shifts. Initial training can be slower. Eleven accounting months and unresolved calendar durations do not make capacity a precise delivery guarantee.
+
+The unchanged 200-eln standard shirt is now 200/310 ≈ 0.6452 Red, 200/580 ≈ 0.3448 Orange, 200/890 ≈ 0.2247 Yellow months of gross reference income. The historical two/one/half-month comparison below is superseded; no savings claim follows. Raw-crystal prices, five Card class prices, Pouch 015 energy arithmetic and unselected diamond prices are unchanged.
+
+The optional owner-funded display sample's 1000 direct-cost model is distinct from Registry manager's paid order #5. Whether that separate display sample exists, who owns it and who funds it remain OPEN; Registry ownership of purchased stock is now selected.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CHAINMAIL_ROBE_CANON_DELTA.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_ROBE_CANON_DELTA.md) · [017/CHAINMAIL_ROBE_RETAIL_REFERENCE.csv](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_ROBE_RETAIL_REFERENCE.csv) · [017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Third repair cycle and unresolved accounts
 
 The third damaged-mail batch from three staging smithies arrives Day 41; repairs run Days 41–48 inclusive, then check/pack/pickup Day 49 and approximately Day 51 delivery. [Chronology](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) retains the first/second cycles and receipt-before-approval requirement. Exact third-batch count, payments, materials, supplies, margin and freight charges remain OPEN. No new uniform price or paid invoice is inferred.

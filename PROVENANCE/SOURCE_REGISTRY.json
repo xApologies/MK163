@@ -246,6 +246,22 @@
       "reverse_diff": "CHECKPOINTS/DIPLOMATIC_POUCH_015/REVERSE_DIFF.md",
       "validation": "CHECKPOINTS/DIPLOMATIC_POUCH_015/VALIDATION.json",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_CUMULATIVE_CHECKPOINT_020",
+      "date": "2026-11-11",
+      "physical_filename": "MK163_CUMULATIVE_CHECKPOINT_020_ACCUMULATED_2026-11-11.zip",
+      "baseline": "c76eb272e8fce77c465170e16d5d812c0e9965be",
+      "archive_sha256": "97f83c0752fd011ece795a3fcdb05f09392b4fa5d28c0d5c54eee8d4049d6a79",
+      "source_map": "PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/CUMULATIVE_020/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md",
+      "validation": "CHECKPOINTS/CUMULATIVE_020/VALIDATION.json",
+      "acceptance": "supplied material with author-approved historical provenance gap",
+      "supplied_members": 41,
+      "reused_members": 2,
+      "missing_historical_018_ledgers": 2,
+      "literal_transcript_complete": false
     }
   ]
 }

@@ -1,0 +1,12 @@
+# Codex — integrate MK163 Checkpoint 020 (idempotent, no duplicates)
+
+Target repository: `xApologies/MK163`, default branch. **Do not create a second copy of existing canon or replace prior historical records.**
+
+1. Inspect current branch and current repository files. Preserve existing prose and all earlier provenance. Compare active owner files with Checkpoint 020 delta before changing them.
+2. This archive carries full Checkpoint 019 byte-for-byte under `INHERITED_CHECKPOINT_019/`; do not recursively scatter inherited copies into the repository as new duplicate owners. If archiving checkpoints, store Checkpoint 020 once at a clear checkpoint/provenance path; keep original source PDF and visuals accessible.
+3. Integrate new author-approved facts from `CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md` into appropriate owner paths, primarily `BOOKS/RED/ARCS/ARC_002/ARC.md`, `BOOKS/RED/ARCS/ARC_003/ARC.md`, `CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md` (or successor master ledger), `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md`, `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md`, and relevant culture/economy owner files.
+4. Day 0 ring commission is NOT historical Age of Knowledge Day Zero. Day 164 is the author-selected historical founding proposal; formal adoption is open. Orange ends Day 51; Yellow begins Day 63 and remains open after Day 167. Yellow Sprite bond Day 166; Alchemist/Blackstone sponsorship future undated.
+5. Preserve protected spellings and original images; reference author images as visual targets, not verified mechanics. Reconcile calendar: month totals 351 vs declared 360; year-week vs weekday start alignment requires review; do not silently change user-selected anchor.
+6. Ensure Raeon tournament attendance/results and crystal withdrawals from Orange also update Arc 002; don't shift them into Yellow.
+7. Check 0–167 ledger for omissions and conflicting old authority. Keep explicit supersession notes where older repository says Green crystal first withdrawal day open, Age of Knowledge day open, or Yellow Sprite timing open. Preserve earlier source text as historical provenance.
+8. Run repository validation/tests and report changed paths, unresolved conflicts, and commit SHA. Only push with the user's authorization (this archive is intended for Codex integration).

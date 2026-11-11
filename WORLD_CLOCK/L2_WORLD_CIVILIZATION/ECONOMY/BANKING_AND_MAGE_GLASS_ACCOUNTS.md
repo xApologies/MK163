@@ -1,3 +1,17 @@
+# Kaira's Green crystal custody · selected withdrawals
+
+Initially **three Green Genesis crystals** are banked. Withdrawals: Day 42 first after consultation (two remain); Day 94 second as first is nearly depleted (one remains); Day 137 third (zero banked). This selects only the previously OPEN count/timing. Nyx absorbs energy and crystals physically shrink; no fixed grade, mass, price, universal lifetime or permanent dependency is inferred. Zero banked does not mean zero in Kaira's possession or immediate depletion of the third.
+
+The permanent two-inch mineral vaen keepsake, three retained black mushroom vaen, original Black crystal and later purchased living vaen remain distinct. Mage Glass identification, handwritten records, separate custody and existing fees/security OPENs remain unchanged.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # MK163 — Banking, Fixed-Manifold Mage Glass Cards and Paper Ledgers
 
 **Author-established MK163 system; first account opened early Orange, working Day -1.** Banking uses Genesis Card/sigil infrastructure for **identification/verification** and wholly **handwritten records** for balances and custody. No computers, electronic databases, government-issued photo IDs, Crown identity cards, credit-card network or magic financial ledger.

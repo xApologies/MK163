@@ -1,3 +1,23 @@
+# First exceptional Black Sprite bond · Day 166
+
+## Black crystal, exceptional bond, physiology
+- Day 165: after arranging delivered living vaen in apartment, Kaira notices Black crystal on bedside desk. Crystal originates from original Red Arc Genesis collapse, treasured symbol of freedom and identity, not an ordinary Green crystal. She considers a Binding circle. She has funds and does not know her incompatibility with ordinary Binding.
+- Day 166: with Nyx, obtains city Accord Registry referral to reputable Green District Binding facility. Requests Fireball Binding (childhood favorite; mother's original Fireball Genesis Card still retained). Specialists cannot identify Black crystal; phase-state/sigil diagnostics appear to offer Fireball Binding options; exact proposed fireball and price OPEN. Paid professional attempt becomes extraordinary runaway event: black surroundings, neon chromatic expression, identity bond to young independent **Black Sprite** (not a Fireball Binding or Card), and permanent Black/Neon spectral eye transformation replacing Kaira's steel-gray eyes. Eye geometry/Genesis perception is exceptional and must not be universalized to ordinary White Awakened. Specialists observe incompatibility and failed Fireball outcome but do not fully know Black Singularity ontology; later ordinary attempts and diagnoses remain distinct, as repo specifies. Kaira overwhelmed by crowds, leaves with Nyx and tiny Sprite; at home Sprite triggers flower bloom and plays with Nyx.
+- Sprite is young, non-gendered (they/them), independent Green-native identity; natural black recursive flame/wisp with intermittent internal six-basin neon R/O/Y/G/B/V, unlike typical Green-expressive Sprites. Native mind-to-mind communication; not telekinesis, omniscient lie detection or instant mature mastery. Early Kaira receives images/impressions; Sprite and Nyx communicate naturally. Early Resolution-level reinforcement/disruption of admissible energy configurations, not direct Genesis Field stabilization or full restoration. Visual refs are supplied author references, not mechanical proof.
+- Day 167: Kaira carries Sprite in hand; it hops onto/rides Nyx; she visits familiar city abecca barista friend, then Yellow Blacksmith Row mailwright, then male unicorn researcher at Green District academy. Eyes and Sprite prompt excited questions. Familiar cafe crowd is less overwhelming than Day 166 facility; researcher takes notes, thrilled by rare Sprite and altered eyes. Exact mind-communication grammar and mechanism OPEN.
+
+This dates the already-selected Red Arc 003 Green-basin Black Sprite identity bond; it adds no seventh bond and revives no specialized Black Card. Kaira's Red Arc collapse and White Awakening remain their existing events. The professional Fireball attempt fails as an ordinary installation; the independent identity relationship succeeds exceptionally. Specialists' observed incompatibility is not omniscient recognition of Black Singularity. Later second/third ordinary attempts, conventional incompatibility and later Black Dragon compatibility recognition remain distinct and unchanged.
+
+The first Black Sprite is young with only early Resolution reinforcement/disruption; later humanoid form, combat role, translation, Kaira's limited Blue pseudo-healing and future bonds keep their existing developmental scope. Native Green **realm**, Green **basin** anchor, Black identity and visual neon expression are distinct concepts. No telekinesis, direct Genesis Field stabilization, instant mature mastery, full restoration, perfect thought-reading or guaranteed cognitive access is added.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Black Sprite: Resolution, communication and growth
 
 **Book Red consolidation · 2026-11-07.** ## Resolution-level healing: new functional distinction

@@ -1,3 +1,17 @@
+# Five-layer original · sculptural design scope
+
+The original is entirely interlinked dark gray/black chainmail: fitted, opaque, smooth, lightweight, washable and rust-resistant, intended to be wearable without underclothes. Local **five→four→three-layer recessed relief** retains opacity; two modest pointed chainmail shoulder ridges rise upward/outward as integrated weave, not separate epaulettes. No metal plates, cloth ornament or chromatic rank colors. Supplier-made Genesis-infused iron rings, controlled drape/no flare, hood, magnetic front/back/side slit closures and mass reduction remain.
+
+The new renders are visual design targets, not proof of topology, physical manufacturability, protection, exact ring count or weight. Their model's pigmentation/hair is not Kaira's appearance, and oversized/flared render features do not override written scope. The demonstration-shirt Offset-Lattice graph does not solve the genuinely 3D robe interconnection. Layer-count scaling is illustrative only. Independent smiths may create repeatable weaves and employ journeymen; imitations need not reproduce her weave, and low-layer garments may require underclothes. No exclusive rights/enforcement regime is selected.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/VISUAL_DESIGN_REFERENCE.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/VISUAL_DESIGN_REFERENCE.md) · [017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Completed physical robe · technical verification boundary
 
 The repository `WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md` specifies an **Offset-Lattice** abstract graph with primary P(i,j)=(i,j), secondary Q(i,j)=(i+1/2,j+1/2), and each Q connected to four adjacent P vertices. This describes an intended connectivity relation for the demonstration shirt, **not a mechanically verified threading/crossing specification**. The robe's separate genuinely 3D five-layer interconnection is still technically **OPEN**; the narrative can establish a completed robe without falsely claiming the physical topology has been mathematically solved. Do not assign unvalidated fire/energy resistance or fixed weight. Magnetic front/back/side slit closure is established. Five-layer weave exact geometry remains an explicit future technical design item.

@@ -1,3 +1,23 @@
+# Kaira · current selected developments through Day 167
+
+Orange completion remains Day 50, debut/finale Day 51. Yellow begins Day 63 and **remains unfinished after Day 167**. The Alchemist relationship, unique commission, Blackstone sponsorship and actual Yellow exit remain future undated anchors. No early Ring, Blue Support credential, Stage II, full healing or new chapter is created.
+
+Her aen closures are Red/Orange by Day 43; Yellow in 52–62; Green 85; Blue 123 after near-success 119; Violet OPEN. Her business transitions from final repairs and first direct commissions to Day 116's seven-robe Registry wholesale plan: one personal robe/month, two home-based employees at three each, her small Orange apartment used for supplies, inspection and freight coordination. Ordinary outside direct commissions cease in that post-116 scope; earlier eight customer orders stay recorded.
+
+Nyx's Green crystals are three initially banked, withdrawn Days 42/94/137, leaving 2/1/0 in custody. The Black crystal from the Red Arc collapse is a treasured symbol of freedom/identity, separate from the green mineral vaen keepsake and Nyx nutrition. Mother's original Fireball Genesis Card remains retained. Day 164 she buys roughly five–seven living succulent-shaped vaen at about 20–30 eln each, arranges delivery and enjoys their Genesis expression; no exact spend, species or mineral-to-plant conversion is invented.
+
+Day 164's civic proposal is the historical Age of Knowledge origin, not the ring commission Day 0 or completed universal diffusion. Day 165 she considers her Black crystal for Binding without knowing ordinary incompatibility. Day 166 the paid professional Fireball attempt instead yields her first exceptional independent Black Sprite bond and permanent Black/Neon spectral eyes replacing steel-gray. Her underlying identity/affinity is exceptional, not instant expertise. Crowds overwhelm her; home flower bloom and Nyx/Sprite play follow. Day 167 the familiar abecca shop is less overwhelming; she visits barista, mailwright and unicorn researcher with Nyx and Sprite, receiving early mind-to-mind images.
+
+Existing scar/white-pigmentation/healthy Awakened appearance remains outside the explicitly selected eye change. Rendered garment model appearance is not new physiology. Raeon tournament development, friendship and life/work rhythms coexist; Day 163 Violet/second local game placement is not the King's Tournament's later Green/fourth. Exact customer/researcher/noble/village-hub names, costs, dialogue, cognitive grammar and unselected later dates stay OPEN.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/YELLOW_ARC_DAY_63_116_LEDGER.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/YELLOW_ARC_DAY_63_116_LEDGER.md) · [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Kaira · Orange exit and Yellow entry state
 
 By Orange’s Day 51 finale Kaira has completed the physical Chainmail Robe on Day 50, publicly debuted it, cares for Nyx and continues the three-smithy repair business. Her White Chainmail Armorsmith badge retains the exact approved geometry and diamond. [Robe and public stops](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md); [Nyx care and supervised travel](NYX.md).

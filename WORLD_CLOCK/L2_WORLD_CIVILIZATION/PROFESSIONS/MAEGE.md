@@ -1,3 +1,19 @@
+# Brotherhood of Maegi · institutional scope
+
+**Maegi** is the protected institutional spelling. The **Brotherhood of Maegi** is a working name for a private selective scholarly/social society: lodges, private archives and research in Genesis Field, concepts, energy, mathematics, alchemy, Binding Circles and Shaping. It is not a Crown Accord Registry role, fifth certification role or synonym for every Transduction practitioner. Existing lowercase maege/maegi occupational wording remains in its own scope. Membership and tested rank are separate.
+
+Hooded textile robes share geometric decoration, dominant certified Red/Orange/Yellow/Green/Blue/Violet/White, gray accents on the six colored ranks and black on White. No white/gold trim on colored ranks follows from imperfect images. Deceptive rank/membership display is socially taboo. Some members are arrogant/protective; not every member is hostile and no murder/violence policy is established. The later antagonistic **Cabal** is separate.
+
+Day 63 two Orange and one Green Maegi challenge Kaira's unranked dark chainmail silhouette at the city abecca shop; staff remove the disruptive three. Chainmail signals **Transductionist identity without Brotherhood membership or chromatic rank** across professional roles; it is not a new credential or rival membership organization. Clothing alone gives no mastery. Exact dialogue is not written.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/MAEGI_AND_AGE_OF_KNOWLEDGE.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/MAEGI_AND_AGE_OF_KNOWLEDGE.md) · [017/VISUAL_DESIGN_REFERENCE.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/VISUAL_DESIGN_REFERENCE.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # maege / maegi — active offensive, support and utility practitioners
 
 **Project:** MK163  

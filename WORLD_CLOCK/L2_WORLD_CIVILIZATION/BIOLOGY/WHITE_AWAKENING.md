@@ -1,3 +1,15 @@
+# Preserve universal Awakening; separate Day 166 exceptional eyes
+
+Ordinary White Awakening still preserves individual pigmentation and original-color eye identity under the existing mechanism. Kaira retains luminous steel-gray eyes after her Red Arc Awakening and through Day 165. **Day 166** Black Sprite identity bonding separately transforms them permanently to **Black/Neon spectral eyes**. This is an explicit later MK163 character decision, not imported old MK157 acquisition/armor plot or a universal White phenotype. Her other established pigmentation/scars and physiology are not changed by a garment render. [Exceptional event and perception boundaries](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md).
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 > **Delta 005 current authority — integrated 2026-10-19:** Adds cross-references to new scoped owners; no inherited mechanism is rewritten. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

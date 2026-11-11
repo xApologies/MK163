@@ -1,3 +1,19 @@
+# Selected state through Book Red Day 167
+
+The current detailed chronology is [the Red running ledger](RED_RUNNING_DAY_LEDGER.md). Orange's Day 50 completion/51 finale and Yellow's Day 63 opening remain. Scoped retrospective Orange changes add Raeon attendance 19/25/37/49, first of three Green crystal withdrawals 42 and shipment scheduling 51; all earlier detailed events remain.
+
+Yellow adds robe orders and home-based production, Green aen closure 85, Blue closure 123, Nyx growth/flower domain, remaining crystal withdrawals 94/137, historical Age of Knowledge proposal 164, exceptional Black Sprite bond and eye transformation 166, and social/research follow-up 167. Yellow is still unfinished; Alchemist/Blackstone sponsorship remains future undated. The physical robe is not the future native Genesis Robe; local Raeon placements do not change later King's Tournament Green/fourth or Ring timing. Source colors do not conflate native realm, basin, profession and arc.
+
+Calendar claimed 351 versus arithmetic 353 versus declared 360, and week/weekday alignment, exact older rental-deck episode placement and remaining unknowns are kept explicit. The two missing historical 018 ledgers are a user-approved provenance gap, not secretly reconstructed.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md) · [020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Orange completion · stable event extensions
 
 [Running ledger through Day 63](ORANGE_RUNNING_DAY_LEDGER.md) owns dates. All earlier anchored events persist; this extends rather than restarts the commission clock.

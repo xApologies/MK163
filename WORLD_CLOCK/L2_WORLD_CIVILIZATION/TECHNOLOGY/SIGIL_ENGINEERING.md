@@ -1,3 +1,15 @@
+# Standard Chainmail Robe mass-reduction service
+
+Every marketed 1–5-layer robe tier includes the selected **150-eln mass-reduction sigil service**. The completed garment is placed in the sigil anchor basin and enchanted. This is a price/process selection, not identical throughput, new protective resistance, proven safety/geometry, or a solved weave. [The economy owner](../ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) owns all price components; existing sigil mechanisms remain.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CHAINMAIL_ROBE_CANON_DELTA.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_ROBE_CANON_DELTA.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Orange · two ring-forming workstations
 
 **Orange arc of Book Red · 2026-11-08.** For specialized chainmail rings, [the production owner](SIGIL_CHAINMAIL_RING_FABRICATION.md) distinguishes material input, two constrained phase fields, a journeyman’s supervision and finite T₁/T₂. The three concurrent spool systems are an example, not a new operator or unlimited resource. Staging utilities and after-hours barriers are at [stone and sigil infrastructure](../INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md).

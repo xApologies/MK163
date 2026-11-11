@@ -73,3 +73,6 @@ PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/** -text -whitespace
 
 # Pouch 015 original cumulative source bytes and historical whitespace.
 PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/** -text -whitespace
+
+# Preserve checkpoint 020 original source bytes.
+PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/** -text -whitespace

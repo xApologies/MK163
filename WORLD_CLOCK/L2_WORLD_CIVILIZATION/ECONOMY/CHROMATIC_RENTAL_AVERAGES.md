@@ -1,3 +1,24 @@
+# Current rent comparisons · unchanged rent schedule
+
+| District | Average monthly rent | Monthly reference income | After rent | Rent burden |
+|---|---:|---:|---:|---:|
+| Red | 50 | 310 | 260 | 16.13% |
+| Orange | 90 | 580 | 490 | 15.52% |
+| Yellow | 175 | 890 | 715 | 19.66% |
+| Green | 600 | 1290 | 690 | 46.51% |
+| Blue | 1400 | 3000 | 1600 | 46.67% |
+| Violet | 3750 | 5100 | 1350 | 73.53% |
+
+All average rents remain 50/90/175/600/1400/3750 eln; only the income-derived ratios and after-rent figures are revised. Kaira pays **110 eln/month**, not the Orange district average 90. After-rent income excludes food, clothing and all other costs; it is not savings. These are averages, not minima, bounds, universal transactions or sole-earner assumptions. White remains civic, not a seventh residential tier.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CANON_DELTA.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CANON_DELTA.md) · [017/INCOME_REFERENCE.csv](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/INCOME_REFERENCE.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 > **Live Model 007 current authority — 2026-10-20:** Resolves the specific lease while preserving the entire district-average schedule. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
 
 ## Live Model 007 integration

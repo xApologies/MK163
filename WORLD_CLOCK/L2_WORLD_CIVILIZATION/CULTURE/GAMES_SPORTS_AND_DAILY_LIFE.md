@@ -1,3 +1,35 @@
+# Raeon · named tournament schedule and placements through Day 167
+
+The current checkpoint uses protected **Raeon**. Original quoted spellings remain. Kaira completes her first 60-card custom deck on Day 14; local card-shop tournaments run on **Aiven**, sixth weekday, with the current ledger's first eligible entry Day 19. This preserves the old house-deck practice/rental account without inventing a new dated match or forcing a specific deck into an otherwise unspecified tournament; the precise placement of that older rental episode remains OPEN.
+
+| Ledger day(s) | Attendance/result |
+|---|---|
+| 19, 25, 37 | Attends; early elimination |
+| 49, 55 | Attends; improves/advances further |
+| 67, 73, 79 | Attends; nearing placement |
+| 91 | Orange, sixth |
+| 97 | Red, seventh |
+| 109 | Early elimination from poor draws |
+| 121 | Yellow, fifth |
+| 127 | Orange, sixth |
+| 145 | Blue, third |
+| 151 | Green, fourth |
+| 163 | Violet, second; narrowly misses first |
+| 31, 43, 61, 85, 103, 115, 133, 139 | Explicit nonattendance |
+| 157 | Tournament occurs; attendance and result OPEN |
+
+Seven placements: Red seventh, Orange sixth, Yellow fifth, Green fourth, Blue third, Violet second, White first. Tie-breaking mechanics, opponents and exact prizes remain governed by prior rules/OPEN decisions. A bad draw is not lack of developing skill; no guaranteed victory. After Day 163 she buys cards to rebuild the original deck around her developed style; exact purchases and cost OPEN.
+
+Dates coexist with freight, craft, aen and Nyx events without fixed time slots or compulsory daily scenes. Local results are separate from the King's Tournament Green/fourth and later royal gatherings. No upstream game edits, legal decklist, invented card or rule changes.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Orange Day 14 · first custom deck and independent reading
 
 - Following morning Kaira drinks abecca, turns her retained green stone in her hand and decides to complete her personal **raeon** deck that day.

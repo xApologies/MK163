@@ -1,3 +1,41 @@
+# Chainmail Robe enterprise and Age of Knowledge founding proposal
+
+Personal physical robe completion Day 50 and public debut/Orange finale Day 51 remain. Day 63's city abecca confrontation by two Orange and one Green Brotherhood members ends with staff removing them. Kaira enjoys abecca, plays with Nyx, puts the sleeping cub in her backpack and finally accepts the repeatedly requested mailwright commission; dinner economics prompts transition away from repair work. All exact dialogue remains OPEN.
+
+Day 64 fifth staging visit brings final repair commission, professional service listing at 1550 and orders #2/#3. Final repair batch arrives 66; seven production dates 66–72; inspection/freight booking 73; pickup 74; last old-customer check-in 75, no new repairs thereafter. First original commission work dates 65,74,76–83 total ten allocated dates; completed 83, delivered 84. This is not ten continuous full-day shifts. Second robe production 84–93, delivered 94. Registry manager orders personal #5 on 94 and proposes distribution/recruitment. Shortlist 98; two skilled smiths hired 101 at 580 each/month; initial preparation 102–103; expanded work 104, Kaira designer/trainer/manager/QC. Training completion and exact division of robes #3–#5 remain unassigned.
+
+Day 107 city Blacksmith's Row already has independent simpler robes; three smiths order #6–#8. This is the first observed copying, not Day 116. Robes #3/#4/#5 all complete by 114, followed by 114–115 transport arrangements and 116 staging handoffs. Earlier proposed #3-on 103/#5-on 124 dates are superseded only as source history.
+
+## Order register
+| # | Accepted | Customer | Latest confirmed completion |
+|---|---|---|---|
+| 1 | 63 | Mailwright friend | Finished 83, delivered 84 |
+| 2 | 64 | Registry-linked customer | Finished 93, delivered 94 |
+| 3 | 64 | Registry-linked customer | By 114 |
+| 4 | 75 | Staging-area customer | By 114 |
+| 5 | 94 | Registry manager (personal) | By 114 |
+| 6 | 107 | Blacksmith's Row smith | Queued |
+| 7 | 107 | Blacksmith's Row smith | Queued |
+| 8 | 107 | Blacksmith's Row smith | Queued |
+
+At Day 116: 8 accepted customer orders, 5 completed customer robes, 3 pending; display/showpiece robe is NOT counted among the eight unless later explicitly ordered as a distinct paid commission. 8×1550=12400 contracted gross sales value (not cash collected); 5×1550=7750 value completed; 3×1550=4650 outstanding.
+
+From Day 116, Registry standing wholesale is seven originals/month (one Kaira, three per each of two home-based smiths). She sources mailwright rings, allocates manageable supplies from her small Orange apartment, checks completed robes and arranges independent freight. Registry buys/holds stock, markets and serves customers; she does not run an apartment factory or routine direct-commission shop. Earlier direct orders remain historical obligations. Pricing, income and overhead caveats belong to the economy owner. Registry's unspecified handoff fee and separate display sample ownership/completion remain OPEN.
+
+By Day 164 Registry is frequently sold out and Kaira resists endless expansion. While she buys about 5–7 affordable living succulent-shaped vaen (~20–30 eln each) at staging merchants and arranges city delivery, a **White civic noble on routine inspection** orders an original despite no stock. He sees accessible Chainmail Robe variants as public Transductionist identity independent of Brotherhood membership; he personally finds the secretive elitist Brotherhood tiresome. He proposes an annual civic knowledge/Transductionist celebration.
+
+**Day 164 is the selected historical origin/Day Zero of the Age of Knowledge**, distinct from commission Day 0. Formal legal adoption, first festival, name, noble identity/powers, order delivery and Kaira's village-hub name remain OPEN. Yellow is not over on 164 or 167.
+
+The causal chain remains garment innovation → friend wearing it 84 → independent copying 107 → staging distribution 116 → decentralized identity → deeper study of Conceive and Genesis concepts. No automatically achieved civilization-wide knowledge revolution, compulsory formal schooling or new universal mathematical law. A fireball image versus combustion/thermal/chemistry/quantum understanding illustrates conceptual precision, not selected new physics. Maegi robe signals Brotherhood and tested rank; a Red healer, Orange blacksmith or Green alchemist can legitimately wear chainmail without a new role or membership. Later Age of Wonder, native Genesis Robe in Violet, and Alchemist/Blackstone sponsorship remain separately scoped.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/YELLOW_ARC_DAY_63_116_LEDGER.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/YELLOW_ARC_DAY_63_116_LEDGER.md) · [017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHAINMAIL_WORKSHOP_AND_DISTRIBUTION.md) · [017/MAEGI_AND_AGE_OF_KNOWLEDGE.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/MAEGI_AND_AGE_OF_KNOWLEDGE.md) · [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Physical Chainmail Robe · Day 50 completion, Day 51 debut
 
 ### Day 50 — Completion

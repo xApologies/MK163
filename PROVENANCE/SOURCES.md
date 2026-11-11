@@ -1,3 +1,15 @@
+# Cumulative 020 · supplied accumulated 016–020 records
+
+Physical ZIP MK163_CUMULATIVE_CHECKPOINT_020_ACCUMULATED_2026-11-11.zip, SHA-256 **97f83c0752fd011ece795a3fcdb05f09392b4fa5d28c0d5c54eee8d4049d6a79**. 41 supplied members, 39 new preserved, 2 exact existing Black visuals reused. Full path/hash manifest and approved historical gap in [source map](WORKSHOP/CUMULATIVE_020_2026_11_11/SOURCE_MAP.json); [integration audit](../CHECKPOINTS/CUMULATIVE_020/INTEGRATION_REPORT.md). No archive container, inbox, external repository or repeated Pouch 015 payload is committed. The author approves integration with missing 018 historical ledgers documented; original complete-parent claims are retained as source history, not verified facts.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/README_020_START_HERE.md](WORKSHOP/CUMULATIVE_020_2026_11_11/020/README_020_START_HERE.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Pouch 015 · cumulative source integration
 
 Attached **MK163_DIPLOMATIC_POUCH_015_YELLOW_ARC_GENESIS_ENERGY_CUMULATIVE.zip**, SHA-256 **188bfeedbddea8eaabf682d419de370a5a7d167ca3b232abe6533abd0d890130**; compared to fetched main **05c6977aebd5b5c6388fe9517f9435910538d793**. Ten archives pass CRC; 75 declared hashes pass. All 77 unique nonarchive leaves have exact repository mappings: 20 existing Orange 006 sources reused, 57 new checkpoint 007–015 sources preserved. [Source inventory](WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/SOURCE_INVENTORY.json) · [Audit](../CHECKPOINTS/DIPLOMATIC_POUCH_015/INTEGRATION_REPORT.md). Earlier source handoffs remain historical data. Full supplied payload preservation does not claim literal transcript recovery or wholesale upstream verification. Commit/push await the handoff’s explicit final approval gate.

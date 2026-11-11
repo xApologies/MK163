@@ -1,3 +1,21 @@
+# Orange · scoped checkpoint 020 additions
+
+Orange still ends Day 51; no Yellow event is moved into this arc. Day 14 first custom 60-card Raeon deck remains. New dated Orange attendance: **19/25/37 early elimination;49 improved advancement**. Days 31/43 are explicit absences, not missing tournaments. Later 55 is transition, not an Orange re-opening. Prior work/freight/lesson events on those dates coexist with no fixed time-of-day allocation.
+
+Day 42 consultation now establishes first withdrawal from **three banked Green crystals**, leaving two. This resolves the old quantity/timing OPENs; no conversion of the mineral vaen keepsake. The later 118 follow-up identifies the researcher, but does not invent a new Orange scene or make Kaira know every later conclusion on 42.
+
+Day 51 includes scheduling the next repair shipment, arriving 53 in the transition interval. Physical robe completion 50, public debut 51, Day 39 rescue, craft credential 26, lesson dates and all detailed Orange events below remain. New garment concepts clarify visual intent only; no solved weave, new rank, early Sprite, Ring or altered ending.
+
+The current cross-arc chronology is [the successor master ledger](RED_RUNNING_DAY_LEDGER.md); earlier interval wording remains in full.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [019/CHECKPOINT_019_CANON.md](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Book Red · Orange completion and Yellow handoff through Day 63
 
 Day 0 is the 300,000-ring commission, distinct from the undated historical **Day Zero of the Age of Knowledge**. Day −1 is a working banking placement, not a locked apartment-viewing order. Calendar: **31-hour days, six-day weeks, 360-day years**; absolute date/month, weekdays and clock times OPEN.

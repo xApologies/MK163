@@ -1,3 +1,23 @@
+# Nyx · growth, crystal custody and flower domain through Day 167
+
+## Nyx, flowers, nutrition
+- Nyx rescued Day 39 at ~7 weeks old, unstriped black male Vaeryn. Day 84 ~20 lb, about triple apparent rescue size; Kaira replaces brown mushroom-leather pack with larger black mushroom-leather rucksack and buys toys. Day 116 ~30 lb. Day 131 skin becomes loose/baggy preceding growth. Day 137 ~43 lb, outgrows rucksack and begins accompanying Kaira on foot. Day 151 first subtle luminous dermal stripes appear, NOT fully mature markings.
+- Kaira had **three banked Green Genesis crystals**. Day 42 withdraws first, leaving two. Day 94 first nearly depleted and she withdraws second, leaving one. Day 137 withdraws third, leaving zero at bank. Crystals shrink as Nyx absorbs energy. Crystals supplement growth and establishing flower domain; no fixed crystal lifetime or permanent dependency. Nyx does NOT eat flowers: they gather/project Genesis energy which he absorbs; flowers remain alive. He can manifest new flowers away from home and may need supplements for extended travel. Green Realm connection is innate, not rank advancement.
+- Day 118 follow-up to Day 42 realm-fauna consultation: male unicorn scholar in humanoid form at Green District learning institution, ~6 ft, high symmetry/angular facial/body geometry, Genesis-field projection horn (NOT anatomical horn), native aen, exceptional Genesis sensitivity, enthusiastic/quirky researcher. He confirms Nyx is healthy, unusually large, likely exceptional adult, and increasingly supported by his own native flower domain. At Day 118 wall not yet fully covered. Day 143 extensive orange-dominant flowers up bedroom wall and floor, scattered red/yellow/green/blue, first violet flower. Colors are biological flower expressions, not realm-rank claims.
+- Day 166 Sprite instinctively reinforces existing flower-energy organization: garden blooms bigger into balanced red-through-violet kaleidoscope, not replacement of Nyx's biological mechanism. Nyx and Sprite become spontaneous playful friends.
+
+These are individual milestones, not a universal growth curve or evidence of full adult markings by Day 151. Earlier adult species imagery remains adult-only. Approximate source 019 ages (~13.5 weeks on 84, ~18 on 116) are not adopted as exact six-day-week arithmetic: a seven-week starting estimate plus 45/77 elapsed days would give about 14.5/19.83 six-day weeks. Retain approximate rescue age, dates and measured weight estimates; do not alter the six-day week to fit earlier rough ages.
+
+Mother dead, father's fate unknown, supervised socialization and separate secured crystal pouch remain. Day 118 scholar is the follow-up to Day 42 consultation, not a new Transduction credential. His institution is described as a Green District learning institution/academy; proper name OPEN. The living flowers project/gather energy and stay alive, not food Nyx chews. Sprite amplification reinforces his established biological mechanism without turning him into a Sprite or sixth Black bond. By Blackstone entry his previously selected later rideability remains future relative to the current day window.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Nyx · home, nourishment and supervised travel after Day 39
 
 Day 39 evening: Kaira brings Nyx home; he settles into the apartment, plays and rests/sleeps while she does not yet understand his care. Days 40–41: she observes his own tiny vibrant orange, almost-luminous flowers. Day 42 the Green District city Accord Registry refers her to a local realm-fauna specialist at an unnamed institution of learning. She learns about Vaeryn energy nutrition, parental flower sustenance, juvenile self-manifestation and Green Genesis crystal feeding. Researcher placement on Day 40 is superseded. She withdraws or arranges withdrawal of one banked Green crystal; precise withdrawal time remains OPEN. This is a financially painful but worthwhile commitment with gradual depletion over an extended period. [Bank custody and crystal distinction](../../L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md).

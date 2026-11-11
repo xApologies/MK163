@@ -1,0 +1,7 @@
+district,previous_monthly_eln,current_monthly_eln,average_rent_eln,after_rent_eln,rent_burden_percent,annual_11_month_eln,previous_multiplier_from_red,current_multiplier_from_red
+Red,100,310,50,260,16.129,3410,1.0,1.0
+Orange,200,580,90,490,15.5172,6380,2.0,1.87096774
+Yellow,400,890,175,715,19.6629,9790,4.0,2.87096774
+Green,1200,1290,600,690,46.5116,14190,12.0,4.16129032
+Blue,3000,3000,1400,1600,46.6667,33000,30.0,9.67741935
+Violet,5000,5100,3750,1350,73.5294,56100,50.0,16.4516129

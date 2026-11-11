@@ -1,3 +1,26 @@
+# Current individual income · cumulative 016–020
+
+The approved Red→Violet individual monthly schedule is **310 / 580 / 890 / 1290 / 3000 / 5100 eln**. It supersedes 100/200/400/1200/3000/5000 and the old integer multiplier ladder only. The final uncommitted Yellow 890 decision supersedes drafts 730 and 850; Green is 1290, not 1200. Successive increments are 270, 310, 400, 1710, 2100.
+
+| District | Monthly eln | Annual (11 accounting months) | Exact multiple of Red |
+|---|---:|---:|---|
+| Red | 310 | 3410 | 1 |
+| Orange | 580 | 6380 | 58/31 |
+| Yellow | 890 | 9790 | 89/31 |
+| Green | 1290 | 14190 | 129/31 |
+| Blue | 3000 | 33000 | 300/31 |
+| Violet | 5100 | 56100 | 510/31 |
+
+These are individual reference earnings, not household totals, guaranteed wages, wealth, social rank or residential eligibility. The purchasing-power objective does not select food/clothing budgets, savings, crystal/diamond exchange values or other prices. Eleven accounting months is the established annualization convention, not a resolution of the source calendar totals (claimed 351, arithmetic 353, declared 360). District rents are unchanged; Kaira's actual lease stays 110, separate from the Orange average 90. Historical affordability ratios must use the revised income when interpreted as current.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CANON_DELTA.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CANON_DELTA.md) · [017/INCOME_REFERENCE.csv](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/INCOME_REFERENCE.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Chromatic individual income reference scale
 
 **Status:** AUTHOR-ESTABLISHED MK163 working reference; qualifications below apply.

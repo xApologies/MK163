@@ -1,3 +1,15 @@
+# Kaira's selected aen closures through Day 167
+
+Lessons remain Days **21, 27, 32, 38, 43**. Red/Orange are closed at the final introductory lesson; Yellow closes in Days 52–62 (not necessarily Day 62 itself); Day 63 opens with those three closed and Green being practiced. **Green closes Day 85**. **Blue nearly closes Day 119, successfully closes Day 123**. Violet closure remains **OPEN** through Day 167. No Stage II/sleeve, new quantitative throughput law or automatic Registry rank follows. Formation/control milestones are distinct from certification and neither old prose nor render imagery grants early full mastery.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md) · [020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # aen Stage I · five lessons and independent closure
 
 **aen** is the protected spelling; do not capitalize as a new acronym. Instructor is an accredited independent aen tutor, identity/fee/lesson duration open. First contact Day 15, follow-up Day 17. Five introductory lessons: **Day 21 Red point; Day 27 Red/Orange/Yellow points; Day 32 all six Red through Violet points; Day 38 attempts but cannot yet close Red ring; Day 43 closes Red and Orange, starts Yellow ring and maintains six active points**. The tutor ends Stage I and instructs independent practice until all six can be stably closed. Only after that does a second course on **ring width expansion / broader basin access** begin. Do not conflate points, closed rings and widened rings; no automatic mastery or combat skill.

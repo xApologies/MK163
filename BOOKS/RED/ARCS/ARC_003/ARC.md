@@ -1,3 +1,64 @@
+# Yellow Arc · selected chronology through Day 167, ending OPEN
+
+**MK163-RED-ARC-003**, Book Red Yellow Arc; not Book Yellow. Existing Day 63 apartment opening remains: physical robe, Nyx asleep in Kaira's lap, three closed aen rings, frustration with Green. No chapter count, finished prose, fixed dialogue or new cast names are invented. The selected Alchemist relationship/original commission/Blackstone sponsorship remains the future undated exit; neither 164 nor 167 completes Yellow.
+
+## Entry dependencies and selected Days 63–116
+
+Days 51 and 53 below are inherited entry dependencies: Orange's final visit and the transition interval. They are not reassigned to Yellow.
+
+| Relative day | Author-approved event | Notes / status |
+|---|---|---|
+| 51 | Staging visit; schedules next repair shipment | New decision; don't change public debut sequence |
+| 53 | Damaged-mail batch delivered to apartment | General repair activity across 52–62; exact completion open |
+| 63 morning | Kaira in original robe with Nyx in lap; frustrated attempting Green ring closure | No Stage II or future bond |
+| 63 abecca | Three Brotherhood of Maegi members (two Orange, one Green) confront Kaira about robe; shop staff remove disruptive Maegi | Kaira friendly, well-known regular; distinctive pale skin; not an impersonator |
+| 63 after confrontation | Kaira enjoys abecca, plays with Nyx, returns sleeping Nyx to backpack | Keep calm slice-of-life beat |
+| 63 Blacksmith's Row | Mailwright friend finally receives Kaira's acceptance of first original robe commission (#1) | Friend has requested one repeatedly |
+| 63 dinner | Kaira calculates robe economics, considers switching from repairs | 1550 sale, 1000 cash costs, 550 cash contribution |
+| 64 | Fifth staging visit; final repair commission accepted; at Registry posts 1550-eln original robe service and accepts two orders (#2, #3) | Transition away from repairs begins |
+| 65 | Works on friend's robe (#1) | First of ten robe-production days |
+| 66 | Final damaged-chainmail repair batch arrives | 2-day shipping from Day 64 |
+| 66–72 | Seven days of final repair work | Inclusive 66..72 = 7 |
+| 73 | Inspection, packing and schedules freight | Separate from seven production days |
+| 74 | Freight collects final repairs; Kaira resumes robe #1 | Second robe-production day |
+| 75 | Staging visit, final check-in with old repair customers; accepts robe order #4 | No new repair work thereafter |
+| 76–83 | Eight more days on robe #1; completed end Day 83 | 1 + 1 + 8 = 10 |
+| 84 | Delivers robe #1 to mailwright friend; next production begins | Friend visibly wears it afterward |
+| 84–93 | Robe #2 production window | Ten-day average is flexible, not 24/7 |
+| 94 | Delivers robe #2 at staging Accord Registry through handoff service; manager commissions robe #5; proposes retail/display partnership and recruitment | Registry 1700 retail vs 1550 Kaira wholesale |
+| 98 | Registry manager has researched candidates; schedules interviews | Kaira visit |
+| 101 | Kaira interviews and hires two skilled blacksmiths, 580 eln/month each | No names fixed |
+| 102–103 | Initial instruction/material preparations; ongoing robe activity | No claim training fully finished in two days |
+| 104 | Three-person workshop formally begins expanded production; Kaira is designer, manager, trainer, quality controller | Concurrent production; assignment of #3–#5 unspecified |
+| 107 | Kaira visits city Blacksmith's Row; friend has worn original since Day 84; other smiths already making their own simpler robes; three smiths commission originals #6, #7, #8 | FIRST observation of independent copies; city fashion-market emergence |
+| 114 | Customer robes #3, #4, #5 all finished; delivery organized | Overrides intermediate earlier individual completion estimates |
+| 114–115 | Two-day delivery/transport arrangement | Exact carrier vs Kaira custody open |
+| 116 | Kaira returns to dungeon-staging Accord Registry; customer handoffs/retail-distribution milestone; staging smiths can see original design as reference | Do not claim first independent smith copies start only now; city copies already seen Day 107 |
+
+Checkpoint 019/020 resolves post-116 distribution: seven/month, one by Kaira plus three per home-based smith; Registry buys/holds stock and handles ordinary customers, Kaira handles procurement/QC/freight. Separate physical display sample and exact early assignment/training remain OPEN. Existing order register and full event mechanics belong to the robe/era owner; economy, income, sigils and calendar are global World Clock facts rather than duplicate arc systems.
+
+## Selected Days 117–167
+
+- 118: follow-up with the male humanoid unicorn realm-fauna scholar at Green District learning institution. His projected Genesis horn is not anatomical; native aen and exceptional sensitivity, angular symmetry/~6 ft, enthusiastic researcher. Nyx is healthy, unusually large and increasingly supported by his flower domain; wall not fully covered.
+- 119 near Blue closure; 123 closes Blue; Green already closed 85; Violet remains OPEN. No Stage II.
+- 131 Nyx skin becomes loose/baggy; 137 ~43 lb, outgrows rucksack and walks beside Kaira; final banked Green crystal withdrawn. Day 151 brings first subtle dermal luminous stripes, not adult pattern completion.
+- 143 orange-dominant bedroom flowers spread along wall/floor, scattered red/yellow/green/blue and first violet. They project energy and remain alive; colors are not ranks.
+- Local Raeon: 121 Yellow/fifth, 127 Orange/sixth, 133/139 absent, 145 Blue/third, 151 Green/fourth, 157 attendance/result OPEN, 163 Violet/second and narrowly misses win; then buys unspecified cards for developed deck style. Prior 91/97/109 results are in the ledger.
+- 164 staging merchants supply ~5–7 small living succulent-like vaen at ~20–30 eln each, delivered to city; sold-out Registry demand and Kaira's refusal to expand endlessly; visiting White civic noble orders original and proposes public knowledge/Transductionist celebration. This is the historical Age of Knowledge origin, not final legal adoption or end of arc.
+- 165 at home arranges delivered living vaen, notices treasured Black crystal on bedside desk and considers Binding. Has funds but does not yet know ordinary incompatibility; mother's Fireball Card is retained.
+- 166 with Nyx, city Registry referral to reputable Green District Binding facility. Paid Fireball attempt with Black crystal triggers extraordinary black/neon event, independent young Black Sprite identity bond and permanent Black/Neon eyes. It is not a successful ordinary Fireball Binding or Card. Staff see failure/incompatibility without full Black Singularity knowledge. Overwhelmed by crowds, she leaves; at home Sprite reinforces Nyx's flower energy into a balanced six-color kaleidoscope, and they play.
+- 167 carries Sprite, who hops/rides Nyx; early mind-to-mind images/impressions. Visits familiar abecca barista, Yellow Blacksmith Row mailwright and unicorn researcher. Familiar cafe crowd is less overwhelming; researcher is excited, takes notes about rare bond/eyes. Exact dialogue, telepathic grammar and mechanism OPEN.
+
+Sprite is young, independent and non-gendered (they/them), a Green-native Black recursive wisp with intermittent full neon. No early omniscience, telekinesis, full healing or mature mastery. Later conventional failed Bindings and later bond sequence retain their existing scope. Full individual/physiological facts are in Kaira, Nyx and SIX_BLACK_BONDS; no new universal Awakening phenotype.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/YELLOW_ARC_DAY_63_116_LEDGER.md](../../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/YELLOW_ARC_DAY_63_116_LEDGER.md) · [019/CHECKPOINT_019_CANON.md](../../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md) · [020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv](../../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Yellow Arc · recovered commission and robe working model
 
 **Scope: Book Red, Arc 3 (MK163-RED-ARC-003), not Book Yellow or Orange.** This is a selective workshop recovery, not an exhaustive transcript or finished arc/chapter. The verified existing opening is Day 63: Kaira wears the completed physical robe, Nyx sleeps in her lap, and she struggles toward closing Green after closing Red/Orange/Yellow. The next recovered sequence is **Green-ring practice → visit to a mailwright on Blacksmith’s Row → acceptance of her first Chainmail Robe commission**. No additional exact date/time, customer identity, price actually agreed, dialogue or chapter numbering is inferred. The first commission is not automatically the later Alchemist’s special commission.

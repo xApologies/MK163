@@ -1,0 +1,7 @@
+tier,layers,ring_material_eln,labor_eln,mass_reduction_enchantment_eln,margin_eln,retail_eln
+Basic,1,170,140,150,100,560
+Common,2,340,180,150,100,770
+Improved,3,510,220,150,100,980
+Premium,4,680,260,150,100,1190
+Standard five-layer,5,850,300,150,100,1400
+Kaira original,5,850,300,150,250,1550

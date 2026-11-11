@@ -1,3 +1,17 @@
+# Current cumulative checkpoint 020 · Day 167
+
+Read [the successor Red day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) and [the scoped supersessions](CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Orange still ends 51; explicit retrospective attendance/withdrawal additions do not move its ending. Yellow starts 63 and remains unfinished after 167. Green/Blue aen close 85/123, Violet OPEN; Sprite bond and Black/Neon eyes occur 166, not White Awakening. Age of Knowledge founding proposal 164 is not commission Day 0. Three Green crystals withdrawn 42/94/137 leave 2/1/0 banked. Seven original robes/month from 116: Kaira 1, two home-based smiths 3 each. Revised individual incomes and robe tiers live in existing L2 owners; no Pouch 015 energy or inherited repo rewrite.
+
+Preserve every prior source and image. The author approved the two missing historical 018 ledgers as a documented provenance gap; do not claim complete historic-chain or literal transcript recovery. Keep the calendar conflict OPEN: source claims 351/nine missing, actual listed lengths sum 353/seven short of declared 360. Keep week-boundary alignment OPEN. Use protected names/calendar spellings; visual references are scoped, not mechanical proof. No early Sprite, Stage II, Ring, full healing, duplicate registry or invented chapter; preserve later Alchemist/Blackstone anchors.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Current Orange completion · 006
 
 Read [the current day ledger](CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md) and [the supersessions](PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Physical robe completed Day 50, public debut/Orange finale Day 51; Yellow opens Day 63. aen lessons 21/27/32/38/43; three closed rings by Day 63, no Stage II. Day 42 realm-fauna referral and banked Green crystal nourishment; crystal is not the mineral vaen keepsake. Banking Day −1 is provisional; commission Day 0 is not Age of Knowledge Day Zero. Preserve originals, exact badge/adult images and all unrelated canon. No inherited repo edits, premature Sprite/Ring or invented weave.

@@ -1,3 +1,17 @@
+# Checkpoint 020 scoped names
+
+Use Kaira, Nyx, **Raeon**, abecca, **Maegi**, vaen, eln, aen, AERA and MK163 in this update. Brotherhood of Maegi is distinct from the later Cabal and from a new Registry role; lowercase maege/maegi occupational wording is not blanket-replaced. Existing AITHREN/aithren, ru’ne and vaelum remain protected. Calendar names: Ailar/Aiden/Aiveth/Ailor/Aithen/Aiven; Aelor/Aerith/Aelora/Aevrin/Aelis/Aevor/Aelith/Aerion/Aeveth/Aesith/Aeleth.
+
+Source 017 identifies Vera, Watcher and **Atraeus** as collaborator names and rejects assistant-generated Astrius/Astraeus/Astraus as new identities. This is a source-provenance correction, not permission to invent fictional characters or rewrite historical mathematical/API source credits. Original quotations, invalid proposals and historical casing remain literal evidence. No named researcher, noble, customer, village hub or festival is invented.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CHECKPOINT_017_CANON_AND_SUPERSESSIONS.md](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CHECKPOINT_017_CANON_AND_SUPERSESSIONS.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Checkpoint 006 · scoped banking name
 
 Use the supplied **Mage Glass** name for the banking card, per [banking owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md). This explicit scoped product/material wording is not a renaming of protected maege/maegi practitioners or a global replacement in old source evidence. Keep lowercase aen and raeon; Kaira, Nyx, Vaeryn and all other protected spellings remain.

@@ -1,3 +1,19 @@
+# Checkpoint 020 decisions versus remaining OPENs
+
+Now selected: incomes 310/580/890/1290/3000/5100; ordinary robe tier prices 560/770/980/1190/1400, Kaira original 1550 and Registry retail 1700; monthly seven-robe plan; calendar names and Day 0 date/weekday anchor; first Green crystal withdrawal 42 and total three, further 94/137; Nyx dated growth/flowers; Green/Blue aen closures 85/123; Age of Knowledge founding proposal 164; Black Sprite bond/eyes 166. Older OPEN statements below are superseded only for these exact parameters.
+
+Still OPEN: calendar source’s nine-day claim versus computed seven-day remainder, year-week/weekday epoch alignment, historical 018 ledger bytes, first older rented-deck episode placement, precise juvenile week ages, Violet closure/Stage II, completed robe topology/ring count/mass, display sample terms, payment timing/fees/overhead, unselected orders/delivery/customer names, Day 157 tournament result/attendance, decklist/cost, crystal grade/lifetime, scholar/noble/institution/village/festival names, legal adoption/first celebration, Black bond cognitive mechanics, later ordinary failures, Alchemist/Blackstone sponsorship dates and actual Yellow ending. Source 019 rough week ages are not exact under six-day weeks.
+
+Pouch 015 diamond pricing/engineering, separate future SHAPINGS import and unrelated previous questions remain. [Detailed omissions and scope audit](../CHECKPOINTS/CUMULATIVE_020/OPEN_ISSUES.md).
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Orange completion 006 · settled dates and remaining questions
 
 Robe completion **Day 50**, Orange finale **Day 51**, Yellow opening **Day 63**. Five aen lessons **21/27/32/38/43** and Day 42 realm-fauna referral are now selected. Day −1 banking remains working; precise withdrawal time, account security details, prices/crystal lifetime, instructor/researcher/institution names, exact weave, father’s fate and remaining Yellow dates stay OPEN. Three closed rings by Day 63 is not Stage II or six closures. [Complete supersessions, open parameters and source limits](ORANGE_COMPLETION_006_SUPERSESSIONS.md).

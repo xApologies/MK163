@@ -1,3 +1,35 @@
+# Named calendar and ledger anchor · 020
+
+Six weekdays, in order: **Ailar, Aiden, Aiveth, Ailor, Aithen, Aiven**. Eleven distinct months follow. Month 10 **Aesith** supersedes the duplicate Aerith; Month 2 remains Aerith and Month 11 is Aeleth, not the rejected Vaelora. Earlier proposed weekday names are not current.
+
+| Month | Name | Listed days |
+|---|---|---:|
+| 1 | Aelor | 33 |
+| 2 | Aerith | 32 |
+| 3 | Aelora | 31 |
+| 4 | Aevrin | 33 |
+| 5 | Aelis | 31 |
+| 6 | Aevor | 32 |
+| 7 | Aelith | 33 |
+| 8 | Aerion | 32 |
+| 9 | Aeveth | 31 |
+| 10 | Aesith | 33 |
+| 11 | Aeleth | 32 |
+
+The one-page original Annual Structure PDF lists these month lengths without their later names, plus binary stars, 31-hour days, 60 weeks, 11 months and 360 days. **Arithmetic audit:** these eleven listed lengths total **353**, not the source prose’s claimed 351. Against declared 360 they leave **seven** days; the inherited prose repeatedly says **nine**. All three claims remain visible and the conflict is OPEN; no author-approved correction is inferred. Existing four 90-day seasons and eleven accounting months remain. No invented intercalation, twelfth month, wage treatment or duration redistribution.
+
+Selected anchor: **Ledger Day 0 = Aithen, Aelora 5, year ordinal 70, year week 12**. Days 0–167 preserve that weekday/date anchor. Month/day arithmetic uses the supplied listed lengths; week labels use floor((ordinal−1)/6)+1. They are year weeks, not elapsed ledger weeks. Weekday is independently (4+ledger_day) mod 6. Consequently these week labels change on Aiden in this span, not Ailar. Calendar-year first weekday and week-boundary convention remain OPEN; the inconsistency must not be silently repaired by shifting the anchor.
+
+Day 14=Ailar/Aelora 19; Day 63=Ailor/Aelis 4. Consult the full validated ledger for every date rather than extending a month beyond its listed length. Day 116=Ailar/Aevor 26; Day 167=Ailor/Aerion 12.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/CALENDAR_WEEKDAYS_AND_MONTHS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CALENDAR_WEEKDAYS_AND_MONTHS.md) · [017/CALENDAR_CORRECTION_017A.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/CALENDAR_CORRECTION_017A.md) · [018/SOURCES/Annual Structure.pdf](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/SOURCES/Annual%20Structure.pdf) · [018/CHECKPOINT_018_READ_ME_FIRST.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/018/CHECKPOINT_018_READ_ME_FIRST.md) · [020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CALENDAR/DAILY_LEDGER_DAY_000_167.csv).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 > **Live Model 006 current authority — 2026-10-19:** Adds eleven-month salary accounting while explicitly preserving the nine-day calendar discrepancy. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
 
 ## Live Model 006 integration

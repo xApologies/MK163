@@ -1,3 +1,15 @@
+# Ordinary Green Sprite versus Kaira's exceptional Black companion
+
+Ordinary species morphology, collective biology and Resolution emphasis below remain. Checkpoint 020 dates Kaira's existing exceptional Black Sprite bond to **Day 166**, using the treasured Black crystal from the Red Arc collapse; the old statement that this acquisition was unselected is historical. It does not replace her White Awakening. The young, independent, non-gendered companion has Black containment and intermittent internal six-basin neon, unlike ordinary predominantly Green expression. Natural mind-to-mind impressions are not telekinesis or omniscient lie detection. [The bond owner](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) records the entire event and its limits. Image captions such as “prison,” claimed quantities, quotes attributed to AERA or an Earth coin for scale supply no new mechanism, permission or MK163 currency.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md) · [020/VISUAL_REFERENCES/BLACK_SPRITE_WISP_REFERENCE.jpeg](../../../PROVENANCE/VISUAL_REFERENCES/DELTA_004/51A904D0-5404-462A-B4D9-04749BA6706C.jpeg) · [020/VISUAL_REFERENCES/BLACK_CRYSTAL_REFERENCE.jpeg](../../../PROVENANCE/VISUAL_REFERENCES/DELTA_004/83B834A2-CFA8-4C3B-9BA6-1B1036789854%281%29.jpeg).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
 # Green native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Resolution; admissible possibility-realization**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.
