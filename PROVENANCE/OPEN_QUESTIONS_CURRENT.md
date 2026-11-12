@@ -1,3 +1,19 @@
+# Green Day 217 v7 · EDU-01 and EDU-02 RESOLVED
+
+**EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.
+
+**EDU-02 RESOLVED:** Elaira’s Chemistry I is **Aithen 11:00–13:00**, and Differential Geometry II is **Aiveth 17:00–19:00**. On Aiveth, 18:00–19:00 is optional study for Kaira and illi while Elaira attends her required lecture; **19:00–20:00** is the optional all-three study period. This does not compel attendance or retime Kaira’s or Elaira’s original schedules.
+
+The v7 author-directed correction replaces the earlier accepted OPEN status. Current required class times have been checked across all three students and all five semesters; no shared required-section mismatch remains. Other optional social alignments are still opportunities, not guaranteed attendance. All unrelated OPENs—including narrative continuation, Violet closure, admission details, apartment plans, transport and Prism rules—retain their previous scope.
+
+[v7 integration and reverse diff](../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Green Day 217 v6 · current OPENs and resolved items
 
 Resolved in scope: Day 212 meeting; Day 216 party; Day 217 campus move and adjacent housing; illi and Elaira names; Semester I Day 224 opening; Anatomy Day 18 versus Founders Day 21; 1,100/800-year ages; actual supplied campus map. Older contrary OPEN labels remain historical. Admission procedure/evaluation/dialogue is still unassigned.

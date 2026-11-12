@@ -1,3 +1,15 @@
+# Current Green education correction · v7
+
+EDU-01/EDU-02 are resolved by the author-directed schedule repair. [Current illi curriculum and full corrected Semester III](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md) records QFT I Aiveth 11:00–13:00, optional review 13:00–15:00 and all-three optional study 19:00–20:00. Kaira and Elaira timetable rows, all other curricula, narrative frontier and chronology remain unchanged. Earlier OPEN references below are historical in this scope.
+
+[v7 integration and reverse diff](../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Green Day 217 v6 · current additions
 
 Approved narrative through move-in on Day 217 only; six future unscheduled days and Semester I Day 224. Current owners:

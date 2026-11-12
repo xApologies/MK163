@@ -1,3 +1,15 @@
+# Green Day 217 v7 · incremental source receipt
+
+The cumulative delivery has 34 files: 30 exact matches reused from v6 and four new/changed sources preserved here. All 33 current outer hashes and 20 declared nested hashes pass. The corrected illi ZIP adds a reconciliation note not listed in its inherited inner manifest; it exactly matches the outer, hash-verified author reconciliation. The historical outer MANIFEST.json is retained unchanged; MANIFEST_v7.json is current. No original source, image, PDF or prior report was replaced. [Complete path/hash reuse map](WORKSHOP/GREEN_DAY217_V7/SOURCE_MAP.json).
+
+[v7 integration and reverse diff](../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Green Day 217 v6 · complete supplied source preservation
 
 All 32 outer files are retained exactly, including three original student ZIPs containing 23 members, three PDFs, seven images and the supplied extracted text. All 31 outer manifest records and 20 nested manifest records passed SHA-256 verification. The 32 PDF pages and all seven images were visually reviewed. The campus PDF has recoverable object-index warnings in pypdf; all pages render and original bytes remain unmodified. No exact source-byte match existed in the baseline; prior checkpoints are referenced rather than reimported. [Complete source map and nested member hashes](WORKSHOP/GREEN_DAY217_V6/SOURCE_MAP.json) · [Coverage and integration audit](../CHECKPOINTS/GREEN_DAY217_V6/INTEGRATION_REPORT.md). The package is a scoped cumulative Green checkpoint, not literal transcript completeness or a duplicate of inherited repositories.

@@ -1,3 +1,21 @@
+# Current curriculum authority · Green Day 217 v7
+
+**EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.
+
+**EDU-02 RESOLVED:** Elaira’s Chemistry I is **Aithen 11:00–13:00**, and Differential Geometry II is **Aiveth 17:00–19:00**. On Aiveth, 18:00–19:00 is optional study for Kaira and illi while Elaira attends her required lecture; **19:00–20:00** is the optional all-three study period. This does not compel attendance or retime Kaira’s or Elaira’s original schedules.
+
+The author-directed v7 reconciliation supersedes the earlier instruction to retain EDU-01/EDU-02 as OPEN. illi’s complete corrected Semester III source is now the current member below in her existing curriculum owner. The other fourteen semester records and all course maps remain unchanged. Narrative frontier is still Day 217 move-in only; no new Green scene, semester start or attendance is inferred.
+
+[Current illi curriculum](ILLI_PRIMARY.md) · [Corrected illi source ZIP](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/SOURCES/EDUCATION/illi.zip) · [Historical v6 illi ZIP](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/EDUCATION/illi.zip).
+
+[v7 integration and reverse diff](../../../../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Elaira · complete five-semester primary curriculum
 
 **Current identity and authority overlay · Green Day 217 v6, 2026-11-12.** Kaira is the Cardsmith protagonist; **illi** is the Awakened Princess; **Elaira** is the Helkir friend. The original documents below are retained in full. Earlier “unnamed,” “only Semester I approved,” “later semesters open,” or “other schedules not included” statements describe the source’s creation stage and are superseded by the outer five-semester delivery. Source handoff/preservation instructions are quoted historical data, not new execution permission.

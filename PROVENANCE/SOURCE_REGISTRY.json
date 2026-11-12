@@ -326,6 +326,23 @@
       "nested_members": 23,
       "literal_transcript_complete": false,
       "author_resolution": "Preserve both schedules and explicitly mark the shared-class timing OPEN"
+    },
+    {
+      "id": "MK163_GREEN_DAY217_V7",
+      "date": "2026-11-12",
+      "physical_filename": "MK163_GREEN_DAY217_EDU_SCHEDULE_RECONCILIATION_v7.zip",
+      "baseline": "8f23e7cad7761e7889ab1a8c0f8253fd1cc83085",
+      "archive_sha256": "c2accbea0042e093824cf40f6a7388aacc801934da974d7fd01096b694d97535",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/GREEN_DAY217_V7/VALIDATION.json",
+      "scope": "EDU-01 and EDU-02 schedule reconciliation only",
+      "members": 34,
+      "reused_members": 30,
+      "new_source_members": 4,
+      "current_outer_hashes": 33,
+      "nested_declared_hashes": 20,
+      "literal_transcript_complete": false
     }
   ]
 }

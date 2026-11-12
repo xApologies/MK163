@@ -1,3 +1,19 @@
+# Blackstone education · v7 schedule reconciliation
+
+**EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.
+
+**EDU-02 RESOLVED:** Elaira’s Chemistry I is **Aithen 11:00–13:00**, and Differential Geometry II is **Aiveth 17:00–19:00**. On Aiveth, 18:00–19:00 is optional study for Kaira and illi while Elaira attends her required lecture; **19:00–20:00** is the optional all-three study period. This does not compel attendance or retime Kaira’s or Elaira’s original schedules.
+
+The existing three complete curriculum owners remain authoritative; only illi Semester III source and current cross-references change. The older EDU-01 OPEN banner below is historical. No campus, Prism, narrative or calendar decision changes. [Corrected full illi timetable](BLACKSTONE_EDUCATION/ILLI_PRIMARY.md).
+
+[v7 integration and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Blackstone Keep · current campus and education owners
 
 The Day 212 Headmaster meeting and Day 217 campus move are now selected. Kaira occupies student housing with Nyx and the independent Sprite; illi and her personal handmaiden occupy the adjacent, larger apartment. Semester I begins on cumulative Day 224, a future anchor. This supersedes the earlier campus-move OPEN only; exact admission procedure, evaluation and dialogue remain OPEN. The retained 022 wine courtesy/acquaintance boundary still governs.

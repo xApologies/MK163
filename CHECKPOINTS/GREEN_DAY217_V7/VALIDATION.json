@@ -1,0 +1,433 @@
+{
+  "status": "PASS",
+  "baseline": "8f23e7cad7761e7889ab1a8c0f8253fd1cc83085",
+  "outer_hashes_verified": 33,
+  "nested_hashes_verified": 20,
+  "source_members": 34,
+  "reused_members": 30,
+  "new_source_members": 4,
+  "nested_members": 24,
+  "semesters": 15,
+  "daily_patterns": 90,
+  "required_course_sessions": 46,
+  "EDU-01": "RESOLVED",
+  "EDU-02": "RESOLVED",
+  "new_schedule_conflicts": [],
+  "added": [
+    "CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_DAY217_V7/VALIDATION.json",
+    "CHECKPOINTS/GREEN_DAY217_V7/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/MANIFEST_v7.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/SOURCES/EDUCATION/illi.zip",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V7/executable.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md"
+  ],
+  "deleted": [],
+  "counts": {
+    "added": 8,
+    "modified": 10,
+    "deleted": 0,
+    "prior_unchanged_files": 815
+  },
+  "checks": [
+    {
+      "check": "all 34 mapped members match supplied hashes and sizes",
+      "pass": true
+    },
+    {
+      "check": "all 33 current outer manifest entries verified",
+      "pass": true
+    },
+    {
+      "check": "30 exact reused files and four new sources",
+      "pass": true
+    },
+    {
+      "check": "no duplicated cumulative source tree",
+      "pass": true
+    },
+    {
+      "check": "only two declared historical outer hashes superseded",
+      "pass": true
+    },
+    {
+      "check": "historical manifest still validates original v6 files",
+      "pass": true
+    },
+    {
+      "check": "Kaira source ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "Kaira inner declared hashes",
+      "pass": true
+    },
+    {
+      "check": "Kaira inner member accounting",
+      "pass": true
+    },
+    {
+      "check": "Kaira current status resolved",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_FIVE_SEMESTER_COURSE_MAP.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi source ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "illi inner declared hashes",
+      "pass": true
+    },
+    {
+      "check": "illi inner member accounting",
+      "pass": true
+    },
+    {
+      "check": "unlisted inner note verified by matching outer hash-covered note",
+      "pass": true
+    },
+    {
+      "check": "illi current status resolved",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_FIVE_SEMESTER_COURSE_MAP.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira source ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "Elaira inner declared hashes",
+      "pass": true
+    },
+    {
+      "check": "Elaira inner member accounting",
+      "pass": true
+    },
+    {
+      "check": "Elaira current status resolved",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md exact full canonical source body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md continuous 31-hour days without gaps/overlaps",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md expected instruction and protected rest",
+      "pass": true
+    },
+    {
+      "check": "15 semesters, 90 patterns, 24 source members, 20 declared inner hashes",
+      "pass": true
+    },
+    {
+      "check": "all same-semester shared required classes agree",
+      "pass": true
+    },
+    {
+      "check": "EDU-01 resolved at 11:00–13:00 Aiveth",
+      "pass": true
+    },
+    {
+      "check": "EDU-02 Elaira required slots preserved",
+      "pass": true
+    },
+    {
+      "check": "EDU-02 all three free from required class 19:00–20:00",
+      "pass": true
+    },
+    {
+      "check": "Elaira still in required class during 18:00–19:00",
+      "pass": true
+    },
+    {
+      "check": "Kaira original archive unchanged",
+      "pass": true
+    },
+    {
+      "check": "Elaira original archive unchanged",
+      "pass": true
+    },
+    {
+      "check": "only illi Semester III and its manifest changed; one note added",
+      "pass": true
+    },
+    {
+      "check": "all five untargeted illi Semester III days byte-identical",
+      "pass": true
+    },
+    {
+      "check": "corrected optional blocks explicitly represented",
+      "pass": true
+    },
+    {
+      "check": "only declared focused changes",
+      "pass": true
+    },
+    {
+      "check": "prior Git attributes retained",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "registry is one append-only delivery",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "prior illi owner recoverable exactly by reversing authorized member update",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md all prior bytes retained",
+      "pass": true
+    },
+    {
+      "check": "no deletions, inbox tracking, or narrative/chronology edits",
+      "pass": true
+    },
+    {
+      "check": "historical v6 tree and reports unchanged",
+      "pass": true
+    },
+    {
+      "check": "new local links resolve []",
+      "pass": true
+    },
+    {
+      "check": "whitespace check",
+      "pass": true
+    },
+    {
+      "check": "repository structural validator",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "manifest_notes": "Two historical v6 outer entries superseded. The unlisted inner reconciliation note exactly matches the outer hash-covered note; all members accounted for."
+}

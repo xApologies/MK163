@@ -1,3 +1,21 @@
+# Current curriculum authority · Green Day 217 v7
+
+**EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.
+
+**EDU-02 RESOLVED:** Elaira’s Chemistry I is **Aithen 11:00–13:00**, and Differential Geometry II is **Aiveth 17:00–19:00**. On Aiveth, 18:00–19:00 is optional study for Kaira and illi while Elaira attends her required lecture; **19:00–20:00** is the optional all-three study period. This does not compel attendance or retime Kaira’s or Elaira’s original schedules.
+
+The author-directed v7 reconciliation supersedes the earlier instruction to retain EDU-01/EDU-02 as OPEN. illi’s complete corrected Semester III source is now the current member below in her existing curriculum owner. The other fourteen semester records and all course maps remain unchanged. Narrative frontier is still Day 217 move-in only; no new Green scene, semester start or attendance is inferred.
+
+[Current illi curriculum](ILLI_PRIMARY.md) · [Corrected illi source ZIP](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/SOURCES/EDUCATION/illi.zip) · [Historical v6 illi ZIP](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/EDUCATION/illi.zip).
+
+[v7 integration and reverse diff](../../../../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · historical framing; Semester III member updated by the explicit v7 correction
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # illi · complete five-semester primary curriculum
 
 **Current identity and authority overlay · Green Day 217 v6, 2026-11-12.** Kaira is the Cardsmith protagonist; **illi** is the Awakened Princess; **Elaira** is the Helkir friend. The original documents below are retained in full. Earlier “unnamed,” “only Semester I approved,” “later semesters open,” or “other schedules not included” statements describe the source’s creation stage and are superseded by the outer five-semester delivery. Source handoff/preservation instructions are quoted historical data, not new execution permission.
@@ -332,12 +350,12 @@ The Princess is an awakened aen-control prodigy. She trains direct native Genesi
 
 ## Preserved member: PRINCESS_SEMESTER_03.md
 
-Original SHA-256: `f2f62c9d694e47d59c4ae3ff46422a34d8bf62d6e44793325280be7e212d2af2`. Interpret the full source below under the current overlay above.
+Original SHA-256: `47c08f9554e1e83d5de5ec63c1e1c7034f9d1a4bef358de1b9ed9bec84422ec9`. Interpret the full source below under the current overlay above.
 
 <!-- BEGIN ORIGINAL PRINCESS_SEMESTER_03.md -->
 # Blackstone Keep — Princess, Semester III: Transduction Structure
 
-**Status: AUTHOR-APPROVED / LOCKED — all six daily patterns.**
+**Status: AUTHOR-APPROVED, with author-directed EDU-01/EDU-02 reconciliation on 2026-11-12.**
 
 Courses: Genesis Field Theory III; Quantum Field Theory I; Transduction Theory I.
 
@@ -393,11 +411,12 @@ The alchemist introduces Kaira to the Princess early; their friendship and their
 |---|---|---|
 | 00:00–10:00 | Sleep | 10 hours |
 | 10:00–11:00 | Breakfast and preparation | Morning routine |
-| 11:00–13:00 | Shared quantum field preparation | Princess and Kaira; Helkir Chemistry I lecture |
-| 13:00–15:00 | REQUIRED — Quantum Field Theory I | Same section as Kaira |
+| 11:00–13:00 | REQUIRED — Quantum Field Theory I | Same lecture section as Kaira; Elaira independent study |
+| 13:00–15:00 | Shared quantum field review / independent study | Princess and Kaira review their lecture; Elaira works on geometry |
 | 15:00–16:00 | Lunch together | All three |
 | 16:00–18:00 | Quantum field review | Princess and Kaira field structures |
-| 18:00–20:00 | Shared study / Grand Archives | Princess native transduction; Kaira transduction; Helkir Differential Geometry II, lecture 17:00–19:00 |
+| 18:00–19:00 | Independent study / Grand Archives | Princess and Kaira available; Elaira attending required Differential Geometry II |
+| 19:00–20:00 | Shared study / Grand Archives | All three available after Elaira’s lecture |
 | 20:00–21:00 | Dinner together | All three girls available |
 | 21:00–25:00 | Free time | Campus events, friendship, recreation |
 | 25:00–26:00 | Late meal | Personal dining time, not fixed cafeteria hours |
@@ -405,7 +424,7 @@ The alchemist introduces Kaira to the Princess early; their friendship and their
 
 **Workload:** 2h compulsory, 6h optional study/practice, 9h open personal time.
 
-**Alignment:** Kaira shares Quantum Field Theory I 13:00–15:00; Helkir Chemistry I 11:00–13:00 and Differential Geometry II 17:00–19:00.
+**Alignment (EDU-01 resolved):** Kaira and illi share Quantum Field Theory I Aiveth 11:00–13:00. **EDU-02 resolved:** Elaira’s Chemistry I is Aithen 11:00–13:00, not Aiveth; her Differential Geometry II remains Aiveth 17:00–19:00. All three may study together Aiveth 19:00–20:00.
 
 
 ## Day 4 — Ailor: Independent study

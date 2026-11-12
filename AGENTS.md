@@ -1,3 +1,15 @@
+# Current Green curriculum reconciliation · v7
+
+Read [the v7 audit](CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md). **EDU-01 and EDU-02 are RESOLVED**: Semester III Kaira/illi QFT I Aiveth 11:00–13:00; illi 13:00–15:00 optional review. Elaira Chemistry I Aithen 11:00–13:00 and Differential Geometry II Aiveth 17:00–19:00; all-three optional study Aiveth 19:00–20:00, earlier 18:00–19:00 only Kaira/illi. Use the corrected illi Semester III in the existing owner; preserve original v6 archive/history. All other semesters and the Day 217 move-in narrative frontier are unchanged. The Grand Archives researcher interaction remains workshop only.
+
+[v7 integration and reverse diff](CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
 # Current Green checkpoint · Day 217 v6
 
 Read [the scoped supersessions](CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) and [the single running day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md). Narrative frontier is **Day 217 move-in only**, not end of day. Days 218–223 unscheduled; Semester I future start Day 224. Kaira 23, illi 27; Elaira is the Helkir friend. Nyx is male Vaeryn, separate from Sprite they/them. Alchemist stays behind; handmaiden is not a student. Violet remains OPEN. Grand Archives lunch/researcher encounter is unapproved. Preserve both QFT I schedules with their shared-class time OPEN (author instruction). Blackstone age ~1,100, Wall ~800; four-story three-wing Gym open north; Prism faculty Cup is departmental, student club separate. No completed Orange/Yellow rewrite or inherited repository edits. All detailed curricula and original PDFs, images and student ZIPs remain preserved.
