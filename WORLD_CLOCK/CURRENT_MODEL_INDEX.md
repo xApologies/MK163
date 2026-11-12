@@ -1,3 +1,15 @@
+# Delta 022 · Green opening setup
+
+A small addition after Yellow closure. [Current Green opening](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Alchemist status/acquaintance](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Potion mutual exclusivity](L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md) · [Violet practice during caravan](L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md). No new dated ledger row or admission result is selected.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Delta 021 · Yellow closure and global calendar/banking
 
 Current state through Day 211. Yellow COMPLETE; Green begins afterward. Historical 018 repair and all prior checkpoints remain intact.

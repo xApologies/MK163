@@ -294,6 +294,20 @@
       "declared_hashes_passed": 14,
       "literal_transcript_complete": false,
       "author_resolution": "Keep 1 Red eln = 180 ahm; treat the new OPEN statement as stale (Recommended)"
+    },
+    {
+      "id": "MK163_GREEN_OPENING_DELTA_022",
+      "date": "2026-11-12",
+      "baseline": "fbc7f728e1bf19bcbb54cb64997ab488fd62f8a4",
+      "physical_filename": "MK163_GREEN_OPENING_DELTA_022.zip",
+      "archive_sha256": "90958ecc5b94649f7b8947a4676510c8e9c96a88d5b4f3554c46c927f8351e10",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_OPENING_022/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/GREEN_OPENING_022/VALIDATION.json",
+      "supplied_manifest": false,
+      "members": 3,
+      "scope": "Small incremental Green opening, Alchemist potion status and Yellow Violet-practice amendment",
+      "literal_transcript_complete": false
     }
   ]
 }

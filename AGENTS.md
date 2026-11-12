@@ -1,3 +1,17 @@
+# Current Green opening · Delta 022
+
+Read [the selected Headmaster-office setup](BOOKS/RED/ARCS/ARC_004/ARC.md) and [022 receipt](CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md). Green begins after Day 211; Day 212, admission outcome and campus move are not fixed. The Alchemist brings one bottle of her rare wine as a courtesy, not a guaranteed-admission bribe; the Headmaster remains unnamed. She has taken Genesis potions, never an Awakening potion, and is not Awakened. The two potion routes are mutually exclusive; mechanism, effects, dose and timing OPEN.
+
+During Days 202–209 Kaira practices Violet and makes progress without confirmed closure or a specific practice day. Preserve all daily rows, Yellow Day 211 closure, prior 020/021 and historical 018 repair, current maege glass spelling, 353-day calendar and **1 Red eln = 180 ahm**. No extra Green scenes or chapters, Stage II, invented magical ability or inherited repository edits.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Current Yellow closure · Delta 021
 
 Read [the Day 0–211 ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) and [021 supersessions](CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Yellow opens 63 and closes **211** at Blue capital arrival; Green begins afterward, admission/campus date OPEN. Day 171 spontaneous chromatic physical robe is not deliberate Shaping, repeatable production or the later Genesis Robe. Alchemist commission 179, work 180–187, sponsorship 187; 5,000 eln special price is separate. Four-smith 12/month plan follows 193–201 training/readiness; 130/month management fee, conditional 4,150 before costs.

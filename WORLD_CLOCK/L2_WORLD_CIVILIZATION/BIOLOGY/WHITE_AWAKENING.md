@@ -1,3 +1,15 @@
+# Delta 022 · distinguish mutually exclusive potion routes
+
+The [current MK163 potion owner](NEUROGENESIS_AND_CHROMATIC_POTIONS.md) records the author-selected rule that Genesis potions and Awakening potions cannot both be taken. The Alchemist is not Awakened; Kaira's already-established Awakening remains. This adds no new Awakening mechanism, dosage, phenotype or timing and does not rewrite inherited source quotations.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../../../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../../../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Preserve universal Awakening; separate Day 166 exceptional eyes
 
 Ordinary White Awakening still preserves individual pigmentation and original-color eye identity under the existing mechanism. Kaira retains luminous steel-gray eyes after her Red Arc Awakening and through Day 165. **Day 166** Black Sprite identity bonding separately transforms them permanently to **Black/Neon spectral eyes**. This is an explicit later MK163 character decision, not imported old MK157 acquisition/armor plot or a universal White phenotype. Her other established pigmentation/scars and physiology are not changed by a garment render. [Exceptional event and perception boundaries](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md).

@@ -1,3 +1,15 @@
+# Green opening Delta 022 · incremental source
+
+Three supplied Markdown files are preserved byte-for-byte. The package contains no publisher hash manifest; ZIP CRC and path safety pass, and a local SHA-256 inventory records the exact archive and every source member. [Source map](WORKSHOP/GREEN_OPENING_022/SOURCE_MAP.json). No image or cumulative checkpoint payload is supplied or reimported. All earlier source records remain intact.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Delta 021 · incremental Yellow closure delivery
 
 Archive `MK163_YELLOW_ARC_CLOSURE_DELTA_021_2026-11-11.zip`, SHA-256 **96c08c45ba50c191b57e5ea49854d0d6eaedcb18335b66d7cadedcc45f89d2d6**. All 14 declared hashes pass; 15 source members including manifest are preserved byte-for-byte under the new 021 workshop directory. None matches an existing tracked file hash; three original visual references are preserved without conversion. No prior 017–020 payload is reimported. The user explicitly reconfirms the existing 180-ahm exchange rate during reconciliation. [Full source mapping](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SOURCE_MAP.json) · [Integration audit](../CHECKPOINTS/YELLOW_CLOSURE_021/INTEGRATION_REPORT.md).

@@ -1,3 +1,35 @@
+# Green opening · current author authority, Delta 022
+
+The selected setup below adds the Headmaster's-office opening only. It supersedes the earlier no-new-Green-opening guard in this limited scope; it does not add subsequent scenes, chapter counts, a fixed date or an admission result. The earlier academic and royal outline remains future development.
+
+# MK163 · Delta 022 · Green opening handoff
+
+**Authority:** author-selected opening setup. **Baseline:** Delta 021, Yellow complete Day 211. Green begins after Day 211; Day 212 is proposed, not confirmed.
+
+## Opening scene
+Kaira and **the Alchemist** sit in the Headmaster's office at prestigious Blackstone Keep in the Blue Domain capital. The Alchemist personally introduces and advocates for Kaira's admission to study Cardsmithing. The Alchemist and Headmaster have a longstanding professional/social acquaintance, not necessarily a friendship: she sometimes recruits Blackstone talent for her vineyards and alchemical projects. She brings **one bottle of her own rare wine vintage** as a social courtesy to smooth the conversation, not an established bribe or guaranteed admission. The Headmaster's name, exact conversation, evaluation, and admission outcome remain OPEN. The Alchemist's personal name remains OPEN; she is known by the title **the Alchemist**.
+
+## Alchemist status
+The Alchemist comes from an underclass upbringing and earned wealth, professional standing and social status later in life. She has taken **Genesis potions**, has **never taken an Awakening potion**, and is **not Awakened**. The author selects mutual exclusivity: one cannot take both Genesis and Awakening potions. Exact biological mechanism, effects, dosage and timing remain OPEN; retain compatible inherited AERA definitions.
+
+## Late Yellow amendment
+During the **Days 202–209** caravan journey, Kaira becomes bored during free time and practices her still-open **Violet aen ring**. She makes meaningful progress, **without a confirmed closure**. Do not assign a specific practice day or revise the Day 211 Yellow endpoint.
+
+## Entry continuity
+Kaira stays temporarily at the Alchemist's upscale Blue District apartment, with Nyx and the independent young Black Sprite (they/them). Admission and campus residence are pending. Kaira's Chainmail Robe business continues under Accord Registry management and national banking access. No new Green scenes, chapter counts, named Headmaster, or magical abilities are established.
+
+**Protected terms:** Kaira; Nyx; Black Sprite; Chainmail Robe; maege glass; Blackstone Keep; Accord Registry; aen; vaen.
+
+The Alchemist character owner and global potion owner record [her status](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) and [the mutual-exclusivity rule](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md). The retrospective Violet-practice note is also in [the existing Yellow travel owner](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../../../../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../../../../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Green entry boundary · after Day 211
 
 Green Arc 004 begins **after Day 211**, following Yellow's Blue capital arrival. At that boundary Kaira is a guest at the Alchemist's apartment; the Day 187 sponsorship offer is established but admission and campus housing dates remain OPEN. The earlier outlined entry and later academic/royal beats below remain future development, not proof of enrollment or Nyx rideability on Day 211. No new Green scene, chapter, date or cast is added. [Completed Yellow contract](../ARC_003/ARC.md).

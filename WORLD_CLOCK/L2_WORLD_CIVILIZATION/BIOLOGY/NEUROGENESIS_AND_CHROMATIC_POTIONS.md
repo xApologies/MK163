@@ -1,3 +1,17 @@
+# MK163 potion routes · selected mutual exclusivity
+
+**Delta 022 author decision:** one cannot take both **Genesis potions** and an **Awakening potion**. These routes are mutually exclusive in current MK163 canon. The earlier undecided question about prior chromatic doses as an Awakening prerequisite is superseded within MK163; it is not a new upstream AERA edit. Compatible inherited definitions remain, and no biological mechanism, effect, dose or timing is invented.
+
+The Alchemist has taken Genesis potions, never an Awakening potion, and is not Awakened; [character application](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md). Kaira's established Awakening is unchanged. The exact mutual-exclusivity mechanism and the Alchemist's specific potion history remain OPEN; no universal dose count or new medical protocol is supplied.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../../../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../../../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Neurogenesis and the six chromatic channel strands
 
 **Project:** MK163  

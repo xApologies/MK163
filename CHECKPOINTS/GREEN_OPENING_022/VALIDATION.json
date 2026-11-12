@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "date": "2026-11-12",
+  "baseline": "fbc7f728e1bf19bcbb54cb64997ab488fd62f8a4",
+  "archive_sha256": "90958ecc5b94649f7b8947a4676510c8e9c96a88d5b4f3554c46c927f8351e10",
+  "supplied_manifest": false,
+  "source_files_verified": 3,
+  "source_verification": "Exact ZIP/installed-byte comparison, CRC and locally computed SHA-256; no publisher-provided manifest",
+  "full_substantive_source_in_arc": true,
+  "prior_owner_text_preserved": true,
+  "prior_registry_entries_preserved": true,
+  "all_212_daily_rows_byte_identical": true,
+  "day_211": "Aeveth 24, Aiven; Yellow COMPLETE",
+  "green_opening_date": "After Day 211; Day 212 proposed only",
+  "admission_result": "OPEN",
+  "violet_closure": "OPEN; progress during 202–209 only",
+  "potion_routes": "Author-selected mutual exclusivity; Alchemist not Awakened",
+  "old_checkpoints_sources_and_images_unchanged": true,
+  "orange_and_yellow_arc_records_unchanged": true,
+  "added": 6,
+  "modified": 10,
+  "deleted": 0,
+  "prior_unchanged_files": 767,
+  "new_local_links_checked": 32,
+  "inbox_files_unchanged": 22,
+  "structural_validator": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "changes": {
+    "PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/GREEN_OPENING_022/CODEX_INTEGRATION.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/GREEN_OPENING_022/README_START_HERE.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/GREEN_OPENING_022/SOURCE_MAP.json": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "BOOKS/RED/ARCS/ARC_004/ARC.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/WHITE_AWAKENING.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "AGENTS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "PROVENANCE/SOURCES.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "PROVENANCE/SOURCE_REGISTRY.json": {
+      "operation": "modified",
+      "preservation": "registry_append"
+    },
+    ".gitattributes": {
+      "operation": "modified",
+      "preservation": "append"
+    },
+    "CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/GREEN_OPENING_022/VALIDATION.json": {
+      "operation": "added",
+      "preservation": "new"
+    }
+  },
+  "blocking_conflicts": [],
+  "literal_transcript_complete": false,
+  "publication_status": "Precommit validation; final SHA and remote verification reported after push"
+}

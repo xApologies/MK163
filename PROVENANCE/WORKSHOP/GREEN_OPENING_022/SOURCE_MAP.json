@@ -1,0 +1,25 @@
+{
+  "archive": "MK163_GREEN_OPENING_DELTA_022.zip",
+  "archive_sha256": "90958ecc5b94649f7b8947a4676510c8e9c96a88d5b4f3554c46c927f8351e10",
+  "baseline": "fbc7f728e1bf19bcbb54cb64997ab488fd62f8a4",
+  "scope": "Small incremental Delta 022",
+  "supplied_manifest": false,
+  "integrity_note": "No delivery manifest supplied. ZIP CRC/safe paths checked; these SHA-256 values are computed during local ingestion, not publisher-provided hashes.",
+  "members": {
+    "CANON/GREEN_OPENING_HANDOFF.md": {
+      "sha256": "cdb6e4bb0f8c018069b73af6d69038fb04a7254ef789380ef6450bb27f69f646",
+      "bytes": 2241,
+      "installed": "PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md"
+    },
+    "CODEX_INTEGRATION.md": {
+      "sha256": "b9f7bbede953ddf1cf6925dd9fbb3871fa06df2fa04ea5a43f9b717a63e1714a",
+      "bytes": 1345,
+      "installed": "PROVENANCE/WORKSHOP/GREEN_OPENING_022/CODEX_INTEGRATION.md"
+    },
+    "README_START_HERE.md": {
+      "sha256": "908cf8c7df59780df9562b54e06534249ab37206a3b3148a111e2fac74853fd1",
+      "bytes": 428,
+      "installed": "PROVENANCE/WORKSHOP/GREEN_OPENING_022/README_START_HERE.md"
+    }
+  }
+}

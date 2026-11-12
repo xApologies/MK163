@@ -1,3 +1,15 @@
+# Late Yellow amendment · Violet aen practice, Days 202–209
+
+During the caravan journey, Kaira becomes bored in her free time and practices her still-open **Violet aen ring**. She makes meaningful progress, **without a confirmed closure**. No individual practice date, Stage II or new ability is selected. All existing departure/arrival milestones remain: departure Day 202, Green capital arrival Day 209, Yellow closes on Blue capital arrival Day 211. The complete daily ledger is unchanged. [Green opening setup](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) occurs after Day 211; Day 212 is only proposed.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../../../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../../../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Days 202–211 — Yellow caravan journey and King's Highway arrival
 
 **Author map:** [AUTHOR_DOMAIN_ROUTE_MAP.jpeg](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/AUTHOR_DOMAIN_ROUTE_MAP.jpeg); purple marker in **Green Domain** marks Green capital, purple marker in **Blue Domain** marks Blue capital. Smaller dots ignored for this route; exact originating city name OPEN. Map is author-supplied conceptual geography, not precise measured road distance.

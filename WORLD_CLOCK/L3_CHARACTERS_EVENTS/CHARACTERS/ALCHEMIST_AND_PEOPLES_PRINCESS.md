@@ -1,3 +1,17 @@
+# The Alchemist · Genesis-potion status and Green opening
+
+The Alchemist rose from an underclass upbringing to earned wealth, professional standing and social status. She has taken **Genesis potions**, has **never taken an Awakening potion**, and is **not Awakened**. [The selected potion mutual-exclusivity rule](../../L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md) applies; biological mechanism, effects, dosage and timing remain OPEN. Her personal name is still OPEN.
+
+She personally advocates for Kaira at Blackstone's Headmaster office, drawing on a longstanding professional/social acquaintance through occasional recruitment for her vineyards and alchemical projects. This does not establish friendship with the Headmaster. One bottle of her own rare wine is a social courtesy, not a bribe or guaranteed admission. [The full selected opening](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) retains the unknown date, Headmaster name, evaluation, dialogue and admission outcome. It supersedes the older wine-case exchange proposal only for this selected meeting; no additional transaction is inferred.
+
+Delta 022 · 2026-11-12. [Exact supplied author handoff](../../../PROVENANCE/WORKSHOP/GREEN_OPENING_022/CANON/GREEN_OPENING_HANDOFF.md) · [Scoped integration receipt](../../../CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 022 decisions above supersede earlier statements; unrelated detail and original quotations remain in their existing scope.
+
+---
+
 # Days 179–187 — The Alchemist and Kaira
 
 - Alchemist: accomplished, worldly, assertive, financially comfortable, knowledgeable in botany/Genesis-expressive fruits and fine wines/international vintages; arose from underclass background (not the same childhood trauma as Kaira). **Personal name OPEN.** Future older-sister/mentor relationship begins here, not a preexisting acquaintance.
