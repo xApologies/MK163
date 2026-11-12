@@ -1,3 +1,17 @@
+# Current Green v8 · end of Day 217 and proposed syllabus
+
+Read [v8 scoped decisions](CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) and [pinned source verification](CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md). Day 166 initiates the Black Prophecy trajectory; Day 167 existing unicorn consultation adds its tentative discussion. v8 now selects the Day 217 Grand Archives meal, mature Green Sprite professor/telepathy, agency-respecting mentorship offer, handmaiden unpacking with bracelet and bookstore return. Frontier is **end of Day 217**; older move-in-only/lunch-unapproved guards are historical only in this scope. No dialogue/names, omniscience, completed lessons or solitary biological transformation is invented. One-month humanoid development remains a target/mechanism OPEN. Days 218–223 unassigned; Day 224 future plan only.
+
+EDU-01/02 stay RESOLVED and all fifteen semester records remain unchanged. Genesis/Transduction syllabus is **PROPOSED**, no disciplinary replacements. Preserve natural-law cutoff, SU(n) proof limits, unverified Astrius/Vera individual-book inventory, original source/image bytes and unrelated canon. No Orange Arc or inherited repository edits. Use Kaira, Nyx, lowercase illi, Black Sprite, Vaelith and ELDRIS.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Current Green curriculum reconciliation · v7
 
 Read [the v7 audit](CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md). **EDU-01 and EDU-02 are RESOLVED**: Semester III Kaira/illi QFT I Aiveth 11:00–13:00; illi 13:00–15:00 optional review. Elaira Chemistry I Aithen 11:00–13:00 and Differential Geometry II Aiveth 17:00–19:00; all-three optional study Aiveth 19:00–20:00, earlier 18:00–19:00 only Kaira/illi. Use the corrected illi Semester III in the existing owner; preserve original v6 archive/history. All other semesters and the Day 217 move-in narrative frontier are unchanged. The Grand Archives researcher interaction remains workshop only.

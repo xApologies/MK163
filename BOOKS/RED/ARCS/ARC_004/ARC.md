@@ -1,3 +1,44 @@
+# Green Arc · current narrative through END OF DAY 217
+
+**Status:** author-selected scene beats; dialogue, professor name and office coordinates remain OPEN. This v8 advances the narrative frontier through **the end of Day 217**, not through Day 224.
+
+## Move-in
+Kaira, Nyx and the independent young Black Sprite move into their spacious Blackstone student apartment; **illi** (protected lowercase spelling i-l-l-i) and her handmaiden occupy the adjacent, larger residence. Kaira's apartment has study and bathroom on the left, open kitchen/living area in the center, master bedroom on the right, French doors/balcony, and an entrance/foyer whose precise location is OPEN. illi has a separate private room for the handmaiden. The handmaiden stays behind to unpack and organize, with a dimensional storage bracelet; she is not a student and has free time after her duties. Exact bracelet mechanics OPEN.
+
+## Grand Archives lunch and sprite professor
+Kaira and illi visit an ordinary dining counter/restaurant in the **Grand Archives**, Blackstone's central monumental building. Nyx and the Black Sprite accompany Kaira. A mature Green-native **sprite professor/researcher**, a long-established resident scholar at Blackstone collaborating with humans on Green Realm ecology, Genesis biology, culture and prophecy, senses or notices the young Black Sprite while passing. Exact sensing mechanism OPEN. The young Black Sprite grows excited, moves about on the table, and communicates directly with the professor. Nyx and the young Sprite also communicate naturally, revealing to Kaira that the Green-native companions can exchange impressions, images, concepts and mind-to-mind speech. The professor addresses Kaira telepathically; Kaira experiences their thoughts directly. **This is mind-to-mind communication, not physical telekinesis or omniscient thought reading.** The professor is knowledgeable about the Black Prophecy / Singularity and the Black Sprite's exceptional expression.
+
+The professor respectfully offers to mentor the young Sprite, with Kaira's agreement and the Sprite's own agency respected. An open invitation to visit the professor's Blackstone office follows. Future occasional supervised lessons may involve the professor collecting the Sprite and returning them afterward. Instruction will develop Green-native Genesis control and communication. Author's **target**: young Black Sprite develops a humanoid expression in approximately one month; exact date and individual-versus-collective mechanism OPEN, to be reconciled with AERA's collective morphology constraints rather than assuming all solitary sprites transform. The professor is centuries-old or of comparable mature age (exact age OPEN), a permanent institutional fixture. Name, gender and exact office OPEN; use they/them until selected.
+
+### Visual identity — user-supplied references govern
+The professor is a human-height **humanoid silhouette** with head, arms, legs and torso, largely featureless/androgynous, dark charcoal/black continuously recursive Genesis containment, **subtle predominantly GREEN internal luminescence**, perhaps luminous eyes. They are neither a human with green skin nor a skeletal/monstrous humanoid, nor a rainbow-colored Black Sprite, nor an Eldris. The user explicitly rejected the earlier assistant-generated purple-background green monster depiction. Original user images are included under `REFERENCES/` and should be retained as conceptual source evidence; they are not exact professor portraits.
+
+### Species distinctions
+Ordinary sprites are Green-native, intelligent and can live independently or merge into collectives. AERA `L2/BIOLOGY/02_SPRITES.md` describes collective true biological transformations; MK163 `SEVEN_DENIZENS_VISUAL_POWER.md` establishes advanced humanoid denizen expression. **Nyx is a separate Green-native feline and cannot hive-merge.** Kaira's Black Sprite is independent, young, and Black-contained with internal six-basin neon, not ordinary green leakage. Sprite name, exact age and biological maturation mechanics OPEN.
+
+## Campus bookstore — closing Day 217
+After the Grand Archives encounter and meal, Kaira and illi visit Blackstone's bookstore and obtain textbooks, notebooks and class materials. Kaira repurposes her **black mushroom-leather rucksack**, previously used in Yellow Arc to carry Nyx when he was smaller, as her academic book bag. They return to their residences. **End of Day 217.**
+
+## Later narrative beats, NOT completed Day 217 canon
+Days 218–223 pass without assigned individual scenes. Day 224 (Aesith 6, Ailar) is Semester I Day 1: around 09:00 illi knocks and wakes a groggy Kaira; Kaira lets her in, prepares and dresses in her Chainmail Robe while illi teases her; they and Nyx/Black Sprite go to breakfast; Genesis Field Theory I meets 11:00–13:00. Front row from the back of the classroom, left-to-right: **illi — Kaira — Elaira**. Elaira is their future Helkir friend; first conversation details OPEN. The institution's Day 1 Opening Convocation timing remains OPEN and must not silently collide with required lecture.
+
+## Multicultural Blackstone direction
+Other realm-native people may reside and teach at Blackstone as ordinary members of society. A Leviathan mathematician and Orange-native Vaelith biologist are **examples only**, not established named appointments. Do not assign them without author selection.
+
+## Current authority and source boundaries
+
+The explicit v8 selection supersedes v6/v7’s move-in-only cutoff and their unapproved-lunch/unpacking guard only for the supplied beats above. Day 217 does not establish humanoid development, completed lessons or any Day 224 event. The approximately one-month development target has no locked date or solitary-transformation law. [Sprite professor identity, mentorship and morphology](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Exact visual references and captions](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/REFERENCES/README.md).
+
+The future ~09:00 wake-up plan differs from Kaira’s repeating Semester I 00:00–10:00 sleep block. Preserve both as future scene planning versus the unchanged recurring timetable; exact first-day routine reconciliation and Opening Convocation time remain OPEN. No required class is moved. The new Genesis syllabus is a proposal, not a timetable or completed curriculum.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Green Arc · approved through Day 217 move-in only
 
 **Current frontier: Day 217 move-in ONLY, not the end of Day 217.** The latest v6 cutoff controls the older v5 wording. These decisions date and extend the retained Delta 022 opening; they do not author missing dialogue or chapters.

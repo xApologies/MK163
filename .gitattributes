@@ -89,3 +89,7 @@ PROVENANCE/WORKSHOP/GREEN_DAY217_V6/** -text -whitespace
 # Preserve exact v7 supplied source bytes and deterministic validation JSON
 PROVENANCE/WORKSHOP/GREEN_DAY217_V7/** -text -whitespace
 CHECKPOINTS/GREEN_DAY217_V7/*.json text eol=lf
+
+# Exact v8 sources and stable audit JSON
+PROVENANCE/WORKSHOP/GREEN_DAY217_V8/** -text -whitespace
+CHECKPOINTS/GREEN_DAY217_V8/*.json text eol=lf

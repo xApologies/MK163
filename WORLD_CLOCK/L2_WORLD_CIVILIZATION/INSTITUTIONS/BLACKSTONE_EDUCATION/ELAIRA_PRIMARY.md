@@ -1,3 +1,15 @@
+# v8 · proposed subject syllabus reference
+
+[Full five-semester Genesis/Transduction working syllabus](GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md) adds proposed subject organization only. All original course maps, fifteen detailed semester records, 90 daily patterns and enrollment/class times remain unchanged. EDU-01 and EDU-02 remain **RESOLVED** under v7. Conventional disciplinary courses are not replaced; no extra required lecture or Helkir course is invented. Story chronology advances only through Day 217; the Day 224 morning is future scene planning.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Current curriculum authority · Green Day 217 v7
 
 **EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.

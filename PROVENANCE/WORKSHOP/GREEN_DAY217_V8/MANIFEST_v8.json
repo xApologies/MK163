@@ -1,0 +1,166 @@
+{
+  "package": "MK163_GREEN_ARC_CUMULATIVE_CODEX_DAY217_AND_SYLLABUS_v8",
+  "historical_base": "MK163_GREEN_DAY217_EDU_SCHEDULE_RECONCILIATION_v7.zip",
+  "files": {
+    "CANON/BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md": {
+      "sha256": "ee2897e0c3dadea5fae039d8502be381d8bfda3d5685d209f2fa2c4b8bbc7164",
+      "bytes": 3972
+    },
+    "CANON/CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md": {
+      "sha256": "0abe8835851a02448849fb4528c879a91f301813e2f09c032a22f973efbc97d8",
+      "bytes": 2610
+    },
+    "CANON/CHARACTERS_AND_EDUCATION.md": {
+      "sha256": "80b2cf79058ad3625b9a4f8552019356be1e0c74108969f21be78dea4fa4aac4",
+      "bytes": 1072
+    },
+    "CANON/CHECKPOINT_V5_DAY_217_MOVE_IN.md": {
+      "sha256": "2ecabd43a5abbe09c2c69e1bcd81c0f020698df6e9b4cc0178b79eb2177bbbfd",
+      "bytes": 1572
+    },
+    "CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md": {
+      "sha256": "4ed4c5a907c4e92e58657e40adce4007b4be278fa8669cf14673586e2bd7c472",
+      "bytes": 2507
+    },
+    "CANON/GREEN_ARC_COVERAGE_AUDIT.md": {
+      "sha256": "468c83d0b721e36008be2ba12811cfd83af796af95b4439471344c50bd9683f0",
+      "bytes": 1643
+    },
+    "CANON/GREEN_ARC_DAILY_LEDGER_DAY_211_224.md": {
+      "sha256": "b8cebadeea3b7075eab088403dae55243c4d135999fa5e1aa524739795758ad0",
+      "bytes": 4240
+    },
+    "CANON/GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md": {
+      "sha256": "f903e43a939335d7c02306cc7416ed5b1758859d32b65495508b11e46c5de374",
+      "bytes": 3628
+    },
+    "CANON/GREEN_ARC_OPENING_AND_STORY.md": {
+      "sha256": "b1b0e6eeef4cad5cb57988a28523a749ffaec006767ee824662acd9b54b7a979",
+      "bytes": 1655
+    },
+    "CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md": {
+      "sha256": "0f8704dd601a3c4ad6770e03eb983c8c6563ab4c0913c40c948e99ddadbc8836",
+      "bytes": 5435
+    },
+    "CANON/GYM_ARCHITECTURE.md": {
+      "sha256": "af4930af1b586290d5f772b67154eb753263821c4789f9083bb77fcb5d6cfa8a",
+      "bytes": 2568
+    },
+    "CANON/OPEN_ITEMS.md": {
+      "sha256": "e07c5e4a34c8fd38719d928c31aaf52e7655840c7cc3ffa4085a55c4a42a1047",
+      "bytes": 861
+    },
+    "CANON/PRISM_FIELD_ARCHITECTURE.md": {
+      "sha256": "22f6e7b8d0652dbd1f6de856dc4a7474443666e748da9afbb48bb70b5f0daf39",
+      "bytes": 2021
+    },
+    "CANON/PRISM_GAME_AND_CULTURE.md": {
+      "sha256": "828b35c35b4b780d37807871c20c0734b46bb604faa35fc373ea690b0c2eaa05",
+      "bytes": 2286
+    },
+    "CANON/SOURCE_AUTHORITY_AND_OPEN_CONFLICTS_v4.md": {
+      "sha256": "7e5090a793087d5e352a4678b483ad98a3328bd42c033cef91f85e8e51da19af",
+      "bytes": 1137
+    },
+    "CANON/URBAN_TRANSPORT_AND_LIVERY.md": {
+      "sha256": "dc18cf00dc0edad3a9a57f37b82de7a3f63e2a5ae9fddd1cfdb30d44d8bff7b8",
+      "bytes": 2939
+    },
+    "CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md": {
+      "sha256": "ff228a84f2334d246044818162f3e8943de06d229c8543f88ee5bcf6e9cb7ac5",
+      "bytes": 1589
+    },
+    "CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md": {
+      "sha256": "3479dda16bcbbb6aa0733d746e467f976ed52bbb7aaa390286e3f6a2ff790a36",
+      "bytes": 9366
+    },
+    "EDU_RECONCILIATION_v7.md": {
+      "sha256": "643380a1740ec4ecaf024e2d695fee5fedc1223b2032d3ef8cb7ed22bd1ee8ec",
+      "bytes": 621
+    },
+    "MANIFEST.json": {
+      "sha256": "18fbc298a94edc0f9728fa1ad8b171815bc65354e877761895f11a4c39de25d9",
+      "bytes": 5405
+    },
+    "MANIFEST_v7.json": {
+      "sha256": "788b4e28e0f744e5b9a197f6e14d61cba68c48a2367751a756f4422272e7120f",
+      "bytes": 3854
+    },
+    "README.md": {
+      "sha256": "adc23b7beb450be79c6acdad508689a40b9b8c33df5d9187fda82a655ba2cce2",
+      "bytes": 4615
+    },
+    "README_v8.md": {
+      "sha256": "da694d0660c04d7f9307b206b2e7e6e103326d4a17d1b8015b9a30eaaa4c8e8e",
+      "bytes": 645
+    },
+    "REFERENCES/ELDRIS_RECURSIVE_SOURCE_USER.PNG": {
+      "sha256": "2001a3ca7903b75b732d8b4ee9415b8fa1d98fb09d0da62ca7d8418ecf3ff19d",
+      "bytes": 4101762
+    },
+    "REFERENCES/SPRITE_RECURSIVE_SOURCE_USER.jpeg": {
+      "sha256": "cf42f0bec8ebb58345a8abb0156107b207ab4ee8d4d3acaf5af4a767de2d0870",
+      "bytes": 251867
+    },
+    "SOURCES/CAMPUS/Class Schedule - Kira.pdf": {
+      "sha256": "a531f0c4cc83795667fc523327df589e134dcbfe5baa24a50f1a339fe53defeb",
+      "bytes": 12999
+    },
+    "SOURCES/CAMPUS/MASTER_schedule.pdf": {
+      "sha256": "b9e06117fee78e237f122af56b2bf0356c78f5b3e9033406808c194d2bfc66ae",
+      "bytes": 86079
+    },
+    "SOURCES/CAMPUS/MK147_BLACKSTONE_ARC4_CAMPUS_CANON_EXTRACTED.txt": {
+      "sha256": "465326f29c36aa57ec7e01d32626d59babb1b3ce5ab817f86e8e30ad7dc6946a",
+      "bytes": 9573
+    },
+    "SOURCES/CAMPUS/MK147_BLACKSTONE_ARC4_CAMPUS_CANON_MASTER_3.pdf": {
+      "sha256": "d9bcfacc10e5c75dc076b167f04ffa0cb7df640a03df6433b7b436a780d93ce8",
+      "bytes": 101814
+    },
+    "SOURCES/CAMPUS/ORIGINAL_ANNOTATED_CAMPUS_MAP.jpg": {
+      "sha256": "dba47e30f023674eb4b2fdfcf40152b4c666668252fdbc2c280ee616c37e7cfd",
+      "bytes": 2707533
+    },
+    "SOURCES/EDUCATION/Elaira.zip": {
+      "sha256": "aee3f1ccecee16971a3467fbd6009f18edc9ce6326ca7a9cb06394d25b5aca12",
+      "bytes": 11664
+    },
+    "SOURCES/EDUCATION/Kaira.zip": {
+      "sha256": "71c41258a093094f5240016da51f86d2aac33f124145e0ab85e7dfe56dda3e80",
+      "bytes": 11944
+    },
+    "SOURCES/EDUCATION/illi.zip": {
+      "sha256": "a54da424f68f57156c9d4da67d51eae9e95e30f5b837066dbb3e56b4e12f1420",
+      "bytes": 12368
+    },
+    "SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg": {
+      "sha256": "60d8905f3d7b84b0f472717335ea8c1e3094fdf0c0a5a0e374d2938b181fda51",
+      "bytes": 786802
+    },
+    "SOURCES/TRANSPORT/AGRICULTURAL_IMG_9893.PNG": {
+      "sha256": "133e904d8690dc076cd6b0a4ada5257fde32ebf869c4cb135167743692056652",
+      "bytes": 4064068
+    },
+    "SOURCES/TRANSPORT/CARAVAN_IMG_8425.PNG": {
+      "sha256": "eb8b06ae8159bf231310111045726367c6be254f5da2ffda23a493052fc75b15",
+      "bytes": 4046428
+    },
+    "SOURCES/TRANSPORT/NOBLE_LARGE_IMG_3468.PNG": {
+      "sha256": "b6f37b8377d5e46605c70f7370b4b02458c4cb0a03479ef7b4199897a7bec2fa",
+      "bytes": 4009839
+    },
+    "SOURCES/TRANSPORT/NOBLE_SMALL_A0F3FF4A.PNG": {
+      "sha256": "68ee65890ced93ad73afffb346873a51fb7e01306da412404a66c40868cdda1f",
+      "bytes": 2420896
+    },
+    "SOURCES/TRANSPORT/SELECTION_SHEET_CROSSED_OUT_E071D7F7.PNG": {
+      "sha256": "fa6967241cf27f5a60fb1df94c0cbd9b1568b76e76657b1780e013d71ce8483c",
+      "bytes": 8053931
+    },
+    "executable.md": {
+      "sha256": "9aa3893623ea899ed26044a905cafa6dd102e58520a6dfc3211d658f9d955747",
+      "bytes": 2972
+    }
+  }
+}

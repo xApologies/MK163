@@ -1,3 +1,24 @@
+# Book Red running ledger · current frontier END OF DAY 217
+
+## v8 scoped amendments to existing dated rows
+
+These are overlays to the same dated ledger entries below, not additional days or a second ledger. All 225 original rows and historical intervals remain byte-for-byte intact. The former Day 217 move-in-only cutoff is historical; v8 explicitly selects the continuation.
+
+- **Day 166 · Aerion 11 · Aiveth:** unchanged Fireball attempt / exceptional Black Sprite bond / Black-Neon eyes is the narrative initiation of the Black Prophecy trajectory. The event is not moved to 167.
+- **Day 167 · Aerion 12 · Ailor:** during the already-recorded Green District academy consultation, the existing male humanoid unicorn researcher discusses Prophecy VIII, Singularity significance and the possible connection to Kaira’s bond. Earlier Nyx biology and eye/bond observations, barista and mailwright visits remain. No exact dialogue/name or definitive prediction is invented.
+- **Day 217 · Aeveth 30 · Aiven:** preserve the carriage/move-in; handmaiden stays to unpack/organize with dimensional storage bracelet (mechanics OPEN). Kaira, illi, Nyx and Black Sprite visit the Grand Archives for a meal, encounter the mature Green Sprite professor, experience natural mind-to-mind communication, receive a respectful mentorship offer and office invitation. Then bookstore textbooks/notebooks/materials; black mushroom-leather rucksack becomes Kaira’s academic bag; return to residences. **End of Day 217.** No lessons or humanoid maturation completed.
+- **Days 218–223:** remain future/unassigned. **Day 224:** future first-day planning only—~09:00 wake-up by illi, dressing/breakfast, GFT I 11:00–13:00, front-row illi—Kaira—Elaira as viewed from the back. Opening Convocation timing and first-day personal-routine reconciliation remain OPEN; no timetable retiming.
+
+[Full Green sequence and limitations](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Scoped Yellow consultation](../BOOKS/RED/ARCS/ARC_003/ARC.md). The six intervening days, 353-day calendar, Orange ending and Yellow ending remain unchanged.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Book Red running ledger · Day 0–224; narrative frontier Day 217 move-in
 
 Green Day 217 v6 adds thirteen dated rows (212–224) to the existing table. Rows 0–211 and all historical interval records remain byte-identical. There are 225 distinct dated rows; Days 218–223 are future unscheduled placeholders and Day 224 is the selected future Semester I opening. These rows do not claim completed scenes. The narrative stops at the move-in on Day 217, not the end of that day. Yellow still ends Day 211 and Orange Day 51. The 353-day calendar and Day 0 anchor remain unchanged; new year-week cells remain unassigned.

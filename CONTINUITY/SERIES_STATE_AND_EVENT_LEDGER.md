@@ -1,3 +1,15 @@
+# v8 chronology · Day 167 amendment and end of Day 217
+
+Day 166 remains the initiating Black Sprite bond; Day 167’s existing unicorn consultation now includes a tentative Black Prophecy / Singularity discussion. The Day 217 move-in is followed by the selected Grand Archives meal, Sprite professor encounter/telepathy, mentorship invitation and bookstore return. Narrative frontier is **end of Day 217**. Six pre-semester days 218–223 remain unassigned; Day 224 remains future planning and GFT I 11:00–13:00 is unchanged. No completed future lesson, humanoid transformation, Violet closure or Stage II is implied. [Single running ledger with scoped overlays](RED_RUNNING_DAY_LEDGER.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Green frontier · Day 217 move-in only
 
 Yellow ends Day 211; Day 212 Headmaster meeting; Days 213–215 capital exploration; Day 216 party and illi introduction; Day 217 move-in to adjacent Blackstone residences with companions. Days 218–223 are six unscheduled future days. Semester I starts Day 224; do not reset cumulative chronology. Violet remains OPEN and no Stage II is established. Anatomy/Founders anchors are Semester Days 18/21 = cumulative 241/244. Orange remains complete and untouched. [Single detailed running ledger](RED_RUNNING_DAY_LEDGER.md) · [Green scene authority and full details](../BOOKS/RED/ARCS/ARC_004/ARC.md).

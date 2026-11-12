@@ -343,6 +343,24 @@
       "current_outer_hashes": 33,
       "nested_declared_hashes": 20,
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_GREEN_DAY217_V8",
+      "date": "2026-11-12",
+      "physical_filename": "MK163_GREEN_ARC_CUMULATIVE_CODEX_DAY217_AND_SYLLABUS_v8.zip",
+      "baseline": "ec3c96593c9d90c116545263becde745395066be",
+      "archive_sha256": "e1b9a0acd12d24209f01c8efb9e8cc6b9018757d36ccbc7c8c06b47f391dd69b",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_DAY217_V8/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md",
+      "upstream_verification": "CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.json",
+      "validation": "CHECKPOINTS/GREEN_DAY217_V8/VALIDATION.json",
+      "members": 41,
+      "reused_members": 34,
+      "new_source_members": 7,
+      "current_manifest_hashes": 40,
+      "scope": "Scoped Day 167 and Day 217 narrative updates plus proposed Genesis syllabus",
+      "literal_transcript_complete": false
     }
   ]
 }

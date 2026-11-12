@@ -1,3 +1,15 @@
+# Green v8 · incremental source receipt
+
+All 41 supplied outer files accounted for: 34 existing exact-byte matches reused and seven new/changed sources retained. Forty current MANIFEST_v8 hashes and sizes pass. All 33 non-handoff v7 members remain identical; the original v6/v7 manifests and handoffs remain at historical paths. The ELDRIS comparator exactly matches a November 7 image and is linked without duplication. Both supplied morphology images were visually inspected. No full external repository was copied. [Complete source mapping](WORKSHOP/GREEN_DAY217_V8/SOURCE_MAP.json) · [Pinned source inspection and limits](../CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [README_v8.md](WORKSHOP/GREEN_DAY217_V8/README_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Green Day 217 v7 · incremental source receipt
 
 The cumulative delivery has 34 files: 30 exact matches reused from v6 and four new/changed sources preserved here. All 33 current outer hashes and 20 declared nested hashes pass. The corrected illi ZIP adds a reconciliation note not listed in its inherited inner manifest; it exactly matches the outer, hash-verified author reconciliation. The historical outer MANIFEST.json is retained unchanged; MANIFEST_v7.json is current. No original source, image, PDF or prior report was replaced. [Complete path/hash reuse map](WORKSHOP/GREEN_DAY217_V7/SOURCE_MAP.json).

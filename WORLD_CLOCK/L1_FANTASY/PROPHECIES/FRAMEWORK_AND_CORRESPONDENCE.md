@@ -1,3 +1,15 @@
+# v8 · scoped MK163 narrative realization of Prophecy VIII
+
+The existing association of Prophecy VIII with Kaira now has an explicit chronological distinction: Day 166’s Black Sprite bond / eye transformation is the initiating narrative event; the existing humanoid male unicorn researcher discusses its possible Black Prophecy and Singularity significance with her on Day 167. This discussion is informed interpretation, not definitive prediction, complete proof or new prophecy wording. All eight manuscripts remain untouched. [Selected Yellow consultation overlay](../../../BOOKS/RED/ARCS/ARC_003/ARC.md) · [Bond chronology and limits](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Eight prophecies — complete source manuscripts and MK163 realization
 
 **Project:** MK163  

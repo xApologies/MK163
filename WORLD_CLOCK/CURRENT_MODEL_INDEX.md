@@ -1,3 +1,22 @@
+# Green v8 · current scope
+
+- [End-of-Day-217 story and future Day 224 plan](../BOOKS/RED/ARCS/ARC_004/ARC.md)
+- [Day 167 prophecy consultation; Day 166 initiation unchanged](../BOOKS/RED/ARCS/ARC_003/ARC.md)
+- [Single running ledger with explicit scoped overlays](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+- [Mature Green Sprite professor and mentorship limits](L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md)
+- [Proposed five-semester Genesis/Transduction syllabus](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md)
+- [Pinned source audit and OPEN individual-book inventory](../CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md)
+
+The original 15 semester records and v7 schedule repairs remain. Only supplied narrative continuations supersede earlier v6/v7 guards; new syllabus is proposed. Historical sources, images, mathematics, chronology and unrelated prior canon are retained.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Current Green education correction · v7
 
 EDU-01/EDU-02 are resolved by the author-directed schedule repair. [Current illi curriculum and full corrected Semester III](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md) records QFT I Aiveth 11:00–13:00, optional review 13:00–15:00 and all-three optional study 19:00–20:00. Kaira and Elaira timetable rows, all other curricula, narrative frontier and chronology remain unchanged. Earlier OPEN references below are historical in this scope.

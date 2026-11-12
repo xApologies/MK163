@@ -1,3 +1,17 @@
+# Kaira · end-of-Day-217 state
+
+After moving into Blackstone, Kaira and illi eat at the Grand Archives with Nyx and the Black Sprite; a mature Green Sprite professor communicates directly with Kaira and offers to mentor the young Sprite, preserving their agency. The party visits the bookstore for textbooks, notebooks and class materials, then returns home. Kaira repurposes the larger black mushroom-leather rucksack previously used to carry Nyx as her book bag. This is the existing Yellow-era pack, not a new purchase or storage power.
+
+Violet remains OPEN and no Stage II, completed mentorship lesson or humanoid development follows automatically. Day 224 wake-up, breakfast, first lecture and seating are future planned beats, not completed attendance or an already-established friendship conversation with Elaira. [Complete Day 217 / future Day 224 owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Kaira · Green Day 217 move-in frontier
 
 Kaira is 23 local years old. After the Day 212 Headmaster meeting and Days 213–215 capital exploration, the Alchemist introduces her to illi (27) at the Day 216 party. On Day 217 Kaira moves into Blackstone student housing with **Nyx, the male Vaeryn**, and the **independent young Black Sprite (they/them)**; illi and her personal handmaiden occupy the adjacent residence. Nyx is not the Sprite. Kaira’s original chromatic Chainmail Robe draws guests’ admiration. Violet aen remains OPEN; there is no new closure or Stage II achievement.

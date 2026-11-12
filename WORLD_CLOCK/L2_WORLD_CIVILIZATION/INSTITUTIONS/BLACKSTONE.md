@@ -1,3 +1,19 @@
+# Blackstone · Day 217 scholar encounter and proposed syllabus
+
+After move-in, Kaira and illi dine at an ordinary Grand Archives counter/restaurant with Nyx and the young Black Sprite. A long-established, mature Green-native Sprite scholar recognizes/notices the young companion and offers respectful mentorship, with Kaira’s agreement and the Sprite’s agency. The Grand Archives is the central monumental building; the professor has a Blackstone office with an open invitation, exact coordinates OPEN. Their work with humans spans Green Realm ecology, Genesis biology, culture and prophecy. [Full professor identity, visual design, communication and mentorship limits](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md).
+
+The bookstore supplies textbooks, notebooks and class materials before their return home; no titles, prices or extra required texts are selected. The adjacent residences/move-in remain. The handmaiden now stays behind to unpack using a dimensional storage bracelet; she is a personal attendant, not a student, and has free time after duties. Exact bracelet mechanics remain OPEN. [Full selected Day 217 beats and future Day 224 planning](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+[Proposed five-semester Genesis/Transduction syllabus](BLACKSTONE_EDUCATION/GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md) complements the existing three complete curricula without changing meetings, dates or disciplinary courses. Semester I Day 224 remains future; Opening Convocation time and its placement around the required 11:00–13:00 GFT I lecture remain OPEN. Multicultural faculty is a direction; a Leviathan mathematician and Orange-native Vaelith biologist are examples only, not selected appointments.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Blackstone education · v7 schedule reconciliation
 
 **EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.

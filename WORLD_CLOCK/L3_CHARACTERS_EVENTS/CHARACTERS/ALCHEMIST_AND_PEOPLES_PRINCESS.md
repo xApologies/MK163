@@ -1,3 +1,17 @@
+# illi and attendant · selected Day 217 continuation
+
+illi accompanies Kaira, Nyx and the Black Sprite to the Grand Archives meal, professor encounter and bookstore before they return to their adjacent residences. Her personal handmaiden stays behind to unpack and organize using a dimensional storage bracelet; exact mechanics remain OPEN. The handmaiden is not a student and has free time after her duties. The Alchemist’s absence from the campus move remains unchanged.
+
+The Day 224 ~09:00 waking/teasing, dressing and breakfast sequence is future planning only; exact first-day routine and Convocation timing require reconciliation with unchanged schedules. Lowercase **illi** remains protected. [Current full narrative owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # illi and the Alchemist · Day 217 current state
 
 The Princess’s author-selected name is **illi**, exact lowercase i-l-l-i. She is 27 local years old, the youngest daughter of the royal family (not the Blue Domain governor), already attending Blackstone and personally acquainted with the Alchemist. Kaira is 23. On Day 216 the Alchemist personally introduces them at her Blue District evening party among influential friends/acquaintances; illi and other guests admire Kaira’s original Chainmail Robe. Shared Awakening and aen experience provide their initial connection.

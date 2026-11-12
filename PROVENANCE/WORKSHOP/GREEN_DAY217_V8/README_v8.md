@@ -1,0 +1,3 @@
+# MK163 Green Arc cumulative Codex handoff v8
+
+This is cumulative v7 (including all previous v6 materials) plus new scoped Day 167 and Day 217 canon amendments, user-supplied morphology references, and Genesis/Transduction five-semester syllabus. `executable.md` is current; prior v7 executable instructions superseded. The existing `MANIFEST.json` and `MANIFEST_v7.json` are historical, not current v8 hashes. `MANIFEST_v8.json` is the integrity authority for all other archive members. Story frontier: **end of cumulative Day 217**. Day 224 is future scene planning, not completed chronology. No GitHub push performed by this package creator.

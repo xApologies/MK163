@@ -1,3 +1,19 @@
+# v8 · selected continuation and remaining OPENs
+
+RESOLVED in scope: Day 167 includes the existing unicorn’s Black Prophecy discussion; Day 217 lunch/professor/telepathy/offer/bookstore and handmaiden unpacking/bracelet use are now selected; narrative advances to end of Day 217. EDU-01/EDU-02 remain resolved under v7.
+
+OPEN: professor name/gender/exact age/office/sensing method, dialogue and precise telepathic grammar/access; young Sprite name/age/individual-versus-collective development mechanism and exact humanoid date (about a month is a target); future lesson dates, logistics and outcomes; bracelet mechanics; Day 224 Convocation time, first conversation with Elaira and reconciliation of the ~09:00 planned wake-up with the preserved repeating sleep block to 10:00; all Day 218–223 scenes; individual Astrius five/Vera nine volumes and authority. The syllabus is proposed organization, not accepted extra instruction or a replacement for conventional disciplines. Source mathematical assumptions, unearned SU(2)/SU(3) closure and natural-law realization remain as upstream states, not newly proven canon.
+
+Leviathan mathematician and Vaelith biologist remain examples, not appointments. The professor’s expression does not decide solitary biological transformation. Existing unrelated OPENs (including Violet closure, Stage II, apartment details, transport and Prism rules) retain their scope. [Coverage, limitations and validation](../CHECKPOINTS/GREEN_DAY217_V8/INTEGRATION_REPORT.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Green Day 217 v7 · EDU-01 and EDU-02 RESOLVED
 
 **EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.

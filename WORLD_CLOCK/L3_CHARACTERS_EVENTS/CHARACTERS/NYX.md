@@ -1,3 +1,17 @@
+# Nyx · v8 continuity and existing unicorn consultation
+
+The male humanoid unicorn researcher already recorded at the Green District academy remains the same person on Day 167. His Nyx biology and Kaira eye/bond examination are preserved; the author now selects a discussion of Prophecy VIII, Singularity and the bond’s possible significance, without a fixed prediction, new name or invented dialogue. Day 166 remains the initiating event.
+
+Nyx accompanies the Day 217 Grand Archives meal and bookstore visit. He and the independent Black Sprite communicate naturally through impressions/images/concepts and mind-to-mind exchange; this does not make Nyx a Sprite or give him hive-merging. His former black mushroom-leather carrier rucksack becomes Kaira’s academic bag, consistent with her Day 84 replacement pack and his Day 137 growth beyond it. [Full selected sequence](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Nyx · Yellow closure and travel
 
 Nyx and Sprite stop and stare at the Day 171 surge; Nyx's existing six-color flower domain grows more abundant/larger without replacement of his native mechanism. He plays with Sprite and interacts with the Alchemist during the eight-day commission, then travels with Kaira from Day 202 to the Day 211 Blue capital arrival. His flowers can be established anew; no entire bedroom wall is transported. No new original Green-crystal inventory is created after the third withdrawal on Day 137. No new exact weight, crystal quantity, mature-stripe completion or rideability date is assigned here. [Material event](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Relocation](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).

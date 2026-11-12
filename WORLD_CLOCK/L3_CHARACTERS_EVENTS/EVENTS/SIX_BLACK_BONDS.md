@@ -1,3 +1,17 @@
+# Black Sprite · v8 prophetic discussion and mentorship offer
+
+The Day 166 failed ordinary Fireball installation / exceptional independent Black Sprite identity bond and eye transformation initiate Kaira’s Black Prophecy trajectory. At the existing Day 167 consultation, the humanoid male unicorn discusses Prophecy VIII, Singularity significance and possible connection to the bond, without claiming complete knowledge or proof. No prophecy text, book/bond order, ordinary incompatibility or special Black Card retirement changes.
+
+On Day 217 the young Sprite becomes excited at the mature Green-native professor, moves on the Grand Archives table and communicates directly. Nyx and Sprite naturally exchange impressions/images/concepts; the professor addresses Kaira mind-to-mind. This is telepathy, not telekinesis, omniscient reading or unrestricted access. The professor offers mentorship with Kaira’s agreement and the young Sprite’s agency; future supervised visits and collection/return are possibilities. Approximately one month to humanoid expression is a development target, not a fixed date or completed transformation. The individual-versus-collective mechanism remains OPEN under AERA’s biological constraints. [Professor and full mentorship boundaries](../CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Selected narrative beats](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Young Black Sprite · Days 171–211
 
 The independent they/them Black Sprite plays with Nyx, witnesses Kaira's involuntary Day 171 surge, socializes with the Alchemist during the commission and accompanies the caravan/capital crossing. Kaira/Sprite mind-to-mind and modest magical learning continue; individual incidents remain OPEN. Nothing here creates mature mastery, new bond chronology, a special Black Card, telekinesis or a derived Genesis transport equation. [Outburst distinction](CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Travel and early practice](YELLOW_CLOSURE_AND_RELOCATION.md).

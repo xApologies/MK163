@@ -1,0 +1,499 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_OPEN_PARAMETERS",
+  "baseline": "ec3c96593c9d90c116545263becde745395066be",
+  "source_members": 41,
+  "current_outer_hashes": 40,
+  "nested_manifest_hashes": 20,
+  "source_reuses": 34,
+  "new_source_members": 7,
+  "semesters": 15,
+  "daily_patterns": 90,
+  "required_course_sessions": 46,
+  "syllabus_status": "PROPOSED",
+  "syllabus_course_entries": 16,
+  "ledger_rows_unchanged": 225,
+  "frontier": "end of Day 217",
+  "EDU-01": "RESOLVED",
+  "EDU-02": "RESOLVED",
+  "added": [
+    "CHECKPOINTS/GREEN_DAY217_V8/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md",
+    "CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.json",
+    "CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md",
+    "CHECKPOINTS/GREEN_DAY217_V8/VALIDATION.json",
+    "CHECKPOINTS/GREEN_DAY217_V8/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/MANIFEST_v8.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/README_v8.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/REFERENCES/README.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/REFERENCES/SPRITE_RECURSIVE_SOURCE_USER.jpeg",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/executable.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_003/ARC.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md"
+  ],
+  "deleted": [],
+  "counts": {
+    "added": 17,
+    "modified": 21,
+    "deleted": 0,
+    "prior_unchanged_files": 812
+  },
+  "checks": [
+    {
+      "check": "41 mapped members and all 40 current hashes/sizes",
+      "pass": true
+    },
+    {
+      "check": "all mapped hashes including current manifest",
+      "pass": true
+    },
+    {
+      "check": "34 exact reuses and seven new sources",
+      "pass": true
+    },
+    {
+      "check": "no duplicate source tree",
+      "pass": true
+    },
+    {
+      "check": "all 33 non-handoff inherited v7 members identical",
+      "pass": true
+    },
+    {
+      "check": "ELDRIS image reused from existing original",
+      "pass": true
+    },
+    {
+      "check": "Kaira ZIP CRC",
+      "pass": true
+    },
+    {
+      "check": "Kaira nested declared hashes",
+      "pass": true
+    },
+    {
+      "check": "Kaira nested member accounting",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_FIVE_SEMESTER_COURSE_MAP.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi ZIP CRC",
+      "pass": true
+    },
+    {
+      "check": "illi nested declared hashes",
+      "pass": true
+    },
+    {
+      "check": "illi nested member accounting",
+      "pass": true
+    },
+    {
+      "check": "inner reconciliation note equals outer verified note",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_FIVE_SEMESTER_COURSE_MAP.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira ZIP CRC",
+      "pass": true
+    },
+    {
+      "check": "Elaira nested declared hashes",
+      "pass": true
+    },
+    {
+      "check": "Elaira nested member accounting",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md complete unchanged canonical body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md six continuous 31-hour days",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md required class count / protected rest",
+      "pass": true
+    },
+    {
+      "check": "all 15 semesters / 90 patterns / 24 source members / 20 hashes",
+      "pass": true
+    },
+    {
+      "check": "shared required sections consistent",
+      "pass": true
+    },
+    {
+      "check": "EDU-01 remains resolved",
+      "pass": true
+    },
+    {
+      "check": "EDU-02 remains resolved",
+      "pass": true
+    },
+    {
+      "check": "complete unshortened 9366-byte proposed syllabus",
+      "pass": true
+    },
+    {
+      "check": "16 proposed Genesis course entries match existing required titles",
+      "pass": true
+    },
+    {
+      "check": "no new compulsory course/schedule inferred",
+      "pass": true
+    },
+    {
+      "check": "225 original dated rows 0–224",
+      "pass": true
+    },
+    {
+      "check": "dates and weekdays unchanged under 353-day calendar",
+      "pass": true
+    },
+    {
+      "check": "current ledger end-of-217 boundary and future-only 224",
+      "pass": true
+    },
+    {
+      "check": "selected complete continuation and narrative limits",
+      "pass": true
+    },
+    {
+      "check": "unresolved future routine/Convocation explicitly retained",
+      "pass": true
+    },
+    {
+      "check": "pinned upstream verification inventory",
+      "pass": true
+    },
+    {
+      "check": "book and biological mechanisms remain OPEN",
+      "pass": true
+    },
+    {
+      "check": "only declared integration paths",
+      "pass": true
+    },
+    {
+      "check": "prior attributes retained",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_003/ARC.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_004/ARC.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/RED_RUNNING_DAY_LEDGER.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "source registry append-only",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/SEVEN_DENIZENS_VISUAL_POWER.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md entire baseline bytes retained",
+      "pass": true
+    },
+    {
+      "check": "no deleted files or inbox tracking",
+      "pass": true
+    },
+    {
+      "check": "Orange, prophecy manuscripts, L0 and historical v6/v7 unchanged",
+      "pass": true
+    },
+    {
+      "check": "all new local links resolve []",
+      "pass": true
+    },
+    {
+      "check": "whitespace clean",
+      "pass": true
+    },
+    {
+      "check": "existing structural validator",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "open": "Individual Astrius/Vera volumes, Sprite morphology mechanism/date, professor identifiers, future first-day routine and Convocation timing, and other scoped narrative parameters; see integration/source reports."
+}

@@ -1,3 +1,17 @@
+# v8 Sprite morphology and communication boundaries
+
+The Day 217 Blackstone professor is a selected mature Green-native scholar with a human-height recursive humanoid silhouette, subtle predominantly Green internal light and they/them pending gender selection. This expression is distinct from an ordinary green-skinned human, the young Black Sprite’s six-basin neon and ELDRIS. [Full character owner](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Original source-image distinctions](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/REFERENCES/README.md).
+
+AERA’s current Sprite biology supports independent small recursions and collectives capable of true biological transformations under energy/Resolution/Bandwidth/admissibility constraints. The professor’s expressed silhouette does not establish a universal solitary biological transformation rule; collective/individual basis remains unspecified. The young exceptional Sprite’s approximately one-month target is not a locked date or completion. Nyx cannot hive-merge. Selected mind-to-mind communication conveys impressions, images, concepts and speech without telekinesis or omniscient access. [Pinned AERA verification](../../../CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Ordinary Green Sprite versus Kaira's exceptional Black companion
 
 Ordinary species morphology, collective biology and Resolution emphasis below remain. Checkpoint 020 dates Kaira's existing exceptional Black Sprite bond to **Day 166**, using the treasured Black crystal from the Red Arc collapse; the old statement that this acquisition was unselected is historical. It does not replace her White Awakening. The young, independent, non-gendered companion has Black containment and intermittent internal six-basin neon, unlike ordinary predominantly Green expression. Natural mind-to-mind impressions are not telekinesis or omniscient lie detection. [The bond owner](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) records the entire event and its limits. Image captions such as “prison,” claimed quantities, quotes attributed to AERA or an Earth coin for scale supply no new mechanism, permission or MK163 currency.

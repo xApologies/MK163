@@ -1,3 +1,25 @@
+# Yellow chronology amendment · Days 166–167 only
+
+## Existing chronology preserved
+- Day 166: Kaira attempts a Fireball Binding using the treasured Black crystal; exceptional bond produces a young independent Black Sprite, and Kaira's eyes undergo Black/Neon spectral transformation. This is the **narrative initiation** of the Black Prophecy / Black Singularity trajectory.
+- Day 167: Kaira visits the existing **humanoid male unicorn researcher** at the Green District academy, with Nyx and the Black Sprite. Preserve his previous biological observations and the eye/bond examination.
+
+## New author-selected dialogue topic
+During the Day 167 consultation, the unicorn, knowledgeable about the prophecies, discusses **Prophecy VIII — The Black Prophecy**, its Singularity significance, and the possible connection to the Black Sprite bond. Kaira is the genesis/initiating figure of this prophetic unfolding. He can recognize a potentially momentous event without knowing the entire prophecy's consequences or treating a speculative reading as complete proof. Do not invent verbatim dialogue, the researcher's name, or a definitive prediction. Do not move the initiating event from Day 166 to Day 167.
+
+## Source authority
+MK163 `WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md` associates Prophecy VIII specifically with Kaira; the manuscript itself remains unmodified. Unicorns are Violet-native and linked to the prophetic tradition. Historical Day 167 ledger remains preserved; add a scoped chronological overlay rather than rewriting old evidence.
+
+This adds the consultation topic to the existing visit, not a second unicorn or encounter. The Day 167 abecca/barista and mailwright visits, biological observations, eye/bond examination and all later Yellow events remain intact. [Existing unicorn researcher and Nyx observations](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/YELLOW_DAY167_BLACK_PROPHECY_AMENDMENT_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
 # Book Red — Arc 003 Yellow — author-selected ending
 
 - Arc 003 **opens Day 63** (Aelis 4), **ends Day 211** (Aeveth 24), 149 inclusive relative ledger days. Arc 002 Orange ends Day 51; Days 52–62 transition. Arc 004 Green begins after Day 211; exact school enrollment and campus residence dates OPEN.
