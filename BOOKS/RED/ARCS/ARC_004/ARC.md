@@ -1,3 +1,15 @@
+# Green entry boundary · after Day 211
+
+Green Arc 004 begins **after Day 211**, following Yellow's Blue capital arrival. At that boundary Kaira is a guest at the Alchemist's apartment; the Day 187 sponsorship offer is established but admission and campus housing dates remain OPEN. The earlier outlined entry and later academic/royal beats below remain future development, not proof of enrollment or Nyx rideability on Day 211. No new Green scene, chapter, date or cast is added. [Completed Yellow contract](../ARC_003/ARC.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md](../../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Green · Blackstone and the royal raeon table
 
 **ID:** MK163-RED-ARC-004 · **Book:** Red · **Status:** outlined (author-selected arc beats; chapters and scene realization OPEN).

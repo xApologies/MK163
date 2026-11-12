@@ -1,3 +1,15 @@
+# One maege glass substrate · identification and account tablets
+
+The card and new bank-owned ledger tablet use the same **maege glass** material. The old banking-specific spelling exemption is superseded; prior wording remains evidence. A premanufactured tablet carries standard interactive layout, then a bank pedestal assigns account identity and permissions. Desk sigils connect it to local authoritative blocks; it does not independently synchronize across cities. Temporary ER foam numeric input is a firm, slightly yielding local projection; no conventional electronics, alphabetic requirement or completed Genesis signaling proof is inferred. Full interface/network specification: [banking owner](../ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/05_BANKING_MAEGE_GLASS.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/05_BANKING_MAEGE_GLASS.md) · [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Mage Glass banking application
 
 Checkpoint 006 explicitly calls the banking credential **Mage Glass**: a fixed local manifold assigned through a bank sigil, projecting a numerical account reference for registered-card verification. [Full banking procedure and security limits](../ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md). The card carries no balances or valuables and does not automate handwritten ledgers. This scoped banking name/application does not rename maege/maegi or retire unrelated inherited construct uses.

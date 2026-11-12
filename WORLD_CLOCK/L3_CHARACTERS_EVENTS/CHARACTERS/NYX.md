@@ -1,3 +1,15 @@
+# Nyx · Yellow closure and travel
+
+Nyx and Sprite stop and stare at the Day 171 surge; Nyx's existing six-color flower domain grows more abundant/larger without replacement of his native mechanism. He plays with Sprite and interacts with the Alchemist during the eight-day commission, then travels with Kaira from Day 202 to the Day 211 Blue capital arrival. His flowers can be established anew; no entire bedroom wall is transported. No new original Green-crystal inventory is created after the third withdrawal on Day 137. No new exact weight, crystal quantity, mature-stripe completion or rideability date is assigned here. [Material event](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Relocation](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md) · [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Nyx · growth, crystal custody and flower domain through Day 167
 
 ## Nyx, flowers, nutrition

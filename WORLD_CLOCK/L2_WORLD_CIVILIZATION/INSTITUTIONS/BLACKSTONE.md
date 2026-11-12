@@ -1,3 +1,15 @@
+# Sponsorship offered Day 187 · admission pending at Yellow closure
+
+The Alchemist offers Blackstone Cardsmith education sponsorship, tuition and housing on Day 187 after the special robe is completed. Day 211 arrival at her Blue capital apartment closes Yellow; it does not confirm admission or campus occupancy. Green Arc begins after 211. Exact admission date/procedure, campus move and a possible wine exchange remain OPEN. Existing Blue capital/campus dimensions and later educational outline remain unchanged. [Commission and friendship](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Temporary Blue District residence](../../L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Blackstone Keep and the Blue Domain capital
 
 **Book Red consolidation · 2026-11-07.** Blackstone Keep is the Institution of Knowledge **inside the 13 × 13 mile Blue Domain capital** (169 square miles). Its **4 × 4 mile campus** occupies 16 square miles. Its city already participates in the four-capital King’s Highway; no separate Blackstone-to-capital portal. Campus placement, gate location and exact royal academic contracts remain OPEN. The Crown’s capital and the Blue capital remain distinct.

@@ -1,3 +1,15 @@
+# Delta 021 · incremental Yellow closure delivery
+
+Archive `MK163_YELLOW_ARC_CLOSURE_DELTA_021_2026-11-11.zip`, SHA-256 **96c08c45ba50c191b57e5ea49854d0d6eaedcb18335b66d7cadedcc45f89d2d6**. All 14 declared hashes pass; 15 source members including manifest are preserved byte-for-byte under the new 021 workshop directory. None matches an existing tracked file hash; three original visual references are preserved without conversion. No prior 017–020 payload is reimported. The user explicitly reconfirms the existing 180-ahm exchange rate during reconciliation. [Full source mapping](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SOURCE_MAP.json) · [Integration audit](../CHECKPOINTS/YELLOW_CLOSURE_021/INTEGRATION_REPORT.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [README_START_HERE.md](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/README_START_HERE.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Checkpoint 020 accumulated historical repair
 
 The repaired ZIP has SHA-256 **8d6b7366c94ee1e587507972be70741b18a8b9faf8338e811ca619c0ef456787**. Its 41 earlier members are unchanged; only the two original 018 ledgers and repair note are new. Both historical files match the original 018 manifest; all 115 declared hashes across four manifests pass. The unchanged parent manifests are original evidence; their outer inventory is not rewritten to pretend it listed the new repair note. The new mapping accounts for all 44 entries.

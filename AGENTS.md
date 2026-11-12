@@ -1,3 +1,17 @@
+# Current Yellow closure · Delta 021
+
+Read [the Day 0–211 ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) and [021 supersessions](CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Yellow opens 63 and closes **211** at Blue capital arrival; Green begins afterward, admission/campus date OPEN. Day 171 spontaneous chromatic physical robe is not deliberate Shaping, repeatable production or the later Genesis Robe. Alchemist commission 179, work 180–187, sponsorship 187; 5,000 eln special price is separate. Four-smith 12/month plan follows 193–201 training/readiness; 130/month management fee, conditional 4,150 before costs.
+
+Use **maege glass**, one material for cards/tablets; local handwritten bank remains separate from kingdom-wide three-block infrastructure. Preserve **1 Red eln = 180 ahm**, explicitly reconfirmed by author. **353-day current year** supersedes old 351/360 arithmetic; no intercalary days, month/event rescaling or invented transport proof. Astronomy/seasons and cross-year week labels OPEN. Preserve historical 018 repair, all source/image bytes, Orange Arc, prior 0–167 rows, protected names and unrelated canon. No inherited repository edits, new Green scenes, early Ring/Stage II, recreated original Green crystal stock or instant Sprite mastery.
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CODEX_INTEGRATION.md](PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CODEX_INTEGRATION.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Checkpoint 020 historical ledger repair · 2026-11-11
 
 The two previously missing Checkpoint 018 Day 0–116 ledger originals are now restored and verified against their original SHA-256 values. The current Day 0–167 ledger and all canonical owners are unchanged. Earlier missing-file statements below and in the original 020 audit describe the pre-repair snapshot. No other historical-source completeness claim or calendar resolution follows.

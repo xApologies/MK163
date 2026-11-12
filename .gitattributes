@@ -76,3 +76,6 @@ PROVENANCE/WORKSHOP/DIPLOMATIC_POUCH_015_2026_11_10/** -text -whitespace
 
 # Preserve checkpoint 020 original source bytes.
 PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/** -text -whitespace
+
+# Exact Delta 021 workshop and visual reference bytes.
+PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/** -text -whitespace

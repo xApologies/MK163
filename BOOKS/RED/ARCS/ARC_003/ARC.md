@@ -1,3 +1,40 @@
+# Book Red — Arc 003 Yellow — author-selected ending
+
+- Arc 003 **opens Day 63** (Aelis 4), **ends Day 211** (Aeveth 24), 149 inclusive relative ledger days. Arc 002 Orange ends Day 51; Days 52–62 transition. Arc 004 Green begins after Day 211; exact school enrollment and campus residence dates OPEN.
+- Checkpoint 020 is authoritative through Day 167. This delta records events Day 168–211, does not rewrite 0–167.
+- 168–170 ordinary life OPEN; Day 169 is an Aiven Raeon opportunity with attendance/result OPEN.
+- Day 171 spontaneous Genesis outburst alters Kaira's personal Chainmail Robe, living vaen, and Nyx flowers; dinner public debut.
+- Day 172 Blacksmith's Row acclaim; independent imitation follows across Days 172–178, exact market rollout OPEN.
+- Day 179 Alchemist arrives in town on unrelated business, traces fashion to Kaira, visits Orange apartment unannounced, insists on personally made original; takes Kaira to upscale Blue District lunch; Kaira quotes 5,000 eln to deter her, Alchemist immediately accepts.
+- Days 180–187 inclusive (eight working days) Kaira handcrafts Alchemist's robe; Alchemist visits daily around 10:00, observes, shares meals, becomes close friend. Day 187 completed; sponsorship of Blackstone Cardsmith education, tuition/housing offered, formal admission not yet established.
+- Day 188 Alchemist organizes her own affairs for transition.
+- Day 189 Kaira opens kingdom-wide bank account and arranges Accord Registry production management at staging branch. Her existing local handwritten-ledger bank remains a separate tier, not erased.
+- Day 190 Registry searches for two additional experienced smiths; Day 191 Kaira interviews/selects them; Day 192 prep; Days 193–201 training and departure arrangements. Four total smiths each three original robes/month; Registry manages for 130 eln/month; see dedicated file.
+- Day 202 departure with Alchemist, Nyx, Sprite by caravan from unnamed Green Domain city. Days 202–209 span seven elapsed days, with arrival on Day 209 in Green Domain capital. Travel uses existing spatial corridors / leapfrogging, with slice of life, small adventures, early Kaira/Sprite magical practice; individual events OPEN.
+- Days 209–210 Green capital stay at Alchemist's residence; Day 211 King's Highway direct Green→Blue capital crossing and arrival at Alchemist's upscale Blue District apartment. **Yellow ends on arrival**, not enrollment.
+- Kaira brings modest personal possessions, cards/books, original chromatic robe, living vaen, remaining bank-held Genesis crystals physically withdrawn; no invented new Green crystal stock. Alchemist arranges sale/disposal of bulky furniture; Kaira retains business ownership and national banking access.
+- Named original city, both capitals' names, Alchemist's personal name, caravan incidents, legal admission date and precise chronology of property sale remain OPEN.
+- Earlier end-of-Yellow future anchors (Alchemist friendship, commissioned original robe, Blackstone sponsorship) are **now realized** and should be marked superseded/resolved in the active Arc 003 owner. Preserve older source text as history.
+
+## Arc contract and current completion status
+
+**ID:** MK163-RED-ARC-003 · **Book:** Red · **Arc:** 003 Yellow · **Status: Yellow COMPLETE — author-selected event sequence; prose and chapter count OPEN.**
+
+**Narrative objective:** complete the selected robe movement, independent Sprite bond, Alchemist friendship and sponsored transition toward Cardsmith education. **Entry state:** the established Day 63 apartment opening, physical robe, Nyx in lap, three closed aen rings and Green practice. **Principal conflict:** preserve Kaira's agency as reputation, relationships and responsibilities expand; no additional conflict or scene is invented. **Major events:** the complete earlier Day 63–167 chronology below and the Day 168–211 delta above. **Exit state:** Day 211 arrival in the Blue Domain capital at the Alchemist's apartment with Nyx and the Sprite; sponsorship offered, formal enrollment/campus housing pending. **Dependencies:** current calendar, character state, banking, robe business and travel owners. No chapter count or finished dialogue has been authored by this integration.
+
+The selected Day 187 sponsorship offer replaces the older undated end-of-Yellow anchor; actual admission remains OPEN. Day 211 closes the arc on arrival, not enrollment. Green Arc 004 begins after Day 211 and retains its existing future outline.
+
+
+[Chromatic robe event](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Alchemist commission and friendship](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Business handoff](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [Banking](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md) · [Relocation](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md) · [Complete day ledger](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md](../../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Yellow Arc · selected chronology through Day 167, ending OPEN
 
 **MK163-RED-ARC-003**, Book Red Yellow Arc; not Book Yellow. Existing Day 63 apartment opening remains: physical robe, Nyx asleep in Kaira's lap, three closed aen rings, frustration with Green. No chapter count, finished prose, fixed dialogue or new cast names are invented. The selected Alchemist relationship/original commission/Blackstone sponsorship remains the future undated exit; neither 164 nor 167 completes Yellow.

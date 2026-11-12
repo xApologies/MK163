@@ -1,0 +1,10 @@
+# Calendar and protected terms — current author decisions
+
+**Author's `Annual Structure.pdf` month lengths are controlling.** The eleven listed lengths sum to **353**, NOT 351; author explicitly chose 353 as current year and rejected inventing seven intercalary days to fit older 360-year text. Existing 360-day orbital-year, 60-week and four-90-day-season statements are historical/inherited and conflict with this selected calendar; flag active dependent astronomy/season/week claims for **scoped reconciliation** rather than silently overwriting all astronomy or changing 11 month lengths. 31-hour day and six-day weekday cycle remain. 353 = 58 full six-day weeks + 5 days; cross-year weekday continuity / year-week labels remain OPEN. Do not modify 0–211 relative event days.
+
+Months: Aelor 33, Aerith 32, Aelora 31, Aevrin 33, Aelis 31, Aevor 32, Aelith 33, Aerion 32, Aeveth 31, Aesith 33, Aeleth 32.
+Weekdays: Ailar, Aiden, Aiveth, Ailor, Aithen, Aiven. Anchor Day 0 = Aelora 5, Aithen; Day 167 = Aerion 12, Ailor; Day 171 = Aerion 16, Aiden; Day 179 = Aerion 24, Ailor; Day 187 = Aerion 32, Aiven; Day 188 = Aeveth 1, Ailar; Day 211 = Aeveth 24, Aiven.
+
+Protected terms: **Kaira** (not Kira), **Nyx** (not Nix/Nicks), **maege glass** (M-A-E-G-E; not Mage Glass, mage glass, Mageglass, and not a second material), **maege/maegi** protected practitioner words, **Brotherhood of Maegi**, **Chainmail Robe** (not rope/road), **Genesis Robe** distinct from Chainmail Robe, **vaen** (not vein/vane), **eln**, **ahm**, **aen**, **abecca** (drink, not a shop name), **Raeon**, **ELDRIS**, **Accord Registry**, **Black Sprite** (they/them), **Blackstone Keep**, **King's Highway**, **ER foam**. Retain historical mistaken text under provenance, annotate supersession; do not mutate old quotations or create synonyms.
+
+Source naming conflict in older banking owner `BANKING_AND_MAGE_GLASS_ACCOUNTS.md` and technology owner `MAEGE_GLASS_AND_CONSTRUCTS.md` is a spelling/provenance issue, not evidence of two glass materials. New tablet replaces handwritten ledger only at **large kingdom-wide banks**, not Kaira's original small bank.

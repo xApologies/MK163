@@ -1,3 +1,22 @@
+# Days 179–187 — The Alchemist and Kaira
+
+- Alchemist: accomplished, worldly, assertive, financially comfortable, knowledgeable in botany/Genesis-expressive fruits and fine wines/international vintages; arose from underclass background (not the same childhood trauma as Kaira). **Personal name OPEN.** Future older-sister/mentor relationship begins here, not a preexisting acquaintance.
+- Day 179 she is visiting Kaira's Green Domain city for unrelated professional business. Seeing widespread original/copy Chainmail Robes, investigates their creator, arrives at Kaira's Orange District apartment unannounced, confidently lets herself in, notices living vaen, Nyx, Sprite and robe production. Kaira declines extra commissions; Alchemist insists on original made personally by Kaira, not a Registry standard.
+- Alchemist hires transport and takes Kaira to lunch in the **Blue District of the current city** (not Blue Domain capital). Kaira has not previously explored this district much. Kaira proposes 5,000 eln as intentionally discouraging quote; Alchemist says 'Done' immediately. This is a **special commission** distinct from standing wholesale quota; exact costs, final color/material variant OPEN. Do not claim she can reproduce her Genesis-streaked robe.
+- Days 180–187 inclusive: Kaira personally makes robe across eight working days. Alchemist comes around 10:00 daily, watches, converses, shares lunches and dinners, returns to her own lodging each night. Nyx and young Black Sprite play and interact with her. A close friendship develops quickly, not merely a business relationship.
+- Across those conversations Kaira shares: mother was a **cardsmith** (not apothecary); Kaira wanted to follow her; mother's death; subsequent exploitative/indentured work under blacksmith; original Red Arc Genesis Collapse and encounter with **ELDRIS**; visible scar over eye and other scars, discussed/shown in trusted context. Do not invent exact daily disclosure order, details of trauma or new injuries.
+- Alchemist recognizes her own disadvantaged origins in Kaira's self-made career and responds with respect and compassion, not mere pity. Day 187 robe completed; Alchemist offers sponsorship/contacts for Blackstone Keep Cardsmith education, tuition and housing. Admission not yet confirmed. Kaira's agency, business ownership, and ability to choose remain intact.
+
+**Events Y021-E179 and Y021-E187:** first meeting/commission and completion/sponsorship. Her earlier botany, cultivars, vintner identity, Princess friendship and working family/age details remain below; Kaira's mother being a cardsmith does not change the Alchemist's own working maternal background. The rare-wine admission exchange remains a proposal. Green/Blue capital residences and the later journey are owned by [the relocation record](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Vael · correction to the older rival reference
 
 **Orange arc of Book Red · 2026-11-08.** The first collision mentioned below is at the southeastern **raeon shop**, not outside a smithy. “Blue-ranked” in the earlier text is a historical characterization; the current source establishes a nobleman’s son but leaves precise personal/family rank and Tournament history open. [Vael’s encounter](../EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md) governs. No change to the Alchemist or Princess’s established relationships.

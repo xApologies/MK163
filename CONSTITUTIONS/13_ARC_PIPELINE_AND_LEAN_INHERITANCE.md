@@ -1,3 +1,15 @@
+# Delta 021 · Arc 003 exit selected
+
+The formerly OPEN Yellow exit is now Day 211 arrival in the Blue Domain capital; Green begins afterward. Admission and campus residence dates remain OPEN. Variable arc/chapter structure, existing Green outline, lean inheritance and all other workflow rules below remain. No chapter prose or inherited repository changes follow from this decision. [Current Arc 003 contract](../BOOKS/RED/ARCS/ARC_003/ARC.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 > **Delta 005 current authority — integrated 2026-10-19:** Scoped author amendment: replace the obsolete five-working-chapter limit for Arc 1 only. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

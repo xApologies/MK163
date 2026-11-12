@@ -1,0 +1,99 @@
+{
+  "archive": "MK163_YELLOW_ARC_CLOSURE_DELTA_021_2026-11-11.zip",
+  "archive_sha256": "96c08c45ba50c191b57e5ea49854d0d6eaedcb18335b66d7cadedcc45f89d2d6",
+  "baseline": "15ca6f75ec79b442be8334224465c440e427fb61",
+  "members": {
+    "CALENDAR/DAILY_LEDGER_DAY_168_211.csv": {
+      "sha256": "21870d74ec0d9a3d4c9b917807327aba55a695e63dbec651487d3e8dd0e35fc6",
+      "bytes": 5903,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.csv"
+    },
+    "CALENDAR/DAILY_LEDGER_DAY_168_211.md": {
+      "sha256": "dd5e6dd406c11f1c4ab482c2e0b8dba918ac3e7afecbb7d52e20a5ac9cce632f",
+      "bytes": 6412,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.md"
+    },
+    "CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md": {
+      "sha256": "aaff6b30b7504831592605038793b98bc1a2f6bda7cb579be3ab6bb5702580eb",
+      "bytes": 3150,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md"
+    },
+    "CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md": {
+      "sha256": "d323e957174cff1151a92c73a955d676df841eb59ec61b991a471350c8018d74",
+      "bytes": 2382,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md"
+    },
+    "CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md": {
+      "sha256": "174a85a8426035c62ef8604823377a83edccb050da1f846fb7b346b60aca2069",
+      "bytes": 2375,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md"
+    },
+    "CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md": {
+      "sha256": "e93f726ef7b009d4e3f87f74f2bda72d8b8e373712ba9097680a56f0ca1d34f9",
+      "bytes": 2174,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md"
+    },
+    "CANON/05_BANKING_MAEGE_GLASS.md": {
+      "sha256": "0fd4dc59e871ebe570f2df0f3a2d5ca7badfba8de608545f0bc13c556dcb2f31",
+      "bytes": 4989,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/05_BANKING_MAEGE_GLASS.md"
+    },
+    "CANON/06_TRAVEL_AND_ARC_BOUNDARY.md": {
+      "sha256": "0822eec4eba7ddb82e0f5fcd35c0399a236b73193fb3c6c8c711b24bca9394ad",
+      "bytes": 2870,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md"
+    },
+    "CANON/07_CALENDAR_AND_PROTECTED_TERMS.md": {
+      "sha256": "850c0ca34e2e36771e081328345afda38bb8b485694d23b410daee7661b40ea5",
+      "bytes": 2136,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md"
+    },
+    "CODEX_INTEGRATION.md": {
+      "sha256": "dd9482cc85b9606131aacbd61ccbde10aac0776ef6ce29aa390dff1e9767ba07",
+      "bytes": 3463,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CODEX_INTEGRATION.md"
+    },
+    "README_START_HERE.md": {
+      "sha256": "8557c56ad9c5ad6e1318144ba4c9fca7ee0b821c009e0cabf1045cf97dd98527",
+      "bytes": 2397,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/README_START_HERE.md"
+    },
+    "SHA256_MANIFEST.json": {
+      "sha256": "8d8d21545642ff65229be7ca51fa847a3f49d04a1488a2b702ec26b5b08077be",
+      "bytes": 1709,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SHA256_MANIFEST.json"
+    },
+    "VISUAL_REFERENCES/AUTHOR_DOMAIN_ROUTE_MAP.jpeg": {
+      "sha256": "2411e673ce274180b4aea96376208fdaa3bd81f490418b7afbee63178af31717",
+      "bytes": 650652,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/AUTHOR_DOMAIN_ROUTE_MAP.jpeg"
+    },
+    "VISUAL_REFERENCES/CHROMATIC_CHAINMAIL_CONCEPT.png": {
+      "sha256": "4cfc73f49e358f45dbe83364fc8d3a43b5a4184a79f3edd2b0313093c250dd1a",
+      "bytes": 3026066,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/CHROMATIC_CHAINMAIL_CONCEPT.png"
+    },
+    "VISUAL_REFERENCES/ORIGINAL_CHAINMAIL_REFERENCE.jpeg": {
+      "sha256": "dac4912d6b2fb1a17c34a5f7667b385c0c5e70a89fe45807842399bf8ba95f90",
+      "bytes": 889148,
+      "existing_matches": [],
+      "installed": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/ORIGINAL_CHAINMAIL_REFERENCE.jpeg"
+    }
+  },
+  "scope": "Incremental author-selected Delta 021, not cumulative checkpoint reintegration",
+  "all_prior_source_bytes_preserved": true
+}

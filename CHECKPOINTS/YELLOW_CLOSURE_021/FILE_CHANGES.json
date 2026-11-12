@@ -1,0 +1,221 @@
+{
+  "baseline": "15ca6f75ec79b442be8334224465c440e427fb61",
+  "changes": {
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.csv": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/05_BANKING_MAEGE_GLASS.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CODEX_INTEGRATION.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/README_START_HERE.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SHA256_MANIFEST.json": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/AUTHOR_DOMAIN_ROUTE_MAP.jpeg": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/CHROMATIC_CHAINMAIL_CONCEPT.png": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/ORIGINAL_CHAINMAIL_REFERENCE.jpeg": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SOURCE_MAP.json": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "BOOKS/RED/ARCS/ARC_003/ARC.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONSTITUTIONS/07_NAMING_CONVENTIONS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONSTITUTIONS/06_CONTINUITY.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/KINGS_HIGHWAY.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "BOOKS/RED/ARCS/ARC_004/ARC.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "BOOKS/RED/BOOK_OVERVIEW.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md": {
+      "operation": "modified",
+      "preservation": "ledger_insert"
+    },
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "AGENTS.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "PROVENANCE/SOURCES.md": {
+      "operation": "modified",
+      "preservation": "prefix"
+    },
+    "PROVENANCE/SOURCE_REGISTRY.json": {
+      "operation": "modified",
+      "preservation": "registry_append"
+    },
+    ".gitattributes": {
+      "operation": "modified",
+      "preservation": "append"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/OMISSIONS_AND_OPEN_ISSUES.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/VISUAL_REVIEW.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/INTEGRATION_REPORT.md": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/FILE_CHANGES.json": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/YELLOW_CLOSURE_021/VALIDATION.json": {
+      "operation": "added",
+      "preservation": "new"
+    },
+    "CHECKPOINTS/TOOLS/validate_delta_021.py": {
+      "operation": "added",
+      "preservation": "new"
+    }
+  },
+  "canonical_topic_owners": {
+    "CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md": "BOOKS/RED/ARCS/ARC_003/ARC.md",
+    "CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+    "CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+    "CANON/05_BANKING_MAEGE_GLASS.md": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md",
+    "CANON/06_TRAVEL_AND_ARC_BOUNDARY.md": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md",
+    "CANON/07_CALENDAR_AND_PROTECTED_TERMS.md": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md"
+  },
+  "added": 24,
+  "modified": 27,
+  "deleted": 0
+}

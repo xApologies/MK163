@@ -1,3 +1,27 @@
+# Delta 021 · Yellow closure and global calendar/banking
+
+Current state through Day 211. Yellow COMPLETE; Green begins afterward. Historical 018 repair and all prior checkpoints remain intact.
+
+- [Yellow Arc contract](../BOOKS/RED/ARCS/ARC_003/ARC.md)
+- [Day 0–211 ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+- [Chromatic robe event](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+- [Alchemist friendship/commission](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md)
+- [Four-smith business handoff](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+- [Two-tier maege glass banking](L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md)
+- [Single substrate and interfaces](L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md)
+- [Selected 353-day calendar](L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md)
+- [Relocation and residences](L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md)
+- [Blackstone admission boundary](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md)
+- [021 integration audit](../CHECKPOINTS/YELLOW_CLOSURE_021/INTEGRATION_REPORT.md)
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [README_START_HERE.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/README_START_HERE.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Cumulative 020 · effective state through Day 167
 
 Current scoped changes: revised incomes/robe economy, named calendar, private Maegi institution, local Raeon schedule, robe enterprise, Nyx growth/flowers, aen milestones, Age of Knowledge proposal 164 and exceptional Sprite/eyes 166. Yellow remains unfinished.

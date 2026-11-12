@@ -1,3 +1,15 @@
+# Selected state through Book Red Day 211
+
+The [master ledger](RED_RUNNING_DAY_LEDGER.md) retains all prior 0–167 rows and detailed Orange intervals, adding 168–211. Yellow closes on 211; friendship/commission/sponsorship are now realized on 179–187, while enrollment remains OPEN. Stable event IDs: Y021-E171 outburst, Y021-E179 commission, Y021-E187 sponsorship, Y021-E189 bank/business arrangements, Y021-E202 departure, Y021-E209 Green capital and Y021-E211 Blue capital arrival. The current year is 353 days; derived astronomy/seasons and week alignment remain OPEN. Historical 018 ledger bytes were already recovered by the previous repair and stay intact. [Full scoped supersessions](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md) · [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Selected state through Book Red Day 167
 
 The current detailed chronology is [the Red running ledger](RED_RUNNING_DAY_LEDGER.md). Orange's Day 50 completion/51 finale and Yellow's Day 63 opening remain. Scoped retrospective Orange changes add Raeon attendance 19/25/37/49, first of three Green crystal withdrawals 42 and shipment scheduling 51; all earlier detailed events remain.

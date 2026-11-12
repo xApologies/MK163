@@ -278,6 +278,22 @@
       "new_archive_entries": 3,
       "historical_gap": "resolved",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_YELLOW_ARC_CLOSURE_DELTA_021",
+      "date": "2026-11-11",
+      "baseline": "15ca6f75ec79b442be8334224465c440e427fb61",
+      "physical_filename": "MK163_YELLOW_ARC_CLOSURE_DELTA_021_2026-11-11.zip",
+      "archive_sha256": "96c08c45ba50c191b57e5ea49854d0d6eaedcb18335b66d7cadedcc45f89d2d6",
+      "source_map": "PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/YELLOW_CLOSURE_021/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md",
+      "validation": "CHECKPOINTS/YELLOW_CLOSURE_021/VALIDATION.json",
+      "scope": "Incremental 168–211 plus scoped global calendar/banking changes",
+      "members": 15,
+      "declared_hashes_passed": 14,
+      "literal_transcript_complete": false,
+      "author_resolution": "Keep 1 Red eln = 180 ahm; treat the new OPEN statement as stale (Recommended)"
     }
   ]
 }

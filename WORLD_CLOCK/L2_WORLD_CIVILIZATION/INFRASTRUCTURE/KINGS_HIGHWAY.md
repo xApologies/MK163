@@ -1,3 +1,15 @@
+# Day 211 · direct Green-to-Blue capital crossing
+
+The established permanent K4 capital network is reaffirmed: four capitals, three gateways each, twelve endpoints and six bidirectional links. Kaira's party uses the direct Green→Blue capital gateway on Day 211. The Day 202–209 caravan corridors are a distinct travel stage, not a new capital portal, scheduled gate or extra campus connection. Preserve inward local orientation and the later royal coin scope. [Journey, residences and map boundaries](../../L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Blackstone access and the King’s challenge coin
 
 **Book Red consolidation · 2026-11-07.** Blackstone uses the ordinary Blue capital gateways. No additional campus portal is selected. The King’s personal challenge coin grants Kaira tax-/duty-free use of the Highway to attend his recurring raeon gatherings in the Crown’s capital, including from her later home. It is not a title, appointment, military clearance or general exemption for other travelers. Coin design/verification, the route from the later city, and general toll policy remain OPEN. The four-capital, six-pair network and inward-facing local orientation below stand.

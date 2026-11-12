@@ -1,3 +1,15 @@
+# Young Black Sprite · Days 171–211
+
+The independent they/them Black Sprite plays with Nyx, witnesses Kaira's involuntary Day 171 surge, socializes with the Alchemist during the commission and accompanies the caravan/capital crossing. Kaira/Sprite mind-to-mind and modest magical learning continue; individual incidents remain OPEN. Nothing here creates mature mastery, new bond chronology, a special Black Card, telekinesis or a derived Genesis transport equation. [Outburst distinction](CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Travel and early practice](YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md) · [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # First exceptional Black Sprite bond · Day 166
 
 ## Black crystal, exceptional bond, physiology

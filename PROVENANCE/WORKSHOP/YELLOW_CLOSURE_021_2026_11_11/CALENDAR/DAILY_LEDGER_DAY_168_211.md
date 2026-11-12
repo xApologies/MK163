@@ -1,0 +1,50 @@
+# Daily ledger delta — Day 168–211
+
+New events only. Checkpoint 020 Day 0–167 stays authoritative. Unspecified days are not narrative events.
+
+| Day | Date | Weekday | Event / status |
+|---:|---|---|---|
+| 168 | Aerion 13 | Aithen | Unspecified daily life; open |
+| 169 | Aerion 14 | Aiven | Aiven Raeon tournament opportunity; Kaira attendance/result OPEN |
+| 170 | Aerion 15 | Ailar | Unspecified daily life; open |
+| 171 | Aerion 16 | Aiden | Spontaneous Genesis outburst; original five-layer black-iron robe becomes intrinsically irregular chromatic-streaked; living vaen and Nyx flowers grow; dinner public debut |
+| 172 | Aerion 17 | Aiveth | Blacksmith Row mailwright and smiths admire Kaira chromatic robe; independent visual imitation begins |
+| 173 | Aerion 18 | Ailor | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 174 | Aerion 19 | Aithen | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 175 | Aerion 20 | Aiven | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 176 | Aerion 21 | Ailar | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 177 | Aerion 22 | Aiden | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 178 | Aerion 23 | Aiveth | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 179 | Aerion 24 | Ailor | Alchemist arrives, visits Kaira unannounced; Blue District lunch; 5,000 eln personally commissioned original robe accepted |
+| 180 | Aerion 25 | Aithen | First of eight Alchemist robe-making days; Alchemist daily observation and friendship begins |
+| 181 | Aerion 26 | Aiven | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 182 | Aerion 27 | Ailar | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 183 | Aerion 28 | Aiden | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 184 | Aerion 29 | Aiveth | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 185 | Aerion 30 | Ailor | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 186 | Aerion 31 | Aithen | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 187 | Aerion 32 | Aiven | Eighth robe-production day; commissioned robe completed; Alchemist offers Blackstone Cardsmith sponsorship |
+| 188 | Aeveth 1 | Ailar | Alchemist organizes her own affairs for transition |
+| 189 | Aeveth 2 | Aiden | Kaira opens kingdom-wide bank account; staging Accord Registry business-management handoff arranged |
+| 190 | Aeveth 3 | Aiveth | Accord Registry searches for two additional experienced smiths |
+| 191 | Aeveth 4 | Ailor | Kaira interviews and selects two new smiths (four total) |
+| 192 | Aeveth 5 | Aithen | Preparations for training and expanded business operation |
+| 193 | Aeveth 6 | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 194 | Aeveth 7 | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 195 | Aeveth 8 | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 196 | Aeveth 9 | Aiveth | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 197 | Aeveth 10 | Ailor | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 198 | Aeveth 11 | Aithen | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 199 | Aeveth 12 | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 200 | Aeveth 13 | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 201 | Aeveth 14 | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 202 | Aeveth 15 | Aiveth | Kaira, Alchemist, Nyx and Black Sprite depart by Green Domain caravan; spatial corridors and slice of life |
+| 203 | Aeveth 16 | Ailor | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 204 | Aeveth 17 | Aithen | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 205 | Aeveth 18 | Aiven | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 206 | Aeveth 19 | Ailar | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 207 | Aeveth 20 | Aiden | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 208 | Aeveth 21 | Aiveth | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 209 | Aeveth 22 | Ailor | Arrival at Green Domain capital after seven elapsed days; Alchemist residence; first capital stay day |
+| 210 | Aeveth 23 | Aithen | Second Green capital stay day; city and King’s Highway preparations |
+| 211 | Aeveth 24 | Aiven | King’s Highway direct crossing Green→Blue capital; arrive Alchemist Blue District apartment; YELLOW ARC ENDS |

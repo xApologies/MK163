@@ -1,3 +1,13 @@
+# Book Red running ledger · current Day 0–211
+
+**Delta 021:** Yellow COMPLETE, Day 63–211 = 149 inclusive days; Green starts after 211, formal enrollment OPEN. The current 353-day year supersedes the old 351/360 arithmetic claims in the preserved pre-021 framing below. Month lengths, Day 0 = Aelora 5/Aithen and every relative event day remain unchanged; Day 211 = Aeveth 24/Aiven. Astronomical/seasonal implications and cross-year weekday/year-week labels remain OPEN.
+
+The main daily table below contains exactly 212 distinct days, 0–211. Rows 0–167 are byte-identical to the prior ledger, with 44 new rows inserted immediately after 167. New year-week cells are “—” because the delta does not assign them; old week labels remain provisional and are not silently repaired. The separate historical detailed interval table is preserved in full and is not counted as another set of daily rows. Historical opening-state/future-anchor language is scoped to its original day or superseded only by the dated 021 decisions.
+
+[Original delta CSV](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.csv) · [Original delta Markdown](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CALENDAR/DAILY_LEDGER_DAY_168_211.md) · [Reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md).
+
+## Retained 020 framing and extended daily table
+
 # Book Red running ledger · Day 0–167
 
 **Calendar arithmetic finding:** the listed lengths sum to 353; source prose below says 351/nine missing against declared 360. The computed remainder is seven. These claims remain explicitly unresolved; the original daily-source text below is preserved verbatim and its 168 dates are checked against actual listed lengths and the selected anchor.
@@ -182,6 +192,50 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 165 | Aerion | 10 | 40 | Aiden | At home arranges delivered living vaen; considers treasured Black crystal from Red Arc Genesis collapse and first seriously imagines a Binding circle |
 | 166 | Aerion | 11 | 40 | Aiveth | With Nyx visits city Registry then Green District Binding facility; attempts Fireball Binding with Black crystal; runaway exceptional identity bond produces young Black Sprite and transforms Kaira steel-gray eyes into Black/Neon spectral energy eyes; overwhelmed by attention, departs; Sprite amplifies Nyx bedroom flowers to six-color bloom; Nyx and Sprite play together |
 | 167 | Aerion | 12 | 40 | Ailor | Kaira carries Sprite, which sometimes rides Nyx; nascent mind-to-mind images; visits abecca/barista friend, mailwright on Blacksmith Row, and male unicorn researcher at academy; researcher examines unprecedented bond and eye transformation |
+| 168 | Aerion | 13 | — | Aithen | Unspecified daily life; open |
+| 169 | Aerion | 14 | — | Aiven | Aiven Raeon tournament opportunity; Kaira attendance/result OPEN |
+| 170 | Aerion | 15 | — | Ailar | Unspecified daily life; open |
+| 171 | Aerion | 16 | — | Aiden | Spontaneous Genesis outburst; original five-layer black-iron robe becomes intrinsically irregular chromatic-streaked; living vaen and Nyx flowers grow; dinner public debut |
+| 172 | Aerion | 17 | — | Aiveth | Blacksmith Row mailwright and smiths admire Kaira chromatic robe; independent visual imitation begins |
+| 173 | Aerion | 18 | — | Ailor | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 174 | Aerion | 19 | — | Aithen | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 175 | Aerion | 20 | — | Aiven | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 176 | Aerion | 21 | — | Ailar | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 177 | Aerion | 22 | — | Aiden | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 178 | Aerion | 23 | — | Aiveth | Independent smiths develop chromatic imitations; exact daily timing OPEN |
+| 179 | Aerion | 24 | — | Ailor | Alchemist arrives, visits Kaira unannounced; Blue District lunch; 5,000 eln personally commissioned original robe accepted |
+| 180 | Aerion | 25 | — | Aithen | First of eight Alchemist robe-making days; Alchemist daily observation and friendship begins |
+| 181 | Aerion | 26 | — | Aiven | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 182 | Aerion | 27 | — | Ailar | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 183 | Aerion | 28 | — | Aiden | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 184 | Aerion | 29 | — | Aiveth | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 185 | Aerion | 30 | — | Ailor | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 186 | Aerion | 31 | — | Aithen | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+| 187 | Aerion | 32 | — | Aiven | Eighth robe-production day; commissioned robe completed; Alchemist offers Blackstone Cardsmith sponsorship |
+| 188 | Aeveth | 1 | — | Ailar | Alchemist organizes her own affairs for transition |
+| 189 | Aeveth | 2 | — | Aiden | Kaira opens kingdom-wide bank account; staging Accord Registry business-management handoff arranged |
+| 190 | Aeveth | 3 | — | Aiveth | Accord Registry searches for two additional experienced smiths |
+| 191 | Aeveth | 4 | — | Ailor | Kaira interviews and selects two new smiths (four total) |
+| 192 | Aeveth | 5 | — | Aithen | Preparations for training and expanded business operation |
+| 193 | Aeveth | 6 | — | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 194 | Aeveth | 7 | — | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 195 | Aeveth | 8 | — | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 196 | Aeveth | 9 | — | Aiveth | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 197 | Aeveth | 10 | — | Ailor | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 198 | Aeveth | 11 | — | Aithen | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 199 | Aeveth | 12 | — | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 200 | Aeveth | 13 | — | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 201 | Aeveth | 14 | — | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+| 202 | Aeveth | 15 | — | Aiveth | Kaira, Alchemist, Nyx and Black Sprite depart by Green Domain caravan; spatial corridors and slice of life |
+| 203 | Aeveth | 16 | — | Ailor | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 204 | Aeveth | 17 | — | Aithen | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 205 | Aeveth | 18 | — | Aiven | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 206 | Aeveth | 19 | — | Ailar | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 207 | Aeveth | 20 | — | Aiden | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 208 | Aeveth | 21 | — | Aiveth | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+| 209 | Aeveth | 22 | — | Ailor | Arrival at Green Domain capital after seven elapsed days; Alchemist residence; first capital stay day |
+| 210 | Aeveth | 23 | — | Aithen | Second Green capital stay day; city and King’s Highway preparations |
+| 211 | Aeveth | 24 | — | Aiven | King’s Highway direct crossing Green→Blue capital; arrive Alchemist Blue District apartment; YELLOW ARC ENDS |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

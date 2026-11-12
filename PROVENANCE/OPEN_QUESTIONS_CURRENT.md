@@ -1,3 +1,19 @@
+# Delta 021 · selected decisions and remaining OPENs
+
+Resolved: Yellow ending Day 211; Alchemist first meeting/5,000-eln commission Day 179 and eight work days 180–187; sponsorship offer Day 187; four-smith business transition and 130-eln management fee; kingdom-wide banking architecture and single maege glass spelling; current year 353. The author explicitly retains **1 Red eln = 180 ahm** and rejects the incoming OPEN label as stale. The earlier historical 018 ledger gap remains resolved by its separate repair.
+
+Still OPEN: formal Blackstone admission/campus move; named original city/capitals/Alchemist/bank; daily disclosure/caravan incident details; property-sale chronology and realized business terms/demand/costs; exact readiness-signoff timing; Alchemist robe color/material/cost; chromatic robe mass/protection/durability/energy properties and repeatability; bank fees, mass units/grades, quorum, authorization, ordering, latency, conflict recovery and mathematical Genesis transport implementation; actual other crystal holdings; astronomical/seasonal implications of 353 and cross-year weekday/week labels. No 100:1 rate, two-of-three quorum, exact new crystal quantity or guaranteed 4,150-eln net income is selected. Other existing OPENs, including Violet aen/Stage II, remain unless explicitly resolved above.
+
+[Detailed scope and omissions](../CHECKPOINTS/YELLOW_CLOSURE_021/OMISSIONS_AND_OPEN_ISSUES.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [README_START_HERE.md](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/README_START_HERE.md) · [CANON/05_BANKING_MAEGE_GLASS.md](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/05_BANKING_MAEGE_GLASS.md) · [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Resolved: original Checkpoint 018 daily-ledger bytes
 
 Both Day 0–116 historical originals (.md and .csv) are recovered exactly. The historical 018 ledger OPEN item below is closed. The active Day 0–167 chronology is unchanged; recovered historical events are not merged into it or treated as new canon. Calendar totals/week alignment, other source gaps and all design questions remain OPEN as recorded.

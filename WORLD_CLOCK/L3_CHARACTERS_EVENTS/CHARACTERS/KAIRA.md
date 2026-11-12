@@ -1,3 +1,15 @@
+# Kaira · current state at Day 211
+
+Yellow is COMPLETE on arrival at the Alchemist's upscale Blue District apartment in the Blue Domain capital. Kaira travels with Nyx and the independent young Black Sprite, retains her business and national banking access, and awaits Blackstone admission/campus housing. Her mother is a **cardsmith**; the Day 180–187 trusted conversations preserve her history without invented trauma or daily disclosure order. The Day 171 involuntary surge transforms only her original physical robe and enlarges living plants/flowers; it is not repeatable mastery, deliberate Shaping or the later Genesis Robe. The 5,000-eln special commission is separate from ordinary wholesale production; her personal monthly commercial robe obligation ends with the trained four-smith handoff. Violet aen closure, Stage II and later Ring timing are unchanged. [Outburst](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Friendship and commission](ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Business terms](../../L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [Possessions and relocation](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md) · [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Kaira · current selected developments through Day 167
 
 Orange completion remains Day 50, debut/finale Day 51. Yellow begins Day 63 and **remains unfinished after Day 167**. The Alchemist relationship, unique commission, Blackstone sponsorship and actual Yellow exit remain future undated anchors. No early Ring, Blue Support credential, Stage II, full healing or new chapter is created.

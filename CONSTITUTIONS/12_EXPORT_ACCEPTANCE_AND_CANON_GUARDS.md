@@ -1,3 +1,15 @@
+# Delta 021 · scoped acceptance updates
+
+Validate **353-day current year**, unchanged eleven months, 31-hour day and six-day weekday cycle; treat older 360/60-week/four-90-day-season checks as historical in this scope. Verify Day 211 = Aeveth 24, Aiven; Yellow 63–211 = 149 inclusive days; 212 distinct relative ledger days. Use **maege glass** for the single substrate. The author reconfirms **1 Red eln = 180 ahm** during integration; do not adopt the new source's stale OPEN statement or infer 100:1. Preserve all other existing hard checks, source bytes, historical 018 repair, Black Card retirement, Green/fourth and no Ring before Red ending.
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Orange spelling and continuity checks
 
 **Orange arc of Book Red · 2026-11-08.** Use lowercase raeon in active prose. Preserve literal earlier spelling in archived sources. For Book Red’s Orange first visit, distinguish two promising shop relationships from a paid repair, and the first walk from Nyx’s third return. The prior 13-score floor rule, Green/fourth Tournament result and end-of-Red Ring checks continue unchanged.

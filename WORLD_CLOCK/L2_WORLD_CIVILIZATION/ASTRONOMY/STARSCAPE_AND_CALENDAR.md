@@ -1,3 +1,20 @@
+# Calendar · 353-day year selected in Delta 021
+
+**Author's `Annual Structure.pdf` month lengths are controlling.** The eleven listed lengths sum to **353**, NOT 351; author explicitly chose 353 as current year and rejected inventing seven intercalary days to fit older 360-year text. Existing 360-day orbital-year, 60-week and four-90-day-season statements are historical/inherited and conflict with this selected calendar; flag active dependent astronomy/season/week claims for **scoped reconciliation** rather than silently overwriting all astronomy or changing 11 month lengths. 31-hour day and six-day weekday cycle remain. 353 = 58 full six-day weeks + 5 days; cross-year weekday continuity / year-week labels remain OPEN. Do not modify 0–211 relative event days.
+
+Months: Aelor 33, Aerith 32, Aelora 31, Aevrin 33, Aelis 31, Aevor 32, Aelith 33, Aerion 32, Aeveth 31, Aesith 33, Aeleth 32.
+Weekdays: Ailar, Aiden, Aiveth, Ailor, Aithen, Aiven. Anchor Day 0 = Aelora 5, Aithen; Day 167 = Aerion 12, Ailor; Day 171 = Aerion 16, Aiden; Day 179 = Aerion 24, Ailor; Day 187 = Aerion 32, Aiven; Day 188 = Aeveth 1, Ailar; Day 211 = Aeveth 24, Aiven.
+
+**Scoped reconciliation:** the former 351 arithmetic and 360-year/60-week/four-90-day-season claims below are preserved historical evidence, not simultaneous current calendar definitions. The inherited astronomy is not rewritten or mathematically rederived here. Orbital/seasonal correspondence, cross-year weekday continuity and year-week boundaries remain OPEN. Prior 0–167 year-week labels are retained as historical provisional labels; new 168–211 rows do not assign new year-week labels. No event date, month length, 31-hour day, six-day cycle, wage or age is rescaled. Current [day ledger](../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) validates 212 distinct days against the unchanged Day 0 anchor.
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Named calendar and ledger anchor · 020
 
 Six weekdays, in order: **Ailar, Aiden, Aiveth, Ailor, Aithen, Aiven**. Eleven distinct months follow. Month 10 **Aesith** supersedes the duplicate Aerith; Month 2 remains Aerith and Month 11 is Aeleth, not the rejected Vaelora. Earlier proposed weekday names are not current.

@@ -1,3 +1,19 @@
+# Delta 021 · protected maege glass spelling
+
+Protected terms: **Kaira** (not Kira), **Nyx** (not Nix/Nicks), **maege glass** (M-A-E-G-E; not Mage Glass, mage glass, Mageglass, and not a second material), **maege/maegi** protected practitioner words, **Brotherhood of Maegi**, **Chainmail Robe** (not rope/road), **Genesis Robe** distinct from Chainmail Robe, **vaen** (not vein/vane), **eln**, **ahm**, **aen**, **abecca** (drink, not a shop name), **Raeon**, **ELDRIS**, **Accord Registry**, **Black Sprite** (they/them), **Blackstone Keep**, **King's Highway**, **ER foam**. Retain historical mistaken text under provenance, annotate supersession; do not mutate old quotations or create synonyms.
+
+Source naming conflict in older banking owner `BANKING_AND_MAGE_GLASS_ACCOUNTS.md` and technology owner `MAEGE_GLASS_AND_CONSTRUCTS.md` is a spelling/provenance issue, not evidence of two glass materials. New tablet replaces handwritten ledger only at **large kingdom-wide banks**, not Kaira's original small bank.
+
+The earlier explicit banking spelling exemption is superseded. Historical source wording and the established banking filename stay unchanged; new active prose uses **maege glass**.
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/07_CALENDAR_AND_PROTECTED_TERMS.md](../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/07_CALENDAR_AND_PROTECTED_TERMS.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Checkpoint 020 scoped names
 
 Use Kaira, Nyx, **Raeon**, abecca, **Maegi**, vaen, eln, aen, AERA and MK163 in this update. Brotherhood of Maegi is distinct from the later Cabal and from a new Registry role; lowercase maege/maegi occupational wording is not blanket-replaced. Existing AITHREN/aithren, ru’ne and vaelum remain protected. Calendar names: Ailar/Aiden/Aiveth/Ailor/Aithen/Aiven; Aelor/Aerith/Aelora/Aevrin/Aelis/Aevor/Aelith/Aerion/Aeveth/Aesith/Aeleth.

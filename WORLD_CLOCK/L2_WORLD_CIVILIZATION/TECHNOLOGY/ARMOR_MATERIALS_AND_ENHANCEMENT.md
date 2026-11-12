@@ -1,3 +1,15 @@
+# Personal chromatic robe · scoped Day 171 exception
+
+Kaira's original five-layer black-iron robe undergoes involuntary atomic/material restructuring, retaining five-layer core and localized 5→4→3 relief, hood and chainmail silhouette. Irregular intrinsic Red-to-Violet streaks modify its former monochrome appearance; they are not profession-rank colors or a new ordinary product specification. Conventional imitations reproduce appearance only. Post-event mass, durability, protection, energy properties and repeatability remain OPEN. Existing topology limitations and original source designs remain; concept image labels do not establish full functionality. [Full event and visual scope](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Five-layer original · sculptural design scope
 
 The original is entirely interlinked dark gray/black chainmail: fitted, opaque, smooth, lightweight, washable and rust-resistant, intended to be wearable without underclothes. Local **five→four→three-layer recessed relief** retains opacity; two modest pointed chainmail shoulder ridges rise upward/outward as integrated weave, not separate epaulettes. No metal plates, cloth ornament or chromatic rank colors. Supplier-made Genesis-infused iron rings, controlled drape/no flare, hood, magnetic front/back/side slit closures and mass reduction remain.

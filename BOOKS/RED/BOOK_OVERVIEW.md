@@ -1,3 +1,15 @@
+# Book Red · Yellow COMPLETE through Day 211
+
+Orange closes Day 51; Yellow opens Day 63 and ends Day 211 on Blue capital arrival, 149 inclusive days. Green starts afterward; admission is pending. All seven previously selected arc scopes and later milestones remain. [Yellow contract](ARCS/ARC_003/ARC.md) · [Current Day 0–211 ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md](../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/01_YELLOW_CLOSURE_AND_CHRONOLOGY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
 # Book Red · Orange exit and Yellow opening
 
 Orange (Arc 2) now completes the physical robe Day 50 and ends with public debut Day 51. Yellow (Arc 3) opens Day 63 after twelve elapsed days, with Nyx in Kaira’s lap during Green aen closure practice. [Orange](ARCS/ARC_002/ARC.md) · [Yellow](ARCS/ARC_003/ARC.md) · [Day ledger](../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md). All seven arc scopes and later selected milestones remain intact.
