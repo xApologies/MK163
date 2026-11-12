@@ -1,3 +1,19 @@
+# Green Day 217 v6 · current OPENs and resolved items
+
+Resolved in scope: Day 212 meeting; Day 216 party; Day 217 campus move and adjacent housing; illi and Elaira names; Semester I Day 224 opening; Anatomy Day 18 versus Founders Day 21; 1,100/800-year ages; actual supplied campus map. Older contrary OPEN labels remain historical. Admission procedure/evaluation/dialogue is still unassigned.
+
+**EDU-01:** author explicitly says “Preserve both schedules and explicitly mark the shared-class timing OPEN”. Kaira Semester III Quantum Field Theory I: Aiveth 11:00–13:00; illi: Aiveth 13:00–15:00 despite same-section requirement. No row is retimed. Other optional shared-activity labels do not override individual required classes.
+
+Violet closure, Stage II, mentoring sessions; Days 218–223 activities; Day 217 lunch/researcher and Sprite biology/name/form; final apartment plans and bracelet implementation; entourage/beast/attendant identities; Gym/field exact geometry; Prism full rules/Cup date; transport costs/taxonomy/zoning; later semester start dates, assessments and actual attendance remain OPEN. [Complete source limits and OPEN register](../CHECKPOINTS/GREEN_DAY217_V6/OMISSIONS_AND_OPEN_ISSUES.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [OPEN_ITEMS.md](WORKSHOP/GREEN_DAY217_V6/CANON/OPEN_ITEMS.md) · [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Delta 021 · selected decisions and remaining OPENs
 
 Resolved: Yellow ending Day 211; Alchemist first meeting/5,000-eln commission Day 179 and eight work days 180–187; sponsorship offer Day 187; four-smith business transition and 130-eln management fee; kingdom-wide banking architecture and single maege glass spelling; current year 353. The author explicitly retains **1 Red eln = 180 ahm** and rejects the incoming OPEN label as stale. The earlier historical 018 ledger gap remains resolved by its separate repair.

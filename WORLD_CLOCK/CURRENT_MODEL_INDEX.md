@@ -1,3 +1,26 @@
+# Green Day 217 v6 · current additions
+
+Approved narrative through move-in on Day 217 only; six future unscheduled days and Semester I Day 224. Current owners:
+
+- [Green narrative and scene cutoff](../BOOKS/RED/ARCS/ARC_004/ARC.md)
+- [Single cumulative daily ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+- [Blackstone architecture, landmarks and three full curricula](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md)
+- [Semester I event calendar and full source text](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_SEMESTER_I_CALENDAR.md)
+- [Prism game, faculty Cup and student club](L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md)
+- [Urban transport and livery](L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md)
+- [illi and Alchemist](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md)
+- [Aen state and mentorship boundaries](L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md)
+
+[Integration and coverage audit](../CHECKPOINTS/GREEN_DAY217_V6/INTEGRATION_REPORT.md) · [OPEN timing and scope limits](../CHECKPOINTS/GREEN_DAY217_V6/OMISSIONS_AND_OPEN_ISSUES.md). This is complete preservation of the supplied scoped checkpoint, not a literal full-conversation or full-upstream-repository claim.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [README.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/README.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Delta 022 · Green opening setup
 
 A small addition after Yellow closure. [Current Green opening](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Alchemist status/acquaintance](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Potion mutual exclusivity](L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md) · [Violet practice during caravan](L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md). No new dated ledger row or admission result is selected.

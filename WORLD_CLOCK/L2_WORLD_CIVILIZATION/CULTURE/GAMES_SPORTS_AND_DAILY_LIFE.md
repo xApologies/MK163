@@ -1,3 +1,35 @@
+# Prism · current game and Blackstone culture
+
+## Base gameplay
+- Genesis-field non-destructive competitive team sport analogous to paintball/tag.
+- A crafted Prism bracelet projects a body-bound protective Genesis shield and supplies a non-destructive Genesis-energy orb.
+- Orb contact with ordinary unshielded matter/person splashes/dissipates harmlessly; coupling to the Prism shield produces localized and accumulated global shield decay; total shield dissipation eliminates the player.
+- Working visual damage ladder: Clear/Full → Violet → Blue → Green → Yellow → Orange → Red → dissipated.
+- Athletic/tactical advantage is driven by mobility, positioning, field geometry, and team composition; it is **not simply transduction destructive power**.
+- Flyers through air manipulation or CSR (continuous spatial resolution) gain aerial mobility; augmenters gain speed/jumping/agility; fireball specialists have little direct advantage; summoners have no automatic advantage. The legality of environmental fire barriers is still unresolved.
+
+## Blackstone faculty Cup
+- Prism was invented at Blackstone approximately two centuries before Kaira's story, by professors who developed the bracelet; an early faculty game evolved into the annual **Blackstone Prism Cup**, later spreading into kingdom-wide professional sport.
+- **The Blackstone Prism Cup is FACULTY-ONLY** and teams represent academic **departments** (e.g., Mathematics versus Chemistry), **not** transduction classifications, and **not** students. Longstanding interdepartmental rivalries are part of Blackstone's heritage.
+
+## Student recreation
+- Students can check out bracelets and play informal/pickup games, including on weekends/rest days.
+- A student **Prism Club** supports informal recreation, independent of the faculty Cup. Kaira, illi and Elaira are not automatically Cup competitors; they may play recreationally or spectate.
+- Student schedules' Aiven rest day is a natural time for pickup games.
+
+## Unresolved competition rules
+Exact team size (earlier 5–7 target), bracelet interface, scoring beyond elimination, match duration, recharge/reset, fouls, substitutions, league operations, and legality of various transductions remain open. Do not invent and promote these to canon.
+
+The historical Semester Day 51 ER Foam Ball / five-branch championship is superseded in name and team basis. The current faculty-only departmental Prism Cup has no selected season/start day. Founders Games are a separate Semester Day 21 event; student pickup play is separate from both. [Gym and permanent Prism Field architecture](../INSTITUTIONS/BLACKSTONE.md). Existing raeon rules, attendance and tournament outcomes remain unchanged.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [PRISM_GAME_AND_CULTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_GAME_AND_CULTURE.md) · [CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Raeon · named tournament schedule and placements through Day 167
 
 The current checkpoint uses protected **Raeon**. Original quoted spellings remain. Kaira completes her first 60-card custom deck on Day 14; local card-shop tournaments run on **Aiven**, sixth weekday, with the current ledger's first eligible entry Day 19. This preserves the old house-deck practice/rental account without inventing a new dated match or forcing a specific deck into an otherwise unspecified tournament; the precise placement of that older rental episode remains OPEN.

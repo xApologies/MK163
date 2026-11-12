@@ -1,3 +1,15 @@
+# Green frontier · Day 217 move-in only
+
+Yellow ends Day 211; Day 212 Headmaster meeting; Days 213–215 capital exploration; Day 216 party and illi introduction; Day 217 move-in to adjacent Blackstone residences with companions. Days 218–223 are six unscheduled future days. Semester I starts Day 224; do not reset cumulative chronology. Violet remains OPEN and no Stage II is established. Anatomy/Founders anchors are Semester Days 18/21 = cumulative 241/244. Orange remains complete and untouched. [Single detailed running ledger](RED_RUNNING_DAY_LEDGER.md) · [Green scene authority and full details](../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Selected state through Book Red Day 211
 
 The [master ledger](RED_RUNNING_DAY_LEDGER.md) retains all prior 0–167 rows and detailed Orange intervals, adding 168–211. Yellow closes on 211; friendship/commission/sponsorship are now realized on 179–187, while enrollment remains OPEN. Stable event IDs: Y021-E171 outburst, Y021-E179 commission, Y021-E187 sponsorship, Y021-E189 bank/business arrangements, Y021-E202 departure, Y021-E209 Green capital and Y021-E211 Blue capital arrival. The current year is 353 days; derived astronomy/seasons and week alignment remain OPEN. Historical 018 ledger bytes were already recovered by the previous repair and stay intact. [Full scoped supersessions](../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md).

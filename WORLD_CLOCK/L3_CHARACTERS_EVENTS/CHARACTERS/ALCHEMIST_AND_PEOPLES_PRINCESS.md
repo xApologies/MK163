@@ -1,3 +1,19 @@
+# illi and the Alchemist · Day 217 current state
+
+The Princess’s author-selected name is **illi**, exact lowercase i-l-l-i. She is 27 local years old, the youngest daughter of the royal family (not the Blue Domain governor), already attending Blackstone and personally acquainted with the Alchemist. Kaira is 23. On Day 216 the Alchemist personally introduces them at her Blue District evening party among influential friends/acquaintances; illi and other guests admire Kaira’s original Chainmail Robe. Shared Awakening and aen experience provide their initial connection.
+
+illi is an Awakened native Genesis transduction prodigy with expert aen techniques from royal tutors. Her five-semester primary course map specializes in native Genesis transduction, not healing, Cardsmithing or Binding Circle specialization. Friendship and informal mentorship in Violet closure and later widening/energy access are intended; precise sessions, closure day and proficiency remain OPEN. She is a friend, not merely a tutor. The Alchemist remains **not Awakened**, having taken Genesis potions, and is Kaira’s sponsor/friend.
+
+Day 217: illi collects Kaira in her own noble-beast carriage with a small entourage including her personal handmaiden. The Alchemist does not accompany them. illi and the handmaiden occupy the larger apartment adjacent to Kaira’s; the attendant is not a student and has her own private bedroom. The Alchemist arranged the proximity. Entourage count, names, carriage species, final floor plans and any dimensional bracelet implementation remain OPEN. [Full party, move-in and unapproved continuation boundaries](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [illi’s complete curriculum](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [CHARACTERS_AND_EDUCATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md) · [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md) · [GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # The Alchemist · Genesis-potion status and Green opening
 
 The Alchemist rose from an underclass upbringing to earned wealth, professional standing and social status. She has taken **Genesis potions**, has **never taken an Awakening potion**, and is **not Awakened**. [The selected potion mutual-exclusivity rule](../../L2_WORLD_CIVILIZATION/BIOLOGY/NEUROGENESIS_AND_CHROMATIC_POTIONS.md) applies; biological mechanism, effects, dosage and timing remain OPEN. Her personal name is still OPEN.

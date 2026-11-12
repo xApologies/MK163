@@ -1,3 +1,17 @@
+# Kaira · Green Day 217 move-in frontier
+
+Kaira is 23 local years old. After the Day 212 Headmaster meeting and Days 213–215 capital exploration, the Alchemist introduces her to illi (27) at the Day 216 party. On Day 217 Kaira moves into Blackstone student housing with **Nyx, the male Vaeryn**, and the **independent young Black Sprite (they/them)**; illi and her personal handmaiden occupy the adjacent residence. Nyx is not the Sprite. Kaira’s original chromatic Chainmail Robe draws guests’ admiration. Violet aen remains OPEN; there is no new closure or Stage II achievement.
+
+Elaira is the now-named future Helkir friend; exact first meeting/scene is not selected at this frontier. Kaira’s full Cardsmith primary schedule covers five semesters and sixteen courses, including four in Semester II. The future academic schedule is not completed narrative. [Full Kaira curriculum](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md) · [Day 217 cutoff and detailed current Green owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md) · [CHARACTERS_AND_EDUCATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Kaira · current state at Day 211
 
 Yellow is COMPLETE on arrival at the Alchemist's upscale Blue District apartment in the Blue Domain capital. Kaira travels with Nyx and the independent young Black Sprite, retains her business and national banking access, and awaits Blackstone admission/campus housing. Her mother is a **cardsmith**; the Day 180–187 trusted conversations preserve her history without invented trauma or daily disclosure order. The Day 171 involuntary surge transforms only her original physical robe and enlarges living plants/flowers; it is not repeatable mastery, deliberate Shaping or the later Genesis Robe. The 5,000-eln special commission is separate from ordinary wholesale production; her personal monthly commercial robe obligation ends with the trained four-smith handoff. Violet aen closure, Stage II and later Ring timing are unchanged. [Outburst](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Friendship and commission](ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Business terms](../../L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [Possessions and relocation](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).

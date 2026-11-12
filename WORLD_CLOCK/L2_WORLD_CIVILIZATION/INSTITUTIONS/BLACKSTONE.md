@@ -1,3 +1,97 @@
+# Blackstone Keep · current campus and education owners
+
+The Day 212 Headmaster meeting and Day 217 campus move are now selected. Kaira occupies student housing with Nyx and the independent Sprite; illi and her personal handmaiden occupy the adjacent, larger apartment. Semester I begins on cumulative Day 224, a future anchor. This supersedes the earlier campus-move OPEN only; exact admission procedure, evaluation and dialogue remain OPEN. The retained 022 wine courtesy/acquaintance boundary still governs.
+
+## Provenance and precedence
+Source: author-uploaded 20-page `MASTER(3).pdf`, titled *BLACKSTONE UNIVERSITY — ARC 4 CAMPUS CANON*. Preserve original source unaltered. This document is a faithful extracted summary with **explicit later author corrections**. Older source calls the institution Blackstone University and uses "Mage Lights"; current MK163 terminology uses **Blackstone Keep** and protected **maege** (thus **maege lights**). Historical text stays unchanged in SOURCES.
+
+## Institution and construction
+- **Age approximately 1,100 years**, author-approved revision of source's ~1,700 years. The source's 'seventeen centuries' wording is superseded for current narrative.
+- Campus ~4 miles x 4 miles, effectively a university-city. Historical source says kingdom ~3,000 years old (working estimate, not newly locked).
+- Spatial-locking phase-grown Blackstone forms massive unsupported interior spans. Architectural forms are mostly simple cubes, rectangular prisms and orthogonal structures; complexity is in space and circulation, not excessive exterior ornament.
+- Blackstone is seamless, deep black, black-on-black marbled, slightly fluid-looking, with depth below its solid surface. It is not natural quarry rock.
+- Daylight identity: calm greenery, trees, gardens, canals, water, promenades, courtyards, open study spaces, natural light. Campus is lived-in, not an endless spectacle.
+- Night identity: old sigil-carved **maege lights** gently activate, revealing glowing geometry in walls. Canals glow bright arcane blue (not teal or neon), water remains water. Magic is restrained and infrastructural; old systems remain in use by tradition and utility.
+- Institutional philosophy: understanding and accumulated knowledge; centuries of research, architectural practice and traditions.
+
+## Departmental landmarks
+1. **Chemistry — The Perpetual Flame.** Controlled reaction continuously maintained for centuries; occasionally changes color for reasons debated by students; chemists insist it is under control.
+2. **Biology — The Anatomical Gallery.** Permanent museum within Biology Complex: comparative anatomy, medical history, organ systems, developmental and educational exhibits. The permanent gallery is distinct from the scheduled Anatomical Exhibition. The later explicit daily-ledger decision resolves the legacy Day 21 claim: Anatomical Exhibition is Semester Day 18 (cumulative 241); Founders Games are Semester Day 21 (cumulative 244). Preserve both historical sources unchanged.
+3. **Genesis Field Studies — The Sphere.** Massive projected, evolving closed configuration outside department; never repeats or fully stabilizes; student meeting point and research debate.
+4. **Mathematics — The Wall.** Blackstone wall carved with a meaningful configuration of zeros and ones, mathematically valid, solution lost with its creator; no known solution. **Approximately 800 years old**, author-approved revision of the source's ~1,300 years. Researchers travel to study it.
+5. **Hospital / Helkir — The Healing Garden.** Quiet therapeutic garden used by patients, students, nurses, healers; collaboration among Biology, Helkir, Genesis Fields and Architecture.
+6. **Quantum Fields — The Pedestal.** Simple Blackstone monument claimed to contain the 'First Gravity Particle'; no visible object, occasional light/perspective distortions; other departments skeptical; official assertion: 'It is there.'
+7. **Natural Philosophy — Department of Questions.** Physics, cosmology, mechanics, observation, nature, reality; intellectual counterpart to Genesis Field Studies. No specific permanent landmark is assigned in the uploaded source.
+
+## Relationship to existing approved Gym and Prism
+All previously approved three-wing four-story Gym, Prism Field ~3/4 x 1/2 mile, engineered Blackstone obstacle field, and selected visual reference remain controlling. Do not use artistic renderings to revise campus map geometry.
+
+# The Gym — approved architecture and floor allocation
+
+**Name:** The Gym. Do not rename it “Blackstone Gymnasium.”
+
+## Placement and geometry
+- Located immediately north of the Hospital Complex, surrounding the Prism Field on three sides.
+- U-shaped structure: **West Wing, East Wing, South Wing**. **No North Wing**; the field is open to the north.
+- South Wing runs across the **width of the U / horizontal span of the field**; East/West wings run along the **depth** of the field.
+- **Four stories**; each story approximately 20 feet tall with monumental/vaulted interior proportions, approximately 80 feet combined story heights, excluding unspecified roof detail.
+- Built from engineered/grown Blackstone. Spatial-locking sigils enable immense clear-span interiors without conventional load-bearing pillars.
+- Width of the Gym is only a **provisional map-derived estimate** (roughly two-thirds to three-quarters of a mile); do not claim a precise surveyed dimension. The original 4 mi × 4 mi campus map is the geographic authority.
+
+## Floor allocation (author-approved working resolution)
+| Floor | West Wing | East Wing | South Wing |
+|---|---|---|---|
+| 1 | Individual firing lanes, students aim inward at stationary projected manifold targets | Room-clearing course I, start south and move north; engage selected targets and avoid others | Large social lobby: couches, chairs, tables, fireplace ambience; smoothies, multiple healthy/recovery-oriented restaurants; large male/female changing rooms |
+| 2 | Open stationary and moving manifold target range | Room-clearing course II, distinct room configuration | Weight room / fitness |
+| 3 | Advanced varied manifold target range, more complex combinations and movements | Room-clearing course III, distinct room configuration | Additional gym / conditioning |
+| 4 | Long-distance manifestation range; students fire from southern end northward along the wing, potentially approximately half a mile | Room-clearing course IV, distinct room configuration | Large indoor swimming pool |
+
+The Gym's primary function is safe transduction practice, especially offensive manifestation and accuracy; conventional physical training is a secondary but real function. Projected manifolds can be stationary or moving. The fourth-floor West Wing is about long-distance accuracy and control rather than simply destructive strength.
+
+**Caveat:** Specific target patterns, floor dimensions, restaurant names, pool layout and room-course maps are not yet designed. No additional wing or campus structure is authorized.
+
+# Prism Field — author-locked concept
+
+## Placement and size
+- Permanent outdoor field occupying the open central space of the U-shaped Gym; **no North Wing**.
+- Approximate dimensions **3/4 mile × 1/2 mile** (~1.21 km × 0.805 km; ~240 acres). Supersedes earlier 1 mile × 2/3 mile estimate.
+- The Gym's South Wing spans the field's width across the southern side; West/East wings extend along its depth.
+- The original author campus map is authoritative for placement; the rendering is an aesthetic and obstacle-layout reference, **not a dimensionally exact plan**.
+
+## Approved permanent obstacle character
+- Author-selected reference image: `SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg`.
+- A **tailored competitive field**, not a flat track or empty lawn.
+- Permanent obstacles are **engineered/grown Blackstone formed through a phase field**, not natural sedimentary rock, random boulders, quarry debris or rocky terrain.
+- Structured cover walls, towers/pillars, climbable elevated positions, platforms, stairs, ramps, arches, bridges, paths, sightline breaks, and open lanes. Image serves as the preferred arrangement/aesthetic; exact object count, positions, heights, top-down blocks are pending author reconstruction.
+- Open spaces remain between obstacle clusters. Flyers (air manipulation / CSR) exploit verticality; augmenters move quickly between cover, jump, climb, and parkour; non-flyers can gain elevated positions by climbing constructed structures.
+- Blackstone field obstacles are permanent physical architecture, **not the Gym's projected manifold targets**.
+- The render may depict the South Wing as one story or suggest enclosing background buildings: these visual errors do not override the **four-story U-shaped Gym with open north**.
+
+## Relation to training
+- The field supports Prism games and, when available, augmenter movement training / obstacle courses.
+- Gym training ranges use projected manifolds; the Prism Field is for physical terrain-based competition and recreation.
+
+## Complete primary curricula and calendar
+
+Three distinct five-semester curricula are supplied, with 90 full recurring daily patterns and a 31-hour day. Names: Kaira (Cardsmith), illi (Awakened native Genesis transduction), Elaira (Helkir). These are approved future education schedules, not evidence that five semesters have already elapsed at the Day 217 frontier. Aiven stays a protected rest day; optional study and social opportunities are not scripted attendance. Kaira’s Semester II has four required courses, including the Ailor Sigil Architecture class; do not apply a blanket three-class or non-instructional-Ailor rule to her.
+
+- [Kaira — all five semesters and full timetables](BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md)
+- [illi — all five semesters and full timetables](BLACKSTONE_EDUCATION/ILLI_PRIMARY.md)
+- [Elaira — all five semesters and full timetables](BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md)
+- [Semester I infrastructure calendar and complete source descriptions](BLACKSTONE_SEMESTER_I_CALENDAR.md)
+
+**EDU-01 — OPEN by author instruction, 2026-11-12:** Semester III Quantum Field Theory I is called a shared section, but Kaira has Aiveth 11:00–13:00 and illi 13:00–15:00. Preserve both timetables; no shared class time is selected. Optional shared-study labels do not override another student’s required class. [Detailed scheduling limits](../../../CHECKPOINTS/GREEN_DAY217_V6/OMISSIONS_AND_OPEN_ISSUES.md).
+
+Visual sources: [original annotated campus map](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/ORIGINAL_ANNOTATED_CAMPUS_MAP.jpg) · [approved Prism Field concept](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg). The map is supplied despite stale missing-map language in earlier package notes. Image captions and render geometry do not override written decisions.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md) · [GYM_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GYM_ARCHITECTURE.md) · [PRISM_FIELD_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_FIELD_ARCHITECTURE.md) · [CHARACTERS_AND_EDUCATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Sponsorship offered Day 187 · admission pending at Yellow closure
 
 The Alchemist offers Blackstone Cardsmith education sponsorship, tuition and housing on Day 187 after the special robe is completed. Day 211 arrival at her Blue capital apartment closes Yellow; it does not confirm admission or campus occupancy. Green Arc begins after 211. Exact admission date/procedure, campus move and a possible wine exchange remain OPEN. Existing Blue capital/campus dimensions and later educational outline remain unchanged. [Commission and friendship](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Temporary Blue District residence](../../L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).

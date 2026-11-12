@@ -1,3 +1,15 @@
+# Green Day 217 v6 · complete supplied source preservation
+
+All 32 outer files are retained exactly, including three original student ZIPs containing 23 members, three PDFs, seven images and the supplied extracted text. All 31 outer manifest records and 20 nested manifest records passed SHA-256 verification. The 32 PDF pages and all seven images were visually reviewed. The campus PDF has recoverable object-index warnings in pypdf; all pages render and original bytes remain unmodified. No exact source-byte match existed in the baseline; prior checkpoints are referenced rather than reimported. [Complete source map and nested member hashes](WORKSHOP/GREEN_DAY217_V6/SOURCE_MAP.json) · [Coverage and integration audit](../CHECKPOINTS/GREEN_DAY217_V6/INTEGRATION_REPORT.md). The package is a scoped cumulative Green checkpoint, not literal transcript completeness or a duplicate of inherited repositories.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [MANIFEST.json](WORKSHOP/GREEN_DAY217_V6/MANIFEST.json) · [executable.md](WORKSHOP/GREEN_DAY217_V6/executable.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Green opening Delta 022 · incremental source
 
 Three supplied Markdown files are preserved byte-for-byte. The package contains no publisher hash manifest; ZIP CRC and path safety pass, and a local SHA-256 inventory records the exact archive and every source member. [Source map](WORKSHOP/GREEN_OPENING_022/SOURCE_MAP.json). No image or cumulative checkpoint payload is supplied or reimported. All earlier source records remain intact.

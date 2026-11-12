@@ -1,3 +1,22 @@
+# Green opening · Violet still OPEN; informal mentorship ahead
+
+- Yellow ring closed by end of cumulative Day 62 interval (exact day open).
+- Green ring closed Day 85.
+- Blue ring closed Day 123.
+- Violet ring **still open** through Days 202–209 caravan journey; meaningful progress, not closure. No subsequent confirmed Violet closure before Green opening.
+- Princess is also Awakened and has a lifetime of elite instruction in aen rings, widening rings, drawing energy, and practical use. During Green Arc she informally mentors Kaira in closing Violet and learning ring widening/energy access. Violet closure day and proficiency milestones remain OPEN. The Princess is Kaira's friend, not merely her tutor.
+- Alchemist has taken Genesis potions, not Awakening potion, and is **not Awakened**; don't conflate her with Princess.
+
+The Princess is **illi**, age 27; Kaira is 23. No Day 218–223 practice is assigned as a completed event. The intended teaching of widening does not waive the existing prerequisite of stable closed rings or establish Stage II. The independent Sprite, Nyx and the Alchemist’s potion history are not conflated with illi’s Awakening.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md) · [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Kaira's selected aen closures through Day 167
 
 Lessons remain Days **21, 27, 32, 38, 43**. Red/Orange are closed at the final introductory lesson; Yellow closes in Days 52–62 (not necessarily Day 62 itself); Day 63 opens with those three closed and Green being practiced. **Green closes Day 85**. **Blue nearly closes Day 119, successfully closes Day 123**. Violet closure remains **OPEN** through Day 167. No Stage II/sleeve, new quantitative throughput law or automatic Registry rank follows. Formation/control milestones are distinct from certification and neither old prose nor render imagery grants early full mastery.

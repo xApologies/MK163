@@ -308,6 +308,24 @@
       "members": 3,
       "scope": "Small incremental Green opening, Alchemist potion status and Yellow Violet-practice amendment",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_GREEN_DAY217_V6",
+      "date": "2026-11-12",
+      "physical_filename": "MK163_GREEN_ARC_CUMULATIVE_CODEX_CHECKPOINT_DAY217_v6.zip",
+      "baseline": "211b4222346bd9aff6511d9d9c97df4a73e4680f",
+      "archive_sha256": "d936ed6be040fb6d0b720c5dcb05d973aa94b3e9475018624e74db03bd110e02",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_DAY217_V6/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md",
+      "validation": "CHECKPOINTS/GREEN_DAY217_V6/VALIDATION.json",
+      "scope": "Cumulative Green missing/changed information only, narrative through Day 217 move-in",
+      "members": 32,
+      "outer_declared_hashes": 31,
+      "nested_declared_hashes": 20,
+      "nested_members": 23,
+      "literal_transcript_complete": false,
+      "author_resolution": "Preserve both schedules and explicitly mark the shared-class timing OPEN"
     }
   ]
 }

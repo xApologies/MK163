@@ -1,3 +1,11 @@
+# Book Red running ledger · Day 0–224; narrative frontier Day 217 move-in
+
+Green Day 217 v6 adds thirteen dated rows (212–224) to the existing table. Rows 0–211 and all historical interval records remain byte-identical. There are 225 distinct dated rows; Days 218–223 are future unscheduled placeholders and Day 224 is the selected future Semester I opening. These rows do not claim completed scenes. The narrative stops at the move-in on Day 217, not the end of that day. Yellow still ends Day 211 and Orange Day 51. The 353-day calendar and Day 0 anchor remain unchanged; new year-week cells remain unassigned.
+
+[Current reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · [Detailed Green events](../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+## Prior framing and extended single daily table
+
 # Book Red running ledger · current Day 0–211
 
 **Delta 021:** Yellow COMPLETE, Day 63–211 = 149 inclusive days; Green starts after 211, formal enrollment OPEN. The current 353-day year supersedes the old 351/360 arithmetic claims in the preserved pre-021 framing below. Month lengths, Day 0 = Aelora 5/Aithen and every relative event day remain unchanged; Day 211 = Aeveth 24/Aiven. Astronomical/seasonal implications and cross-year weekday/year-week labels remain OPEN.
@@ -236,6 +244,19 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 209 | Aeveth | 22 | — | Ailor | Arrival at Green Domain capital after seven elapsed days; Alchemist residence; first capital stay day |
 | 210 | Aeveth | 23 | — | Aithen | Second Green capital stay day; city and King’s Highway preparations |
 | 211 | Aeveth | 24 | — | Aiven | King’s Highway direct crossing Green→Blue capital; arrive Alchemist Blue District apartment; YELLOW ARC ENDS |
+| 212 | Aeveth | 25 | — | Ailar | Headmaster meeting at Blackstone; Alchemist sponsors Kaira's upcoming Cardsmithing enrollment, brings one rare vintage; they use a hired pulled rickshaw to travel between Blackstone and her residence. Semester has NOT begun. |
+| 213 | Aeveth | 26 | — | Aiden | Kaira and Alchemist spend time together and explore the capital; precise itinerary open. |
+| 214 | Aeveth | 27 | — | Aiveth | Continued capital exploration and time together; precise itinerary open. |
+| 215 | Aeveth | 28 | — | Ailor | Continued capital exploration and time together; precise itinerary open. |
+| 216 | Aeveth | 29 | — | Aithen | Alchemist's evening party at Blue District residence; Princess (27, already studying at Blackstone) attends by personal invitation. Alchemist introduces Princess to Kaira (23). Guests and Princess admire Kaira's original chromatic Chainmail Robe. Both women are Awakened; shared experience and aen create connection. |
+| 217 | Aeveth | 30 | — | Aiven | Princess arrives at Alchemist's residence in her own beast-drawn noble carriage, accompanied by handmaiden/small entourage. Princess and Kaira travel to Blackstone; Alchemist does NOT accompany them. Kaira, Nyx and independent Black Sprite move into Kaira's residence; Princess and handmaiden occupy adjacent residence. Both households are now moved in. Cutoff is move-in ONLY; later Day 217 activity is unapproved. |
+| 218 | Aeveth | 31 | — | Ailar | FUTURE / UNSCHEDULED: Pre-semester day; exploration/activities not assigned to a specific date. |
+| 219 | Aesith | 1 | — | Aiden | FUTURE / UNSCHEDULED: Pre-semester day; open. |
+| 220 | Aesith | 2 | — | Aiveth | FUTURE / UNSCHEDULED: Pre-semester day; open. |
+| 221 | Aesith | 3 | — | Ailor | FUTURE / UNSCHEDULED: Pre-semester day; open. |
+| 222 | Aesith | 4 | — | Aithen | FUTURE / UNSCHEDULED: Pre-semester day; open. |
+| 223 | Aesith | 5 | — | Aiven | FUTURE / UNSCHEDULED: Pre-semester day; open. |
+| 224 | Aesith | 6 | — | Ailar | FUTURE ANCHOR: Blackstone Semester I Day 1: Opening Convocation (future anchor; not yet narrated). |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

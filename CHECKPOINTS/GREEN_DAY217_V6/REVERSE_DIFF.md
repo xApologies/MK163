@@ -1,0 +1,30 @@
+# Green Day 217 v6 · reverse semantic reconciliation
+
+Baseline: `211b4222346bd9aff6511d9d9c97df4a73e4680f` (fetched main, clean working tree). Reviewed against current topic owners and historical 020/021/022 sources; work performed on `codex/green-day217-v6`. Only missing information and explicit changed decisions are integrated. Historical bytes are never rewritten.
+
+| ID | Existing / incoming conflict | Current disposition and owner |
+|---|---|---|
+| G01 | Delta 022 Headmaster-office opening, exact date OPEN | Day 212 now selected; ARC_004 and single RED_RUNNING_DAY_LEDGER extended. Rare vintage remains courtesy through acquaintance, not bribe or guaranteed admission. Procedure/dialogue/evaluation remain OPEN. |
+| G02 | Day 211 guest residence; campus move OPEN | Days 213–215 capital exploration, Day 216 party, Day 217 move-in selected. Alchemist stays behind on 217; illi and handmaiden live adjacent. ARC_004 owns full event/household detail. |
+| G03 | v5/source ledger says end of Day 217 | Latest explicit v6 cutoff controls: move-in ONLY. Six later days unscheduled; 224 future semester start. No lunch, food court, researcher encounter, unpacking-while-away scene, Sprite biology or invented dialogue. |
+| G04 | Supplied opening mislabels Nyx as Black Sprite | Existing canon and v6 agree Nyx is the male Vaeryn, independent Sprite they/them is separate. Original mistaken sentence remains source evidence only. |
+| G05 | Princess / Helkir friend unnamed | Outer author identity overlay selects lowercase illi and Elaira. Existing Princess owner retained; no duplicate Princess registry. Ages 27/23 and established Awakening distinction retained. |
+| G06 | Old guards forbid unapproved later Green detail | Superseded only for supplied author-approved dates, campus/transport/game systems and curricula. No blanket permission for missing chapters or later scenes. |
+| G07 | Violet open / possible widening instruction | No closure inferred; Green 85, Blue 123, Yellow by 62 persist. Informal illi mentorship is intended, sessions and proficiency OPEN. Existing all-rings-closed widening prerequisite remains; no Stage II or upstream edit. |
+| G08 | MK147 campus age 1,700, Wall 1,300 | Explicit current ages ~1,100 and ~800 in BLACKSTONE owner. Kingdom ~3,000 remains a working estimate. Source PDF/text unchanged. |
+| G09 | Early Gym/field/render geometry | Current four-story West/East/South Gym, no North Wing; ~20 ft/story, ~80 ft excluding roof. Field ~3/4 × 1/2 mile (~240 acres) supersedes 1 × 2/3. Map controls placement; render aesthetic does not set measurements or lower South Wing. |
+| G10 | Campus landmark source/v4 leaves Anatomy Day 18/21 conflict OPEN | Later explicit daily ledger resolves Anatomy Semester Day 18 = cumulative 241; Founders Games Day 21 = cumulative 244. Permanent Gallery distinct. Source conflict retained, not active ambiguity. |
+| G11 | Legacy Day 51 ER Foam Ball, five branches | Current Prism faculty-only Cup uses academic departments. Date/season start OPEN; do not silently map to 51. Student Prism Club/pickup is separate; Founders Games are separate. |
+| G12 | Source OPEN note says map absent | Manifest and inspected bytes include ORIGINAL_ANNOTATED_CAMPUS_MAP.jpg; stale absence claim superseded. No pixel-precise survey inferred. |
+| G13 | Nested early course maps: later semesters not approved / absent | Outer delivery plus all five author-approved semester records supplies full curricula. Keep all original metadata as creation-stage history, not current completeness status. Kaira Semester II fourth required class/time selected by the detailed timetable; proposed lighter-workshop delivery format remains OPEN. |
+| EDU-01 | Shared Semester III Quantum Field Theory I times disagree | Kaira Aiveth 11:00–13:00; illi Aiveth 13:00–15:00. Author response on 2026-11-12: **“Preserve both schedules and explicitly mark the shared-class timing OPEN”**. Both remain exact; no shared time chosen. Accepted unresolved source inconsistency, not a failed preservation check. |
+| EDU-02 | illi Semester III Aiveth notes put Helkir Chemistry I on that day; shared-study labels overlap required classes | Elaira’s own required Chemistry I is Aithen 11:00–13:00. Cross-student explanatory notes are not a second authoritative timetable. Optional social alignment cannot override required classes. No shared attendance asserted; source rows unchanged. |
+| G14 | Legacy Kira Helkir class PDF | Preserved original historical class list, not current Kaira curriculum. Current Kaira Cardsmith / illi native Genesis / Elaira Helkir own distinct complete primary schedules. |
+| G15 | Transport image captions and six-tile sheet | Five reference images retained, two marked-out selections excluded, no six-species taxonomy. Human-pulled public rickshaws distinct from privately owned noble beasts; augmentation common, not required. No automatic Princess beast identification or purchased Nyx. |
+| G16 | Full cumulative package overlaps existing canon | Existing 020/021/022 and Orange history are not copied again. Exact-byte comparison found zero already-tracked matches among the 32 new supplied files. Semantic overlap remains only inside required immutable source records; current-topic additions carry scoped changes. |
+
+## Reverse preservation gates
+
+Every prior byte of modified Markdown owners remains below its new scoped section. The ledger keeps every previous byte except insertion of thirteen rows after Day 211 and a new authority header; removing those additions recovers the baseline ledger exactly. Prior registry entries are unchanged; one source delivery is appended. No baseline file is deleted. Completed Orange/Yellow arc files, all older workshop/checkpoint trees, original images, L0/API sources and unrelated canon stay byte-identical. Banking remains **1 Red eln = 180 ahm**; Red ending remains **Green/fourth**; special Black Card retirement remains intact.
+
+[Integration and coverage](INTEGRATION_REPORT.md) · [OPENs and limits](OMISSIONS_AND_OPEN_ISSUES.md) · [Machine validation](VALIDATION.json).

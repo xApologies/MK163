@@ -1,3 +1,15 @@
+# Green v6 · scoped identity and institution names
+
+Use **illi** (exact lowercase i-l-l-i) for the Princess and **Elaira** for the Helkir friend; Kaira and Helkir remain protected. Nyx is the male Vaeryn, distinct from the independent **Black Sprite (they/them)**. Use **Blackstone Keep**, **The Gym**, **Prism**, **Blackstone Prism Cup**, and **maege lights** in active prose. “Kira,” unnamed-character metadata, “Blackstone University,” “Mage Lights” and “ER Foam Ball” remain untouched inside historical sources, not current aliases. No transport-image caption establishes an approved species name. All other protected terms remain unchanged.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [CHARACTERS_AND_EDUCATION.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md) · [PRISM_GAME_AND_CULTURE.md](../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_GAME_AND_CULTURE.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Delta 021 · protected maege glass spelling
 
 Protected terms: **Kaira** (not Kira), **Nyx** (not Nix/Nicks), **maege glass** (M-A-E-G-E; not Mage Glass, mage glass, Mageglass, and not a second material), **maege/maegi** protected practitioner words, **Brotherhood of Maegi**, **Chainmail Robe** (not rope/road), **Genesis Robe** distinct from Chainmail Robe, **vaen** (not vein/vane), **eln**, **ahm**, **aen**, **abecca** (drink, not a shop name), **Raeon**, **ELDRIS**, **Accord Registry**, **Black Sprite** (they/them), **Blackstone Keep**, **King's Highway**, **ER foam**. Retain historical mistaken text under provenance, annotate supersession; do not mutate old quotations or create synonyms.

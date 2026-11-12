@@ -1,3 +1,42 @@
+# Green Arc · approved through Day 217 move-in only
+
+**Current frontier: Day 217 move-in ONLY, not the end of Day 217.** The latest v6 cutoff controls the older v5 wording. These decisions date and extend the retained Delta 022 opening; they do not author missing dialogue or chapters.
+
+## Daily ledger / academic calendar separation
+- Day 211 (Aeveth 24, Aiven): Yellow ends upon arrival at the Alchemist's Blue District residence in the Blue Domain capital.
+- Day 212 (Aeveth 25, Ailar): Kaira and the Alchemist meet Blackstone Headmaster about upcoming Cardsmithing enrollment; Alchemist offers one rare vintage as courtesy. Travel by hired human-pulled rickshaw between Keep and residence. Semester not started.
+- Days 213–215 (Aeveth 26–28): Kaira stays with the Alchemist and explores the capital with her. Capital is ~13 x 13 miles, Red through Violet plus White districts; the Alchemist lives there by choice, enjoying mild climate and geography (San Diego-like analogy: mostly pleasant, short cool/rainy period). Specific daily destinations OPEN.
+- Day 216 (Aeveth 29, Aithen): Evening social gathering hosted by Alchemist at her Blue District residence, attended by influential friends/acquaintances and the Princess. Princess is **already in the city attending Blackstone**, is a friend of the Alchemist, and is personally invited. Alchemist smooths over and personally facilitates Princess–Kaira introduction. Kaira 23 local years; Princess 27 local years (youngest daughter of royal family, not Blue Domain governor). Both are Awakened. Their shared experience becomes initial bond; Princess has expert aen technique from royal tutors.
+- Day 217 (Aeveth 30, Aiven): Princess arrives at Alchemist's residence in her own private carriage drawn by an impressive noble-bred Genesis-expressed beast. Princess has a small entourage, including a handmaiden who normally accompanies her; entourage size, names and exact species OPEN. **The Alchemist does NOT accompany Kaira to Blackstone.** Kaira and Princess travel together and Kaira moves into student housing. Alchemist has arranged **adjacent residences** for the two girls; exact suite/apartment/building form OPEN. Nyx and independent Black Sprite remain part of Kaira's life.
+- Days 218–223 are six full pre-semester days, UNSCHEDULED at this checkpoint. Campus tours, departmental landmarks, social life, day/night atmosphere and possible informal aen practice are future directions only; no completed scene or precise visit/practice date is selected.
+- Day 224 (Aesith 6, Ailar): selected future opening of Blackstone Semester I, Day 1, Opening Convocation; the cumulative story day count never resets.
+
+## Residences and companions
+
+- Kaira: spacious apartment with study and large bathroom on the left, open-plan living room and kitchen with island in center, master bedroom on right, balcony with French doors; a proper entry/foyer must NOT open directly into the kitchen. Exact plan and door placement OPEN.
+- Princess: adjacent, larger apartment; similar spaces and an additional private bedroom for handmaiden, who attends to Princess's daily needs. Bathroom/washroom allocation and final plan OPEN.
+- Both residences are occupied by Day 217; precise campus residential district, balcony orientation and dimensions OPEN.
+- Kaira's companions Nyx and Black Sprite live with her; Sprite is independent and uses they/them.
+
+The Princess is **illi** (exact lowercase), already a Blackstone student. Her handmaiden is a personal attendant, not a student. The Alchemist arranged adjacent residences. A storage bracelet for the handmaiden is discussed only: mechanics and use in a final scene remain OPEN. Nyx is the male Vaeryn companion; the independent young **Black Sprite (they/them)** is a separate being. Nyx and Sprite ordinarily accompany Kaira; illi is fascinated by both and by Kaira’s original Chainmail Robe.
+
+## Unapproved continuation
+
+- An afternoon meal at a casual Grand Archives food court and a passing Green Realm biology researcher noticing the Black Sprite have been proposed and discussed, NOT author-approved as a final scene. Do not insert into Day 217 ledger or write as established narrative.
+- The researcher's identity, name, dialogue, sprite biology, humanoid form, sprite name, and findings remain OPEN.
+- The handmaiden staying behind to unpack while the girls go to eat is part of the UNAPPROVED lunch scene; do not lock as an event.
+- Nyx and Sprite ordinarily accompany Kaira, and the Princess is fascinated by both; professors' possible interest is a future narrative direction, not a specific approved encounter.
+
+The six-day interval and campus infrastructure calendar are not completed story events. Semester Day 18 Anatomical Exhibition = cumulative Day 241; Semester Day 21 Founders Games = cumulative Day 244. Founders Games use the Gym/Prism Field for obstacle and relay races; augmenter wrestling remains optional. [Full Semester I source and reconciliation](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_SEMESTER_I_CALENDAR.md) · [Single running story ledger](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md) · [GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md) · [GREEN_ARC_DAILY_LEDGER_DAY_211_224.md](../../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAILY_LEDGER_DAY_211_224.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Green opening · current author authority, Delta 022
 
 The selected setup below adds the Headmaster's-office opening only. It supersedes the earlier no-new-Green-opening guard in this limited scope; it does not add subsequent scenes, chapter counts, a fixed date or an admission result. The earlier academic and royal outline remains future development.

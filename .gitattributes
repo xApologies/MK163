@@ -82,3 +82,6 @@ PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/** -text -whitespace
 
 # Preserve original small Delta 022 handoff bytes.
 PROVENANCE/WORKSHOP/GREEN_OPENING_022/** -text -whitespace
+
+# Exact supplied Green Day 217 v6 source bytes
+PROVENANCE/WORKSHOP/GREEN_DAY217_V6/** -text -whitespace

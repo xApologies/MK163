@@ -1,0 +1,519 @@
+{
+  "status": "PASS_WITH_AUTHOR_ACCEPTED_OPEN",
+  "baseline": "211b4222346bd9aff6511d9d9c97df4a73e4680f",
+  "source_outer_files": 32,
+  "outer_manifest_hashes": 31,
+  "nested_members": 23,
+  "nested_manifest_hashes": 20,
+  "semesters": 15,
+  "daily_patterns": 90,
+  "required_course_sessions": 46,
+  "daily_ledger_rows": 225,
+  "added": [
+    "CHECKPOINTS/GREEN_DAY217_V6/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_DAY217_V6/OMISSIONS_AND_OPEN_ISSUES.md",
+    "CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md",
+    "CHECKPOINTS/GREEN_DAY217_V6/VALIDATION.json",
+    "CHECKPOINTS/GREEN_DAY217_V6/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHECKPOINT_V5_DAY_217_MOVE_IN.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_COVERAGE_AUDIT.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAILY_LEDGER_DAY_211_224.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_DAYS_212_224_RELATIONSHIPS_AND_CAMPUS.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GREEN_ARC_OPENING_AND_STORY.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GYM_ARCHITECTURE.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/OPEN_ITEMS.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_FIELD_ARCHITECTURE.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_GAME_AND_CULTURE.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/SOURCE_AUTHORITY_AND_OPEN_CONFLICTS_v4.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/URBAN_TRANSPORT_AND_LIVERY.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/README.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/Class Schedule - Kira.pdf",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/MASTER_schedule.pdf",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/MK147_BLACKSTONE_ARC4_CAMPUS_CANON_EXTRACTED.txt",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/MK147_BLACKSTONE_ARC4_CAMPUS_CANON_MASTER_3.pdf",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/ORIGINAL_ANNOTATED_CAMPUS_MAP.jpg",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/EDUCATION/Elaira.zip",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/EDUCATION/Kaira.zip",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/EDUCATION/illi.zip",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/TRANSPORT/AGRICULTURAL_IMG_9893.PNG",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/TRANSPORT/CARAVAN_IMG_8425.PNG",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/TRANSPORT/NOBLE_LARGE_IMG_3468.PNG",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/TRANSPORT/NOBLE_SMALL_A0F3FF4A.PNG",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/TRANSPORT/SELECTION_SHEET_CROSSED_OUT_E071D7F7.PNG",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY217_V6/executable.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/ILLI_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_SEMESTER_I_CALENDAR.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONSTITUTIONS/07_NAMING_CONVENTIONS.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+  ],
+  "deleted": [],
+  "counts": {
+    "added": 42,
+    "modified": 16,
+    "deleted": 0,
+    "baseline_files_unchanged": 767
+  },
+  "accepted_open": {
+    "EDU-01": {
+      "3:Quantum Field Theory I": [
+        [
+          "Kaira",
+          3,
+          11,
+          13
+        ],
+        [
+          "illi",
+          3,
+          13,
+          15
+        ]
+      ]
+    }
+  },
+  "checks": [
+    {
+      "check": "31 declared outer hashes and sizes",
+      "pass": true
+    },
+    {
+      "check": "all 32 supplied source files unchanged",
+      "pass": true
+    },
+    {
+      "check": "source directory contains no extra extracted duplicate tree",
+      "pass": true
+    },
+    {
+      "check": "Kaira ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "Kaira nested manifest coverage and hashes",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_FIVE_SEMESTER_COURSE_MAP.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_01.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_02.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_03.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_04.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Kaira/CARDSMITH_SEMESTER_05.md required course count",
+      "pass": true
+    },
+    {
+      "check": "illi ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "illi nested manifest coverage and hashes",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_FIVE_SEMESTER_COURSE_MAP.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_01.md required course count",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_02.md required course count",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_03.md required course count",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_04.md required course count",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "illi/PRINCESS_SEMESTER_05.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Elaira ZIP integrity",
+      "pass": true
+    },
+    {
+      "check": "Elaira nested manifest coverage and hashes",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_01.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_02.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_03.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_04.md required course count",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md complete original body",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md six continuous 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md protected rest day",
+      "pass": true
+    },
+    {
+      "check": "Elaira/HELKIR_SEMESTER_05.md required course count",
+      "pass": true
+    },
+    {
+      "check": "15 semesters, 90 daily patterns, 23 nested members and 20 declared inner hashes",
+      "pass": true
+    },
+    {
+      "check": "only known required same-semester class timing mismatch",
+      "pass": true
+    },
+    {
+      "check": "EDU-01 author decision recorded without retiming",
+      "pass": true
+    },
+    {
+      "check": "single 225-row dated ledger 0 through 224",
+      "pass": true
+    },
+    {
+      "check": "225 dates/weekday labels match unchanged 353-day calendar",
+      "pass": true
+    },
+    {
+      "check": "frontier and future labels",
+      "pass": true
+    },
+    {
+      "check": "all earlier ledger bytes and intervals preserved",
+      "pass": true
+    },
+    {
+      "check": "semester anchors 224/241/244",
+      "pass": true
+    },
+    {
+      "check": "only declared added/modified files",
+      "pass": true
+    },
+    {
+      "check": "prior attributes preserved",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_004/ARC.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "CONSTITUTIONS/07_NAMING_CONVENTIONS.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "registry previous entries unchanged",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/ROADS_WILDS_AND_SECURITY.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md previous body retained",
+      "pass": true
+    },
+    {
+      "check": "no baseline files deleted",
+      "pass": true
+    },
+    {
+      "check": "no inbox or inherited or completed arc changes",
+      "pass": true
+    },
+    {
+      "check": "no inbox tracked",
+      "pass": true
+    },
+    {
+      "check": "whitespace clean",
+      "pass": true
+    },
+    {
+      "check": "new local Markdown links resolve: []",
+      "pass": true
+    },
+    {
+      "check": "existing repository structural validator",
+      "pass": true
+    }
+  ],
+  "repository_structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "limitations": "Mechanical integrity is not a claim of literal transcript completeness or future scene attendance; see omissions report."
+}

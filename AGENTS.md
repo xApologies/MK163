@@ -1,3 +1,15 @@
+# Current Green checkpoint · Day 217 v6
+
+Read [the scoped supersessions](CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) and [the single running day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md). Narrative frontier is **Day 217 move-in only**, not end of day. Days 218–223 unscheduled; Semester I future start Day 224. Kaira 23, illi 27; Elaira is the Helkir friend. Nyx is male Vaeryn, separate from Sprite they/them. Alchemist stays behind; handmaiden is not a student. Violet remains OPEN. Grand Archives lunch/researcher encounter is unapproved. Preserve both QFT I schedules with their shared-class time OPEN (author instruction). Blackstone age ~1,100, Wall ~800; four-story three-wing Gym open north; Prism faculty Cup is departmental, student club separate. No completed Orange/Yellow rewrite or inherited repository edits. All detailed curricula and original PDFs, images and student ZIPs remain preserved.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
 # Current Green opening · Delta 022
 
 Read [the selected Headmaster-office setup](BOOKS/RED/ARCS/ARC_004/ARC.md) and [022 receipt](CHECKPOINTS/GREEN_OPENING_022/INTEGRATION_REPORT.md). Green begins after Day 211; Day 212, admission outcome and campus move are not fixed. The Alchemist brings one bottle of her rare wine as a courtesy, not a guaranteed-admission bribe; the Headmaster remains unnamed. She has taken Genesis potions, never an Awakening potion, and is not Awakened. The two potion routes are mutually exclusive; mechanism, effects, dose and timing OPEN.
