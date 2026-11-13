@@ -1,3 +1,17 @@
+# Blackstone curriculum v5 · teaching limits
+
+No new required-schedule conflict: all 736 student-class entries agree with existing owners; EDU-01 and EDU-02 remain RESOLVED.
+
+OPEN: intended topology brace formatting, lesson-specific conventional worked examples/solutions and prerequisite support, actual student preparation/attendance/mastery, detailed practical outcomes, unverified individual Astrius/Vera volumes. Separate predecessor v3/v4 daily files and a claimed original v8 daily ledger are not supplied; they are not fabricated or claimed recovered. Complete supplied v5 coverage is verified. The split First fold/Cradle titles are resolved by adjacent source review text and FORMAL/39, with originals retained. [Detailed dispositions](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) · [Exact source discrepancies](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/SOURCE_DISCREPANCIES.json).
+
+Earlier narrative OPEN items and all other canon remain in force. No course is a completed story event.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # v8 · selected continuation and remaining OPENs
 
 RESOLVED in scope: Day 167 includes the existing unicorn’s Black Prophecy discussion; Day 217 lunch/professor/telepathy/offer/bookstore and handmaiden unpacking/bracelet use are now selected; narrative advances to end of Day 217. EDU-01/EDU-02 remain resolved under v7.

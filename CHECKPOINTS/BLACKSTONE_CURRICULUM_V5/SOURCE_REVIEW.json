@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-13",
+  "bricked": {
+    "commit": "c89676fc26000ae6f5fdad66a56e118b285d9b1d",
+    "branch": "bootstrap/canonical-architecture",
+    "live_ref_rechecked": true,
+    "method": "Re-read 18 FORMAL chapters and dependency spine from exact SHA-256/Git-blob verified prior cache; current remote ref unchanged",
+    "files": [
+      {
+        "path": "genesis_mathematics/v3.0/APPENDICES/MATHEMATICS_ONLY_DEPENDENCY_SPINE.md",
+        "git_blob_sha": "a524cd6b48d363b6347ab964410250779a18baa2",
+        "kind": "blob",
+        "sha256": "0b7c849dcec09de9bc7893be19ea377d1632484b6b4bd3a2caf9c11f0650c161",
+        "bytes": 853,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/APPENDICES/MATHEMATICS_ONLY_DEPENDENCY_SPINE.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/39_PRIME_ZERO_CRADLE_AND_CHIRALITY_SEED.md",
+        "git_blob_sha": "4ae3727cfa97462f49d4f5b857d31258363d877e",
+        "kind": "blob",
+        "sha256": "a2a44aa15813fa6fe9af726b0a8b67ea9e273a70fc69cf653d0282442d254744",
+        "bytes": 1279,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/39_PRIME_ZERO_CRADLE_AND_CHIRALITY_SEED.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/40_EXISTENCE_AS_DOMAIN_RELATIVE_STRUCTURE.md",
+        "git_blob_sha": "4dcaeb69e9a38ea6cbea42403802313aaf734325",
+        "kind": "blob",
+        "sha256": "6ab1a40b8e64cfff228c351f67914ce7179dfe37050513630800c1d65c1788ce",
+        "bytes": 1138,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/40_EXISTENCE_AS_DOMAIN_RELATIVE_STRUCTURE.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/41_RAINBOW_STRUCTURAL_BASINS.md",
+        "git_blob_sha": "0f4f392965c34ee04b5655b914e968df98b2b545",
+        "kind": "blob",
+        "sha256": "b0cdcc14bb030f62c2c561d7f17bf53538eb38dd35ef05effef9c4eb4a138cad",
+        "bytes": 1116,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/41_RAINBOW_STRUCTURAL_BASINS.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/42_WHITE_CARRIER_AND_MOBIUS_REORIENTATION.md",
+        "git_blob_sha": "26de43a54217346dacae5cba51bbdbf449135f7f",
+        "kind": "blob",
+        "sha256": "737ed332d57028d577cacc895f8372f7cc32d1176c871c6a904c8a2b50d6fa53",
+        "bytes": 927,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/42_WHITE_CARRIER_AND_MOBIUS_REORIENTATION.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/43_COMPLEX_ADMISSION_RIEMANN_AND_HOPF_GEOMETRY.md",
+        "git_blob_sha": "a26ed493024964cfb4448bee8682e7ca6812b07c",
+        "kind": "blob",
+        "sha256": "7c4bfc280690611bdf2c809764808c1dd82bdded028920130b1471d67abb3a34",
+        "bytes": 875,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/43_COMPLEX_ADMISSION_RIEMANN_AND_HOPF_GEOMETRY.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/44_HISTORY_PROVENANCE_AND_IDENTITY.md",
+        "git_blob_sha": "78cf2256108d88b7cbdd601eae6d9e692535b219",
+        "kind": "blob",
+        "sha256": "1845c3d8c91e77636ec6b3e5de1ad971b89d44bbacf83d659f30f18338a0f640",
+        "bytes": 665,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/44_HISTORY_PROVENANCE_AND_IDENTITY.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/45_PERSISTENCE_AS_RECOVERABLE_SELF_RETURN.md",
+        "git_blob_sha": "878bd401fdce53b51acc6ad2886f32131951dfed",
+        "kind": "blob",
+        "sha256": "6c12ea8264bf9f81fff61409d8e5b1fd9d44be1925babbfd773a22b1a9fbeee4",
+        "bytes": 717,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/45_PERSISTENCE_AS_RECOVERABLE_SELF_RETURN.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/46_BANDWIDTH_AS_AVAILABLE_ORGANIZATIONAL_FREEDOM.md",
+        "git_blob_sha": "57f994dde4cd7f77c95ff67825ef137aeb13fe39",
+        "kind": "blob",
+        "sha256": "62a8a73c89c4380e0014122fff06e6f378bb94b2f46abbe45612835a120bd62e",
+        "bytes": 703,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/46_BANDWIDTH_AS_AVAILABLE_ORGANIZATIONAL_FREEDOM.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/47_RAINBOW_ROAD_INFORMATION_TRANSPORT.md",
+        "git_blob_sha": "00776e90e4ab5f8f73d02f6d9f1bf5e627f60f97",
+        "kind": "blob",
+        "sha256": "1718e5bbc119b0672876ceb793e8520941db42ef0e9c0bd4c48d043b78176916",
+        "bytes": 891,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/47_RAINBOW_ROAD_INFORMATION_TRANSPORT.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/48_RESOLUTION_NETWORK_AND_RELATIONAL_DEPTH.md",
+        "git_blob_sha": "d7f8d6ece35bbd4d0b58532bdc1cbe86ae485045",
+        "kind": "blob",
+        "sha256": "2d7b1028b0ffe6c4fe37bb649803da1c80bb27c5e3655cc45fc1c136adca33dc",
+        "bytes": 727,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/48_RESOLUTION_NETWORK_AND_RELATIONAL_DEPTH.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/49_TORUS_AS_SHARED_RESOLUTION_GEOMETRY.md",
+        "git_blob_sha": "b991df4f5bb08cfd0e702f50da13384cab259c2b",
+        "kind": "blob",
+        "sha256": "c58c9a8bafd03d949b6d05a32d8a2f8ec3de51872653b31a8a65382663741366",
+        "bytes": 932,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/49_TORUS_AS_SHARED_RESOLUTION_GEOMETRY.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/50_FINITE_INVARIANT_NO_GO.md",
+        "git_blob_sha": "e20a5e30ca05e79b1b638e5c91f836361c639d64",
+        "kind": "blob",
+        "sha256": "1d1f1bd7396a297f644c0d3295e04b72b6015cc51cf123fdf4bbdabd0d39a61c",
+        "bytes": 708,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/50_FINITE_INVARIANT_NO_GO.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/51_PROJECTION_SEED_LIFT_AND_PREIMAGE.md",
+        "git_blob_sha": "19533d43076521831f6830143db590d068bb6c7f",
+        "kind": "blob",
+        "sha256": "c65dfaa27bb4542df62a70d554a9fbd2c765417fcdde3ad85a9e1071fa6b0290",
+        "bytes": 562,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/51_PROJECTION_SEED_LIFT_AND_PREIMAGE.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/52_CONNECTION_AND_LIFT_SELECTION.md",
+        "git_blob_sha": "7e7a309d1c41424847a59cd9a4bf37f7501e794b",
+        "kind": "blob",
+        "sha256": "545eff6debc089fb591a88f9d73e538edfacae067e418219e77597e0fbaf0a11",
+        "bytes": 625,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/52_CONNECTION_AND_LIFT_SELECTION.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/53_CHIRALITY_AS_ORDERED_GEOMETRY.md",
+        "git_blob_sha": "ce87dac949877e48a80e9860cad3d0a0330e184a",
+        "kind": "blob",
+        "sha256": "ea3eec9fedd4e890ef744c99d4338f234d33869e17593d3b61733c653f9b3ce4",
+        "bytes": 895,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/53_CHIRALITY_AS_ORDERED_GEOMETRY.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/54_AUTOMORPHISM_RANK_AND_SU_N_READINESS.md",
+        "git_blob_sha": "7ab470d4331db0b9f094ec0824b8983089399a80",
+        "kind": "blob",
+        "sha256": "07e4048600918d5bef362e696313d46e64bbdb2d2406ea6f7c8c0c4b35ce43dc",
+        "bytes": 1209,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/54_AUTOMORPHISM_RANK_AND_SU_N_READINESS.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/55_GROUP_EMERGENCE_THRESHOLD.md",
+        "git_blob_sha": "f8ce32da80e2970fb136ad0740f76ae76fe7f419",
+        "kind": "blob",
+        "sha256": "4e0478996a52b88d75dc8d530faf9d721c4dfa4f2bb165f1a04e1f2e8dee6ec5",
+        "bytes": 724,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/55_GROUP_EMERGENCE_THRESHOLD.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      },
+      {
+        "path": "genesis_mathematics/v3.0/FORMAL/56_NATURAL_LAW_CUTOFF.md",
+        "git_blob_sha": "6036aa3ae0959dcfa89cd252477fb8505e99dc4d",
+        "kind": "blob",
+        "sha256": "344c7cd498fb46d4a25418969b591f94698951afcbd424b80662dc6c1981ac65",
+        "bytes": 918,
+        "url": "https://github.com/xApologies/_bricked/blob/c89676fc26000ae6f5fdad66a56e118b285d9b1d/genesis_mathematics/v3.0/FORMAL/56_NATURAL_LAW_CUTOFF.md",
+        "review": "Complete document text inspected; source status preserved, not an independent mathematical proof audit"
+      }
+    ]
+  },
+  "AERA": {
+    "commit": "42437950ad2aa72ad885ff1a9129226da23d9286",
+    "branch": "main",
+    "live_ref_rechecked": true,
+    "method": "Fresh GitHub connector reads at pinned revision; each UTF-8 response verified against its Git blob SHA-1",
+    "files": [
+      {
+        "path": "L1/TRANSDUCTION_LIFECYCLE.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L1/TRANSDUCTION_LIFECYCLE.md",
+        "git_blob_sha": "1bb2c6d7e35428993e19750d6e4c197cdbb7b89d",
+        "sha256": "698b843c630a107e19cd0fdd6671062420d6e9345174b9231606540807d85876",
+        "bytes": 3325
+      },
+      {
+        "path": "L1/INTERFACES/00_READ_FIRST.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L1/INTERFACES/00_READ_FIRST.md",
+        "git_blob_sha": "1cbe18568db67afec92a17fd2504ab676b571dd5",
+        "sha256": "85ceadec827d56c865b9faa7970a20abe2d2ea8d1fb3d6c84bf8a24aefa2b0a0",
+        "bytes": 1467
+      },
+      {
+        "path": "L1/INTERFACES/01_NATIVE_NEUROGENESIS.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L1/INTERFACES/01_NATIVE_NEUROGENESIS.md",
+        "git_blob_sha": "6e38de465e08917367c504d876aaecf461dcb26c",
+        "sha256": "6dcb32daa2dc3e595f69a74f2fd5fdf75942f07dc5af80efab400b8587303047",
+        "bytes": 3443
+      },
+      {
+        "path": "L1/INTERFACES/02_BINDING_CIRCLES.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L1/INTERFACES/02_BINDING_CIRCLES.md",
+        "git_blob_sha": "71287d73f2c9579284e638c6da9fcbb60b6ab7f3",
+        "sha256": "8c1bc03aa271635c0e6720e10b168bd90136182934bc7ed74330b51d879d9ec7",
+        "bytes": 2121
+      },
+      {
+        "path": "L1/INTERFACES/03_GENESIS_CARDS.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L1/INTERFACES/03_GENESIS_CARDS.md",
+        "git_blob_sha": "d814559ef12395ae31e6600f94c163ea1b8ed409",
+        "sha256": "974d50544aa1b477759a37a042dc171842ccb5bb4f9bf671bdf045dfa848ae82",
+        "bytes": 3348
+      }
+    ]
+  },
+  "prior_fuller_inventory_audit": "CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.json",
+  "source_repositories_modified": false,
+  "source_corpora_copied": false
+}

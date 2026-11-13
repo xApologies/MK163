@@ -1,3 +1,17 @@
+# Current Blackstone teaching expansion · v5
+
+Read [the v5 teaching entry point](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md), [source corrections and limitations](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) and [the integration audit](CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md). All calendars are **PROPOSED teaching plans**. Existing KAIRA/ILLI/ELAIRA_PRIMARY owners still govern schedules; EDU-01/02 remain RESOLVED. Preserve all fifteen full semester records, Kaira Semester II Ailor 15:00–17:00 Sigil Architecture and protected Aiven rest. Semester-local days are not new story dates; frontier remains end of Day 217.
+
+Keep all source bytes, explicit title-split corrections, topology ambiguity, readiness limits and v4/v5 source distinctions. Do not invent textbook/volume citations, completed experiments or mastery. Mathematical assumptions, SU(n) proof limits, six-stage operations, Card exclusivity and retirement remain. No Orange/Yellow rewrite or inherited repository edits. Use lowercase illi and aen in active prose.
+
+Blackstone curriculum v5 · 2026-11-13.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # Current Green v8 · end of Day 217 and proposed syllabus
 
 Read [v8 scoped decisions](CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) and [pinned source verification](CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md). Day 166 initiates the Black Prophecy trajectory; Day 167 existing unicorn consultation adds its tentative discussion. v8 now selects the Day 217 Grand Archives meal, mature Green Sprite professor/telepathy, agency-respecting mentorship offer, handmaiden unpacking with bracelet and bookstore return. Frontier is **end of Day 217**; older move-in-only/lunch-unapproved guards are historical only in this scope. No dialogue/names, omniscience, completed lessons or solitary biological transformation is invented. One-month humanoid development remains a target/mechanism OPEN. Days 218–223 unassigned; Day 224 future plan only.

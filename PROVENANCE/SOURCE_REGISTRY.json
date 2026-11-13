@@ -361,6 +361,24 @@
       "current_manifest_hashes": 40,
       "scope": "Scoped Day 167 and Day 217 narrative updates plus proposed Genesis syllabus",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_BLACKSTONE_CURRICULUM_V5",
+      "date": "2026-11-13",
+      "physical_filename": "MK163_BLACKSTONE_ALL_GIRLS_FULL_FIVE_SEMESTER_CURRICULUM_CODEX_v5.zip",
+      "baseline": "238ba655afccfb3fd9e8c1e3065f7c1917c19934",
+      "archive_sha256": "f8c78e84376baf51a6f7144eb0de22b295edd2b48ae800507ea4fb1560003465",
+      "source_map": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md",
+      "reverse_diff": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/REVERSE_DIFF.md",
+      "validation": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/VALIDATION.json",
+      "teaching_directory": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md",
+      "members": 12,
+      "new_source_members": 11,
+      "reused_members": 1,
+      "declared_hashes": 11,
+      "scope": "Complete supplied proposed teaching calendars and syllabus; existing timetables and narrative unchanged",
+      "literal_transcript_complete": false
     }
   ]
 }

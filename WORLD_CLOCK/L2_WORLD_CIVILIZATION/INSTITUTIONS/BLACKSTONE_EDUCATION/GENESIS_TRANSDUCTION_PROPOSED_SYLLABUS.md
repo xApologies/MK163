@@ -1,3 +1,13 @@
+# Expanded teaching detail · all-subject v5
+
+[Complete versioned teaching plans](TEACHING/V5/README.md) now provide the proposed daily detail and all-course weekly syllabus. This earlier v8 Genesis outline remains preserved in full as their antecedent; its source and proof-status boundaries continue. The v5 lesson allocation is proposed, not a timetable replacement or a completed narrative. [Read the scoped corrections and limitations](TEACHING/V5/READING_NOTES.md). No required hours, sections or disciplinary enrollments change.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # Proposed Genesis/Transduction syllabus · v8 working authority
 
 **PROPOSED teaching sequence, not newly locked instruction or a timetable replacement.** Preserve the fifteen detailed semester records, all required course names/enrollment/times, the 96-day semester and v7 EDU-01/EDU-02 resolution. This owner retains the supplied syllabus in full below; ordinary biology, chemistry, anatomy, geometry, topology and QFT retain their disciplinary curricula.

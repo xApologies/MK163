@@ -1,3 +1,15 @@
+# All-subject teaching expansion · v5
+
+[The complete v5 teaching directory](TEACHING/V5/README.md) adds proposed daily lessons for all five semesters and conventional subjects. The full timetable and course-map records below remain the canonical scheduling authority. **EDU-01 RESOLVED; EDU-02 RESOLVED.** No class, personal routine, enrollment or optional-study time changes. Read [the source corrections and readiness limitations](TEACHING/V5/READING_NOTES.md) before using the calendars. Lessons are plans, not evidence of attendance, comprehension or ability; the narrative frontier remains end of Day 217.
+
+Integrated 2026-11-13. [Integration audit](../../../../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md).
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # v8 · proposed subject syllabus reference
 
 [Full five-semester Genesis/Transduction working syllabus](GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md) adds proposed subject organization only. All original course maps, fifteen detailed semester records, 90 daily patterns and enrollment/class times remain unchanged. EDU-01 and EDU-02 remain **RESOLVED** under v7. Conventional disciplinary courses are not replaced; no extra required lecture or Helkir course is invented. Story chronology advances only through Day 217; the Day 224 morning is future scene planning.

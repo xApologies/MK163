@@ -1,0 +1,2754 @@
+{
+  "status": "Nonblocking proposed-source differences explicitly retained; no scheduling conflict",
+  "v4_outline_comparison": {
+    "count": 70,
+    "disposition": "Preserve v4 outline and all source anchors; use detailed v5 course-specific allocation as proposed. No historical v4 daily calendars available for predecessor byte comparison.",
+    "records": [
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 4,
+        "week": 1,
+        "course": "Introduction to Sigil Architecture",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 13,
+        "week": 3,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 49,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Draw a 6×6 ordered address table; compare winding count with route words.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 22,
+        "week": 4,
+        "course": "Introduction to Sigil Architecture",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 29,
+        "week": 5,
+        "course": "Cardsmithing Fundamentals II",
+        "v4_outline_chapter": 46,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 53,
+        "week": 9,
+        "course": "Cardsmithing Fundamentals II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 59,
+        "week": 10,
+        "course": "Cardsmithing Fundamentals II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 45,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Give one reversible and one irreversible directed transformation graph.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 50,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Map 7 distinct histories into 3 labels; demonstrate a collision by pigeonhole.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 35,
+        "week": 6,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 51,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 71,
+        "week": 12,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 77,
+        "week": 13,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 17,
+        "week": 3,
+        "course": "Binding Circle Fundamentals",
+        "v4_outline_chapter": 53,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Compare a path and its reversed ordered path; specify when a reversal is admissible.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 27,
+        "week": 5,
+        "course": "Transduction Theory II",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 63,
+        "week": 11,
+        "course": "Transduction Theory II",
+        "v4_outline_chapter": 55,
+        "v5_seminar_chapter": 44,
+        "v4_example": "Compare partial reversible arrows with a closed group of total bijections.",
+        "v5_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 65,
+        "week": 11,
+        "course": "Binding Circle Fundamentals",
+        "v4_outline_chapter": 55,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compare partial reversible arrows with a closed group of total bijections.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 1,
+        "week": 1,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 7,
+        "week": 2,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 46,
+        "v5_seminar_chapter": 44,
+        "v4_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c.",
+        "v5_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 13,
+        "week": 3,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 45,
+        "v5_seminar_chapter": 53,
+        "v4_example": "Give one reversible and one irreversible directed transformation graph.",
+        "v5_example": "Compare a path and its reversed ordered path; specify when a reversal is admissible."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 39,
+        "week": 7,
+        "course": "Cardsmithing Architecture I",
+        "v4_outline_chapter": 55,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Compare partial reversible arrows with a closed group of total bijections.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 59,
+        "week": 10,
+        "course": "Cardsmithing Laboratory II",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 61,
+        "week": 11,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 63,
+        "week": 11,
+        "course": "Cardsmithing Architecture I",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 41,
+        "week": 7,
+        "course": "Native Genesis Control I",
+        "v4_outline_chapter": 40,
+        "v5_seminar_chapter": 41,
+        "v4_example": "Specify two domains with different admission rules and test the same candidate x.",
+        "v5_example": "Assign six symbolic addresses to a partition, then show that an address is not a full state."
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 83,
+        "week": 14,
+        "course": "Native Genesis Control I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 13,
+        "week": 3,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 49,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Draw a 6×6 ordered address table; compare winding count with route words.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 53,
+        "week": 9,
+        "course": "Native Genesis Control II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 45,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Give one reversible and one irreversible directed transformation graph.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 50,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Map 7 distinct histories into 3 labels; demonstrate a collision by pigeonhole.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 35,
+        "week": 6,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 51,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 71,
+        "week": 12,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 77,
+        "week": 13,
+        "course": "Transduction Theory I",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 27,
+        "week": 5,
+        "course": "Transduction Theory II",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 41,
+        "week": 7,
+        "course": "Native Genesis Control III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 63,
+        "week": 11,
+        "course": "Transduction Theory II",
+        "v4_outline_chapter": 55,
+        "v5_seminar_chapter": 44,
+        "v4_example": "Compare partial reversible arrows with a closed group of total bijections.",
+        "v5_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories."
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 65,
+        "week": 11,
+        "course": "Native Genesis Control III",
+        "v4_outline_chapter": 55,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compare partial reversible arrows with a closed group of total bijections.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 1,
+        "week": 1,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 7,
+        "week": 2,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 46,
+        "v5_seminar_chapter": 44,
+        "v4_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c.",
+        "v5_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories."
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 13,
+        "week": 3,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 45,
+        "v5_seminar_chapter": 53,
+        "v4_example": "Give one reversible and one irreversible directed transformation graph.",
+        "v5_example": "Compare a path and its reversed ordered path; specify when a reversal is admissible."
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 59,
+        "week": 10,
+        "course": "Native Genesis Laboratory I",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 61,
+        "week": 11,
+        "course": "Applied Transduction Systems",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 43,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Compare a complex coordinate and its compactified representation; record construction ancestry.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "v4_outline_chapter": 48,
+        "v5_seminar_chapter": 39,
+        "v4_example": "Split one coarse equivalence class into two finer classes; count distinctions.",
+        "v5_example": "Compare ordered pairs (a,b) and (b,a); ask what equality rule would identify them."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 13,
+        "week": 3,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 49,
+        "v5_seminar_chapter": 48,
+        "v4_example": "Draw a 6×6 ordered address table; compare winding count with route words.",
+        "v5_example": "Split one coarse equivalence class into two finer classes; count distinctions."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 44,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Construct paths A→B→C and A→D→C; same endpoint, distinct ordered histories.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 45,
+        "v5_seminar_chapter": 46,
+        "v4_example": "Give one reversible and one irreversible directed transformation graph.",
+        "v5_example": "Start with allowed moves {a,b,c}; filter to {a,c}; show filtering does not select between a and c."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 79,
+        "week": 14,
+        "course": "Genesis Field Theory II",
+        "v4_outline_chapter": 50,
+        "v5_seminar_chapter": 45,
+        "v4_example": "Map 7 distinct histories into 3 labels; demonstrate a collision by pigeonhole.",
+        "v5_example": "Give one reversible and one irreversible directed transformation graph."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 47,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Compose two admissible route words and compare order and endpoints.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory III",
+        "v4_outline_chapter": 52,
+        "v5_seminar_chapter": 51,
+        "v4_example": "Use candidates {a,b,c}; filter to {a,c}; choose a; require a witness before completion.",
+        "v5_example": "Let X={a,b,c}, Y={u}; all project to u; impose a condition leaving {a,c}."
+      }
+    ]
+  },
+  "different_primary_and_seminar_anchors": {
+    "count": 215,
+    "disposition": "Both references retained, complementary teaching proposals within one 120-minute meeting; neither proves operations.",
+    "records": [
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 5,
+        "week": 1,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 11,
+        "week": 2,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 17,
+        "week": 3,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 23,
+        "week": 4,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 29,
+        "week": 5,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 31,
+        "week": 6,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 35,
+        "week": 6,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 47,
+        "week": 8,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 59,
+        "week": 10,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 41
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 65,
+        "week": 11,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 39,
+        "seminar_chapter": 42
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 71,
+        "week": 12,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 42
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 77,
+        "week": 13,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 39,
+        "seminar_chapter": 43
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 83,
+        "week": 14,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 52,
+        "seminar_chapter": 43
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 41,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 89,
+        "week": 15,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 1,
+        "day": 95,
+        "week": 16,
+        "course": "Cardsmithing Fundamentals I",
+        "primary_chapter": 51,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 5,
+        "week": 1,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 51,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 10,
+        "week": 2,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 11,
+        "week": 2,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 46,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 16,
+        "week": 3,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 39,
+        "seminar_chapter": 49
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 17,
+        "week": 3,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 46,
+        "seminar_chapter": 49
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 23,
+        "week": 4,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 46,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 28,
+        "week": 5,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 39,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 46,
+        "week": 8,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 39,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 47,
+        "week": 8,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 51,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 52,
+        "week": 9,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 58,
+        "week": 10,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 46,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 61,
+        "week": 11,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 44,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 65,
+        "week": 11,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 44,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 48,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 76,
+        "week": 13,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 46,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 77,
+        "week": 13,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 51,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 82,
+        "week": 14,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 39,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 83,
+        "week": 14,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 44,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 88,
+        "week": 15,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 46,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 89,
+        "week": 15,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 51,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 46,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 94,
+        "week": 16,
+        "course": "Introduction to Sigil Architecture",
+        "primary_chapter": 52,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 2,
+        "day": 95,
+        "week": 16,
+        "course": "Cardsmithing Fundamentals II",
+        "primary_chapter": 46,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 17,
+        "week": 3,
+        "course": "Transduction Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 29,
+        "week": 5,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 41,
+        "week": 7,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 47,
+        "week": 8,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 53,
+        "week": 9,
+        "course": "Transduction Theory I",
+        "primary_chapter": 48,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 59,
+        "week": 10,
+        "course": "Transduction Theory I",
+        "primary_chapter": 52,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 65,
+        "week": 11,
+        "course": "Transduction Theory I",
+        "primary_chapter": 48,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 55,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 83,
+        "week": 14,
+        "course": "Transduction Theory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 89,
+        "week": 15,
+        "course": "Transduction Theory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 51,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 3,
+        "day": 95,
+        "week": 16,
+        "course": "Transduction Theory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 11,
+        "week": 2,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 51,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 27,
+        "week": 5,
+        "course": "Transduction Theory II",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 29,
+        "week": 5,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 39,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 33,
+        "week": 6,
+        "course": "Transduction Theory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 41,
+        "week": 7,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 51,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 47,
+        "week": 8,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 53,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 51,
+        "week": 9,
+        "course": "Transduction Theory II",
+        "primary_chapter": 55,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 53,
+        "week": 9,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 51,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 59,
+        "week": 10,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 52,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 63,
+        "week": 11,
+        "course": "Transduction Theory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 71,
+        "week": 12,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 52,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 75,
+        "week": 13,
+        "course": "Transduction Theory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 77,
+        "week": 13,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 51,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 81,
+        "week": 14,
+        "course": "Transduction Theory II",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 83,
+        "week": 14,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 45,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 87,
+        "week": 15,
+        "course": "Transduction Theory II",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 89,
+        "week": 15,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 93,
+        "week": 16,
+        "course": "Transduction Theory II",
+        "primary_chapter": 52,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 4,
+        "day": 95,
+        "week": 16,
+        "course": "Binding Circle Fundamentals",
+        "primary_chapter": 53,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 1,
+        "week": 1,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 48,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 3,
+        "week": 1,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 5,
+        "week": 1,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 7,
+        "week": 2,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 9,
+        "week": 2,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 11,
+        "week": 2,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 15,
+        "week": 3,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 17,
+        "week": 3,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 19,
+        "week": 4,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 21,
+        "week": 4,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 54,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 23,
+        "week": 4,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 27,
+        "week": 5,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 29,
+        "week": 5,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 35,
+        "week": 6,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 37,
+        "week": 7,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 41,
+        "week": 7,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 43,
+        "week": 8,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 45,
+        "week": 8,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 47,
+        "week": 8,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 49,
+        "week": 9,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 51,
+        "week": 9,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 39,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 53,
+        "week": 9,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 57,
+        "week": 10,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 45,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 65,
+        "week": 11,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 67,
+        "week": 12,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 69,
+        "week": 12,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 54,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 71,
+        "week": 12,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 75,
+        "week": 13,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 51,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 79,
+        "week": 14,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 81,
+        "week": 14,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 83,
+        "week": 14,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 85,
+        "week": 15,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 87,
+        "week": 15,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 89,
+        "week": 15,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 91,
+        "week": 16,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 93,
+        "week": 16,
+        "course": "Cardsmithing Architecture I",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "KAIRA",
+        "semester": 5,
+        "day": 95,
+        "week": 16,
+        "course": "Cardsmithing Laboratory II",
+        "primary_chapter": 52,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 5,
+        "week": 1,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 46,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 11,
+        "week": 2,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 46,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 17,
+        "week": 3,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 51,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 29,
+        "week": 5,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 51,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 31,
+        "week": 6,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 35,
+        "week": 6,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 47,
+        "week": 8,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 51,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 53,
+        "week": 9,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 45,
+        "seminar_chapter": 41
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 59,
+        "week": 10,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 48,
+        "seminar_chapter": 41
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 65,
+        "week": 11,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 45,
+        "seminar_chapter": 42
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 71,
+        "week": 12,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 51,
+        "seminar_chapter": 42
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 77,
+        "week": 13,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 52,
+        "seminar_chapter": 43
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 41,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 89,
+        "week": 15,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 1,
+        "day": 95,
+        "week": 16,
+        "course": "Native Genesis Control I",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 5,
+        "week": 1,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 11,
+        "week": 2,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 17,
+        "week": 3,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 49
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 23,
+        "week": 4,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 29,
+        "week": 5,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 45,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 47,
+        "week": 8,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 45,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 59,
+        "week": 10,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 61,
+        "week": 11,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 44,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 65,
+        "week": 11,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 51,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 48,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 83,
+        "week": 14,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 89,
+        "week": 15,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 46,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 2,
+        "day": 95,
+        "week": 16,
+        "course": "Native Genesis Control II",
+        "primary_chapter": 46,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 17,
+        "week": 3,
+        "course": "Transduction Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 29,
+        "week": 5,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 41,
+        "week": 7,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 47,
+        "week": 8,
+        "course": "Transduction Theory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 53,
+        "week": 9,
+        "course": "Transduction Theory I",
+        "primary_chapter": 48,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 59,
+        "week": 10,
+        "course": "Transduction Theory I",
+        "primary_chapter": 52,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 65,
+        "week": 11,
+        "course": "Transduction Theory I",
+        "primary_chapter": 48,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 55,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 83,
+        "week": 14,
+        "course": "Transduction Theory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 89,
+        "week": 15,
+        "course": "Transduction Theory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 51,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 3,
+        "day": 95,
+        "week": 16,
+        "course": "Transduction Theory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 5,
+        "week": 1,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 46,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 17,
+        "week": 3,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 45,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 27,
+        "week": 5,
+        "course": "Transduction Theory II",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 29,
+        "week": 5,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 51,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 33,
+        "week": 6,
+        "course": "Transduction Theory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 35,
+        "week": 6,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 47,
+        "week": 8,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 51,
+        "week": 9,
+        "course": "Transduction Theory II",
+        "primary_chapter": 55,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 53,
+        "week": 9,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 63,
+        "week": 11,
+        "course": "Transduction Theory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 71,
+        "week": 12,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 75,
+        "week": 13,
+        "course": "Transduction Theory II",
+        "primary_chapter": 51,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 81,
+        "week": 14,
+        "course": "Transduction Theory II",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 83,
+        "week": 14,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 87,
+        "week": 15,
+        "course": "Transduction Theory II",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 89,
+        "week": 15,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 93,
+        "week": 16,
+        "course": "Transduction Theory II",
+        "primary_chapter": 52,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 4,
+        "day": 95,
+        "week": 16,
+        "course": "Native Genesis Control III",
+        "primary_chapter": 53,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 1,
+        "week": 1,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 48,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 5,
+        "week": 1,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 52,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 7,
+        "week": 2,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 45,
+        "seminar_chapter": 44
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 11,
+        "week": 2,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 17,
+        "week": 3,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 19,
+        "week": 4,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 23,
+        "week": 4,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 53
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 29,
+        "week": 5,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 46,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 35,
+        "week": 6,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 51,
+        "seminar_chapter": 54
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 37,
+        "week": 7,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 41,
+        "week": 7,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 43,
+        "week": 8,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 47,
+        "week": 8,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 49,
+        "week": 9,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 53,
+        "week": 9,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 45,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 65,
+        "week": 11,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 47
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 67,
+        "week": 12,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 71,
+        "week": 12,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 79,
+        "week": 14,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 83,
+        "week": 14,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 52,
+        "seminar_chapter": 55
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 85,
+        "week": 15,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 89,
+        "week": 15,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 91,
+        "week": 16,
+        "course": "Applied Transduction Systems",
+        "primary_chapter": 54,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ILLI",
+        "semester": 5,
+        "day": 95,
+        "week": 16,
+        "course": "Native Genesis Laboratory I",
+        "primary_chapter": 52,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 31,
+        "week": 6,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 37,
+        "week": 7,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 43,
+        "week": 8,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 40
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 41,
+        "seminar_chapter": 39
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 1,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory I",
+        "primary_chapter": 39,
+        "seminar_chapter": 48
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 61,
+        "week": 11,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 44,
+        "seminar_chapter": 45
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 48,
+        "seminar_chapter": 46
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 85,
+        "week": 15,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 45,
+        "seminar_chapter": 50
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 2,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory II",
+        "primary_chapter": 46,
+        "seminar_chapter": 56
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 49,
+        "week": 9,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 55,
+        "week": 10,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 52,
+        "seminar_chapter": 51
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 73,
+        "week": 13,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 55,
+        "seminar_chapter": 52
+      },
+      {
+        "student": "ELAIRA",
+        "semester": 3,
+        "day": 91,
+        "week": 16,
+        "course": "Genesis Field Theory III",
+        "primary_chapter": 51,
+        "seminar_chapter": 56
+      }
+    ]
+  },
+  "text_repairs": [
+    {
+      "id": "T01",
+      "students": [
+        "Kaira",
+        "illi",
+        "Elaira"
+      ],
+      "semester": 1,
+      "day": 7,
+      "raw_title": "First fold.",
+      "effective_title": "First fold | and its address structure",
+      "evidence": "Day 8 optional review and Formal 39"
+    },
+    {
+      "id": "T01",
+      "students": [
+        "Kaira",
+        "illi",
+        "Elaira"
+      ],
+      "semester": 1,
+      "day": 13,
+      "raw_title": "Prime cell 0.",
+      "effective_title": "Prime cell 0|0: identity versus occurrence",
+      "evidence": "Day 14 optional review and Formal 39"
+    }
+  ],
+  "other_dispositions": {
+    "T02": "Topology brace intent OPEN; literal singleton fails axioms, single-brace nested family passes.",
+    "T03": "336 conventional entries repeat course-level examples. Weekly adaptation, prerequisites and solutions OPEN.",
+    "T04": "Prior v3/v4 daily calendars and claimed original v8 daily ledger absent. No full-predecessor completeness claim.",
+    "T05": "Full upstream definitions govern shorthand; no invented Astrius/Vera volume citations."
+  }
+}

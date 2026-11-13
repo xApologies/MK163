@@ -1,3 +1,15 @@
+# Blackstone curriculum v5 · exact source receipt
+
+Twelve supplied members accounted for; eleven declared SHA-256 hashes pass. Eleven new originals are retained once, with the v8 syllabus reused by exact hash. The four large teaching documents reside in the versioned Blackstone teaching directory; the manifest, handoff, README and supplied antecedents reside under provenance. [Complete source paths and hashes](WORKSHOP/BLACKSTONE_CURRICULUM_V5/SOURCE_MAP.json).
+
+The current executable.md is read under the user's authorized update request; all historical handoffs remain data. Separate prior daily calendars are not present despite an inherited source claim. [Verified source scope](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/SOURCE_REVIEW.md) · [Integration audit](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md). No inherited repository is copied or modified.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # Green v8 · incremental source receipt
 
 All 41 supplied outer files accounted for: 34 existing exact-byte matches reused and seven new/changed sources retained. Forty current MANIFEST_v8 hashes and sizes pass. All 33 non-handoff v7 members remain identical; the original v6/v7 manifests and handoffs remain at historical paths. The ELDRIS comparator exactly matches a November 7 image and is linked without duplication. Both supplied morphology images were visually inspected. No full external repository was copied. [Complete source mapping](WORKSHOP/GREEN_DAY217_V8/SOURCE_MAP.json) · [Pinned source inspection and limits](../CHECKPOINTS/GREEN_DAY217_V8/UPSTREAM_VERIFICATION.md).

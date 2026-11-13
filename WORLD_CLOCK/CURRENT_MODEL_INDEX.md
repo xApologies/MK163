@@ -1,3 +1,15 @@
+# Blackstone all-subject teaching plans · v5
+
+[Current proposed five-semester daily teaching plans](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md) · [Interpretation and OPEN teaching details](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) · [Coverage and validation](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md).
+
+This adds lesson detail only. Existing timetable owners and v7 repairs are unchanged; no narrative event, current character knowledge, date or inherited mechanism changes.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # Green v8 · current scope
 
 - [End-of-Day-217 story and future Day 224 plan](../BOOKS/RED/ARCS/ARC_004/ARC.md)

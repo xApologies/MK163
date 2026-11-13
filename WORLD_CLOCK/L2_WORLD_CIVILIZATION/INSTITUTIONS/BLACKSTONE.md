@@ -1,3 +1,13 @@
+# Blackstone teaching expansion · v5
+
+[All-subject five-semester teaching directory](BLACKSTONE_EDUCATION/TEACHING/V5/README.md) preserves the complete Kaira, illi and Elaira daily plans: 1,440 student-days, 736 required student-class entries and a 512-row master syllabus. All remain proposed lessons under the existing three primary timetable owners. Current v7 repairs, Aiven rest, Kaira's Semester II Ailor class and all narrative canon are unchanged. [Source qualifications and teaching readiness](BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) govern reading; no lesson is a completed story event.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
 # Blackstone · Day 217 scholar encounter and proposed syllabus
 
 After move-in, Kaira and illi dine at an ordinary Grand Archives counter/restaurant with Nyx and the young Black Sprite. A long-established, mature Green-native Sprite scholar recognizes/notices the young companion and offers respectful mentorship, with Kaira’s agreement and the Sprite’s agency. The Grand Archives is the central monumental building; the professor has a Blackstone office with an open invitation, exact coordinates OPEN. Their work with humans spans Green Realm ecology, Genesis biology, culture and prophecy. [Full professor identity, visual design, communication and mentorship limits](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md).
