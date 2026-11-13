@@ -1,3 +1,21 @@
+# Blue capital break visits · Yellow District Blacksmith Rows
+
+The new break outline places the **three prestigious artisan plazas / Blacksmith Rows in the Yellow District of the Blue Domain capital**. Kaira visits working smiths there during Days 320–330, admires their craft and reconnects with her chainmail training. An unnamed smith recognizes her designs, reports their spread through cities/capitals and commissions an original personally made by her.
+
+This is the new capital-visit scope. It does not relocate Kaira's originating Green Domain city's established Rows or master mailwright supplier, and does not turn the Violet Dungeon staging settlement into either city's elite Row. Yellow is the selected district; do not put these plazas in Green, Blue, White or Violet districts or invent one per district.
+
+The unnamed commissioning smith is **not identified** as her established mailwright supplier. Exact Row, shop, address, smith identity, new ring-order supplier, quantity, cost, arrival or manufacturing batch remain OPEN. The Day 332 city procurement serves the smith's and aina's two personal commissions. Prior workshop architecture, professional relations and specialized ring-fabrication mechanics remain intact.
+
+[Commission distinctions](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Visit chronology](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # OR-05 — Smithy architecture: standard-depth modular bays, two tiers, horizontal growth
 
 **Orange arc of Book Red · 2026-11-08.** ## Where and what the businesses are

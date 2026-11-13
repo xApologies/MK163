@@ -1,3 +1,23 @@
+# Nyx · Blackstone living flower wall, Semester I retrospective
+
+**Author-selected environmental continuity, not a separately timed scene or new biological law.** After the girls' Blackstone move-in, Nyx manifests his species-native flowers on the bedroom wall **behind Kaira's bed**. During **Weeks 1–5, Days 224–253**, **Red, Orange, Yellow, Green, Blue and Violet** flowers progressively spread and substantially cover the wall.
+
+The **young Black Sprite** assists in strengthening and stabilizing the living growth. This is not the mature Sprite Professor and is not direct stabilization of the Genesis Field, a new Kaira ability, novel taxonomy or an extra color basin. Existing native flower expression, independent identities and bounded developmental mechanics remain.
+
+During **Weeks 6–16**, the wall thickens, fills in and becomes robust. By **Day 319** it is a distinctive, mature living wall of flowers in Kaira's campus bedroom. Exact initial manifestation day and daily growth rates are not supplied.
+
+The wall **remains at Blackstone** during Kaira's Days 320–330 visit to Aiselle. Nyx and the young Sprite travel with Kaira, but no wall transport or new Alchemist-apartment wall is selected. This adds a retrospective detail to Semester I without rewriting its 96 daily records.
+
+[Complete supplied wall record](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md) · [Break visit and room continuity](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Nyx · v8 continuity and existing unicorn consultation
 
 The male humanoid unicorn researcher already recorded at the Green District academy remains the same person on Day 167. His Nyx biology and Kaira eye/bond examination are preserved; the author now selects a discussion of Prophecy VIII, Singularity and the bond’s possible significance, without a fixed prediction, new name or invented dialogue. Day 166 remains the initiating event.

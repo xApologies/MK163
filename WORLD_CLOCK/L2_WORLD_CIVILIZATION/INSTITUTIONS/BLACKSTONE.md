@@ -1,3 +1,23 @@
+# Blackstone · first break outline and unchanged annual calendar
+
+Semester I's complete Days 224–319 model remains intact. Aiselle's Day 319 feast appearance is an additive scene detail, not a timetable replacement. Nyx's living bedroom flower wall is a Semester I retrospective and stays in Kaira's campus apartment during her visit away.
+
+Break **320–340** is 21 days. Kaira stays at Aiselle's established **Blue District** apartment in the **Blue Domain capital** during 320–330, returns with Elaira's completed gift on **331**, and joins illi/Elaira's rickshaw ring-order trip on **332**. Later break leisure is an interval outline, not full daily schedules. **341/Ailor** remains the Semester II opening/first instructional-day calendar anchor; no required lesson or attendance is invented.
+
+aina, illi's older sister and Blue ruler, lives at a **White District** palace in this same capital; illi visits without moving home. Prestigious artisan Rows are in **Yellow District**. The violet map marker within the Blue Domain identifies its capital per the author; Domain and district colors are separate categories. The conceptual map has no newly surveyed scale, route, coordinates or global placement.
+
+Headmaster Caelor and Aiselle retain their confirmed names. No new institutional top-level directory, professor appointment or inherited-calendar edit is created.
+
+[Unchanged academic cycle](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Owning break narrative outline](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Living wall retrospective](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Exact conceptual domain map reused](../../../PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Blackstone · annual academic cycle and complete Semester I planning
 
 [Annual academic calendar: 353-day offset cycle](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Complete Semester I live model, Days 224–319](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)

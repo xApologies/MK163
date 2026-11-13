@@ -1,3 +1,23 @@
+# Aiselle, illi and Princess aina · break selections
+
+**Princess aina** is the exact lowercase name, a-i-n-a, of **illi's older sister and the Blue Domain's ruling princess**. She lives at a royal palace in the **White District of the Blue Domain capital**. This resolves the earlier governing-princess identity/relationship OPENs; illi remains the youngest royal daughter and does not govern Blue. aina's palace name, additional political titles, personal traits, detailed genealogy, robe design, price and deadline remain OPEN.
+
+During Days 320–330's break interval, illi visits aina; she does not relocate or “return home” to that palace. Her Blackstone residence, handmaiden arrangements and friendship with Aiselle remain. Seeing illi's original **five-layer** robe, aina is fascinated by the beauty/craftsmanship and requests a personally Kaira-made original. Exact request/visit dates are unassigned; illi conveys the request to Kaira on **Day 331**. It is one of two separate personal commissions in the Day 332 ring procurement, not Elaira's gift or Registry stock.
+
+**Aiselle remains the Alchemist's confirmed name**, per the direct user decision in the previous integration. The new source's “name remains OPEN” sentence is stale, not a name revocation. Her Day 319 feast attendance, market/academy observations, invitation and roughly eleven-day hosting of Kaira with Nyx/young Sprite at her established Blue District apartment are selected. Prior potion/non-Awakened status, sponsorship, wealth, residence history and her separate earlier personal commission remain unchanged.
+
+Elaira's family/whereabouts during the break remain OPEN; on Day 331 Kaira surprises her at Blackstone with the completed gift. No new identity, residence transfer or family story is inferred.
+
+[Complete break sequence](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Territorial office and palace scope](../../L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md) · [Separate robe obligations](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Aiselle and illi · confirmed name and Semester I selections
 
 **Author confirmation during this integration:** Aiselle is the Alchemist; Caelor is Blackstone's Headmaster. These names resolve the earlier name-OPEN labels only. Aiselle arranged Kaira's academic overlap with illi during admissions with Caelor; the exact new arrangement date remains unassigned. Prior ages, roles, Alchemist potion/non-Awakened status, social relationships, estate/business details and Day 212/216/217 events are unchanged.

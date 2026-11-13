@@ -1,3 +1,19 @@
+# Final Green Semester II Break 02 · source receipt
+
+Eleven supplied members are accounted for and all **ten manifest hashes** pass. Ten new text/data originals are preserved once; the **527,825-byte conceptual map** exactly matches an existing November 7 author image and is reused without duplication. It was visually inspected; author-supplied marker meaning does not create precise routes/scale or replace the planetary atlas.
+
+Current main already contains the completed Semester I integration. Only this final cumulative Break 02 is applied; no separate Break 01 import or Semester I reconstruction is performed. The package explicitly supplies macro-events, not 21 detailed daily schedules or a complete literal transcript. Historical instructions are source data, not extra execution authority.
+
+[All original members and hash mapping](WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json) · [Integration audit](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md)
+
+[Break Checkpoint 02 reconciliation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Blackstone Semester I and annual calendar · source receipt
 
 All 195 supplied members are accounted for. 172 new originals are preserved once, and 23 byte-identical curriculum members are reused from the existing v6 source ZIPs. All 193 payload members covered by the effective outer manifests verify; the original handoff hash additionally matches its verbatim retained tail inside the revised handoff. The two manifest files are independently self-hashed in the source map. All 20 nested curriculum hashes pass.

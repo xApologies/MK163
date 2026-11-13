@@ -1,3 +1,19 @@
+# Final Break 02 · scoped resolutions and remaining OPENs
+
+RESOLVED: the Blue ruler is Princess **aina**, illi's older sister; palace in White District. Elaira's robe is completed during 320–330 and gifted 331. The next ring order on 332 is for two separate new personal commissions. Aiselle's confirmed name remains in force despite the stale source note. No new approval is required to retain that earlier explicit user decision.
+
+OPEN: precise visit/commission dates within 320–330, exact Elaira robe completion day and work hours, Day 331 arrival/gift hour, Elaira's independent plans/family/whereabouts, palace name/aina traits/additional title, smith identity and relationship beyond stated role, exact new supplier/shop/specifications/quantities/prices/payment terms/batch structure/deadlines, ring delivery and construction start, 21 full break day schedules and dialogue. Aiselle's report does not quantify sales/enrollment; capacity is not guaranteed demand. Flower growth details add no novel biological mechanism. Prior unrelated OPENs remain.
+
+[Complete source conflict dispositions](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md)
+
+[Break Checkpoint 02 reconciliation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Semester I · scoped resolutions and retained OPENs
 
 RESOLVED by explicit user reply: keep the published Day 224 outline; Aiselle = Alchemist and Caelor = Headmaster. The supplied yearly academic allocations and later dated selections govern their stated scope.

@@ -423,6 +423,20 @@
       "reused_nested_members": 23,
       "new_originals": 172,
       "scope": "Complete supplied Semester I planning and independent annual institutional cycle; Day 224 retained by user; names confirmed"
+    },
+    {
+      "id": "MK163_GREEN_SEMESTER_II_BREAK_02",
+      "date": "2026-11-13",
+      "baseline": "1a5f3e9a539907521fdabe3b4f354d9e33423b77",
+      "physical_filename": "MK163_Green_Arc_Semester_II_Break_02_FINAL_Codex_Handoff.zip",
+      "archive_sha256": "c2491aa8f88602e6e04e2628f23d0c6da7805b33a73fc0eed915e7efa282545c",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/VALIDATION.json",
+      "supplied_members": 11,
+      "manifest_hashes": 10,
+      "reused_assets": 1,
+      "scope": "Day 319 addendum, 320–340 macro-outline, 341 anchor, retrospective wall, aina and two personal commissions"
     }
   ]
 }

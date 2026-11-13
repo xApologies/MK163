@@ -1,3 +1,21 @@
+# Running ledger · break 320–340 and opening anchor 341
+
+The existing single table now includes Days **320–341**. Rows inside approved intervals do not assert individually authored daily events. Day 319's original timetable is retained: Aiselle's feast appearance is an additive overlay. The exact 353-day academic cycle, 31-hour days and continuous weekday phase remain.
+
+**319:** Aiselle celebrates Kaira/illi, reports robe/academy trends, invites Kaira to her Blue District residence. **320–330:** approximately eleven-day visit with Nyx/young Sprite; Elaira's gift completed somewhere in interval, smith commission and illi's aina visit/request undated within it. **331:** campus return, gift to Elaira, illi relays aina request. **332:** three-girl ring-order trip for two separate new originals. **333–340:** leisure/possible planning, no new materials arrival or construction. **341/Ailor:** Semester II opening calendar anchor only.
+
+Nyx's six-color bedroom wall grows during Semester I and remains on campus; it is not a new Day 320 event. Elaira's independent break whereabouts/family remain OPEN. All prior 0–319 rows, detailed intervals and Semester I daily files are preserved.
+
+[Full narrative interval and source boundaries](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Retrospective room continuity](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md)
+
+[Break Checkpoint 02 reconciliation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Running day ledger · selected Semester I outline through Day 319
 
 The single existing daily table now extends through Day 319 with links to the full three-character planning records. All original Days 0–224 rows and historical interval entries remain verbatim. New rows are outlined plans, not completed prose; Days 218–223 remain unassigned.
@@ -411,6 +429,28 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 317 | Aerith | 1 | — | Ailor | OUTLINED: Semester I Week 16; [complete three-character daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_317.md); not completed prose. |
 | 318 | Aerith | 2 | — | Aithen | OUTLINED: Semester I Week 16; [complete three-character daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_318.md); not completed prose. |
 | 319 | Aerith | 3 | — | Aiven | OUTLINED: Semester I Week 16; [complete three-character daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_319.md); not completed prose. |
+| 320 | Aerith | 4 | — | Ailar | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 321 | Aerith | 5 | — | Aiden | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 322 | Aerith | 6 | — | Aiveth | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 323 | Aerith | 7 | — | Ailor | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 324 | Aerith | 8 | — | Aithen | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 325 | Aerith | 9 | — | Aiven | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 326 | Aerith | 10 | — | Ailar | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 327 | Aerith | 11 | — | Aiden | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 328 | Aerith | 12 | — | Aiveth | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 329 | Aerith | 13 | — | Ailor | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 330 | Aerith | 14 | — | Aithen | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 331 | Aerith | 15 | — | Aiven | SELECTED ANCHOR: return to Blackstone, surprise Elaira gift and illi relays aina request; hour OPEN. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 332 | Aerith | 16 | — | Ailar | SELECTED ANCHOR: three-girl rickshaw outing; ring order for two new originals (aina and unnamed smith); delivery/start OPEN. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 333 | Aerith | 17 | — | Aiden | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 334 | Aerith | 18 | — | Aiveth | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 335 | Aerith | 19 | — | Ailor | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 336 | Aerith | 20 | — | Aithen | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 337 | Aerith | 21 | — | Aiven | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 338 | Aerith | 22 | — | Ailar | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 339 | Aerith | 23 | — | Aiden | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 340 | Aerith | 24 | — | Aiveth | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 341 | Aerith | 25 | — | Ailor | CALENDAR ANCHOR: Semester II first instructional day; exact lessons/attendance not supplied. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

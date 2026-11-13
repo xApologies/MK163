@@ -1,3 +1,47 @@
+# Green Arc · first intersemester break, final Checkpoint 02
+
+**Author-selected macro-outline, not finished scenes or 21 daily 31-hour timetables.** Semester I still ends Day 319. Break spans **Days 320–340**; **Day 341 (Ailor)** is the Semester II opening/first-instructional-day calendar anchor, without new course attendance or lesson times being authored. The complete Semester I source files, previously retained Day 224 outline and 353-day annual academic cycle remain unchanged.
+
+## Day 319 · closing feast addendum
+
+**Aiselle, the Alchemist**, attends Blackstone's Semester Symposium & Feast to celebrate Kaira and illi's successful first semester. She reports original and imitated Chainmail Robes spreading from Kaira's originating Green Domain city through other large cities and capital cities across the kingdom. The transductionist identity is inspiring renewed interest in academies and practical Transduction study; this is a developing social trend, not quantified enrollment or universal expansion. She invites Kaira to her existing upscale **Blue District residence in the Blue Domain capital**, where Kaira stayed before Blackstone. The three girls' existing symposium/feast attendance and timetable remain intact; no separate arrival hour is selected.
+
+illi plans to visit her older sister **Princess aina**, Blue Domain ruler, at her **White District palace in that same capital**. Elaira's independent break plans, family circumstances and exact whereabouts remain unestablished.
+
+## Days 320–330 · approximately eleven-day visit
+
+Kaira stays at Aiselle's established Blue District apartment for approximately eleven days with **Nyx and the young Black Sprite**. The mature Sprite Professor is a separate person, uses they/them and has no standing sessions after their return to research. Kaira brings Elaira's unfinished handmade gift robe and completes it during this visit. Exact completion day and productive work schedule are not selected.
+
+Kaira enjoys the **Yellow District's prestigious Blacksmith Rows**, visits working smiths, admires their craftsmanship and reconnects with her early chainmail training. An **unnamed smith** recognizes her designs, reports their expansion into other cities/capitals and commissions an original personally made by Kaira. No exact commission date, price, ring count or deadline is selected; this is not identified as her established master mailwright supplier.
+
+illi **visits**, rather than moves home to, her older sister aina. aina sees illi's original five-layer robe, is fascinated by its beauty and craftsmanship, and asks for a Kaira-made original of her own. Exact visit/request dates remain OPEN. illi's own residence and her relationship with Aiselle are unchanged; aina's palace is not assigned to illi as her home.
+
+## Day 331 · return, surprise gift and relayed request
+
+Kaira returns to Blackstone with Elaira's completed robe and surprises **Elaira (E)** with it. illi rejoins the group and conveys aina's commission request. No arrival, reunion or gift hour is fixed. This completes the existing Elaira gift project; it does not complete either new commission.
+
+## Day 332 · three-girl procurement trip
+
+Kaira, illi and Elaira take a **rickshaw** into the Blue Domain capital. Kaira places a **new large ring order for two separate personally crafted originals**: the unnamed smith's robe and aina's robe. They spend time together in the city and return to Blackstone. The exact shop, quantity, price, payment terms, delivery day and whether a single production batch is used remain OPEN.
+
+## Days 333–340 · remainder of break
+
+The girls relax, share meals, play **raeon**, enjoy campus/city leisure and exercise Nyx. Kaira may plan the two commissions, but **no new ring delivery or construction start is established**. Semester II begins Day 341; no later scene is invented.
+
+## Retrospective Semester I room continuity
+
+Nyx's existing living Red-through-Violet flower wall grows behind Kaira's Blackstone bed during Semester I and is mature by Day 319. The young Black Sprite helps strengthen/stabilize its living growth. It remains at Blackstone during this visit; it is neither newly created on Day 320 nor transported to Aiselle's apartment. The creature owner retains the full developmental scope without rewriting 96 daily tables.
+
+[Full flower-wall retrospective](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [aina, illi and Aiselle](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Gift and two distinct commission records](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Yellow District artisan placement](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+
+[Break Checkpoint 02 reconciliation](../../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Green Arc · selected Semester I live model through Day 319
 
 **Planning/outlined, not completed chapter prose.** The full supplied Semester I covers Days 224–319, sixteen six-day weeks. The published Day 224 outline is retained by the author's explicit integration decision; its 09:00 knock, 16:00–20:00 professor visit and shared evening walk govern over the incoming alternative. Detailed Day 224 scene intentions below remain in full. Days 218–223 remain unassigned. Nothing after Day 319 is authored by this package; annual allocations are not scenes or attendance.

@@ -1,3 +1,19 @@
+# Green first break · selected macro-state through Day 340
+
+The macro-outline now covers the first 21-day break, with Day 341 as the unchanged Semester II opening anchor. This is not 21 fully authored daily timetables or finished prose. Aiselle's Day 319 feast addendum and Nyx's Semester I flower-wall retrospective preserve the complete prior schedule model.
+
+Elaira receives her completed gift on 331 after its completion during Kaira's 320–330 visit. aina's and the unnamed smith's new original commissions are separate; rings ordered 332, no arrival/construction selected through 340. illi visits her sister's White District palace without changing residence. The young Sprite travels with Kaira; mature professor standing instruction stays ended.
+
+[Break outline](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Single running day ledger](RED_RUNNING_DAY_LEDGER.md)
+
+[Break Checkpoint 02 reconciliation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Green Semester I · outline state through Day 319
 
 The selected planning frontier now reaches Semester I's Day 319 ending; this is not a finished prose manuscript. The author retains the published Day 224 outline. Full schedule detail has one home in Blackstone education, referenced by the single running day ledger.

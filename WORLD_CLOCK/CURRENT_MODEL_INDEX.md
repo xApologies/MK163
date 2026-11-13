@@ -1,3 +1,17 @@
+# Current Green · final Break Checkpoint 02
+
+[Day 319 addendum, break 320–340 and opening anchor 341](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Princess aina and existing Aiselle/illi identities](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Retrospective flower wall](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Elaira gift and two separate new originals](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Full coverage and validation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md)
+
+The completed Semester I model and annual cycle are retained. This is the final supplied Break 02 package only; no separate Break 01 or Semester I replay. Exact source records and original map bytes remain preserved.
+
+[Break Checkpoint 02 reconciliation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Current Blackstone · annual cycle and complete Semester I outline
 
 [Global institutional academic cycle](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Complete Semester I daily plans](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [Green Arc narrative owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Single running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)

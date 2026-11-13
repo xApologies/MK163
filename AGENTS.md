@@ -1,3 +1,21 @@
+# Current Green break · final Checkpoint 02
+
+Read the current Green outline and Break 02 reconciliation. Aiselle's 319 feast appearance is additive; Kaira visits her **Blue District** home during 320–330 with Nyx/young Sprite, completes Elaira's existing gift during the visit and presents it on **331**. The **332** ring order covers **two new originals**, for **Princess aina** and an unnamed smith; no arrival or construction is selected through 340. Semester II begins **341/Ailor**. Preserve 353-day cycle, complete Semester I records and the published Day 224 decision.
+
+**aina** is illi's older sister, Blue Domain ruler, with a **White District palace**; illi visits, not relocates. Prestigious Blacksmith Rows are in **Yellow District**; preserve the distinction between capital shops, originating-city supplier and staging settlement. Aiselle/Caelor remain confirmed; source name-OPEN and professor “his” wording do not override current names or they/them.
+
+Nyx's Red-to-Violet flower wall grows behind Kaira's campus bed during Semester I, mature by 319, and stays there during the break. Young Sprite assistance adds no new biological law or direct Genesis Field stabilization. No new professor sessions, prices, guaranteed Registry sales, Ring, Stage II or full 21-day schedules are invented. Preserve exact map bytes; the Blue Domain's violet dot is a capital marker, not the Violet Domain.
+
+[Current outline](BOOKS/RED/ARCS/ARC_004/ARC.md) · [Source reconciliation](CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md)
+
+[Break Checkpoint 02 reconciliation](CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Current Blackstone Semester I · outlined through Day 319
 
 Read the live-model entry point and integration supersessions before using daily schedules. The author retained the published Day 224 outline: 09:00 knock, 16:00–20:00 professor visit and shared evening walk. The incoming conflicting Day 224 schedule is source-only. **Aiselle is the Alchemist; Caelor is the Headmaster**, explicitly confirmed. Professor name/gender remain OPEN.

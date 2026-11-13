@@ -1,3 +1,21 @@
+# Kaira · break outline through Day 340 and Semester II anchor
+
+The Day 319 feast gains Aiselle's invitation and market observations. Kaira then visits Aiselle's existing Blue District home with Nyx and the independent young Black Sprite during Days 320–330, completes Elaira's existing gift robe there, and returns to Blackstone to present it on **331**. Exact completion date and arrival hour remain OPEN.
+
+On **332** Kaira, illi and Elaira make a rickshaw city trip and order rings for **two different new personally crafted originals**, one for Princess aina and one for the unnamed Yellow District smith. No ring delivery or construction start is established through 340. These are not replacements for her original personal robe, illi/Elaira gifts or Registry-managed production.
+
+The campus flower wall remains in her room. Break leisure, meals, raeon and Nyx exercise are outlined intervals; no 21 full day schedules, extra powers, new stage, future lesson attendance or finished prose is inferred. Semester II's opening anchor remains **341/Ailor**.
+
+[Full selected outline](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Distinct robe projects](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Kaira · selected Semester I state through Day 319
 
 The full semester is an approved planning/live model, not completed chapter prose. Day 224 retains the previously published timing and intentions. Kaira closes Violet aen on **Day 248** under illi's guidance; subsequent widening is a training aim, not automatic Stage II proficiency. Sprite communication/morphology milestones are selected on 237/251 without omniscience or unearned mastery.

@@ -1,0 +1,259 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_OPEN_ITEMS",
+  "baseline": "1a5f3e9a539907521fdabe3b4f354d9e33423b77",
+  "supplied_members": 11,
+  "manifest_hashes_verified": 10,
+  "new_originals": 10,
+  "reused_assets": 1,
+  "macro_source_records": 6,
+  "break_days": 21,
+  "ledger_rows_added": 22,
+  "running_primary_days": 342,
+  "Semester_I_daily_files_unchanged": 96,
+  "counts": {
+    "added": 16,
+    "modified": 17,
+    "deleted": 0,
+    "prior_unchanged": 1061
+  },
+  "added": [
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/COVERAGE.json",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/VALIDATION.json",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CONTINUITY/BREAK_LEDGER.csv",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/EXECUTABLE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/MANIFEST_SHA256.txt",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/README.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+  ],
+  "deleted": [],
+  "blocking_conflicts": [],
+  "source_dispositions": [
+    "Retain confirmed Aiselle name; source OPEN is stale",
+    "Retain professor they/them and ended standing instruction; source his is not gender selection",
+    "Capital Yellow Rows added without relocating original-city Rows or supplier",
+    "Completed E gift is distinct from two pending commissions",
+    "Image reused by exact hash"
+  ],
+  "open_items": [
+    "Full 21-day timetables and dialogue",
+    "Exact interval dates/hours, E completion day and break whereabouts",
+    "Palace name/aina traits, smith identity",
+    "Prices, ring quantities, supplier, payment, batch, deadlines, ring arrival and construction start",
+    "No quantitative enrollment/sales or new biological mechanism"
+  ],
+  "checks": [
+    {
+      "check": "all eleven supplied members exactly recoverable",
+      "pass": true
+    },
+    {
+      "check": "all ten manifest hashes and exact member accounting",
+      "pass": true
+    },
+    {
+      "check": "one exact existing map reused; no new image copy",
+      "pass": true
+    },
+    {
+      "check": "local archive hash unchanged",
+      "pass": true
+    },
+    {
+      "check": "Semester I dependency already integrated and validated",
+      "pass": true
+    },
+    {
+      "check": "six supplied macro anchors only",
+      "pass": true
+    },
+    {
+      "check": "21 break days exactly once, not 21 authored timetables",
+      "pass": true
+    },
+    {
+      "check": "Day 319 additive feast preserves name and social-statistics limits",
+      "pass": true
+    },
+    {
+      "check": "complete visit/commission context",
+      "pass": true
+    },
+    {
+      "check": "331 gift and request; 332 separate two-robe procurement; no delivery inference",
+      "pass": true
+    },
+    {
+      "check": "aina exact name, relationship, office, White palace and no illi relocation",
+      "pass": true
+    },
+    {
+      "check": "governor identity resolved without conflating illi",
+      "pass": true
+    },
+    {
+      "check": "three Yellow artisan plazas scoped to capital; original city/supplier and staging preserved",
+      "pass": true
+    },
+    {
+      "check": "wall all six colors, precise intervals, Sprite identity and no transport/new mechanics",
+      "pass": true
+    },
+    {
+      "check": "gift complete during visit, presented 331, two separate new commissions in current ledger",
+      "pass": true
+    },
+    {
+      "check": "Registry capacity distinct from demand and new commissions unpriced",
+      "pass": true
+    },
+    {
+      "check": "1061 untargeted baseline files byte-identical []",
+      "pass": true
+    },
+    {
+      "check": "342 unique primary days 0–341 plus 24 historical summary rows",
+      "pass": true
+    },
+    {
+      "check": "interval rows label unassigned detail, calendar anchor distinct",
+      "pass": true
+    },
+    {
+      "check": "all previous Git attributes retained",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_004/ARC.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "entire previous ledger preserved after removing exactly 22 inserted rows",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "one append-only source registry record",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md complete previous body retained",
+      "pass": true
+    },
+    {
+      "check": "annual calendar unchanged and correct break/II ranges",
+      "pass": true
+    },
+    {
+      "check": "Semester I source model, schedules, teaching, history, Orange/Yellow and images unchanged",
+      "pass": true
+    },
+    {
+      "check": "only intended paths: 16 added, 17 modified, zero deleted; inbox untracked",
+      "pass": true
+    },
+    {
+      "check": "no new semester daily timetable, duplicate image or inherited corpus",
+      "pass": true
+    },
+    {
+      "check": "generated local links resolve []",
+      "pass": true
+    },
+    {
+      "check": "whitespace check",
+      "pass": true
+    },
+    {
+      "check": "repository structural validator",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  }
+}

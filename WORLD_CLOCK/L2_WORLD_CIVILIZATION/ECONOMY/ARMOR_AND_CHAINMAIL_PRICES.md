@@ -1,3 +1,21 @@
+# Break market observations and separate prestige commissions
+
+During Semester I, original and imitated Chainmail Robes spread from Kaira's originating Green Domain city across the kingdom through commerce and travel. At the Day 319 feast Aiselle reports circulation in other large cities and capitals, plus renewed interest in academies/practical Transduction associated with the emerging **transductionist** identity. This is a developing cultural trend accelerating toward Semester II, not measured enrollment or universal institutional expansion.
+
+A Yellow District smith in the Blue capital recognizes her work and requests a personally crafted original; Princess aina separately requests another. The Day 332 ring order is for these **two personal originals**, not Registry inventory or Elaira's completed gift. No personal commission price, order quantity of rings, deadline, delivery, construction start or payment term is supplied.
+
+Preserve the existing **four smiths / twelve originals per month capacity** after training, Accord Registry management, ordinary original/imitated products, existing wholesale/retail amounts, margin and management fee. Capacity is not guaranteed production, accepted purchases, sales, deposits or net earnings. Aiselle's earlier personal commission remains separate and supplies no price precedent automatically applied to aina/the smith.
+
+[Owning gift and commission accounting](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Capital artisan geography](../PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Days 189–201 — Chainmail business transition
 
 **Prior Checkpoint 020 model:** Two smiths × three original robes/month + Kaira × one = seven/month. Registry purchases at 1,550 eln wholesale, retails at 1,700 eln; Kaira previously handled procurement, inspection, freight. Two smiths paid 580 eln/month each; 1,000 eln direct materials/enchantment per robe in working budget.

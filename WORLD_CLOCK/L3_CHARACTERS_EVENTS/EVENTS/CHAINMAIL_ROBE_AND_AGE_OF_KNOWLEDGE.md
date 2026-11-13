@@ -1,3 +1,28 @@
+# Break robe accounting · Elaira gift completed, two new originals pending
+
+Kaira's original personal robe, illi's gift, Elaira's gift, Aiselle's earlier commission, Registry-managed originals, imitations and new personal commissions remain distinct.
+
+| Project | Current selected state |
+|---|---|
+| Elaira's existing gift | Ordered 259, materials arrived/work began 293, incomplete on 319. Kaira brings it on the Days 320–330 Aiselle visit and completes it there; exact completion day/work hours OPEN. Returns and presents the surprise gift at Blackstone on **331**. |
+| Princess aina's personal original | Older sister sees illi's five-layer robe during the break and requests a Kaira-made original. illi relays it on **331**. Price, design, deadline and exact initial request date OPEN. |
+| Unnamed Yellow District smith's personal original | Recognizes Kaira's work during Days 320–330 visits and commissions her personally. Not assumed to be the established mailwright supplier. Identity, exact date, price, ring count and deadline OPEN. |
+| Day 332 procurement | **Two** new robes, aina's and the smith's. Large ring order placed during the three-girl rickshaw outing; exact shop, quantity, payment terms, price, delivery and batch relationship OPEN. Elaira's completed gift is excluded. |
+
+Through the remaining Days 333–340, planning is possible but **ring arrival and new construction start are not selected**. No commission completion is inferred. Registry four-smith capacity and existing prices/fees remain under the economic owner, not a guarantee these personal commissions enter routine stock.
+
+Aiselle reports at the Day 319 feast that originals and imitations have spread from the originating Green Domain city to other major cities/capitals and that the transductionist identity is renewing interest in learning/academies. The new smith independently reports spread. No quantity, enrollment figure, imitation mechanism, new price or guaranteed future growth is supplied.
+
+[Market and capacity distinctions](../../L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [Full dates and visit context](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # Green Semester I · two separate gift-robe projects
 
 **Author-selected outline, not completed prose or measured labor.** Kaira's original personal robe and commercial production history below are unchanged.

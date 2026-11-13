@@ -1,0 +1,85 @@
+{
+  "id": "MK163_GREEN_SEMESTER_II_BREAK_02",
+  "baseline": "1a5f3e9a539907521fdabe3b4f354d9e33423b77",
+  "physical_filename": "MK163_Green_Arc_Semester_II_Break_02_FINAL_Codex_Handoff.zip",
+  "archive_sha256": "c2491aa8f88602e6e04e2628f23d0c6da7805b33a73fc0eed915e7efa282545c",
+  "members": {
+    "CANON/BREAK_320_340_AUTHOR_OUTLINE.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "sha256": "2ec4c9f7921d485b60c6323dbbdb85ccfd32373e11812e8375c1d8470c59101d",
+      "bytes": 3735,
+      "disposition": "new original preserved once"
+    },
+    "CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "sha256": "3d8e25efaf1086056c70f35fd61f652a1b8e5caf3f7f12f2c4008d976a901c59",
+      "bytes": 1967,
+      "disposition": "new original preserved once"
+    },
+    "CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md",
+      "sha256": "859f366a91572a14129203380da33d30fc52407ea420286a3364f6f85074058a",
+      "bytes": 1451,
+      "disposition": "new original preserved once"
+    },
+    "CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+      "sha256": "6f0b2c305fce6c49b06b145241f99c497b9887e2d1d2841da759fb5efda9a42e",
+      "bytes": 1006,
+      "disposition": "new original preserved once"
+    },
+    "CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+      "sha256": "836d367b3c632d25259975cc50e0c880bc4469669c114907277e4eca2768e47a",
+      "bytes": 1154,
+      "disposition": "new original preserved once"
+    },
+    "CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+      "sha256": "ca102c5cd0ab5f6174e9773e46c7d9cd80591e1adeba9c71ce6ca79b1e2ae09b",
+      "bytes": 1501,
+      "disposition": "new original preserved once"
+    },
+    "CONTINUITY/BREAK_LEDGER.csv": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CONTINUITY/BREAK_LEDGER.csv",
+      "sha256": "3afb4dea884eafc04d9602168f14c26b1bc33fd29ecf91f9c68112d476ea24ec",
+      "bytes": 775,
+      "disposition": "new original preserved once"
+    },
+    "EXECUTABLE.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/EXECUTABLE.md",
+      "sha256": "e028bc18e16a84294994c3e32dd42bb00f2c5f6614d78c24711fbc2dd4c7e5bf",
+      "bytes": 4201,
+      "disposition": "new original preserved once"
+    },
+    "MANIFEST_SHA256.txt": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/MANIFEST_SHA256.txt",
+      "sha256": "4ae68e2f1c96516868f6548985f5ac73e1b6335d66017dc65f4e8715c71f1ab7",
+      "bytes": 1026,
+      "disposition": "new original preserved once"
+    },
+    "README.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/README.md",
+      "sha256": "8fd689ceed5b7bdb054df83fa503a778d7220952fdfa4a8769c4d05b079c2267",
+      "bytes": 1085,
+      "disposition": "new original preserved once"
+    },
+    "SOURCES/AUTHOR_DOMAIN_MAP.jpeg": {
+      "repository_path": "PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg",
+      "sha256": "3b97ee32e3fb39068923ca92c7ad52374487377a34c60f975049e430d4ed643a",
+      "bytes": 527825,
+      "disposition": "reuse exact existing author image"
+    }
+  },
+  "dependency": "Completed Semester I integration 1a5f3e9a539907521fdabe3b4f354d9e33423b77 verified on fetched main",
+  "scope": "Final cumulative Break 02, not a Semester I reimport or full 21-day timetable",
+  "map_review": {
+    "visually_inspected": true,
+    "original_dimensions": [
+      1320,
+      2868
+    ],
+    "author_interpretation": "Violet marker within Blue Domain identifies Blue capital; conceptual not surveyed geometry"
+  },
+  "source_limit": "No separate Break 01 package was integrated or independently compared; complete supplied Break 02 is preserved"
+}

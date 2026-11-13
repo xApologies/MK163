@@ -1,3 +1,21 @@
+# Blue Domain ruler · Princess aina
+
+The Blue Domain's ruling princess is now selected as **Princess aina**, exact lowercase, **older sister of illi**. This resolves the former ruling-princess name and sister-relationship OPENs. illi retains her separate non-governing role; no Crown office, sovereign, succession law, full genealogy or new territorial rank is invented.
+
+aina's royal palace is in the **White District of the Blue Domain capital**. This is a governing residence within the civic center, not a relocation of ordinary luxury housing into White. No palace name, precise address, additional title or political personality is supplied. illi's break visit is not a move to that palace.
+
+Domain colors, capital district colors, chromatic ranks and energy basins remain distinct. The author identifies the violet marker inside the conceptual map's Blue Domain as **the Blue capital**, not the Violet Domain.
+
+[Character and commission detail](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Existing exact conceptual domain map](../../../PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
 # The People’s Princess and territorial government
 
 **Book Red consolidation · 2026-11-07.** The 27-year-old youngest royal daughter does not govern Blue or another territorial domain. She is distinct from the governing princess; whether they are sisters is OPEN. Her advanced education and friendship with Kaira are at [the character owner](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md). No change to the Aellin Crown or its domain offices.

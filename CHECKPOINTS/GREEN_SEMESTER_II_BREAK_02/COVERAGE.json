@@ -1,0 +1,336 @@
+{
+  "id": "MK163_GREEN_SEMESTER_II_BREAK_02",
+  "baseline": "1a5f3e9a539907521fdabe3b4f354d9e33423b77",
+  "source_map": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json",
+  "added": [
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/COVERAGE.json",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/VALIDATION.json",
+    "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CONTINUITY/BREAK_LEDGER.csv",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/EXECUTABLE.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/MANIFEST_SHA256.txt",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/README.md",
+    "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+  ],
+  "deleted": [],
+  "counts": {
+    "added": 16,
+    "modified": 17,
+    "deleted": 0
+  },
+  "topics": [
+    {
+      "topic": "319 additive feast",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md"
+      ],
+      "disposition": "Preserve prior timetable; add celebration, report and invitation."
+    },
+    {
+      "topic": "320–330 visit",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md"
+      ],
+      "disposition": "Approximately eleven days at existing Blue apartment with Nyx and young Black Sprite."
+    },
+    {
+      "topic": "Elaira gift",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "disposition": "Complete during visit, precise day OPEN, present 331; distinct from 332 procurement."
+    },
+    {
+      "topic": "Capital artisan visit and smith",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "disposition": "Recognizing unnamed smith, admiration and early training connection; personal original; no identity or terms inferred."
+    },
+    {
+      "topic": "illi visits aina",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md"
+      ],
+      "disposition": "Older sister/ruling princess, White palace, five-layer inspiration; visit not relocation."
+    },
+    {
+      "topic": "Elaira independent break",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md"
+      ],
+      "disposition": "Plans, family and whereabouts OPEN."
+    },
+    {
+      "topic": "331 reunion",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md"
+      ],
+      "disposition": "Return, surprise gift and relayed request; hour OPEN."
+    },
+    {
+      "topic": "332 rickshaw outing",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "disposition": "Three girls, two new robe orders, city time and return; terms/batch/arrival OPEN."
+    },
+    {
+      "topic": "333–340 leisure",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "Meals, raeon, campus/city, Nyx exercise, possible planning; no delivery/construction."
+    },
+    {
+      "topic": "341 anchor",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md"
+      ],
+      "disposition": "Existing Semester II calendar start only; no new class times."
+    },
+    {
+      "topic": "Macro scope",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "21 break days covered by interval outline, not full individual 31-hour plans."
+    },
+    {
+      "topic": "Market expansion",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md"
+      ],
+      "disposition": "From originating Green Domain city across kingdom during Semester I; originals and imitations distinct."
+    },
+    {
+      "topic": "Transductionist learning interest",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md"
+      ],
+      "disposition": "Cultural trend, no numerical enrollment or worldwide extrapolation."
+    },
+    {
+      "topic": "Registry capacity",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md"
+      ],
+      "disposition": "Four smiths/twelve per month capacity after training; not guaranteed output or sales; existing prices unchanged."
+    },
+    {
+      "topic": "Personal vs managed robes",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "disposition": "Kaira original, illi gift, Elaira gift, earlier Aiselle commission and two new prestige commissions kept distinct."
+    },
+    {
+      "topic": "Origin supplier/Rows",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+      "owners": [
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md"
+      ],
+      "disposition": "Existing original-city and fabrication relationships preserved; new smith not automatically same person."
+    },
+    {
+      "topic": "Aiselle name and invitation",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md"
+      ],
+      "disposition": "Earlier explicit user confirmation overrides stale name OPEN; Blue apartment already established; full source remains literal."
+    },
+    {
+      "topic": "aina identity and office",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md"
+      ],
+      "disposition": "Exact lowercase aina, illi older sister, Blue Domain ruler; previous identity OPEN resolved only within scope."
+    },
+    {
+      "topic": "Palace and requests",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+      ],
+      "disposition": "White District capital palace; no name/design/financial invention; two separate commissions."
+    },
+    {
+      "topic": "Wall growth timeline",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "Weeks 1–5 /224–253 six colors progressively cover; Weeks 6–16 thicken; mature319."
+    },
+    {
+      "topic": "Sprite identity and biology",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "Young Black Sprite assists growth; mature professor distinct; no new basins/biology/Kaira power/direct Field stabilization."
+    },
+    {
+      "topic": "Wall campus location",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "Behind bed after move-in; remains at Blackstone; no transport."
+    },
+    {
+      "topic": "Semester I preservation",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+      "owners": [
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "Retrospective owner/arc/ledger overlay; all 96 daily files unchanged."
+    },
+    {
+      "topic": "District/domain separation",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md",
+        "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+        "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md"
+      ],
+      "disposition": "Yellow Rows, Blue apartment and White palace within Bluecapital; violet marker does not identify Violet Domain; prior travel preserved."
+    },
+    {
+      "topic": "Map reuse",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+      "owners": [
+        "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json"
+      ],
+      "disposition": "Exact existing author image reused, visually checked; conceptual not measured routes."
+    },
+    {
+      "topic": "CSV anchors",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/CONTINUITY/BREAK_LEDGER.csv",
+      "owners": [
+        "BOOKS/RED/ARCS/ARC_004/ARC.md",
+        "CONTINUITY/RED_RUNNING_DAY_LEDGER.md"
+      ],
+      "disposition": "All six records covered; 22 new primary rows, 21 break days plus341 anchor; old319 unchanged with additive overlay."
+    },
+    {
+      "topic": "Final cumulative handoff",
+      "source": "PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/EXECUTABLE.md",
+      "owners": [
+        "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md",
+        "CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md"
+      ],
+      "disposition": "Existing Semester I dependency verified; no separate Break01 import, no duplicate corpus."
+    }
+  ],
+  "supplied_members": [
+    "CANON/BREAK_320_340_AUTHOR_OUTLINE.md",
+    "CANON/CHAINMAIL_MARKET_AND_COMMISSION_CONTINUITY.md",
+    "CANON/DAY_319_ALCHEMIST_SEMESTER_FEAST_ADDENDUM.md",
+    "CANON/GEOGRAPHY_AND_VISUAL_REFERENCE.md",
+    "CANON/NYX_LIVING_FLOWER_WALL_SEMESTER_I_RETROSPECTIVE.md",
+    "CANON/PRINCESS_AINA_AND_BREAK_COMMISSIONS.md",
+    "CONTINUITY/BREAK_LEDGER.csv",
+    "EXECUTABLE.md",
+    "MANIFEST_SHA256.txt",
+    "README.md",
+    "SOURCES/AUTHOR_DOMAIN_MAP.jpeg"
+  ],
+  "complete_original_members_accounted": 11,
+  "source_limit": "Complete supplied checkpoint preserved; no literal transcript completeness claim, no independent Break01 comparison.",
+  "blocking_conflicts": [],
+  "open_items": [
+    "Full 21-day schedules and dialogue",
+    "Exact interval timings and E completion day",
+    "Elaira independent break plans/family/whereabouts",
+    "Smith identity and palace name/aina traits",
+    "Commission designs/prices/deadlines; shop/supplier/ring quantity/payment/batch/arrival/construction start"
+  ],
+  "retained_prior_decisions": [
+    "Aiselle=Alchemist; Caelor=Headmaster",
+    "PublishedDay 224 outline",
+    "Professor they/them and ended standing instruction",
+    "353-day calendar and 96 Semester I daily files",
+    "Original Green Domain city Rows/supplier and Yellow/Green/Blue travel"
+  ]
+}
