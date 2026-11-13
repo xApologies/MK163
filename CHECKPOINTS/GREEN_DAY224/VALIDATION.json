@@ -1,0 +1,265 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_OPEN_ITEMS",
+  "baseline": "bffeb8354bd040912dedbeab1b218a434835a018",
+  "package_members": 4,
+  "manifest_hashes_verified": 3,
+  "selected_intervals": [
+    [
+      9,
+      11
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      16,
+      20
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      22,
+      31
+    ]
+  ],
+  "historical_day_rows_preserved": 225,
+  "source_meeting_points_preserved": 7,
+  "source_guardrails_preserved": 5,
+  "current_curriculum_days_preserved": 1440,
+  "current_curriculum_classes_preserved": 736,
+  "counts": {
+    "added": 11,
+    "modified": 14,
+    "deleted": 0,
+    "prior_unchanged": 870
+  },
+  "added": [
+    "CHECKPOINTS/GREEN_DAY224/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md",
+    "CHECKPOINTS/GREEN_DAY224/UPSTREAM_VERIFICATION.json",
+    "CHECKPOINTS/GREEN_DAY224/UPSTREAM_VERIFICATION.md",
+    "CHECKPOINTS/GREEN_DAY224/VALIDATION.json",
+    "CHECKPOINTS/GREEN_DAY224/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY224/README.md",
+    "PROVENANCE/WORKSHOP/GREEN_DAY224/SHA256_MANIFEST.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY224/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/GREEN_DAY224/executable.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md"
+  ],
+  "deleted": [],
+  "material_conflicts": [],
+  "frontier": "Day 224 author-selected outline; drafting resumes 09:00; no completed prose claim",
+  "checks": [
+    {
+      "check": "all four original package members exactly preserved",
+      "pass": true
+    },
+    {
+      "check": "all three declared hashes and exact manifest accounting",
+      "pass": true
+    },
+    {
+      "check": "local source ZIP hash unchanged",
+      "pass": true
+    },
+    {
+      "check": "all prior attributes preserved",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_004/ARC.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/RED_RUNNING_DAY_LEDGER.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "single append-only source registry record",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/FRAMEWORK_AND_CORRESPONDENCE.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md entire earlier record preserved",
+      "pass": true
+    },
+    {
+      "check": "all 870 untargeted baseline files byte-identical []",
+      "pass": true
+    },
+    {
+      "check": "exact scoped inventory: 11 added, 14 modified, zero deleted",
+      "pass": true
+    },
+    {
+      "check": "no inbox tracking",
+      "pass": true
+    },
+    {
+      "check": "225 unique primary day rows 0 through 224 and 24 older summary rows unchanged",
+      "pass": true
+    },
+    {
+      "check": "complete eight source rows verbatim in existing scene owner",
+      "pass": true
+    },
+    {
+      "check": "complete seven meeting points in existing character owner with protected ELDRIS normalization",
+      "pass": true
+    },
+    {
+      "check": "all five mathematical/narrative source guards preserved",
+      "pass": true
+    },
+    {
+      "check": "eight contiguous selected intervals 09 through 31, required class unchanged",
+      "pass": true
+    },
+    {
+      "check": "outline frontier, earlier morning detail and unassigned interval explicit",
+      "pass": true
+    },
+    {
+      "check": "professor identity, consent, availability, prophecy and growth limits explicit",
+      "pass": true
+    },
+    {
+      "check": "Maege stationery, six ink choices and absence of abacus scoped",
+      "pass": true
+    },
+    {
+      "check": "KAIRA Semester I Day 1 required GFT I 11-13 remains",
+      "pass": true
+    },
+    {
+      "check": "KAIRA recurring schedule and all five semesters unchanged",
+      "pass": true
+    },
+    {
+      "check": "ILLI Semester I Day 1 required GFT I 11-13 remains",
+      "pass": true
+    },
+    {
+      "check": "ILLI recurring schedule and all five semesters unchanged",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA Semester I Day 1 required GFT I 11-13 remains",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA recurring schedule and all five semesters unchanged",
+      "pass": true
+    },
+    {
+      "check": "v5.1 validated teaching corpus untouched: 1440 days, 736 classes, 512 master rows",
+      "pass": true
+    },
+    {
+      "check": "constitutions, Orange/Yellow, mathematics, eight manuscripts and original images untouched",
+      "pass": true
+    },
+    {
+      "check": "four pinned AERA source records and exact local Black manuscript match",
+      "pass": true
+    },
+    {
+      "check": "new local links resolve []",
+      "pass": true
+    },
+    {
+      "check": "whitespace check",
+      "pass": true
+    },
+    {
+      "check": "repository structural validator",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "open_items": [
+    "Convocation time",
+    "Professor name/gender/exact age/office address and sensing mechanism",
+    "Dialogue, exact prophecy wording used in scene and lesson exercises",
+    "Sprite age/name, individual/collective development mechanism and actual target date",
+    "Earlier teaching/prerequisite and source-volume limits"
+  ]
+}

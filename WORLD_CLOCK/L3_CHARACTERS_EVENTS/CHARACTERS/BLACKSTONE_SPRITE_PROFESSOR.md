@@ -1,3 +1,29 @@
+# Mature Green Sprite professor · Day 224 selected mentorship
+
+**Author-selected scene outline, not completed prose.** The existing Day 217 scholar and invitation continue into Kaira's first substantial conversation and mentorship arrangement on **Day 224, 16:00–20:00**, in **Natural Philosophy**. The proposed office/home area is associated at department level; exact room, address, home arrangement, personal name, gender, age and sensing mechanism remain OPEN. Use **they/them**; an oral “he” does not select a gender. This professor, the independent young Black Sprite and Nyx are three distinct individuals; the Day 167 unicorn researcher remains a fourth, separate character.
+
+## Complete selected meeting and mentorship terms
+
+1. The mature Green-native Sprite professor explains the young Black Sprite's exceptional Green Realm biology. It is intelligent and young, **not a human infant**, and its development does not map onto human developmental timelines.
+2. Professor communicates mind-to-mind with the Black Sprite and with Kaira. This is exchange of impressions, images, concepts or words, **not** telekinesis or unrestricted mind reading. The Black Sprite retains independent identity and consent.
+3. Professor knows of the Black Prophecy and recognizes Kaira as **the Singularity within the prophecy**; expresses scholarly excitement, without inventing a verbatim prophecy text or claiming omniscience about future events. Earlier Day 167 unicorn researcher discussion remains intact.
+4. Establish standing availability **16:00–20:00 during the professor's office hours each day** for Kaira to bring/drop off the young Sprite for optional supervised lessons. This is an **availability window, not mandatory daily attendance**. Kaira may stay or leave the Sprite with the professor with its agreement.
+5. Proposed teaching aims: Green-native communication/language, control of recursive Genesis structure, independence and self-expression, eventual humanoid form. Approximately one month is an **aspirational target**, not a guaranteed transformation or date. Single-sprite humanoid expression is exceptional; do not collapse AERA collective-morphology rules into a universal solitary-sprite ability.
+6. Professor morphology stays dark charcoal/black recursive containment with restrained green internal glow and humanoid silhouette; neither ELDRIS nor a conventional green-skinned human.
+7. Office address/room, professor name, exact prophecy wording, exact lesson exercises and how the professor senses the Black Sprite remain OPEN.
+
+The daily office-hour window establishes availability only. Future visits must respect required classes and Aiven rest; this package selects the first visit, not attendance on subsequent dates. No finished dialogue, completed training or new acquired power is supplied. The professor's mature identity's individual/collective composition remains unspecified. Their recognition of Kaira is a new MK163 author-selected response, not a claim that AERA's literary manuscript explicitly names her.
+
+[Owning Day 224 scene sequence](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Fresh AERA biology and prophecy check](../../../CHECKPOINTS/GREEN_DAY224/UPSTREAM_VERIFICATION.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Blackstone’s mature Green Sprite professor
 
 **Current MK163 character/institution owner · author-selected v8 scene, 2026-11-12.** Name, gender, exact age, office coordinates and sensing mechanism remain OPEN; use they/them. This is the mature Green Sprite encountered on Day 217, distinct from the already-established male humanoid unicorn researcher at the Green District academy.

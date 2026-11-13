@@ -1,3 +1,19 @@
+# Maege stationery · scoped Day 217 purchase and Day 224 use
+
+Author-selected MK163 equipment detail: Kaira and illi's existing Blackstone bookstore purchase includes textbooks, **Maege Paper spiral notebooks and loose leaf**, and **Maege Glass styluses**. Kaira takes her Maege notebook and stylus on Day 224. The stylus ink selections are exactly **Red, Orange, Yellow, Green, Blue, Violet**; **no black ink selector** is supplied and **no abacus** is purchased.
+
+**Maege** is the protected capitalization for these supplied stationery/material names. It does not rename the established lowercase maege/maegi professions, introduce a second glass substrate, imply a general world ban on black ink, or invent prices, manufacturing recipes, automatic Shapings or additional device functions. Earlier detailed maege-glass records remain intact. These are details of the same Day 217 purchase, not a repeated transaction.
+
+[Bookstore continuity and Day 224 use](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # One maege glass substrate · identification and account tablets
 
 The card and new bank-owned ledger tablet use the same **maege glass** material. The old banking-specific spelling exemption is superseded; prior wording remains evidence. A premanufactured tablet carries standard interactive layout, then a bank pedestal assigns account identity and permissions. Desk sigils connect it to local authoritative blocks; it does not independently synchronize across cities. Temporary ER foam numeric input is a firm, slightly yielding local projection; no conventional electronics, alphabetic requirement or completed Genesis signaling proof is inferred. Full interface/network specification: [banking owner](../ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md).

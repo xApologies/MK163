@@ -1,3 +1,19 @@
+# Current Green Day 224 · selected outline
+
+Read the Day 224 arc overlay and reconciliation before continuing Green. The full Day 224 outline is selected; drafting resumes with illi's 09:00 knock, not with an already-written chapter. Days 218–223 remain unassigned. Keep 11:00–13:00 Genesis Field Theory I and front-row illi — Kaira — Elaira. The early wake-up and 16:00–20:00 professor visit are date-specific exceptions to optional/ordinary routine only; recurring schedules, v5.1 curriculum, Aiven rest and EDU-01/02 remain unchanged.
+
+Keep **Maege** stationery names, six Red-through-Violet inks, no black selector or abacus. The professor's Natural Philosophy association and optional daily availability are selected; name/gender/room remain OPEN, use they/them. Preserve Sprite agency, AERA collective biology and the aspirational month target; no guaranteed maturation or unrestricted mind reading. Their recognition of Kaira is a selected story response, not new prophecy text or omniscience. Preserve all history, Orange/Yellow, exact images, retired Black Cards and inherited repositories.
+
+[Current Green outline](BOOKS/RED/ARCS/ARC_004/ARC.md) · [Professor owner](WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md)
+
+[Day 224 reconciliation](CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Current Blackstone teaching corrections · v5.1
 
 Read [current v5.1 reading notes](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) and [the targeted audit](CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md). Current first-fold/Cradle titles and topology-prompt removal resolve their v5 editorial issues. Each Genesis lesson has one primary chapter; all supporting seminars are OPTIONAL, not a second taught lesson. Conventional entries are topic-specific instructor prompts, not solved examples. All teaching remains PROPOSED.

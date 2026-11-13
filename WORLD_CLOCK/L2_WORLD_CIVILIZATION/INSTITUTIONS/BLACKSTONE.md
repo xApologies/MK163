@@ -1,3 +1,17 @@
+# Blackstone · Day 224 Natural Philosophy association
+
+The established mature Green Sprite professor's Day 224 visit is associated with **Natural Philosophy**, an existing department. The author's proposed office/home area does not determine a room, street address, separate landmark, precise map geometry or residence arrangement. Their standing 16:00–20:00 office hours offer optional mentorship, with attendance governed by consent and student schedules, not a new compulsory course. The selected first visit supersedes Kaira's optional afternoon blocks on Day 224 only. Required Genesis Field Theory I remains 11:00–13:00; Opening Convocation time is OPEN.
+
+[Professor identity, office hours and full mentorship record](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Day 217 bookstore stationery clarification](../TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md) · [Day 224 scene owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Blackstone teaching expansion · v5
 
 [All-subject five-semester teaching directory](BLACKSTONE_EDUCATION/TEACHING/V5/README.md) preserves the complete Kaira, illi and Elaira daily plans: 1,440 student-days, 736 required student-class entries and a 512-row master syllabus. All remain proposed lessons under the existing three primary timetable owners. Current v7 repairs, Aiven rest, Kaira's Semester II Ailor class and all narrative canon are unchanged. [Source qualifications and teaching readiness](BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) govern reading; no lesson is a completed story event.

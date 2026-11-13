@@ -1,3 +1,21 @@
+# Current Green update · Day 224 selected outline
+
+The selected-outline frontier now extends through Day 224; the next writing position is 09:00. No completed chapter, invented Days 218–223, later knowledge or curriculum retiming follows.
+
+- [Owning full-day scene outline](../BOOKS/RED/ARCS/ARC_004/ARC.md)
+- [Single running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+- [Professor: Natural Philosophy and optional mentorship](L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md)
+- [Maege Paper and Maege Glass stationery](L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md)
+- [Coverage, omissions and validation audit](../CHECKPOINTS/GREEN_DAY224/INTEGRATION_REPORT.md)
+
+[Day 224 reconciliation](../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Blackstone all-subject teaching plans · v5
 
 [Current proposed five-semester daily teaching plans](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md) · [Interpretation and OPEN teaching details](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) · [Coverage and validation](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md).

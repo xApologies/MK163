@@ -1,3 +1,23 @@
+# Book Red running ledger · selected-outline frontier Day 224
+
+**Author-selected outline; not completed drafted prose.** Next writing position: Day 224 at 09:00. These are scoped overlays to existing dated records, not additional rows or a second ledger; all **225 historical rows, Days 0–224**, remain verbatim below.
+
+- **Day 217 · Aeveth 30 · Aiven:** preserve move-in, Grand Archives encounter and bookstore return. Clarify the existing purchase as textbooks, Maege Paper spiral notebooks/loose leaf and Maege Glass styluses with six Red-through-Violet ink selections, no black selector and no abacus; the old rucksack remains the book bag.
+- **Days 218–223:** unassigned. No new daily events are supplied.
+- **Day 224 · Aesith 6 · Ailar:** the earlier future-anchor-only status is superseded by the full selected outline in the Green Arc owner: 09:00 first-day wake-up exception, 11:00–13:00 shared Genesis Field Theory I and first meeting with Elaira, first-lecture study/lunch, 16:00–20:00 Natural Philosophy professor visit, dinner, campus walk and relaxed evening through hour 31. No advancement beyond Day 224 or completed prose is claimed. Opening Convocation timing remains OPEN.
+
+Only the date-specific optional afternoon plan and early wake-up are superseded. The 353-day calendar, established dates, Day 166/167 events, all earlier chronology and recurring student schedules remain unchanged.
+
+[Full sequence, seating, knowledge cutoff and narrative status](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Professor mentorship scope](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md)
+
+[Day 224 reconciliation](../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Book Red running ledger · current frontier END OF DAY 217
 
 ## v8 scoped amendments to existing dated rows

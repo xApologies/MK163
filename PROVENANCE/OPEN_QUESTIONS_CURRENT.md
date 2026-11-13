@@ -1,3 +1,21 @@
+# Day 224 · scoped resolutions and remaining OPENs
+
+RESOLVED for the selected outline: the 09:00/10:00 issue is a first-day exception; Kaira and illi meet Elaira in their first class; the Day 217 invitation becomes a Day 224 16:00–20:00 visit in Natural Philosophy; the new standing office-hour window is optional availability. Detailed first-conversation and lecture/meeting dialogue remain unwritten.
+
+OPEN: Morning Opening Convocation time; exact office room/address/home arrangement; professor personal name, gender, exact age and sensing method; precise prophecy wording in dialogue; lesson exercises; young Sprite name/age, individual-versus-collective mechanism and actual humanoid development date. Approximately one month remains aspirational. Days 218–223 are unassigned, not missing scenes to invent. No guarantee of later attendance, mastery or transformation is made.
+
+The author supplies a targeted scene plan, not a complete conversation transcript or cumulative live-model export. All supplied members are recovered; no omitted attachment is referenced by this package. Existing teaching/prerequisite/source-volume limits and unrelated OPEN items persist.
+
+[Coverage and omissions audit](../CHECKPOINTS/GREEN_DAY224/INTEGRATION_REPORT.md)
+
+[Day 224 reconciliation](../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Blackstone v5.1 · editorial issues resolved
 
 RESOLVED in the current teaching files: the six split first-fold/Cradle titles and two master rows; double-brace topology example removed; one primary chapter distinguished from optional seminars in all 400 Genesis lessons; 336 conventional example templates replaced by topic-specific instructor tasks.

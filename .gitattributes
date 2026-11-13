@@ -104,3 +104,7 @@ CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/*.json text eol=lf
 PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/** -text -whitespace
 CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/*.json text eol=lf
 CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/TEACHING_PATCH.diff -text -whitespace
+
+# Exact Day 224 delivery bytes and deterministic audit JSON
+/PROVENANCE/WORKSHOP/GREEN_DAY224/** -text -whitespace
+/CHECKPOINTS/GREEN_DAY224/*.json text eol=lf

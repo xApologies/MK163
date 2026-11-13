@@ -1,0 +1,33 @@
+{
+  "id": "MK163_GREEN_DAY224",
+  "baseline": "bffeb8354bd040912dedbeab1b218a434835a018",
+  "physical_filename": "MK163_GREEN_ARC_DAY224_CODEX_HANDOFF.zip",
+  "archive_sha256": "41abf8f86650097e32abebd615535b0faf27f4eb880b84d43acf97daf660cacc",
+  "members": {
+    "DAY_224_GREEN_ARC_AUTHOR_BEATS.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md",
+      "bytes": 5415,
+      "sha256": "74779a00745cd5b0823fd6a833a528585cffd9e4783b98f7168113147a5fbfb8",
+      "disposition": "new original; preserved once"
+    },
+    "README.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_DAY224/README.md",
+      "bytes": 544,
+      "sha256": "680b3f5ce7589de3358cb68bec70d00f760d77471f908596183b049743ecfb4a",
+      "disposition": "new original; preserved once"
+    },
+    "SHA256_MANIFEST.json": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_DAY224/SHA256_MANIFEST.json",
+      "bytes": 279,
+      "sha256": "876b8741689391b97710815d4566cf79169df588590effc8fbe67c8bd1ebe86c",
+      "disposition": "new original; preserved once"
+    },
+    "executable.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_DAY224/executable.md",
+      "bytes": 2253,
+      "sha256": "cdcf97edf4384b62e92bab92e49e99a88b344b4e9eac1d4d464b9131fca27a18",
+      "disposition": "new original; preserved once"
+    }
+  },
+  "scope": "Incremental author-selected scene outline, not a cumulative model or literal transcript"
+}

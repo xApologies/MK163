@@ -1,3 +1,48 @@
+# Green Arc · author-selected outline through Day 224
+
+**Status: outlined, not completed drafted prose.** Day 224 (Aesith 6, Ailar; Semester I Day 1) now has a selected full-day structure. Next writing position: **Day 224, 09:00, illi knocks**. Day 217's complete encounter and bookstore sequence remains established as selected beats. Days 218–223 remain unassigned; nothing after Day 224 is advanced. This expands the earlier limited Day 224 plan, not a second scene or arc.
+
+## Day 217 acquisition clarification
+
+The existing bookstore purchase includes textbooks, **Maege Paper spiral notebooks and loose leaf**, and **Maege Glass styluses**. No abacus was obtained. The styluses have only **Red, Orange, Yellow, Green, Blue, Violet** ink selections; no black selector. The existing black mushroom-leather rucksack remains Kaira's repurposed book bag. These selections do not invent a price, new storage power or a second bookstore trip.
+
+## Day 224 · complete selected sequence on the 31-hour clock
+
+| Local time | Day 224 beat | Status |
+|---|---|---|
+| 09:00–11:00 | illi knocks and wakes Kaira earlier than Kaira's usual 10:00. Kaira washes, dresses in her Chainmail Robe, takes Maege notebook/stylus; breakfast and walk to class, with Nyx and young Black Sprite. | Selected |
+| 11:00–13:00 | Genesis Field Theory I, first class of semester, all three in same section. Front row, from back of classroom left to right: illi — Kaira — Elaira. First lesson is the first boundary and distinction of occurrences; mathematical authority `_bricked` Genesis Manuscript v3.0 FORMAL/39. This is where Kaira and illi meet Elaira. | Selected; lecture dialogue not yet written |
+| 13:00–15:00 | Kaira, illi and Elaira study together, reviewing first lecture. | Selected |
+| 15:00–16:00 | Lunch; Kaira and illi invite Elaira to join them. | Selected |
+| 16:00–20:00 | Kaira visits mature Green Sprite professor in **Natural Philosophy** (office/home area proposed by author). The open Day 217 invitation becomes the first substantial conversation and mentorship arrangement. | Selected; scene dialogue not yet written |
+| 20:00–21:00 | Kaira meets illi and Elaira for dinner. | Selected |
+| 21:00–22:00 | The three girls take an after-dinner walk around campus. | Selected |
+| 22:00–31:00 | Return to neighboring apartments; relaxed companionship/hanging out. No additional required coursework or dramatic event. | Selected |
+
+Preserve the earlier morning detail: Kaira is groggy, lets illi in, and prepares/dresses while illi teases her. The closing neighboring-apartments beat retains the established Kaira/illi residences; it does not assign Elaira a new apartment. The exact professor conversation and mentorship terms are owned by the character record linked below.
+
+## Scoped schedule and knowledge reconciliation
+
+The 09:00 knock is an explicit **first-day exception** to the usual wake-up, resolving the former 09:00/10:00 planning question for this date. It does not retime any recurring sleep/wake calendar or specify illi's earlier waking time. Only the stated date-specific optional afternoon plan is superseded; other students' recurring calendars remain unchanged.
+
+- Formal first-fold definitions: `0 := DNE`, `|` as first ordered boundary, `𝔠 := 0|0`; reversal is not automatically identity. `_bricked` FORMAL/39 owns mathematics. Avoid asserting physical mechanisms beyond the source.
+- The day-224 study group has only attended **one Genesis Field Theory I lecture** so far. Do not give them later-semester mathematical knowledge without a separately justified prior source.
+- Day 224 morning campus convocation time is unresolved; do not add a conflicting compulsory event.
+- The 16:00–20:00 Sprite Professor visit replaces Kaira's optional afternoon Cardsmithing prep/business, not a required class. Preserve recurring daily templates for other dates.
+- Distinguish approved beats from drafted scenes. No claim that this text is polished narrative prose.
+
+Within this selected outline, one first lecture has been attended; this does not claim a completed chapter, later-semester attendance or mastery. Use **Kaira, illi, Elaira, Nyx, Maege**. Contextual voice variants Kira/Ellie/Elara and shorthand E refer to these existing characters where appropriate; E means Elaira here, not a new person. Source quotations stay literal.
+
+[Professor meeting: biology, communication, prophecy and optional mentorship](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Stationery terminology and six ink selections](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md) · [Single running day ledger](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+[Day 224 reconciliation](../../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Green Arc · current narrative through END OF DAY 217
 
 **Status:** author-selected scene beats; dialogue, professor name and office coordinates remain OPEN. This v8 advances the narrative frontier through **the end of Day 217**, not through Day 224.

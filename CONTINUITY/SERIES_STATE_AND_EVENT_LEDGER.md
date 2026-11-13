@@ -1,3 +1,17 @@
+# Green state · Day 224 outline selected
+
+The selected-outline frontier now includes Day 224's full day; drafting resumes at 09:00 with illi's knock. This is not a completed chapter or automatic completed learning. Day 217's established selected beats persist, Days 218–223 are unassigned, and no later date is advanced. The meeting with Elaira and first substantial professor visit are selected for the forthcoming chapter. All other series state, including Orange/Yellow and Black Card retirement, is unchanged.
+
+[Canonical scene outline](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Single dated event ledger](RED_RUNNING_DAY_LEDGER.md)
+
+[Day 224 reconciliation](../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # v8 chronology · Day 167 amendment and end of Day 217
 
 Day 166 remains the initiating Black Sprite bond; Day 167’s existing unicorn consultation now includes a tentative Black Prophecy / Singularity discussion. The Day 217 move-in is followed by the selected Grand Archives meal, Sprite professor encounter/telepathy, mentorship invitation and bookstore return. Narrative frontier is **end of Day 217**. Six pre-semester days 218–223 remain unassigned; Day 224 remains future planning and GFT I 11:00–13:00 is unchanged. No completed future lesson, humanoid transformation, Violet closure or Stage II is implied. [Single running ledger with scoped overlays](RED_RUNNING_DAY_LEDGER.md).

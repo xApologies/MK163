@@ -1,3 +1,19 @@
+# Kaira · Day 224 author-selected outline state
+
+The forthcoming chapter now selects the complete Day 224 sequence, starting with the 09:00 first-day wake-up exception. Kaira takes the existing Chainmail Robe and newly specified Maege notebook/stylus to the shared first lecture, meets Elaira alongside illi, and later follows the Day 217 professor invitation. This is outline state, not completed prose, mentorship mastery or a later-semester knowledge grant. Within the outline only one Genesis Field Theory I lecture has been attended. Violet, Stage II and any completed humanoid development are not advanced.
+
+The old black mushroom-leather rucksack remains her repurposed book bag; no replacement pack or storage power is acquired. Day 217 and all earlier equipment/bond history remain intact.
+
+[Full day and relationship sequence](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Selected mentorship and prophecy recognition](BLACKSTONE_SPRITE_PROFESSOR.md) · [Exact acquired stationery](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Kaira · end-of-Day-217 state
 
 After moving into Blackstone, Kaira and illi eat at the Grand Archives with Nyx and the Black Sprite; a mature Green Sprite professor communicates directly with Kaira and offers to mentor the young Sprite, preserving their agency. The party visits the bookstore for textbooks, notebooks and class materials, then returns home. Kaira repurposes the larger black mushroom-leather rucksack previously used to carry Nyx as her book bag. This is the existing Yellow-era pack, not a new purchase or storage power.

@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-13",
+  "AERA": {
+    "repository": "xApologies/AERA",
+    "commit": "42437950ad2aa72ad885ff1a9129226da23d9286",
+    "main_verified_by": "git ls-remote refs/heads/main",
+    "files": [
+      {
+        "path": "L2/BIOLOGY/02_SPRITES.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L2/BIOLOGY/02_SPRITES.md",
+        "git_blob_sha1": "4a1f7e5aba4c376cbdf6ad15188c9cf586c16511",
+        "sha256": "03d769b15f7327709cb46e1c779d7218989c93a1bd7bc5c13645b1d2c66798ca",
+        "bytes": 3577
+      },
+      {
+        "path": "PROPHECIES.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/PROPHECIES.md",
+        "git_blob_sha1": "c0cdd36531f20bdbfba92d8d6dc2af225470f70e",
+        "sha256": "4599290346f08fd5a3beaabba78b05bc3cf88a24dccab63c39d60ed8f713308f",
+        "bytes": 5979
+      },
+      {
+        "path": "prophecies/08_THE_BLACK_PROPHECY.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/prophecies/08_THE_BLACK_PROPHECY.md",
+        "git_blob_sha1": "9e0b407d37d8952fc69c6b297fc9053a74b6c0f0",
+        "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+        "bytes": 17514
+      },
+      {
+        "path": "L2/BIOLOGY/03_BLACK_SPRITE_CRYSTAL.md",
+        "url": "https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L2/BIOLOGY/03_BLACK_SPRITE_CRYSTAL.md",
+        "git_blob_sha1": "fa133d910247ec97997c244a20d6a2961d2bd1a8",
+        "sha256": "2967aa60b383759a32e8b6e7c173924f592e594ea0cf0ec663d16fb6d7b977ad",
+        "bytes": 2036
+      }
+    ]
+  },
+  "local_black_manuscript": {
+    "path": "WORLD_CLOCK/L1_FANTASY/PROPHECIES/MANUSCRIPTS/08_THE_BLACK_PROPHECY.md",
+    "sha256": "313a862d51a29f94893cb485d7916ce729f256c26634166ce115e81b445ba115",
+    "exact_upstream_match": true
+  },
+  "inherited_repositories_modified": false,
+  "complete_upstream_review_claimed": false,
+  "math_reference": "Existing v5.1 FORMAL/39 source audit retained, no mathematical edit"
+}

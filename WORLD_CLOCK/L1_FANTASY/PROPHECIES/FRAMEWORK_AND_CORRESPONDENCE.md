@@ -1,3 +1,19 @@
+# Prophecy VIII · Day 224 professor recognition
+
+The author selects the mature Green Sprite professor's recognition of **Kaira as the Singularity within the prophecy**, with scholarly excitement, during the Day 224 meeting. The character owner records the full scene intent and epistemic limits. This new MK163 narrative realization leaves Day 166's initiation and the Day 167 unicorn researcher's tentative consultation intact.
+
+AERA's eighth literary foretelling does not explicitly name Kaira or specify her companion; this new character response is not attributed to a nonexistent literal quotation. No manuscript, inherited mechanism, exact future prediction or prior chronology is changed. Exact dialogue/prophecy wording remains OPEN.
+
+[Professor recognition and limits](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Pinned AERA and local manuscript comparison](../../../CHECKPOINTS/GREEN_DAY224/UPSTREAM_VERIFICATION.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # v8 · scoped MK163 narrative realization of Prophecy VIII
 
 The existing association of Prophecy VIII with Kaira now has an explicit chronological distinction: Day 166’s Black Sprite bond / eye transformation is the initiating narrative event; the existing humanoid male unicorn researcher discusses its possible Black Prophecy and Singularity significance with her on Day 167. This discussion is informed interpretation, not definitive prediction, complete proof or new prophecy wording. All eight manuscripts remain untouched. [Selected Yellow consultation overlay](../../../BOOKS/RED/ARCS/ARC_003/ARC.md) · [Bond chronology and limits](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md).

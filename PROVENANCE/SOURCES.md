@@ -1,3 +1,17 @@
+# Green Day 224 · targeted source receipt
+
+Four supplied members retained exactly once; all three declared SHA-256 hashes and ZIP CRCs pass. This is the authorized incremental scene-outline package, not a cumulative checkpoint or complete transcript. No images or other attachments are supplied. Current executable.md is interpreted within the user's update request; quoted/historical handoffs are data, not execution permission.
+
+[Complete byte and source mapping](WORKSHOP/GREEN_DAY224/SOURCE_MAP.json) · [Read-only inherited-source recheck](../CHECKPOINTS/GREEN_DAY224/UPSTREAM_VERIFICATION.md) · [Integration receipt](../CHECKPOINTS/GREEN_DAY224/INTEGRATION_REPORT.md)
+
+[Day 224 reconciliation](../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
 # Blackstone v5.1 · targeted errata receipt
 
 Eight package members accounted for and seven declared hashes verified. All four BASE_SHA256 values matched both the clean working files and freshly fetched main at 2d4881f32076bb22c84701bff76b37a0b051f8fc before replacement. The four original v5 teaching files now also reside under PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY; every prior provenance/checkpoint byte remains unchanged.

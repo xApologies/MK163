@@ -395,6 +395,20 @@
       "base_hashes_checked": 4,
       "original_v5_files_preserved": 4,
       "scope": "Targeted teaching errata only; schedules and narrative unchanged"
+    },
+    {
+      "id": "MK163_GREEN_DAY224",
+      "date": "2026-11-13",
+      "baseline": "bffeb8354bd040912dedbeab1b218a434835a018",
+      "physical_filename": "MK163_GREEN_ARC_DAY224_CODEX_HANDOFF.zip",
+      "archive_sha256": "41abf8f86650097e32abebd615535b0faf27f4eb880b84d43acf97daf660cacc",
+      "source_map": "PROVENANCE/WORKSHOP/GREEN_DAY224/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/GREEN_DAY224/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/GREEN_DAY224/VALIDATION.json",
+      "reverse_diff": "CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md",
+      "supplied_members": 4,
+      "declared_hashes": 3,
+      "scope": "Incremental Day 224 author-selected outline; not completed prose; recurring schedules unchanged"
     }
   ]
 }
