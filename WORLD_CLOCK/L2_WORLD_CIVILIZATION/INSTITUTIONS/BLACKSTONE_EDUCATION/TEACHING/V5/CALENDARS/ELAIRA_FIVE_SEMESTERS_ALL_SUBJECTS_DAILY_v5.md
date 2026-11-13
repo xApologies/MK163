@@ -21,6 +21,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -38,7 +40,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -96,7 +98,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Sets and subsets** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Sets and subsets.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Sets and subsets*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -137,7 +139,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Anatomical terminology** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Anatomical terminology.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Anatomical terminology*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -158,10 +160,12 @@
 
 #### 11:00–13:00 — Genesis Field Theory I
 
-**Today's exact lesson:** First fold.
+**Today's exact lesson:** First fold | and its address structure.
 
 
 **After-class study context:** and its address structure | After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -180,7 +184,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -238,7 +242,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Relations and functions** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Relations and functions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Relations and functions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -279,7 +283,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Cells and tissues** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Cells and tissues.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Cells and tissues*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -300,10 +304,12 @@
 
 #### 11:00–13:00 — Genesis Field Theory I
 
-**Today's exact lesson:** Prime cell 0.
+**Today's exact lesson:** Prime cell 0|0: identity versus occurrence.
 
 
 **After-class study context:** 0: identity versus occurrence | After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -322,7 +328,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -380,7 +386,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Open and closed sets** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Open and closed sets.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Open and closed sets*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -421,7 +427,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Skeletal structures** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Skeletal structures.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Skeletal structures*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -447,6 +453,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -464,7 +472,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -522,7 +530,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Neighborhoods and boundaries** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Neighborhoods and boundaries.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Neighborhoods and boundaries*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -563,7 +571,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Muscle systems** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Muscle systems.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Muscle systems*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -589,6 +597,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 40 (Domain-relative existence); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 40: Domain-relative existence.**
 
 **Formal content:** `Ex_D(x)` denotes existence status of x relative to bounded Genesis domain D; undefined is not the same as `0 := DNE`.
@@ -606,7 +616,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -664,7 +674,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Continuity and examples** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Continuity and examples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Continuity and examples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -705,7 +715,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Circulatory system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Circulatory system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Circulatory system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -731,6 +741,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -748,7 +760,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -806,7 +818,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connectedness** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connectedness.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connectedness*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -847,7 +859,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Respiratory system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Respiratory system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Respiratory system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -873,6 +885,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -890,7 +904,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -948,7 +962,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Paths and path connectedness** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Paths and path connectedness.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Paths and path connectedness*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -989,7 +1003,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Nervous system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Nervous system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Nervous system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1015,6 +1029,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -1032,7 +1048,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -1090,7 +1106,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Components** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Components.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Components*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1131,7 +1147,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Sensory organs** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Sensory organs.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Sensory organs*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1157,6 +1173,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -1174,7 +1192,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1232,7 +1250,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Compactness intuition** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Compactness intuition.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Compactness intuition*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1273,7 +1291,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Digestive system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Digestive system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Digestive system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1299,6 +1317,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -1316,7 +1336,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1374,7 +1394,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Homeomorphisms** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Homeomorphisms.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Homeomorphisms*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1415,7 +1435,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Renal system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Renal system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Renal system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1441,6 +1461,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 42 (White carrier); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 42: White carrier and ordered reversal.**
 
 **Formal content:** Working carrier `W=[0,1]`; `μ(a,b)=(a+b)/2`; `ρ(a,b)=(b,a)`; `μ(a,b)=μ(b,a)` does not imply identical ordered History.
@@ -1458,7 +1480,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1516,7 +1538,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Surfaces and elementary spaces** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Surfaces and elementary spaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Surfaces and elementary spaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1557,7 +1579,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Endocrine system** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Endocrine system.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Endocrine system*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1583,6 +1605,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 42 (White carrier); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 42: White carrier and ordered reversal.**
 
 **Formal content:** Working carrier `W=[0,1]`; `μ(a,b)=(a+b)/2`; `ρ(a,b)=(b,a)`; `μ(a,b)=μ(b,a)` does not imply identical ordered History.
@@ -1600,7 +1624,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1658,7 +1682,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Quotient spaces introduction** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Quotient spaces introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Quotient spaces introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1699,7 +1723,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reproductive structures** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reproductive structures.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reproductive structures*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1725,6 +1749,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -1742,7 +1768,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -1800,7 +1826,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Topological invariants** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Topological invariants.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Topological invariants*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1841,7 +1867,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Comparative anatomy** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Comparative anatomy.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Comparative anatomy*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1867,6 +1893,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -1884,7 +1912,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -1942,7 +1970,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Applications to geometry** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Applications to geometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Applications to geometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1983,7 +2011,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Organ integration** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Organ integration.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Organ integration*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2009,6 +2037,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -2026,7 +2056,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -2084,7 +2114,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Problem review** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Problem review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Problem review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2125,7 +2155,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2151,6 +2181,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -2168,7 +2200,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2226,7 +2258,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2267,7 +2299,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** anatomical position, directional terms, tissue organization, organ systems and structure–function relationships. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Describe the heart relative to the lungs using anatomical directional terms, then identify a structure–function example.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Anatomy I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2293,6 +2325,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2310,7 +2344,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2368,7 +2402,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curves and parameterization** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curves and parameterization.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curves and parameterization*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2409,7 +2443,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Lab safety** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Lab safety.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Lab safety*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2435,6 +2469,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2452,7 +2488,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2510,7 +2546,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tangent vectors** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tangent vectors.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tangent vectors*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2551,7 +2587,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Microscopy and observation** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Microscopy and observation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Microscopy and observation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2577,6 +2613,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2594,7 +2632,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2652,7 +2690,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Arc length** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Arc length.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Arc length*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2693,7 +2731,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Cell structures** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Cell structures.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Cell structures*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2719,6 +2757,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2736,7 +2776,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2794,7 +2834,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2835,7 +2875,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tissue samples** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tissue samples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tissue samples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2861,6 +2901,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -2878,7 +2920,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -2936,7 +2978,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Surfaces** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Surfaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Surfaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2977,7 +3019,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Measurement methods** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Measurement methods.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Measurement methods*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3003,6 +3045,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3020,7 +3064,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3078,7 +3122,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tangent planes** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tangent planes.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tangent planes*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3119,7 +3163,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Controlled comparisons** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Controlled comparisons.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Controlled comparisons*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3145,6 +3189,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3162,7 +3208,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3220,7 +3266,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Local coordinates** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Local coordinates.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Local coordinates*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3261,7 +3307,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Organism morphology** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Organism morphology.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Organism morphology*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3287,6 +3333,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3304,7 +3352,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3362,7 +3410,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Metrics** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Metrics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Metrics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3403,7 +3451,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Biological variation** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Biological variation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Biological variation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3429,6 +3477,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -3446,7 +3496,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -3504,7 +3554,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geodesics introduction** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geodesics introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geodesics introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3545,7 +3595,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Data recording** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Data recording.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Data recording*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3571,6 +3621,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -3588,7 +3640,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -3646,7 +3698,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connections introduction** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connections introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connections introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3687,7 +3739,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Growth observation** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Growth observation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Growth observation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3713,6 +3765,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -3730,7 +3784,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -3788,7 +3842,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Covariant derivatives** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Covariant derivatives.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Covariant derivatives*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3829,7 +3883,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Experimental controls** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Experimental controls.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Experimental controls*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3855,6 +3909,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -3872,7 +3928,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -3930,7 +3986,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature of surfaces** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature of surfaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature of surfaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3971,7 +4027,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Replicate observations** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Replicate observations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Replicate observations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3997,6 +4053,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -4014,7 +4072,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -4072,7 +4130,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geometric mappings** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geometric mappings.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geometric mappings*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4113,7 +4171,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Interpretation** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Interpretation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Interpretation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4139,6 +4197,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4156,7 +4216,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4214,7 +4274,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Examples and applications** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Examples and applications.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Examples and applications*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4255,7 +4315,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Lab report drafting** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Lab report drafting.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Lab report drafting*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4281,6 +4341,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4298,7 +4360,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -4356,7 +4418,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4397,7 +4459,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4423,6 +4485,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -4440,7 +4504,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -4498,7 +4562,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4539,7 +4603,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** hypothesis, independent/dependent variables, controls, microscopy, measurement and observation logs. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Design a controlled microscopy observation; identify variable, control and a reproducible measurement.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4565,6 +4629,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -4582,7 +4648,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -4640,7 +4706,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Smooth manifolds** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Smooth manifolds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Smooth manifolds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4681,7 +4747,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Matter and measurement** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Matter and measurement.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Matter and measurement*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4707,6 +4773,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -4724,7 +4792,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -4782,7 +4850,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Charts and atlases** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Charts and atlases.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Charts and atlases*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4823,7 +4891,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Atoms and elements** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Atoms and elements.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Atoms and elements*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4849,6 +4917,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -4866,7 +4936,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -4924,7 +4994,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tangent bundles** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tangent bundles.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tangent bundles*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4965,7 +5035,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Electron structure overview** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Electron structure overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Electron structure overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4991,6 +5061,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5008,7 +5080,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5066,7 +5138,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Vector fields** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Vector fields.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Vector fields*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5107,7 +5179,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Chemical bonds** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Chemical bonds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Chemical bonds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5133,6 +5205,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5150,7 +5224,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5208,7 +5282,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Differential forms** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Differential forms.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Differential forms*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5249,7 +5323,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Molecules and geometry** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Molecules and geometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Molecules and geometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5275,6 +5349,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5292,7 +5368,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5350,7 +5426,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Exterior derivative** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Exterior derivative.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Exterior derivative*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5391,7 +5467,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Stoichiometry** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Stoichiometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Stoichiometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5417,6 +5493,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5434,7 +5512,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5492,7 +5570,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Metrics and tensors** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Metrics and tensors.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Metrics and tensors*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5533,7 +5611,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction equations** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction equations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction equations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5559,6 +5637,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5576,7 +5656,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5634,7 +5714,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connections** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connections.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connections*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5675,7 +5755,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Conservation in reactions** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Conservation in reactions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Conservation in reactions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5701,6 +5781,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -5718,7 +5800,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5776,7 +5858,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Parallel transport** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Parallel transport.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Parallel transport*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5817,7 +5899,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Solutions and concentration** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Solutions and concentration.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Solutions and concentration*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5843,6 +5925,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -5860,7 +5944,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5918,7 +6002,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geodesics** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geodesics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geodesics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5959,7 +6043,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Acids and bases** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Acids and bases.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Acids and bases*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5985,6 +6069,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 47 (Rainbow Road); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 47: Rainbow Road path algebra.**
 
 **Formal content:** `RR_{D,B}=Path(Gen_D(B))`; `γ=aₙ∘⋯∘a₁`; ordered History `H(γ)=(a₁,…,aₙ)`.
@@ -6002,7 +6088,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -6060,7 +6146,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature tensors** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature tensors.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature tensors*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6101,7 +6187,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction energy** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction energy.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction energy*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6127,6 +6213,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 47 (Rainbow Road); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 47: Rainbow Road path algebra.**
 
 **Formal content:** `RR_{D,B}=Path(Gen_D(B))`; `γ=aₙ∘⋯∘a₁`; ordered History `H(γ)=(a₁,…,aₙ)`.
@@ -6144,7 +6232,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -6202,7 +6290,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Submanifolds** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Submanifolds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Submanifolds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6243,7 +6331,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction rates** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction rates.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction rates*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6269,6 +6357,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 55 (Group emergence); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 55: Closure before total group.**
 
 **Formal content:** A total identity automorphism group requires sufficiently closed persistent identity; before closure use partial symmetries, semigroups, groupoids or path categories.
@@ -6286,7 +6376,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -6344,7 +6434,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Global versus local structure** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Global versus local structure.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Global versus local structure*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6385,7 +6475,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Equilibrium basics** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Equilibrium basics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Equilibrium basics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6411,6 +6501,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 50 (Finite-invariant limit); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 50: Finite invariant no-go.**
 
 **Formal content:** For unbounded distinguishable H and finite F, `q:H→F` cannot be injective (pigeonhole principle).
@@ -6428,7 +6520,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -6486,7 +6578,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Worked geometry cases** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Worked geometry cases.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Worked geometry cases*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6527,7 +6619,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Chemical safety and laboratory practice** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Chemical safety and laboratory practice.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Chemical safety and laboratory practice*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6553,6 +6645,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6570,7 +6664,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6628,7 +6722,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6669,7 +6763,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Problem review** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Problem review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Problem review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6695,6 +6789,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6712,7 +6808,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -6770,7 +6866,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** smooth manifolds, tangent spaces T_pM, differential df_p, coordinate changes, metric compatibility and connection. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For f(u,v)=(u²,v), compute the Jacobian at (1,2) and describe its action on a tangent vector.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6811,7 +6907,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6852,7 +6948,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Manifold foundations review** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Manifold foundations review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Manifold foundations review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6893,7 +6989,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Bonding review** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Bonding review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Bonding review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6934,7 +7030,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Advanced lab safety** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Advanced lab safety.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Advanced lab safety*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6975,7 +7071,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Fiber bundles** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Fiber bundles.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Fiber bundles*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7016,7 +7112,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Thermodynamic concepts** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Thermodynamic concepts.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Thermodynamic concepts*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7057,7 +7153,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Study design** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Study design.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Study design*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7098,7 +7194,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Sections and frames** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Sections and frames.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Sections and frames*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7139,7 +7235,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Equilibrium systems** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Equilibrium systems.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Equilibrium systems*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7180,7 +7276,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tissue organization** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tissue organization.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tissue organization*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7221,7 +7317,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connections on bundles** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connections on bundles.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connections on bundles*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7262,7 +7358,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Acid-base equilibria** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Acid-base equilibria.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Acid-base equilibria*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7303,7 +7399,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Comparative structures** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Comparative structures.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Comparative structures*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7344,7 +7440,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature and holonomy** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature and holonomy.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature and holonomy*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7385,7 +7481,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Oxidation-reduction** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Oxidation-reduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Oxidation-reduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7426,7 +7522,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Physiology observations** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Physiology observations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Physiology observations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7467,7 +7563,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Differential forms advanced** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Differential forms advanced.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Differential forms advanced*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7508,7 +7604,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Electrochemistry** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Electrochemistry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Electrochemistry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7549,7 +7645,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Controlled intervention** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Controlled intervention.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Controlled intervention*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7590,7 +7686,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Integration on manifolds** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Integration on manifolds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Integration on manifolds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7631,7 +7727,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction kinetics** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction kinetics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction kinetics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7672,7 +7768,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Sample handling** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Sample handling.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Sample handling*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7713,7 +7809,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Topology/geometry relationships** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Topology/geometry relationships.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Topology/geometry relationships*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7754,7 +7850,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Catalysis** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Catalysis.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Catalysis*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7795,7 +7891,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Quantitative records** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Quantitative records.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Quantitative records*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7836,7 +7932,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Symmetries and vector fields** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Symmetries and vector fields.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Symmetries and vector fields*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7877,7 +7973,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Coordination chemistry** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Coordination chemistry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Coordination chemistry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7918,7 +8014,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Biological variability** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Biological variability.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Biological variability*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7959,7 +8055,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geometric flows introduction** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geometric flows introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geometric flows introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8000,7 +8096,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Materials and phase behavior** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Materials and phase behavior.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Materials and phase behavior*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8041,7 +8137,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Error and uncertainty** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Error and uncertainty.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Error and uncertainty*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8082,7 +8178,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geometric invariants** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geometric invariants.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geometric invariants*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8123,7 +8219,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Chemical analysis** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Chemical analysis.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Chemical analysis*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8164,7 +8260,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Replication** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Replication.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Replication*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8205,7 +8301,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Submanifold geometry** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Submanifold geometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Submanifold geometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8246,7 +8342,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction mechanisms introduction** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction mechanisms introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction mechanisms introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8287,7 +8383,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Data interpretation** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Data interpretation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Data interpretation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8328,7 +8424,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Advanced geometric examples** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Advanced geometric examples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Advanced geometric examples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8369,7 +8465,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Laboratory data interpretation** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Laboratory data interpretation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Laboratory data interpretation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8410,7 +8506,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Case study** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Case study.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Case study*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8451,7 +8547,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Research problem workshop** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Research problem workshop.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Research problem workshop*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8492,7 +8588,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Applied chemistry cases** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Applied chemistry cases.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Applied chemistry cases*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8533,7 +8629,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Report preparation** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Report preparation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Report preparation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8574,7 +8670,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8615,7 +8711,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8656,7 +8752,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8697,7 +8793,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** curvature tensors, geodesics, parallel transport, topology of manifolds and local/global distinctions. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Contrast a locally flat cylindrical surface with a sphere; identify which claim is local and which is global.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8738,7 +8834,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** reaction quotient Q, equilibrium constant K, ΔG=ΔG°+RT ln Q, reaction rates, acids/bases and redox. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For Q<K, predict the direction of net reaction under the stated equilibrium convention.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8779,7 +8875,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** experimental controls, microscopy, cell and tissue physiology, sampling error and replication. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare two experimental groups and distinguish biological variation from instrument measurement error.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab II. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8820,7 +8916,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Classical field motivation** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Classical field motivation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Classical field motivation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8861,7 +8957,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Carbon bonding** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Carbon bonding.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Carbon bonding*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8902,7 +8998,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Capstone lab safety** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Capstone lab safety.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Capstone lab safety*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8943,7 +9039,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Fields and states** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Fields and states.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Fields and states*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8984,7 +9080,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Functional groups** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Functional groups.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Functional groups*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9025,7 +9121,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Research question** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Research question.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Research question*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9066,7 +9162,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Symmetries** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Symmetries.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Symmetries*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9107,7 +9203,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Naming organic molecules** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Naming organic molecules.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Naming organic molecules*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9148,7 +9244,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Protocol design** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Protocol design.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Protocol design*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9189,7 +9285,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Lagrangian formulation overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Lagrangian formulation overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Lagrangian formulation overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9230,7 +9326,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Stereochemistry** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Stereochemistry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Stereochemistry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9271,7 +9367,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Baseline observation** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Baseline observation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Baseline observation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9312,7 +9408,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Scalar fields** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Scalar fields.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Scalar fields*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9353,7 +9449,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Conformations** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Conformations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Conformations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9394,7 +9490,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Advanced measurement** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Advanced measurement.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Advanced measurement*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9435,7 +9531,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Canonical quantization introduction** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Canonical quantization introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Canonical quantization introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9476,7 +9572,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction mechanisms** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction mechanisms.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction mechanisms*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9517,7 +9613,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Experimental comparison** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Experimental comparison.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Experimental comparison*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9558,7 +9654,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Operators and observables** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Operators and observables.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Operators and observables*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9599,7 +9695,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Substitution reactions** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Substitution reactions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Substitution reactions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9640,7 +9736,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Data quality** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Data quality.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Data quality*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9681,7 +9777,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Free-field modes** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Free-field modes.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Free-field modes*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9722,7 +9818,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Elimination reactions** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Elimination reactions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Elimination reactions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9763,7 +9859,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Interim review** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Interim review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Interim review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9804,7 +9900,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Spinor fields overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Spinor fields overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Spinor fields overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9845,7 +9941,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Alkenes and alkynes** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Alkenes and alkynes.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Alkenes and alkynes*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9886,7 +9982,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Replication** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Replication.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Replication*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9927,7 +10023,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Interactions introduction** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Interactions introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Interactions introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9968,7 +10064,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Addition reactions** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Addition reactions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Addition reactions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10009,7 +10105,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Interpretation** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Interpretation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Interpretation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10050,7 +10146,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Perturbation concepts** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Perturbation concepts.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Perturbation concepts*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10091,7 +10187,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Aromaticity introduction** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Aromaticity introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Aromaticity introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10132,7 +10228,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Limitations** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Limitations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Limitations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10173,7 +10269,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Propagators overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Propagators overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Propagators overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10214,7 +10310,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Carbonyl compounds** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Carbonyl compounds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Carbonyl compounds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10255,7 +10351,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Evidence synthesis** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Evidence synthesis.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Evidence synthesis*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10296,7 +10392,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Conservation laws** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Conservation laws.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Conservation laws*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10337,7 +10433,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Alcohols and ethers** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Alcohols and ethers.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Alcohols and ethers*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10378,7 +10474,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Final investigation** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Final investigation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Final investigation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10419,7 +10515,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Field-theory examples** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Field-theory examples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Field-theory examples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10460,7 +10556,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Organic synthesis planning** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Organic synthesis planning.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Organic synthesis planning*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10501,7 +10597,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Report drafting** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Report drafting.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Report drafting*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10542,7 +10638,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10583,7 +10679,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10624,7 +10720,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Presentation** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Presentation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Presentation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10665,7 +10761,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10706,7 +10802,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** carbon valence, functional groups, stereochemistry, substitution/addition/elimination and reaction mechanisms. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Compare ethanol CH₃CH₂OH and dimethyl ether CH₃OCH₃: same formula, different connectivity and functional class.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Organic Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10747,7 +10843,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** integrated experimental design, assay validation, ethics, reproducibility and evidence-based reporting. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Write a protocol with controls, replication, a blinded assessment and criteria for rejecting a hypothesis.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Biology Lab III. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.

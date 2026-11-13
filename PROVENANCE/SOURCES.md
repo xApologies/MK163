@@ -1,3 +1,15 @@
+# Blackstone v5.1 · targeted errata receipt
+
+Eight package members accounted for and seven declared hashes verified. All four BASE_SHA256 values matched both the clean working files and freshly fetched main at 2d4881f32076bb22c84701bff76b37a0b051f8fc before replacement. The four original v5 teaching files now also reside under PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY; every prior provenance/checkpoint byte remains unchanged.
+
+[Current errata plus complete original-v5 mapping](WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SOURCE_MAP.json) · [Validation and exact before/after hashes](../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md). Historical v5 source-map paths describe their original commit; use the new mapping to locate the preserved originals after this authorized replacement. The handoff is scoped teaching-only permission, not authority to execute old chats or modify inherited repositories.
+
+## Earlier v5 record · preserved verbatim
+
+The v5.1 corrections above supersede only their stated scope. Earlier audit wording records the original v5 snapshot; unrelated decisions remain in force.
+
+---
+
 # Blackstone curriculum v5 · exact source receipt
 
 Twelve supplied members accounted for; eleven declared SHA-256 hashes pass. Eleven new originals are retained once, with the v8 syllabus reused by exact hash. The four large teaching documents reside in the versioned Blackstone teaching directory; the manifest, handoff, README and supplied antecedents reside under provenance. [Complete source paths and hashes](WORKSHOP/BLACKSTONE_CURRICULUM_V5/SOURCE_MAP.json).

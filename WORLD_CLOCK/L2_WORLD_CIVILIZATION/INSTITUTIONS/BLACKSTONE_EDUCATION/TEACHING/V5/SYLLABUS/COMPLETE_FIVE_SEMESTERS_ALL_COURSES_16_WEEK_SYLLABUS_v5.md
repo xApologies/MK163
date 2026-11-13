@@ -53,8 +53,8 @@
 | Week | Semester day | Weekday | Exact lesson |
 |---:|---:|---|---|
 | 1 | 1 | Ailar | First boundary and why two occurrences can differ. |
-| 2 | 7 | Ailar | First fold. |
-| 3 | 13 | Ailar | Prime cell 0. |
+| 2 | 7 | Ailar | First fold \| and its address structure |
+| 3 | 13 | Ailar | Prime cell 0\|0: identity versus occurrence |
 | 4 | 19 | Ailar | Boundary–identity worked examples and witness conditions. |
 | 5 | 25 | Ailar | Domain-relative existence: scope and membership. |
 | 6 | 31 | Ailar | Relations between addressed structures. |

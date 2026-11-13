@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-13",
+  "baseline": "2d4881f32076bb22c84701bff76b37a0b051f8fc",
+  "archive": "MK163_BLACKSTONE_V5_1_TARGETED_CURRICULUM_CORRECTIONS_CODEX.zip",
+  "archive_sha256": "6f62f4874b378240d8af9bd46653e2280b3bab498c0969608bbec3213a58cd5e",
+  "members": {
+    "PATCHED/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "1434aa359547f139dcbd982cabc9db320efd296553550aba39d663e76c23273a",
+      "bytes": 1138183
+    },
+    "PATCHED/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "3e9c86321dd0cbbb68299d56c771722420cb4244f7cb1777d933fe4aea4797bc",
+      "bytes": 1051901
+    },
+    "PATCHED/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "f4c1a82e5dbc926dd0caffd879e3574fccd4ddfb12adcc29bea27ebea6c66db0",
+      "bytes": 918551
+    },
+    "PATCHED/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md": {
+      "repository_path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md",
+      "sha256": "9e30ddf1a02ac71ed4d60d24993991ad187c12d591b3ca24d0a718f8b5b04505",
+      "bytes": 29889
+    },
+    "executable.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/executable.md",
+      "sha256": "428cc945ee6f74f9e09f335e42b562de78ccf33d50382c7ca394acedf74a1b23",
+      "bytes": 2626
+    },
+    "README.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/README.md",
+      "sha256": "cd68f2df49e699dd658ae1af35e1270614168e12228ae1bf214d4901272cee82",
+      "bytes": 1044
+    },
+    "BASE_SHA256.json": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/BASE_SHA256.json",
+      "sha256": "35ae7cc11cfa93e05c381e39d1b2634a632c5480a0a90efb3e04aee007a0c90a",
+      "bytes": 530
+    },
+    "SHA256_MANIFEST.json": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SHA256_MANIFEST.json",
+      "sha256": "79bc6a40b551049b2606baf2ced5285c20186cd2e94e4b79d79dab4fd340d500",
+      "bytes": 822
+    }
+  },
+  "replacements": [
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "original_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "before_sha256": "3846109c3c0fd78d5f925153228770e703efa7a607ea5ddbead42be4d652aad2",
+      "after_sha256": "1434aa359547f139dcbd982cabc9db320efd296553550aba39d663e76c23273a",
+      "before_bytes": 1031333,
+      "after_bytes": 1138183
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "original_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "before_sha256": "5726e3c198e5b8218adce82e22c8d929ac0052d0268c4a83ce434bef87a262ff",
+      "after_sha256": "3e9c86321dd0cbbb68299d56c771722420cb4244f7cb1777d933fe4aea4797bc",
+      "before_bytes": 954867,
+      "after_bytes": 1051901
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "original_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "before_sha256": "17688e8269b6a1c7cbd8998c6ccd5b7339528d67bd026441f93b6ed67b5fa30b",
+      "after_sha256": "f4c1a82e5dbc926dd0caffd879e3574fccd4ddfb12adcc29bea27ebea6c66db0",
+      "before_bytes": 836928,
+      "after_bytes": 918551
+    },
+    {
+      "path": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md",
+      "original_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md",
+      "before_sha256": "84a499f9f00ee8d3df82619c01118add42a386f257191b1c20215f0465410ad2",
+      "after_sha256": "9e30ddf1a02ac71ed4d60d24993991ad187c12d591b3ca24d0a718f8b5b04505",
+      "before_bytes": 29831,
+      "after_bytes": 29889
+    }
+  ],
+  "original_v5_members": {
+    "CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "3846109c3c0fd78d5f925153228770e703efa7a607ea5ddbead42be4d652aad2",
+      "bytes": 1031333,
+      "operation": "preserve original v5 bytes before targeted replacement"
+    },
+    "CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "5726e3c198e5b8218adce82e22c8d929ac0052d0268c4a83ce434bef87a262ff",
+      "bytes": 954867,
+      "operation": "preserve original v5 bytes before targeted replacement"
+    },
+    "CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+      "sha256": "17688e8269b6a1c7cbd8998c6ccd5b7339528d67bd026441f93b6ed67b5fa30b",
+      "bytes": 836928,
+      "operation": "preserve original v5 bytes before targeted replacement"
+    },
+    "SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md",
+      "sha256": "84a499f9f00ee8d3df82619c01118add42a386f257191b1c20215f0465410ad2",
+      "bytes": 29831,
+      "operation": "preserve original v5 bytes before targeted replacement"
+    },
+    "PRIOR_V4/SYLLABUS/FIVE_SEMESTERS_16_WEEK_MATHEMATICS_SEQUENCE_v4.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/PRIOR_V4/SYLLABUS/FIVE_SEMESTERS_16_WEEK_MATHEMATICS_SEQUENCE_v4.md",
+      "sha256": "938656b2ad633b800ad0a651a365d6c424c78ac6c9f8707a73b30041ae1ef367",
+      "bytes": 12938,
+      "operation": "preserve new source bytes"
+    },
+    "PRIOR_V4/SYLLABUS/ORIGINAL_v3_SYLLABUS.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/PRIOR_V4/SYLLABUS/ORIGINAL_v3_SYLLABUS.md",
+      "sha256": "7a4d856205bb8d76b99af5533c66ffd2d516953cca325aa8caea3f644e370cfe",
+      "bytes": 4689,
+      "operation": "preserve new source bytes"
+    },
+    "PRIOR_V4/SOURCE/V8_SYLLABUS.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md",
+      "sha256": "3479dda16bcbbb6aa0733d746e467f976ed52bbb7aaa390286e3f6a2ff790a36",
+      "bytes": 9366,
+      "operation": "reuse existing exact bytes"
+    },
+    "PRIOR_V4/SOURCE/V3_INTEGRATION_README.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/PRIOR_V4/SOURCE/V3_INTEGRATION_README.md",
+      "sha256": "bedd27b38e78937148605be32a57594c032252a9aa658db57b00f0c4e076375f",
+      "bytes": 756,
+      "operation": "preserve new source bytes"
+    },
+    "PRIOR_V4/SOURCE/BRICKED_DEPENDENCY_SPINE_EXCERPT.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/PRIOR_V4/SOURCE/BRICKED_DEPENDENCY_SPINE_EXCERPT.md",
+      "sha256": "cc37bc2f2d2de982fbab2a39ff87cf384cd631f9dc598344a97ef6e61df66509",
+      "bytes": 347,
+      "operation": "preserve new source bytes"
+    },
+    "README.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/README.md",
+      "sha256": "81f759cc5c64f638852344825fe46d575a38f385cea43dfaa4f0413b944f5621",
+      "bytes": 883,
+      "operation": "preserve new source bytes"
+    },
+    "executable.md": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/executable.md",
+      "sha256": "1e3d4a2f49bcda3145554737e1ec7d46238ea204a87871a0c0082ad3d4d5b2b8",
+      "bytes": 1790,
+      "operation": "preserve new source bytes"
+    },
+    "SHA256_MANIFEST.json": {
+      "repository_path": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/SHA256_MANIFEST.json",
+      "sha256": "aa926e114460f99c99e008258c30a499f269b9310602dbe9ab7d262657c5460e",
+      "bytes": 1299,
+      "operation": "preserve new source bytes"
+    }
+  },
+  "historical_v5_source_map": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/SOURCE_MAP.json",
+  "historical_v5_source_map_sha256": "a42adf87754f5a5296c1bc6cdd6d66e323bcdbed35dd148932c159a5afb5c08e",
+  "source_verification": {
+    "bricked_commit": "c89676fc26000ae6f5fdad66a56e118b285d9b1d",
+    "AERA_commit": "42437950ad2aa72ad885ff1a9129226da23d9286",
+    "both_live_refs_rechecked": "2026-11-13",
+    "prior_audit": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/SOURCE_REVIEW.json",
+    "prior_audit_sha256": "bc61a3668b3f87a00a1bbbb8258ddf70312d747f96957e9fe9aeaa08bc51fc2f",
+    "method": "Primary formal passages and both source anchors are byte-identical to audited v5. Existing 18-chapter/dependency-spine and five AERA interface audit reused after fresh live-ref check; no new whole-corpus or independent-proof claim."
+  }
+}

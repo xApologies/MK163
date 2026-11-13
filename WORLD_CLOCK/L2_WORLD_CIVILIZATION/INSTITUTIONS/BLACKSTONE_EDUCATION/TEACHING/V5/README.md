@@ -1,3 +1,17 @@
+# Current teaching edition · v5.1 targeted errata
+
+The same three calendars and master syllabus linked below now contain the **v5.1 corrected proposals**. Counts, schedules, v7 repairs and story frontier are unchanged. [Current resolved corrections and remaining teaching limits](READING_NOTES.md) govern the preserved older v5 introduction below.
+
+The original four v5 delivery files are retained byte-for-byte under [provenance (Kaira example)](../../../../../../PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md); the [complete original/current source map](../../../../../../PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SOURCE_MAP.json) locates all twelve original v5 members and all eight errata members. Earlier v5 manifests, source map and audit/validator records remain unchanged snapshots of commit 2d4881f32076bb22c84701bff76b37a0b051f8fc. They describe that historical edition; the current v5.1 validator resolves the preserved originals and current replacements explicitly.
+
+[Targeted correction report](../../../../../../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md) · [Exact four-file diff](../../../../../../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/TEACHING_PATCH.diff).
+
+## Earlier v5 record · preserved verbatim
+
+The v5.1 corrections above supersede only their stated scope. Earlier audit wording records the original v5 snapshot; unrelated decisions remain in force.
+
+---
+
 # Blackstone teaching plans · all subjects v5
 
 **PROPOSED author-designed teaching plans, integrated 2026-11-13.** This is the discoverable entry point for the complete supplied v5 calendars and their reading qualifications. The three existing primary curriculum owners remain the authority for enrollment, required meetings and personal daily schedules. These versioned lesson plans add teaching detail; they do not establish attendance, understanding, a successful experiment, a new ability or any completed story event.

@@ -1,3 +1,15 @@
+# Current Blackstone teaching corrections · v5.1
+
+Read [current v5.1 reading notes](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) and [the targeted audit](CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md). Current first-fold/Cradle titles and topology-prompt removal resolve their v5 editorial issues. Each Genesis lesson has one primary chapter; all supporting seminars are OPTIONAL, not a second taught lesson. Conventional entries are topic-specific instructor prompts, not solved examples. All teaching remains PROPOSED.
+
+Preserve current schedules, EDU-01/02, Ailor, Aiven, all original v5 source bytes and end-of-Day-217 frontier. The earlier v5 requirement to retain unresolved topology ambiguity is historical in this corrected scope. Source proof limits, AERA authority, prerequisite/solution OPENs and unverified volume references remain.
+
+## Earlier v5 record · preserved verbatim
+
+The v5.1 corrections above supersede only their stated scope. Earlier audit wording records the original v5 snapshot; unrelated decisions remain in force.
+
+---
+
 # Current Blackstone teaching expansion · v5
 
 Read [the v5 teaching entry point](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md), [source corrections and limitations](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) and [the integration audit](CHECKPOINTS/BLACKSTONE_CURRICULUM_V5/INTEGRATION_REPORT.md). All calendars are **PROPOSED teaching plans**. Existing KAIRA/ILLI/ELAIRA_PRIMARY owners still govern schedules; EDU-01/02 remain RESOLVED. Preserve all fifteen full semester records, Kaira Semester II Ailor 15:00–17:00 Sigil Architecture and protected Aiven rest. Semester-local days are not new story dates; frontier remains end of Day 217.

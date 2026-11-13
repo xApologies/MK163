@@ -1,3 +1,25 @@
+# Current targeted correction · v5.1
+
+Integrated 2026-11-13 from the author-supplied targeted errata. The four current teaching files now contain the exact PATCHED bytes. [Correction report and validation](../../../../../../CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md) · [Original/resulting hashes and source paths](../../../../../../PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SOURCE_MAP.json). All earlier audit text remains below as the v5 historical record.
+
+**T01 — RESOLVED in current lesson titles and master rows.** All three First fold and three Cradle titles now read “First fold | and its address structure” and “Prime cell 0|0: identity versus occurrence.” The master escapes the mathematical pipe so it remains inside its table cell. Some inherited after-class fragments, course-transfer labels and precise-objective shorthand still retain the old truncated wording; the corrected exact lesson title governs these repetitions. They do not define additional lessons or remove the pipe's mathematical meaning.
+
+**T02 — RESOLVED for current teaching prompts.** The literal double-brace example has been removed from all 48 Topology I student-class entries. The patch does not insert a replacement topology exercise. If the single-brace example τ={∅,{a},X} for X={a,b,c} is later selected, it is a valid topology, used only after introducing its axioms. The earlier two-reading discussion below is historical, not an unresolved requirement in the current prompts.
+
+**T03 — Primary/supporting distinction RESOLVED; worked solutions still OPEN.** Each of the 400 Genesis-related lessons identifies one primary chapter and marks its preserved seminar OPTIONAL. There are 215 distinct primary/supporting pairs; the other 185 reference the same chapter in both roles. Supporting material is not an additional required session and is not assumed taught or learned. The new authority paragraph controls the inherited generic delivery-plan phrases “board problem recorded above” and “independent problem”: scheduled work refers to the primary board demonstration and assigned exercise, not compulsory use of the optional seminar. No time or enrollment changes follow.
+
+All 336 conventional entries replace the repeated worked-example template with an instructor task naming that meeting's topic and discipline. These are topic-specific **lesson design prompts**, not solved or independently verified exercises. Actual problem selection, solutions, prerequisite support, student comprehension and practical outcomes remain OPEN. The existing technical-foundation lists remain a pool of concepts; they do not establish prior instruction or mastery.
+
+**T04/T05 — unchanged limits.** The v4 allocation differences, unavailable predecessor daily files, inherited inaccurate claim that an original v8 daily ledger is included, and unverified Astrius/Vera volume citations remain documented. Primary mathematics and all supporting definitions/examples are preserved. Source assumptions, SU(n) proof status, natural-law cutoff and AERA operations retain their authority; this educational mapping proves no new theorem.
+
+The story remains at end of Day 217. All 15 detailed semester records, required schedules, optional routines, Kaira's Ailor exception, Aiven rest and EDU-01/EDU-02 repairs are unchanged. No event, ability, grade or completed experiment is added.
+
+## Earlier v5 record · preserved verbatim
+
+The v5.1 corrections above supersede only their stated scope. Earlier audit wording records the original v5 snapshot; unrelated decisions remain in force.
+
+---
+
 # v5 reading corrections and teaching limitations
 
 These annotations govern use of the preserved proposed teaching material. They repair interpretation without changing the original package bytes, retiming courses, inventing prior learning or promoting proposals into completed canon.

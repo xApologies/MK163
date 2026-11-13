@@ -379,6 +379,22 @@
       "declared_hashes": 11,
       "scope": "Complete supplied proposed teaching calendars and syllabus; existing timetables and narrative unchanged",
       "literal_transcript_complete": false
+    },
+    {
+      "id": "MK163_BLACKSTONE_CURRICULUM_V5_1",
+      "date": "2026-11-13",
+      "baseline": "2d4881f32076bb22c84701bff76b37a0b051f8fc",
+      "physical_filename": "MK163_BLACKSTONE_V5_1_TARGETED_CURRICULUM_CORRECTIONS_CODEX.zip",
+      "archive_sha256": "6f62f4874b378240d8af9bd46653e2280b3bab498c0969608bbec3213a58cd5e",
+      "source_map": "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/VALIDATION.json",
+      "exact_diff": "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/TEACHING_PATCH.diff",
+      "supplied_members": 8,
+      "declared_hashes": 7,
+      "base_hashes_checked": 4,
+      "original_v5_files_preserved": 4,
+      "scope": "Targeted teaching errata only; schedules and narrative unchanged"
     }
   ]
 }

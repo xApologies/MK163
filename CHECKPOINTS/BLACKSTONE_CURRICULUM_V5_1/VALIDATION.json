@@ -1,0 +1,451 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_TEACHING_LIMITATIONS",
+  "baseline": "2d4881f32076bb22c84701bff76b37a0b051f8fc",
+  "base_hashes_verified": 4,
+  "current_manifest_hashes": 7,
+  "original_v5_hashes_verified": 11,
+  "current_package_members": 8,
+  "original_v5_members_preserved": 12,
+  "student_days": 1440,
+  "class_entries": 736,
+  "classes_by_student": {
+    "Kaira": 256,
+    "illi": 240,
+    "Elaira": 240
+  },
+  "master_weekly_lessons": 512,
+  "shared_full_lesson_groups": 160,
+  "recurring_daily_patterns": 90,
+  "correction_counts": {
+    "primary": 400,
+    "distinct_support": 215,
+    "nonclass": 704,
+    "conventional": 336,
+    "rest": 240,
+    "titles": 6
+  },
+  "primary_chapters": [
+    39,
+    40,
+    41,
+    42,
+    44,
+    45,
+    46,
+    47,
+    48,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "EDU-01": "RESOLVED",
+  "EDU-02": "RESOLVED",
+  "material_conflicts": [],
+  "added": [
+    "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/TEACHING_PATCH.diff",
+    "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/VALIDATION.json",
+    "CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5/ORIGINAL_DELIVERY/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/BASE_SHA256.json",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/README.md",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SHA256_MANIFEST.json",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_CURRICULUM_V5_1/executable.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ELAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/ILLI_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/CALENDARS/KAIRA_FIVE_SEMESTERS_ALL_SUBJECTS_DAILY_v5.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/SYLLABUS/COMPLETE_FIVE_SEMESTERS_ALL_COURSES_16_WEEK_SYLLABUS_v5.md"
+  ],
+  "deleted": [],
+  "counts": {
+    "added": 13,
+    "modified": 11,
+    "deleted": 0,
+    "prior_unchanged": 860
+  },
+  "checks": [
+    {
+      "check": "eight exact current package members",
+      "pass": true
+    },
+    {
+      "check": "seven declared hashes and full accounting",
+      "pass": true
+    },
+    {
+      "check": "four expected baseline hashes match actual baseline Git objects",
+      "pass": true
+    },
+    {
+      "check": "all twelve original v5 members preserved exactly",
+      "pass": true
+    },
+    {
+      "check": "original eleven v5 hashes still validate through preservation map",
+      "pass": true
+    },
+    {
+      "check": "historical v5 source map unchanged",
+      "pass": true
+    },
+    {
+      "check": "four old/new file mappings exact",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 1 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 1 enrollment",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 2 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 2 enrollment",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 3 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 3 enrollment",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 4 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 4 enrollment",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 5 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 5 enrollment",
+      "pass": true
+    },
+    {
+      "check": "KAIRA five full semester records",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 1 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 1 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 2 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 2 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 3 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 3 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 4 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 4 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 5 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 5 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ILLI five full semester records",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 1 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 1 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 2 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 2 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 3 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 3 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 4 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 4 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 5 31-hour patterns",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 5 enrollment",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA five full semester records",
+      "pass": true
+    },
+    {
+      "check": "KAIRA unchanged introduction and 480 entries",
+      "pass": true
+    },
+    {
+      "check": "KAIRA topology double-brace example removed",
+      "pass": true
+    },
+    {
+      "check": "KAIRA all calendar changes exactly reversible and scoped",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 1 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 2 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 3 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 4 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "KAIRA semester 5 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ILLI unchanged introduction and 480 entries",
+      "pass": true
+    },
+    {
+      "check": "ILLI topology double-brace example removed",
+      "pass": true
+    },
+    {
+      "check": "ILLI all calendar changes exactly reversible and scoped",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 1 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 2 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 3 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 4 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ILLI semester 5 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA unchanged introduction and 480 entries",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA topology double-brace example removed",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA all calendar changes exactly reversible and scoped",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 1 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 2 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 3 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 4 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "ELAIRA semester 5 exact 16-week timetable",
+      "pass": true
+    },
+    {
+      "check": "400 primary, 215 distinct supporting, 336 prompts, 6 titles",
+      "pass": true
+    },
+    {
+      "check": "15 primary chapters and all 18 total anchors",
+      "pass": true
+    },
+    {
+      "check": "all 160 shared groups identical including full lesson text",
+      "pass": true
+    },
+    {
+      "check": "master has only two authorized escaped-pipe title corrections",
+      "pass": true
+    },
+    {
+      "check": "512 master rows, 32 course sections, all calendar topics agree",
+      "pass": true
+    },
+    {
+      "check": "EDU-01/02 and Ailor preserved",
+      "pass": true
+    },
+    {
+      "check": "pinned prior audit unchanged",
+      "pass": true
+    },
+    {
+      "check": "all 18 formal reference paths in audited source corpus",
+      "pass": true
+    },
+    {
+      "check": "resolved scope and remaining limitations explicit",
+      "pass": true
+    },
+    {
+      "check": "exact scoped inventory: 13 added, 11 modified, no deletion",
+      "pass": true
+    },
+    {
+      "check": "prior attributes unchanged",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md earlier body preserved",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md earlier body preserved",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md earlier body preserved",
+      "pass": true
+    },
+    {
+      "check": "single append-only registry record",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/README.md earlier body preserved",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md earlier body preserved",
+      "pass": true
+    },
+    {
+      "check": "all 860 untargeted files byte-identical []",
+      "pass": true
+    },
+    {
+      "check": "no story/ledger/schedule-owner edits or inbox tracking",
+      "pass": true
+    },
+    {
+      "check": "stored exact four-file diff matches current Git comparison",
+      "pass": true
+    },
+    {
+      "check": "new links resolve []",
+      "pass": true
+    },
+    {
+      "check": "whitespace check",
+      "pass": true
+    },
+    {
+      "check": "repository structural validator",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "remaining_limits": [
+    "Conventional prompts still require actual problems, worked solutions and prerequisite support",
+    "Supporting seminars not assumed taught; no completed attendance or mastery",
+    "Inherited shorthand governed by corrected exact titles and primary-authority paragraph",
+    "Predecessor daily files and individual Astrius/Vera volumes remain unavailable/unverified"
+  ]
+}

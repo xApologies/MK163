@@ -1,3 +1,15 @@
+# Blackstone v5.1 · editorial issues resolved
+
+RESOLVED in the current teaching files: the six split first-fold/Cradle titles and two master rows; double-brace topology example removed; one primary chapter distinguished from optional seminars in all 400 Genesis lessons; 336 conventional example templates replaced by topic-specific instructor tasks.
+
+OPEN: actual conventional problems and worked solutions, prerequisite support, attendance/mastery, practical outcomes, missing predecessor daily records and individual Astrius/Vera volumes. Inherited shorthand/fragments are read under the corrected exact title and new primary-authority paragraph, as documented in [current reading notes](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md). All narrative and unrelated OPEN items persist; no timetable conflict is introduced.
+
+## Earlier v5 record · preserved verbatim
+
+The v5.1 corrections above supersede only their stated scope. Earlier audit wording records the original v5 snapshot; unrelated decisions remain in force.
+
+---
+
 # Blackstone curriculum v5 · teaching limits
 
 No new required-schedule conflict: all 736 student-class entries agree with existing owners; EDU-01 and EDU-02 remain RESOLVED.

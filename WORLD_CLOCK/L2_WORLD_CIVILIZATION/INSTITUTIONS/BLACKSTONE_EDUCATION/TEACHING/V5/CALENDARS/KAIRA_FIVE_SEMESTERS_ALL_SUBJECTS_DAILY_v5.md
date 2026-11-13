@@ -21,6 +21,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -38,7 +40,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -96,7 +98,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Sets and subsets** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Sets and subsets.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Sets and subsets*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -122,6 +124,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -139,7 +143,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -177,10 +181,12 @@
 
 #### 11:00–13:00 — Genesis Field Theory I
 
-**Today's exact lesson:** First fold.
+**Today's exact lesson:** First fold | and its address structure.
 
 
 **After-class study context:** and its address structure | After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -199,7 +205,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -257,7 +263,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Relations and functions** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Relations and functions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Relations and functions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -283,6 +289,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -300,7 +308,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -338,10 +346,12 @@
 
 #### 11:00–13:00 — Genesis Field Theory I
 
-**Today's exact lesson:** Prime cell 0.
+**Today's exact lesson:** Prime cell 0|0: identity versus occurrence.
 
 
 **After-class study context:** 0: identity versus occurrence | After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -360,7 +370,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -418,7 +428,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Open and closed sets** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Open and closed sets.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Open and closed sets*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -444,6 +454,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -461,7 +473,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -504,6 +516,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -521,7 +535,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -579,7 +593,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Neighborhoods and boundaries** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Neighborhoods and boundaries.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Neighborhoods and boundaries*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -605,6 +619,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -622,7 +638,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -665,6 +681,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 40 (Domain-relative existence); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 40: Domain-relative existence.**
 
 **Formal content:** `Ex_D(x)` denotes existence status of x relative to bounded Genesis domain D; undefined is not the same as `0 := DNE`.
@@ -682,7 +700,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -740,7 +758,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Continuity and examples** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Continuity and examples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Continuity and examples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -766,6 +784,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -783,7 +803,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -826,6 +846,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -843,7 +865,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -901,7 +923,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connectedness** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connectedness.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connectedness*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -927,6 +949,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -944,7 +968,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -987,6 +1011,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -1004,7 +1030,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -1062,7 +1088,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Paths and path connectedness** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Paths and path connectedness.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Paths and path connectedness*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1088,6 +1114,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 40 (Domain-relative existence); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 40: Domain-relative existence.**
 
 **Formal content:** `Ex_D(x)` denotes existence status of x relative to bounded Genesis domain D; undefined is not the same as `0 := DNE`.
@@ -1105,7 +1133,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -1148,6 +1176,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -1165,7 +1195,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -1223,7 +1253,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Components** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Components.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Components*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1249,6 +1279,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 40 (Domain-relative existence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -1266,7 +1298,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Domain-relative existence (Formal Chapter 40).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Domain-relative existence (Formal Chapter 40).
 
 **Board statement:** Ex_D(x) is existence status relative to bounded domain D; undefined ≠ DNE.
 
@@ -1309,6 +1341,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -1326,7 +1360,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1384,7 +1418,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Compactness intuition** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Compactness intuition.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Compactness intuition*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1410,6 +1444,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -1427,7 +1463,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1470,6 +1506,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -1487,7 +1525,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1545,7 +1583,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Homeomorphisms** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Homeomorphisms.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Homeomorphisms*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1571,6 +1609,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 41 (Rainbow basins) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -1588,7 +1628,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow structural basins (Formal Chapter 41).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow structural basins (Formal Chapter 41).
 
 **Board statement:** R→O→Y→G→B→V are six coarse structural basin addresses; energy universality is assumption A1.
 
@@ -1631,6 +1671,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 42 (White carrier); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 42: White carrier and ordered reversal.**
 
 **Formal content:** Working carrier `W=[0,1]`; `μ(a,b)=(a+b)/2`; `ρ(a,b)=(b,a)`; `μ(a,b)=μ(b,a)` does not imply identical ordered History.
@@ -1648,7 +1690,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1706,7 +1748,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Surfaces and elementary spaces** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Surfaces and elementary spaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Surfaces and elementary spaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1732,6 +1774,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -1749,7 +1793,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1792,6 +1836,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 42 (White carrier); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 42: White carrier and ordered reversal.**
 
 **Formal content:** Working carrier `W=[0,1]`; `μ(a,b)=(a+b)/2`; `ρ(a,b)=(b,a)`; `μ(a,b)=μ(b,a)` does not imply identical ordered History.
@@ -1809,7 +1855,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1867,7 +1913,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Quotient spaces introduction** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Quotient spaces introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Quotient spaces introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -1893,6 +1939,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 42 (White carrier) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -1910,7 +1958,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** White carrier and reversal (Formal Chapter 42).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** White carrier and reversal (Formal Chapter 42).
 
 **Board statement:** W=[0,1]; μ(a,b)=(a+b)/2; ρ(a,b)=(b,a).
 
@@ -1953,6 +2001,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -1970,7 +2020,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2028,7 +2078,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Topological invariants** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Topological invariants.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Topological invariants*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2054,6 +2104,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 43 (Complex admission) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -2071,7 +2123,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Complex admission and compactification (Formal Chapter 43).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Complex admission and compactification (Formal Chapter 43).
 
 **Board statement:** i²=-1; the Riemann sphere compactifies the complex plane with ∞.
 
@@ -2114,6 +2166,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2131,7 +2185,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2189,7 +2243,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Applications to geometry** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Applications to geometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Applications to geometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2215,6 +2269,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 43 (Complex admission) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -2232,7 +2288,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Complex admission and compactification (Formal Chapter 43).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Complex admission and compactification (Formal Chapter 43).
 
 **Board statement:** i²=-1; the Riemann sphere compactifies the complex plane with ∞.
 
@@ -2275,6 +2331,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 41 (Rainbow basins); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 41: Rainbow structural basins.**
 
 **Formal content:** `R → O → Y → G → B → V` are ordered structural basin addresses; universality of energy is assumption A1, not a theorem.
@@ -2292,7 +2350,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -2350,7 +2408,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Problem review** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Problem review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Problem review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2376,6 +2434,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -2393,7 +2453,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2436,6 +2496,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -2453,7 +2515,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2511,7 +2573,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** set X, subset A⊆X, union A∪B, intersection A∩B, topology τ containing ∅, X and closed under arbitrary unions and finite intersections. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Let X={a,b,c}. Determine whether {{∅,{a},X}} is a topology and justify every axiom.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Topology I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2537,6 +2599,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -2554,7 +2618,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2597,6 +2661,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2614,7 +2680,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2672,7 +2738,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Matter and measurement** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Matter and measurement.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Matter and measurement*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2687,6 +2753,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -2705,7 +2773,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -2738,6 +2806,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -2755,7 +2825,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2798,6 +2868,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -2815,7 +2887,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2873,7 +2945,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Atoms and elements** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Atoms and elements.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Atoms and elements*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -2888,6 +2960,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -2906,7 +2980,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2939,6 +3013,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -2956,7 +3032,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -2999,6 +3075,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -3016,7 +3094,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -3074,7 +3152,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Electron structure overview** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Electron structure overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Electron structure overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3089,6 +3167,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 49 (Torus) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -3107,7 +3187,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Cyclic Resolution torus (Formal Chapter 49).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Cyclic Resolution torus (Formal Chapter 49).
 
 **Board statement:** T²=S¹_A×S¹_B; six sectors per factor give 36 coarse ordered cells.
 
@@ -3140,6 +3220,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 49 (Torus) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3157,7 +3239,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Cyclic Resolution torus (Formal Chapter 49).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Cyclic Resolution torus (Formal Chapter 49).
 
 **Board statement:** T²=S¹_A×S¹_B; six sectors per factor give 36 coarse ordered cells.
 
@@ -3200,6 +3282,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -3217,7 +3301,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -3275,7 +3359,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Chemical bonds** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Chemical bonds.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Chemical bonds*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3290,6 +3374,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -3308,7 +3394,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -3341,6 +3427,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3358,7 +3446,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -3401,6 +3489,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3418,7 +3508,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3476,7 +3566,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Molecules and geometry** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Molecules and geometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Molecules and geometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3491,6 +3581,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -3509,7 +3601,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3542,6 +3634,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -3559,7 +3653,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -3602,6 +3696,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3619,7 +3715,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3677,7 +3773,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Stoichiometry** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Stoichiometry.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Stoichiometry*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3692,6 +3788,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
@@ -3710,7 +3808,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3743,6 +3841,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3760,7 +3860,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3803,6 +3903,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3820,7 +3922,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3878,7 +3980,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction equations** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction equations.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction equations*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -3893,6 +3995,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
@@ -3911,7 +4015,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -3944,6 +4048,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -3961,7 +4067,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -4004,6 +4110,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -4021,7 +4129,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -4079,7 +4187,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Conservation in reactions** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Conservation in reactions.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Conservation in reactions*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4094,6 +4202,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -4112,7 +4222,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -4145,6 +4255,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -4162,7 +4274,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -4205,6 +4317,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -4222,7 +4336,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -4280,7 +4394,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Solutions and concentration** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Solutions and concentration.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Solutions and concentration*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4295,6 +4409,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
@@ -4313,7 +4429,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -4346,6 +4462,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4363,7 +4481,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4406,6 +4524,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4423,7 +4543,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4481,7 +4601,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Acids and bases** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Acids and bases.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Acids and bases*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4496,6 +4616,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
@@ -4514,7 +4636,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -4547,6 +4669,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4564,7 +4688,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4607,6 +4731,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -4624,7 +4750,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4682,7 +4808,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction energy** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction energy.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction energy*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4697,6 +4823,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
@@ -4715,7 +4843,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4748,6 +4876,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -4765,7 +4895,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4808,6 +4938,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4825,7 +4957,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4883,7 +5015,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Reaction rates** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Reaction rates.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Reaction rates*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -4898,6 +5030,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
@@ -4916,7 +5050,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -4949,6 +5083,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -4966,7 +5102,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -5009,6 +5145,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -5026,7 +5164,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -5084,7 +5222,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Equilibrium basics** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Equilibrium basics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Equilibrium basics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5099,6 +5237,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
@@ -5117,7 +5257,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -5150,6 +5290,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5167,7 +5309,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -5210,6 +5352,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -5227,7 +5371,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -5285,7 +5429,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Chemical safety and laboratory practice** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Chemical safety and laboratory practice.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Chemical safety and laboratory practice*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5300,6 +5444,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
@@ -5318,7 +5464,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -5351,6 +5497,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 44 (History and identity); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 44: Witnessed identity and provenance.**
 
 **Formal content:** `X^w=(X,H_X,W_X,I_X)`; `Q(H₁)=Q(H₂)` does not imply `H₁=H₂`.
@@ -5368,7 +5516,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -5411,6 +5559,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -5428,7 +5578,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -5486,7 +5636,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Problem review** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Problem review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Problem review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5501,6 +5651,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
@@ -5519,7 +5671,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -5552,6 +5704,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5569,7 +5723,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -5612,6 +5766,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -5629,7 +5785,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -5687,7 +5843,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** atomic number Z, mole n=m/M, conservation of mass, balanced reaction coefficients, ionic/covalent bonding. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** Balance 2H₂ + O₂ → 2H₂O and verify the count of each element on both sides.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Chemistry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5702,6 +5858,8 @@
 
 
 **After-class study context:** After class: optional review of today’s lesson.
+
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
 
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
@@ -5720,7 +5878,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -5753,6 +5911,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -5770,7 +5930,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -5813,6 +5973,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5830,7 +5992,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5888,7 +6050,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Classical field motivation** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Classical field motivation.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Classical field motivation*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -5914,6 +6076,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5931,7 +6095,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -5974,6 +6138,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -5991,7 +6157,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6049,7 +6215,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Fields and states** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Fields and states.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Fields and states*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6075,6 +6241,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6092,7 +6260,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6135,6 +6303,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6152,7 +6322,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6210,7 +6380,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Symmetries** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Symmetries.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Symmetries*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6236,6 +6406,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -6253,7 +6425,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6296,6 +6468,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6313,7 +6487,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6371,7 +6545,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Lagrangian formulation overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Lagrangian formulation overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Lagrangian formulation overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6397,6 +6571,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6414,7 +6590,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6457,6 +6633,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6474,7 +6652,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6532,7 +6710,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Scalar fields** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Scalar fields.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Scalar fields*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6558,6 +6736,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -6575,7 +6755,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6618,6 +6798,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6635,7 +6817,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6693,7 +6875,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Canonical quantization introduction** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Canonical quantization introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Canonical quantization introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6719,6 +6901,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -6736,7 +6920,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -6779,6 +6963,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6796,7 +6982,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -6854,7 +7040,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Operators and observables** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Operators and observables.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Operators and observables*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -6880,6 +7066,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -6897,7 +7085,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -6940,6 +7128,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -6957,7 +7147,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -7015,7 +7205,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Free-field modes** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Free-field modes.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Free-field modes*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7041,6 +7231,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -7058,7 +7250,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -7101,6 +7293,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -7118,7 +7312,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -7176,7 +7370,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Spinor fields overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Spinor fields overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Spinor fields overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7202,6 +7396,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -7219,7 +7415,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -7262,6 +7458,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -7279,7 +7477,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -7337,7 +7535,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Interactions introduction** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Interactions introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Interactions introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7363,6 +7561,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -7380,7 +7580,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -7423,6 +7623,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 47 (Rainbow Road); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 47: Rainbow Road path algebra.**
 
 **Formal content:** `RR_{D,B}=Path(Gen_D(B))`; `γ=aₙ∘⋯∘a₁`; ordered History `H(γ)=(a₁,…,aₙ)`.
@@ -7440,7 +7642,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -7498,7 +7700,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Perturbation concepts** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Perturbation concepts.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Perturbation concepts*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7524,6 +7726,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -7541,7 +7745,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -7584,6 +7788,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 47 (Rainbow Road); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 47: Rainbow Road path algebra.**
 
 **Formal content:** `RR_{D,B}=Path(Gen_D(B))`; `γ=aₙ∘⋯∘a₁`; ordered History `H(γ)=(a₁,…,aₙ)`.
@@ -7601,7 +7807,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -7659,7 +7865,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Propagators overview** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Propagators overview.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Propagators overview*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7685,6 +7891,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -7702,7 +7910,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -7745,6 +7953,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 55 (Group emergence); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 55: Closure before total group.**
 
 **Formal content:** A total identity automorphism group requires sufficiently closed persistent identity; before closure use partial symmetries, semigroups, groupoids or path categories.
@@ -7762,7 +7972,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -7820,7 +8030,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Conservation laws** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Conservation laws.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Conservation laws*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -7846,6 +8056,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -7863,7 +8075,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -7906,6 +8118,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 50 (Finite-invariant limit); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 50: Finite invariant no-go.**
 
 **Formal content:** For unbounded distinguishable H and finite F, `q:H→F` cannot be injective (pigeonhole principle).
@@ -7923,7 +8137,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -7981,7 +8195,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Field-theory examples** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Field-theory examples.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Field-theory examples*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8007,6 +8221,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -8024,7 +8240,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -8067,6 +8283,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -8084,7 +8302,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -8142,7 +8360,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8168,6 +8386,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -8185,7 +8405,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -8228,6 +8448,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -8245,7 +8467,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -8303,7 +8525,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** classical fields φ(x), action S=∫ℒ d⁴x, symmetries, quantization, operators and observables. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For ℒ=½∂μφ∂^μφ−½m²φ², identify kinetic and mass terms; do not equate Genesis constructs with measured fields.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Quantum Field Theory I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8329,6 +8551,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -8346,7 +8570,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -8404,7 +8628,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curves and parameterization** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curves and parameterization.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curves and parameterization*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8430,6 +8654,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8447,7 +8673,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8490,6 +8716,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8507,7 +8735,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8565,7 +8793,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tangent vectors** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tangent vectors.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tangent vectors*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8591,6 +8819,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8608,7 +8838,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8651,6 +8881,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -8668,7 +8900,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8726,7 +8958,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Arc length** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Arc length.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Arc length*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8752,6 +8984,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8769,7 +9003,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8812,6 +9046,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 39 (Prime Zero, Cradle) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -8829,7 +9065,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Prime Zero and ordered Cradle (Formal Chapter 39).
 
 **Board statement:** 0 := DNE; 𝔠 := 0|0; A|B ≢ B|A without a declared symmetry.
 
@@ -8887,7 +9123,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -8913,6 +9149,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8930,7 +9168,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -8973,6 +9211,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -8990,7 +9230,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -9048,7 +9288,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Surfaces** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Surfaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Surfaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9074,6 +9314,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -9091,7 +9333,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -9134,6 +9376,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -9151,7 +9395,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9209,7 +9453,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Tangent planes** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Tangent planes.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Tangent planes*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9235,6 +9479,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -9252,7 +9498,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9295,6 +9541,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -9312,7 +9560,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9370,7 +9618,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Local coordinates** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Local coordinates.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Local coordinates*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9396,6 +9644,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -9413,7 +9663,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9456,6 +9706,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -9473,7 +9725,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9531,7 +9783,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Metrics** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Metrics.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Metrics*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9557,6 +9809,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -9574,7 +9828,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9617,6 +9871,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -9634,7 +9890,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -9692,7 +9948,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geodesics introduction** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geodesics introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geodesics introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9718,6 +9974,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 55 (Group emergence); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 55: Closure before total group.**
 
 **Formal content:** A total identity automorphism group requires sufficiently closed persistent identity; before closure use partial symmetries, semigroups, groupoids or path categories.
@@ -9735,7 +9993,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -9778,6 +10036,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -9795,7 +10055,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -9853,7 +10113,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Connections introduction** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Connections introduction.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Connections introduction*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -9879,6 +10139,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -9896,7 +10158,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -9939,6 +10201,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -9956,7 +10220,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -10014,7 +10278,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Covariant derivatives** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Covariant derivatives.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Covariant derivatives*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10040,6 +10304,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -10057,7 +10323,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -10100,6 +10366,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -10117,7 +10385,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -10175,7 +10443,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Curvature of surfaces** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Curvature of surfaces.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Curvature of surfaces*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10201,6 +10469,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 55 (Group emergence); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 55: Closure before total group.**
 
 **Formal content:** A total identity automorphism group requires sufficiently closed persistent identity; before closure use partial symmetries, semigroups, groupoids or path categories.
@@ -10218,7 +10488,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -10261,6 +10531,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -10278,7 +10550,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -10336,7 +10608,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Geometric mappings** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Geometric mappings.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Geometric mappings*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10362,6 +10634,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -10379,7 +10653,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -10422,6 +10696,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -10439,7 +10715,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -10497,7 +10773,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Examples and applications** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Examples and applications.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Examples and applications*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10523,6 +10799,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -10540,7 +10818,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -10583,6 +10861,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -10600,7 +10880,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -10658,7 +10938,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Review** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Review.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Review*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10684,6 +10964,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -10701,7 +10983,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -10744,6 +11026,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -10761,7 +11045,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -10819,7 +11103,7 @@
 
 - **Learning target for this meeting:** Explain and apply **Assessment** using the course's established disciplinary language.
 - **Technical foundation:** a smooth curve γ(t), tangent γ′(t), metric g, arc length L=∫√g(γ′,γ′)dt, curvature and local coordinates. Introduce only the definitions needed for today's specific topic; earlier material may be recalled but must not be mistaken for newly taught content.
-- **Worked teaching example:** For γ(t)=(cos t,sin t), compute the tangent and explain why its length is 1.
+- **Worked teaching example (topic-specific, instructor-developed):** Build a worked example specifically for **Assessment.**. First state the definitions and prerequisites already introduced by this date; work through one representative case and one contrasting case, then explain the conclusion in the terminology of Differential Geometry I. Do not reuse a later-course example or assert an experiment or outcome that has not been specified.
 - **Classroom sequence (120 minutes):** 0–15 retrieval/prerequisites; 15–45 definition and model; 45–75 guided example; 75–100 independent application to today's topic; 100–115 feedback and counterexample; 115–120 assigned review.
 - **Independent exercise:** Create a second example specifically illustrating *Assessment*; identify its assumptions, units or domain, and one plausible error.
 - **Exit assessment:** State one correct claim about today's topic, justify it with an example, and distinguish it from an unsupported inference.
@@ -10845,6 +11129,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -10862,7 +11148,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -10905,6 +11191,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -10922,7 +11210,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -10965,6 +11253,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 48 (Resolution); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 48: Resolution network and distinguishability.**
 
 **Formal content:** `G_R^(d)=(V_R,E_R,ρ_d,H_d)`; refinement may expose distinctions without selecting an event; Resolution depth is not relational distance.
@@ -10982,7 +11272,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -11025,6 +11315,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11042,7 +11334,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -11085,6 +11377,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 48 (Resolution) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11102,7 +11396,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Resolution and relational depth (Formal Chapter 48).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Resolution and relational depth (Formal Chapter 48).
 
 **Board statement:** G_R^(d)=(V_R,E_R,ρ_d,H_d); refinement can expose distinctions without causing an event.
 
@@ -11145,6 +11439,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 44 (History and identity) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -11162,7 +11458,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Witnessed identity and History (Formal Chapter 44).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Witnessed identity and History (Formal Chapter 44).
 
 **Board statement:** Xʷ=(X,H_X,W_X,I_X); Q(H₁)=Q(H₂) does not imply H₁=H₂.
 
@@ -11205,6 +11501,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11222,7 +11520,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -11265,6 +11563,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11282,7 +11582,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -11325,6 +11625,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 53 (Chirality); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 53: Chirality as ordered geometry.**
 
 **Formal content:** `χ_D(x)` denotes domain-relative oriented identity structure from ordered boundary, inheritance, recursive address and admissible reversal.
@@ -11342,7 +11644,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -11385,6 +11687,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11402,7 +11706,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -11445,6 +11749,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11462,7 +11768,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -11505,6 +11811,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11522,7 +11830,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -11565,6 +11873,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11582,7 +11892,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -11625,6 +11935,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 53 (Chirality) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11642,7 +11954,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Chirality as ordered geometry (Formal Chapter 53).
 
 **Board statement:** χ_D(x) is domain-relative oriented identity induced by ordered boundary and inheritance.
 
@@ -11685,6 +11997,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11702,7 +12016,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -11745,6 +12059,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11762,7 +12078,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -11805,6 +12121,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -11822,7 +12140,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -11865,6 +12183,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11882,7 +12202,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -11925,6 +12245,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -11942,7 +12264,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -11985,6 +12307,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -12002,7 +12326,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -12045,6 +12369,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12062,7 +12388,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -12105,6 +12431,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 46 (Bandwidth); Chapter 46 (Bandwidth) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 46: Bandwidth as available organizational freedom.**
 
 **Formal content:** `Gen_B(x)` is the set of currently available structurally admissible primitive transformations; Bandwidth filters but does not invent transformations or select a preferred one.
@@ -12122,7 +12450,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Bandwidth as available organizational freedom (Formal Chapter 46).
 
 **Board statement:** Gen_B(x) restricts admissible, currently available primitive transformations.
 
@@ -12165,6 +12493,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12182,7 +12512,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -12225,6 +12555,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12242,7 +12574,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -12285,6 +12617,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -12302,7 +12636,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -12345,6 +12679,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12362,7 +12698,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -12405,6 +12741,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12422,7 +12760,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -12465,6 +12803,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 39 (Prime Zero, Cradle); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 39: Prime Zero, ordered Cradle and chirality seed.**
 
 **Formal content:** `0 := DNE`; first boundary `|`; `𝔠 := 0|0`; `A|B` is not identified with `B|A` without licensed symmetry.
@@ -12482,7 +12822,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -12525,6 +12865,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 51 (Projection and lifts) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -12542,7 +12884,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Projection, seed, lift (Formal Chapter 51).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Projection, seed, lift (Formal Chapter 51).
 
 **Board statement:** Π:X⇝Y; Π⁻¹(y) is compatible preimage; AdmLift_R(y)⊆Π⁻¹(y).
 
@@ -12585,6 +12927,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -12602,7 +12946,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -12645,6 +12989,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 52 (Connection selection) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -12662,7 +13008,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Connection and lift selection (Formal Chapter 52).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Connection and lift selection (Formal Chapter 52).
 
 **Board statement:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate.
 
@@ -12705,6 +13051,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -12722,7 +13070,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -12765,6 +13113,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -12782,7 +13132,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -12825,6 +13175,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 45 (Persistence); Chapter 45 (Persistence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 45: Persistence as recoverable self-return.**
 
 **Formal content:** Persistence under `r:x→y` requires an admissible `h:y→x′` with `x′ ~_I x` and required provenance intact.
@@ -12842,7 +13194,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Persistence as recoverable self-return (Formal Chapter 45).
 
 **Board statement:** x→y is persistent when admissible h:y→x′ exists with x′∼_I x and provenance intact.
 
@@ -12885,6 +13237,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 47 (Rainbow Road) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12902,7 +13256,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Rainbow Road path algebra (Formal Chapter 47).
 
 **Board statement:** RR_{D,B}=Path(Gen_D(B)); γ=aₙ∘⋯∘a₁; H(γ)=(a₁,…,aₙ).
 
@@ -12945,6 +13299,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -12962,7 +13318,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -13005,6 +13361,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13022,7 +13380,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -13065,6 +13423,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 50 (Finite-invariant limit) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13082,7 +13442,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Finite invariant no-go (Formal Chapter 50).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Finite invariant no-go (Formal Chapter 50).
 
 **Board statement:** For unbounded H and finite F, q:H→F cannot be injective.
 
@@ -13125,6 +13485,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13142,7 +13504,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -13185,6 +13547,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 51 (Projection and lifts); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 51: Projection, preimage and admissible lift.**
 
 **Formal content:** Projection `Π:X⇝Y`; preimage family `Π⁻¹(y)`; `AdmLift_R(y) ⊆ Π⁻¹(y)` after Resolution, Bandwidth and History restrictions.
@@ -13202,7 +13566,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -13245,6 +13609,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 54 (Automorphisms) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13262,7 +13628,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Automorphisms and SU(n) readiness (Formal Chapter 54).
 
 **Board statement:** Aut_G(P) only once a total identity-preserving group exists; SU(n) needs complex n-space, Hermitian invariant, determinant one, generation.
 
@@ -13305,6 +13671,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13322,7 +13690,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -13365,6 +13733,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13382,7 +13752,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -13425,6 +13795,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 55 (Group emergence) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13442,7 +13814,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Group emergence threshold (Formal Chapter 55).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Group emergence threshold (Formal Chapter 55).
 
 **Board statement:** Before persistent closure, partial symmetries/groupoids may exist without one total automorphism group.
 
@@ -13485,6 +13857,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13502,7 +13876,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -13545,6 +13919,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13562,7 +13938,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -13605,6 +13981,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13622,7 +14000,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -13665,6 +14043,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13682,7 +14062,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -13725,6 +14105,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 54 (Automorphisms); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 54: Automorphism and SU(n) readiness.**
 
 **Formal content:** `Aut_G(P)` requires a closed persistent object P; SU(n) identification requires complex n-realization, Hermitian invariant, preservation, determinant one, and generation/completeness.
@@ -13742,7 +14124,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
@@ -13785,6 +14167,8 @@
 
 **After-class study context:** After class: optional review of today’s lesson.
 
+**Instructional authority for this class:** Primary Chapter 52 (Connection selection); Chapter 56 (Natural-law cutoff) is optional supporting/enrichment reading. The primary board demonstration and assigned exercise are the scheduled teaching; the supporting seminar is NOT an additional 120-minute session, and its concepts are not considered learned unless a later narrative explicitly teaches them.
+
 **Verified mathematical lesson anchor — Chapter 52: Connection and lift selection.**
 
 **Formal content:** Candidate lifts → Bandwidth filter → connection selection → witness/completion gate. A filter does not itself select the operative lift.
@@ -13802,7 +14186,7 @@
 
 ---
 
-**Source-specific mathematical seminar (new teaching design):** Natural-law cutoff (Formal Chapter 56).
+**OPTIONAL supporting-source seminar — not a second required lesson and not assumed taught (new teaching design):** Natural-law cutoff (Formal Chapter 56).
 
 **Board statement:** Genesis mathematics is independent of particular Time Shell, QFT, gravity, or other realization.
 
