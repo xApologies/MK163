@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-13",
+  "day224": {
+    "decision": "Keep the published Day 224 outline",
+    "authority": "Direct user reply during integration",
+    "governing_commit": "9e1f558043731ad33ba3517af1e3318e13d5bf0c",
+    "rejected_incoming_scope": [
+      "sleep until 10 instead of 09 knock",
+      "professor ends 18 instead of 20",
+      "separate evening replaces shared campus walk"
+    ]
+  },
+  "names": {
+    "decision": "Confirm Aiselle = Alchemist; Caelor = Headmaster",
+    "authority": "Direct user reply during integration"
+  }
+}

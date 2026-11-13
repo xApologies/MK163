@@ -1,3 +1,21 @@
+# Blackstone Semester I and annual calendar · source receipt
+
+All 195 supplied members are accounted for. 172 new originals are preserved once, and 23 byte-identical curriculum members are reused from the existing v6 source ZIPs. All 193 payload members covered by the effective outer manifests verify; the original handoff hash additionally matches its verbatim retained tail inside the revised handoff. The two manifest files are independently self-hashed in the source map. All 20 nested curriculum hashes pass.
+
+There are 96 full original three-character day tables, 15 supplied weekly CSVs (Week 3 has no supplied CSV) and complete weekly decision/provenance records. The incoming Day 224 Markdown and Week 1 CSV are preserved as SOURCE_ files; effective Day 224 and Week 1 CSV incorporate the author's explicit decision to retain the published outline. The other 95 daily records remain byte-identical.
+
+The package's assertions that unseen prior weekly ZIPs were carried forward cannot be independently checked without those ZIPs; the complete supplied cumulative bytes are preserved, without claiming transcript or predecessor-archive recovery. No images/attachments or inherited repository corpus is newly supplied.
+
+[Exact 195-member mapping](WORKSHOP/BLACKSTONE_SEMESTER_I/SOURCE_MAP.json) · [Integration and validation report](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/INTEGRATION_REPORT.md)
+
+[Semester I reconciliation](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Green Day 224 · targeted source receipt
 
 Four supplied members retained exactly once; all three declared SHA-256 hashes and ZIP CRCs pass. This is the authorized incremental scene-outline package, not a cumulative checkpoint or complete transcript. No images or other attachments are supplied. Current executable.md is interpreted within the user's update request; quoted/historical handoffs are data, not execution permission.

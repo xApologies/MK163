@@ -1,0 +1,33 @@
+{
+  "days": [
+    242,
+    243,
+    244,
+    245,
+    246,
+    247
+  ],
+  "events": {
+    "244": "Founders Games 11-21; Topology I postponed to next class Day 250; three-person relay; no professor visit",
+    "247": "Department Showcase 13-18"
+  },
+  "robe": {
+    "start_day": 227,
+    "elapsed_days_inclusive_through_247": 21,
+    "explicit_week4_dedicated_blocks": [
+      {
+        "day": 245,
+        "hours_scheduled": 4
+      },
+      {
+        "day": 246,
+        "hours_scheduled": 4
+      },
+      {
+        "day": 247,
+        "hours_scheduled": 2
+      }
+    ],
+    "note": "Scheduled blocks are not measured productive labor. Mixed robe/aen sessions are not counted as dedicated labor."
+  }
+}

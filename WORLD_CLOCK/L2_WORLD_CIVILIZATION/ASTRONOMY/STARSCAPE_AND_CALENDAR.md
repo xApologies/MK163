@@ -1,3 +1,19 @@
+# Academic cycle · scoped running-weekday continuity
+
+The new Blackstone academic cycle is an offset **353-day** institution schedule starting at cumulative Day 224, separate from the existing 353-day MK163 civil year. Preserve all eleven month lengths and the Day 0 anchor. Do not reset the running six-day phase across semester/break or civil-year boundaries for this schedule: Day 341 is Ailor, Day 458 Ailar, next cycle Day 577 Aiven. Day 284 is the next Aelor 1, with the continuing weekday Ailar; no year name or year-week number is selected.
+
+The annual source's “AERA 353-day calendar” wording refers here to the selected MK163 local calendar, not a revision to any upstream repository. Orbital/seasonal reconciliation and year-week naming remain OPEN. Future academic dates are allocations, not asserted attendance or authored scenes. Existing five-semester templates remain unchanged; later absolute course/event realization must respect actual weekday phase.
+
+[Owning annual institution schedule](../INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Calendar · 353-day year selected in Delta 021
 
 **Author's `Annual Structure.pdf` month lengths are controlling.** The eleven listed lengths sum to **353**, NOT 351; author explicitly chose 353 as current year and rejected inventing seven intercalary days to fit older 360-year text. Existing 360-day orbital-year, 60-week and four-90-day-season statements are historical/inherited and conflict with this selected calendar; flag active dependent astronomy/season/week claims for **scoped reconciliation** rather than silently overwriting all astronomy or changing 11 month lengths. 31-hour day and six-day weekday cycle remain. 353 = 58 full six-day weeks + 5 days; cross-year weekday continuity / year-week labels remain OPEN. Do not modify 0–211 relative event days.

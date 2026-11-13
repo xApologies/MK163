@@ -1,3 +1,21 @@
+# Kaira · selected Semester I state through Day 319
+
+The full semester is an approved planning/live model, not completed chapter prose. Day 224 retains the previously published timing and intentions. Kaira closes Violet aen on **Day 248** under illi's guidance; subsequent widening is a training aim, not automatic Stage II proficiency. Sprite communication/morphology milestones are selected on 237/251 without omniscience or unearned mastery.
+
+She starts illi's gift robe on 227 and completes/gifts it on 253. Elaira's materials are ordered on 259, arrive on 293, and construction continues intermittently through 319 without completion. The original personal chromatic robe and existing commercial enterprise remain distinct. Kaira's second-exam performance is good; illi performs strongest among the three. Final grades remain OPEN.
+
+No later-semester attendance, course mastery, new Card subsystem or early Dimensional Ring is granted. The retained bookstore equipment, existing rucksack, Nyx and Black Sprite agency remain unchanged.
+
+[Full daily plans](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [aen milestone scope](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Gift robe chronology](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Kaira · Day 224 author-selected outline state
 
 The forthcoming chapter now selects the complete Day 224 sequence, starting with the 09:00 first-day wake-up exception. Kaira takes the existing Chainmail Robe and newly specified Maege notebook/stylus to the shared first lecture, meets Elaira alongside illi, and later follows the Day 217 professor invitation. This is outline state, not completed prose, mentorship mastery or a later-semester knowledge grant. Within the outline only one Genesis Field Theory I lecture has been attended. Violet, Stage II and any completed humanoid development are not advanced.

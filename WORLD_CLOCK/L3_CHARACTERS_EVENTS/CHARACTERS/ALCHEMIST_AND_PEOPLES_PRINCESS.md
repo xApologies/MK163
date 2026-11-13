@@ -1,3 +1,21 @@
+# Aiselle and illi · confirmed name and Semester I selections
+
+**Author confirmation during this integration:** Aiselle is the Alchemist; Caelor is Blackstone's Headmaster. These names resolve the earlier name-OPEN labels only. Aiselle arranged Kaira's academic overlap with illi during admissions with Caelor; the exact new arrangement date remains unassigned. Prior ages, roles, Alchemist potion/non-Awakened status, social relationships, estate/business details and Day 212/216/217 events are unchanged.
+
+Lowercase **illi** remains the Princess's protected name. In the selected semester plan she helps Kaira close Violet on Day 248, receives her completed gift robe on Day 253, and earns the strongest second-exam results among the trio on Day 284, without an invented numerical mark or whole-class rank. Their personal companionship and shared residences remain detailed in the daily files.
+
+Elaira is E in these records. Contextual voice labels remain source evidence, not global renaming rules; neither “Ellie” usage nor the new proper names creates another version of illi/Elaira. The professor remains separately unnamed and they/them.
+
+[Supplied admissions backstory](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/BACKSTORY.md) · [Exact author resolution](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/CONFLICTS_AND_SUPERSESSIONS.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # illi and attendant · selected Day 217 continuation
 
 illi accompanies Kaira, Nyx and the Black Sprite to the Grand Archives meal, professor encounter and bookstore before they return to their adjacent residences. Her personal handmaiden stays behind to unpack and organize using a dimensional storage bracelet; exact mechanics remain OPEN. The handmaiden is not a student and has free time after her duties. The Alchemist’s absence from the campus move remains unchanged.

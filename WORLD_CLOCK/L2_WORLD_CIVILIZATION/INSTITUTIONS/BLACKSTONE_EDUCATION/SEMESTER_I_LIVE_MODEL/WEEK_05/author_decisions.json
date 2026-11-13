@@ -1,0 +1,16 @@
+{
+  "week": 5,
+  "days": {
+    "248": "First major Genesis Field Theory I examination; Kaira closes Violet aen ring.",
+    "249": "Routine; focus shifts from ring closure to future width expansion; robe work.",
+    "250": "Topology I accelerated catch-up; Chemical Safety Festival (controlled demonstrations).",
+    "251": "Black Sprite first manifests humanoid form; telepathic communication improves.",
+    "252": "Specialist classes; sprite attends professor independently.",
+    "253": "Rest day; Foundation Node Seminar on campus, attendance not selected; Kaira completes and gifts illi's chainmail robe."
+  },
+  "robe_completion_day": 253,
+  "violet_closure_day": 248,
+  "sprite_humanoid_day": 251,
+  "topology_catchup_day": 250,
+  "foundation_seminar_attendance": "OPEN"
+}

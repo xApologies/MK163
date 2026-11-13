@@ -1,3 +1,21 @@
+# Semester I · scoped resolutions and retained OPENs
+
+RESOLVED by explicit user reply: keep the published Day 224 outline; Aiselle = Alchemist and Caelor = Headmaster. The supplied yearly academic allocations and later dated selections govern their stated scope.
+
+OPEN: professor name/gender/sensing/office specifics; exact Sprite humanoid mechanism and proficiency; Convocation time; final grades, first-period specialist exam dates, exact challenges/winners; full guest roster, precise 30–45-minute talk allocation; Elaira robe completion/price/quantity and supplier; exact split of already-approved club participation versus overlapping events on Days 241/247, plus partial-window detail on 253; Day 265 observation time/club attendance and Day 277 Elaira review attendance; exact city-visit hour subdivisions, Elaira purchases and Day 313 purchases; later absolute curriculum realization. Calendar year names/week labels and inherited astronomical alignment remain unassigned.
+
+These preexisting or supplied OPEN parameters are retained, not fabricated as resolutions. Original curricula and v5.1 lessons remain proposed teaching material. Concrete exams, postponed/review sessions and elapsed dates do not establish mastery of every planned lesson. Full coverage is of this supplied package, not a complete literal transcript.
+
+[Detailed dispositions](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/CONFLICTS_AND_SUPERSESSIONS.md)
+
+[Semester I reconciliation](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Day 224 · scoped resolutions and remaining OPENs
 
 RESOLVED for the selected outline: the 09:00/10:00 issue is a first-day exception; Kaira and illi meet Elaira in their first class; the Day 217 invitation becomes a Day 224 16:00–20:00 visit in Natural Philosophy; the new standing office-hour window is optional availability. Detailed first-conversation and lecture/meeting dialogue remain unwritten.

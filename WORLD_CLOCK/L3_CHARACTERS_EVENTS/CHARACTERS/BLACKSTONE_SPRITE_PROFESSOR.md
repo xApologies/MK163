@@ -1,3 +1,23 @@
+# Sprite mentorship · selected Semester I development and end of routine instruction
+
+The author's integration decision retains the full Day 224 16:00–20:00 first substantial conversation below. Later ordinary instructional appointments use **16:00–18:00**, within the previously available window. They are selected schedule visits, not mandatory daily four-hour sessions. The supplied Day 217 invitation-date uncertainty is historical: the established Day 217 encounter and invitation stay fixed.
+
+Day 237 selects the young Black Sprite's first emerging direct communication **with Kaira**, not fluent speech or Transduction mastery. This does not erase earlier professor/Sprite or Nyx/Sprite communication. **Day 251** selects its first humanoid expression and improving mind-to-mind communication, fulfilling an approximate target as a specific story selection. No universal solitary biological-transformation law, exact mechanism or complete mastery is inferred; inherited collective biology remains intact.
+
+Regular appointments end in Week 14: **Day 306** is the final scheduled Sprite-only session while Kaira takes Cardsmithing; she collects the Sprite afterward. The professor returns to independent research. No standing visits in Weeks 15–16 or afterward without a new selection; relationship and friendship persist.
+
+Aiven has no professor session, and Day 244 Founders Games is an explicit cancellation. On specialist-course dates the Sprite attends independently with agreed drop-off/collection. Professor name/gender, exact sensing mechanism, office details and young Sprite identity/biology OPENs not explicitly resolved remain. Preserve consent and separate identities of professor, Sprite and Nyx.
+
+[First direct communication](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_237.md) · [Humanoid expression](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_251.md) · [Final routine instruction](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/SPRITE_PROFESSOR_HANDOFF.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Mature Green Sprite professor · Day 224 selected mentorship
 
 **Author-selected scene outline, not completed prose.** The existing Day 217 scholar and invitation continue into Kaira's first substantial conversation and mentorship arrangement on **Day 224, 16:00–20:00**, in **Natural Philosophy**. The proposed office/home area is associated at department level; exact room, address, home arrangement, personal name, gender, age and sensing mechanism remain OPEN. Use **they/them**; an oral “he” does not select a gender. This professor, the independent young Black Sprite and Nyx are three distinct individuals; the Day 167 unicorn researcher remains a fourth, separate character.

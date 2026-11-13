@@ -409,6 +409,20 @@
       "supplied_members": 4,
       "declared_hashes": 3,
       "scope": "Incremental Day 224 author-selected outline; not completed prose; recurring schedules unchanged"
+    },
+    {
+      "id": "MK163_BLACKSTONE_SEMESTER_I_ANNUAL",
+      "date": "2026-11-13",
+      "baseline": "9e1f558043731ad33ba3517af1e3318e13d5bf0c",
+      "physical_filename": "MK163_Blackstone_Semester_I_Complete_Annual_Calendar_Codex_Handoff.zip",
+      "archive_sha256": "7d148aa912f6e6f87fd683ca3101b170bf579a9e42f15935f67f5b66f621038e",
+      "source_map": "PROVENANCE/WORKSHOP/BLACKSTONE_SEMESTER_I/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/VALIDATION.json",
+      "supplied_members": 195,
+      "reused_nested_members": 23,
+      "new_originals": 172,
+      "scope": "Complete supplied Semester I planning and independent annual institutional cycle; Day 224 retained by user; names confirmed"
     }
   ]
 }

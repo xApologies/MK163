@@ -1,3 +1,23 @@
+# Green Arc · selected Semester I live model through Day 319
+
+**Planning/outlined, not completed chapter prose.** The full supplied Semester I covers Days 224–319, sixteen six-day weeks. The published Day 224 outline is retained by the author's explicit integration decision; its 09:00 knock, 16:00–20:00 professor visit and shared evening walk govern over the incoming alternative. Detailed Day 224 scene intentions below remain in full. Days 218–223 remain unassigned. Nothing after Day 319 is authored by this package; annual allocations are not scenes or attendance.
+
+The education live-model directory owns the full three-character daily timetables and weekly decisions; this arc links to them rather than creating 96 duplicate scenes. Ordinary flexible baseline activities are planning blocks, not assertions that every option occurred. No dialogue, chapter numbering, unprovided exercise outcome or automatic mastery is invented.
+
+Selected progression: first gift-robe materials/construction Day 227; young Sprite's emerging direct communication with Kaira Day 237; Founders Games Day 244 postpones Topology I to catch-up Day 250; Violet aen closure Day 248; young Sprite humanoid expression Day 251; illi's robe completed/gifted Day 253; Elaira's materials order Day 259, arrival/construction start Day 293, still incomplete Day 319. Second-exam results Day 284: all three do well, illi strongest of this trio; no numerical marks or class-wide rank. Professor's last routine session Day 306; review Week 15; finals Days 314/316/318 and symposium/feast Day 319.
+
+The admitted course-overlap backstory names **Aiselle, the Alchemist**, and **Headmaster Caelor**, explicitly confirmed by the author during integration. No exact new admissions/supply-arrangement date is assigned. Prior Day 212 admissions and Day 217 encounter remain intact.
+
+[Complete Semester I plans and remaining OPENs](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [Institutional annual academic cycle](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Gift robes and earlier copying history](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Semester I reconciliation](../../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Green Arc · author-selected outline through Day 224
 
 **Status: outlined, not completed drafted prose.** Day 224 (Aesith 6, Ailar; Semester I Day 1) now has a selected full-day structure. Next writing position: **Day 224, 09:00, illi knocks**. Day 217's complete encounter and bookstore sequence remains established as selected beats. Days 218–223 remain unassigned; nothing after Day 224 is advanced. This expands the earlier limited Day 224 plan, not a second scene or arc.

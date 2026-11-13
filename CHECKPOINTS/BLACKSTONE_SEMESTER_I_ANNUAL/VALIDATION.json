@@ -1,0 +1,2587 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_OPEN_ITEMS",
+  "baseline": "9e1f558043731ad33ba3517af1e3318e13d5bf0c",
+  "supplied_members": 195,
+  "new_originals": 172,
+  "reused_source_zip_members": 23,
+  "effective_outer_payload_hashes": 193,
+  "outer_declarations_verified": 194,
+  "nested_hashes_verified": 20,
+  "days": 96,
+  "characters": 3,
+  "hours_per_student": 2976,
+  "original_table_rows": 1018,
+  "current_table_rows": 1017,
+  "weekly_csvs": 15,
+  "current_csv_rows": 954,
+  "required_class_instances": {
+    "Kaira": 47,
+    "illi": 47,
+    "Elaira": 47
+  },
+  "running_primary_days": 320,
+  "annual_cycle_days": 353,
+  "phase": {
+    "224": "Ailar",
+    "341": "Ailor",
+    "458": "Ailar",
+    "577": "Aiven"
+  },
+  "counts": {
+    "added": 183,
+    "modified": 16,
+    "deleted": 0,
+    "prior_unchanged": 879
+  },
+  "added": [
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/AUTHOR_RESOLUTIONS.json",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/CONFLICTS_AND_SUPERSESSIONS.md",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/COVERAGE.json",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/VALIDATION.json",
+    "CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/BLACKSTONE_SEMESTER_I/SOURCE_MAP.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/BACKSTORY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/BLACKSTONE_INSTITUTION/NEW_FILES_SHA256.txt",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/BLACKSTONE_INSTITUTION/README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CAMPUS_EVENTS_SEMESTER_I.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CHANGELOG.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CONTINUITY/RAEON_CLUB_WEEK07_OVERLAY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_SEMESTER_I_COMPLETE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK04.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK05.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK06.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK06_V6_1.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK07.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK08.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK09.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK10.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK11.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK12.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK12_GUEST_SCHOLAR_EXTENSION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK13.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK14.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/CUMULATIVE_STATUS_WEEK15.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/EXECUTABLE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/HISTORICAL_README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/LIVE_MODEL_03_CHANGELOG.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/LIVE_MODEL_03_DAY241_AMENDMENT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/SEMESTER_I_COMPLETE/CANON_STATUS_AND_OPEN_ITEMS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/SEMESTER_I_COMPLETE/README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_224.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_225.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_226.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_227.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_228.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/DAY_229.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/SOURCE_DAY_224.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/SOURCE_combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_01/overlays.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_230.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_231.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_232.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_233.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_234.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/DAY_235.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/author_decisions.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_02/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_236.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_237.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_238.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_239.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_240.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/DAY_241.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_03/author_decisions.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/CAMPUS_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/CHAINMAIL_PRODUCTION_LEDGER.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_242.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_243.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_244.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_245.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_246.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/DAY_247.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/author_decisions.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/CANON_AND_OPEN_ISSUES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/CHAINMAIL_PRODUCTION_LEDGER.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_248.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_249.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_250.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_251.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_252.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/DAY_253.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/author_decisions.json",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/CHAINMAIL_ORDER_LEDGER.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_254.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_255.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_256.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_257.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_258.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_259.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DAY_259_RAEON_AND_CITY_CONTINUITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DECISIONS_AND_CONTINUITY.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_260.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_261.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_262.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_263.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_264.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DAY_265.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/DECISIONS_AND_OPEN.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_07/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/CAMPUS_EVENTS_AND_AUTHOR_DECISIONS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/CHAINMAIL_STATUS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_266.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_267.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_268.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_269.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_270.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/DAY_271.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_08/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/AUTHOR_APPROVAL_AND_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_272.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_273.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_274.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_275.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_276.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/DAY_277.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_09/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/CAMPUS_EVENTS_AND_AUTHOR_DECISIONS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/CHAINMAIL_STATUS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_278.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_279.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_280.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_281.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_282.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/DAY_283.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/SECOND_EXAMINATION_PERIOD_AMENDMENT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_10/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/AUTHOR_DECISIONS_AND_CAMPUS_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/CHAINMAIL_AND_CONTINUITY_STATUS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_284.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_285.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_286.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_287.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_288.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/DAY_289.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_11/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/AUTHOR_DECISIONS_AND_CAMPUS_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/CHAINMAIL_DELIVERY_AND_PRODUCTION_LEDGER.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_290.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_291.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_292.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_293.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_294.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_295.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_295_GUEST_SCHOLAR_CANON_CORRECTION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/DAY_295_GUEST_SCHOLAR_EXTENDED_1900_2500.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/AUTHOR_DECISIONS_AND_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/CHAINMAIL_PROGRESS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_296.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_297.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_298.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_299.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_300.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/DAY_301.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/AUTHOR_DECISIONS_AND_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_302.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_303.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_304.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_305.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_306.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/DAY_307.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/SPRITE_PROFESSOR_HANDOFF.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_14/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/AUTHOR_DECISIONS_AND_EVENTS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_308.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_309.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_310.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_311.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_312.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/DAY_313.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/FINAL_EXAM_HANDOFF.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_15/combined_schedule.csv",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/AUTHOR_APPROVAL_AND_FINALS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_314.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_315.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_316.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_317.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_318.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/DAY_319.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_16/combined_schedule.csv"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_004/ARC.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCES.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md"
+  ],
+  "deleted": [],
+  "blocking_conflicts": [],
+  "retained_open_items": "See CONFLICTS_AND_SUPERSESSIONS.md; no invented overlap resolution, grades, mastery or robe completion",
+  "checks": [
+    {
+      "check": "all 195 original members losslessly preserved or reused",
+      "pass": true
+    },
+    {
+      "check": "23 exact existing curriculum members reused, 172 new originals",
+      "pass": true
+    },
+    {
+      "check": "all 194 outer declarations valid in documented scope",
+      "pass": true
+    },
+    {
+      "check": "193 distinct payload members covered; only two manifests self-hashed",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_FIVE_SEMESTER_COURSE_MAP.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_SEMESTER_01.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_SEMESTER_02.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_SEMESTER_03.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_SEMESTER_04.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/CARDSMITH_SEMESTER_05.md",
+      "pass": true
+    },
+    {
+      "check": "nested Kaira/README.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_FIVE_SEMESTER_COURSE_MAP.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_SEMESTER_01.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_SEMESTER_02.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_SEMESTER_03.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_SEMESTER_04.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/PRINCESS_SEMESTER_05.md",
+      "pass": true
+    },
+    {
+      "check": "nested illi/README.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/HELKIR_SEMESTER_01.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/HELKIR_SEMESTER_02.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/HELKIR_SEMESTER_03.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/HELKIR_SEMESTER_04.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/HELKIR_SEMESTER_05.md",
+      "pass": true
+    },
+    {
+      "check": "nested Elaira/README.md",
+      "pass": true
+    },
+    {
+      "check": "20 nested curriculum declarations verified",
+      "pass": true
+    },
+    {
+      "check": "source archive hash unchanged",
+      "pass": true
+    },
+    {
+      "check": "Day 224 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 225 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 225 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 226 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 226 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 227 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 227 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 228 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 228 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 229 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 229 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 230 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 230 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 231 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 231 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 232 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 232 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 233 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 233 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 234 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 234 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 235 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 235 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 236 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 236 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 237 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 237 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 238 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 238 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 239 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 239 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 240 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 240 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 241 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 241 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 242 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 242 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 243 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 243 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 244 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 244 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 245 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 245 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 246 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 246 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 247 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 247 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 248 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 248 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 249 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 249 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 250 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 250 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 251 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 251 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 252 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 252 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 253 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 253 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 254 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 254 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 255 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 255 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 256 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 256 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 257 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 257 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 258 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 258 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 259 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 259 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 260 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 260 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 261 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 261 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 262 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 262 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 263 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 263 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 264 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 264 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 265 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 265 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 266 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 266 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 267 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 267 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 268 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 268 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 269 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 269 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 270 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 270 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 271 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 271 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 272 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 272 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 273 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 273 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 274 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 274 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 275 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 275 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 276 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 276 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 277 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 277 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 278 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 278 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 279 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 279 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 280 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 280 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 281 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 281 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 282 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 282 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 283 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 283 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 284 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 284 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 285 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 285 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 286 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 286 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 287 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 287 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 288 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 288 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 289 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 289 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 290 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 290 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 291 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 291 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 292 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 292 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 293 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 293 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 294 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 294 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 295 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 295 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 296 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 296 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 297 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 297 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 298 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 298 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 299 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 299 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 300 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 300 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 301 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 301 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 302 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 302 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 303 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 303 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 304 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 304 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 305 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 305 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 306 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 306 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 307 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 307 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 308 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 308 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 309 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 309 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 310 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 310 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 311 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 311 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 312 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 312 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 313 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 313 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 314 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 314 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 315 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 315 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 316 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 316 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 317 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 317 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 318 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 318 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "Day 319 original and effective 31-hour three-character tables",
+      "pass": true
+    },
+    {
+      "check": "Day 319 unchanged original",
+      "pass": true
+    },
+    {
+      "check": "exact 96 unique canonical day files",
+      "pass": true
+    },
+    {
+      "check": "baseline sleep is labeled as template rather than an invented scene",
+      "pass": true
+    },
+    {
+      "check": "source 1018 intervals; effective 1017; 2976 hours per student",
+      "pass": true
+    },
+    {
+      "check": "Week 1 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 1 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 2 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 2 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 3 has six supplied Markdown days and no fabricated CSV",
+      "pass": true
+    },
+    {
+      "check": "Week 4 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 4 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 5 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 5 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 6 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 6 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 7 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 7 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 8 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 8 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 9 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 9 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 10 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 10 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 11 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 11 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 12 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 12 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 13 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 13 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 14 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 14 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 15 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 15 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 16 source CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "Week 16 current CSV exact text/time match to six Markdown tables",
+      "pass": true
+    },
+    {
+      "check": "all 15 supplied CSVs retained and current views checked",
+      "pass": true
+    },
+    {
+      "check": "141 dated required class/student instances match primary times; Games exception explicit",
+      "pass": true
+    },
+    {
+      "check": "current Day 224 explicit user decision",
+      "pass": true
+    },
+    {
+      "check": "original Day 224 alternative and Week 1 CSV retained separately",
+      "pass": true
+    },
+    {
+      "check": "no professor appointments after 306 or on Aiven/Games",
+      "pass": true
+    },
+    {
+      "check": "last professor session is 306",
+      "pass": true
+    },
+    {
+      "check": "explicit milestones and no premature Elaira construction",
+      "pass": true
+    },
+    {
+      "check": "second examination 278",
+      "pass": true
+    },
+    {
+      "check": "second examination 280",
+      "pass": true
+    },
+    {
+      "check": "second specialist exams exact slots",
+      "pass": true
+    },
+    {
+      "check": "final exams 314/316/318 exact slots",
+      "pass": true
+    },
+    {
+      "check": "Day 295 six-hour event for all and no simultaneous craft block",
+      "pass": true
+    },
+    {
+      "check": "Day 319 symposium, feast, celebration all three",
+      "pass": true
+    },
+    {
+      "check": "annual exact ranges, inclusive lengths and 353-day total",
+      "pass": true
+    },
+    {
+      "check": "continuous semester weekday phase",
+      "pass": true
+    },
+    {
+      "check": "879 untargeted baseline files byte-identical []",
+      "pass": true
+    },
+    {
+      "check": "320 unique primary daily rows and 24 historical summary rows retained",
+      "pass": true
+    },
+    {
+      "check": "old attributes retained",
+      "pass": true
+    },
+    {
+      "check": "AGENTS.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "BOOKS/RED/ARCS/ARC_004/ARC.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "entire earlier ledger preserved with only 95 inserted rows",
+      "pass": true
+    },
+    {
+      "check": "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/OPEN_QUESTIONS_CURRENT.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "PROVENANCE/SOURCES.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "single appended delivery registry entry",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/CURRENT_MODEL_INDEX.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md complete earlier body retained",
+      "pass": true
+    },
+    {
+      "check": "exact intended inventory, no deleted files or inbox tracking",
+      "pass": true
+    },
+    {
+      "check": "two direct author resolutions recorded",
+      "pass": true
+    },
+    {
+      "check": "confirmed names integrated without professor identity invention",
+      "pass": true
+    },
+    {
+      "check": "all primary/teaching, Orange/Yellow, image and historical checkpoint paths untouched",
+      "pass": true
+    },
+    {
+      "check": "all generated local links resolve []",
+      "pass": true
+    },
+    {
+      "check": "Git whitespace check",
+      "pass": true
+    },
+    {
+      "check": "repository structural validator",
+      "pass": true
+    }
+  ],
+  "manifest_checks": [
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "BACKSTORY.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CAMPUS_EVENTS_SEMESTER_I.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CHANGELOG.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CONTINUITY/RAEON_CLUB_WEEK07_OVERLAY.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_SEMESTER_I_COMPLETE.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK04.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK05.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK06.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK06_V6_1.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK07.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK08.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK09.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK10.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK11.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK12.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK12_GUEST_SCHOLAR_EXTENSION.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK13.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK14.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "CUMULATIVE_STATUS_WEEK15.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "EXECUTABLE.md",
+      "mode": "verbatim retained original handoff",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "LIVE_MODEL_03_CHANGELOG.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "LIVE_MODEL_03_DAY241_AMENDMENT.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "README.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SEMESTER_I_COMPLETE/CANON_STATUS_AND_OPEN_ITEMS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SEMESTER_I_COMPLETE/README.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/HELKIR_SEMESTER_01.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/HELKIR_SEMESTER_02.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/HELKIR_SEMESTER_03.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/HELKIR_SEMESTER_04.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/HELKIR_SEMESTER_05.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/MANIFEST.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Elaira/README.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_FIVE_SEMESTER_COURSE_MAP.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_SEMESTER_01.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_SEMESTER_02.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_SEMESTER_03.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_SEMESTER_04.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/CARDSMITH_SEMESTER_05.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/MANIFEST.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/Kaira/README.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/MANIFEST.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_FIVE_SEMESTER_COURSE_MAP.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_SEMESTER_01.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_SEMESTER_02.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_SEMESTER_03.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_SEMESTER_04.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/PRINCESS_SEMESTER_05.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "SOURCES/illi/README.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_224.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_225.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_226.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_227.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_228.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/DAY_229.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_01/overlays.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_230.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_231.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_232.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_233.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_234.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/DAY_235.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/author_decisions.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_02/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_236.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_237.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_238.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_239.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_240.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/DAY_241.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_03/author_decisions.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/CAMPUS_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/CHAINMAIL_PRODUCTION_LEDGER.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_242.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_243.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_244.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_245.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_246.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/DAY_247.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/author_decisions.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_04/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/CANON_AND_OPEN_ISSUES.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/CHAINMAIL_PRODUCTION_LEDGER.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_248.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_249.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_250.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_251.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_252.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/DAY_253.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/author_decisions.json",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_05/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/CHAINMAIL_ORDER_LEDGER.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_254.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_255.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_256.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_257.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_258.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_259.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DAY_259_RAEON_AND_CITY_CONTINUITY.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/DECISIONS_AND_CONTINUITY.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_06/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_260.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_261.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_262.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_263.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_264.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DAY_265.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/DECISIONS_AND_OPEN.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_07/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/CAMPUS_EVENTS_AND_AUTHOR_DECISIONS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/CHAINMAIL_STATUS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_266.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_267.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_268.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_269.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_270.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/DAY_271.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_08/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/AUTHOR_APPROVAL_AND_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_272.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_273.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_274.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_275.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_276.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/DAY_277.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_09/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/CAMPUS_EVENTS_AND_AUTHOR_DECISIONS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/CHAINMAIL_STATUS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_278.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_279.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_280.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_281.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_282.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/DAY_283.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/SECOND_EXAMINATION_PERIOD_AMENDMENT.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_10/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/AUTHOR_DECISIONS_AND_CAMPUS_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/CHAINMAIL_AND_CONTINUITY_STATUS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_284.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_285.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_286.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_287.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_288.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/DAY_289.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_11/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/AUTHOR_DECISIONS_AND_CAMPUS_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/CHAINMAIL_DELIVERY_AND_PRODUCTION_LEDGER.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_290.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_291.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_292.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_293.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_294.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_295.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_295_GUEST_SCHOLAR_CANON_CORRECTION.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/DAY_295_GUEST_SCHOLAR_EXTENDED_1900_2500.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_12/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/AUTHOR_DECISIONS_AND_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/CHAINMAIL_PROGRESS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_296.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_297.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_298.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_299.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_300.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/DAY_301.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_13/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/AUTHOR_DECISIONS_AND_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_302.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_303.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_304.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_305.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_306.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/DAY_307.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/SPRITE_PROFESSOR_HANDOFF.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_14/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/AUTHOR_DECISIONS_AND_EVENTS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_308.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_309.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_310.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_311.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_312.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/DAY_313.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/FINAL_EXAM_HANDOFF.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_15/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/AUTHOR_APPROVAL_AND_FINALS.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_314.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_315.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_316.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_317.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_318.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/DAY_319.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "SEMESTER_I_COMPLETE/ARCHIVE_MANIFEST_SHA256.txt",
+      "member": "WEEK_16/combined_schedule.csv",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "BLACKSTONE_INSTITUTION/NEW_FILES_SHA256.txt",
+      "member": "EXECUTABLE.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "BLACKSTONE_INSTITUTION/NEW_FILES_SHA256.txt",
+      "member": "BLACKSTONE_INSTITUTION/BLACKSTONE_ACADEMIC_CALENDAR.md",
+      "mode": "whole current member",
+      "pass": true
+    },
+    {
+      "manifest": "BLACKSTONE_INSTITUTION/NEW_FILES_SHA256.txt",
+      "member": "BLACKSTONE_INSTITUTION/README.md",
+      "mode": "whole current member",
+      "pass": true
+    }
+  ],
+  "repository_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "validated_root": "C:\\Users\\rando\\_MK163",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  }
+}

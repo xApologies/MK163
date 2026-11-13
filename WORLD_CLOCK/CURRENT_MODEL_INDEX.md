@@ -1,3 +1,17 @@
+# Current Blackstone · annual cycle and complete Semester I outline
+
+[Global institutional academic cycle](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Complete Semester I daily plans](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [Green Arc narrative owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Single running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+Coverage is Days 224–319 as outlined planning. Published Day 224 retained; Aiselle/Alchemist and Caelor/Headmaster names explicitly confirmed. Three primary curriculum owners, v5.1 teaching source files, prior history and all inherited repositories remain unchanged. Calendar allocations after 319 are not authored events.
+
+[Semester I reconciliation](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Current Green update · Day 224 selected outline
 
 The selected-outline frontier now extends through Day 224; the next writing position is 09:00. No completed chapter, invented Days 218–223, later knowledge or curriculum retiming follows.

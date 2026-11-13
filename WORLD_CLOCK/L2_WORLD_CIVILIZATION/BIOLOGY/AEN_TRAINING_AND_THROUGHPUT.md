@@ -1,3 +1,19 @@
+# aen · Violet closure selected for Day 248
+
+The author-approved Semester I plan selects **Day 248**, 21:00–25:00 evening block: with illi's guidance, Kaira closes her Violet aen ring. This resolves the earlier Violet-date OPEN only from this point; all earlier closures and their original dates remain.
+
+Ring closure ceases to be the principal training focus afterward. Widening rings across the skin is a future aim, with occasional maintenance; no completed Stage II/sleeve, new quantitative throughput, certification, effortless stability or automatic combat mastery is selected. Later relaxed evenings explicitly omit intensive drills in their stated scope. Mixed aen/chainmail blocks are not all counted as productive manufacturing time.
+
+[Complete Week 5 author selections](../INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/CANON_AND_OPEN_ISSUES.md) · [Later practice boundaries](../INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_06/DECISIONS_AND_CONTINUITY.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Green opening · Violet still OPEN; informal mentorship ahead
 
 - Yellow ring closed by end of cumulative Day 62 interval (exact day open).

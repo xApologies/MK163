@@ -1,3 +1,21 @@
+# Blackstone · annual academic cycle and complete Semester I planning
+
+[Annual academic calendar: 353-day offset cycle](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Complete Semester I live model, Days 224–319](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+The annual institutional owner is separate from the preserved Semester I event infrastructure calendar and the three unchanged five-semester curriculum owners. Semester II begins Day 341 (Ailor), III Day 458 (Ailar), and the next cycle Day 577 (Aiven); no weekday reset or civil New Year identification. Days after 319 are allocations only.
+
+**Headmaster Caelor** and **Aiselle, the Alchemist**, are now explicitly author-confirmed names. Aiselle arranged Kaira's course overlap with illi during admissions with Caelor; no new exact date or altered admission outcome is inferred. Professor and young Sprite names/gender remain independently OPEN.
+
+Campus planning retains the departmental/faculty Prism Cup rule and OPEN Cup date. The historical ER Foam Ball/five-branch source is not revived. The existing Semester I infrastructure file remains byte-identical; selected attendance and time overlays live with their weekly records. Shapings remain operations and Bindings interfaces; historical “binding-circle” activity labels do not authorize new metaphysics.
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Blackstone · Day 224 Natural Philosophy association
 
 The established mature Green Sprite professor's Day 224 visit is associated with **Natural Philosophy**, an existing department. The author's proposed office/home area does not determine a room, street address, separate landmark, precise map geometry or residence arrangement. Their standing 16:00–20:00 office hours offer optional mentorship, with attendance governed by consent and student schedules, not a new compulsory course. The selected first visit supersedes Kaira's optional afternoon blocks on Day 224 only. Required Genesis Field Theory I remains 11:00–13:00; Opening Convocation time is OPEN.

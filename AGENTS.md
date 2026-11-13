@@ -1,3 +1,21 @@
+# Current Blackstone Semester I · outlined through Day 319
+
+Read the live-model entry point and integration supersessions before using daily schedules. The author retained the published Day 224 outline: 09:00 knock, 16:00–20:00 professor visit and shared evening walk. The incoming conflicting Day 224 schedule is source-only. **Aiselle is the Alchemist; Caelor is the Headmaster**, explicitly confirmed. Professor name/gender remain OPEN.
+
+Later dates select emerging Sprite-to-Kaira communication 237, Violet aen closure 248, humanoid Sprite expression 251, illi robe gift 253, Elaira order 259/delivery and construction 293, final professor session 306, final exams 314/316/318 and feast 319. No completed prose, automatic mastery, full Stage II, Elaira robe completion or future attendance is inferred.
+
+Keep continuous weekday phase: academic cycle 96+21+96+21+96+21+2=353; II starts 341/Ailor, III 458/Ailar, next cycle 577/Aiven. Preserve the civil calendar, primary schedules and v5.1 corpus. Story-specific Games, exam and review overrides do not rewrite recurring templates. RAEON Club attendance overlaps already marked OPEN stay OPEN; no simultaneous full attendance or invented split. Retain maegi, vaelum, lowercase aen/illi, and event-context vaelith/leviathan. Source typography does not rename other protected terms. No inherited repository edits or unrelated changes.
+
+[Current live-model entry point](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [Source conflicts and explicit author decisions](CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/CONFLICTS_AND_SUPERSESSIONS.md)
+
+[Semester I reconciliation](CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Current Green Day 224 · selected outline
 
 Read the Day 224 arc overlay and reconciliation before continuing Green. The full Day 224 outline is selected; drafting resumes with illi's 09:00 knock, not with an already-written chapter. Days 218–223 remain unassigned. Keep 11:00–13:00 Genesis Field Theory I and front-row illi — Kaira — Elaira. The early wake-up and 16:00–20:00 professor visit are date-specific exceptions to optional/ordinary routine only; recurring schedules, v5.1 curriculum, Aiven rest and EDU-01/02 remain unchanged.

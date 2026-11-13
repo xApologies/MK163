@@ -1,0 +1,116 @@
+{
+  "1": {
+    "Kaira": {
+      "13:00–15:00": "Genesis review with illi and E; study clique begins",
+      "16:00–18:00": "FIRST Sprite Professor meeting with Black Sprite; two-hour conversation",
+      "18:00–20:00": "Rejoins illi and E at library; campus exploration",
+      "20:00–21:00": "Dinner with illi and E",
+      "21:00–25:00": "Residence with E; relax and socialize"
+    },
+    "illi": {
+      "13:00–15:00": "Shared Genesis review with Kaira and E",
+      "16:00–18:00": "Grand Archives independent study with E",
+      "18:00–20:00": "Kaira rejoins at library; explore campus together",
+      "20:00–21:00": "Dinner with Kaira and E",
+      "21:00–25:00": "Returns to own residence; evening leisure"
+    },
+    "Elaira": {
+      "13:00–15:00": "Shared Genesis review with Kaira and illi",
+      "16:00–18:00": "Grand Archives independent study with illi",
+      "18:00–20:00": "Kaira rejoins at library; explore campus together",
+      "20:00–21:00": "Dinner with Kaira and illi",
+      "21:00–25:00": "Residence with Kaira; relax and socialize"
+    }
+  },
+  "2": {
+    "Kaira": {
+      "11:00–13:00": "Host shared Genesis review at Kaira’s residence with illi and E",
+      "13:00–15:00": "Outdoor social time; Nyx and Black Sprite play",
+      "16:00–18:00": "Sprite Professor meeting with Black Sprite",
+      "18:00–20:00": "Meet illi near residences; walk campus while Nyx exercises",
+      "20:00–21:00": "Dinner with friends"
+    },
+    "illi": {
+      "11:00–13:00": "Genesis review at Kaira’s residence with Kaira and E",
+      "13:00–15:00": "Outdoor social time with friends; Nyx plays",
+      "16:00–18:00": "Returns to own residence; personal time",
+      "18:00–20:00": "Meets Kaira near residences; campus walk and Nyx exercise",
+      "20:00–21:00": "Dinner with friends"
+    },
+    "Elaira": {
+      "11:00–13:00": "Genesis review at Kaira’s residence with Kaira and illi",
+      "13:00–15:00": "Outdoor social time with friends",
+      "16:00–18:00": "Independent study / personal time (flexible)",
+      "18:00–20:00": "Open campus time; no fixed group appointment",
+      "20:00–21:00": "Dinner with friends (flexible)"
+    }
+  },
+  "3": {
+    "Kaira": {
+      "13:00–15:00": "Library review of Topology I with illi and E",
+      "16:00–18:00": "Sprite Professor meeting with Black Sprite",
+      "18:00–20:00": "Walk with illi and Nyx; exercise and explore",
+      "20:00–21:00": "Dinner with illi and E",
+      "21:00–25:00": "Canal walk and nighttime sigil-lit Blackstone; residential leisure"
+    },
+    "illi": {
+      "13:00–15:00": "Library review of Topology I with Kaira and E",
+      "16:00–18:00": "Gym: native Genesis / aen transduction practice",
+      "18:00–20:00": "Walk with Kaira and Nyx",
+      "20:00–21:00": "Dinner with Kaira and E",
+      "21:00–25:00": "Canal walk and nighttime sigil-lit Blackstone; residential leisure"
+    },
+    "Elaira": {
+      "13:00–15:00": "Library review of Topology I with Kaira and illi",
+      "16:00–18:00": "Independent tutoring, research or study",
+      "18:00–20:00": "Own study / free time",
+      "20:00–21:00": "Dinner with Kaira and illi",
+      "21:00–25:00": "Optional canal walk / residential leisure"
+    }
+  },
+  "4": {
+    "Kaira": {
+      "16:00–18:00": "Sprite Professor meeting with Black Sprite",
+      "18:00–20:00": "FIRST ring delivery from city blacksmith arrives at residence; inventory and begin chainmail gift for illi",
+      "20:00–21:00": "Dinner with friends",
+      "21:00–25:00": "Chainmail work for illi; E gift planned next; residence leisure"
+    },
+    "illi": {
+      "16:00–18:00": "Gym: native Genesis / aen practice",
+      "18:00–20:00": "Open campus time / possible visit with Kaira (gift remains a surprise)",
+      "20:00–21:00": "Dinner with friends"
+    },
+    "Elaira": {
+      "16:00–18:00": "Independent tutoring / research",
+      "18:00–20:00": "Open campus / personal activities",
+      "20:00–21:00": "Dinner with friends"
+    }
+  },
+  "5": {
+    "Kaira": {
+      "16:00–18:00": "REQUIRED Cardsmithing Fundamentals I; drop Black Sprite with professor before class, collect at 18:00",
+      "18:00–20:00": "Return home; work on illi’s chainmail robe",
+      "20:00–21:00": "Dinner with illi and E"
+    },
+    "illi": {
+      "16:00–18:00": "Gym: native Genesis / aen practice",
+      "18:00–20:00": "REQUIRED Native Genesis Control I",
+      "20:00–21:00": "Dinner with Kaira and E"
+    },
+    "Elaira": {
+      "18:00–20:00": "REQUIRED Anatomy I",
+      "20:00–21:00": "Dinner with Kaira and illi"
+    }
+  },
+  "6": {
+    "Kaira": {
+      "13:00–18:00": "Rest-day campus exploration; Nyx runs, plays and exercises; Black Sprite stays with Kaira; NO professor visit"
+    },
+    "illi": {
+      "13:00–18:00": "Rest-day exploration with friends and Nyx; NO professor visit"
+    },
+    "Elaira": {
+      "13:00–18:00": "Rest-day exploration / friends / own interests; NO professor visit"
+    }
+  }
+}

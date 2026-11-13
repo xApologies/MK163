@@ -1,3 +1,22 @@
+# Green Semester I · two separate gift-robe projects
+
+**Author-selected outline, not completed prose or measured labor.** Kaira's original personal robe and commercial production history below are unchanged.
+
+- **illi's gift:** a pre-semester supply arrangement with a city blacksmith has no newly selected exact date. First rings arrive **Day 227**, and construction starts that day. Dedicated scheduled allocations include 245 21:00–25:00, 246 21:00–25:00 and 247 23:00–25:00; mixed earlier work/aen/leisure is not totaled as uninterrupted labor. Completion and gifting occur **Day 253, 23:00–25:00**: 26 elapsed day boundaries, 27 inclusive dates touched, not 26 full shifts. Kaira and illi each have robes afterward.
+- **Elaira's distinct gift:** planned from 254; no construction while materials are absent. Rings/supplies are ordered on the **Day 259** Green District outing, delivered **Day 293**, and work begins that evening. No work is backdated to ordering or the waiting interval. Days **298/299 21:00–25:00** are dedicated sessions; other mixed evenings do not establish precise labor totals. The robe is **still incomplete on Day 319**; completion/delivery to Elaira, quantity, cost and supplier identity remain OPEN.
+- **Diffusion:** existing Yellow history already establishes independent simpler copies observed Day 107 and chromatic imitation beginning in the Day 172–178 interval. The supplied Week 5 request to recover copying onset does not reopen those selected facts. Exact first completed chromatic imitation, spread rate and future local Blackstone uptake remain OPEN; “another month” is expectation, not a locked date.
+- No repeatable manufacturing mechanism for Kaira's spontaneous personal chromatic alteration is inferred, and no new gift price, ring count or topology is invented.
+
+[Early gift work](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_04/CHAINMAIL_PRODUCTION_LEDGER.md) · [illi completion](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_05/CHAINMAIL_PRODUCTION_LEDGER.md) · [Elaira delivery and start](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_12/CHAINMAIL_DELIVERY_AND_PRODUCTION_LEDGER.md) · [Later dedicated work](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/WEEK_13/CHAINMAIL_PROGRESS.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Day 171–178 — Spontaneous Genesis outburst and chromatic robe
 
 **Day 171 (Aerion 16, Aiden):** Kaira relaxes in pajamas reading at home near dinner; Nyx and young Black Sprite play. An involuntary internal Genesis-energy surge associated with her new identity bond radiates outward like an uncontrollable sneeze. Not deliberate Transduction, not a constructed Shaping, no selected manifold. Nyx and Sprite stop and stare; Kaira jokingly protests, “It wasn't my fault.”

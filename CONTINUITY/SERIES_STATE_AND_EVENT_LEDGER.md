@@ -1,3 +1,19 @@
+# Green Semester I · outline state through Day 319
+
+The selected planning frontier now reaches Semester I's Day 319 ending; this is not a finished prose manuscript. The author retains the published Day 224 outline. Full schedule detail has one home in Blackstone education, referenced by the single running day ledger.
+
+End-of-semester planned state: Violet aen ring closed since 248; young Sprite has emerging communication since 237 and humanoid expression since 251, with routine professor instruction ending 306. illi owns her gifted robe since 253; Elaira's separate robe remains under construction following delivery on 293. Final exam dates are selected, grades OPEN. No Ring, new lifecycle stage, later-semester attendance or future scene follows automatically.
+
+[Single running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Complete plans and boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+[Semester I reconciliation](../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
 # Green state · Day 224 outline selected
 
 The selected-outline frontier now includes Day 224's full day; drafting resumes at 09:00 with illi's knock. This is not a completed chapter or automatic completed learning. Day 217's established selected beats persist, Days 218–223 are unassigned, and no later date is advanced. The meeting with Elaira and first substantial professor visit are selected for the forthcoming chapter. All other series state, including Orange/Yellow and Black Card retirement, is unchanged.
