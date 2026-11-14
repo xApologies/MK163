@@ -1,3 +1,15 @@
+# Blackstone · Semester II and the Age of Knowledge
+
+The first cycle’s Semester II covers Days 338–433. Sixteen six-day weeks each have a complete daily plan for Kaira, illi and Elaira. The inherited semester event pattern repeats on its semester-local dates. Freshman standing covers Semesters I–II, middleclassman III–IV and upperclassman V. The Guest Scholar Series offers 19:00–25:00 sessions on semester days 72–75. All three attend the main session in each semester. Attendance on the three subsequent evenings remains optional. The First Hospital Observation window on Semester I Day 265 and Semester II Day 379 is 13:00–18:00. The supplied Semester I overlay files cover the guest series.
+
+The faculty and staff Prism season opens on semester day 51. Eight academic department teams compete on the permanent field in the U-shaped Gym. Seven regular Aiven game days use 13:00–23:00, with possible overtime. The Day 433 championship shares the afternoon with the symposium. The winner is announced at the 19:00–23:00 feast. Specific fixtures, points, winning department and student attendance remain OPEN.
+
+On Break II Day 451 aina publicly recognizes the transductionist movement. Headmaster Caelor accepts the expectation that Blackstone lead its academic development. Conceptual study helps practitioners improve shaping efficiency and expression. The bookstore will carry voluntary transductionist clothing made by local chainmail smiths. Stocking date, prices and supply agreements remain OPEN.
+
+[Cycle and first-cycle dates](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Recurring campus events](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/CAMPUS_EVENTS_RECURRING.md) · [Semester I guest overlays](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/GUEST_SCHOLAR_OVERLAYS/README.md) · [Eight departments and fixtures](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/PRISM_TOURNAMENT_SEASON.md) · [Royal recognition](BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Blackstone · first break outline and unchanged annual calendar
 
 Semester I's complete Days 224–319 model remains intact. Aiselle's Day 319 feast appearance is an additive scene detail, not a timetable replacement. Nyx's living bedroom flower wall is a Semester I retrospective and stays in Kaira's campus apartment during her visit away.

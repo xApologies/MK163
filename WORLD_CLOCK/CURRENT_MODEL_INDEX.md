@@ -1,3 +1,11 @@
+# Blackstone · Semester II through the beginning of Semester III
+
+Sixteen weeks of three-character plans cover 338–433. The palace break ends at the Day 451 ceremony. The running ledger identifies each timetable and the planning status of every break day.
+
+[Daily plans](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Day 433](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Day 451](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md) · [Calendar](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Coverage and reconciliation](../CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md)
+
+---
+
 # Current Green · final Break Checkpoint 02
 
 [Day 319 addendum, break 320–340 and opening anchor 341](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Princess aina and existing Aiselle/illi identities](L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Retrospective flower wall](L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Elaira gift and two separate new originals](L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Full coverage and validation](../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/INTEGRATION_REPORT.md)

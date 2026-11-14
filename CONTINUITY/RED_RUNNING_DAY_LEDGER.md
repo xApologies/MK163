@@ -1,3 +1,9 @@
+# Running ledger · first cycle through Day 452
+
+The primary table reflects the approved 18-day first break, the 96 dated plans on 338–433, the 18-day second break and the opening of Semester III on 452. The earlier introduction below describes the former calendar allocation. [Previous offsets and their source](../CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md)
+
+---
+
 # Running ledger · break 320–340 and opening anchor 341
 
 The existing single table now includes Days **320–341**. Rows inside approved intervals do not assert individually authored daily events. Day 319's original timetable is retained: Aiselle's feast appearance is an additive overlay. The exact 353-day academic cycle, 31-hour days and continuous weekday phase remain.
@@ -442,15 +448,126 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 330 | Aerith | 14 | — | Aithen | INTERVAL OUTLINE 320–330: Aiselle visit and Elaira gift completion within interval; no individual-day timing assigned. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
 | 331 | Aerith | 15 | — | Aiven | SELECTED ANCHOR: return to Blackstone, surprise Elaira gift and illi relays aina request; hour OPEN. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
 | 332 | Aerith | 16 | — | Ailar | SELECTED ANCHOR: three-girl rickshaw outing; ring order for two new originals (aina and unnamed smith); delivery/start OPEN. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 333 | Aerith | 17 | — | Aiden | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 334 | Aerith | 18 | — | Aiveth | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 335 | Aerith | 19 | — | Ailor | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 336 | Aerith | 20 | — | Aithen | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 337 | Aerith | 21 | — | Aiven | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 338 | Aerith | 22 | — | Ailar | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 339 | Aerith | 23 | — | Aiden | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 340 | Aerith | 24 | — | Aiveth | INTERVAL OUTLINE 333–340: shared leisure/raeon/Nyx exercise, possible commission planning; no selected ring arrival or new construction. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
-| 341 | Aerith | 25 | — | Ailor | CALENDAR ANCHOR: Semester II first instructional day; exact lessons/attendance not supplied. [Break owner](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 333 | Aerith | 17 | — | Aiden | Break I leisure and possible planning within Days 333–337. [Green Arc](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 334 | Aerith | 18 | — | Aiveth | Break I leisure and possible planning within Days 333–337. [Green Arc](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 335 | Aerith | 19 | — | Ailor | Break I leisure and possible planning within Days 333–337. [Green Arc](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 336 | Aerith | 20 | — | Aithen | Break I leisure and possible planning within Days 333–337. [Green Arc](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 337 | Aerith | 21 | — | Aiven | Break I leisure and possible planning within Days 333–337. [Green Arc](../BOOKS/RED/ARCS/ARC_004/ARC.md) |
+| 338 | Aerith | 22 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_338.md). Opening Convocation is available. |
+| 339 | Aerith | 23 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_339.md). |
+| 340 | Aerith | 24 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_340.md). |
+| 341 | Aerith | 25 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_341.md). |
+| 342 | Aerith | 26 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_342.md). |
+| 343 | Aerith | 27 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/DAY_343.md). Voluntary raeon club and institutional Orientation. |
+| 344 | Aerith | 28 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_344.md). |
+| 345 | Aerith | 29 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_345.md). |
+| 346 | Aerith | 30 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_346.md). |
+| 347 | Aerith | 31 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_347.md). |
+| 348 | Aerith | 32 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_348.md). |
+| 349 | Aelora | 1 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_349.md). The girls choose raeon club over Pi Day. |
+| 350 | Aelora | 2 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_350.md). |
+| 351 | Aelora | 3 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_351.md). |
+| 352 | Aelora | 4 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_352.md). Residence summons after dinner. |
+| 353 | Aelora | 5 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_353.md). Caelor and professors meet Kaira after Sigil Architecture. |
+| 354 | Aelora | 6 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_354.md). Kaira and illi collect rings around 18:00. |
+| 355 | Aelora | 7 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_355.md). Anatomical Exhibition. |
+| 356 | Aelora | 8 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_356.md). Regular evening robe work begins. |
+| 357 | Aelora | 9 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_357.md). |
+| 358 | Aelora | 10 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_358.md). The girls enter the Founders Games relay. |
+| 359 | Aelora | 11 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_359.md). |
+| 360 | Aelora | 12 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_360.md). |
+| 361 | Aelora | 13 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_04/DAY_361.md). Department Showcase. |
+| 362 | Aelora | 14 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_362.md). |
+| 363 | Aelora | 15 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_363.md). |
+| 364 | Aelora | 16 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_364.md). Chemistry exam and Chemical Safety Festival. |
+| 365 | Aelora | 17 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_365.md). |
+| 366 | Aelora | 18 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_366.md). |
+| 367 | Aelora | 19 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_05/DAY_367.md). All three attend the Foundation Node Seminar. |
+| 368 | Aelora | 20 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_368.md). |
+| 369 | Aelora | 21 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_369.md). |
+| 370 | Aelora | 22 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_370.md). |
+| 371 | Aelora | 23 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_371.md). |
+| 372 | Aelora | 24 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_372.md). |
+| 373 | Aelora | 25 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_06/DAY_373.md). |
+| 374 | Aelora | 26 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_374.md). All three attend the Topology Challenge. |
+| 375 | Aelora | 27 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_375.md). |
+| 376 | Aelora | 28 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_376.md). |
+| 377 | Aelora | 29 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_377.md). |
+| 378 | Aelora | 30 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_378.md). |
+| 379 | Aelora | 31 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_07/DAY_379.md). Elaira attends hospital observation, 13:00–18:00. |
+| 380 | Aevrin | 1 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_380.md). |
+| 381 | Aevrin | 2 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_381.md). |
+| 382 | Aevrin | 3 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_382.md). Circle Design Competition. |
+| 383 | Aevrin | 4 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_383.md). |
+| 384 | Aevrin | 5 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_384.md). |
+| 385 | Aevrin | 6 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_08/DAY_385.md). All three attend raeon club and Research Night. |
+| 386 | Aevrin | 7 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_386.md). |
+| 387 | Aevrin | 8 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_387.md). |
+| 388 | Aevrin | 9 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_388.md). Faculty Prism season opens. |
+| 389 | Aevrin | 10 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_389.md). Smith’s robe completed. |
+| 390 | Aevrin | 11 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_390.md). Mass-reduction enchantment, 80 eln. Appointment hour OPEN. |
+| 391 | Aevrin | 12 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_391.md). Smith’s robe delivered. Agreed charge 620 eln. Kaira buys Yellow and Green MK-173. |
+| 392 | Aevrin | 13 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_392.md). |
+| 393 | Aevrin | 14 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_393.md). |
+| 394 | Aevrin | 15 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_394.md). Alchemical Materials and Safety Fair. |
+| 395 | Aevrin | 16 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_395.md). |
+| 396 | Aevrin | 17 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_396.md). |
+| 397 | Aevrin | 18 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_10/DAY_397.md). Field Topology Workshop. |
+| 398 | Aevrin | 19 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_398.md). |
+| 399 | Aevrin | 20 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_399.md). |
+| 400 | Aevrin | 21 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_400.md). The Long Proof. |
+| 401 | Aevrin | 22 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_401.md). |
+| 402 | Aevrin | 23 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_402.md). |
+| 403 | Aevrin | 24 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_11/DAY_403.md). Elaira attends Hospital Open Demonstration. |
+| 404 | Aevrin | 25 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_404.md). |
+| 405 | Aevrin | 26 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_405.md). |
+| 406 | Aevrin | 27 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_406.md). |
+| 407 | Aevrin | 28 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_407.md). |
+| 408 | Aevrin | 29 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_408.md). |
+| 409 | Aevrin | 30 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_409.md). All three attend the Seven Prophecies lecture, 19:00–25:00. |
+| 410 | Aevrin | 31 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_410.md). |
+| 411 | Aevrin | 32 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_411.md). |
+| 412 | Aevrin | 33 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_412.md). |
+| 413 | Aelis | 1 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_413.md). |
+| 414 | Aelis | 2 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_414.md). |
+| 415 | Aelis | 3 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_13/DAY_415.md). All three attend the Advanced Configuration Exhibition. |
+| 416 | Aelis | 4 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_416.md). |
+| 417 | Aelis | 5 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_417.md). |
+| 418 | Aelis | 6 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_418.md). Clinical assessment after geometry. Acceptance of 17:00 arrival OPEN. |
+| 419 | Aelis | 7 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_419.md). |
+| 420 | Aelis | 8 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_420.md). |
+| 421 | Aelis | 9 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/DAY_421.md). Genesis Integration Forum. |
+| 422 | Aelis | 10 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_422.md). |
+| 423 | Aelis | 11 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_423.md). |
+| 424 | Aelis | 12 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_424.md). Chemistry Containment Examination demonstration. |
+| 425 | Aelis | 13 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_425.md). Theoretical Mathematics Symposium. |
+| 426 | Aelis | 14 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_426.md). |
+| 427 | Aelis | 15 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_15/DAY_427.md). Elaira attends Clinical Readiness Evaluation. Kaira finishes aina’s robe. |
+| 428 | Aelis | 16 | — | Ailar | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_428.md). |
+| 429 | Aelis | 17 | — | Aiden | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_429.md). |
+| 430 | Aelis | 18 | — | Aiveth | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_430.md). |
+| 431 | Aelis | 19 | — | Ailor | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_431.md). |
+| 432 | Aelis | 20 | — | Aithen | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_432.md). Final examinations complete. |
+| 433 | Aelis | 21 | — | Aiven | [Semester II · full daily plan](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_16/DAY_433.md). Prism championship, symposium and feast. Kaira presents aina’s robe. [Royal visit overlay](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) |
+| 434 | Aelis | 22 | — | Ailar | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 435 | Aelis | 23 | — | Aiden | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 436 | Aelis | 24 | — | Aiveth | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 437 | Aelis | 25 | — | Ailor | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 438 | Aelis | 26 | — | Aithen | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 439 | Aelis | 27 | — | Aiven | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 440 | Aelis | 28 | — | Ailar | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 441 | Aelis | 29 | — | Aiden | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 442 | Aelis | 30 | — | Aiveth | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 443 | Aelis | 31 | — | Ailor | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 444 | Aevor | 1 | — | Aithen | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 445 | Aevor | 2 | — | Aiven | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 446 | Aevor | 3 | — | Ailar | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 447 | Aevor | 4 | — | Aiden | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 448 | Aevor | 5 | — | Aiveth | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 449 | Aevor | 6 | — | Ailor | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 450 | Aevor | 7 | — | Aithen | Break II outline. Individual itinerary and scene times OPEN. [Day-by-day boundaries](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_434_TO_450_OUTLINE.md) |
+| 451 | Aevor | 8 | — | Aiven | Royal recognition at Blackstone. [Age of Knowledge ceremony](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md) |
+| 452 | Aevor | 9 | — | Ailar | Semester III opening. [First-cycle calendar](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

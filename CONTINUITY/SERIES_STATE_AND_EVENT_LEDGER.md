@@ -1,3 +1,11 @@
+# Green Arc · Semester III entry
+
+Finals end on 432. aina receives her robe on 433. The palace visit and Elaira’s family visit fall within Break II. On 451 the princess recognizes Kaira on campus and Caelor accepts Blackstone’s role. Semester III opens on 452.
+
+[Day ledger](RED_RUNNING_DAY_LEDGER.md) · [Recognition and bookstore](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Green first break · selected macro-state through Day 340
 
 The macro-outline now covers the first 21-day break, with Day 341 as the unchanged Semester II opening anchor. This is not 21 fully authored daily timetables or finished prose. Aiselle's Day 319 feast addendum and Nyx's Semester I flower-wall retrospective preserve the complete prior schedule model.

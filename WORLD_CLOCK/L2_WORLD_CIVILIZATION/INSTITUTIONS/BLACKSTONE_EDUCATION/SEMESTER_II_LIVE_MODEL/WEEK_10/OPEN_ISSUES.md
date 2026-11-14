@@ -1,0 +1,2 @@
+# Week Ten open issues
+Prism Tournament match schedule, departments playing, venue, scores and which matches the girls attend. Student results and grades. Princess aina's robe construction progress/completion and delivery. Actual productive hours versus scheduled time. Exact amount and timing of blacksmith payment. Student-level timetable corrections to earlier records require separate scoped decisions.

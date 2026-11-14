@@ -1,3 +1,11 @@
+# Princess aina, illi and Aiselle · Days 433–451
+
+aina’s surprise visit brings her first in-person introduction to Kaira through illi. Aiselle, already acquainted with aina, arrives for Kaira. The princess wears the new five-layer robe and invites Kaira, illi and Aiselle to her palace. Elaira chooses to visit her family. After the palace visit they return to Blackstone in time for the Day 451 celebration. aina calls on Kaira, seated with illi, to stand for public recognition. Caelor accepts the royal expectation of institutional leadership.
+
+[Visit and presentation](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Royal ceremony](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Aiselle, illi and Princess aina · break selections
 
 **Princess aina** is the exact lowercase name, a-i-n-a, of **illi's older sister and the Blue Domain's ruling princess**. She lives at a royal palace in the **White District of the Blue Domain capital**. This resolves the earlier governing-princess identity/relationship OPENs; illi remains the youngest royal daughter and does not govern Blue. aina's palace name, additional political titles, personal traits, detailed genealogy, robe design, price and deadline remain OPEN.

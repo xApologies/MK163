@@ -1,3 +1,11 @@
+# Kaira entering Semester III · Day 452
+
+The Day 391 trip adds the Yellow and Green MK-173 volumes to Kaira’s reading after Red and Orange. Blue, Violet and White remain outstanding. Her two personal robe commissions have now reached their recipients. She wears her original Day 171 Genesis-altered robe at the closing feast. Royal recognition on 451 makes her semi-famous on campus as the robe’s inventor and the public face of the movement. The Black Prophecy remains private. Semester III opens on 452.
+
+[Bookshop and smith](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_391.md) · [Closing feast](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Semester III entry state](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Kaira · break outline through Day 340 and Semester II anchor
 
 The Day 319 feast gains Aiselle's invitation and market observations. Kaira then visits Aiselle's existing Blue District home with Nyx and the independent young Black Sprite during Days 320–330, completes Elaira's existing gift robe there, and returns to Blackstone to present it on **331**. Exact completion date and arrival hour remain OPEN.

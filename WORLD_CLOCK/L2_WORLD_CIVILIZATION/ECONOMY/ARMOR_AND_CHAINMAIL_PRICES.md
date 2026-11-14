@@ -1,3 +1,11 @@
+# Smith settlement and Blackstone bookstore
+
+For the unnamed Yellow District smith’s Day 391 delivery, the standard 1,550 eln price less an 850 eln ring contribution and 80 eln enchantment allowance yields a 620 eln charge. The amount received and net earnings remain OPEN. Princess aina’s separate robe is presented on Day 433. Its payment and enchantment remain OPEN. On Day 451 Blackstone adopts a plan to sell locally made chainmail clothing in the bookstore. Local smiths provide the stock. Contracts, royalties, retail prices and stocking date remain OPEN.
+
+[Commission history](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Bookstore decision](../INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Break market observations and separate prestige commissions
 
 During Semester I, original and imitated Chainmail Robes spread from Kaira's originating Green Domain city across the kingdom through commerce and travel. At the Day 319 feast Aiselle reports circulation in other large cities and capitals, plus renewed interest in academies/practical Transduction associated with the emerging **transductionist** identity. This is a developing cultural trend accelerating toward Semester II, not measured enrollment or universal institutional expansion.

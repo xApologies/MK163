@@ -1,0 +1,394 @@
+week,academic_day,story_day,weekday,character,start,end,activity,notes
+1,1,338,Ailar,Kaira,00:00,10:00,😴 Sleep,10 hours
+1,1,338,Ailar,Kaira,10:00,11:00,🥐 Breakfast and preparation,Wake and prepare
+1,1,338,Ailar,Kaira,11:00,13:00,🟢 Genesis Field Theory II — REQUIRED,Same lecture section as Helkir friend
+1,1,338,Ailar,Kaira,13:00,15:00,🟢 Shared Genesis Field study,Optional exercises with Helkir friend
+1,1,338,Ailar,Kaira,15:00,16:00,🥗 Lunch,Meal and socializing
+1,1,338,Ailar,Kaira,16:00,18:00,🃏 Cardsmithing and sigil research,Optional preparation
+1,1,338,Ailar,Kaira,18:00,20:00,📚 Grand Archives — shared Genesis Field Theory II study,Author-selected all-three study; no chainmail production or Sprite Professor appointment
+1,1,338,Ailar,Kaira,20:00,21:00,🍲 Dinner,Evening meal
+1,1,338,Ailar,Kaira,21:00,25:00,🌙 Free time,"Friends, Nyx, Black Sprite, and campus life"
+1,1,338,Ailar,Kaira,25:00,26:00,🥗 Late meal,Personal meal; cafeteria opening times not fixed
+1,1,338,Ailar,Kaira,26:00,31:00,🌙 Personal time,"Reading, hobbies, socializing or rest"
+1,1,338,Ailar,illi,00:00,10:00,😴 Sleep,10 hours
+1,1,338,Ailar,illi,10:00,11:00,🥐 Breakfast and preparation,Morning routine
+1,1,338,Ailar,illi,11:00,13:00,🟢 REQUIRED — Genesis Field Theory II,Same lecture section as Kaira and Helkir friend
+1,1,338,Ailar,illi,13:00,15:00,🟢 Shared Genesis Field study,"All three review field configuration, resolution and persistence"
+1,1,338,Ailar,illi,15:00,16:00,🥗 Lunch together,Shared meal
+1,1,338,Ailar,illi,16:00,18:00,✨ Gym — voluntary established shaping practice,Pre-first Native Genesis Control II lecture; no newly taught content presumed
+1,1,338,Ailar,illi,18:00,20:00,📚 Grand Archives — shared Genesis Field Theory II study,Author-selected all-three study; no chainmail production or Sprite Professor appointment
+1,1,338,Ailar,illi,20:00,21:00,🍲 Dinner together,All three friends available
+1,1,338,Ailar,illi,21:00,25:00,🌙 Free time,"Campus recreation, friends"
+1,1,338,Ailar,illi,25:00,26:00,🥗 Late meal,"Personal meal, not campus cafeteria opening"
+1,1,338,Ailar,illi,26:00,31:00,🌙 Personal time,"Reading, relaxation, hobbies"
+1,1,338,Ailar,Elaira,00:00,10:00,😴 Sleep,10 hours
+1,1,338,Ailar,Elaira,10:00,11:00,🥐 Breakfast and preparation,"Wake, eat, prepare for day"
+1,1,338,Ailar,Elaira,11:00,13:00,🟢 Genesis Field Theory II,Required formal lecture · 2 hours
+1,1,338,Ailar,Elaira,13:00,15:00,📚 Guided field-theory exercises,Optional advanced Genesis practice
+1,1,338,Ailar,Elaira,15:00,16:00,🥗 Lunch and rest,Meal break and socializing
+1,1,338,Ailar,Elaira,16:00,18:00,📚 Consultation / independent research,Optional faculty assistance or Grand Archives
+1,1,338,Ailar,Elaira,18:00,20:00,📚 Grand Archives — shared Genesis Field Theory II study,Author-selected all-three study; no chainmail production or Sprite Professor appointment
+1,1,338,Ailar,Elaira,20:00,21:00,🍲 Dinner,Evening meal
+1,1,338,Ailar,Elaira,21:00,25:00,🌙 Free time,"Friends, campus events, recreation"
+1,1,338,Ailar,Elaira,25:00,26:00,🥗 Evening meal,Food and relaxation
+1,1,338,Ailar,Elaira,26:00,31:00,🌙 Open personal time,"Reading, socializing, hobbies or rest"
+1,2,339,Aiden,Kaira,00:00,10:00,😴 Sleep,10 hours
+1,2,339,Aiden,Kaira,10:00,11:00,🥐 Breakfast and preparation,Wake and prepare
+1,2,339,Aiden,Kaira,11:00,13:00,🟢 Shared Genesis Field Theory II review,Both study the same course together
+1,2,339,Aiden,Kaira,13:00,15:00,📚 Shared independent study — prior Cardsmithing/Genesis knowledge,First Chemistry I lecture occurs Day 3; no premature Chemistry I coursework presumed
+1,2,339,Aiden,Kaira,15:00,16:00,🥗 Lunch together,Shared meal
+1,2,339,Aiden,Kaira,16:00,18:00,📚 Grand Archives — shared study / independent familiar subjects,Author correction: no preparatory work for not-yet-held Semester II subject lectures; choice of previously learned material remains flexible
+1,2,339,Aiden,Kaira,18:00,20:00,🌳 Open campus time,"Friends, Nyx, Black Sprite, business"
+1,2,339,Aiden,Kaira,20:00,21:00,🍲 Dinner,Evening meal
+1,2,339,Aiden,Kaira,21:00,25:00,🌙 Free time,"Friends, Nyx, Black Sprite, and campus life"
+1,2,339,Aiden,Kaira,25:00,26:00,🥗 Late meal,Personal meal; cafeteria opening times not fixed
+1,2,339,Aiden,Kaira,26:00,31:00,🌙 Personal time,"Reading, hobbies, socializing or rest"
+1,2,339,Aiden,illi,00:00,10:00,😴 Sleep,10 hours
+1,2,339,Aiden,illi,10:00,11:00,🥐 Breakfast and preparation,Morning routine
+1,2,339,Aiden,illi,11:00,13:00,🟢 Shared Genesis Field study,All three review Genesis Field Theory II
+1,2,339,Aiden,illi,13:00,15:00,📚 Shared independent study — Genesis knowledge,First Chemistry I lecture occurs Day 3; no premature Chemistry I coursework presumed
+1,2,339,Aiden,illi,15:00,16:00,🥗 Lunch together,Shared meal
+1,2,339,Aiden,illi,16:00,18:00,📚 Grand Archives — shared study / independent familiar subjects,Author correction: no preparatory work for not-yet-held Semester II subject lectures; choice of previously learned material remains flexible
+1,2,339,Aiden,illi,18:00,20:00,🌳 Open campus time,"Archives, exploration and friends"
+1,2,339,Aiden,illi,20:00,21:00,🍲 Dinner together,All three friends available
+1,2,339,Aiden,illi,21:00,25:00,🌙 Free time,"Campus recreation, friends"
+1,2,339,Aiden,illi,25:00,26:00,🥗 Late meal,"Personal meal, not campus cafeteria opening"
+1,2,339,Aiden,illi,26:00,31:00,🌙 Personal time,"Reading, relaxation, hobbies"
+1,2,339,Aiden,Elaira,00:00,10:00,😴 Sleep,10 hours
+1,2,339,Aiden,Elaira,10:00,11:00,🥐 Breakfast and preparation,"Wake, eat, prepare for day"
+1,2,339,Aiden,Elaira,11:00,13:00,🟢 Genesis Field Theory II review,Optional Day 1 lecture exercises
+1,2,339,Aiden,Elaira,13:00,15:00,📚 Independent research,"Optional Grand Archives, assignments, personal investigation"
+1,2,339,Aiden,Elaira,15:00,16:00,🥗 Lunch,Meal and socializing
+1,2,339,Aiden,Elaira,16:00,18:00,📚 Grand Archives — shared study / independent familiar subjects,Author correction: no preparatory work for not-yet-held Semester II subject lectures; choice of previously learned material remains flexible
+1,2,339,Aiden,Elaira,18:00,20:00,🌳 Open campus time,"Explore departments, meet friends, attend events"
+1,2,339,Aiden,Elaira,20:00,21:00,🍲 Dinner,Evening meal
+1,2,339,Aiden,Elaira,21:00,25:00,🌙 Free time,"Friends, campus events, recreation"
+1,2,339,Aiden,Elaira,25:00,26:00,🥗 Evening meal,Food and relaxation
+1,2,339,Aiden,Elaira,26:00,31:00,🌙 Open personal time,"Reading, socializing, hobbies or rest"
+1,3,340,Aiveth,Kaira,00:00,10:00,😴 Sleep,10 hours
+1,3,340,Aiveth,Kaira,10:00,11:00,🥐 Breakfast and preparation,Wake and prepare
+1,3,340,Aiveth,Kaira,11:00,13:00,⚗️ Chemistry I — REQUIRED,Chemistry Department; Helkir friend studying geometry
+1,3,340,Aiveth,Kaira,13:00,15:00,⚗️ Chemistry review / shared study,Helkir friend studies geometry alongside Kaira
+1,3,340,Aiveth,Kaira,15:00,16:00,🥗 Lunch,Helkir friend in Differential Geometry I 15:00–17:00
+1,3,340,Aiveth,Kaira,16:00,18:00,🃏 Optional Cardsmithing Fundamentals I skills practice,"Based on completed Semester I Cardsmithing Fundamentals I, not invented new Semester II instruction"
+1,3,340,Aiveth,Kaira,18:00,20:00,📚 Shared study / tutoring,Both available for coursework
+1,3,340,Aiveth,Kaira,20:00,21:00,🍲 Dinner,Evening meal
+1,3,340,Aiveth,Kaira,21:00,25:00,🌙 Free time,"Friends, Nyx, Black Sprite, and campus life"
+1,3,340,Aiveth,Kaira,25:00,26:00,🥗 Late meal,Personal meal; cafeteria opening times not fixed
+1,3,340,Aiveth,Kaira,26:00,31:00,🌙 Personal time,"Reading, hobbies, socializing or rest"
+1,3,340,Aiveth,illi,00:00,10:00,😴 Sleep,10 hours
+1,3,340,Aiveth,illi,10:00,11:00,🥐 Breakfast and preparation,Morning routine
+1,3,340,Aiveth,illi,11:00,13:00,⚗️ REQUIRED — Chemistry I,Same lecture section as Kaira; Helkir friend independent geometry study
+1,3,340,Aiveth,illi,13:00,15:00,⚗️ Shared Chemistry I review,Princess and Kaira review; Helkir friend geometry study alongside
+1,3,340,Aiveth,illi,15:00,16:00,🥗 Lunch with Kaira,Helkir friend attends Differential Geometry I 15:00–17:00
+1,3,340,Aiveth,illi,16:00,18:00,✨ Gym — voluntary shaping/transduction practice,Author clarification: physical practice of established skills; not a new class
+1,3,340,Aiveth,illi,18:00,20:00,📚 Shared study / Grand Archives,All three available for individual coursework
+1,3,340,Aiveth,illi,20:00,21:00,🍲 Dinner together,All three friends available
+1,3,340,Aiveth,illi,21:00,25:00,🌙 Free time,"Campus recreation, friends"
+1,3,340,Aiveth,illi,25:00,26:00,🥗 Late meal,"Personal meal, not campus cafeteria opening"
+1,3,340,Aiveth,illi,26:00,31:00,🌙 Personal time,"Reading, relaxation, hobbies"
+1,3,340,Aiveth,Elaira,00:00,10:00,😴 Sleep,10 hours
+1,3,340,Aiveth,Elaira,10:00,11:00,🥐 Breakfast and preparation,"Wake, eat, prepare for day"
+1,3,340,Aiveth,Elaira,11:00,13:00,📚 Genesis Field Theory II review / shared study,First Differential Geometry I lecture has not yet occurred; no personal geometry pre-study presumed
+1,3,340,Aiveth,Elaira,13:00,15:00,📚 Shared study with Kaira and illi — own prior coursework,No pre-lecture geometry exercises presumed; Kaira and illi review Chemistry I
+1,3,340,Aiveth,Elaira,15:00,17:00,📐 Differential Geometry I,Required formal lecture · Mathematics Department · 2 hours
+1,3,340,Aiveth,Elaira,17:00,18:00,🥗 Break and lunch,"Rest, food, socializing"
+1,3,340,Aiveth,Elaira,18:00,20:00,📐 Geometry review / tutoring,Optional coursework or faculty consultation
+1,3,340,Aiveth,Elaira,20:00,21:00,🍲 Dinner,Evening meal
+1,3,340,Aiveth,Elaira,21:00,25:00,🌙 Free time,"Friends, campus events, recreation"
+1,3,340,Aiveth,Elaira,25:00,26:00,🥗 Evening meal,Food and relaxation
+1,3,340,Aiveth,Elaira,26:00,31:00,🌙 Open personal time,"Reading, socializing, hobbies or rest"
+1,4,341,Ailor,Kaira,00:00,10:00,😴 Sleep,10 hours
+1,4,341,Ailor,Kaira,10:00,11:00,🥐 Breakfast and preparation,Wake and prepare
+1,4,341,Ailor,Kaira,11:00,13:00,📚 Shared study — Genesis Field Theory II,No first-time Sigil Architecture subject content presumed before 15:00 lecture
+1,4,341,Ailor,Kaira,13:00,15:00,🃏 Optional Semester I Cardsmithing skills practice,Pre-existing card construction skill; no new Sigil Architecture lecture content presumed
+1,4,341,Ailor,Kaira,15:00,17:00,🃏 Introduction to Sigil Architecture — REQUIRED,Genesis Field Studies Department
+1,4,341,Ailor,Kaira,17:00,18:00,🥗 Lunch and rest,Helkir friend has study group until 18:00
+1,4,341,Ailor,Kaira,18:00,20:00,🌙 Shared free time,"Campus, Grand Archives, friends, business"
+1,4,341,Ailor,Kaira,20:00,21:00,🍲 Dinner,Evening meal
+1,4,341,Ailor,Kaira,21:00,25:00,🌙 Free time,"Friends, Nyx, Black Sprite, and campus life"
+1,4,341,Ailor,Kaira,25:00,26:00,🥗 Late meal,Personal meal; cafeteria opening times not fixed
+1,4,341,Ailor,Kaira,26:00,31:00,🌙 Personal time,"Reading, hobbies, socializing or rest"
+1,4,341,Ailor,illi,00:00,10:00,😴 Sleep,10 hours
+1,4,341,Ailor,illi,10:00,11:00,🥐 Breakfast and preparation,Morning routine
+1,4,341,Ailor,illi,11:00,13:00,🟢 Shared Genesis Field study,All three review Genesis Field Theory II
+1,4,341,Ailor,illi,13:00,15:00,📚 Shared independent research,Princess and Kaira Chemistry I; Helkir friend Differential Geometry I
+1,4,341,Ailor,illi,15:00,16:00,🥗 Lunch together,Shared meal
+1,4,341,Ailor,illi,16:00,18:00,✨ Gym shaping practice or 📚 study with Kaira,Author correction: no presumed Native Genesis Control II pre-class preparation
+1,4,341,Ailor,illi,18:00,20:00,🌳 Open campus time,"Archives, exploration and friends"
+1,4,341,Ailor,illi,20:00,21:00,🍲 Dinner together,All three friends available
+1,4,341,Ailor,illi,21:00,25:00,🌙 Free time,"Campus recreation, friends"
+1,4,341,Ailor,illi,25:00,26:00,🥗 Late meal,"Personal meal, not campus cafeteria opening"
+1,4,341,Ailor,illi,26:00,31:00,🌙 Personal time,"Reading, relaxation, hobbies"
+1,4,341,Ailor,Elaira,00:00,10:00,😴 Sleep,10 hours
+1,4,341,Ailor,Elaira,10:00,11:00,🥐 Breakfast and preparation,"Wake, eat, prepare for day"
+1,4,341,Ailor,Elaira,11:00,13:00,🫀 Biology Lab I preparation,Optional laboratory reading and biological concepts
+1,4,341,Ailor,Elaira,13:00,15:00,📚 Independent practical study,"Optional lab orientation, demonstrations or supervised exercises"
+1,4,341,Ailor,Elaira,15:00,16:00,🥗 Lunch,Meal and socializing
+1,4,341,Ailor,Elaira,16:00,18:00,📚 Study group / tutoring,Optional Genesis Field Theory II and Differential Geometry I review
+1,4,341,Ailor,Elaira,18:00,20:00,🌳 Open campus time,"Archives, friends, university events"
+1,4,341,Ailor,Elaira,20:00,21:00,🍲 Dinner,Evening meal
+1,4,341,Ailor,Elaira,21:00,25:00,🌙 Free time,"Friends, campus events, recreation"
+1,4,341,Ailor,Elaira,25:00,26:00,🥗 Evening meal,Food and relaxation
+1,4,341,Ailor,Elaira,26:00,31:00,🌙 Open personal time,"Reading, socializing, hobbies or rest"
+1,5,342,Aithen,Kaira,00:00,10:00,😴 Sleep,10 hours
+1,5,342,Aithen,Kaira,10:00,11:00,🥐 Breakfast and preparation,Wake and prepare
+1,5,342,Aithen,Kaira,11:00,13:00,📚 Shared independent study,Kaira Cardsmithing Fundamentals II; Helkir Biology Lab I preparation
+1,5,342,Aithen,Kaira,13:00,15:00,📚 Shared practical study,Kaira card construction; Helkir biological exercises
+1,5,342,Aithen,Kaira,15:00,16:00,🥗 Lunch,Shared meal
+1,5,342,Aithen,Kaira,16:00,18:00,🃏 Cardsmithing Fundamentals II — REQUIRED,Genesis Field Studies Department
+1,5,342,Aithen,Kaira,18:00,20:00,🃏 Optional Cardsmithing review / business,Helkir friend in Biology Lab I 18:00–20:00
+1,5,342,Aithen,Kaira,20:00,21:00,🍲 Dinner,Evening meal
+1,5,342,Aithen,Kaira,21:00,25:00,🌙 Free time,"Friends, Nyx, Black Sprite, and campus life"
+1,5,342,Aithen,Kaira,25:00,26:00,🥗 Late meal,Personal meal; cafeteria opening times not fixed
+1,5,342,Aithen,Kaira,26:00,31:00,🌙 Personal time,"Reading, hobbies, socializing or rest"
+1,5,342,Aithen,illi,00:00,10:00,😴 Sleep,10 hours
+1,5,342,Aithen,illi,10:00,11:00,🥐 Breakfast and preparation,Morning routine
+1,5,342,Aithen,illi,11:00,13:00,🟢 Shared Genesis Field study,Princess reviews Genesis Field II; friends available for independent study
+1,5,342,Aithen,illi,13:00,15:00,✨ Native Genesis Control II preparation,"Optional precision, regulation and configuration exercises"
+1,5,342,Aithen,illi,15:00,17:00,✨ REQUIRED — Native Genesis Control II,Afternoon practical class; no shared course with Kaira
+1,5,342,Aithen,illi,17:00,18:00,🥗 Lunch and relaxation,After class; Helkir friend prepares for Biology Lab I
+1,5,342,Aithen,illi,18:00,20:00,📚 Optional study / Grand Archives,Princess reviews native control; Helkir friend Biology Lab I 18:00–20:00
+1,5,342,Aithen,illi,20:00,21:00,🍲 Dinner together,All three friends available
+1,5,342,Aithen,illi,21:00,25:00,🌙 Free time,"Campus recreation, friends"
+1,5,342,Aithen,illi,25:00,26:00,🥗 Late meal,"Personal meal, not campus cafeteria opening"
+1,5,342,Aithen,illi,26:00,31:00,🌙 Personal time,"Reading, relaxation, hobbies"
+1,5,342,Aithen,Elaira,00:00,10:00,😴 Sleep,10 hours
+1,5,342,Aithen,Elaira,10:00,11:00,🥐 Breakfast and preparation,"Wake, eat, prepare for day"
+1,5,342,Aithen,Elaira,11:00,13:00,📚 Personal study,Optional biology preparation and lab reading
+1,5,342,Aithen,Elaira,13:00,15:00,📚 Guided exercises,"Optional biological study, procedures and concepts"
+1,5,342,Aithen,Elaira,15:00,16:00,🥗 Lunch,Meal and rest
+1,5,342,Aithen,Elaira,16:00,18:00,🌙 Tutoring / Grand Archives,"Optional research, consultation or preparation"
+1,5,342,Aithen,Elaira,18:00,20:00,🫀 Biology Lab I,Required supervised practical laboratory · Biological Sciences · 2 hours
+1,5,342,Aithen,Elaira,20:00,21:00,🍲 Dinner,Evening meal
+1,5,342,Aithen,Elaira,21:00,25:00,🌙 Free time,"Friends, campus events, recreation"
+1,5,342,Aithen,Elaira,25:00,26:00,🥗 Evening meal,Food and relaxation
+1,5,342,Aithen,Elaira,26:00,31:00,🌙 Open personal time,"Reading, socializing, hobbies or rest"
+1,6,343,Aiven,Kaira,00:00,12:00,😴 Sleep,12-hour rest-day sleep-in
+1,6,343,Aiven,Kaira,12:00,13:00,🥐 Breakfast,No academic obligations
+1,6,343,Aiven,Kaira,13:00,17:00,🃏 Optional raeon club (Grand Archives open plaza) OR 🌳 rest-day exploration,Established Aiven 13:00–17:00 voluntary club; attendance not asserted
+1,6,343,Aiven,Kaira,17:00,18:00,🌳 Open campus exploration,"Shared time with Helkir friend; campus, city, Archives"
+1,6,343,Aiven,Kaira,18:00,19:00,🥗 Lunch together,Shared rest-day meal
+1,6,343,Aiven,Kaira,19:00,23:00,🌙 Recreation and social activities,Friends and campus events
+1,6,343,Aiven,Kaira,23:00,25:00,🌙 Personal downtime,"Nyx, Black Sprite, reading or rest"
+1,6,343,Aiven,Kaira,25:00,26:00,🍲 Dinner,Flexible cafeteria hours
+1,6,343,Aiven,Kaira,26:00,31:00,🌙 Unstructured personal time,"Friends, rest, hobbies"
+1,6,343,Aiven,illi,00:00,12:00,😴 Sleep,12 hours
+1,6,343,Aiven,illi,12:00,13:00,🥐 Breakfast,Relaxed morning
+1,6,343,Aiven,illi,13:00,17:00,🃏 Optional raeon club (Grand Archives open plaza) OR 🌳 rest-day exploration,Established Aiven 13:00–17:00 voluntary club; attendance not asserted
+1,6,343,Aiven,illi,17:00,18:00,🌳 Open campus exploration,"Blackstone grounds, Grand Archives, excursions, friends"
+1,6,343,Aiven,illi,18:00,19:00,🥗 Lunch together,Shared meal
+1,6,343,Aiven,illi,19:00,23:00,🌙 Recreation and social activities,"Games, events, hobbies and friends"
+1,6,343,Aiven,illi,23:00,25:00,🌙 Personal downtime,"Relaxation, reading for pleasure"
+1,6,343,Aiven,illi,25:00,26:00,🍲 Dinner,"Personal dining time, not fixed cafeteria hours"
+1,6,343,Aiven,illi,26:00,31:00,🌙 Unstructured personal time,"Friends, hobbies, rest"
+1,6,343,Aiven,Elaira,00:00,12:00,😴 Sleep,12 hours · rest-day sleep-in
+1,6,343,Aiven,Elaira,12:00,13:00,🥐 Breakfast,"Relaxed morning, no academic obligations"
+1,6,343,Aiven,Elaira,13:00,17:00,🃏 Optional raeon club (Grand Archives open plaza) OR 🌳 rest-day exploration,Established Aiven 13:00–17:00 voluntary club; attendance not asserted
+1,6,343,Aiven,Elaira,17:00,18:00,🌳 Open campus exploration,"Friends, grounds, shopping, Archives or city excursions"
+1,6,343,Aiven,Elaira,18:00,19:00,🥗 Lunch,Dining with friends or on campus
+1,6,343,Aiven,Elaira,19:00,23:00,🌙 Recreation and social activities,"Campus events, games, hobbies or friends"
+1,6,343,Aiven,Elaira,23:00,25:00,🌙 Personal downtime,"Reading for pleasure, relaxation or entirely optional study"
+1,6,343,Aiven,Elaira,25:00,26:00,🍲 Dinner,Evening meal
+1,6,343,Aiven,Elaira,26:00,31:00,🌙 Unstructured personal time,"Free choice, rest or preparation for next academic cycle"
+2,1,344,Ailar,Kaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,1,344,Ailar,illi,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,10:00,11:00,🥐 Breakfast and preparation,Author-approved Week Two planning
+2,1,344,Ailar,illi,10:00,11:00,🥐 Breakfast and preparation,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,10:00,11:00,🥐 Breakfast and preparation,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,11:00,13:00,🟢 Genesis Field Theory II · REQUIRED,Author-approved Week Two planning
+2,1,344,Ailar,illi,11:00,13:00,🟢 Genesis Field Theory II · REQUIRED,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,11:00,13:00,🟢 Genesis Field Theory II · REQUIRED,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,13:00,15:00,📚 Shared Genesis Field study,Author-approved Week Two planning
+2,1,344,Ailar,illi,13:00,15:00,📚 Shared Genesis Field study,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,13:00,15:00,📚 Guided Genesis Field exercises,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,1,344,Ailar,illi,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,16:00,18:00,🃏 Cardsmithing / sigil research,Author-approved Week Two planning
+2,1,344,Ailar,illi,16:00,18:00,✨ Optional gym shaping practice,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,16:00,18:00,📚 Faculty consultation / research,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,18:00,20:00,📚 Grand Archives · shared Genesis Field II study,Author-approved Week Two planning
+2,1,344,Ailar,illi,18:00,20:00,📚 Grand Archives · shared Genesis Field II study,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,18:00,20:00,📚 Grand Archives · shared Genesis Field II study,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,1,344,Ailar,illi,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,21:00,25:00,"🐾 Nyx, Black Sprite, friends and leisure",Author-approved Week Two planning
+2,1,344,Ailar,illi,21:00,25:00,🌳 Friends and campus leisure,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,21:00,25:00,🌳 Friends and campus leisure,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,1,344,Ailar,illi,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,1,344,Ailar,Kaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,1,344,Ailar,illi,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,1,344,Ailar,Elaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,2,345,Aiden,illi,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,2,345,Aiden,illi,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,11:00,13:00,🟢 Shared Genesis Field II review,Author-approved Week Two planning
+2,2,345,Aiden,illi,11:00,13:00,🟢 Shared Genesis Field II review,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,11:00,13:00,🟢 Genesis Field II review,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,13:00,15:00,⚗️ Chemistry / 🃏 Cardsmithing study,Author-approved Week Two planning
+2,2,345,Aiden,illi,13:00,15:00,⚗️ Chemistry I study,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,13:00,15:00,📚 Independent research,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,2,345,Aiden,illi,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,15:00,16:00,🥗 Lunch together,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,16:00,18:00,⚗️ Chemistry I independent study,Author-approved Week Two planning
+2,2,345,Aiden,illi,16:00,18:00,✨ Gym · optional native shaping practice,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,16:00,18:00,📐 Differential Geometry preparation,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,18:00,20:00,🌳 Open campus / 🐾 Nyx / optional business,Author-approved Week Two planning
+2,2,345,Aiden,illi,18:00,20:00,🌳 Open campus and friends,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,18:00,20:00,🌳 Open campus and friends,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,2,345,Aiden,illi,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,2,345,Aiden,illi,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,2,345,Aiden,illi,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,2,345,Aiden,Kaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,2,345,Aiden,illi,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,2,345,Aiden,Elaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,3,346,Aiveth,illi,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,3,346,Aiveth,illi,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,11:00,13:00,⚗️ Chemistry I · REQUIRED,Author-approved Week Two planning
+2,3,346,Aiveth,illi,11:00,13:00,⚗️ Chemistry I · REQUIRED,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,11:00,13:00,📐 Geometry preparation / Genesis review,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,13:00,15:00,⚗️ Shared Chemistry review,Author-approved Week Two planning
+2,3,346,Aiveth,illi,13:00,15:00,⚗️ Shared Chemistry review,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,13:00,15:00,📚 Independent geometry exercises / early meal,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,15:00,16:00,🥗 Lunch,Author-approved Week Two planning
+2,3,346,Aiveth,illi,15:00,16:00,🥗 Lunch with Kaira,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,15:00,16:00,📐 Differential Geometry I · REQUIRED,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,16:00,17:00,🃏 Cardsmithing practice / study,Author-approved Week Two planning
+2,3,346,Aiveth,illi,16:00,17:00,✨ Gym · native shaping practice,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,16:00,17:00,📐 Differential Geometry I · REQUIRED (continued),Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,17:00,18:00,🃏 Cardsmithing practice / study,Author-approved Week Two planning
+2,3,346,Aiveth,illi,17:00,18:00,✨ Gym · native shaping practice,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,17:00,18:00,🥗 Lunch and rest,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,18:00,20:00,📚 Optional shared study / tutoring,Author-approved Week Two planning
+2,3,346,Aiveth,illi,18:00,20:00,📚 Optional shared study / Archives,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,18:00,20:00,📐 Geometry review / tutoring,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,3,346,Aiveth,illi,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,3,346,Aiveth,illi,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,3,346,Aiveth,illi,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,3,346,Aiveth,Kaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,3,346,Aiveth,illi,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,3,346,Aiveth,Elaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,4,347,Ailor,illi,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,4,347,Ailor,illi,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,11:00,13:00,📚 Sigil fundamentals / shared study,Author-approved Week Two planning
+2,4,347,Ailor,illi,11:00,13:00,🟢 Shared Genesis Field study,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,11:00,13:00,🫀 Biology Lab preparation,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,13:00,15:00,🃏 Card configurations / optional practice,Author-approved Week Two planning
+2,4,347,Ailor,illi,13:00,15:00,⚗️ Chemistry research / shared study,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,13:00,15:00,🫀 Independent biological practical study,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,15:00,16:00,🃏 Introduction to Sigil Architecture · REQUIRED,Author-approved Week Two planning
+2,4,347,Ailor,illi,15:00,16:00,🥗 Lunch,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,15:00,16:00,🥗 Lunch,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,16:00,17:00,🃏 Introduction to Sigil Architecture · REQUIRED (continued),Author-approved Week Two planning
+2,4,347,Ailor,illi,16:00,17:00,✨ Gym · native shaping practice,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,16:00,17:00,📚 Study group / tutoring,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,17:00,18:00,🥗 Lunch and rest,Author-approved Week Two planning
+2,4,347,Ailor,illi,17:00,18:00,✨ Gym · native shaping practice,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,17:00,18:00,📚 Study group / tutoring,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,18:00,20:00,🌳 Shared campus time / Grand Archives,Author-approved Week Two planning
+2,4,347,Ailor,illi,18:00,20:00,🌳 Open campus time,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,18:00,20:00,🌳 Open campus time,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,4,347,Ailor,illi,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,4,347,Ailor,illi,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,4,347,Ailor,illi,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,4,347,Ailor,Kaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,4,347,Ailor,illi,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,4,347,Ailor,Elaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,5,348,Aithen,illi,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,00:00,10:00,😴 Sleep,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,5,348,Aithen,illi,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,10:00,11:00,🥐 Breakfast,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,11:00,13:00,🃏 Cardsmithing Fundamentals II study,Author-approved Week Two planning
+2,5,348,Aithen,illi,11:00,13:00,🟢 Genesis Field II review,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,11:00,13:00,🫀 Biology Lab preparation,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,13:00,15:00,🃏 Card construction practice,Author-approved Week Two planning
+2,5,348,Aithen,illi,13:00,15:00,✨ Native Genesis shaping preparation,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,13:00,15:00,🫀 Biological exercises,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,15:00,16:00,🥗 Lunch,Author-approved Week Two planning
+2,5,348,Aithen,illi,15:00,16:00,✨ Native Genesis Control II · REQUIRED,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,15:00,16:00,🥗 Lunch,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,16:00,17:00,🃏 Cardsmithing Fundamentals II · REQUIRED,Author-approved Week Two planning
+2,5,348,Aithen,illi,16:00,17:00,✨ Native Genesis Control II · REQUIRED (continued),Author-approved Week Two planning
+2,5,348,Aithen,Elaira,16:00,17:00,📚 Tutoring / Grand Archives,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,17:00,18:00,🃏 Cardsmithing Fundamentals II · REQUIRED (continued),Author-approved Week Two planning
+2,5,348,Aithen,illi,17:00,18:00,🥗 Lunch and relaxation,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,17:00,18:00,📚 Tutoring / Grand Archives,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,18:00,20:00,📚 Optional Cardsmithing review / Archives,Author-approved Week Two planning
+2,5,348,Aithen,illi,18:00,20:00,📚 Optional Native Control review,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,18:00,20:00,🫀 Biology Lab I · REQUIRED practical,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,5,348,Aithen,illi,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,20:00,21:00,🍲 Dinner,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,5,348,Aithen,illi,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,21:00,25:00,🌙 Free time,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,5,348,Aithen,illi,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,25:00,26:00,🥗 Late meal,Author-approved Week Two planning
+2,5,348,Aithen,Kaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,5,348,Aithen,illi,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,5,348,Aithen,Elaira,26:00,31:00,🌙 Personal time,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,00:00,12:00,😴 Rest-day sleep,Author-approved Week Two planning
+2,6,349,Aiven,illi,00:00,12:00,😴 Rest-day sleep,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,00:00,12:00,😴 Rest-day sleep,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,12:00,13:00,🥐 Breakfast,Author-approved Week Two planning
+2,6,349,Aiven,illi,12:00,13:00,🥐 Breakfast,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,12:00,13:00,🥐 Breakfast,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,13:00,17:00,🃏 raeon card club · Grand Archives open plaza,Author-approved Week Two planning
+2,6,349,Aiven,illi,13:00,17:00,🃏 raeon card club · Grand Archives open plaza,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,13:00,17:00,🃏 raeon card club · Grand Archives open plaza,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,17:00,18:00,🌳 Campus exploration / friends,Author-approved Week Two planning
+2,6,349,Aiven,illi,17:00,18:00,🌳 Campus exploration / friends,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,17:00,18:00,🌳 Campus exploration / friends,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,18:00,19:00,🥗 Lunch together,Author-approved Week Two planning
+2,6,349,Aiven,illi,18:00,19:00,🥗 Lunch together,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,18:00,19:00,🥗 Lunch together,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,19:00,23:00,🃏 Recreation and social time,Author-approved Week Two planning
+2,6,349,Aiven,illi,19:00,23:00,🃏 Recreation and social time,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,19:00,23:00,🌳 Recreation and social time,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,23:00,25:00,"🐾 Nyx, Black Sprite and downtime",Author-approved Week Two planning
+2,6,349,Aiven,illi,23:00,25:00,🌙 Personal downtime,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,23:00,25:00,🌙 Personal downtime,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,25:00,26:00,🍲 Dinner,Author-approved Week Two planning
+2,6,349,Aiven,illi,25:00,26:00,🍲 Dinner,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,25:00,26:00,🍲 Dinner,Author-approved Week Two planning
+2,6,349,Aiven,Kaira,26:00,31:00,🌙 Unstructured personal time,Author-approved Week Two planning
+2,6,349,Aiven,illi,26:00,31:00,🌙 Unstructured personal time,Author-approved Week Two planning
+2,6,349,Aiven,Elaira,26:00,31:00,🌙 Unstructured personal time,Author-approved Week Two planning

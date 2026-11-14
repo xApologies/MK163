@@ -1,3 +1,11 @@
+# Semester II · the Green Realm and the Black Prophecy
+
+After the end of the standing mentorship, the mature Sprite Professor returns to the Green Realm to consult an authority about the prophecy and the young Black Sprite. The identity of that authority, meeting outcome and return date remain OPEN. Caelor’s Day 353 meeting concerns the independent young Sprite. Its consent and agency continue to govern. The Semester II guest lecture preserves Kaira’s private connection to the prophecy.
+
+[Departure](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/CONTINUITY_LEDGER.md) · [Private meeting](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_03/DAY_353.md) · [Guest lecture](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_12/DAY_409.md)
+
+---
+
 # Sprite mentorship · selected Semester I development and end of routine instruction
 
 The author's integration decision retains the full Day 224 16:00–20:00 first substantial conversation below. Later ordinary instructional appointments use **16:00–18:00**, within the previously available window. They are selected schedule visits, not mandatory daily four-hour sessions. The supplied Day 217 invitation-date uncertainty is historical: the established Day 217 encounter and invitation stay fixed.

@@ -1,0 +1,2 @@
+# Semester I Guest Scholar overlay (scoped repository update)
+Days 295-298, semester days 72-75, have an institutional 19:00-25:00 series window each day. Day 295 attendance is confirmed; days 296-298 are optional only. DO NOT replace existing DAY_295.md through DAY_298.md or alter classes, chainmail, and other approved commitments. Preserve original Semester I files verbatim; add these overlays only.

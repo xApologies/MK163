@@ -1,0 +1,3 @@
+# Prism Tournament authoritative amendment (Week Eleven)
+
+Tournament opens Semester Day 51 (story 388, Aiveth). Faculty/staff departmental teams compete every subsequent Aiven (first story Day 391), 13:00-23:00, with overtime possible. Permanent Prism Field is within the Gym U. Spectator attendance is voluntary; students are not tournament players. Kaira supports Binding Circle, illi Genesis Field Studies, Elaira Hospital/Helkir. The prior 13:00-18:00 range was only an earlier planning window, now superseded. No points or outcomes yet. Keep previously approved student activities unchanged; do not presume full-day match attendance. Eight teams, no Gym team.

@@ -1,3 +1,11 @@
+# Semester II and Break II · outstanding decisions
+
+OPEN items include the Day 418 clinic’s acceptance of 17:00 arrival, Prism fixtures, scoring and winning department, the Sprite Professor’s audience and return, individual palace dates, Nyx and Sprite logistics, payment and enchantment for aina’s robe, the Day 451 time and words, bookstore terms and later first-cycle administrative alignment. The Day 354 collection, Day 391 smith delivery, Day 427 royal robe completion and Day 433 presentation are selected.
+
+[Clinic question](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_14/OPEN_ISSUES.md) · [Break II issues](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/CONTINUITY_AND_OPEN_ISSUES.md) · [Scoped decisions](../CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md)
+
+---
+
 # Final Break 02 · scoped resolutions and remaining OPENs
 
 RESOLVED: the Blue ruler is Princess **aina**, illi's older sister; palace in White District. Elaira's robe is completed during 320–330 and gifted 331. The next ring order on 332 is for two separate new personal commissions. Aiselle's confirmed name remains in force despite the stale source note. No new approval is required to retain that earlier explicit user decision.

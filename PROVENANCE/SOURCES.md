@@ -1,3 +1,11 @@
+# Blackstone Semester II · cumulative handoff through Day 451
+
+The delivery contains 203 members, including the SHA-256 manifest. The source map locates one preserved copy of each member and lists the hash and byte count. The Week Two correction and final break record govern the first-cycle dates.
+
+[Source map](../CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/SOURCE_MAP.json) · [Integration and reverse diff](../CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md)
+
+---
+
 # Final Green Semester II Break 02 · source receipt
 
 Eleven supplied members are accounted for and all **ten manifest hashes** pass. Ten new text/data originals are preserved once; the **527,825-byte conceptual map** exactly matches an existing November 7 author image and is reused without duplication. It was visually inspected; author-supplied marker meaning does not create precise routes/scale or replace the planetary atlas.

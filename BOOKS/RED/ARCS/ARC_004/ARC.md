@@ -1,3 +1,19 @@
+# Green Arc · Semester II and the second break
+
+Kaira’s first break closes on Day 337. The visit to Aiselle, Elaira’s gift on 331 and the order for two personal robes on 332 precede the remaining leisure interval on 333–337. Semester II runs from Day 338 through 433. The running ledger links every day to its full three-character timetable.
+
+Kaira receives Caelor’s summons after dinner on 352. After Sigil Architecture on 353 she meets Caelor and about nine professors interested in the young Black Sprite and the Black Prophecy. The Sprite chooses how to participate. The mature Sprite Professor is away in the Green Realm seeking an authority. The audience, outcome and return date remain OPEN. On 409 the girls attend the Seven Prophecies lecture. Kaira’s connection stays private.
+
+Kaira and illi collect the rings on Day 354 while Elaira attends Biology Lab. Regular evening robe work begins on 356. Kaira finishes the smith’s robe on 389, obtains its mass-reduction enchantment on 390 and delivers it with illi on 391. On that trip she buys the Yellow and Green MK-173 volumes. She completes aina’s five-layer robe late on 427. The girls finish exams by 432.
+
+On 433 aina surprises illi at Blackstone. illi introduces Kaira, Aiselle arrives to collect her, and Kaira presents aina with the finished robe. aina changes into it and joins the other four in their robes. The championship, symposium and feast keep their existing windows. The exact presentation hour and winning department remain OPEN.
+
+During Break II, Kaira, illi and Aiselle join aina at her White District palace for roughly 11–13 days. Elaira visits her family. Departure and return dates, daily activities, Nyx’s arrangements and the young Sprite’s arrangements remain OPEN. On 451 at Blackstone, aina credits Kaira with inventing the robe and publicly recognizes the Age of Knowledge that the White Noble proclaimed in the old city. Caelor accepts aina’s charge to Blackstone. Kaira enters Semester III on 452 with new recognition on campus. Blackstone’s bookstore will stock robes from local smiths for those who choose to wear them.
+
+[Daily chronology](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Prism season](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/PRISM_TOURNAMENT_SEASON.md) · [Day 433 royal visit](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Palace visit](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/README.md) · [Day 451 ceremony and Semester III handoff](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
 # Green Arc · first intersemester break, final Checkpoint 02
 
 **Author-selected macro-outline, not finished scenes or 21 daily 31-hour timetables.** Semester I still ends Day 319. Break spans **Days 320–340**; **Day 341 (Ailor)** is the Semester II opening/first-instructional-day calendar anchor, without new course attendance or lesson times being authored. The complete Semester I source files, previously retained Day 224 outline and 353-day annual academic cycle remain unchanged.

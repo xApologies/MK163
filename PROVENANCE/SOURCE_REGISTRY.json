@@ -437,6 +437,18 @@
       "manifest_hashes": 10,
       "reused_assets": 1,
       "scope": "Day 319 addendum, 320–340 macro-outline, 341 anchor, retrospective wall, aina and two personal commissions"
+    },
+    {
+      "id": "MK163_BLACKSTONE_SEMESTER_II_DAY_451",
+      "date": "2026-11-14",
+      "baseline": "3cc749330ce6b9beda892e9b2f697c01d5dddeaf",
+      "physical_filename": "MK163_Semester_II_Complete_Through_Break_II_Day_451_Cumulative_Codex_Handoff.zip",
+      "archive_sha256": "57b4e8ca783474a3091178afca52247e0ce88374ba0bc5da45d58baa6f02e01f",
+      "source_map": "CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/SOURCE_MAP.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md",
+      "supplied_members": 203,
+      "manifest_hashes": 202,
+      "scope": "Semester II, Break II through Day 451, and scoped Semester I Guest Scholar overlays"
     }
   ]
 }

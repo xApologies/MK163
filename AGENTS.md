@@ -1,3 +1,11 @@
+# Current Green Arc · Semester II through Break II
+
+Use the current first-cycle calendar and dated plans. Break I ends 337, Semester II runs 338–433, Break II runs 434–451 and Semester III opens 452. Read the Day 433 royal visit alongside the original timetable. Keep clinic acceptance, Prism results, palace itinerary and the royal robe settlement OPEN. Day 451 recognizes the White Noble’s earlier movement. Use the established six-stage lifecycle.
+
+[Calendar](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Arc](BOOKS/RED/ARCS/ARC_004/ARC.md) · [Decisions and source limits](CHECKPOINTS/BLACKSTONE_SEMESTER_II_DAY_451/INTEGRATION_AND_REVERSE_DIFF.md)
+
+---
+
 # Current Green break · final Checkpoint 02
 
 Read the current Green outline and Break 02 reconciliation. Aiselle's 319 feast appearance is additive; Kaira visits her **Blue District** home during 320–330 with Nyx/young Sprite, completes Elaira's existing gift during the visit and presents it on **331**. The **332** ring order covers **two new originals**, for **Princess aina** and an unnamed smith; no arrival or construction is selected through 340. Semester II begins **341/Ailor**. Preserve 353-day cycle, complete Semester I records and the published Day 224 decision.

@@ -1,0 +1,2 @@
+# Week Six approved author decisions
+All six days (story 368–373) approved. Normal class schedule resumes after first exams. Aiven voluntary raeon club remains 13:00–17:00. Kaira evening chainmail 21:00–25:00 on five ordinary days; optional Aiven 23:00–25:00. No new event, exam result, robe completion or Sprite Professor return inferred. Running cumulative construction ledger tracks allocations separately from proven productive work.

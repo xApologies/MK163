@@ -1,3 +1,21 @@
+# Blackstone academic calendar · Kaira’s first cycle through Day 452
+
+The recurring institutional template below totals 353 days. For Kaira’s first cycle the Week Two decision shortens Break I to 18 days. The final Break II outline fixes another 18-day break and places the next semester on Day 452. These dated selections supersede the older first-cycle offsets in the table below. The six-day weekday sequence continues across both breaks.
+
+| First-cycle period | First story day | Last story day | Duration |
+|---|---:|---:|---:|
+| Semester I | 224 | 319 | 96 days |
+| Break I | 320 | 337 | 18 days |
+| Semester II | 338, Ailar | 433, Aiven | 96 days |
+| Break II | 434, Ailar | 451, Aiven | 18 days |
+| Semester III opening | 452, Ailar | | |
+
+Later first-cycle offsets, administrative adjustment and next-cycle weekday alignment remain OPEN. The 353-day civil year and the general academic template each retain their own scope.
+
+[Break I shortening](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/AUTHOR_DECISIONS.md) · [Break II scope](BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/README.md) · [Administrative alignment](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_01/OPEN_ISSUES.md)
+
+---
+
 # Blackstone Keep — Annual Academic Calendar (approved)
 
 ## Authority and scope

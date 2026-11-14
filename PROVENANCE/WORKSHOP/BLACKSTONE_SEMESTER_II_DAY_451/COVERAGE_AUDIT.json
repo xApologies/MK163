@@ -1,0 +1,18 @@
+{
+  "semester_ii": {
+    "first_story_day": 338,
+    "last_story_day": 433,
+    "weeks": 16,
+    "daily_schedule_count": 96,
+    "status": "approved"
+  },
+  "break_ii": {
+    "first_story_day": 434,
+    "last_story_day": 451,
+    "days": 18,
+    "daily_status": "outline-only; not full 31-hour schedules",
+    "day_451_ceremony": "author-approved narrative anchor"
+  },
+  "semester_iii_start": 452,
+  "git_push_performed": false
+}

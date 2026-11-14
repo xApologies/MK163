@@ -1,0 +1,2 @@
+# Week Twelve chainmail
+Kaira's blacksmith robe completed Day 389, enchanted Day 390 for student fee 80 eln, delivered Day 391; agreed charge 620 eln. Princess aina's separate five-layer robe remains under construction. Ordinary evening sessions on Days 404–408 21:00–25:00 = five scheduled blocks / 20 allocated hours; Day 409 optional rest-day crafting not selected. Scheduled hours are not confirmed productive hours, and cumulative counts must not silently double-count optional sessions.

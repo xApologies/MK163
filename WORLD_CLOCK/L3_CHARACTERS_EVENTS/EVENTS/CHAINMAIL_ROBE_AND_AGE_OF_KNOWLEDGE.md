@@ -1,3 +1,15 @@
+# Personal commissions and royal recognition · Days 354–451
+
+Day 354 brings the rings for the two Day 332 commissions. Kaira resumes regular evening construction on 356. By the smith’s completion on 389 the ledger records 28 ordinary sessions with up to 112 allocated hours. Actual productive hours and their division between commissions remain OPEN. On 390 the Genesis Field Department applies the mass-reduction enchantment at the 80 eln student rate. Kaira and illi deliver the smith’s robe on 391. The charge is 1,550 eln less 850 for the rings and 80 for enchantment, leaving 620 eln. Payment timing remains OPEN.
+
+Kaira finishes aina’s five-layer robe in the optional 23:00–25:00 block on Day 427 and presents it on Day 433. aina changes into it. The enchantment and payment for this commission remain OPEN. Kaira wears her own robe with the chromatic streaks formed in the involuntary Day 171 Genesis event.
+
+Day 451 is the Blue ruler’s formal recognition of the existing Age of Knowledge. The White Noble’s earlier proclamation in Kaira’s original city retains priority. aina credits Kaira as the inventor of the robe and public face of the movement. Properly made five-layer robes are opaque clothing. Local smiths supply the Blackstone bookstore for voluntary adoption alongside existing professional dress. The governing six-stage Transduction lifecycle applies.
+
+[Smith commission](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/CHAINMAIL_LEDGER.md) · [aina’s presentation](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Royal recognition and retail](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md) · [Transduction lifecycle](../../L1_FANTASY/TRANSDUCTION_LIFECYCLE.md)
+
+---
+
 # Break robe accounting · Elaira gift completed, two new originals pending
 
 Kaira's original personal robe, illi's gift, Elaira's gift, Aiselle's earlier commission, Registry-managed originals, imitations and new personal commissions remain distinct.

@@ -1,0 +1,2 @@
+# Week Five continuity
+Days 362–367 / semester days 25–30. First assessment cycle in the girls' own Semester II subjects. Day 364 Chemical Safety Festival and Day 367 Foundation Node Seminar recur from institutional event calendar. Day 364 13–15 Kaira/illi leisure at an abecca shop or another campus location. Elaira geometry assessment 15–17. No professor return, chainmail completion, grades, or extra required classes.

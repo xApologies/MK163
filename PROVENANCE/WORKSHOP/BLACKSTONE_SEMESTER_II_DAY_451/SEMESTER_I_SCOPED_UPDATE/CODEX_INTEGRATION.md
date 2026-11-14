@@ -1,0 +1,2 @@
+# Codex integration - scoped Semester I update
+Target xApologies/MK163 main; handoff only, no authorization to push. Read AGENTS.md. Copy SEMESTER_I_LIVE_MODEL/GUEST_SCHOLAR_OVERLAYS/ into WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/GUEST_SCHOLAR_OVERLAYS/. Keep existing DAY_295.md ... DAY_298.md untouched. Check links and author precedence, produce reverse diff, await user push approval.

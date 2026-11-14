@@ -1,0 +1,2 @@
+# Week Six continuity
+Story Days 368–373, semester days 31–36. Normal instruction and shared study return after first exams. No new major institutional event; next is Topology Challenge semester day 37 / story Day 374. Kaira continues evening work on two distinct personal robe commissions. Sprite Professor remains away in the Green Realm. The multi-realm Black Prophecy discussion remains open. All approved prior weeks preserved unchanged.
