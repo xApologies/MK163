@@ -19,7 +19,7 @@ Examinations use the established class slots. Read across a row for the three ex
 | Chemistry I | Elaira | 11:00–13:00 | 480 | 510 | 546 |
 | Transduction Theory I | Kaira and illi | 18:00–20:00 | 480 | 510 | 546 |
 
-Check subsequent student blocks in the Exam II and finals weeks. Preparation for each course ends when that examination finishes. Ordinary subject review in Week Five has its own dated entries. [Week Five](WEEK_05/README.md) · [Week Ten](WEEK_10/README.md) · [Finals](WEEK_16/README.md)
+In all three exam weeks, check each student’s later blocks for preparation for an exam they have already taken. Week Five retains ordinary course review, exercises and research. Day 478 specifically allows Quantum notes after the Quantum exam or study for another exam. [Week Five](WEEK_05/README.md) · [Week Ten](WEEK_10/README.md) · [Finals](WEEK_16/README.md)
 
 ## Events and calendar
 

@@ -8,7 +8,7 @@ Aiven is a protected rest day. The raeon club meets 13:00–17:00. Faculty Prism
 | 2 | [463](WEEK_02/DAY_463.md) | Pi Day | All three are scheduled for raeon. Pi Day attendance is optional. |
 | 3 | [469](WEEK_03/DAY_469.md) | Anatomical Exhibition | All three attend the exhibition. Exact event hours remain OPEN. |
 | 4 | [475](WEEK_04/DAY_475.md) | Department Showcase | All three attend the showcase. Exact event hours remain OPEN. |
-| 5 | [481](WEEK_05/DAY_481.md) | Foundation Node Seminar | All three attend the seminar. The evening row is unresolved. [Source discrepancy](CODEX_INTEGRATION.md) |
+| 5 | [481](WEEK_05/DAY_481.md) | Foundation Node Seminar | All three attend the seminar on semester day 30 and skip raeon. Exact seminar hours remain OPEN. |
 | 6 | [487](WEEK_06/DAY_487.md) | No scheduled institutional event beyond club | All three skip club for a city outing. Destination, activities and return time remain OPEN. |
 | 7 | [493](WEEK_07/DAY_493.md) | First Hospital Observation | Elaira completes five supervised hours, 13:00–18:00. Kaira and illi attend raeon. |
 | 8 | [499](WEEK_08/DAY_499.md) | Research Night | All three attend raeon, then Research Night from 19:00 to 23:00. |
