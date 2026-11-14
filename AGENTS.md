@@ -1,3 +1,11 @@
+# Current Green Arc · Semester III through first-year close
+
+Use the 96 dated Semester III plans (452–547), the Break III city outline (548–565) and the annual administration allocation (566–576). Princess aina speaks at the Day 547 celebration and Aiselle attends. Kaira and illi stay with Aiselle in Blue District during Break III. Elaira joins them around 556 or 557. Preserve the Sprite’s independent weekday appointments, protected course slots and each dated attendance selection. Administrative activities, speech order and Prism results remain OPEN.
+
+[Calendar](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Daily plans](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Source precedence and validation](CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INTEGRATION_REPORT.md)
+
+---
+
 # Current Green Arc · Semester II through Break II
 
 Use the current first-cycle calendar and dated plans. Break I ends 337, Semester II runs 338–433, Break II runs 434–451 and Semester III opens 452. Read the Day 433 royal visit alongside the original timetable. Keep clinic acceptance, Prism results, palace itinerary and the royal robe settlement OPEN. Day 451 recognizes the White Noble’s earlier movement. Use the established six-stage lifecycle.

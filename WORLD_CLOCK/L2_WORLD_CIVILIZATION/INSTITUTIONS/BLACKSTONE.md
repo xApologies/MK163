@@ -1,3 +1,13 @@
+# Blackstone Keep · Semester III
+
+Sixteen weeks of dated plans cover Days 452–547. Genesis Field Theory III, shared Quantum Field Theory I, Elaira’s Differential Geometry II and Chemistry I, and Kaira and illi’s Transduction Theory I retain their instructional slots. The dated plans select the first-lecture study exception, the Founders Games postponement, the three examination cycles and each student’s event attendance.
+
+The faculty Prism season opens with the Day 502 announcement. On Days 505, 511, 517, 523, 529, 535 and 541 the regular Aiven competition window is 13:00–23:00, with overtime possible. The Day 547 championship shares the final Aiven with the symposium and feast. The institutional raeon club meets 13:00–17:00 on Aiven. Students can choose the club, an outing or an event, subject to their dated clinical commitments. The Guest Scholar opening and continuations on 523–526 are attended by all three, 19:00–25:00.
+
+[Cumulative source guide](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/README.md) · [Aiven opportunities and amendments](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/AIVEN_CITY_TRIP_OPPORTUNITIES.md) · [Earlier semesters’ institutional comparison](BLACKSTONE_SEMESTER_I_CALENDAR.md) · [Daily timetables](../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Corrections and open details](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INTEGRATION_REPORT.md)
+
+---
+
 # Blackstone · Semester II and the Age of Knowledge
 
 The first cycle’s Semester II covers Days 338–433. Sixteen six-day weeks each have a complete daily plan for Kaira, illi and Elaira. The inherited semester event pattern repeats on its semester-local dates. Freshman standing covers Semesters I–II, middleclassman III–IV and upperclassman V. The Guest Scholar Series offers 19:00–25:00 sessions on semester days 72–75. All three attend the main session in each semester. Attendance on the three subsequent evenings remains optional. The First Hospital Observation window on Semester I Day 265 and Semester II Day 379 is 13:00–18:00. The supplied Semester I overlay files cover the guest series.

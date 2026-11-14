@@ -1,0 +1,5 @@
+# MK163 Semester III Week One — AUTHOR LOCKED
+
+Story Days 452–457, Ailar–Aiven. Six complete day schedules in DAY_452.md through DAY_457.md. Three curricula: Kaira, illi, Elaira. First-week exception: no subject-specific preparation/research before first lecture; only established subjects may be reviewed. Day 454 Kaira and illi share Quantum Field Theory I 11:00–13:00; 13:00–15:00 general shared review. Day 455 11:00–13:00 all three share Genesis III review. Elaira Chemistry I first introduced Day 456. Sprite Professor sends message early Day 454; Black Sprite independently attends 16:00–18:00. Recurring professor weekdays remain OPEN. No chainmail commissions. Campus Age of Knowledge cultural adoption underway; bookstore stock starts around Week Five, not Week One. Aiven protected rest. No freshman orientation requirement for these students.
+
+The source curricula are retained as historical input; this author-approved Week One overlay supersedes only conflicting Week One study blocks and the Quantum shared lecture slot. This package does not change repository content by itself.

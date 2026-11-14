@@ -1,3 +1,11 @@
+# Blackstone clothing sales · Day 477
+
+Blackstone’s bookstore receives its first collection of one- through five-layer chainmail robes from local blacksmiths on Day 477. The collection sells out quickly. Students increasingly choose the robe as a sign of transductionist identity. Kaira accepts no new commissions. Unit counts, buyers, prices and royalty terms remain OPEN.
+
+[Bookstore delivery and sales](../INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_05/DAY_477.md)
+
+---
+
 # Smith settlement and Blackstone bookstore
 
 For the unnamed Yellow District smith’s Day 391 delivery, the standard 1,550 eln price less an 850 eln ring contribution and 80 eln enchantment allowance yields a 620 eln charge. The amount received and net earnings remain OPEN. Princess aina’s separate robe is presented on Day 433. Its payment and enchantment remain OPEN. On Day 451 Blackstone adopts a plan to sell locally made chainmail clothing in the bookstore. Local smiths provide the stock. Contracts, royalties, retail prices and stocking date remain OPEN.

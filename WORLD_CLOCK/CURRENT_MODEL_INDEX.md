@@ -1,3 +1,11 @@
+# Blackstone · Semester III and first-year close
+
+The complete Semester III timetable covers 452–547. The city break covers 548–565 and the academic year closes with 11 administrative days. Use the daily files with the cumulative corrections and open-issue dispositions.
+
+[Dated plans](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Break III](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/BREAK_III/BREAK_III_DAYS_548_565.md) · [Year-end allocation](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/YEAR_END_ADMINISTRATION/CALENDAR_RECONCILIATION.md) · [Integration report](../CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INTEGRATION_REPORT.md)
+
+---
+
 # Blackstone · Semester II through the beginning of Semester III
 
 Sixteen weeks of three-character plans cover 338–433. The palace break ends at the Day 451 ceremony. The running ledger identifies each timetable and the planning status of every break day.

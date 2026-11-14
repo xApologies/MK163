@@ -1,3 +1,11 @@
+# First-year close · Blackstone
+
+The Semester III final examinations end on 546, followed by the Day 547 public celebration and Princess aina’s speech. During the 18-day city break, Kaira and illi stay with Aiselle and Elaira visits her parents before joining them. Day 576 closes the 353-day allocation. The next-year transition remains OPEN.
+
+[Green Arc chronology](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Calendar](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md) · [Daily record](RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Green Arc · Semester III entry
 
 Finals end on 432. aina receives her robe on 433. The palace visit and Elaira’s family visit fall within Break II. On 451 the princess recognizes Kaira on campus and Caelor accepts Blackstone’s role. Semester III opens on 452.

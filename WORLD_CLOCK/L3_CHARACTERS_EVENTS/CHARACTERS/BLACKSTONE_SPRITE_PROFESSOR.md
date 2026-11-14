@@ -1,3 +1,11 @@
+# Semester III · independent Black Sprite office hours
+
+Early on Day 454 a message from the mature Sprite Professor reaches Kaira’s residence. The young Black Sprite, independently mobile in humanoid form, attends 16:00–18:00 on Ailar through Aithen beginning that day. Kaira’s classes and the Sprite’s mentorship have separate timetables. Aiven is free of office hours. The earlier Green Realm visit, whom the professor consulted and the precise return journey remain distinct questions. This decision establishes availability and attendance.
+
+[First message and visit](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_01/DAY_454.md) · [Cumulative recurrence](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/README.md) · [Finals-week example](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_16/DAY_544.md)
+
+---
+
 # Semester II · the Green Realm and the Black Prophecy
 
 After the end of the standing mentorship, the mature Sprite Professor returns to the Green Realm to consult an authority about the prophecy and the young Black Sprite. The identity of that authority, meeting outcome and return date remain OPEN. Caelor’s Day 353 meeting concerns the independent young Sprite. Its consent and agency continue to govern. The Semester II guest lecture preserves Kaira’s private connection to the prophecy.

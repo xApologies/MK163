@@ -1,3 +1,15 @@
+# Green Arc · Semester III, the city break and year-end
+
+The three middleclassmen open Semester III on Day 452. On Day 454 the Sprite Professor sends a message to Kaira’s residence. The young Black Sprite visits them independently, in humanoid form, for office hours on instructional weekdays. On Day 477 the bookstore’s first collection of locally made robes, from one to five layers, sells out quickly. Kaira takes no new commissions.
+
+All three spend Day 487’s Aiven outing in the city. On Day 541 Kaira and illi go into town while Elaira stays for her Clinical Readiness Evaluation. The destinations, purchases and return times remain OPEN. Final examinations occupy their course slots on Days 542, 544 and 546. On 547 all three attend the Semester Symposium, Feast and faculty Prism Championship. Princess aina, the Blue Domain ruler and illi’s older sister, gives a speech. Aiselle attends. The ceremony order, speech wording and match results remain OPEN.
+
+During Break III (548–565), Aiselle hosts Kaira and illi at her Blue District residence. Elaira goes to her parents’ home in the city. Around Day 556 or 557 she visits the others and they celebrate together for several days. The exact arrival, length of stay and later lodging remain OPEN. Days 566–576 are reserved for annual administration.
+
+[All 96 daily plans](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Final Aiven](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_16/DAY_547.md) · [City break](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/BREAK_III/BREAK_III_DAYS_548_565.md) · [Year-end allocation](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_ACADEMIC_CALENDAR.md)
+
+---
+
 # Green Arc · Semester II and the second break
 
 Kaira’s first break closes on Day 337. The visit to Aiselle, Elaira’s gift on 331 and the order for two personal robes on 332 precede the remaining leisure interval on 333–337. Semester II runs from Day 338 through 433. The running ledger links every day to its full three-character timetable.

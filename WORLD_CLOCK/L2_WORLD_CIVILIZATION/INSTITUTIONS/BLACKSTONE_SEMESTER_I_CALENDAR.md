@@ -1,3 +1,19 @@
+# Faculty Prism · cross-semester institutional calendar
+
+The recurring departmental season opens on semester day 51. The subsequent Aiven regular-season windows are 13:00–23:00 on semester days 54, 60, 66, 72, 78, 84 and 90. The championship window is semester day 96, with possible overtime. The dates below are institutional windows. Personal attendance follows each dated timetable.
+
+| Semester | Season opens | Regular Aiven windows (story days) | Championship |
+|---|---:|---|---:|
+| I | 274 | 277, 283, 289, 295, 301, 307, 313 | 319 |
+| II | 388 | 391, 397, 403, 409, 415, 421, 427 | 433 |
+| III | 502 | 505, 511, 517, 523, 529, 535, 541 | 547 |
+
+The first row applies the recurring institutional rule retrospectively to Semester I. Its original day plans and historic PDF document the evidence for personal activities. The published Semester II season supplies its own dated row. Semester II Day 349 already places raeon at 13:00–17:00 followed by leisure at 17:00–18:00. Results, fixtures and wider spectator attendance require their own evidence.
+
+[Published recurring rule](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/PRISM_TOURNAMENT_SEASON.md) · [Day 349](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_02/DAY_349.md) · [Semester III opening announcement](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_09/DAY_502.md) · [Closing attendance](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_16/DAY_547.md)
+
+---
+
 # Blackstone Semester I · infrastructure calendar
 
 ## Authoritative source retained unchanged

@@ -1,3 +1,11 @@
+# Semester III · settled dates and open particulars
+
+Day 454 establishes the Sprite Professor’s message and the young Sprite’s independent weekday appointments. Day 477 settles first bookstore stocking and rapid sellout. Exact buyers, quantities, contracts and royalties remain OPEN. Day 547 selects attendance and Princess aina’s speech. Its order, wording and tournament results remain OPEN. Elaira’s visit begins around break day 9 or 10, with itinerary and duration OPEN. The 11 administrative days resolve the first-cycle allocation. Their functions and the next-year transition remain OPEN.
+
+[Bookstore](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_05/DAY_477.md) · [Celebration](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_16/DAY_547.md) · [Break](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/BREAK_III/BREAK_III_DAYS_548_565.md) · [Administration](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/YEAR_END_ADMINISTRATION/CALENDAR_RECONCILIATION.md)
+
+---
+
 # Semester II and Break II · outstanding decisions
 
 OPEN items include the Day 418 clinic’s acceptance of 17:00 arrival, Prism fixtures, scoring and winning department, the Sprite Professor’s audience and return, individual palace dates, Nyx and Sprite logistics, payment and enchantment for aina’s robe, the Day 451 time and words, bookstore terms and later first-cycle administrative alignment. The Day 354 collection, Day 391 smith delivery, Day 427 royal robe completion and Day 433 presentation are selected.

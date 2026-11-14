@@ -1,3 +1,21 @@
+# Kaira’s first Blackstone year · Days 224–576
+
+| Period | First day | Last day | Length |
+|---|---:|---:|---:|
+| Semester I | 224 | 319 | 96 |
+| Break I | 320 | 337 | 18 |
+| Semester II | 338 | 433 | 96 |
+| Break II | 434 | 451 | 18 |
+| Semester III | 452 | 547 | 96 |
+| Break III | 548 | 565 | 18 |
+| Annual administration | 566 | 576 | 11 |
+
+The final allocation fills the entire 353-day first cycle (288 semester days + 54 break days + 11 administrative days). The three 18-day breaks preserve the continuous six-day weekday phase. Days 566–576 reserve time for the institution. Its work, individual schedules and the next-year transition remain OPEN. The general recurring template below retains its separate scope.
+
+[First-year reconciliation](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/YEAR_END_ADMINISTRATION/CALENDAR_RECONCILIATION.md) · [Break III](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/BREAK_III/BREAK_III_DAYS_548_565.md) · [Running day ledger](../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Blackstone academic calendar · Kaira’s first cycle through Day 452
 
 The recurring institutional template below totals 353 days. For Kaira’s first cycle the Week Two decision shortens Break I to 18 days. The final Break II outline fixes another 18-day break and places the next semester on Day 452. These dated selections supersede the older first-cycle offsets in the table below. The six-day weekday sequence continues across both breaks.

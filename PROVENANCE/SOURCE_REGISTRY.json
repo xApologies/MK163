@@ -449,6 +449,20 @@
       "supplied_members": 203,
       "manifest_hashes": 202,
       "scope": "Semester II, Break II through Day 451, and scoped Semester I Guest Scholar overlays"
+    },
+    {
+      "id": "MK163_BLACKSTONE_SEMESTER_III_DAY_576",
+      "date": "2026-11-14",
+      "baseline": "9c8298aeddd68d6cccf0390222407059e2c835bd",
+      "physical_filename": "MK163_Semester_III_COMPLETE_REBUILT_2026-11-14.zip",
+      "archive_sha256": "dbcf3d81965d9877fa27b459aab00a408ccace42ad770c4900030e3ac0876190",
+      "source_root": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL",
+      "source_manifest": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/SHA256SUMS.json",
+      "inventory": "CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INVENTORY.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/VALIDATION.json",
+      "supplied_members": 119,
+      "scope": "Semester III daily plans 452–547, city break 548–565, administrative allocation 566–576"
     }
   ]
 }
