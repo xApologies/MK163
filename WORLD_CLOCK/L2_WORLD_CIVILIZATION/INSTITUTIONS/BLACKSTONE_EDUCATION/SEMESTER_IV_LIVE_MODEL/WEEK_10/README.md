@@ -1,0 +1,3 @@
+# Semester IV Week Ten — approved
+
+Story Days 631–636; semester days 55–60. Exam II follows Week Five cutoff: no further subject-specific study after each exam; shift to upcoming exams or free time. Day 633: Chemistry II exam 11–13 (Elaira), Transduction II exam 16–18 (Kaira/illi); all three attend Alchemical Materials & Safety Fair 18–20, consistent with Semester I and II precedent. Day 636: full-day city outing, skip raeon and Prism; Field Topology Workshop remains institutional. All three course-specific examinations on Day 635 in established lecture slots. Sprite independent office hours 16–18 on academic days 1–5.
