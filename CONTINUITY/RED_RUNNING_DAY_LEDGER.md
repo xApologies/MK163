@@ -1,3 +1,11 @@
+# Book Red running ledger · Blue through Day 899
+
+Days 787–899 continue the 353-day civil calendar and six-day week after the graduation ceremony. Interval rows identify the scope of a plan when the author did not select an individual daily event. Day 899 opens the palace workshop challenge. Its outcome remains OPEN.
+
+[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Sources and reconciliation](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+
+---
+
 # Running ledger · Semester V through Day 786
 
 The current table covers the 18-day Break IV and all 96 Semester V schedules. Graduation closes the Green Arc at 13:00 on Day 786. Later activities on that date are scheduled campus events.
@@ -924,6 +932,119 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 784 | Aelis | 19 | — | Aiveth | [Semester V, academic day 4](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_784.md) |
 | 785 | Aelis | 20 | — | Ailor | [Semester V, academic day 5](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_785.md) Cardsmithing Laboratory II, Native Genesis Laboratory I and Biology Lab III finals. |
 | 786 | Aelis | 21 | — | Aithen | [Semester V, academic day 6](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md) Graduation 11:00–13:00 closes the Green Arc. Symposium, selected championship games and feast follow on the campus calendar. |
+| 787 | Aelis | 22 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 788 | Aelis | 23 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 789 | Aelis | 24 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 790 | Aelis | 25 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 791 | Aelis | 26 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 792 | Aelis | 27 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 793 | Aelis | 28 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 794 | Aelis | 29 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 795 | Aelis | 30 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 796 | Aelis | 31 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 797 | Aevor | 1 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 798 | Aevor | 2 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 799 | Aevor | 3 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 800 | Aevor | 4 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 801 | Aevor | 5 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 802 | Aevor | 6 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 803 | Aevor | 7 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 804 | Aevor | 8 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 805 | Aevor | 9 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 806 | Aevor | 10 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 807 | Aevor | 11 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 808 | Aevor | 12 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 809 | Aevor | 13 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 810 | Aevor | 14 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 811 | Aevor | 15 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 812 | Aevor | 16 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 813 | Aevor | 17 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 814 | Aevor | 18 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 815 | Aevor | 19 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 816 | Aevor | 20 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 817 | Aevor | 21 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+| 818 | Aevor | 22 | — | Ailar | Kaira moves into her own rented Green District apartment in the Blue Domain capital. Furnishings, breakfast fruit and living vaen. |
+| 819 | Aevor | 23 | — | Aiden | Explores neighborhood dining, raeon, an operational Genesis Card shop and an abecca shop. |
+| 820 | Aevor | 24 | — | Aiveth | Commercial visit to the Crown Accord Registry at the capital’s Blue Dungeon staging area. Proposes a six-smith wholesale partnership. |
+| 821 | Aevor | 25 | — | Ailor | Commissions three independent ring-producing smith workshops. |
+| 822 | Aevor | 26 | — | Aithen | Specific activity OPEN. |
+| 823 | Aevor | 27 | — | Aiven | Specific activity OPEN. |
+| 824 | Aevor | 28 | — | Ailar | Specific activity OPEN. |
+| 825 | Aevor | 29 | — | Aiden | Selects the Yellow District six-table assembly and storage shop at 200 eln/month. Finished rings arrive ready for assembly. |
+| 826 | Aevor | 30 | — | Aiveth | Furnishes and prepares the assembly shop. |
+| 827 | Aevor | 31 | — | Ailor | Continues furnishing the shop and hires six experienced smiths through Registry introductions. |
+| 828 | Aevor | 32 | — | Aithen | Ring inventory arrives. Eighteen days of supervised assembly begin. |
+| 829 | Aelith | 1 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 830 | Aelith | 2 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 831 | Aelith | 3 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 832 | Aelith | 4 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 833 | Aelith | 5 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 834 | Aelith | 6 | — | Aithen | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 835 | Aelith | 7 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 836 | Aelith | 8 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 837 | Aelith | 9 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 838 | Aelith | 10 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 839 | Aelith | 11 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 840 | Aelith | 12 | — | Aithen | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 841 | Aelith | 13 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 842 | Aelith | 14 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 843 | Aelith | 15 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 844 | Aelith | 16 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 845 | Aelith | 17 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+| 846 | Aelith | 18 | — | Aithen | Six trainee robes and Kaira’s demonstration robe complete, subject to acceptance. Kaira steps back from regular commercial assembly. |
+| 847 | Aelith | 19 | — | Aiven | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 848 | Aelith | 20 | — | Ailar | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 849 | Aelith | 21 | — | Aiden | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 850 | Aelith | 22 | — | Aiveth | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 851 | Aelith | 23 | — | Ailor | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 852 | Aelith | 24 | — | Aithen | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 853 | Aelith | 25 | — | Aiven | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 854 | Aelith | 26 | — | Ailar | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 855 | Aelith | 27 | — | Aiden | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+| 856 | Aelith | 28 | — | Aiveth | First subsequent six-robe production batch, subject to inspection. |
+| 857 | Aelith | 29 | — | Ailor | Schedules delivery to the staging-area Registry. |
+| 858 | Aelith | 30 | — | Aithen | Between scheduling and receipt. Specific activity OPEN. |
+| 859 | Aelith | 31 | — | Aiven | Shipment arrives. Kaira visits the Registry to verify arrival. Quantity OPEN. The enterprise opening closes and professional Cardsmith exploration begins. |
+| 860 | Aelith | 32 | — | Ailar | Cardsmith employment search in the Yellow and Green Districts, everyday life and occasional quality checks. Specific appointments OPEN. |
+| 861 | Aelith | 33 | — | Aiden | Cardsmith employment search in the Yellow and Green Districts, everyday life and occasional quality checks. Specific appointments OPEN. |
+| 862 | Aerion | 1 | — | Aiveth | Cardsmith employment search in the Yellow and Green Districts, everyday life and occasional quality checks. Specific appointments OPEN. |
+| 863 | Aerion | 2 | — | Ailor | Cardsmith employment search in the Yellow and Green Districts, everyday life and occasional quality checks. Specific appointments OPEN. |
+| 864 | Aerion | 3 | — | Aithen | Cardsmith employment search in the Yellow and Green Districts, everyday life and occasional quality checks. Specific appointments OPEN. |
+| 865 | Aerion | 4 | — | Aiven | Aiven gala. Kaira, Aiselle, illi, Nyx and the Black Sprite gather at Aiselle’s home. Vael backs off after Nyx’s growl and the Sprite’s small magical flick. A knowledgeable unicorn recognizes Kaira as the Black Singularity. |
+| 866 | Aerion | 5 | — | Ailar | Second six-robe batch scheduled. Cardsmith search and everyday routine continue. |
+| 867 | Aerion | 6 | — | Aiden | Cardsmith career search and everyday routine. Individual engagements OPEN. |
+| 868 | Aerion | 7 | — | Aiveth | Cardsmith career search and everyday routine. Individual engagements OPEN. |
+| 869 | Aerion | 8 | — | Ailor | Cardsmith career search and everyday routine. Individual engagements OPEN. |
+| 870 | Aerion | 9 | — | Aithen | Cardsmith career search and everyday routine. Individual engagements OPEN. |
+| 871 | Aerion | 10 | — | Aiven | First Blue Arc raeon tournament. Kaira places Green, fourth. |
+| 872 | Aerion | 11 | — | Ailar | Continued Cardsmith search and everyday routine. Specific engagements OPEN. |
+| 873 | Aerion | 12 | — | Aiden | Continued Cardsmith search and everyday routine. Specific engagements OPEN. |
+| 874 | Aerion | 13 | — | Aiveth | Continued Cardsmith search and everyday routine. Specific engagements OPEN. |
+| 875 | Aerion | 14 | — | Ailor | Continued Cardsmith search and everyday routine. Specific engagements OPEN. |
+| 876 | Aerion | 15 | — | Aithen | Staging-area Registry reports rapid robe sellouts. Third six-robe batch scheduled. Units sold from this batch OPEN. |
+| 877 | Aerion | 16 | — | Aiven | Second Blue Arc raeon tournament. Kaira places Violet, second. |
+| 878 | Aerion | 17 | — | Ailar | illi takes Kaira to the palace Master Cardsmith. Palace research employment is declined for insufficient specialized experience. illi encourages independent Card production. |
+| 879 | Aerion | 18 | — | Aiden | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 880 | Aerion | 19 | — | Aiveth | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 881 | Aerion | 20 | — | Ailor | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 882 | Aerion | 21 | — | Aithen | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 883 | Aerion | 22 | — | Aiven | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 884 | Aerion | 23 | — | Ailar | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 885 | Aerion | 24 | — | Aiden | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 886 | Aerion | 25 | — | Aiveth | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. A six-robe batch is due only if cadence holds. |
+| 887 | Aerion | 26 | — | Ailor | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 888 | Aerion | 27 | — | Aithen | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 889 | Aerion | 28 | — | Aiven | At the abecca shop, notebook work with sigils, Card topology, Transduction and mathematical designs. Nyx and the independent Black Sprite nearby. No commercial commission. |
+| 890 | Aerion | 29 | — | Ailar | An experienced aithren sees sleeping Nyx at the abecca shop and remarks on his Guardian potential. Kaira recalls her childhood ambition to become an aithren. |
+| 891 | Aerion | 30 | — | Aiden | At her preferred staging-area Crown Accord Registry, staff refer Kaira to the exam administrator. She selects Support Specialist. Willing companions may contribute to one practitioner assessment. Exam remains future. |
+| 892 | Aerion | 31 | — | Aiveth | At the abecca shop Kaira begins her individual Genesis Shield Card notebook design. |
+| 893 | Aerion | 32 | — | Ailor | Studies sigil geometry, topology and protective architecture. |
+| 894 | Aeveth | 1 | — | Aithen | Designs the shield to attach to the protected individual’s Genesis field. |
+| 895 | Aeveth | 2 | — | Aiven | Works on Resolution, bandwidth, persistence and basin constraints. |
+| 896 | Aeveth | 3 | — | Ailar | Revises topology and evaluates fabrication constraints. Another six-robe batch is due only if cadence holds. |
+| 897 | Aeveth | 4 | — | Aiden | Finishes the initial Shield notebook design. Physical fabrication still requires a station and materials. |
+| 898 | Aeveth | 5 | — | Aiveth | illi helps Kaira obtain access to the palace Master Cardsmith’s fabrication workstation. Her employment status is unchanged. |
+| 899 | Aeveth | 6 | — | Ailor | Palace workshop challenge. Kaira must source suitable vaen and Genesis Crystals for Fireball and Shield optimization. Shopping, material choices, testing, fabrication and results OPEN. |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

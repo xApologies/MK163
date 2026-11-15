@@ -1,3 +1,13 @@
+# Vael · Day 865 reunion in the Blue capital
+
+The accidental meeting beside the raeon shop on Orange Day 12 stands. Vael was training at the Green Domain Violet Dungeon. He comes from the Blue Domain, is the son of a Blue-ranked noble, and personally holds Green Offensive Specialist rank with the Accord Registry. He now trains at the capital-associated Blue Dungeon with the King’s Tournament in view. Team, qualification and results are OPEN.
+
+On Day 865, 853 elapsed days after the first encounter, Vael wears his own robe and attends with friends whose identities remain OPEN. He recognizes and verbally belittles Kaira. Nyx steps forward and growls, the Black Sprite makes a small magical flick, and Vael leaves. Kaira and her companions enjoy the rest of the gala. The precise effect and dialogue remain OPEN. The outline selects no fight, penalty or intervention by illi.
+
+[Gala scene decisions](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md) · [Tournament institution](../../L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+
+---
+
 # Vael encounter · Day 12 business context
 
 Before meeting Vael beside the southeast raeon shop, Kaira has two promising private smithy contacts and an independent freight arrangement, **not an active professional listing**. The Registry deferred her unranked inquiry. The other encounter beats stand; she buys nothing and does not meet Nyx on this return. [Current Orange arc](../../../BOOKS/RED/ARCS/ARC_002/ARC.md).

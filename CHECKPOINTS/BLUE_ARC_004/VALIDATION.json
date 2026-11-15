@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "baseline": "1e2061f1c337187c21ac133a15d6f95f34abca98",
+  "archive": "MK163_BLUE_ARC_CUMULATIVE_LIVE_MODEL_004.zip",
+  "archive_sha256": "5cebb5aba46981669b9892e0e4da9aae025febb66bc87044fd73a425d6d5756b",
+  "source_members": 17,
+  "declared_sha256_verified": 16,
+  "archive_crc": "PASS",
+  "preserved_source_bytes": 66583,
+  "new_ledger_rows": 113,
+  "new_days": [
+    787,
+    899
+  ],
+  "prior_civil_rows_preserved": 787,
+  "day_877": "Aerion 16 / Aiven",
+  "day_899": "Aeveth 6 / Ailor",
+  "active_frontier": "Material choices, fabrication and outcomes OPEN",
+  "score_vector": [
+    5,
+    5,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4
+  ],
+  "future_exam": {
+    "stations": 13,
+    "score": "54/91",
+    "floor_mean": 4,
+    "result": "Green",
+    "date": "OPEN"
+  },
+  "two_card_basins": {
+    "common": [],
+    "union_size": 5,
+    "unused": "Violet",
+    "third_card_assignment": "OPEN"
+  },
+  "robe_capacity": {
+    "operations": 3,
+    "cities": 2,
+    "assemblers": 18,
+    "robes_per_accounting_month": 54,
+    "actual_sales": "OPEN"
+  },
+  "tournament": {
+    "regional_blue_per_domain": 3,
+    "violet_circuit_races": 8,
+    "finalists_kingdom_wide": 7,
+    "final_venue": "separate ninth Violet Dungeon"
+  },
+  "new_local_link_occurrences_checked": 90,
+  "structural_validation": {
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": []
+  },
+  "scope": {
+    "added": [
+      "CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md",
+      "CHECKPOINTS/BLUE_ARC_004/VALIDATION.json",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/01_AUTHORITY_AND_CONTINUITY.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/02_BLUE_ARC_DAILY_LEDGER.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/03_GEOGRAPHY_CHARACTERS_AND_LIFESTYLE.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/04_CHAINMAIL_ENTERPRISE.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/05_BLUE_ARC_NARRATIVE_HANDOFF.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/06_INTEGRATION_GUIDANCE.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/07_BLUE_ARC_PHASE_II_AND_GALA.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/09_CODEX_INTEGRATION_AND_AUDIT.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/10_GEOGRAPHY_RECONCILIATION_AND_REVISED_LEDGER.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/12_CODEX_SUPERSESSION_AND_REPO_PATCH_PLAN.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/13_DAYS_878_TO_899_AUTHORITATIVE_LEDGER.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/14_CARD_ENGINEERING_AND_SOURCE_CROSSWALK.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/15_CODEX_HANDOFF_AND_INTEGRATION.md",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/MANIFEST.json",
+      "PROVENANCE/WORKSHOP/BLUE_ARC_004/README.md"
+    ],
+    "modified": [
+      ".gitattributes",
+      "AGENTS.md",
+      "BOOKS/RED/ARCS/ARC_005/ARC.md",
+      "BOOKS/RED/BOOK_OVERVIEW.md",
+      "CONSTITUTIONS/12_EXPORT_ACCEPTANCE_AND_CANON_GUARDS.md",
+      "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+      "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+      "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+      "PROVENANCE/SOURCE_REGISTRY.json",
+      "README.md",
+      "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md",
+      "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md",
+      "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+    ],
+    "deleted": []
+  },
+  "source_limits": [
+    "External AERA catalogue referenced only",
+    "Dated plans through Day 899, no subsequent fabrication outcome"
+  ]
+}

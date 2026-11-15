@@ -1,3 +1,11 @@
+# Nyx at the Blue capital gala
+
+On Day 865 Nyx, Kaira’s independent male Vaeryn and family, accompanies the party from Aiselle’s Blue District home and steps forward with a deep growl when Vael belittles her. His provisional size at the gala is about 600–700 lb and three feet at the shoulder. Earlier juvenile observations stand. No intervening growth curve is selected. On Day 890 an experienced aithren remarks that sleeping Nyx would make an excellent Guardian. His participation remains voluntary. He communicates with the independent Black Sprite.
+
+[Day 865](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md) · [Day 890 and agency](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/13_DAYS_878_TO_899_AUTHORITATIVE_LEDGER.md)
+
+---
+
 # Nyx · Blackstone living flower wall, Semester I retrospective
 
 **Author-selected environmental continuity, not a separately timed scene or new biological law.** After the girls' Blackstone move-in, Nyx manifests his species-native flowers on the bedroom wall **behind Kaira's bed**. During **Weeks 1–5, Days 224–253**, **Red, Orange, Yellow, Green, Blue and Violet** flowers progressively spread and substantially cover the wall.

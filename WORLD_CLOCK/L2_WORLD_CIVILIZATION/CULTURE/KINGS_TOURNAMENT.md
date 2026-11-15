@@ -7,22 +7,47 @@
 ## Identity and recurrence
 The King's Tournament is a **very dangerous dungeon-racing circuit**, not an arena fight, PvP elimination, a dungeon-clear event or destruction of a dungeon. It is prestigious kingdom-wide competition hosted through existing dungeons and their communities. The accepted MK163 recurrence is **once every four years**: the author offered three to five, the assistant chose four, and the author accepted. Exact dates and the next event year are unset.
 
-## Eligible geography and regional brackets
+## Qualification, circuit and championship
+
+| Stage | Venues and advancement |
+|---|---|
+| Local Green | Each of the four domains holds Green Dungeon qualifiers. Qualifying teams continue. Local dungeon counts, entrant numbers and schedules remain OPEN. |
+| Regional Blue | Each domain races three selected Blue-ranked Dungeons. The regional results advance surviving teams. Knockout procedure, aggregation and advancing counts remain OPEN. |
+| Kingdom Violet circuit | Survivors converge at the first Violet Dungeon in the Blue Domain. The field races two Violet Dungeons per domain in the order Blue → Green → Orange → Violet, eight races in all. The top seven teams overall advance. Interim knockouts remain OPEN. |
+| Royal final | Seven teams race in a separate ninth Violet-ranked Dungeon near the royal capital in the Violet Domain. The final race alone sets championship placements. Earlier points determine eligibility. |
+
+Teams descend, activate the deepest designated marker and return as quickly as possible, using route choice, coordination and ELDRIS avoidance. Ordinary training and exploration continue year-round. Points for recognized circuit places are White 7, Violet 6, Blue 5, Green 4, Yellow 3, Orange 2 and Red 1. Scoring below seventh, ties, disqualifications, dates and precise routing remain OPEN. The Crown deploys temporary military-type spatial corridors in competition sequence between host capitals and selected dungeons. Outside the event ordinary caravan travel remains available.
+
+## Scale, duration and spectators
+The source permits dungeons extending miles or tens of miles vertically; the author cites roughly seventeen miles to a Violet-depth region as an example. Horizontal winding and return travel also matter. Races can occupy days and potentially a week; no exact universal travel speed or duration is fixed.
+
+Spectators cannot simply see the underground race throughout. Teams disappear into the dungeon and later return. Around the entrance/staging community, a major festival occupies the waiting interval: food, alcohol, merchants, magic, communal recreation and surface entertainment. Melee competitions and possibly jousting are discussed. The core is a celebration of civilization and aithren culture, not an obligatory real-world medieval schedule. No global broadcast system has been invented to remove the author's visibility premise.
+
+## Story firewall
+Only the institution and explicitly reselected MK163 events are inherited. The original “Arc2 scaffold,” old travel itinerary, rivals, old party, months named January/February/March, and original Kira story are not imported. Kaira's current team, qualification encounters, exact circuits, opponents and chapters remain unwritten. Her Book Red result is recorded in L3 and cross-referenced here: fourth/Green, with a high-quality Dimensional Ring prize. Green placement does not mean the team stopped in the Green stratum.
+
+[Blue 004 institutional decision](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md)
+
+## Historical regional format · superseded by Blue 004
+
+The following earlier rules, point maximum and regional finalist counts document the previous format. Current competition follows the four stages above.
+
+### Eligible geography and regional brackets
 The kingdom has four royal domains: Violet, Orange, Green and Blue. Each runs its own qualification and regional bracket/circuit. A dungeon is eligible for the qualification system when its deepest chromatic stratum reaches Green, Blue or Violet. A Red/Orange/Yellow-only dungeon does not meet that threshold. A dungeon's prismatic strata remain contiguous; the color of a circuit event is not a different physical stratum rule.
 
 The original MK147 Blue-region example lists three Green, four Blue and two Violet dungeons, nine in total. It is a historical regional example, not a fixed MK163 census. The number and locations of qualifying dungeons in each current domain have not been assigned.
 
-## Qualification
+### Qualification
 People form teams and enter local participating dungeon qualifiers. The source describes monthly opportunities throughout a qualification year, and a team that qualifies need not qualify again within that qualification season. Repeated unsuccessful attempts are allowed by its example. The quadrennial championship is the current interval; the exact placement of that qualification season within the four years is not locked. A fourth-year qualification window was a suggestion, not an independently adopted calendar fact.
 
 The source also states that each qualification dungeon eventually contributes six teams, even while earlier wording permits recurring monthly qualifying placements. Its season-total slot accounting is not fully reconciled. Preserve that original as source evidence rather than silently treating every monthly top-six/seven finisher as an unlimited new slot. MK163 clearly extends recognized event placements and regional championship representation to seven. The exact number of local qualifying slots, duplicate handling and monthly-to-season selection procedure remain open; do not invent 63 entrants merely by multiplying the old nine-dungeon example by seven.
 
-## Regional circuit
+### Regional circuit
 The adopted regional phase is a **points circuit, not elimination**. Teams remain active across the circuit rather than the field being halved each round. Six event labels remain Red, Orange, Yellow, Green, Blue and Violet. The source places these events in designated Blue or Violet dungeons. The Red Event is therefore not an event restricted to a Red-only dungeon; event ordering and dungeon basin depth are distinct.
 
 A successful race goes down to the designated deepest objective, activates its token/marker, and returns to the surface. Fastest successful completion earns the highest placement. Combat is an obstacle to navigational/endurance success, not the sole scoring criterion. The source does not specify killing every monster, collecting every crystal or clearing each chamber.
 
-## Seven-place points amendment
+### Seven-place points amendment
 | Finishing place | Chromatic placement | Circuit points |
 |---|---|---|
 | 1 | White | 7 |
@@ -35,18 +60,10 @@ A successful race goes down to the designated deepest objective, activates its t
 
 White is the additional top placement. The old Violet-through-Red values remain six through one. This is a competitive rank, not a White dungeon stratum or a new independent basin. Six victories give a circuit maximum of **42 points**. The old maximum36, six regional representatives and24 finalists are superseded for MK163.
 
-## Advancement and final
+### Advancement and final
 The seven highest regional teams from each of the four domains qualify as representatives: **4 × 7 = 28 finalists**. They meet in the Violet royal domain at the kingdom championship dungeon. The final uses a dungeon spanning Red → Orange → Yellow → Green → Blue → Violet. Teams reach the Violet-depth marker and return through the dungeon to the surface. The top seven final places are White through Red and receive prizes, prestige and recognition. Specific prizes apart from Kaira's selected reward, tie-breaking, failed-run scoring, team size, substitutions, start arrangements, interference rules, disqualifications and marker verification are unassigned.
 
 These are persistent public environments that can be delved and practiced outside tournament dates. They are not disposable instances or reset competition arenas. Different monster/resource configurations can occur as the local field oscillates.
-
-## Scale, duration and spectators
-The source permits dungeons extending miles or tens of miles vertically; the author cites roughly seventeen miles to a Violet-depth region as an example. Horizontal winding and return travel also matter. Races can occupy days and potentially a week; no exact universal travel speed or duration is fixed.
-
-Spectators cannot simply see the underground race throughout. Teams disappear into the dungeon and later return. Around the entrance/staging community, a major festival occupies the waiting interval: food, alcohol, merchants, magic, communal recreation and surface entertainment. Melee competitions and possibly jousting are discussed. The core is a celebration of civilization and aithren culture, not an obligatory real-world medieval schedule. No global broadcast system has been invented to remove the author's visibility premise.
-
-## Story firewall
-Only the institution and explicitly reselected MK163 events are inherited. The original “Arc2 scaffold,” old travel itinerary, rivals, old party, months named January/February/March, and original Kira story are not imported. Kaira's current team, qualification encounters, exact circuits, opponents and chapters remain unwritten. Her Book Red result is recorded in L3 and cross-referenced here: fourth/Green, with a high-quality Dimensional Ring prize. Green placement does not mean the team stopped in the Green stratum.
 
 ## Author-source evidence
 

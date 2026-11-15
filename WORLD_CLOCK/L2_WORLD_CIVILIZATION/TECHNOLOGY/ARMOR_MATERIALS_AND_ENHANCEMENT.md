@@ -1,3 +1,11 @@
+# Blue Arc · commercial Chainmail Robe
+
+The commercial five-layer garment is an opaque, hooded robe of interlinked, self-closing Genesis-infused iron rings, with localized five/four/three-layer relief and magnetic slit closures. It retains a robe silhouette. Standard enhancement provides mass reduction. Customers may obtain compatible enhancements independently. Their limits depend on material structure, with exact capacity, physical protection values, mass and three-dimensional weave OPEN. Healers, backline summoners and ranged specialists are likely users. Kaira’s singular chromatic robe and decorative gala copies have separate material histories.
+
+[Product and production evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/04_CHAINMAIL_ENTERPRISE.md) · [Gala garments](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md)
+
+---
+
 # Personal chromatic robe · scoped Day 171 exception
 
 Kaira's original five-layer black-iron robe undergoes involuntary atomic/material restructuring, retaining five-layer core and localized 5→4→3 relief, hood and chainmail silhouette. Irregular intrinsic Red-to-Violet streaks modify its former monochrome appearance; they are not profession-rank colors or a new ordinary product specification. Conventional imitations reproduce appearance only. Post-event mass, durability, protection, energy properties and repeatability remain OPEN. Existing topology limitations and original source designs remain; concept image labels do not establish full functionality. [Full event and visual scope](../../L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md).

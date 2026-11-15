@@ -8,7 +8,28 @@ Turn formal training and childhood interest in delving into an independent pract
 
 ## Entry state
 
-A high-honors graduate moves to the alchemist’s Green District apartment in a centuries-old Blue-dungeon city.
+After Blackstone graduation on Day 786, Kaira stays with Aiselle in the Blue District of the Blue Domain capital through Day 817. On Day 818 she moves into her own rented Green District apartment in that capital with Nyx and the Black Sprite.
+
+## From graduation to the palace workshop
+
+| Days | Selected beats |
+|---|---|
+| 787–819 | Aiselle hosts Kaira for 31 days while she establishes the separate eight-smith operation and looks for a home. Move-in is Day 818. Day 819 establishes the neighborhood shops and abecca routine. |
+| 820–859 | A commercial Registry proposal, three ring suppliers, and a distinct six-smith Yellow District shop lead to training and wholesale production. Kaira verifies arrival on Day 859. Delivery quantity remains OPEN. |
+| 860–877 | Kaira explores Cardsmith jobs. Day 865 is the gala, followed by raeon placements Green/fourth on 871 and Violet/second on 877. Day 876 is the staging-area market check. |
+| 878 | illi brings Kaira to the palace Master Cardsmith. Research employment is declined for lack of specialized experience. illi encourages her to build independently. |
+| 879–889 | Notebook, sigils, topology, Transduction and mathematical designs at the abecca shop, with Nyx and the independent Black Sprite nearby. No commission. |
+| 890 | An experienced aithren remarks that sleeping Nyx would make an excellent Guardian. This rekindles Kaira’s own childhood ambition. Summoning specialty and battlefield role are separate. |
+| 891 | Familiar staging-area Registry staff refer Kaira to the examination administrator. Of the four roles she chooses Support Specialist. Companions may contribute voluntarily to her single assessment. |
+| 892–894 | Shield design begins on 892. Day 893 addresses geometry and topology. Day 894 fixes the protected individual’s Genesis field as the point of attachment. |
+| 895–897 | Resolution, bandwidth, persistence and basin constraints on 895. Revised topology and fabrication constraints on 896. Initial notebook design complete on 897. |
+| 898–899 | illi secures workstation access on 898. On 899 suitable vaen and Genesis Crystals must be found for two compatible Cards. Material selection, cost, testing and outcome remain OPEN. |
+
+Kaira’s existing Blackstone Fireball honors her Cardsmith mother, whose Fireball Card aided survival during the Red Arc Genesis collapse. Her Fireball target is GE-0057, Red + Blue. Her individual Shield target is GE-0537, Orange + Yellow + Green. Violet remains free in the proposed pair. The limited Resolution/Coherence pseudo-healing Card’s basins are OPEN.
+
+At the Day 865 gala, Aiselle, Princess illi and Kaira travel together from Aiselle’s residence with Nyx and the Black Sprite. Each wears her own original robe. Aiselle introduces Kaira to guests and illi gives her social support. Vael belittles Kaira, Nyx growls, and the Sprite flicks a small magical expression. Vael withdraws and the evening ends pleasantly. Other sprites approach the Black Sprite directly. An unidentified unicorn recognizes Kaira as the Black Singularity. The unicorn’s identity, any connection to the Yellow scholar and who heard the recognition remain OPEN.
+
+[Day-by-day chronology](../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Card design crosswalk](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Complete gala outline](../../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md)
 
 ## Principal conflict
 
@@ -16,11 +37,10 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 
 ## Major events
 
-- Kaira chooses to relocate to a **large, centuries-old city associated with a Blue-ranked Dungeon**, rather than return to her earlier home.
-- She personally likes the new landscape, natural environment, and climate; the precise geography, climate, city name, and comparative friendliness are NOT yet fixed.
-- An established alchemist in her life owns an apartment in the city's **Green District** as part of her residential holdings/profile. Kaira takes up residence there. Do not invent ownership or rental terms.
+- Kaira grows up at the Village Hub associated with Green Hollowmere Dungeon in the Blue Domain. Her original robe enterprise serves a Violet-ranked Dungeon in the Green Domain. Blackstone and her independent post-graduation household are both in the Blue Domain capital. The capital has its own Blue-ranked Dungeon and staging-area Registry.
+- Kaira and Aiselle look for the apartment together. Her fruit bowl and living vaen establish the new household. Kaira values the technically curious dungeon community and the freedom to keep working alongside Nyx and the Black Sprite. The 600 eln/month Green residential average gives context. The signed rent is OPEN. The King’s Highway connects to the Violet royal capital. Visits to illi and engagements with the King remain undated. Elaira stays with her parents and seeks hospital Helkir work. Her hiring outcome is OPEN.
 - This city has a mature dungeon economy and long-established communities of independent **aithren**, **vaelum**, artisans, clients, researchers, and support businesses.
-- Kaira resumes an everyday routine: visiting a generic **coffee shop** (serving **abecca**, the coffee analogue); participating in Genesis Card game tournaments; frequenting a Genesis Card shop to appreciate Card topology; practicing armorsmithing and Cardsmithing.
+- Kaira resumes an everyday routine: visiting a generic **coffee shop** (serving **abecca**, the coffee analogue); participating in raeon tournaments; frequenting a Genesis Card shop to appreciate Card topology; practicing armorsmithing and Cardsmithing.
 - At the Card shop, the Sprite's Resolution insight makes Kaira's experience of Genesis Card topology unusually rich compared with a typical customer.
 - Nyx accompanies her through the city, often as her mount, and draws crowds. People know other-realm denizens exist, but a dangerous native creature like Nyx living with Kaira as family is unprecedented to their experience.
 - At the coffee-shop table the small Black Sprite plays and bounces around, enjoying themself; Nyx takes up space and draws onlookers.
@@ -28,7 +48,7 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 
 - Kaira is already a recognizable and somewhat famous innovator in fashion/armor as originator of the **Chainmail Robe**, associated with the emerging **Age of Knowledge**.
 - Earlier, in a mature city connected with a Violet Dungeon, she was known for this original design, not as a Cardsmith.
-- In the new centuries-old Blue Dungeon city, the Cardsmith market is crowded with established professionals, customers and longstanding relationships. High honors alone do not create a commercial identity.
+- In the Blue capital’s established dungeon economy, the Cardsmith market is crowded with established professionals, customers and longstanding relationships. High honors alone do not create a commercial identity.
 - She considers returning her primary attention to armorsmithing, because she knows how to earn a living through armor repairs, commissions and Chainmail Robes.
 - She is older after years of study at Blackstone; this is a new start, but **not** a start from nothing.
 - A casual visitor at the **unnamed coffee shop** notices Nyx and remarks: **'He'd make a great Guardian.'**
@@ -47,8 +67,11 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 - The Guardian controls/occupies the hostile ELDRIS; a skilled Support Specialist controls battlefield conditions, protective fields, terrain, positioning, and opportunities.
 - No independent vaelum membership is established for Kaira at this point: she begins as a **free agent / independent aithren**.
 
-## Chronology
-1. Kaira first visits the Accord Registry and decides on Support Specialist.
+## Examination and expedition outline · future at Day 899
+
+The examination date and first expedition date remain OPEN. The thirteen-station result and later contracts below are selected future outline.
+
+1. Following her commercial dealings, Kaira visits the staging-area Accord Registry for career assessment on Day 891 and chooses Support Specialist.
 2. She returns to her Green District home and reviews her basic Blackstone student Card portfolio.
 3. She constructs/prepares three **purpose-built dungeon Cards**:
    - **Fireball Genesis Card:** limited direct offensive contribution and opportunistic finishing/pressure.
@@ -56,7 +79,7 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
    - **Individual Genesis Shield Card:** target-applied protective Genesis-field structure for allies or Kaira.
 4. She arrives for the Support Specialist examination with those three Cards, Nyx, and the Black Sprite.
 
-## Capabilities and constraints
+## Future examination and fieldwork · capabilities and constraints
 - Kaira can sustain Genesis shields for exceptionally long periods, with **comparatively slow fatigue accumulation**; this is a major natural advantage.
 - **Access and endurance are not competency or mastery.** She struggles with dynamically monitoring and managing multiple shields under combat pressure.
 - A Genesis Shield attaches to the **protected individual's Genesis field, not their armor**. Shield condition cannot simply be inferred from armor appearance.
@@ -70,8 +93,8 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 - See [the exact 13-station score ledger](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and [the four examinations](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
 
 - Newly certified Green Support Specialist Kaira returns to the Accord Registry to review job postings as an independent aithren.
-- She accepts/is drawn into a **roughly three-week research expedition** into the Blue Dungeon, with planned descent through Red and Orange into **Yellow and Green domains**, not Blue.
-- The research group seeks to investigate **naturally forming ru’ne structures / sigils** known in the Yellow and Green domains. This research destination is **unrelated to Kaira's Green professional rating**.
+- She accepts/is drawn into a **roughly three-week research expedition** into the Blue Dungeon, with planned descent through Red and Orange into the **Yellow and Green internal strata** of the Blue Dungeon.
+- The research group seeks to investigate **naturally forming ru’ne structures / sigils** known in those Yellow and Green strata. This research destination is **unrelated to Kaira's Green professional rating**.
 - Kaira serves as **environmental sustainment Support** rather than dedicated combat healing: she uses protective Genesis-field structures to prevent/reduce harm from domain environmental pressure, energies and other hazards affecting the bodies of researchers and staff.
 - Her unusual long-duration shield sustainment is particularly useful here, though recognizing environmental shield degradation remains a learning challenge.
 - This is an extended research mission, not a single combat encounter. Researchers' names, party composition, exact phenomena, pay, and field discoveries remain OPEN.
@@ -86,11 +109,11 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 - The cycle is **craft → field use → observe limitations → return to workbench → refine → redeploy**.
 - Kaira's exceptional capacity/endurance remains distinct from learned competency and eventual mastery. She must learn to *feel* shield integrity, anticipate failures, allocate protection, and control battlefield conditions.
 - Nyx and the Black Sprite grow alongside her as family and partners, not mere assets.
-- She continues armorsmithing/Chainmail Robe production and can use dungeon-community contacts to build a Cardsmithing reputation.
+- She continues to oversee Chainmail Robe production and can take personal craft work by choice. She can use dungeon-community contacts to build a Cardsmithing reputation.
 - Blue closes on Kaira's development as a professional dungeon delver, Support Specialist and increasingly practical Cardsmith. **No later rank promotion, Master Cardsmith attainment, permanent vaelum affiliation, or specific later contracts are established.**
 - The selected Violet arc follows this closure.
 
-## Exit state
+## Future exit state
 
 After the first research contract and additional contracts, Kaira refines her three working Cards. No vaelum membership or later promotion yet.
 

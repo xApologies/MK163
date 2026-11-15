@@ -1,0 +1,17 @@
+# Blue Arc narrative handoff — inherited future arc with newly selected opening
+
+## Newly fixed opening and thematic emphasis
+Green ends at Day 786 graduation; Blue encompasses everything afterward. Thirty-one-day post-graduation capital interlude with Aiselle, friends and eight-smith expansion; eight-day southward trip; Day 825 arrival; Days 826–828 own Green District home; Day 829 local shops, food, vaen plants and routine; Days 830–856 build six-assembler Yellow District robe production operation; thereafter enterprise supports independent life. This is not a story about Kaira becoming a full-time CEO. Business is infrastructure for personal freedom, friendships, Genesis Cards and participation in aithren culture.
+
+## Existing repository Blue outline retained after this opening
+`BOOKS/RED/ARCS/ARC_005/ARC.md` already specifies: mature 2×2-mile Blue Dungeon staging district; crowded Cardsmith market despite Kaira's academic credentials; Nyx and Black Sprite independent companions; a coffee-shop visitor remarks Nyx would make a good Guardian, sparking Kaira's interest in becoming an **independent aithren** without forcing Nyx into that role. She reviews four role certifications at Accord Registry, selects **Support Specialist**, prepares Fireball, limited Resolution pseudo-healing and individually targeted Genesis Shield Cards; shields attach to protected **person's Genesis field**, not armor. Her exceptional endurance does not equal dynamic multi-target competence. She earns **Green** Support Specialist certification after 13 trials, then participates in roughly three-week research expedition into Blue Dungeon **Yellow/Green internal strata** studying naturally forming ru’ne/sigils and protecting team from environmental pressure. Later contracts drive iterative Card improvement. No fixed permanent vaelum affiliation, later promotion, Master Cardsmith title, later contracts or new city name.
+
+## Distinguish two Accord Registry interactions
+- **Day 830 commercial:** she approaches Registry to establish third Chainmail Robe wholesale/retail supply operation. This does **not** imply she is already a certified Support Specialist.
+- **Later career:** after experiencing community and thinking about work, she investigates and undertakes independent aithren role assessment. No day selected for exam; do not place it on Day 830 merely because she visits Registry then.
+
+## Character relationships
+Aiselle mentors without controlling Kaira's business or housing; E seeks hospital work in capital; illi reconnects with parents/royal capital; Kaira retains bonds and visits. Kaira, Nyx and Black Sprite form new household. Kaira likes relaxed, technically curious dungeon culture, mild weather and independence; experiences residual social concerns connected with Afflicted past. She does not hate the capital; it simply is not her desired daily environment.
+
+## Narrative execution boundaries
+No dialogue, specific shop names, city name, exact address, apartment floor plan, individual smith names, first-customer names, precise restaurant meals, exact contract or tax regime have been authored. Day ledger is author-selected **outline**, not completed prose. Avoid adding plot crises, dramatic fights or forced deadlines merely to fill dates. Preserve room for ordinary slice-of-life, socializing, raeon games, Card-shop visits, Nyx and Sprite play and occasional personal craftsmanship.

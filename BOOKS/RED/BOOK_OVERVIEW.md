@@ -1,3 +1,11 @@
+# Book Red · Blue Arc through Day 899
+
+Green closes at graduation on Day 786. The Blue Arc follows Kaira’s independent household and robe operations in the Blue Domain capital, her pursuit of Cardsmith work and her decision to seek Support certification. At the current outline frontier the palace workshop challenge is open.
+
+[Blue Arc](ARCS/ARC_005/ARC.md) · [Running day ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](../../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+
+---
+
 # Book Red · Yellow COMPLETE through Day 211
 
 Orange closes Day 51; Yellow opens Day 63 and ends Day 211 on Blue capital arrival, 149 inclusive days. Green starts afterward; admission is pending. All seven previously selected arc scopes and later milestones remain. [Yellow contract](ARCS/ARC_003/ARC.md) · [Current Day 0–211 ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md).
@@ -32,7 +40,7 @@ All prior text remains below. The current decisions above supersede only their s
 | 2 | [Orange](ARCS/ARC_002/ARC.md) | Independence, craft and Nyx joining the family; physical robe reveal at close. |
 | 3 | [Yellow](ARCS/ARC_003/ARC.md) | Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. |
 | 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal raeon gatherings, challenge coin. |
-| 5 | [Blue](ARCS/ARC_005/ARC.md) | New city, Support exam, first research contract and independent field refinement. |
+| 5 | [Blue](ARCS/ARC_005/ARC.md) | Independent household in the Blue capital, future Support exam, first research contract and independent field refinement. |
 | 6 | [Violet](ARCS/ARC_006/ARC.md) | Closed native rings and coupled seams, Crown research and vaelum affiliation. |
 | 7 | [White](ARCS/ARC_007/ARC.md) | King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. |
 

@@ -1,3 +1,11 @@
+# Blue capital gala · later recognition
+
+The mature professor’s earlier recognition and Green Realm consultation remain as previously recorded. At the Day 865 gala other sprites communicate directly with the Black Sprite. Some Green Realm awareness is established. The professor’s consultation outcome and its audience remain OPEN. A knowledgeable unicorn recognizes Kaira as the Black Singularity at this gala. Its identity, link to the Yellow scholar, public or private setting and exact prophecy words remain OPEN. The Black Sprite (they/them) acts independently when Vael threatens the pleasant evening. The small magical flick has no selected precise effect.
+
+[Gala and prior scholarship](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md)
+
+---
+
 # Semester III · independent Black Sprite office hours
 
 Early on Day 454 a message from the mature Sprite Professor reaches Kaira’s residence. The young Black Sprite, independently mobile in humanoid form, attends 16:00–18:00 on Ailar through Aithen beginning that day. Kaira’s classes and the Sprite’s mentorship have separate timetables. Aiven is free of office hours. The earlier Green Realm visit, whom the professor consulted and the precise return journey remain distinct questions. This decision establishes availability and attendance.

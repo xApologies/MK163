@@ -1,3 +1,11 @@
+# Current Blue Arc · palace workshop, Day 899
+
+The post-graduation Blue capital outline now reaches the planned Fireball/Shield engineering challenge. The world-level King’s Tournament revision governs the kingdom championship. The robe enterprise has three operations across two cities.
+
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md) · [Cardsmithing](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Robe enterprise](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [King’s Tournament](L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+
+---
+
 # Blackstone · fifth semester and graduation
 
 The second academic cycle continues with Semester V on Days 691–786. The graduation ceremony closes the Green Arc. The single running ledger links all 96 dated student timetables and the intervening 18-day break.

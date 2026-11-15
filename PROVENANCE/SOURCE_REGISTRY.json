@@ -487,6 +487,17 @@
       "source_mapping": "CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/VALIDATION.json",
       "scope": "Semester V Days 691–786, graduation endpoint, Semester III Day 511 amendment"
+    },
+    {
+      "id": "MK163_BLUE_ARC_CUMULATIVE_LIVE_MODEL_004",
+      "baseline": "1e2061f1c337187c21ac133a15d6f95f34abca98",
+      "archive": "MK163_BLUE_ARC_CUMULATIVE_LIVE_MODEL_004.zip",
+      "archive_sha256": "5cebb5aba46981669b9892e0e4da9aae025febb66bc87044fd73a425d6d5756b",
+      "source_root": "PROVENANCE/WORKSHOP/BLUE_ARC_004",
+      "manifest": "PROVENANCE/WORKSHOP/BLUE_ARC_004/MANIFEST.json",
+      "source_mapping": "CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLUE_ARC_004/VALIDATION.json",
+      "scope": "Blue Arc through Day 899, robe enterprise, Fireball/Shield crosswalk and world-level King’s Tournament revision"
     }
   ]
 }

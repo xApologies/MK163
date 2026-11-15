@@ -1,3 +1,11 @@
+# Blue Arc · after graduation through Day 899
+
+Graduation on Day 786 closes Green. Kaira establishes an independent home on 818, attends the gala on 865, takes fourth and second in raeon on 871 and 877, chooses Support on 891 and obtains palace workstation access on 898. Day 899 opens the engineering challenge. Certification and first expedition remain undated future beats.
+
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+
+---
+
 # Green Arc · graduation
 
 After Break IV on Days 673–690, Kaira, illi and Elaira undertake their fifth Blackstone semester and graduate on Day 786. Later events on that date remain campus calendar entries. Kaira’s Semester V chainmail business is inactive. Her Circle Design Competition intention remains OPEN for later scheduling.
@@ -213,7 +221,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
 - **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
 - **RED-004 Green:** Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
-- **RED-005 Blue:** New city, Support exam, first research contract and independent field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
+- **RED-005 Blue:** Independent household in the Blue capital, future Support exam, first research contract and independent field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
 - **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
 - **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).
 

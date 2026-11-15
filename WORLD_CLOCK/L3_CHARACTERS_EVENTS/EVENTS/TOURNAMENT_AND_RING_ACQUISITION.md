@@ -1,3 +1,11 @@
+# Book Red championship · seven finalists
+
+After Green qualifiers, three Blue regional races per domain and eight kingdom-wide Violet points races, seven teams overall reach the separate ninth Violet Dungeon. The final race sets placement. Kaira’s fourth/Green finish at the end of Book Red and her Dimensional Ring prize stand. The Day 871 and 877 raeon results and the future Green Support certification are separate events. Vael’s training establishes no qualification or team.
+
+[Current institutional rules](../../L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Revision](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md)
+
+---
+
 # Book Red White arc: fourth / Green confirmed
 
 **Book Red consolidation · 2026-11-07.** Author decision, 2026-11-07: **“Keep Green/fourth; reject the Yellow change.”** White is the seventh arc of Book Red. Kaira competes with her team in the dangerous dungeon race, places fourth / Green and receives the high-quality Dimensional Ring at the end of Red. No Ring earlier. The ZIP’s Yellow proposal is rejected, not an open alternate outcome. No roster, qualifier sequence, ceremony or numerical Ring grade is supplied.

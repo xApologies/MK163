@@ -1,3 +1,22 @@
+# Blue Arc · three robe operations across two cities
+
+The original operation continues in the Green Domain city near the Violet Dungeon. During Days 787–817 Aiselle encourages an eight-assembler operation in the Blue capital. Kaira subsequently establishes a separate six-assembler Yellow District workshop in the same capital and contracts with the Blue Dungeon staging-area Registry for its concentrated aithren trade. The Crown Registry buys wholesale and manages retail and agreed logistics. Kaira retains design and quality control.
+
+| Operation | Salaried assemblers | Capacity per accounting month | Modeled wholesale | Direct costs | Payroll | Modeled remainder before other costs |
+|---|---:|---:|---:|---:|---:|---:|
+| Original Green Domain city, home-based workshops | 4 | 12 | 18,600 | 12,000 | 2,320 | 4,150 |
+| Blue capital, first expansion | 8 | 24 | 37,200 | 24,000 | 4,640 | 8,430 |
+| Blue capital, Yellow District assembly shop | 6 | 18 | 27,900 | 18,000 | 3,480 | 6,090 |
+| Combined illustrative capacity | 18 | 54 | 83,700 | 54,000 | 10,440 | 18,670 |
+
+Figures in eln assume three robes per smith per accounting month, 1,550 wholesale and 1,700 retail, giving a 150 retail markup. Modeled unit costs are 850 in rings/materials and 150 for mass reduction. Modeled pay is 580 per smith per accounting month. Only the original 130 monthly Registry management fee is confirmed. The table illustrates the source’s three fee allowances (390 total) plus the one established 200 shop rent. The two Blue arrangements, any additional percentage or “10% cut,” its basis and relation to the markup remain OPEN. Capacity, deliveries, accepted units, actual sales and net income are separate. Other operating costs and the eight-smith premises remain unspecified.
+
+Day 821 commissions three independent ring workshops as suppliers. The 200 eln/month Yellow District lease is for a six-table assembly and storage shop with no forge. The Green residential average of 600 eln/month does not fix Kaira’s apartment rent. Six experienced hires work together beginning 828. Seven training robes include her demonstration. Subsequent batches target six every ten days. The 250,000 rings per robe estimate gives about 1,750,000 for seven or 1,500,000 for six. Quotas, pricing and sustainable throughput remain OPEN. The Day 859 shipment quantity is OPEN. On 876 the Registry reports rapid sellouts. Monthly capacity cannot determine how many units sold on that date.
+
+[Original operating model](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/04_CHAINMAIL_ENTERPRISE.md) · [Corrected locations and dates](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/10_GEOGRAPHY_RECONCILIATION_AND_REVISED_LEDGER.md) · [Production milestones](../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Blackstone clothing sales · Day 477
 
 Blackstone’s bookstore receives its first collection of one- through five-layer chainmail robes from local blacksmiths on Day 477. The collection sells out quickly. Students increasingly choose the robe as a sign of transductionist identity. Kaira accepts no new commissions. Unit counts, buyers, prices and royalty terms remain OPEN.

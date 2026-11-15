@@ -1,3 +1,20 @@
+# Blue Arc · Fireball and individual Genesis Shield
+
+Kaira’s existing Blackstone Fireball carries forward her mother’s Cardsmith legacy. The Shield notebook is complete on Day 897. Day 898 grants time at the Crown palace Master Cardsmith’s station. On Day 899 the two designs remain engineering targets.
+
+| Card | Shaping in external catalogue | Provisional baseline | Selected target |
+|---|---|---|---|
+| Fireball | GE-0057 Detonating Combustion Orb | Red + Orange + Blue | Red + Blue, removing Orange |
+| Individual Genesis Shield | GE-0537 Absorption Shield | Orange + Yellow + Green + Blue | Orange + Yellow + Green, removing Blue |
+
+A Shaping is an operation. A Binding supplies an interface and a Genesis Card implements the operation within Conceive → Shape → Hold → Resolve → Manifest → Release. The catalogue’s basin assignments for previously unassigned Bindings are provisional heuristics. The design would occupy five distinct basins, leaving Violet free, subject to capacity, fatigue and ordinary exclusivity. The three-basin shield attaches to the protected individual’s Genesis field. A possible two-basin shield belongs to speculative senior practice. Reduced basin count alone establishes neither energy savings nor improved output.
+
+Kaira must find suitable vaen and Genesis Crystals and test whether each dependency can be removed while preserving behavior. Availability, prices, materials, recipe, timing, mentor assistance, actual fabrication and performance remain OPEN. Her third examination Card provides limited Resolution/Coherence pseudo-healing. Its basin assignment and any use of Violet remain OPEN. The separate AERA_GENESIS_SHAPINGS_CHECKPOINT_001_REISSUED.zip catalogue contains 1,245 Shapings and six single-basin access Cards according to the supplied crosswalk. The original catalogue is an external dependency.
+
+[Author’s crosswalk and source limits](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/14_CARD_ENGINEERING_AND_SOURCE_CROSSWALK.md) · [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md)
+
+---
+
 # Sigil-assisted Cardsmithing and direct native manufacture
 
 ## 1. Professional classification (explicitly author locked)

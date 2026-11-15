@@ -1,3 +1,11 @@
+# Blue Arc · exam status at Day 899
+
+Kaira chooses Support Specialist on Day 891. Her companions may contribute willingly to one assessed practitioner. At the Day 899 workshop frontier she has yet to sit the thirteen stations. The selected future scores [5,5,5,4,5,4,4,4,3,4,4,3,4] total 54/91. The floor of the mean is 4, Green. All protected allies survive. Her subsequent roughly three-week independent research expedition studies naturally forming ru’ne sigils in the Yellow and Green internal strata of the Blue Dungeon. Exam and contract dates remain OPEN.
+
+[Dated outline](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Authoritative ledger](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/13_DAYS_878_TO_899_AUTHORITATIVE_LEDGER.md)
+
+---
+
 # Kaira’s first Support Specialist certification
 
 ## Score ledger

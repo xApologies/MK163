@@ -1,3 +1,11 @@
+# Blue Arc · open at Day 899
+
+Palace workstation access is selected. Availability and selection of vaen and Genesis Crystals, exact recipe, prices, assistance, time, successful compression, power requirements and fabrication remain OPEN. The pseudo-healing Card’s basins, exam date, expedition date and any new commission remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases/Registry management terms, shipment quantity, and unsettled tournament procedures remain open at their respective owners.
+
+[Card designs](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+
+---
+
 # Semester V · scoped decisions and remaining questions
 
 The supplied Day 691 opening and Day 672 close fix the intervening Break IV interval. Exact return-to-campus day and break activities remain OPEN. Kaira’s Circle Design Competition intention remains OPEN for later scheduling. Graduation outfits, speeches, individual honors, Prism results and the Sprite’s personal attendance at graduation are unspecified. The Day 511 workshop attendance is settled. Its full institutional opening and closing hours remain OPEN.

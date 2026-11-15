@@ -1,3 +1,11 @@
+# Current Blue Arc · Day 899
+
+Use the Blue capital geography and dates in the Blue Arc and ledger. Kaira rents her own Green District home on 818. Aiselle’s residence remains in the Blue District. The Day 865 gala and the two raeon placements precede the Day 891 Support selection. Day 899 opens the palace two-Card challenge. Preserve future exam and expedition status, the external AERA catalogue boundary, and all earlier source records. For the King’s Tournament use the revised world-level owner.
+
+[Blue Arc](BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md) · [King’s Tournament](WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+
+---
+
 # Current Green Arc · Semester V and graduation
 
 Use Days 691–786 for Semester V and the 11:00–13:00 graduation on Day 786 as the Green Arc endpoint. Keep later campus events in the timetable. The Day 511 workshop amendment selects all three from 19:00 to 23:00. Preserve Day 636’s city outing, lowercase aina, the weekday offset and Kaira’s still-OPEN competition intention.

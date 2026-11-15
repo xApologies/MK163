@@ -1,3 +1,11 @@
+# Day 865 · the robe as gala attire
+
+Aiselle wears her original robe, illi wears the five-layer original made personally for her, and Kaira wears her hooded five-layer dark-iron original. Its irregular intrinsic Red-through-Violet streaks arose in the involuntary Day 171 event. Gala guests admire the designer and wear lower-layer or five-layer imitations. Conventional colored finishes, splashes, speckles, stripes and display-only pieces in glass cases extend its influence into fine attire. Visual imitation establishes no technique for reproducing the material event, protective improvement, formal guild or sales figure. The midsummer-style gala hosts humans, VAELITH, sprites, dragons, primordials and at least one unicorn. Leviathans are more typical of academic gatherings. Season and astronomical correspondence remain OPEN.
+
+[Original scene outline](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/11_DAY_865_GALA_CUMULATIVE_CANON.md) · [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md)
+
+---
+
 # Personal commissions and royal recognition · Days 354–451
 
 Day 354 brings the rings for the two Day 332 commissions. Kaira resumes regular evening construction on 356. By the smith’s completion on 389 the ledger records 28 ordinary sessions with up to 112 allocated hours. Actual productive hours and their division between commissions remain OPEN. On 390 the Genesis Field Department applies the mass-reduction enchantment at the 80 eln student rate. Kaira and illi deliver the smith’s robe on 391. The charge is 1,550 eln less 850 for the rings and 80 for enchantment, leaving 620 eln. Payment timing remains OPEN.

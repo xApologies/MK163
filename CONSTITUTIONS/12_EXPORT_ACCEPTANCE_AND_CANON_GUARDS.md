@@ -1,3 +1,11 @@
+# Blue 004 · tournament acceptance amendment
+
+For the King’s Tournament, check three Blue races per domain, two Violet circuit races per domain, seven finalists kingdom-wide, and a separate ninth Violet final. The final race alone determines the championship. These author-selected counts supersede the prior six-event regional circuit and 28-finalist acceptance check below. Preserve four-year recurrence, chromatic placement points, fourth/Green for Kaira and the end-of-Red Ring.
+
+[Institution owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Author’s decision](../PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md)
+
+---
+
 # Delta 021 · scoped acceptance updates
 
 Validate **353-day current year**, unchanged eleven months, 31-hour day and six-day weekday cycle; treat older 360/60-week/four-90-day-season checks as historical in this scope. Verify Day 211 = Aeveth 24, Aiven; Yellow 63–211 = 149 inclusive days; 212 distinct relative ledger days. Use **maege glass** for the single substrate. The author reconfirms **1 Red eln = 180 ahm** during integration; do not adopt the new source's stale OPEN statement or infer 100:1. Preserve all other existing hard checks, source bytes, historical 018 repair, Black Card retirement, Green/fourth and no Ring before Red ending.

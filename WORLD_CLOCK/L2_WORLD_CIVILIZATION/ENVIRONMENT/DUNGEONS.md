@@ -1,3 +1,11 @@
+# King’s Tournament · selected host dungeons
+
+The current competition uses local Green qualifiers, three Blue regional races per domain, an eight-race Violet circuit and a separate ninth Violet final. Ordinary dungeon access persists between competitions. The older W043 regional counts below are historical evidence.
+
+[Current tournament rules](../CULTURE/KINGS_TOURNAMENT.md)
+
+---
+
 > **Live Model 009B current authority — 2026-10-22:** Adds separate environmental biological pressure and natural-boundary research without changing dungeon confinement. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
 
 ## Live Model 009B integration
