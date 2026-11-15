@@ -1,3 +1,11 @@
+# Semester V · scoped decisions and remaining questions
+
+The supplied Day 691 opening and Day 672 close fix the intervening Break IV interval. Exact return-to-campus day and break activities remain OPEN. Kaira’s Circle Design Competition intention remains OPEN for later scheduling. Graduation outfits, speeches, individual honors, Prism results and the Sprite’s personal attendance at graduation are unspecified. The Day 511 workshop attendance is settled. Its full institutional opening and closing hours remain OPEN.
+
+[Semester V](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Day 511 amendment](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/WEEK_10/DAY_511.md) · [Decision record](../CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md)
+
+---
+
 # Semester IV · remaining decisions
 
 Break IV dates, the proposed Semester V opening and detailed daily break activities await validation or selection. The campus policy for academic and civil weekdays, actual Sprite office-hour attendance during Founders Games, Prism fixtures/results and the Day 672 speech wording and time remain OPEN. The integration author decisions settle Day 609 classes, Day 654 exhibition attendance and the Week One pre-lab biology blocks.

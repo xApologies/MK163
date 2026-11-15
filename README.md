@@ -2,6 +2,8 @@
 
 Seven books: **Red → Orange → Yellow → Green → Blue → Violet → White**. Protagonist: **Kaira**.
 
+[Current Green Arc · Semester V through graduation](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Cross-semester decisions and validation](CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md)
+
 ## Read first
 [Current World Clock](WORLD_CLOCK/CURRENT_MODEL_INDEX.md) · [Constitutions](CONSTITUTIONS/00_AUTHORITY.md) · [Continuity](CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md) · [Source register](PROVENANCE/SOURCES.md) · [Coverage](PROVENANCE/WORKSHOP/COVERAGE.md) · [Corrections](PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md)
 

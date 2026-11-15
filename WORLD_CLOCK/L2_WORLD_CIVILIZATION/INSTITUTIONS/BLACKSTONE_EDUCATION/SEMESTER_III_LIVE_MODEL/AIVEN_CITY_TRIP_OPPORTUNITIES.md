@@ -13,7 +13,7 @@ Aiven is a protected rest day. The raeon club meets 13:00–17:00. Faculty Prism
 | 7 | [493](WEEK_07/DAY_493.md) | First Hospital Observation | Elaira completes five supervised hours, 13:00–18:00. Kaira and illi attend raeon. |
 | 8 | [499](WEEK_08/DAY_499.md) | Research Night | All three attend raeon, then Research Night from 19:00 to 23:00. |
 | 9 | [505](WEEK_09/DAY_505.md) | Healing Practicum Review and first Prism games | Elaira has a required review. Its exact duration is OPEN. Kaira and illi have club and spectator options. |
-| 10 | [511](WEEK_10/DAY_511.md) | Field Topology Workshop and Prism | Workshop hours and personal attendance remain OPEN. |
+| 10 | [511](WEEK_10/DAY_511.md) | Field Topology Workshop and Prism | All three attend raeon 13:00–17:00 and the workshop 19:00–23:00. Full institutional workshop hours remain OPEN. |
 | 11 | [517](WEEK_11/DAY_517.md) | Hospital Open Demonstration and Prism | Elaira attends the demonstration. Kaira and illi attend raeon. Demonstration duration remains OPEN. |
 | 12 | [523](WEEK_12/DAY_523.md) | Guest Scholar Series opening and Prism | All three attend raeon and the scholar opening from 19:00 to 25:00. |
 | 13 | [529](WEEK_13/DAY_529.md) | Advanced Configuration Exhibition and Prism | All three prioritize the exhibition over club and spectating. Exact event hours remain OPEN. |

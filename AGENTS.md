@@ -1,3 +1,11 @@
+# Current Green Arc · Semester V and graduation
+
+Use Days 691–786 for Semester V and the 11:00–13:00 graduation on Day 786 as the Green Arc endpoint. Keep later campus events in the timetable. The Day 511 workshop amendment selects all three from 19:00 to 23:00. Preserve Day 636’s city outing, lowercase aina, the weekday offset and Kaira’s still-OPEN competition intention.
+
+[Semester V schedules](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Integration audit](CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md) · [Running ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Current Green Arc · Semester IV through Day 672
 
 Read the 96 dated plans using academic Days 1–6 and the continuous civil weekday column in the ledger. Use the author decisions for Elaira’s first-week pre-lab blocks, the regular Day 609 and the Day 654 exhibition. Keep Break IV dates and the Semester V opening provisional.

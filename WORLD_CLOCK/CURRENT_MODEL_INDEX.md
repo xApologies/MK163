@@ -1,3 +1,11 @@
+# Blackstone · fifth semester and graduation
+
+The second academic cycle continues with Semester V on Days 691–786. The graduation ceremony closes the Green Arc. The single running ledger links all 96 dated student timetables and the intervening 18-day break.
+
+[Semester V schedules](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Integration audit](../CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md) · [Graduation](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md)
+
+---
+
 # Blackstone · Semester IV
 
 Semester IV runs from Story Day 577 through 672. The daily plans retain the separate academic and civil weekdays. The post-semester handoff gives an 18-day break outline with provisional dates.

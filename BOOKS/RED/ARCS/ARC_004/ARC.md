@@ -1,3 +1,11 @@
+# Green Arc closure · Blackstone graduation on Day 786
+
+Kaira, illi and Elaira graduate from Blackstone on Story Day 786. The graduation ceremony runs 11:00–13:00 and closes the Green Arc’s narrative outline. Princess aina and Aiselle attend. The 13:00–17:00 Symposium and selected Prism Championship games and the 19:00–23:00 feast belong to the dated campus calendar. The record supplies no subsequent Green Arc scene, graduation honors, speech text or match results.
+
+[Graduation schedule](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md) · [Semester V schedules](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Integration audit](../../../../CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md)
+
+---
+
 # Green Arc · Blackstone Semester IV
 
 Kaira, illi and Elaira spend Days 577–672 in Semester IV. The dated plans select city outings on 600 and 636, all three at the Advanced Configuration Exhibition on 654, and separate specialist finals on 671. The three attend the symposium and feast on 672. Princess aina speaks during the celebration. The city break has narrative anchors, with its dates and individual days still provisional.

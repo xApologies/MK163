@@ -1,3 +1,11 @@
+# Second cycle · Semester V, Days 691–786
+
+Semester IV closes on Day 672. The new Semester V opening anchors Day 691, fixing Break IV at 18 days, Days 673–690 inclusive. The prior break handoff remains the authority for its narrative outline. The suggested return to campus on Days 689–690 is still provisional. Semester V spans 96 days through 786. Day 691 is civil Aiven and academic Day 1. Day 786 is civil Aithen and academic Day 6.
+
+[Semester V timetable](BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Break IV outline](BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/SEMESTER_BREAK_HANDOFF.md) · [Graduation day](BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md)
+
+---
+
 # Semester IV · second academic cycle
 
 The approved timetable opens on Day 577 (academic Day 1, civil Aiven) and closes on Day 672 (academic Day 6, civil Aithen). This extends the first-cycle ledger through the next 96 academic days. The allocation of Break IV to Days 673–690 and the Semester V opening on 691 are proposals pending master-calendar validation. The general calendar policy for the academic and civil weekday offset remains OPEN.

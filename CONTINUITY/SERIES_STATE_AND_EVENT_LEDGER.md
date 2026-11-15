@@ -1,3 +1,11 @@
+# Green Arc · graduation
+
+After Break IV on Days 673–690, Kaira, illi and Elaira undertake their fifth Blackstone semester and graduate on Day 786. Later events on that date remain campus calendar entries. Kaira’s Semester V chainmail business is inactive. Her Circle Design Competition intention remains OPEN for later scheduling.
+
+[Green Arc outline](../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Closing day](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md) · [Day ledger](RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Semester IV close · Day 672
 
 After the first-year allocation through Day 576, the three undertake Semester IV on Days 577–672. The final examinations end on 671 and Princess aina speaks at the closing celebration on 672. Break IV is outlined. Exact dates of the break and the next opening await master-calendar validation.
