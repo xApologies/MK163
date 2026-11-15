@@ -463,6 +463,19 @@
       "validation": "CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/VALIDATION.json",
       "supplied_members": 119,
       "scope": "Semester III daily plans 452–547, city break 548–565, administrative allocation 566–576"
+    },
+    {
+      "id": "MK163_BLACKSTONE_SEMESTER_IV_DAY_672",
+      "baseline": "1af976c9e14da2a532dfd0badcdfb264bd2c7158",
+      "physical_filename": "MK163_Semester_IV_COMPLETE_Codex_Repository_Update_REPACK.zip",
+      "archive_sha256": "59b6535e468b5e175337cd46e448ed14282f611839844e57550221feba4d81ed",
+      "source_commit": "aa9b00a1686c90ed8365b606a14761c4a6fa04f8",
+      "source_root": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL",
+      "source_manifest": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/SHA256SUMS.json",
+      "audit": "CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/VALIDATION.json",
+      "supplied_members": 114,
+      "scope": "Semester IV Days 577–672 and provisional break handoff"
     }
   ]
 }

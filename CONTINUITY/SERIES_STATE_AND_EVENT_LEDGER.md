@@ -1,3 +1,11 @@
+# Semester IV close · Day 672
+
+After the first-year allocation through Day 576, the three undertake Semester IV on Days 577–672. The final examinations end on 671 and Princess aina speaks at the closing celebration on 672. Break IV is outlined. Exact dates of the break and the next opening await master-calendar validation.
+
+[Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Break outline](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/SEMESTER_BREAK_HANDOFF.md)
+
+---
+
 # First-year close · Blackstone
 
 The Semester III final examinations end on 546, followed by the Day 547 public celebration and Princess aina’s speech. During the 18-day city break, Kaira and illi stay with Aiselle and Elaira visits her parents before joining them. Day 576 closes the 353-day allocation. The next-year transition remains OPEN.

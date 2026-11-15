@@ -1,3 +1,11 @@
+# Semester IV · remaining decisions
+
+Break IV dates, the proposed Semester V opening and detailed daily break activities await validation or selection. The campus policy for academic and civil weekdays, actual Sprite office-hour attendance during Founders Games, Prism fixtures/results and the Day 672 speech wording and time remain OPEN. The integration author decisions settle Day 609 classes, Day 654 exhibition attendance and the Week One pre-lab biology blocks.
+
+[Semester IV daily plans](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Integration and source decisions](../CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md)
+
+---
+
 # Semester III · settled dates and open particulars
 
 Day 454 establishes the Sprite Professor’s message and the young Sprite’s independent weekday appointments. Day 477 settles first bookstore stocking and rapid sellout. Exact buyers, quantities, contracts and royalties remain OPEN. Day 547 selects attendance and Princess aina’s speech. Its order, wording and tournament results remain OPEN. Elaira’s visit begins around break day 9 or 10, with itinerary and duration OPEN. The 11 administrative days resolve the first-cycle allocation. Their functions and the next-year transition remain OPEN.

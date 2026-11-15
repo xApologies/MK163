@@ -1,3 +1,11 @@
+# Current Green Arc · Semester IV through Day 672
+
+Read the 96 dated plans using academic Days 1–6 and the continuous civil weekday column in the ledger. Use the author decisions for Elaira’s first-week pre-lab blocks, the regular Day 609 and the Day 654 exhibition. Keep Break IV dates and the Semester V opening provisional.
+
+[Semester IV daily plans](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Integration and source decisions](CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md) · [Running ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Current Green Arc · Semester III through first-year close
 
 Use the 96 dated Semester III plans (452–547), the Break III city outline (548–565) and the annual administration allocation (566–576). Princess aina speaks at the Day 547 celebration and Aiselle attends. Kaira and illi stay with Aiselle in Blue District during Break III. Elaira joins them around 556 or 557. Preserve the Sprite’s independent weekday appointments, protected course slots and each dated attendance selection. Administrative activities, speech order and Prism results remain OPEN.

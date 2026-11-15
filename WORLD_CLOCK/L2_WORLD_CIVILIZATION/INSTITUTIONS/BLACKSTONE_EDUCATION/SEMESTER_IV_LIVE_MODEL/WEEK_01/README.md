@@ -14,4 +14,4 @@ Story Days 577–582; academic template Days 1–6. Six complete 31-hour timetab
 Story Day 577 is Aesith 6 under the 353-day calendar and is civil Aiven under the continuous six-day weekday phase. Uploaded course templates call academic Day 1 Ailar. This checkpoint preserves both labels; **no reset of the civil weekday cycle has been authorized**. Campus Opening Convocation Day 1 and Freshman Orientation Day 6 are institutional calendar anchors, not automatically compulsory for returning students. Exact attendance and times remain open.
 
 ## Scope of this package
-This is a Week One delta/checkpoint, not a cumulative 16-week Semester IV archive. Do not overwrite prior semester records or replicate AERA sources.
+These notes originated in the Week One checkpoint. The [complete Semester IV model](../README.md) contains all sixteen weeks. The author assigned Elaira free time in the biology preparation and tutoring blocks before her first Biology Lab II on Day 581. Do not overwrite prior semester records or replicate AERA sources.

@@ -1,3 +1,11 @@
+# Green Arc · Blackstone Semester IV
+
+Kaira, illi and Elaira spend Days 577–672 in Semester IV. The dated plans select city outings on 600 and 636, all three at the Advanced Configuration Exhibition on 654, and separate specialist finals on 671. The three attend the symposium and feast on 672. Princess aina speaks during the celebration. The city break has narrative anchors, with its dates and individual days still provisional.
+
+[Semester IV daily plans](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Integration and source decisions](../../../../CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md) · [Break outline](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/SEMESTER_BREAK_HANDOFF.md)
+
+---
+
 # Green Arc · Semester III, the city break and year-end
 
 The three middleclassmen open Semester III on Day 452. On Day 454 the Sprite Professor sends a message to Kaira’s residence. The young Black Sprite visits them independently, in humanoid form, for office hours on instructional weekdays. On Day 477 the bookstore’s first collection of locally made robes, from one to five layers, sells out quickly. Kaira takes no new commissions.

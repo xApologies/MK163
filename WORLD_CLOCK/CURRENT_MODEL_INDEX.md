@@ -1,3 +1,11 @@
+# Blackstone · Semester IV
+
+Semester IV runs from Story Day 577 through 672. The daily plans retain the separate academic and civil weekdays. The post-semester handoff gives an 18-day break outline with provisional dates.
+
+[Semester IV daily plans](L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Integration and source decisions](../CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md) · [Running ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
+
+---
+
 # Blackstone · Semester III and first-year close
 
 The complete Semester III timetable covers 452–547. The city break covers 548–565 and the academic year closes with 11 administrative days. Use the daily files with the cumulative corrections and open-issue dispositions.

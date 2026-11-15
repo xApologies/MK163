@@ -1,3 +1,11 @@
+# Semester IV · second academic cycle
+
+The approved timetable opens on Day 577 (academic Day 1, civil Aiven) and closes on Day 672 (academic Day 6, civil Aithen). This extends the first-cycle ledger through the next 96 academic days. The allocation of Break IV to Days 673–690 and the Semester V opening on 691 are proposals pending master-calendar validation. The general calendar policy for the academic and civil weekday offset remains OPEN.
+
+[Semester IV calendar](BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Provisional break](BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/SEMESTER_BREAK_HANDOFF.md)
+
+---
+
 # Kaira’s first Blackstone year · Days 224–576
 
 | Period | First day | Last day | Length |

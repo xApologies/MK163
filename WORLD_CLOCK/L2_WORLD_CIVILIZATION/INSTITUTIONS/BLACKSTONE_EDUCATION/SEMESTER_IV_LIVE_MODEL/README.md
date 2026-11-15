@@ -1,50 +1,28 @@
-# MK163 Semester IV — Cumulative Author-Approved Weeks 01–05
+# MK163 — Semester IV complete live model
 
-Story Days 577–606; 30 complete daily schedules in five six-day weeks. Weeks 01–04 copied byte-for-byte from the preceding approved checkpoint. Week 05 adds the author-approved exam schedule.
+Story Days **577–672** cover sixteen six-day academic weeks. Each of the 96 timetables records all 31 hours for Kaira, illi, Elaira and the Black Sprite. Use the dated plans for personal attendance and the primary curricula for the recurring course slots. [Opening day](WEEK_01/DAY_577.md) · [Closing day](WEEK_16/DAY_672.md) · [Running ledger](../../../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md)
 
-## Week Five authority
-- Day 601 Geometry I exams for Kaira and illi; Geometry III for Elaira, 15:00–17:00.
-- Day 603 Chemistry II exam for Elaira 11:00–13:00; Transduction Theory II for Kaira and illi 16:00–18:00.
-- Day 605 Binding Circle Fundamentals for Kaira 13:00–15:00; Native Genesis Control III for illi 16:00–18:00; Biology Lab II for Elaira 18:00–20:00.
-- No study of a subject after its examination for the remainder of Week Five. Normal courses resume Week Six.
-- Chemical Safety Festival remains on campus Day 603 but does not interrupt exams. Foundation Node Seminar remains on Day 606; girls attend raeon club 13:00–17:00 instead.
-- Retain distinct course-template and continuous civil weekdays; avoid treating syllabus planned lessons as taught when exams replace them.
-- The Black Sprite has standing independent professor office hours 16:00–18:00 academic Days 1–5.
+## Academic and civil weekdays
 
-## Source and provenance
-MK163 GitHub original Semester IV teaching syllabi for Kaira, illi, Elaira and Blackstone campus event calendar; author-approved conversation audit takes precedence for exam-day substitutions. This package is for Codex integration; no GitHub push has been made.
+Academic Day 1 uses the Ailar course template. Day 577 falls on civil Aiven, following Day 576, civil Aithen. Both six-day sequences advance continuously. Seventeen supplied headers, Days 589–600 and 607–611, print a civil weekday one day earlier than the running calendar. The affected records identify both readings. The Week Fifteen and Sixteen sources use academic day numbers alone. The running ledger supplies the civil weekdays. Blackstone’s general policy on the offset remains OPEN.
 
-## Week Six authority
-All six days approved. Lessons: tangent planes, differential forms advanced, compatibility of connected configurations, electrochemistry, admissible component relationships, compatibility of concurrent components, controlled intervention. Raeon club Day 612; Sprite office hours Days 1-5. No campus-wide event.
+The Black Sprite’s independent professor hours are 16:00–18:00 on academic Days 1–5. On Founders Games Day 597 this is the standing appointment and actual festival-day attendance is OPEN. The raeon club meets on academic Day 6 from 13:00 to 17:00. After the Day 627 roster announcement, the faculty Prism tournament runs 13:00–23:00 on the eight designated sixth days from 630 through 672. Personal attendance follows the dated selections.
 
-## Week Seven authority
-All six days author-approved. Topology Challenge on Story Day 613: Kaira, illi, Elaira participate; 11:00–13:00 proposed attendance window replaces study, not lecture. Source fixes the event day only. Day 618 raeon club retained; First Hospital Observation institutional event, no personal attendance chosen. Course lecture topics verified against original Semester IV syllabi.
+## Examinations and the semester close
 
-## Week Eight and Week Seven correction
-Week Eight Days 619–624 approved; Day 621 Circle Design Competition 15:00–20:00 with Kaira/illi class interruption 16:00–18:00, Elaira remains throughout. Day 624 Raeon 13:00–17:00 and Research Night 19:00–23:00. Week Seven Day 613 Topology Challenge repaired to 16:00–20:00 institutional window, with girls joining after 15:00–17:00 required lectures. Prior 11:00–13:00 proposal superseded.
+| Course | Student(s) | Hours | Exam I | Exam II | Final |
+|---|---|---|---:|---:|---:|
+| Differential Geometry I / III | Kaira and illi (I), Elaira (III) | 15:00–17:00 | 601 | 631 | 667 |
+| Chemistry II | Elaira | 11:00–13:00 | 603 | 633 | 669 |
+| Transduction Theory II | Kaira and illi | 16:00–18:00 | 603 | 633 | 669 |
+| Binding Circle Fundamentals | Kaira | 13:00–15:00 | 605 | 635 | 671 |
+| Native Genesis Control III | illi | 16:00–18:00 | 605 | 635 | 671 |
+| Biology Lab II | Elaira | 18:00–20:00 | 605 | 635 | 671 |
 
-## Week Nine — author-approved
-Day 627 faculty Prism rosters posted, no matches; Day 630 raeon 13–17 followed by selected Prism games 17–18 and 19–23, lunch 18–19. No required classes postponed. Six daily schedules in WEEK_09.
+On Day 672 the three attend the Semester Symposium from 13:00 to 17:00 and the Feast from 19:00. The faculty Prism Championship runs from 13:00 to 23:00, with possible overtime. Princess aina, illi’s older sister, speaks about the Age of Knowledge and transductionist identity. The exact speech text and time, match selections, fixtures and results remain OPEN.
 
-**Cumulative correction:** WEEK_09/DAY_627.md previously inherited the Week Eight Circle Design Competition in error. This package restores the regular Day Three timetable and the faculty Prism roster announcement only.
+The break handoff places Kaira and illi at Aiselle’s Blue District residence. Elaira visits, and the three return to campus a couple of days before the end. The 18-day allocation at **673–690**, suggested campus dates **689–690** and Semester V opening on **691** remain provisional pending master-calendar validation. [Break handoff](SEMESTER_BREAK_HANDOFF.md)
 
-## Week Ten approved
-Six full examination-week schedules in WEEK_10. Story Day 633 fair attendance 18–20 after exams (verified previous-semester precedent); Story Day 636 full-day city outing. See Week 10 README.
+## Source and decisions
 
-## Week 11 approved
-Six full daily schedules in WEEK_11. The Long Proof: 16–20 event, girls attend around Transduction II. Day Six faculty Prism **13–23 throughout**, raeon Kaira/illi 13–17, Elaira Hospital Open Demonstration afternoon. No Prism forced into 19–23 only.
-
-## Week 12 approved
-WEEK_12 contains Story Days 643–648. Guest Scholar Series opening Day 648 from 19:00–25:00, with raeon 13:00–17:00; Prism continues 13:00–23:00 independently. Author accepted schedule; exact curricular lesson content remains subject to later audit.
-
-## Week 13 approved
-WEEK_13: Story Days 649–654. Guest Scholar Series 19–25 Days 1–3. Day Six Advanced Configuration Exhibition 19–23, raeon 13–17, Prism ongoing 13–23. Day Six exhibition attendance inferred from 'looks good' and prior semester precedent; flag for author confirmation if needed.
-
-## Week 14 approved
-WEEK_14 Story Days 655–660. Genesis Integration Forum 19–23 Day 660, raeon 13–17, Prism institutionally 13–23.
-
-## Week 15 approved
-Six schedules in WEEK_15, Story Days 661–666. Containment 18–20 Day 663; Mathematics Symposium 16–20 Day 664; clinical 13–18 for Elaira Day 666, raeon 13–17 Kaira/illi, Prism 13–23 institutional.
-
-## Semester IV completed — Week 16
-WEEK_16 contains Story Days 667–672. Final exams Days 1/3/5, strict post-exam study cutoff. Day 672 Symposium 13–17, faculty Prism Championship 13–23, Feast from 19; Blue Domain princess (illi older sister) gives speech on Age of Knowledge/transductionist identity. SEMESTER_BREAK_HANDOFF.md holds narrative break anchors only; exact 18-day calendar allocation pending master-clock audit.
+The original cumulative notes preserve the progression of approvals, lesson topics, event windows and superseded proposals. During integration the author confirmed the regular Week Six timetable on Day 609, attendance by all three at the Day 654 exhibition, and free time for Elaira in the pre-lab biology blocks on Days 580–581. [Original cumulative notes](https://github.com/xApologies/MK163/blob/aa9b00a1686c90ed8365b606a14761c4a6fa04f8/WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_IV_LIVE_MODEL/README.md) · [Integration audit](../../../../../CHECKPOINTS/BLACKSTONE_SEMESTER_IV_DAY_672/INTEGRATION_REPORT.md) · [Current file hashes](SHA256SUMS.json)
