@@ -1,0 +1,128 @@
+{
+  "status": "PASS",
+  "baseline": "6da43b67b59d5e74b965982dfb0bf5600d2ff7ce",
+  "archive": "MK163_BLUE_ARC_DELTA_005_CLEAN_CODEX_HANDOFF.zip",
+  "archive_sha256": "57c77471a4df28d02fe1b5615ac2d0867dc5d002aa663f19c647f6a3643c638b",
+  "archive_crc": "PASS",
+  "safe_members": 7,
+  "verified_manifest_hashes": 6,
+  "exact_originals": 7,
+  "source_sha256": {
+    "01_DAY_LEDGER_DELTA.md": "c4ce125810ac051b1cf7938d21920267c39e60b242f67388dcd7966caff9eb49",
+    "02_VAEN_MERCHANT_AND_BASIN_ENGINEERING.md": "58c43bb1b1d49cff13fd2b525648c8d7d26a4a4f752d948e677623d36327d7ec",
+    "03_HOME_CARDSMITH_WORKSTATION.md": "6d63a8b19414ee10e0dfeabcbbbe82173ebca21287daf8a2eaf8215c6fa9df65",
+    "04_CERTIFICATION_AND_CONTINUITY.md": "3d0fca0593c9e37e05665c86f9ec3fe2f59d411cfd42100cb930a4866c453b66",
+    "05_CODEX_PATCH_INSTRUCTIONS.md": "a5ce7657b326d3cc9cee07ccc922345d291761a129697666056185b0e1e5ff06",
+    "MANIFEST.json": "077a7ed40b7291756b248f70c1e2bbf1b542df144838256f619c3ed5d3405b59",
+    "README.md": "541c5cdfddff47c4995f3598135e9321ba81750b479faa245a5ee02ae3880a27"
+  },
+  "civil_ledger": {
+    "first_day": 0,
+    "last_day": 905,
+    "unique_rows": 906,
+    "preceding_rows_preserved": 898,
+    "unassigned_day": 898,
+    "delta_days": {
+      "899": "Ailor",
+      "900": "Aithen",
+      "901": "Aiven",
+      "902": "Ailar",
+      "903": "Aiden",
+      "904": "Aiveth",
+      "905": "Ailor"
+    },
+    "elapsed_from_day_786": 119,
+    "inclusive": 120
+  },
+  "equipment_eln": {
+    "desk_and_stool": 3100,
+    "gold_plates": 60,
+    "engraving_equipment": 50,
+    "total": 3210,
+    "vaen_excluded": true
+  },
+  "cards": {
+    "GE-0057": [
+      "Red",
+      "Blue"
+    ],
+    "GE-0537": [
+      "Orange",
+      "Yellow",
+      "Green"
+    ],
+    "intersection": [],
+    "unused": "Violet",
+    "completion_day": 904
+  },
+  "certification": {
+    "day": 905,
+    "physical_cards": 2,
+    "score_vector": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      4,
+      4,
+      4,
+      3,
+      4,
+      4,
+      3,
+      4
+    ],
+    "sum": 54,
+    "maximum": 91,
+    "floor_of_mean": 4,
+    "rating": "Green",
+    "all_protected_allies_survive": true,
+    "source_of_limited_pseudo_healing": "Black Sprite"
+  },
+  "changed_link_occurrences_checked": 55,
+  "obsolete_current_workstation_assertions": 0,
+  "prior_checkpoint_and_workshop_004": "unchanged",
+  "tournament_institution": "unchanged",
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": []
+  },
+  "added": [
+    "CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLUE_ARC_005/VALIDATION.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/01_DAY_LEDGER_DELTA.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/02_VAEN_MERCHANT_AND_BASIN_ENGINEERING.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/03_HOME_CARDSMITH_WORKSTATION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/04_CERTIFICATION_AND_CONTINUITY.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/05_CODEX_PATCH_INSTRUCTIONS.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_005/README.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_005/ARC.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "README.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md"
+  ],
+  "deleted": []
+}

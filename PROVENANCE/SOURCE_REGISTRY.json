@@ -498,6 +498,17 @@
       "source_mapping": "CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLUE_ARC_004/VALIDATION.json",
       "scope": "Blue Arc through Day 899, robe enterprise, Fireball/Shield crosswalk and world-level King’s Tournament revision"
+    },
+    {
+      "id": "MK163_BLUE_ARC_DELTA_005_CLEAN",
+      "baseline": "6da43b67b59d5e74b965982dfb0bf5600d2ff7ce",
+      "archive": "MK163_BLUE_ARC_DELTA_005_CLEAN_CODEX_HANDOFF.zip",
+      "archive_sha256": "57c77471a4df28d02fe1b5615ac2d0867dc5d002aa663f19c647f6a3643c638b",
+      "source_root": "PROVENANCE/WORKSHOP/BLUE_ARC_005",
+      "manifest": "PROVENANCE/WORKSHOP/BLUE_ARC_005/MANIFEST.json",
+      "source_mapping": "CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLUE_ARC_005/VALIDATION.json",
+      "scope": "Personal Cardsmithing workstation, paired vaen fabrication and Day 905 Green Support certification"
     }
   ]
 }

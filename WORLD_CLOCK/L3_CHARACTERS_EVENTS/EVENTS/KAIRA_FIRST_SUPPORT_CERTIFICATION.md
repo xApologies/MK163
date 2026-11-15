@@ -1,8 +1,8 @@
-# Blue Arc · exam status at Day 899
+# Day 905 · Kaira earns Green Support Specialist
 
-Kaira chooses Support Specialist on Day 891. Her companions may contribute willingly to one assessed practitioner. At the Day 899 workshop frontier she has yet to sit the thirteen stations. The selected future scores [5,5,5,4,5,4,4,4,3,4,4,3,4] total 54/91. The floor of the mean is 4, Green. All protected allies survive. Her subsequent roughly three-week independent research expedition studies naturally forming ru’ne sigils in the Yellow and Green internal strata of the Blue Dungeon. Exam and contract dates remain OPEN.
+Kaira chooses Support on Day 891. On Day 905 she returns to the Blue Dungeon staging-area Crown Accord Registry with her completed Fireball and individual Shield. Nyx and the Black Sprite contribute voluntarily to Kaira’s single practitioner profile. She completes all thirteen stations and every projected protected ally survives. The floor of the mean score is 4, Green. She is now an independent aithren with no vaelum affiliation. The first contract, including the roughly three-week research expedition to study naturally forming ru’ne in the Blue Dungeon’s Yellow and Green internal strata, remains undated. Her selected expedition role is long-duration environmental protection. Party, pay, findings and later contracts remain OPEN.
 
-[Dated outline](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Authoritative ledger](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/13_DAYS_878_TO_899_AUTHORITATIVE_LEDGER.md)
+[Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Dated certification evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_005/04_CERTIFICATION_AND_CONTINUITY.md)
 
 ---
 
@@ -30,7 +30,7 @@ Kaira chooses Support Specialist on Day 891. Her companions may contribute willi
 All thirteen completed, no allied death. This is the **author-locked exact vector**, superseding the earlier illustrative `[5,5,5,4,5,4,4,4,3,4,3,3,3]` (52 total).
 
 ## Explanation
-- Kaira enters with 3 purpose-built Cards (Fireball, Resolution pseudo-healing, individual Genesis Shield), Nyx, and Black Sprite.
+- Kaira brings two physical Cards, Fireball and individual Genesis Shield. Nyx is independent family. The Black Sprite supplies their own limited Resolution/Coherence pseudo-healing and can contribute environmental stabilization. Neither companion receives a separate certification. Any later physical pseudo-healing Card, its fabrication date and its basin assignment remain OPEN.
 - Nyx and Sprite (humanoid combat form) provide extra offensive pressure in single-hostile trials; Fireball helps whittle down ELDRIS.
 - Exceptional Genesis-field sustainment and low fatigue, but limited dynamic shield integrity perception; she cannot yet feel when a shield anchored to an **ally's Genesis field** (not armor) is about to fail.
 - Black Sprite learns from Nyx's flower-energy sustenance and can provide limited Resolution/Coherence pseudo-healing of injured allied manifolds, mitigating some recorded trauma.

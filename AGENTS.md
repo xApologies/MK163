@@ -1,8 +1,8 @@
-# Current Blue Arc · Day 899
+# Current Blue Arc · Day 905
 
-Use the Blue capital geography and dates in the Blue Arc and ledger. Kaira rents her own Green District home on 818. Aiselle’s residence remains in the Blue District. The Day 865 gala and the two raeon placements precede the Day 891 Support selection. Day 899 opens the palace two-Card challenge. Preserve future exam and expedition status, the external AERA catalogue boundary, and all earlier source records. For the King’s Tournament use the revised world-level owner.
+Use the Blue capital geography and the dated Blue Arc outline. Kaira rents her Green District home on 818. Aiselle lives in the Blue District. After the 865 gala and the two raeon placements, Kaira chooses Support on 891. Her first personal Cardsmithing workstation is installed at home on 900. She completes Fireball and Shield on 904 and earns Green at the staging-area Registry on 905. The Black Sprite contributes their own limited pseudo-healing. Contract and expedition dates remain OPEN. Preserve earlier source records, the external AERA catalogue boundary and the revised world-level King’s Tournament rules.
 
-[Blue Arc](BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md) · [King’s Tournament](WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+[Blue Arc](BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Delta 005 integration](CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md) · [King’s Tournament](WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
 
 ---
 

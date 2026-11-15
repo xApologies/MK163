@@ -67,7 +67,7 @@ All prior bytes remain below. Only explicit scoped decisions above supersede ear
 
 
 
-By the settled Blue assessment Kaira uses limited Resolution pseudo-healing, not full Vaelith restorative topology. ELDRIS dust loss has no invented conversion rate. The complete Dragon capabilities and corrected realm emphases are now at [operational domains](../../L1_FANTASY/OPERATIONAL_DOMAINS.md). No change to book/bond order, conventional incompatibility, companion agency or Black Card retirement.
+At the Day 905 Blue assessment the Black Sprite contributes their own limited Resolution pseudo-healing. Full Vaelith restorative topology remains outside that ability. ELDRIS dust loss has no invented conversion rate. The complete Dragon capabilities and corrected realm emphases are now at [operational domains](../../L1_FANTASY/OPERATIONAL_DOMAINS.md). No change to book/bond order, conventional incompatibility, companion agency or Black Card retirement.
 
 Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
 

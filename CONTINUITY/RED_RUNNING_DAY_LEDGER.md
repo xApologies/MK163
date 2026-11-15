@@ -1,8 +1,8 @@
-# Book Red running ledger · Blue through Day 899
+# Book Red running ledger · Blue through Day 905
 
-Days 787–899 continue the 353-day civil calendar and six-day week after the graduation ceremony. Interval rows identify the scope of a plan when the author did not select an individual daily event. Day 899 opens the palace workshop challenge. Its outcome remains OPEN.
+Days 787–905 continue the 353-day civil calendar and six-day week after graduation. Interval rows distinguish selected plans from individual events. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
-[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Sources and reconciliation](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Sources and reconciliation](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md)
 
 ---
 
@@ -1043,8 +1043,14 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 895 | Aeveth | 2 | — | Aiven | Works on Resolution, bandwidth, persistence and basin constraints. |
 | 896 | Aeveth | 3 | — | Ailar | Revises topology and evaluates fabrication constraints. Another six-robe batch is due only if cadence holds. |
 | 897 | Aeveth | 4 | — | Aiden | Finishes the initial Shield notebook design. Physical fabrication still requires a station and materials. |
-| 898 | Aeveth | 5 | — | Aiveth | illi helps Kaira obtain access to the palace Master Cardsmith’s fabrication workstation. Her employment status is unchanged. |
-| 899 | Aeveth | 6 | — | Ailor | Palace workshop challenge. Kaira must source suitable vaen and Genesis Crystals for Fireball and Shield optimization. Shopping, material choices, testing, fabrication and results OPEN. |
+| 898 | Aeveth | 5 | — | Aiveth | Unassigned. |
+| 899 | Aeveth | 6 | — | Ailor | At the vaen merchant’s counter Kaira inspects four specimens and buys two reference/hybrid pairs. She drops them at her Green District apartment, then orders a native-blackwood desk and matching stool, four blank gold plates, precision engraving tools and chalk pencils. Delivery arranged. The equipment and furniture total 3,210 eln. [Specimens and itemized costs](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) |
+| 900 | Aeveth | 7 | — | Aithen | The furniture, plates and tools arrive. Kaira installs her first personally owned Cardsmithing workstation in her apartment and takes her seat on the matching stool. |
+| 901 | Aeveth | 8 | — | Aiven | Kaira lays out custom ru’ne fabrication sigils with chalk and begins engraving the gold by hand with a precision chisel and hammer. |
+| 902 | Aeveth | 9 | — | Ailar | Completes and inspects the preparatory engraving needed to start fabrication. |
+| 903 | Aeveth | 10 | — | Aiden | Begins making two ordinary operational Genesis Cards with her custom plates, paired vaen and Cardsmithing resources. Fireball redesign builds on her Blackstone Card. The individual Shield is new. |
+| 904 | Aeveth | 11 | — | Aiveth | Completes optimized Fireball (Red + Blue) and individual Genesis Shield (Orange + Yellow + Green). The two active sets are disjoint. Violet remains free. |
+| 905 | Aeveth | 12 | — | Ailor | Kaira returns with Nyx and the Black Sprite to the Blue Dungeon staging-area Crown Accord Registry. All 13 Support stations completed and every projected protected ally survives. Score 54/91, floor mean 4, Green Support Specialist. First contract and expedition dates OPEN. [Station scores](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

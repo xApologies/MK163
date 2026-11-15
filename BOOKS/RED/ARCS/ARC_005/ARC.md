@@ -10,7 +10,7 @@ Turn formal training and childhood interest in delving into an independent pract
 
 After Blackstone graduation on Day 786, Kaira stays with Aiselle in the Blue District of the Blue Domain capital through Day 817. On Day 818 she moves into her own rented Green District apartment in that capital with Nyx and the Black Sprite.
 
-## From graduation to the palace workshop
+## From graduation to Green Support certification
 
 | Days | Selected beats |
 |---|---|
@@ -23,9 +23,13 @@ After Blackstone graduation on Day 786, Kaira stays with Aiselle in the Blue Dis
 | 891 | Familiar staging-area Registry staff refer Kaira to the examination administrator. Of the four roles she chooses Support Specialist. Companions may contribute voluntarily to her single assessment. |
 | 892–894 | Shield design begins on 892. Day 893 addresses geometry and topology. Day 894 fixes the protected individual’s Genesis field as the point of attachment. |
 | 895–897 | Resolution, bandwidth, persistence and basin constraints on 895. Revised topology and fabrication constraints on 896. Initial notebook design complete on 897. |
-| 898–899 | illi secures workstation access on 898. On 899 suitable vaen and Genesis Crystals must be found for two compatible Cards. Material selection, cost, testing and outcome remain OPEN. |
+| 899 | Kaira buys four vaen after counter projection and orders blackwood furniture, four gold plates and engraving tools for her Green District apartment. |
+| 900 | Delivery and installation. Sitting at her own blackwood desk marks her first independent professional workspace, paid for by robe work. |
+| 901–902 | On 901 she chalks and manually engraves custom ru’ne sigils. On 902 she finishes and inspects enough plate work to begin manufacture. |
+| 903–904 | Manufacture starts on 903. On 904 both the optimized Fireball and new individual Genesis Shield are complete. |
+| 905 | With Nyx and the Black Sprite, Kaira completes all thirteen Support Specialist stations at the Blue Dungeon staging-area Crown Accord Registry. Every projected protected ally survives. She earns Green, 54/91. |
 
-Kaira’s existing Blackstone Fireball honors her Cardsmith mother, whose Fireball Card aided survival during the Red Arc Genesis collapse. Her Fireball target is GE-0057, Red + Blue. Her individual Shield target is GE-0537, Orange + Yellow + Green. Violet remains free in the proposed pair. The limited Resolution/Coherence pseudo-healing Card’s basins are OPEN.
+Kaira’s existing Blackstone Fireball honors her Cardsmith mother, whose Fireball Card aided survival during the Red Arc Genesis collapse. Her completed Fireball (GE-0057) uses Red + Blue and her individual Shield (GE-0537) uses Orange + Yellow + Green. Violet remains free. The Black Sprite supplies limited Resolution/Coherence pseudo-healing at the exam. Any future Card for that ability and its basin assignment remain OPEN.
 
 At the Day 865 gala, Aiselle, Princess illi and Kaira travel together from Aiselle’s residence with Nyx and the Black Sprite. Each wears her own original robe. Aiselle introduces Kaira to guests and illi gives her social support. Vael belittles Kaira, Nyx growls, and the Sprite flicks a small magical expression. Vael withdraws and the evening ends pleasantly. Other sprites approach the Black Sprite directly. An unidentified unicorn recognizes Kaira as the Black Singularity. The unicorn’s identity, any connection to the Yellow scholar and who heard the recognition remain OPEN.
 
@@ -67,19 +71,10 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 - The Guardian controls/occupies the hostile ELDRIS; a skilled Support Specialist controls battlefield conditions, protective fields, terrain, positioning, and opportunities.
 - No independent vaelum membership is established for Kaira at this point: she begins as a **free agent / independent aithren**.
 
-## Examination and expedition outline · future at Day 899
+## Day 905 · first Support Specialist examination
 
-The examination date and first expedition date remain OPEN. The thirteen-station result and later contracts below are selected future outline.
+Kaira reviewed her Blackstone Card portfolio at home after choosing Support on Day 891. She enters the staging-area Registry examination with her two completed Cards. Fireball supplies limited direct offense and pressure. The individual Shield attaches to the protected person’s Genesis field and can protect an ally or Kaira herself. Nyx and the Black Sprite join voluntarily. Their contributions count toward Kaira’s single practitioner assessment. The Sprite’s own limited Resolution/Coherence pseudo-healing can mitigate injuries, alongside their ability to provide environmental stabilization.
 
-1. Following her commercial dealings, Kaira visits the staging-area Accord Registry for career assessment on Day 891 and chooses Support Specialist.
-2. She returns to her Green District home and reviews her basic Blackstone student Card portfolio.
-3. She constructs/prepares three **purpose-built dungeon Cards**:
-   - **Fireball Genesis Card:** limited direct offensive contribution and opportunistic finishing/pressure.
-   - **Resolution-based pseudo-healing Card:** limited Resolution/Coherence-related restorative assistance tied to the Black Sprite's developing abilities; NOT broad Helkir biological restoration.
-   - **Individual Genesis Shield Card:** target-applied protective Genesis-field structure for allies or Kaira.
-4. She arrives for the Support Specialist examination with those three Cards, Nyx, and the Black Sprite.
-
-## Future examination and fieldwork · capabilities and constraints
 - Kaira can sustain Genesis shields for exceptionally long periods, with **comparatively slow fatigue accumulation**; this is a major natural advantage.
 - **Access and endurance are not competency or mastery.** She struggles with dynamically monitoring and managing multiple shields under combat pressure.
 - A Genesis Shield attaches to the **protected individual's Genesis field, not their armor**. Shield condition cannot simply be inferred from armor appearance.
@@ -87,10 +82,14 @@ The examination date and first expedition date remain OPEN. The thirteen-station
 - Nyx contributes offensive combat pressure and his native ability involving manifested flowers from which he gains energy.
 - The Black Sprite learns from Nyx's energy-gathering behavior and develops limited Resolution-based pseudo-healing, which can restore some allied manifold damage.
 - In combat the Sprite can take a **humanoid form** and act as an offensive combatant; Nyx also contributes offensively. Both remain independent; Nyx is family, not one of the Black bonds.
-- Kaira uses Fireball to help whittle down projected ELDRIS, shields to prevent damage, and limited pseudo-healing to mitigate injuries.
+- Kaira uses Fireball against projected ELDRIS and shields to prevent damage. The Black Sprite provides limited pseudo-healing to mitigate injuries.
 - She performs strongly in the **six one-ally/one-ELDRIS** trials, often around Green or Blue. She struggles increasingly in **four group** and **three full-party** trials because she lacks broader battlefield manipulation and advanced multi-target shield management.
 - She completes the exam, all protected allies survive, and earns a **Green Support Specialist certification**, narrowly above Yellow. She is excited and proud; this is a strong entry-level result for a novice.
 - See [the exact 13-station score ledger](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and [the four examinations](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
+
+## Future independent contracts and fieldwork
+
+The first contract and expedition remain undated.
 
 - Newly certified Green Support Specialist Kaira returns to the Accord Registry to review job postings as an independent aithren.
 - She accepts/is drawn into a **roughly three-week research expedition** into the Blue Dungeon, with planned descent through Red and Orange into the **Yellow and Green internal strata** of the Blue Dungeon.
@@ -102,7 +101,7 @@ The examination date and first expedition date remain OPEN. The thirteen-station
 
 - After her first contract, the **Blue Arc** follows Kaira through additional dungeon-delving contracts and exploration, rather than a single mission.
 - She is a working independent aithren and a developing Cardsmith, learning to apply classroom knowledge to practical field needs.
-- Repeated field experience drives iterative refinement of her three foundational Cards:
+- Repeated field experience develops the two Cards and her work with the Sprite across three capabilities:
   1. **Fireball:** improved construction and appropriate offensive application.
   2. **Resolution pseudo-healing:** improved understanding of Resolution/Coherence-based limited restoration, together with the Black Sprite's developing competency.
   3. **Genesis Shield:** improved design, sustained protection, structural integrity perception, and dynamic management across allies.
@@ -115,7 +114,7 @@ The examination date and first expedition date remain OPEN. The thirteen-station
 
 ## Future exit state
 
-After the first research contract and additional contracts, Kaira refines her three working Cards. No vaelum membership or later promotion yet.
+The first research expedition and subsequent contracts give Kaira opportunities to refine the Fireball and Shield and develop her work with the Sprite. Whether she later fabricates a physical pseudo-healing Card remains OPEN. No vaelum membership or later promotion yet.
 
 ## Dependencies
 

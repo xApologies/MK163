@@ -1,8 +1,10 @@
-# Blue Arc · open at Day 899
+# Blue Arc · open after the Day 905 certification
 
-Palace workstation access is selected. Availability and selection of vaen and Genesis Crystals, exact recipe, prices, assistance, time, successful compression, power requirements and fabrication remain OPEN. The pseudo-healing Card’s basins, exam date, expedition date and any new commission remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases/Registry management terms, shipment quantity, and unsettled tournament procedures remain open at their respective owners.
+The four vaen specimens’ species, size, prices and preprocessing remain OPEN. Other open engineering details include the wood species, plate dimensions, sigil geometry, crystal quantities and placement, precise stabilization, quantitative conversion thresholds, losses, energy costs and measured performance. Any later physical pseudo-healing Card, its fabrication date and its basins remain OPEN.
 
-[Card designs](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md)
+The first contract and research expedition have no selected dates, party, pay or discoveries. Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
+
+[Engineering](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Examination](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md)
 
 ---
 

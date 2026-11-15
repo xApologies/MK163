@@ -1,8 +1,8 @@
-# Current Blue Arc · palace workshop, Day 899
+# Blue Arc · Green Support certification on Day 905
 
-The post-graduation Blue capital outline now reaches the planned Fireball/Shield engineering challenge. The world-level King’s Tournament revision governs the kingdom championship. The robe enterprise has three operations across two cities.
+At her Green District apartment Kaira uses interchangeable engraved gold plates to fabricate two ordinary Genesis Cards. The Day 905 certification records the completed thirteen-station assessment. Her first independent research contract remains undated. The revised King’s Tournament rules and three robe operations across two cities remain at their existing owners.
 
-[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Integration and reverse diff](../CHECKPOINTS/BLUE_ARC_004/INTEGRATION_REPORT.md) · [Cardsmithing](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Robe enterprise](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [King’s Tournament](L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Delta 005 integration](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md) · [Cardsmithing and vaen engineering](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Certification and station scores](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Robe enterprise](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [King’s Tournament](L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
 
 ---
 

@@ -1,17 +1,41 @@
-# Blue Arc · Fireball and individual Genesis Shield
+# Blue Arc · paired vaen and Kaira’s home Cardsmithing workstation
 
-Kaira’s existing Blackstone Fireball carries forward her mother’s Cardsmith legacy. The Shield notebook is complete on Day 897. Day 898 grants time at the Crown palace Master Cardsmith’s station. On Day 899 the two designs remain engineering targets.
+Kaira’s Shield notebook is complete on Day 897. Her Fireball redesign builds on her existing Blackstone Card and its connection to her mother’s Cardsmithing. Both ordinary operational Cards are completed on Day 904.
 
-| Card | Shaping in external catalogue | Provisional baseline | Selected target |
-|---|---|---|---|
-| Fireball | GE-0057 Detonating Combustion Orb | Red + Orange + Blue | Red + Blue, removing Orange |
-| Individual Genesis Shield | GE-0537 Absorption Shield | Orange + Yellow + Green + Blue | Orange + Yellow + Green, removing Blue |
+### Selecting vaen at the counter
 
-A Shaping is an operation. A Binding supplies an interface and a Genesis Card implements the operation within Conceive → Shape → Hold → Resolve → Manifest → Release. The catalogue’s basin assignments for previously unassigned Bindings are provisional heuristics. The design would occupy five distinct basins, leaving Violet free, subject to capacity, fatigue and ordinary exclusivity. The three-basin shield attaches to the protected individual’s Genesis field. A possible two-basin shield belongs to speculative senior practice. Reduced basin count alone establishes neither energy savings nor improved output.
+Single-basin vaen are shelved by their one known basin, Red through Violet. Hybrids are shelved by primary basin within the hybrid inventory, even when they interact with additional basins. For example, a Green-primary hybrid with Red and Orange secondary belongs on the hybrid Green shelf. A merchant’s counter may span about 12 feet, with glass displays and an embedded Genesis-field inspection sigil at the central checkout. The customer places one specimen on the sigil. The merchant activates it and a coupled projection shows its existing topology and primary and secondary interactions. Interpreting this non-destructive inspection takes expertise. Compatibility still has to be established in the Card.
 
-Kaira must find suitable vaen and Genesis Crystals and test whether each dependency can be removed while preserving behavior. Availability, prices, materials, recipe, timing, mentor assistance, actual fabrication and performance remain OPEN. Her third examination Card provides limited Resolution/Coherence pseudo-healing. Its basin assignment and any use of Violet remain OPEN. The separate AERA_GENESIS_SHAPINGS_CHECKPOINT_001_REISSUED.zip catalogue contains 1,245 Shapings and six single-basin access Cards according to the supplied crosswalk. The original catalogue is an external dependency.
+On Day 899 Kaira inspects each of these four specimens before purchase.
 
-[Author’s crosswalk and source limits](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/14_CARD_ENGINEERING_AND_SOURCE_CROSSWALK.md) · [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md)
+| Card and catalogue Shaping | Single-basin reference | Hybrid primary and secondaries | Provisional baseline | Active basins realized on Day 904 |
+|---|---|---|---|---|
+| Fireball · GE-0057 Detonating Combustion Orb | Orange only | Orange primary, Red + Blue secondary | Red + Orange + Blue | Red + Blue |
+| Individual Genesis Shield · GE-0537 Absorption Shield | Blue only | Blue primary, Orange + Yellow + Green secondary | Orange + Yellow + Green + Blue | Orange + Yellow + Green |
+
+In Kaira’s paired-vaen design the single-basin specimen supplies the topology and density reference for the bypassed basin. The hybrid couples that reference to the retained active connections. Inside the prepared manifold, the retained basins supply energy that is concentrated and structurally stabilized to emulate the missing contribution as **local pseudo-basin density**. The vaen serve as anchors. The bypassed personal basin supplies no energy and remains unoccupied by that Card. This is the selected in-world mechanism for these designs. General compressibility, exact equations and quantitative conversion thresholds remain OPEN.
+
+The completed pair can operate together under ordinary exclusivity. Their five active basins leave Violet free. Bandwidth, fatigue, energy draw, throughput, integrity, admissibility and control still limit use. Reduced basin count alone establishes no energy saving. The Shield attaches to an individual’s Genesis field. A possible two-basin Shield belongs to speculative senior practice. The four-basin Blue-primary hybrid is comparatively specialized. Vaen species, sizes, botanical identity, preprocessing and prices remain OPEN.
+
+### Workstation at the Green District apartment
+
+Day 899 equipment purchases total **3,210 eln**, separate from vaen and consumables.
+
+| Purchase | Cost |
+|---|---:|
+| Thick native-blackwood desk and matching blackwood stool | 3,100 eln |
+| Four blank square gold sigil plates at 15 eln each | 60 eln |
+| Professional precision engraving chisels, hammers, chalk pencils and accessories | 50 eln |
+
+The naturally black hardwood desk has an orthogonal inverted-U profile, a thick rectangular top and two full slab sides with open space beneath. It has no drawers, conventional legs or crossbar. The timber species is OPEN. Delivery and installation are on Day 900. At her matching stool, Kaira has her first personally owned professional workspace and her first major luxury furnishing beyond her self-made robe, funded by her robe business.
+
+Gold is phase-field growable in AERA, and its softness suits manual engraving. Underside mass-reduction stamps are possible. Plate size and thickness remain OPEN. On Days 901–902 Kaira marks the removable plates with chalk pencils, engraves custom physical ru’ne sigils by hand with chisel and hammer, and inspects the preparatory work. The interchangeable plates supply purpose-specific apparatus. The separate maege-glass Card substrate carries the persistent encoded manifold. The professional workbench process below still uses a central Card anchor, resource anchors, coupled projection, practitioner styluses and stabilization. Kaira works by the assisted route with paired vaen on Days 903–904. Crystal quantities, placement, material slots, exact geometry, stabilization steps, intermediate attempts, losses and measured performance remain OPEN.
+
+### Catalogue and lifecycle
+
+A Shaping is an operation. A Binding supplies an interface, and the operational Genesis Card implements the operation through Conceive → Shape → Hold → Resolve → Manifest → Release. The two IDs refer to the external AERA_GENESIS_SHAPINGS_CHECKPOINT_001_REISSUED.zip catalogue of 1,245 Shapings and six single-basin access Cards. Its baseline assignments are provisional heuristics. The realized designs establish these two MK163 outcomes. The Black Sprite supplies their own limited pseudo-healing at the first examination. Any later physical Card for that ability, its date and basin assignment remain OPEN.
+
+[Vaen inventory and mechanism](../../../PROVENANCE/WORKSHOP/BLUE_ARC_005/02_VAEN_MERCHANT_AND_BASIN_ENGINEERING.md) · [Workshop evidence and prices](../../../PROVENANCE/WORKSHOP/BLUE_ARC_005/03_HOME_CARDSMITH_WORKSTATION.md) · [Original catalogue crosswalk](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/14_CARD_ENGINEERING_AND_SOURCE_CROSSWALK.md) · [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md)
 
 ---
 

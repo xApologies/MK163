@@ -1,6 +1,6 @@
 # Book Red championship · seven finalists
 
-After Green qualifiers, three Blue regional races per domain and eight kingdom-wide Violet points races, seven teams overall reach the separate ninth Violet Dungeon. The final race sets placement. Kaira’s fourth/Green finish at the end of Book Red and her Dimensional Ring prize stand. The Day 871 and 877 raeon results and the future Green Support certification are separate events. Vael’s training establishes no qualification or team.
+After Green qualifiers, three Blue regional races per domain and eight kingdom-wide Violet points races, seven teams overall reach the separate ninth Violet Dungeon. The final race sets placement. Kaira’s fourth/Green finish at the end of Book Red and her Dimensional Ring prize stand. The Day 871 and 877 raeon results and the Day 905 Green Support certification are separate events. Vael’s training establishes no qualification or team.
 
 [Current institutional rules](../../L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Revision](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md)
 
