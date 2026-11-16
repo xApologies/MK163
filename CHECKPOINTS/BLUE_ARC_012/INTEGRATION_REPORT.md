@@ -2,6 +2,8 @@
 
 The supplied reissue, **MK163_Blue_Arc_Checkpoint_012_REISSUED.zip**, was integrated against MK163 main at `d45a37d0a3037eba6c3fc84b7632e68ab9132c6b`. The previously published ledger ended on Day 931 at Checkpoint 006. The active outline now reaches **Day 1049, Aerith 27, Ailor**. Day 1050 is Aithen and has no selected event. [Validation results, source hashes and changed paths](VALIDATION.json)
 
+Integration commit [b6706dd29ec757234976f840deba6fa8a6336f31](https://github.com/xApologies/MK163/commit/b6706dd29ec757234976f840deba6fa8a6336f31) adds 18 files and modifies 20. This receipt records the integration commit after Git assigned its SHA.
+
 ## Coverage, authority and changes
 
 | Supplied records | Difference from the previous owners | Current owner |
