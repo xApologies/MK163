@@ -2,6 +2,8 @@
 
 Days 787–1049 continue the six-day week and 353-day civil calendar after graduation. The three Blue Dungeon expeditions close on Days 943, 999 and 1049. Day 1049 is Ailor. Day 1050 is Aithen and has no selected event. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
+**Day 1021 supersession.** The author canceled Kaira’s tournament participation and the Blue placement recorded for that day in Calendar Repair 013. The placement has no replacement date.
+
 [Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Research](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Blue mineral vaen](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) · [Yellow cavern](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Checkpoint 012 sources](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md) · [Repair 013](../CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md)
 
 ---
@@ -1166,7 +1168,7 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 1018 | Aelor | 29 | — | Aiveth | Ordinary day. |
 | 1019 | Aelor | 30 | — | Ailor | Visits Crown Accord Registry and applies to **three** expeditions, including seven-member vaelum's Yellow-stratum ELDRIS/Dust/Crystal harvesting contract. No immediate acceptance yet. |
 | 1020 | Aelor | 31 | — | Aithen | With three applications pending, Kaira travels to the Violet royal capital for the King’s raeon salon. The result remains OPEN. |
-| 1021 | Aelor | 32 | — | Aiven | Kaira returns from Violet to the Blue capital before the local card-shop raeon tournament and places Blue again. Travel and tournament times are OPEN. |
+| 1021 | Aelor | 32 | — | Aiven | Kaira returns from the Violet royal capital to the Blue Domain capital following the King's Day 1020 raeon salon. She does not participate in the local card-shop tournament. |
 | 1022 | Aelor | 33 | — | Ailar | Applications pending; activities OPEN. |
 | 1023 | Aerith | 1 | — | Aiden | Applications pending. Ordinary life or preparation. |
 | 1024 | Aerith | 2 | — | Aiveth | Applications pending. Ordinary life or preparation. |

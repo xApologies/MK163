@@ -2,7 +2,7 @@
 
 The prices and biological identities of the crafting vaen, gold plate dimensions, wood species, crystal quantities, engineering geometry, material losses, consumption and measured performance remain OPEN. Day 904 and Day 1016 each have a completed pair. Any physical pseudo-healing Card, its date and its basins remain OPEN.
 
-The three expedition closeouts are dated. First-trip payment and research findings, second-trip mineral yields, third-trip recovered weights and actual payout, the other accepted Day 1025 contract, injuries beyond the selected fatality, and later consequences remain OPEN. Fourth and possible fifth contracts are unselected. Violet depth, exact Yellow cavern coordinates and the cause of its exceptional density remain open. The Day 1020 salon result, the exact times of the return journey and local tournament on 1021, and a possible Elaira visit during 1026–1029 remain OPEN.
+The three expedition closeouts are dated. First-trip payment and research findings, second-trip mineral yields, third-trip recovered weights and actual payout, the other accepted Day 1025 contract, injuries beyond the selected fatality, and later consequences remain OPEN. Fourth and possible fifth contracts are unselected. Violet depth, exact Yellow cavern coordinates and the cause of its exceptional density remain open. The Day 1020 salon result and a possible Elaira visit during 1026–1029 remain OPEN.
 
 Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
 
