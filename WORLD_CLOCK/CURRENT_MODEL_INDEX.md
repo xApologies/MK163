@@ -1,8 +1,8 @@
-# Blue Arc · Green Support certification on Day 905
+# Blue Arc · first expedition completed on Day 931
 
-At her Green District apartment Kaira uses interchangeable engraved gold plates to fabricate two ordinary Genesis Cards. The Day 905 certification records the completed thirteen-station assessment. Her first independent research contract remains undated. The revised King’s Tournament rules and three robe operations across two cities remain at their existing owners.
+At her Green District apartment Kaira uses interchangeable engraved gold plates to fabricate two ordinary Genesis Cards. The Day 905 certification records the completed thirteen-station assessment. She serves as environmental Support on the first Blue Dungeon research contract and receives payment and favorable Registry feedback on Day 931. The amount and any subsequent contracts remain open. The revised King’s Tournament rules and three robe operations across two cities remain at their existing owners.
 
-[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Delta 005 integration](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md) · [Cardsmithing and vaen engineering](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Certification and station scores](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Robe enterprise](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [King’s Tournament](L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [First expedition](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 integration](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md) · [Cardsmithing and vaen engineering](L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Certification and station scores](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Robe enterprise](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [King’s Tournament](L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md)
 
 ---
 

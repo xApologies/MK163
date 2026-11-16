@@ -1,8 +1,8 @@
-# Blue Arc · after graduation through Day 905
+# Blue Arc · after graduation through Day 931
 
-Graduation closes Green on Day 786. Kaira moves into her own home on 818, attends the gala on 865, places fourth and second in raeon on 871 and 877, and chooses Support on 891. She installs her home workstation on 900 and finishes Fireball and Shield on 904. On 905 she earns Green Support Specialist with all protected allies surviving. The first contract and Blue Dungeon research expedition remain undated.
+Graduation closes Green on Day 786. Kaira moves into her own home on 818, attends the gala on 865, places fourth and second in raeon on 871 and 877, and chooses Support on 891. She installs her home workstation on 900 and finishes Fireball and Shield on 904. On 905 she earns Green Support Specialist with all protected allies surviving. She applies after the exam. The Registry selects her on Day 908. The Blue Dungeon expedition departs on 913 and closes on 931 with payment and a favorable dossier entry.
 
-[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Delta 005 integration](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [First expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 integration](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
 
 ---
 
@@ -221,7 +221,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
 - **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
 - **RED-004 Green:** Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
-- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, then a future research contract and field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
+- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, first research contract completed on Day 931, then prospective contracts and field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
 - **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
 - **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).
 

@@ -27,6 +27,8 @@ Each family has its own **three-dimensional metal-and-gem structural geometry**,
 
 Gemstone color expresses rank; metal framework geometry expresses family; Registry record expresses specialization and person. **Kaira's badge: Craftsmanship geometry + internal diamond = White Chainmail Armorsmith**. This is a physical credential, not a symbol of White Transduction proficiency.
 
+On Day 905 Kaira buys a second professional badge for 20 eln after earning Green Support Specialist. The Transduction family geometry carries an emerald for Green. The Registry records her Support specialization. [Dated certification](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md).
+
 ## 6. Badge manufacture — APPROVED
 A complex **sigil system grows the integrated metal-and-gem object through a phase field**, consistent with AERA material/element growth and the ahm currency design language. The outer structure and internal gem are produced as an integrated, prescribed artifact rather than manually assembling a generic pin. The detailed sigil equations, growth timing, source materials, cost, counterfeiting controls, further fastening details, and whether every branch manufactures badges on-site remain OPEN. No invented mechanisms beyond the user's stated phase-field growth.
 

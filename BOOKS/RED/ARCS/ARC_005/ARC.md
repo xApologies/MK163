@@ -87,19 +87,23 @@ Kaira reviewed her Blackstone Card portfolio at home after choosing Support on D
 - She completes the exam, all protected allies survive, and earns a **Green Support Specialist certification**, narrowly above Yellow. She is excited and proud; this is a strong entry-level result for a novice.
 - See [the exact 13-station score ledger](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and [the four examinations](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
 
-## Future independent contracts and fieldwork
+## First independent contract · completed Day 931
 
-The first contract and expedition remain undated.
+| Days | Selected beats |
+|---|---|
+| 905–908 | After certification Kaira buys her emerald Transduction badge for 20 eln and applies at the staging-area Registry help desk for research Support work. She waits at home on 906–908. The missive confirming her place arrives on 908. |
+| 909–912 | Kaira practices her individual Shield on Nyx and the Black Sprite. The Sprite observes and learns their own form of environmental protection. |
+| 913–917 | Kaira reports, meets the party and enters the Blue Dungeon on 913. Five days are allocated to outbound travel, through Red and Orange toward the study sites. |
+| 918–921 and 922–925 | Four days of natural ru’ne research in the Yellow stratum, followed by four in Green. Kaira protects researchers and staff from environmental Genesis-field pressure. The Sprite’s sustained shielding relieves other support personnel and Nyx helps against ELDRIS. |
+| 926–930 | Five days are allocated to the return journey. |
+| 931 | The party surfaces. The research leader signs off at the Registry, Kaira is paid and her dossier receives a favorable evaluation. |
 
-- Newly certified Green Support Specialist Kaira returns to the Accord Registry to review job postings as an independent aithren.
-- She accepts/is drawn into a **roughly three-week research expedition** into the Blue Dungeon, with planned descent through Red and Orange into the **Yellow and Green internal strata** of the Blue Dungeon.
-- The research group seeks to investigate **naturally forming ru’ne structures / sigils** known in those Yellow and Green strata. This research destination is **unrelated to Kaira's Green professional rating**.
-- Kaira serves as **environmental sustainment Support** rather than dedicated combat healing: she uses protective Genesis-field structures to prevent/reduce harm from domain environmental pressure, energies and other hazards affecting the bodies of researchers and staff.
-- Her unusual long-duration shield sustainment is particularly useful here, though recognizing environmental shield degradation remains a learning challenge.
-- This is an extended research mission, not a single combat encounter. Researchers' names, party composition, exact phenomena, pay, and field discoveries remain OPEN.
-- This contract broadens the practical meaning of Support: protecting the expedition against ongoing environmental stress can be as important as supporting active combat.
+Her long-duration shield sustainment serves the expedition even in secured areas. Recognizing shield degradation and controlling several targets remain skills she is developing. The researchers notice her Chainmail Robe and recognize her as its creator. She earns their regard as an inventor and as a Green Support Specialist. Party names, findings and the sum paid remain OPEN. [First expedition record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md)
 
-- After her first contract, the **Blue Arc** follows Kaira through additional dungeon-delving contracts and exploration, rather than a single mission.
+## Prospective contracts and field refinement
+
+Kaira enjoys delving and wants three or four more assignments with groups harvesting vaen or Genesis crystals, or focusing on ELDRIS. Subsequent contracts, dates, pay and results remain OPEN.
+
 - She is a working independent aithren and a developing Cardsmith, learning to apply classroom knowledge to practical field needs.
 - Repeated field experience develops the two Cards and her work with the Sprite across three capabilities:
   1. **Fireball:** improved construction and appropriate offensive application.

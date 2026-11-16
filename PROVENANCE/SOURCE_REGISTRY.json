@@ -509,6 +509,16 @@
       "source_mapping": "CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLUE_ARC_005/VALIDATION.json",
       "scope": "Personal Cardsmithing workstation, paired vaen fabrication and Day 905 Green Support certification"
+    },
+    {
+      "id": "MK163_BLUE_ARC_DELTA_006_REPRODUCED",
+      "baseline": "c19f06a3a3ab7e900f0cb0a8dc03a1b661930525",
+      "archive": "MK163_BLUE_ARC_DELTA_006_REPRODUCED.zip",
+      "archive_sha256": "4a2c9ac3628d63b376d955c043d89f59f900cd7cb5d19b1a002599ad173d8112",
+      "source_root": "PROVENANCE/WORKSHOP/BLUE_ARC_006",
+      "source_mapping": "CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLUE_ARC_006/VALIDATION.json",
+      "scope": "Day 905 badge and application, first Blue Dungeon research expedition and Day 931 closeout"
     }
   ]
 }

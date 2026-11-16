@@ -1,10 +1,10 @@
-# Blue Arc · open after the Day 905 certification
+# Blue Arc · open after the Day 931 expedition
 
 The four vaen specimens’ species, size, prices and preprocessing remain OPEN. Other open engineering details include the wood species, plate dimensions, sigil geometry, crystal quantities and placement, precise stabilization, quantitative conversion thresholds, losses, energy costs and measured performance. Any later physical pseudo-healing Card, its fabrication date and its basins remain OPEN.
 
-The first contract and research expedition have no selected dates, party, pay or discoveries. Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
+The first expedition closed on Day 931. Its payment amount, leader, party composition, detailed route and scientific findings remain OPEN. Kaira wants three or four further harvesting or ELDRIS-focused contracts. Their identities, dates, pay and results remain OPEN. Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
 
-[Engineering](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Examination](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md)
+[Engineering](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Examination](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
 
 ---
 

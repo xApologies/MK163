@@ -1,8 +1,8 @@
-# Book Red running ledger · Blue through Day 905
+# Book Red running ledger · Blue through Day 931
 
-Days 787–905 continue the 353-day civil calendar and six-day week after graduation. Interval rows distinguish selected plans from individual events. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
+Days 787–931 continue the 353-day civil calendar and six-day week after graduation. Interval rows distinguish selected plans from individual events. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
-[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Sources and reconciliation](../CHECKPOINTS/BLUE_ARC_005/INTEGRATION_REPORT.md)
+[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [First research expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 audit](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
 
 ---
 
@@ -1050,7 +1050,33 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 902 | Aeveth | 9 | — | Ailar | Completes and inspects the preparatory engraving needed to start fabrication. |
 | 903 | Aeveth | 10 | — | Aiden | Begins making two ordinary operational Genesis Cards with her custom plates, paired vaen and Cardsmithing resources. Fireball redesign builds on her Blackstone Card. The individual Shield is new. |
 | 904 | Aeveth | 11 | — | Aiveth | Completes optimized Fireball (Red + Blue) and individual Genesis Shield (Orange + Yellow + Green). The two active sets are disjoint. Violet remains free. |
-| 905 | Aeveth | 12 | — | Ailor | Kaira returns with Nyx and the Black Sprite to the Blue Dungeon staging-area Crown Accord Registry. All 13 Support stations completed and every projected protected ally survives. Score 54/91, floor mean 4, Green Support Specialist. First contract and expedition dates OPEN. [Station scores](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) |
+| 905 | Aeveth | 12 | — | Ailor | Kaira returns with Nyx and the Black Sprite to the Blue Dungeon staging-area Crown Accord Registry. All 13 Support stations completed and every projected protected ally survives. Score 54/91, floor mean 4, Green Support Specialist. [Station scores](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) After the examination Kaira buys her emerald Green Support Specialist Transduction badge for 20 eln. At the Crown Accord Registry help desk she reviews vaelum, harvesting and research openings and applies for the research Support vacancy. |
+| 906 | Aeveth | 13 | — | Aithen | Kaira waits at home for a response to her research application. |
+| 907 | Aeveth | 14 | — | Aiven | Continues waiting at home for the Registry response. |
+| 908 | Aeveth | 15 | — | Ailar | At home Kaira receives the Registry missive confirming selection for the research group. Departure is five days later. |
+| 909 | Aeveth | 16 | — | Aiden | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
+| 910 | Aeveth | 17 | — | Aiveth | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
+| 911 | Aeveth | 18 | — | Ailor | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
+| 912 | Aeveth | 19 | — | Aithen | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
+| 913 | Aeveth | 20 | — | Aiven | Kaira reports to the Registry, meets the party and departs into the Blue Dungeon. First day of the outbound allocation. A final Shield practice today is possible. |
+| 914 | Aeveth | 21 | — | Ailar | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
+| 915 | Aeveth | 22 | — | Aiden | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
+| 916 | Aeveth | 23 | — | Aiveth | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
+| 917 | Aeveth | 24 | — | Ailor | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
+| 918 | Aeveth | 25 | — | Aithen | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 919 | Aeveth | 26 | — | Aiven | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 920 | Aeveth | 27 | — | Ailar | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 921 | Aeveth | 28 | — | Aiden | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 922 | Aeveth | 29 | — | Aiveth | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 923 | Aeveth | 30 | — | Ailor | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 924 | Aeveth | 31 | — | Aithen | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 925 | Aesith | 1 | — | Aiven | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
+| 926 | Aesith | 2 | — | Ailar | Inbound travel allocation. Detailed route and encounters OPEN. |
+| 927 | Aesith | 3 | — | Aiden | Inbound travel allocation. Detailed route and encounters OPEN. |
+| 928 | Aesith | 4 | — | Aiveth | Inbound travel allocation. Detailed route and encounters OPEN. |
+| 929 | Aesith | 5 | — | Ailor | Inbound travel allocation. Detailed route and encounters OPEN. |
+| 930 | Aesith | 6 | — | Aithen | Inbound travel allocation. Detailed route and encounters OPEN. |
+| 931 | Aesith | 7 | — | Aiven | The expedition surfaces and completes its return. The leader signs off on participants at the Accord Registry. Kaira collects her contracted payment (amount OPEN), receives favorable feedback in her dossier and intends to seek further work. [Completed first expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

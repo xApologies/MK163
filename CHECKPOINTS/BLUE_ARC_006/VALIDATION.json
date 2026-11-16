@@ -1,0 +1,126 @@
+{
+  "status": "PASS",
+  "baseline": "c19f06a3a3ab7e900f0cb0a8dc03a1b661930525",
+  "archive": "MK163_BLUE_ARC_DELTA_006_REPRODUCED.zip",
+  "archive_sha256": "4a2c9ac3628d63b376d955c043d89f59f900cd7cb5d19b1a002599ad173d8112",
+  "zip_crc": "PASS",
+  "source_manifest_supplied": false,
+  "locally_computed_member_sha256": {
+    "01_CHRONOLOGY.md": "9502bc21ef5a75304abf4585d3277e856826d32d64d2ed3b8f3fe4db7c603aac",
+    "02_RESEARCH_EXPEDITION.md": "1bb0ddf40840d8caa78ef644335fab9169bb99080f744cf3d6c6a17b172218df",
+    "03_CODEX_INTEGRATION.md": "b07e38ed786eaa6bdf7b6d24de44664e0adb6b77f1563f85455addc306bb11f4",
+    "README.md": "066344f3843a656a9b44077a209b3c83c1b7fdcd79093038f47bfce24f44e01a"
+  },
+  "exact_source_files": 4,
+  "civil_ledger": {
+    "range": [
+      0,
+      931
+    ],
+    "unique_rows": 932,
+    "new_rows": 26,
+    "revised_row": 905,
+    "unchanged_rows_before_905": 905,
+    "day_898": "Unassigned",
+    "last_civil_date": "Aesith 7 / Aiven"
+  },
+  "expedition": {
+    "application_day": 905,
+    "badge_eln": 20,
+    "selection_day": 908,
+    "departure_day": 913,
+    "allocations": [
+      {
+        "from": 913,
+        "through": 917,
+        "days": 5,
+        "activity": "outbound"
+      },
+      {
+        "from": 918,
+        "through": 921,
+        "days": 4,
+        "activity": "yellow-stratum"
+      },
+      {
+        "from": 922,
+        "through": 925,
+        "days": 4,
+        "activity": "green-stratum"
+      },
+      {
+        "from": 926,
+        "through": 930,
+        "days": 5,
+        "activity": "inbound"
+      }
+    ],
+    "allocated_days": 18,
+    "surface_and_registry_closeout": 931,
+    "inclusive_calendar_days": 19,
+    "payment_amount": "OPEN",
+    "dossier": "favorable",
+    "later_contracts": "three or four prospective"
+  },
+  "certification": {
+    "station_vector": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      4,
+      4,
+      4,
+      3,
+      4,
+      4,
+      3,
+      4
+    ],
+    "sum": 54,
+    "maximum": 91,
+    "rating": "Green",
+    "table_and_exam_details_unchanged": true
+  },
+  "stale_first_expedition_frontiers": 0,
+  "local_link_occurrences_checked": 64,
+  "prior_workshop_and_checkpoint_files_modified": 0,
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": []
+  },
+  "added": [
+    "CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLUE_ARC_006/VALIDATION.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_006/01_CHRONOLOGY.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_006/02_RESEARCH_EXPEDITION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_006/03_CODEX_INTEGRATION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_006/README.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_005/ARC.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "README.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/REGISTRY_BADGES_AND_CHAINMAIL_QUALIFICATION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md"
+  ],
+  "deleted": []
+}
