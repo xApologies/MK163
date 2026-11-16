@@ -303,6 +303,8 @@ Kaira must develop technique through years of study and navigate unfamiliar roya
 
 
 ## First meeting with King
+
+**Earlier outline.** The [dated Blue Arc visits](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md) supersede the meeting, outcome and coin chronology in this section and the exit state below. Kaira first plays the King on Day 948 and wins all four games. illi presents the coin on 952. The four wins and one loss belong to the second visit on 1002.
 - The King hosts regular, relaxed raeon gatherings with generals, military advisers, strategists, nobles, counselors, financial advisers and other invited guests. The gatherings permit informal political and military conversation, drinks and friendly competition, not a formal council.
 - The Princess is frustrated that she seldom defeats Kaira at raeon. Knowing her father's competitive nature, she brings Kaira to one gathering, greets her father, sits Kaira down, and mischievously leaves her there on the **first night**.
 - Kaira is intensely anxious at being unexpectedly seated with the King and influential guests, but **wins four out of five games**. The exact game-by-game order is OPEN.

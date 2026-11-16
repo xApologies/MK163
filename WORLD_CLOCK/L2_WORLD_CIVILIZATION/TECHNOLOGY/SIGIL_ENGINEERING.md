@@ -1,3 +1,9 @@
+# Natural velis in the history of sigil engineering
+
+Practitioners studied the stable topology of naturally occurring velis before designing ru’ne and sigil geometries. Natural structures can be studied without visible inscriptions. An engineered geometry may draw on several observations. The MK163 definition and the inherited terminology for Architect-made local anchors are recorded in [Architects and velis](../PROFESSIONS/ARCHITECTS_AND_VELIS.md).
+
+---
+
 # Standard Chainmail Robe mass-reduction service
 
 Every marketed 1–5-layer robe tier includes the selected **150-eln mass-reduction sigil service**. The completed garment is placed in the sigil anchor basin and enchanted. This is a price/process selection, not identical throughput, new protective resistance, proven safety/geometry, or a solved weave. [The economy owner](../ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) owns all price components; existing sigil mechanisms remain.

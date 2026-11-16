@@ -13,9 +13,9 @@ On Days 909–912 she practices her individual Genesis Shield Card on Nyx and th
 | Story days | Allocation | Work |
 |---|---|---|
 | 913–919 | 7 days descending to Yellow | The large research party departs at the staging Registry and follows mapped passages through Red and Orange under environmental protection. |
-| 920–923 | 4 days of Yellow research | Naturally formed ru’ne, sigil relationships and anchors. The exact Yellow site and findings remain OPEN. |
+| 920–923 | 4 days of Yellow research | Naturally formed ru’ne, sigil relationships and velis (locally stabilized Genesis Field anchors). The exact Yellow site and findings remain OPEN. |
 | 924–926 | 3 days descending to the Green site | The site is approximately 2.5 miles into Green, around 9 vertical miles below the entrance. |
-| 927–930 | 4 days of Green research | Kaira and the Sprite share the environmental shielding workload with the other support personnel. |
+| 927–930 | 4 days of Green research | Research continues on natural ru’ne, sigils and velis. Specific findings remain OPEN. Kaira and the Sprite share the environmental shielding workload with the other support personnel. |
 | 931–942 | 12 days ascending | The group returns via mapped passages, with rest and environmental shielding. Individual encounters remain OPEN. |
 | 943 | Surface return and Registry closeout | The leader validates participants, Kaira collects payment and her dossier receives favorable feedback. Kaira returns home with Nyx and the Black Sprite. |
 
@@ -23,7 +23,7 @@ Travel and fieldwork occupy 30 allocated days. The expedition spans **31 calenda
 
 ## What the assignment establishes
 
-Dungeon-born ELDRIS are confined to their compatible strata. Environmental Genesis-field pressure can independently threaten biological coherence even in a secured area. The researchers study naturally occurring geometric relationships in the Genesis field. Their ru’ne need not appear as visible carved glyphs.
+Dungeon-born ELDRIS are confined to their compatible strata. Environmental Genesis-field pressure can independently threaten biological coherence even in a secured area. The researchers study naturally occurring geometric relationships in the Genesis field. Natural ru’ne and velis can be studied without visible carved glyphs. [Natural and engineered anchors](../../L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md) records how this kind of observation informed deliberate sigil engineering.
 
 Kaira excels at long-duration environmental protection and can contribute some offense. The Sprite sustains their own shielding and has limited offensive and Resolution-related restorative abilities. Other support personnel share the work. Nyx, Kaira’s independent intelligent family companion, helps significantly against ELDRIS. His contribution gives him no separate Registry certification. The assignment leaves Kaira’s Green rank and her limits in multi-target monitoring and shield-integrity perception intact.
 

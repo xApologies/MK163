@@ -1,3 +1,13 @@
+# Natural velis and Architect-made anchors
+
+In MK163 a **velis** is a naturally forming, locally stabilized configuration of the Genesis Field that functions as an anchor. Velis form without a practitioner. Like natural sigils, they can be studied through their geometry and stable relationships. Their topologies can differ. A field anchor can exist without a written symbol or visible glyph.
+
+Practitioners’ observations of natural velis supplied the historical foundation for deliberately engineered ru’ne and sigil geometries. Engineers can draw on different structures and relationships. An Architect who deliberately stabilizes local geometry constructs an artificial analogue, or engineered local anchor.
+
+The inherited AERA definition uses *velis* for practitioner-made geometry. In the earlier Architect records below, temporary persistence, load and maintenance describe those engineered realizations. The distinction in MK163 is the origin of the structure. [AERA source at the inherited revision](https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L2/INHERITANCE/01_SIGILS_AND_VELIS.md) · [Sigil engineering](../TECHNOLOGY/SIGIL_ENGINEERING.md) · [Author decision](../../../PROVENANCE/WORKSHOP/CALENDAR_RAEON_VELIS_013/02_VELIS_CANON.md)
+
+---
+
 # Architect competency and Master Cardsmithing
 
 **Book Red consolidation · 2026-11-07.** Direct native architecture is a transferable skill, not a new formal hybrid rank. A Master Cardsmith can natively construct Card geometry; an Architect is not automatically a Cardsmith. Kaira’s first native robe-ring work in Violet does not confer Master Cardsmith status. [Manufacture](../TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) and [Genesis Robe](../../L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).

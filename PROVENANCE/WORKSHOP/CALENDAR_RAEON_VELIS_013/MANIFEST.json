@@ -1,0 +1,26 @@
+{
+  "package": "MK163_CALENDAR_RAEON_VELIS_REPAIR_013",
+  "source_checkpoint": "BLUE_ARC_012 integrated",
+  "files": {
+    "README.md": {
+      "sha256": "da849b63172d5398e47701463f6e2c84acda9b37b54b6ca7e55bd29a2fc0b73d",
+      "bytes": 1792
+    },
+    "01_EVENT_RESCHEDULE.md": {
+      "sha256": "917f4ccf2a4615c775cc7ecd39332284225f7327109da13aa66fef57c6b28ac6",
+      "bytes": 3157
+    },
+    "02_VELIS_CANON.md": {
+      "sha256": "1a73c97f9a89af7ba38821b495fe272e0816baec2624590d0f521cda42af2cd6",
+      "bytes": 1622
+    },
+    "03_CODEX_EXECUTION.md": {
+      "sha256": "5472a195b248bfa5a5e0fbdbdb9f31568700530817b39c3628a3b960f72d14f8",
+      "bytes": 2430
+    },
+    "04_EXPECTED_CALENDAR_CHECK.csv": {
+      "sha256": "fa198fcf844b59f5140804e80da36fa524747fbef024b7d6e51d4221ad7b438e",
+      "bytes": 301
+    }
+  }
+}

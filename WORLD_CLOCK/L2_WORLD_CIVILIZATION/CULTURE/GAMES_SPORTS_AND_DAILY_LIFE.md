@@ -1,17 +1,15 @@
-# The King’s fifth-day raeon salon
+# The King’s raeon salon and local shop tournaments
 
-The King hosts an informal Aiden gathering in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access.
+The King hosts an informal salon each **Aithen**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the sixth weekday.
 
-| Story days | Royal visits and play |
+| Story days | Royal visits and local play |
 |---|---|
-| 947–951 | illi’s invitation reaches Kaira at her apartment on 947. Kaira takes a rickshaw to the Blue capital palace on 948 and stays with illi through 950. On 951 illi takes her via the King’s Highway to the Violet capital. illi leaves her at the King’s table and returns near the end of the third game. Kaira wins all four. The King recognizes illi brought a ringer. Play continues after their departure. |
-| 952 | Back in the Blue capital, illi presents the King’s challenge coin. They visit the staging-area Registry together afterward. |
-| 999–1008 | Day 999 is expedition closeout. After recovery on 1000–1004, Kaira goes to the Blue palace on 1005, learns illi is at the Violet capital, uses the coin and plays five games there. She wins four and loses one. The guests celebrate the unidentified player who beats her. She stays with illi at the Violet palace on 1006–1007 and goes home on 1008. |
-| 1023–1024 | She attends the King’s salon on Aiden, Day 1023. Scores remain OPEN. The following day she returns to the Blue capital and wins White at the local card shop. |
+| 945–951 | illi’s invitation reaches Kaira on 945. Kaira takes a rickshaw to the Blue palace on 946, stays overnight and visits illi on 947. On 948 they take the King’s Highway to the Violet capital. illi leaves Kaira at the King’s table and returns near the end of game three. Kaira wins all four. The King recognizes the ringer and play continues after the two leave. The visit continues through 951. |
+| 952 and 955 | On their return to the Blue capital on 952, illi presents the coin. They visit the staging-area Registry together afterward. On 955 Kaira wins her first White tournament at the local card shop. |
+| 999–1009 | The expedition closes on 999. Kaira recovers on 1000–1001. On 1002 she goes to the Blue palace, learns illi is in Violet and uses the coin to travel there. She wins four games and loses one. Guests celebrate the unidentified player who beats her. Days 1003–1007 allow time with illi or recovery, including relaxed days with illi at the Violet palace on 1006–1007. Kaira returns home on 1008 and places Blue locally on 1009 after unfavorable draws. |
+| 1020–1027 | While three Registry applications are pending, Kaira travels to the King’s salon in Violet on 1020. The result remains OPEN. On 1021 she returns to the Blue capital before the local tournament and places Blue again. The times of the journey and tournament remain OPEN. On 1027 she wins White at the local shop. |
 
-The source calls the Aiden event the “fifth-day” salon. Its three selected Aiden dates follow the existing six-day cycle. The description does not reset civil or academic weekday numbering.
-
-[Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Royal salon and coin evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md) · [Later salon and tournaments](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md)
+[Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Earlier royal visit evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md) · [Earlier local results](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md) · [Date-by-date supersessions](../../../CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md)
 
 ---
 
@@ -113,7 +111,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 
 # Raeon and royal games
 
-**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; her friendly royal rivalry is recorded in [Green Arc](../../../BOOKS/RED/ARCS/ARC_004/ARC.md). The King's gatherings fall on the **last day of the six-day week**, whose name remains OPEN. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
+**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; the [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) dates her royal games. The King hosts the salon on Aithen. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
 
 Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
 

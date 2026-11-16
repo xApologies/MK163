@@ -530,6 +530,17 @@
       "source_mapping": "CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLUE_ARC_012/VALIDATION.json",
       "scope": "Corrected Days 913–1049, three expeditions, royal salons, dungeon geography, paired-vaen upgrade and Yellow market"
+    },
+    {
+      "id": "MK163_CALENDAR_RAEON_VELIS_REPAIR_013",
+      "baseline": "c755cd9813ef0da562220fa0217fdb0372f8d0ad",
+      "archive": "MK163_CALENDAR_RAEON_VELIS_REPAIR_013_CODEX.zip",
+      "archive_sha256": "7a1b015f4d0612b53cf4fe958b63bbc9798a6784fc28e924d957b8d1ff1b0bc4",
+      "source_root": "PROVENANCE/WORKSHOP/CALENDAR_RAEON_VELIS_013",
+      "manifest": "PROVENANCE/WORKSHOP/CALENDAR_RAEON_VELIS_013/MANIFEST.json",
+      "source_mapping": "CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/CALENDAR_RAEON_VELIS_013/VALIDATION.json",
+      "scope": "Seven Blue Arc raeon dates, accompanying visits and the MK163 definition of natural velis"
     }
   ]
 }

@@ -220,7 +220,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - **RED-001 Red:** Village, Awakening and departure; earlier detailed chapter work retained. [Arc owner](../BOOKS/RED/ARCS/ARC_001/ARC.md).
 - **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
 - **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
-- **RED-004 Green:** Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
+- **RED-004 Green:** Blackstone, high honors and Kaira’s friendship with Princess illi. The royal games and challenge coin are dated in the [Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md). [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
 - **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, three expeditions closing on Days 943, 999 and 1049, with a Day 1016 upgrade to Beam and Shield. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
 - **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
 - **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).

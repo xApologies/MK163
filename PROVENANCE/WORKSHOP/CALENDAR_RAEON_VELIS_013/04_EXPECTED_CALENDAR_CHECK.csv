@@ -1,0 +1,8 @@
+event,old_day,new_day,weekday_number,weekday_name
+first_local_white,945,955,6,Aiven
+first_royal_salon,951,948,5,Aithen
+second_royal_salon,1005,1002,5,Aithen
+first_local_blue,1012,1009,6,Aiven
+second_local_blue,1018,1021,6,Aiven
+third_royal_salon,1023,1020,5,Aithen
+later_local_white,1024,1027,6,Aiven
