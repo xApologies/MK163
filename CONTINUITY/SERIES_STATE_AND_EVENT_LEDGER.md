@@ -1,8 +1,8 @@
-# Blue Arc · after graduation through Day 931
+# Blue Arc · after graduation through Day 1049
 
-Graduation closes Green on Day 786. Kaira moves into her own home on 818, attends the gala on 865, places fourth and second in raeon on 871 and 877, and chooses Support on 891. She installs her home workstation on 900 and finishes Fireball and Shield on 904. On 905 she earns Green Support Specialist with all protected allies surviving. She applies after the exam. The Registry selects her on Day 908. The Blue Dungeon expedition departs on 913 and closes on 931 with payment and a favorable dossier entry.
+Graduation closes Green on 786. Kaira establishes her independent home on 818, attends the gala on 865, takes fourth and second in raeon on 871 and 877, and chooses Support on 891. The workstation on 900 and first Card pair on 904 precede her Green certification on 905. The Registry selects her on 908. The first expedition closes on 943 and the second on 999. illi presents the coin on 952. The Day 1016 toolkit is in use when the third expedition loses its Helkir on 1041. Day 1049 closes the failed contract.
 
-[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [First expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 integration](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Capital dungeon](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Checkpoint 012 audit](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md)
 
 ---
 
@@ -221,7 +221,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
 - **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
 - **RED-004 Green:** Blackstone, high honors, Princess and royal Raeon gatherings, challenge coin. [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
-- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, first research contract completed on Day 931, then prospective contracts and field refinement. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
+- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, three expeditions closing on Days 943, 999 and 1049, with a Day 1016 upgrade to Beam and Shield. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
 - **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
 - **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).
 

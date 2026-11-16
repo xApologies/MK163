@@ -1,8 +1,8 @@
-# Book Red · Blue Arc through Day 931
+# Book Red · Blue Arc through Day 1049
 
-Green closes at graduation on Day 786. In the Blue capital, Kaira’s robe business supports an independent household and her first professional Cardsmithing workstation. She brings her completed Fireball and Shield to the Day 905 assessment with Nyx and the Black Sprite and earns Green Support Specialist. Her first Blue Dungeon research contract closes on Day 931. She remains independent and wants further harvesting and ELDRIS-focused work.
+Green closes at graduation on Day 786. In the Blue capital Kaira’s robe business supports her independent household and Cardsmithing. Her first three contracts cover research, Blue mineral-vaen recovery and a failed Yellow cavern harvest. She earns Green on Day 905 and retains it through the third expedition’s Day 1049 closeout. The fourth expedition remains open.
 
-[Blue Arc](ARCS/ARC_005/ARC.md) · [Running day ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [First expedition](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 integration](../../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
+[Blue Arc](ARCS/ARC_005/ARC.md) · [Running day ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Capital dungeon](../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Checkpoint 012 audit](../../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md)
 
 ---
 
@@ -40,7 +40,7 @@ All prior text remains below. The current decisions above supersede only their s
 | 2 | [Orange](ARCS/ARC_002/ARC.md) | Independence, craft and Nyx joining the family; physical robe reveal at close. |
 | 3 | [Yellow](ARCS/ARC_003/ARC.md) | Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. |
 | 4 | [Green](ARCS/ARC_004/ARC.md) | Blackstone, high honors, Princess and royal raeon gatherings, challenge coin. |
-| 5 | [Blue](ARCS/ARC_005/ARC.md) | Independent household in the Blue capital, Day 905 Green Support certification, first research contract completed on Day 931, then prospective contracts and field refinement. |
+| 5 | [Blue](ARCS/ARC_005/ARC.md) | Independent household in the Blue capital, Day 905 Green Support certification, three expeditions closing on Days 943, 999 and 1049, with a Day 1016 upgrade to Beam and Shield. |
 | 6 | [Violet](ARCS/ARC_006/ARC.md) | Closed native rings and coupled seams, Crown research and vaelum affiliation. |
 | 7 | [White](ARCS/ARC_007/ARC.md) | King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. |
 

@@ -1,3 +1,20 @@
+# Yellow Crystal and Dust · retail, wholesale and contract shares
+
+In the selected Yellow-resource market, Yellow Genesis Crystals and Yellow Genesis Dust have equal mass-based pricing. A retail customer buys either for **60 eln per 100 g**. A harvester sells to the merchant for **49 eln per 100 g**. The 11 eln difference is gross spread before expenses. Dust has uses in alchemy and Binding circles.
+
+| Recipient for each 100 g of qualifying Yellow recovery sold on the third expedition | eln |
+|---|---:|
+| Seven-member vaelum before expenses and internal splits | 35 |
+| Kaira, contracted environmental Support | 7 |
+| Second contracted environmental Support | 7 |
+| Wholesale total | 49 |
+
+An ELDRIS can yield more than 100 g of Dust, but no per-kill minimum, expected yield, tonnage or actual payment is fixed. The contract pays on amounts recovered and sold. The existing raw-crystal retail ladder below still governs all basins. The new wholesale rate and Dust parity apply only to this Yellow market. Charged diamonds and vaen retain their own pricing.
+
+[Third expedition](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Market selection](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md)
+
+---
+
 # Raw-crystal schedule retained · cube-price derivations
 
 The complete existing schedule below is unchanged: **20, 35, 60, 110, 230, 500 eln per 100 g** for Red–Violet; White **3,100 eln per 100 g**. Per kilogram: 200/350/600/1100/2300/5000/31000. No charged-diamond, dust or empty-container selling price follows.

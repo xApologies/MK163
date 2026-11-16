@@ -1,6 +1,6 @@
 # Book Red’s first independent research contract
 
-Kaira completes [her first Blue Dungeon research contract](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) on Day 931. As an independent Green-rated aithren she provides long-duration protection during Yellow- and Green-stratum ru’ne research. The separate deep Blue-stratum rescue after the Vaelith bond remains a proposal. The three places are distinct: the childhood Green dungeon hub; the earlier Violet dungeon staging community near the Green-domain city; and the centuries-old Blue dungeon city with a 2 × 2 mile staging district. No retcon to old mapped routes or new named city.
+Kaira completes [her first Blue Dungeon research contract](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) on Day 943. As an independent Green-rated aithren she provides long-duration protection during Yellow- and Green-stratum ru’ne research. The separate deep Blue-stratum rescue after the Vaelith bond remains a proposal. The three places are distinct: the childhood Green dungeon hub; the earlier Violet dungeon staging community near the Green-domain city; and the centuries-old Blue dungeon city with a 2 × 2 mile staging district. No retcon to old mapped routes or new named city.
 
 Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
 

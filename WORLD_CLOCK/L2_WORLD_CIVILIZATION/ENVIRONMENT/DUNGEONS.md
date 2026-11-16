@@ -1,3 +1,15 @@
+# Blue capital dungeon · stable passages and local oscillations
+
+The capital dungeon’s passages are mapped and physically stable. The stratum-specific periods in the geographic table describe oscillations in the local Genesis field. Conditions can admit crystal growth, vaen or ELDRIS formation without changing the cave passages. Formation, exact phase, quantities and hazard duration remain open. Genesis Mines have separate equilibrium and growth rules. Dungeon-born ELDRIS remain confined to their own strata. Ambient pressure can threaten biological coherence in a secured chamber.
+
+The Yellow cavern experiences unusually concentrated Yellow Genesis Crystal growth and Yellow ELDRIS formation in favorable phases of the local seven-day cycle. The cause remains unknown. Ordinary parties generally avoid it. Commercial groups may enter deliberately for crystals and ELDRIS-derived Dust. Yellow Category A ELDRIS have limited ranged force-bearing projection. Green Category B juggernauts rely on reinforced persistent melee. Blue Category B expressed projections can detonate, burn, shear or produce post-impact effects. These characteristics establish hazards, without fixing encounter counts or yields.
+
+Favorable Blue oscillations can produce rare smooth, rounded or irregular mineral vaen. They vary in size, are translucent to nearly clear with some internal cloudiness, and glow sapphire-blue throughout with no localized emitter. They have no jagged facets. These identity-bearing nodules differ from ordinary Genesis Crystals and from Kaira’s earlier moss-bearing green mineral specimens, of which she kept the smallest, about two inches across. Identity, price and actual yield of any Blue specimens remain OPEN.
+
+[Local depth and oscillation table](../GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [ELDRIS](ELDRIS.md) · [Genesis Mines](GENESIS_MINES.md) · [Yellow cavern evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md)
+
+---
+
 # King’s Tournament · selected host dungeons
 
 The current competition uses local Green qualifiers, three Blue regional races per domain, an eight-race Violet circuit and a separate ninth Violet final. Ordinary dungeon access persists between competitions. The older W043 regional counts below are historical evidence.

@@ -1,8 +1,8 @@
-# Book Red running ledger · Blue through Day 931
+# Book Red running ledger · Blue through Day 1049
 
-Days 787–931 continue the 353-day civil calendar and six-day week after graduation. Interval rows distinguish selected plans from individual events. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
+Days 787–1049 continue the six-day week and 353-day civil calendar after graduation. The three Blue Dungeon expeditions close on Days 943, 999 and 1049. Day 1049 is Ailor. Day 1050 is Aithen and has no selected event. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
-[Blue Arc outline](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [First research expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Delta 006 audit](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Research](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Blue mineral vaen](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) · [Yellow cavern](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Sources and supersessions](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md)
 
 ---
 
@@ -1058,25 +1058,143 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 910 | Aeveth | 17 | — | Aiveth | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
 | 911 | Aeveth | 18 | — | Ailor | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
 | 912 | Aeveth | 19 | — | Aithen | Shield Card practice on Nyx and the Black Sprite. Across these sessions the Sprite learns their own protective Shaping by observation. |
-| 913 | Aeveth | 20 | — | Aiven | Kaira reports to the Registry, meets the party and departs into the Blue Dungeon. First day of the outbound allocation. A final Shield practice today is possible. |
-| 914 | Aeveth | 21 | — | Ailar | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
-| 915 | Aeveth | 22 | — | Aiden | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
-| 916 | Aeveth | 23 | — | Aiveth | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
-| 917 | Aeveth | 24 | — | Ailor | Outbound travel in the five-day allocation beginning Day 913. Individual route and encounters OPEN. |
-| 918 | Aeveth | 25 | — | Aithen | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 919 | Aeveth | 26 | — | Aiven | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 920 | Aeveth | 27 | — | Ailar | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 921 | Aeveth | 28 | — | Aiden | Yellow-stratum fieldwork. The research group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 922 | Aeveth | 29 | — | Aiveth | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 923 | Aeveth | 30 | — | Ailor | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 924 | Aeveth | 31 | — | Aithen | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 925 | Aesith | 1 | — | Aiven | Green-stratum fieldwork. The group studies naturally occurring ru’ne and sigil relationships with environmental Support. |
-| 926 | Aesith | 2 | — | Ailar | Inbound travel allocation. Detailed route and encounters OPEN. |
-| 927 | Aesith | 3 | — | Aiden | Inbound travel allocation. Detailed route and encounters OPEN. |
-| 928 | Aesith | 4 | — | Aiveth | Inbound travel allocation. Detailed route and encounters OPEN. |
-| 929 | Aesith | 5 | — | Ailor | Inbound travel allocation. Detailed route and encounters OPEN. |
-| 930 | Aesith | 6 | — | Aithen | Inbound travel allocation. Detailed route and encounters OPEN. |
-| 931 | Aesith | 7 | — | Aiven | The expedition surfaces and completes its return. The leader signs off on participants at the Accord Registry. Kaira collects her contracted payment (amount OPEN), receives favorable feedback in her dossier and intends to seek further work. [Completed first expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) |
+| 913 | Aeveth | 20 | — | Aiven | Kaira meets large research party at staging-area Crown Accord Registry; first research expedition departs; begins mapped descent toward Yellow. |
+| 914 | Aeveth | 21 | — | Ailar | Mapped descent toward Yellow; large research group travels under environmental protection; individual encounters OPEN. |
+| 915 | Aeveth | 22 | — | Aiden | Mapped descent toward Yellow; large research group travels under environmental protection; individual encounters OPEN. |
+| 916 | Aeveth | 23 | — | Aiveth | Mapped descent toward Yellow; large research group travels under environmental protection; individual encounters OPEN. |
+| 917 | Aeveth | 24 | — | Ailor | Mapped descent toward Yellow; large research group travels under environmental protection; individual encounters OPEN. |
+| 918 | Aeveth | 25 | — | Aithen | Mapped descent toward Yellow; large research group travels under environmental protection; individual encounters OPEN. |
+| 919 | Aeveth | 26 | — | Aiven | Seventh and final allocated day of descent to Yellow research area. |
+| 920 | Aeveth | 27 | — | Ailar | Yellow research begins on naturally occurring ru’ne, sigils and anchors. The expedition source uses velis for a natural anchor. Its classification remains OPEN. |
+| 921 | Aeveth | 28 | — | Aiden | Yellow natural ru’ne/sigil/anchor fieldwork with environmental Support; specific findings OPEN. |
+| 922 | Aeveth | 29 | — | Aiveth | Yellow natural ru’ne/sigil/anchor fieldwork with environmental Support; specific findings OPEN. |
+| 923 | Aeveth | 30 | — | Ailor | Yellow research concludes. |
+| 924 | Aeveth | 31 | — | Aithen | Three-day descent/travel from Yellow research area into Green begins. |
+| 925 | Aesith | 1 | — | Aiven | Continued travel descending from Yellow to Green research area; route/encounters OPEN. |
+| 926 | Aesith | 2 | — | Ailar | Arrives at Green research site approximately 2.5 vertical miles into Green (~9 miles below entrance). |
+| 927 | Aesith | 3 | — | Aiden | Green natural ru’ne/sigil/anchor research begins. |
+| 928 | Aesith | 4 | — | Aiveth | Green natural ru’ne/sigil/anchor fieldwork; specific findings OPEN. |
+| 929 | Aesith | 5 | — | Ailor | Green natural ru’ne/sigil/anchor fieldwork; specific findings OPEN. |
+| 930 | Aesith | 6 | — | Aithen | Green research concludes. |
+| 931 | Aesith | 7 | — | Aiven | Twelve-day ascent from the Green research site begins. |
+| 932 | Aesith | 8 | — | Ailar | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 933 | Aesith | 9 | — | Aiden | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 934 | Aesith | 10 | — | Aiveth | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 935 | Aesith | 11 | — | Ailor | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 936 | Aesith | 12 | — | Aithen | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 937 | Aesith | 13 | — | Aiven | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 938 | Aesith | 14 | — | Ailar | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 939 | Aesith | 15 | — | Aiden | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 940 | Aesith | 16 | — | Aiveth | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 941 | Aesith | 17 | — | Ailor | Return/ascent allocation from Green research site; mapped passages, environmental shielding, rest and possible ELDRIS; individual encounters OPEN. |
+| 942 | Aesith | 18 | — | Aithen | Last allocated day of ascent from Green. |
+| 943 | Aesith | 19 | — | Aiven | Research expedition surfaces; leader signs off at Registry, Kaira receives payment (amount OPEN) and favorable dossier evaluation; returns home with Nyx and Black Sprite. [First expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) |
+| 944 | Aesith | 20 | — | Ailar | Quiet recovery. Buys Blue volume of in-world MK173 series and five small living vaen for her Green District apartment. |
+| 945 | Aesith | 21 | — | Aiden | Wins her first White-rank raeon tournament at the card shop. |
+| 946 | Aesith | 22 | — | Aiveth | Quiet day at home reading and resting. |
+| 947 | Aesith | 23 | — | Ailor | Visits favorite abecca shop; apartment reception delivers invitation from Princess illi. Optional Genesis Card browsing is NOT locked. |
+| 948 | Aesith | 24 | — | Aithen | Rickshaw to Blue Domain capital palace; visits illi and stays overnight. |
+| 949 | Aesith | 25 | — | Aiven | Relaxed visit with illi at Blue palace. |
+| 950 | Aesith | 26 | — | Ailar | Second relaxed day with illi at Blue palace. |
+| 951 | Aesith | 27 | — | Aiden | illi takes Kaira via King’s Highway to Violet royal capital for King’s fifth-day raeon salon. Kaira wins 4 of 4 games; illi returns near end of third; King recognizes she brought a ringer. Salon continues after they depart. |
+| 952 | Aesith | 28 | — | Aiveth | illi and Kaira return to Blue capital; illi presents King’s challenge coin (free King’s Highway passage and standing fifth-day raeon invitation). Together visit dungeon staging Registry. Kaira applies and is accepted for Blue mineral-vaen expedition; departure set Day 959. |
+| 953 | Aesith | 29 | — | Ailor | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 954 | Aesith | 30 | — | Aithen | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 955 | Aesith | 31 | — | Aiven | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 956 | Aesith | 32 | — | Ailar | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 957 | Aesith | 33 | — | Aiden | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 958 | Aeleth | 1 | — | Aiveth | Pre-departure interval: preparation and personal time; individual activities OPEN. |
+| 959 | Aeleth | 2 | — | Ailor | Kaira reports to Crown Accord Registry; 11-member vaelum plus 4 contracted environmental Support Specialists (Kaira included) depart with Nyx and Black Sprite. Begin 17-day descent. |
+| 960 | Aeleth | 3 | — | Aithen | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 961 | Aeleth | 4 | — | Aiven | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 962 | Aeleth | 5 | — | Ailar | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 963 | Aeleth | 6 | — | Aiden | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 964 | Aeleth | 7 | — | Aiveth | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 965 | Aeleth | 8 | — | Ailor | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 966 | Aeleth | 9 | — | Aithen | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 967 | Aeleth | 10 | — | Aiven | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 968 | Aeleth | 11 | — | Ailar | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 969 | Aeleth | 12 | — | Aiden | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 970 | Aeleth | 13 | — | Aiveth | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 971 | Aeleth | 14 | — | Ailor | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 972 | Aeleth | 15 | — | Aithen | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 973 | Aeleth | 16 | — | Aiven | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 974 | Aeleth | 17 | — | Ailar | Second expedition descent: mapped passages, rest, combat and efficient collection of Genesis Crystals, Dust and vaen across strata; exact location/encounters OPEN. |
+| 975 | Aeleth | 18 | — | Aiden | Seventeenth and final planned descent day; reaching Blue operations area. Harvesting occurs throughout descent. |
+| 976 | Aeleth | 19 | — | Aiveth | Additional seven-day Blue operating window begins: exploration, oscillation monitoring, fighting Blue ELDRIS, harvesting. |
+| 977 | Aeleth | 20 | — | Ailor | Additional Blue-stratum operating window: search for rare mineral vaen, wait for favorable oscillations, combat, environmental protection and harvesting; exact event days OPEN. |
+| 978 | Aeleth | 21 | — | Aithen | Additional Blue-stratum operating window: search for rare mineral vaen, wait for favorable oscillations, combat, environmental protection and harvesting; exact event days OPEN. |
+| 979 | Aeleth | 22 | — | Aiven | Additional Blue-stratum operating window: search for rare mineral vaen, wait for favorable oscillations, combat, environmental protection and harvesting; exact event days OPEN. |
+| 980 | Aeleth | 23 | — | Ailar | Additional Blue-stratum operating window: search for rare mineral vaen, wait for favorable oscillations, combat, environmental protection and harvesting; exact event days OPEN. |
+| 981 | Aeleth | 24 | — | Aiden | Additional Blue-stratum operating window: search for rare mineral vaen, wait for favorable oscillations, combat, environmental protection and harvesting; exact event days OPEN. |
+| 982 | Aeleth | 25 | — | Aiveth | Last day of additional Blue operating window; exact oscillation phases, yields and encounters remain OPEN. |
+| 983 | Aeleth | 26 | — | Ailor | Seventeen-day ascent begins, with continued efficient opportunistic harvesting, travel and combat. |
+| 984 | Aeleth | 27 | — | Aithen | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 985 | Aeleth | 28 | — | Aiven | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 986 | Aeleth | 29 | — | Ailar | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 987 | Aeleth | 30 | — | Aiden | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 988 | Aeleth | 31 | — | Aiveth | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 989 | Aeleth | 32 | — | Ailor | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 990 | Aelor | 1 | — | Aithen | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 991 | Aelor | 2 | — | Aiven | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 992 | Aelor | 3 | — | Ailar | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 993 | Aelor | 4 | — | Aiden | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 994 | Aelor | 5 | — | Aiveth | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 995 | Aelor | 6 | — | Ailor | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 996 | Aelor | 7 | — | Aithen | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 997 | Aelor | 8 | — | Aiven | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 998 | Aelor | 9 | — | Ailar | Second expedition ascent: combat, rest, difficult passages and continued opportunistic resource recovery; exact encounters OPEN. |
+| 999 | Aelor | 10 | — | Aiden | Last day of 41-day expedition; party returns to surface, completes Registry closeout and Kaira collects contracted payment (amount OPEN). [Second expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) |
+| 1000 | Aelor | 11 | — | Aiveth | Recovery and ordinary slice of life following 41-day expedition; individual activities OPEN. |
+| 1001 | Aelor | 12 | — | Ailor | Recovery and ordinary slice of life following 41-day expedition; individual activities OPEN. |
+| 1002 | Aelor | 13 | — | Aithen | Recovery and ordinary slice of life following 41-day expedition; individual activities OPEN. |
+| 1003 | Aelor | 14 | — | Aiven | Recovery and ordinary slice of life following 41-day expedition; individual activities OPEN. |
+| 1004 | Aelor | 15 | — | Ailar | Recovery and ordinary slice of life following 41-day expedition; individual activities OPEN. |
+| 1005 | Aelor | 16 | — | Aiden | Kaira visits Blue Domain palace, learns illi is at Violet royal capital; uses challenge coin for free King’s Highway travel. Fifth-day royal raeon salon: 4 wins, 1 loss. Other guests celebrate the player who finally beats her. |
+| 1006 | Aelor | 17 | — | Aiveth | Kaira stays at Violet royal palace and spends first relaxed day with illi. |
+| 1007 | Aelor | 18 | — | Ailor | Second relaxed day with illi at Violet royal palace. |
+| 1008 | Aelor | 19 | — | Aithen | Kaira returns home to the Blue Domain capital from the Violet royal palace. |
+| 1009 | Aelor | 20 | — | Aiven | Slice of life. |
+| 1010 | Aelor | 21 | — | Ailar | Slice of life. |
+| 1011 | Aelor | 22 | — | Aiden | Slice of life; no royal salon selected. |
+| 1012 | Aelor | 23 | — | Aiveth | Local raeon tournament; places Blue after unfavorable card draws, near late rounds. |
+| 1013 | Aelor | 24 | — | Ailor | Purchases all crafting supplies: Yellow-only reference vaen, Green-only reference vaen, Yellow-primary hybrid with Orange+Blue secondaries, Green-primary hybrid with Orange+Blue secondaries; two additional **large rectangular/square gold sigil plates** for her spacious home workstation, Genesis Crystals and normal Card materials. Prices/weights OPEN. |
+| 1014 | Aelor | 25 | — | Aithen | Cardsmithing day 1 of 3. |
+| 1015 | Aelor | 26 | — | Aiven | Cardsmithing day 2 of 3. |
+| 1016 | Aelor | 27 | — | Ailar | Cardsmithing day 3 of 3; completes Genesis Beam GE-0043 (Yellow+Green) and new individual Genesis Shield GE-0537 (Orange+Blue). Fireball remains owned, replaced as preferred offense. [Card designs](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) |
+| 1017 | Aelor | 28 | — | Aiden | Rest; no scheduled activities. |
+| 1018 | Aelor | 29 | — | Aiveth | Local raeon tournament; places Blue again. |
+| 1019 | Aelor | 30 | — | Ailor | Visits Crown Accord Registry and applies to **three** expeditions, including seven-member vaelum's Yellow-stratum ELDRIS/Dust/Crystal harvesting contract. No immediate acceptance yet. |
+| 1020 | Aelor | 31 | — | Aithen | Applications pending; activities OPEN. |
+| 1021 | Aelor | 32 | — | Aiven | Applications pending; activities OPEN. |
+| 1022 | Aelor | 33 | — | Ailar | Applications pending; activities OPEN. |
+| 1023 | Aerith | 1 | — | Aiden | Travels to King's fifth-day raeon salon at Violet royal capital. Results OPEN. |
+| 1024 | Aerith | 2 | — | Aiveth | Returns to Blue Domain capital and **wins** local card-shop raeon tournament; White placement. |
+| 1025 | Aerith | 3 | — | Ailor | Registry informs Kaira she was accepted to **two of three** applications. She selects and accepts Yellow cavern harvesting expedition. Other accepted expedition's identity OPEN. |
+| 1026 | Aerith | 4 | — | Aithen | Slice of life. Potential meeting with Blackstone friend **Elaira** is OPEN; no assigned day or confirmed visit. |
+| 1027 | Aerith | 5 | — | Aiven | Slice of life. Potential meeting with Blackstone friend **Elaira** is OPEN; no assigned day or confirmed visit. |
+| 1028 | Aerith | 6 | — | Ailar | Slice of life. Potential meeting with Blackstone friend **Elaira** is OPEN; no assigned day or confirmed visit. |
+| 1029 | Aerith | 7 | — | Aiden | Slice of life. Potential meeting with Blackstone friend **Elaira** is OPEN; no assigned day or confirmed visit. |
+| 1030 | Aerith | 8 | — | Aiveth | Morning rendezvous at the staging-area Crown Accord Registry. Third expedition departs and begins its seven-day descent to Yellow. |
+| 1031 | Aerith | 9 | — | Ailor | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1032 | Aerith | 10 | — | Aithen | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1033 | Aerith | 11 | — | Aiven | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1034 | Aerith | 12 | — | Ailar | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1035 | Aerith | 13 | — | Aiden | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1036 | Aerith | 14 | — | Aiveth | Descent toward the Yellow stratum. The party follows the seven-day outbound allocation. |
+| 1037 | Aerith | 15 | — | Ailor | Additional approximately half-day transit to large Yellow cavern; establish operating position. |
+| 1038 | Aerith | 16 | — | Aithen | Full harvesting days 1–3. Repeated Yellow ELDRIS combat and Genesis Dust/Crystal recovery; quantity OPEN. |
+| 1039 | Aerith | 17 | — | Aiven | Full harvesting days 1–3. Repeated Yellow ELDRIS combat and Genesis Dust/Crystal recovery; quantity OPEN. |
+| 1040 | Aerith | 18 | — | Ailar | Full harvesting days 1–3. Repeated Yellow ELDRIS combat and Genesis Dust/Crystal recovery; quantity OPEN. |
+| 1041 | Aerith | 19 | — | Aiden | **Fourth harvesting day**: vaelum overwhelmed in engagement; its sole Helkir dies. Survivors disengage. Kaira expands beyond environmental shielding to combat support and Genesis Beam use; Black Sprite supplies limited pseudo-healing, not full Helkir replacement. No resurrection. |
+| 1042 | Aerith | 20 | — | Aiveth | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1043 | Aerith | 21 | — | Ailor | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1044 | Aerith | 22 | — | Aithen | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1045 | Aerith | 23 | — | Aiven | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1046 | Aerith | 24 | — | Ailar | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1047 | Aerith | 25 | — | Aiden | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1048 | Aerith | 26 | — | Aiveth | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
+| 1049 | Aerith | 27 | — | Ailor | Surface return and Registry closeout of **failed** expedition; casualty documented. Kaira receives contracted share for recovered/sold qualifying resources (amount OPEN). Her exceptional support during withdrawal is recognized, not a rank promotion. [Third expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

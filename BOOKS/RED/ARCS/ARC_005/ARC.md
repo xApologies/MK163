@@ -29,7 +29,7 @@ After Blackstone graduation on Day 786, Kaira stays with Aiselle in the Blue Dis
 | 903–904 | Manufacture starts on 903. On 904 both the optimized Fireball and new individual Genesis Shield are complete. |
 | 905 | With Nyx and the Black Sprite, Kaira completes all thirteen Support Specialist stations at the Blue Dungeon staging-area Crown Accord Registry. Every projected protected ally survives. She earns Green, 54/91. |
 
-Kaira’s existing Blackstone Fireball honors her Cardsmith mother, whose Fireball Card aided survival during the Red Arc Genesis collapse. Her completed Fireball (GE-0057) uses Red + Blue and her individual Shield (GE-0537) uses Orange + Yellow + Green. Violet remains free. The Black Sprite supplies limited Resolution/Coherence pseudo-healing at the exam. Any future Card for that ability and its basin assignment remain OPEN.
+Kaira’s existing Blackstone Fireball honors her Cardsmith mother, whose Fireball Card aided survival during the Red Arc Genesis collapse. At certification her completed Fireball (GE-0057) uses Red + Blue and her individual Shield (GE-0537) uses Orange + Yellow + Green. Violet remains free. The Black Sprite supplies limited Resolution/Coherence pseudo-healing at the exam. Any future Card for that ability and its basin assignment remain OPEN.
 
 At the Day 865 gala, Aiselle, Princess illi and Kaira travel together from Aiselle’s residence with Nyx and the Black Sprite. Each wears her own original robe. Aiselle introduces Kaira to guests and illi gives her social support. Vael belittles Kaira, Nyx growls, and the Sprite flicks a small magical expression. Vael withdraws and the evening ends pleasantly. Other sprites approach the Black Sprite directly. An unidentified unicorn recognizes Kaira as the Black Singularity. The unicorn’s identity, any connection to the Yellow scholar and who heard the recognition remain OPEN.
 
@@ -42,7 +42,7 @@ An established armorsmith faces a crowded Cardsmith market and must learn battle
 ## Major events
 
 - Kaira grows up at the Village Hub associated with Green Hollowmere Dungeon in the Blue Domain. Her original robe enterprise serves a Violet-ranked Dungeon in the Green Domain. Blackstone and her independent post-graduation household are both in the Blue Domain capital. The capital has its own Blue-ranked Dungeon and staging-area Registry.
-- Kaira and Aiselle look for the apartment together. Her fruit bowl and living vaen establish the new household. Kaira values the technically curious dungeon community and the freedom to keep working alongside Nyx and the Black Sprite. The 600 eln/month Green residential average gives context. The signed rent is OPEN. The King’s Highway connects to the Violet royal capital. Visits to illi and engagements with the King remain undated. Elaira stays with her parents and seeks hospital Helkir work. Her hiring outcome is OPEN.
+- Kaira and Aiselle look for the apartment together. Her fruit bowl and living vaen establish the new household. Kaira values the technically curious dungeon community and the freedom to keep working alongside Nyx and the Black Sprite. The 600 eln/month Green residential average gives context. The signed rent is OPEN. The King’s Highway connects to the Violet royal capital. Her later visits with illi and attendance at the King’s raeon salons are dated below. Elaira stays with her parents and seeks hospital Helkir work. Her hiring outcome is OPEN.
 - This city has a mature dungeon economy and long-established communities of independent **aithren**, **vaelum**, artisans, clients, researchers, and support businesses.
 - Kaira resumes an everyday routine: visiting a generic **coffee shop** (serving **abecca**, the coffee analogue); participating in raeon tournaments; frequenting a Genesis Card shop to appreciate Card topology; practicing armorsmithing and Cardsmithing.
 - At the Card shop, the Sprite's Resolution insight makes Kaira's experience of Genesis Card topology unusually rich compared with a typical customer.
@@ -87,26 +87,28 @@ Kaira reviewed her Blackstone Card portfolio at home after choosing Support on D
 - She completes the exam, all protected allies survive, and earns a **Green Support Specialist certification**, narrowly above Yellow. She is excited and proud; this is a strong entry-level result for a novice.
 - See [the exact 13-station score ledger](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) and [the four examinations](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/ACCORD_REGISTRY_EXAMINATIONS.md).
 
-## First independent contract · completed Day 931
+## Independent contracts, royal visits and Cardsmithing
 
-| Days | Selected beats |
+| Story days | Selected developments |
 |---|---|
-| 905–908 | After certification Kaira buys her emerald Transduction badge for 20 eln and applies at the staging-area Registry help desk for research Support work. She waits at home on 906–908. The missive confirming her place arrives on 908. |
-| 909–912 | Kaira practices her individual Shield on Nyx and the Black Sprite. The Sprite observes and learns their own form of environmental protection. |
-| 913–917 | Kaira reports, meets the party and enters the Blue Dungeon on 913. Five days are allocated to outbound travel, through Red and Orange toward the study sites. |
-| 918–921 and 922–925 | Four days of natural ru’ne research in the Yellow stratum, followed by four in Green. Kaira protects researchers and staff from environmental Genesis-field pressure. The Sprite’s sustained shielding relieves other support personnel and Nyx helps against ELDRIS. |
-| 926–930 | Five days are allocated to the return journey. |
-| 931 | The party surfaces. The research leader signs off at the Registry, Kaira is paid and her dossier receives a favorable evaluation. |
+| 905–912 | After the examination Kaira buys her emerald Transduction badge for 20 eln and applies for research Support. Selection arrives on 908. After waiting at home she practices Shield with Nyx and the Black Sprite on 909–912. The Sprite learns their own protective Shaping. |
+| 913–943 | First expedition. Seven days to Yellow (913–919), four days of research (920–923), three days descending to the Green site (924–926), four days of Green research (927–930) and twelve days ascending (931–942). The party surfaces on 943. The leader signs off, Kaira receives payment and a favorable Registry evaluation, and she goes home with her companions. |
+| 944–952 | On 944 she buys the Blue MK173 volume and five living vaen. She wins her first White local raeon tournament on 945. After rest and illi’s invitation, Kaira visits the Blue palace. At the King’s Violet capital salon on 951 she wins four games. illi presents the challenge coin on 952, after their return. It gives fare-free King’s Highway passage and a standing salon invitation. The staging Registry accepts Kaira for the mineral-vaen expedition. |
+| 953–999 | Preparation through 958. Eleven permanent vaelum members and four contracted environmental Supports depart on 959. The second expedition devotes 17 days to descent (959–975), seven additional days to Blue operations (976–982) and 17 days to ascent (983–999). Harvesting continues across the trip. Kaira is paid at the Day 999 closeout. |
+| 1000–1012 | Recovery on 1000–1004. On 1005 Kaira uses the coin, plays five games at the King’s salon and wins four. She stays with illi at the Violet palace on 1006–1007 and goes home on 1008. After ordinary days she places Blue locally on 1012. |
+| 1013–1018 | Four vaen, two additional large gold plates, crystals and crafting supplies purchased on 1013. Work on 1014–1016 produces an Orange + Blue dual-bypass Shield and the Yellow + Green Genesis Beam. Beam becomes her preferred offense. She retains Fireball. Rest on 1017 and another local Blue placement on 1018. |
+| 1019–1029 | Three applications on 1019. The King’s salon on 1023 has no selected result. Kaira wins White locally on 1024. Two acceptances arrive on 1025 and she chooses the Yellow cavern harvest. An Elaira visit during 1026–1029 remains unselected. |
+| 1030–1049 | Nine registered aithren depart on 1030. Seven days descending, half-day cavern approach on 1037, then harvesting and combat on 1038–1041. On the fourth day the sole Helkir is killed. The planned eleven-day harvest ends. Kaira adds combat shielding and Beam fire during the withdrawal while the Sprite helps stabilize the injured. Seven days of emergency ascent on 1042–1048 bring the survivors to Day 1049 surface return and Registry closeout. |
 
-Her long-duration shield sustainment serves the expedition even in secured areas. Recognizing shield degradation and controlling several targets remain skills she is developing. The researchers notice her Chainmail Robe and recognize her as its creator. She earns their regard as an inventor and as a Green Support Specialist. Party names, findings and the sum paid remain OPEN. [First expedition record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md)
+The first party recognized Kaira as the Chainmail Robe’s creator as well as a capable environmental Support. On the third contract the remaining party recognizes her endurance and defense. The vaelum’s mission failed. Kaira receives her share of actual qualifying recovery and remains Green. A fourth expedition and any optional fifth remain OPEN.
 
-## Prospective contracts and field refinement
+[First expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Second expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) · [Third expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Capital dungeon](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Royal salons](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md) · [Cardsmithing](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Yellow market and contract](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md)
 
-Kaira enjoys delving and wants three or four more assignments with groups harvesting vaen or Genesis crystals, or focusing on ELDRIS. Subsequent contracts, dates, pay and results remain OPEN.
+## Field refinement and future outline
 
 - She is a working independent aithren and a developing Cardsmith, learning to apply classroom knowledge to practical field needs.
-- Repeated field experience develops the two Cards and her work with the Sprite across three capabilities:
-  1. **Fireball:** improved construction and appropriate offensive application.
+- Field experience develops her Cardsmithing and her work with the Sprite across three capabilities:
+  1. **Offense:** Fireball is her first working attack Card. From Day 1016 she prefers the more controllable Beam and keeps Fireball as backup.
   2. **Resolution pseudo-healing:** improved understanding of Resolution/Coherence-based limited restoration, together with the Black Sprite's developing competency.
   3. **Genesis Shield:** improved design, sustained protection, structural integrity perception, and dynamic management across allies.
 - The cycle is **craft → field use → observe limitations → return to workbench → refine → redeploy**.
@@ -118,7 +120,7 @@ Kaira enjoys delving and wants three or four more assignments with groups harves
 
 ## Future exit state
 
-The first research expedition and subsequent contracts give Kaira opportunities to refine the Fireball and Shield and develop her work with the Sprite. Whether she later fabricates a physical pseudo-healing Card remains OPEN. No vaelum membership or later promotion yet.
+Kaira’s three completed expeditions have tested successive Card designs and her coordination with the Sprite. Further contract outcomes remain open. Whether she later fabricates a physical pseudo-healing Card remains OPEN. No vaelum membership or later promotion yet.
 
 ## Dependencies
 

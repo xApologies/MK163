@@ -1,6 +1,6 @@
 # Kaira’s first Blue Dungeon research contract
 
-**Status** · Completed on Day 931 of Book Red. The Crown Accord Registry records a favorable evaluation. Kaira remains an independent Green Support Specialist.
+**Status** · Completed on Day 943 of Book Red. The Crown Accord Registry records a favorable evaluation. Kaira remains an independent Green Support Specialist.
 
 ## Application and preparation
 
@@ -12,13 +12,14 @@ On Days 909–912 she practices her individual Genesis Shield Card on Nyx and th
 
 | Story days | Allocation | Work |
 |---|---|---|
-| 913–917 | 5 days outbound | From the capital’s Blue Dungeon staging area, the party descends through the Red and Orange strata toward the research sites. The detailed route remains open. |
-| 918–921 | 4 days of Yellow-stratum study | The group studies naturally occurring ru’ne and sigil relationships. Kaira sustains environmental protection for researchers and staff. |
-| 922–925 | 4 days of Green-stratum study | The party continues its research in Green. Kaira and the Sprite help carry the support team’s shielding workload. |
-| 926–930 | 5 days inbound | Return travel. No intermediate surface arrival is selected. |
-| 931 | Surface return and Registry closeout | The party completes the expedition. The leader signs off on participants at the Registry, Kaira collects her contracted payment, and favorable feedback enters her dossier. |
+| 913–919 | 7 days descending to Yellow | The large research party departs at the staging Registry and follows mapped passages through Red and Orange under environmental protection. |
+| 920–923 | 4 days of Yellow research | Naturally formed ru’ne, sigil relationships and anchors. The exact Yellow site and findings remain OPEN. |
+| 924–926 | 3 days descending to the Green site | The site is approximately 2.5 miles into Green, around 9 vertical miles below the entrance. |
+| 927–930 | 4 days of Green research | Kaira and the Sprite share the environmental shielding workload with the other support personnel. |
+| 931–942 | 12 days ascending | The group returns via mapped passages, with rest and environmental shielding. Individual encounters remain OPEN. |
+| 943 | Surface return and Registry closeout | The leader validates participants, Kaira collects payment and her dossier receives favorable feedback. Kaira returns home with Nyx and the Black Sprite. |
 
-The travel and study allocations cover 18 days. The surface and Registry closeout brings the total to **19 calendar days**, including both departure and completion. Individual encounters, findings and the amount paid remain OPEN.
+Travel and fieldwork occupy 30 allocated days. The expedition spans **31 calendar days** including surface return and closeout. The payment amount remains OPEN.
 
 ## What the assignment establishes
 
@@ -26,6 +27,8 @@ Dungeon-born ELDRIS are confined to their compatible strata. Environmental Genes
 
 Kaira excels at long-duration environmental protection and can contribute some offense. The Sprite sustains their own shielding and has limited offensive and Resolution-related restorative abilities. Other support personnel share the work. Nyx, Kaira’s independent intelligent family companion, helps significantly against ELDRIS. His contribution gives him no separate Registry certification. The assignment leaves Kaira’s Green rank and her limits in multi-target monitoring and shield-integrity perception intact.
 
-The party notices Kaira’s Chainmail Robe and learns she created it. They receive her warmly as both its inventor and an effective Support Specialist. She enjoys the work and wants three or four further assignments, including vaen or Genesis crystal harvesting and ELDRIS-focused delving. Their identities, dates, pay and outcomes remain OPEN. The first expedition’s leader, party composition, detailed route, specific ELDRIS, injury or casualty counts, loot and scientific findings also remain unspecified.
+The party notices Kaira’s Chainmail Robe and learns she created it. They receive her warmly as both its inventor and an effective Support Specialist. She enjoys the work and wants three or four further assignments, including vaen or Genesis crystal harvesting and ELDRIS-focused delving. The next two contracts are now dated. [Second expedition](KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) · [Third expedition](KAIRA_YELLOW_CAVERN_EXPEDITION.md). The first expedition’s leader, party composition, detailed route, specific ELDRIS, injury or casualty counts, loot and scientific findings also remain unspecified.
 
 [Day 905 certification](KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Author’s date blocks](../../../PROVENANCE/WORKSHOP/BLUE_ARC_006/01_CHRONOLOGY.md) · [Fieldwork evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_006/02_RESEARCH_EXPEDITION.md) · [Dungeon conditions](../../L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md) · [ELDRIS confinement](../../L2_WORLD_CIVILIZATION/ENVIRONMENT/ELDRIS.md) · [Natural sigil evidence](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md)
+
+[Checkpoint 011 chronology retained in 012](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/01_AFFECTED_DAILY_LEDGER.md) · [Research depths and anchor terminology](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md)

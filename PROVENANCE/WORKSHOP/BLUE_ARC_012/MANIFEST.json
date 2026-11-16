@@ -1,0 +1,69 @@
+{
+  "checkpoint": "MK163_BLUE_ARC_012",
+  "type": "cumulative_unintegrated_codex_handoff",
+  "source_checkpoint": "MK163_BLUE_ARC_011_CUMULATIVE_CODEX_HANDOFF.zip",
+  "coverage_days": [
+    913,
+    1049
+  ],
+  "next_day": 1050,
+  "github_pushed": false,
+  "content_file_count": 11,
+  "content_files": [
+    {
+      "name": "01_AFFECTED_DAILY_LEDGER.md",
+      "bytes": 14975,
+      "sha256": "9c6931ceee5033b991dae8fd99f235b8b7cdb2b836f79943c3d7898cd1323efc"
+    },
+    {
+      "name": "02_CAPITAL_DUNGEON_WORLD_CLOCK.md",
+      "bytes": 3120,
+      "sha256": "2fffc849fdc5fea6cfe7582437ce41cfdf4802ccd26907cb05ba2ec8bf44c917"
+    },
+    {
+      "name": "03_SECOND_EXPEDITION.md",
+      "bytes": 2575,
+      "sha256": "4bb6b89108bd98c8dd7c40b66b4fa1f916d7851827ad21681001021e91f32c91"
+    },
+    {
+      "name": "04_ROYAL_SALONS_AND_COIN.md",
+      "bytes": 1952,
+      "sha256": "f3ee4c355b015531f0dbe359fe4f21c6354c20efb0cdd031f90fb51271d66e91"
+    },
+    {
+      "name": "05_OPEN_EXPEDITIONS.md",
+      "bytes": 649,
+      "sha256": "30f5cff5e2e6609efa33813ec03c7f2fa73f9bdb0b3b4a8a03c0a84226e69ef7"
+    },
+    {
+      "name": "06_CODEX_PATCH_AND_AUDIT.md",
+      "bytes": 2699,
+      "sha256": "8fafd4caf0dc8c5302f82ab0d5422630a3e0116ab12155d9a4aa41552be70edf"
+    },
+    {
+      "name": "07_DAYS_1009_TO_1049_LEDGER.md",
+      "bytes": 4207,
+      "sha256": "78828b00d998e54fb0c26f2ed0dd09a760f6177d2609e1792f76192cbe254fbe"
+    },
+    {
+      "name": "08_CARD_UPGRADE_AND_VAEN_ENGINEERING.md",
+      "bytes": 3469,
+      "sha256": "778540ed916668186e5790b687196b1dc64695ab19d4ad100acfc5e85c30593b"
+    },
+    {
+      "name": "09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md",
+      "bytes": 2732,
+      "sha256": "0588e89f5384791986aaf528342dc6b9c68c5b739c4c85f3d6c6e13740d3b540"
+    },
+    {
+      "name": "10_THIRD_EXPEDITION_FAILURE.md",
+      "bytes": 3100,
+      "sha256": "094c582ec528d0cdd72996f67ca4e3e7981cf36ebf37a69f5688ea311f4681a6"
+    },
+    {
+      "name": "11_CODEX_INTEGRATION_012.md",
+      "bytes": 2878,
+      "sha256": "4ef08788c2793068a3b25604738075b94fe6a221e05ffae26f37f98488f3aeac"
+    }
+  ]
+}

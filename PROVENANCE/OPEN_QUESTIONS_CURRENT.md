@@ -1,10 +1,12 @@
-# Blue Arc · open after the Day 931 expedition
+# Blue Arc · open after Day 1049
 
-The four vaen specimens’ species, size, prices and preprocessing remain OPEN. Other open engineering details include the wood species, plate dimensions, sigil geometry, crystal quantities and placement, precise stabilization, quantitative conversion thresholds, losses, energy costs and measured performance. Any later physical pseudo-healing Card, its fabrication date and its basins remain OPEN.
+The prices and biological identities of the crafting vaen, gold plate dimensions, wood species, crystal quantities, engineering geometry, material losses, consumption and measured performance remain OPEN. Day 904 and Day 1016 each have a completed pair. Any physical pseudo-healing Card, its date and its basins remain OPEN.
 
-The first expedition closed on Day 931. Its payment amount, leader, party composition, detailed route and scientific findings remain OPEN. Kaira wants three or four further harvesting or ELDRIS-focused contracts. Their identities, dates, pay and results remain OPEN. Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
+The three expedition closeouts are dated. First-trip payment and research findings, second-trip mineral yields, third-trip recovered weights and actual payout, the other accepted Day 1025 contract, injuries beyond the selected fatality, and later consequences remain OPEN. Fourth and possible fifth contracts are unselected. Violet depth, exact Yellow cavern coordinates, the cause of its exceptional density and the taxonomy of naturally formed anchors remain open. The salon’s 1023 result and a possible Elaira visit during 1026–1029 are unselected.
 
-[Engineering](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Examination](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md)
+Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
+
+[Engineering](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Examination](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) · [Tournament](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) · [Integration audit](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md)
 
 ---
 

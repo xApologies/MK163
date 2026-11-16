@@ -1,3 +1,20 @@
+# The King’s fifth-day raeon salon
+
+The King hosts an informal Aiden gathering in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access.
+
+| Story days | Royal visits and play |
+|---|---|
+| 947–951 | illi’s invitation reaches Kaira at her apartment on 947. Kaira takes a rickshaw to the Blue capital palace on 948 and stays with illi through 950. On 951 illi takes her via the King’s Highway to the Violet capital. illi leaves her at the King’s table and returns near the end of the third game. Kaira wins all four. The King recognizes illi brought a ringer. Play continues after their departure. |
+| 952 | Back in the Blue capital, illi presents the King’s challenge coin. They visit the staging-area Registry together afterward. |
+| 999–1008 | Day 999 is expedition closeout. After recovery on 1000–1004, Kaira goes to the Blue palace on 1005, learns illi is at the Violet capital, uses the coin and plays five games there. She wins four and loses one. The guests celebrate the unidentified player who beats her. She stays with illi at the Violet palace on 1006–1007 and goes home on 1008. |
+| 1023–1024 | She attends the King’s salon on Aiden, Day 1023. Scores remain OPEN. The following day she returns to the Blue capital and wins White at the local card shop. |
+
+The source calls the Aiden event the “fifth-day” salon. Its three selected Aiden dates follow the existing six-day cycle. The description does not reset civil or academic weekday numbering.
+
+[Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Royal salon and coin evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md) · [Later salon and tournaments](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md)
+
+---
+
 # Prism · current game and Blackstone culture
 
 ## Base gameplay

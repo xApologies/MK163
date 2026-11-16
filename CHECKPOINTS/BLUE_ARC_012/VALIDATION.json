@@ -1,0 +1,170 @@
+{
+  "status": "PASS",
+  "original_head": "d45a37d0a3037eba6c3fc84b7632e68ab9132c6b",
+  "archive": "MK163_Blue_Arc_Checkpoint_012_REISSUED.zip",
+  "archive_sha256": "bcc007cb4a56d47e2b22f2b1a57858c4f6c0aa7d69263adfef6fa801acb4b0c0",
+  "crc": "PASS",
+  "original_members": 13,
+  "checked_content_hashes": 11,
+  "source_counts": {
+    "inherited_as_declared": 6,
+    "new": 5
+  },
+  "source_hashes": {
+    "01_AFFECTED_DAILY_LEDGER.md": "9c6931ceee5033b991dae8fd99f235b8b7cdb2b836f79943c3d7898cd1323efc",
+    "02_CAPITAL_DUNGEON_WORLD_CLOCK.md": "2fffc849fdc5fea6cfe7582437ce41cfdf4802ccd26907cb05ba2ec8bf44c917",
+    "03_SECOND_EXPEDITION.md": "4bb6b89108bd98c8dd7c40b66b4fa1f916d7851827ad21681001021e91f32c91",
+    "04_ROYAL_SALONS_AND_COIN.md": "f3ee4c355b015531f0dbe359fe4f21c6354c20efb0cdd031f90fb51271d66e91",
+    "05_OPEN_EXPEDITIONS.md": "30f5cff5e2e6609efa33813ec03c7f2fa73f9bdb0b3b4a8a03c0a84226e69ef7",
+    "06_CODEX_PATCH_AND_AUDIT.md": "8fafd4caf0dc8c5302f82ab0d5422630a3e0116ab12155d9a4aa41552be70edf",
+    "07_DAYS_1009_TO_1049_LEDGER.md": "78828b00d998e54fb0c26f2ed0dd09a760f6177d2609e1792f76192cbe254fbe",
+    "08_CARD_UPGRADE_AND_VAEN_ENGINEERING.md": "778540ed916668186e5790b687196b1dc64695ab19d4ad100acfc5e85c30593b",
+    "09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md": "0588e89f5384791986aaf528342dc6b9c68c5b739c4c85f3d6c6e13740d3b540",
+    "10_THIRD_EXPEDITION_FAILURE.md": "094c582ec528d0cdd72996f67ca4e3e7981cf36ebf37a69f5688ea311f4681a6",
+    "11_CODEX_INTEGRATION_012.md": "4ef08788c2793068a3b25604738075b94fe6a221e05ffae26f37f98488f3aeac",
+    "MANIFEST.json": "6bf92e53436ea2dc5d83304c67f0b17a763db027f1e7bd4b49c74048209022d0",
+    "README.md": "12affb53d7fd51090e7f5b6c0b42f12d7c9ca022acc3d75144d699c89b8b097d"
+  },
+  "coverage": {
+    "unique_civil_rows": 1050,
+    "range": [
+      0,
+      1049
+    ],
+    "previous_rows_through_912": "byte-identical",
+    "rewritten_existing_days": [
+      913,
+      931
+    ],
+    "appended_days": [
+      932,
+      1049
+    ],
+    "new_row_count": 118,
+    "day_1049": "Aerith 27 / Ailor",
+    "next_weekday": "Aithen"
+  },
+  "expeditions": [
+    {
+      "close": 943,
+      "phase_lengths": [
+        7,
+        4,
+        3,
+        4,
+        12,
+        1
+      ],
+      "calendar_days": 31
+    },
+    {
+      "close": 999,
+      "phase_lengths": [
+        17,
+        7,
+        17
+      ],
+      "calendar_days": 41
+    },
+    {
+      "close": 1049,
+      "phase_lengths": [
+        7,
+        1,
+        4,
+        7,
+        1
+      ],
+      "calendar_days": 20,
+      "fatality_day": 1041
+    }
+  ],
+  "royal_salons": [
+    951,
+    1005,
+    1023
+  ],
+  "coin_day": 952,
+  "local_oscillations": [
+    11,
+    9,
+    7,
+    6,
+    4,
+    3
+  ],
+  "card_basins": {
+    "GE-0537": [
+      "Blue",
+      "Orange"
+    ],
+    "GE-0043": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  "yellow_eln_per_100g": {
+    "retail": 60,
+    "wholesale": 49,
+    "vaelum": 35,
+    "kaira": 7,
+    "other_support": 7,
+    "gross_spread": 11
+  },
+  "all_internal_path_links_in_touched_markdown": 1536,
+  "stale_closeout_assertions": 0,
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": []
+  },
+  "added": [
+    "CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLUE_ARC_012/VALIDATION.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/01_AFFECTED_DAILY_LEDGER.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/02_CAPITAL_DUNGEON_WORLD_CLOCK.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/03_SECOND_EXPEDITION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/05_OPEN_EXPEDITIONS.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/06_CODEX_PATCH_AND_AUDIT.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/08_CARD_UPGRADE_AND_VAEN_ENGINEERING.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/10_THIRD_EXPEDITION_FAILURE.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/11_CODEX_INTEGRATION_012.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_012/README.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_005/ARC.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "README.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L1_FANTASY/GENESIS_CARDS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md"
+  ],
+  "deleted": []
+}

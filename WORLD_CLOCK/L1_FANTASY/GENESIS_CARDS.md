@@ -18,7 +18,7 @@ The complete earlier record follows. Only explicit scoped amendments above super
 
 # Ordinary Card fabrication and Kaira’s three Blue expedition Cards
 
-**Blue Arc · Day 905.** [Cardsmithing and fabrication](../L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) owns both manufacturing routes. Kaira completes her ordinary Fireball and individual Genesis Shield Cards on Day 904. The Shield attaches to the recipient’s Genesis field. At her first Support exam the Black Sprite provides limited Resolution/Coherence pseudo-healing directly. A future physical Card for that ability remains OPEN. The candidate raw beam remains unselected. Both completed Cards obey ordinary basin exclusivity. They introduce no Temporary Transduction System prototype, special Black Cards or new interface.
+**Blue Arc · Day 905.** [Cardsmithing and fabrication](../L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) owns both manufacturing routes. Kaira completes her ordinary Fireball and individual Genesis Shield Cards on Day 904. The Shield attaches to the recipient’s Genesis field. At her first Support exam the Black Sprite provides limited Resolution/Coherence pseudo-healing directly. A future physical Card for that ability remains OPEN. That first examination uses Fireball. Kaira completes the conventional GE-0043 Genesis Beam on Day 1016 and adopts it as her primary offense. Both completed Cards obey ordinary basin exclusivity. They introduce no Temporary Transduction System prototype, special Black Cards or new interface.
 
 Source and decisions: [Book Red reconciliation](../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
 

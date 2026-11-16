@@ -519,6 +519,17 @@
       "source_mapping": "CHECKPOINTS/BLUE_ARC_006/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLUE_ARC_006/VALIDATION.json",
       "scope": "Day 905 badge and application, first Blue Dungeon research expedition and Day 931 closeout"
+    },
+    {
+      "id": "MK163_BLUE_ARC_012",
+      "baseline": "d45a37d0a3037eba6c3fc84b7632e68ab9132c6b",
+      "archive": "MK163_Blue_Arc_Checkpoint_012_REISSUED.zip",
+      "archive_sha256": "bcc007cb4a56d47e2b22f2b1a57858c4f6c0aa7d69263adfef6fa801acb4b0c0",
+      "source_root": "PROVENANCE/WORKSHOP/BLUE_ARC_012",
+      "manifest": "PROVENANCE/WORKSHOP/BLUE_ARC_012/MANIFEST.json",
+      "source_mapping": "CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLUE_ARC_012/VALIDATION.json",
+      "scope": "Corrected Days 913–1049, three expeditions, royal salons, dungeon geography, paired-vaen upgrade and Yellow market"
     }
   ]
 }

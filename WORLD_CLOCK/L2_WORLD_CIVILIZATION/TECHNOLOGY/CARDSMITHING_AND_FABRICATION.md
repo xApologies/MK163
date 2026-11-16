@@ -1,3 +1,24 @@
+# Days 1013–1016 · dual-bypass Shield and Genesis Beam
+
+Day 1013 purchases include four vaen, two additional large gold sigil plates for the native-blackwood desk, Genesis Crystals and ordinary fabrication supplies. The plates are rectangular or square, reusable apparatus. Their dimensions, prices and the consumable quantities are open. Three days of work on Days 1014–1016 complete both Cards on Day 1016.
+
+| New Card | Active personal basins | Implementation |
+|---|---|---|
+| Individual Genesis Shield GE-0537 | Orange + Blue | Yellow-only reference with a Yellow-primary hybrid (Orange/Blue secondaries), and Green-only reference with a Green-primary hybrid (Orange/Blue secondaries). |
+| Genesis Beam GE-0043 | Yellow + Green | Conventional manufacture with Genesis Crystals and ordinary Card materials. No specialized bypass vaen. |
+
+The two reference/hybrid assemblies separately reproduce the contributions of Yellow and Green inside the Shield’s manifold, stabilized from retained Orange and Blue energy. Neither bypassed personal basin supplies energy or is occupied by the Shield. Vaen act as structural anchors. The extension is demonstrated for this design, subject to throughput, fatigue, control, sustain and integrity.
+
+The directed Beam concentrates Genesis energy along resolved beam geometry. Its activation is project/deploy, its sustain is mixed, and Channel permits continuous output while energy, required basins and fatigue allow. Kaira adopts it as her primary offensive Card and keeps the Day 904 Fireball as backup. Beam and new Shield have disjoint active sets and can operate together, leaving Red and Violet free. Fireball requires Red + Blue and overlaps the new Shield at Blue. Ordinary exclusivity prevents their simultaneous operation. No promotion or general compression rule follows.
+
+GE-0043 is an industrial catalogue assignment in MK727. Its historical price ladder has no role in MK163 pricing.
+
+[Author’s engineering record](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/08_CARD_UPGRADE_AND_VAEN_ENGINEERING.md) · [Field use](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md)
+
+[MK727 GE-0043, row 171](https://github.com/xApologies/MK727/blob/8e5f5fead9621c81cf2064190cc732dbd399f7f1/catalogues/genesis-cards/MK727_GENESIS_CARD_MASTER_1245.csv#L171)
+
+---
+
 # Blue Arc · paired vaen and Kaira’s home Cardsmithing workstation
 
 Kaira’s Shield notebook is complete on Day 897. Her Fireball redesign builds on her existing Blackstone Card and its connection to her mother’s Cardsmithing. Both ordinary operational Cards are completed on Day 904.
@@ -15,7 +36,7 @@ On Day 899 Kaira inspects each of these four specimens before purchase.
 
 In Kaira’s paired-vaen design the single-basin specimen supplies the topology and density reference for the bypassed basin. The hybrid couples that reference to the retained active connections. Inside the prepared manifold, the retained basins supply energy that is concentrated and structurally stabilized to emulate the missing contribution as **local pseudo-basin density**. The vaen serve as anchors. The bypassed personal basin supplies no energy and remains unoccupied by that Card. This is the selected in-world mechanism for these designs. General compressibility, exact equations and quantitative conversion thresholds remain OPEN.
 
-The completed pair can operate together under ordinary exclusivity. Their five active basins leave Violet free. Bandwidth, fatigue, energy draw, throughput, integrity, admissibility and control still limit use. Reduced basin count alone establishes no energy saving. The Shield attaches to an individual’s Genesis field. A possible two-basin Shield belongs to speculative senior practice. The four-basin Blue-primary hybrid is comparatively specialized. Vaen species, sizes, botanical identity, preprocessing and prices remain OPEN.
+The completed pair can operate together under ordinary exclusivity. Their five active basins leave Violet free. Bandwidth, fatigue, energy draw, throughput, integrity, admissibility and control still limit use. Reduced basin count alone establishes no energy saving. The Shield attaches to an individual’s Genesis field. At the Day 904 milestone Kaira had demonstrated a three-basin Shield. Her later two-basin design uses a different pair of bypasses. The four-basin Blue-primary hybrid is comparatively specialized. Vaen species, sizes, botanical identity, preprocessing and prices remain OPEN.
 
 ### Workstation at the Green District apartment
 
