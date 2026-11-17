@@ -1,0 +1,55 @@
+{
+  "previous_zip": "MK163_Violet_CSR_Cumulative_Codex_Handoff_2026-11-17.zip",
+  "previous_zip_sha256": "1ee05eee29e909f639134362530132fff5a1fb4af7a3bc7fe80237805c64e9ee",
+  "inherited_payload_files": [
+    {
+      "path": "AERA/L1/INTERFACES/05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md",
+      "byte_identical": true,
+      "sha256": "f70e8354caa938fbf12e0f26f4568bb97ba89904d3028e4ae555f50cc87e2ed2"
+    },
+    {
+      "path": "AERA/L2/TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md",
+      "byte_identical": true,
+      "sha256": "f2c14522d2547ff462208ee892632ffad292c6cbf56a7a77d3f63a7a575b2a9c"
+    },
+    {
+      "path": "INTEGRATION_FOR_CODEX.md",
+      "byte_identical": true,
+      "sha256": "facddb550513898dcd437bb945564f9450d853a47dfd0bb056f0eefa47a2d071"
+    },
+    {
+      "path": "MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_CSR_TRAVERSAL_HANDOFF.md",
+      "byte_identical": true,
+      "sha256": "83cce4851596299b7deba72ec190803ce791b6daba87c8a6daed96edf39debdb"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md",
+      "byte_identical": true,
+      "sha256": "2ebb9c97366fb95b794411c64bd77247388eceeb8b9527ed610b335b682b3a85"
+    },
+    {
+      "path": "MK727/catalogues/genesis-cards/MK727_GENESIS_CARD_MASTER_1245.csv",
+      "byte_identical": true,
+      "sha256": "4e7d13925b024f679aca369a08a8ca2b064b4794cde3654431e28bee531edab3"
+    }
+  ],
+  "previous_manifest_preserved_byte_identical": true,
+  "catalogue": {
+    "rows": 1245,
+    "columns": 65,
+    "unchanged_from_previous_checkpoint": true,
+    "original_columns": 56,
+    "original_cell_differences": [
+      {
+        "row_1_based": 37,
+        "id": "DG-0031",
+        "column": "required_basins",
+        "original": "[\"Orange\", \"Yellow\"]",
+        "updated": "[\"Orange\", \"Yellow\", \"Blue\", \"Violet\"]"
+      }
+    ],
+    "priced_rows": 1016,
+    "unpriced_rows": 229
+  },
+  "scope": "Preservation plus graph-generation audit; no remote repository integration performed."
+}

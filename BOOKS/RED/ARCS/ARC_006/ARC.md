@@ -21,7 +21,7 @@ Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam
 ## Vaelum and personal trajectory
 - Kaira now trains with her **vaelum** on dungeon runs. They practice mapped routes, formation and teamwork in preparation for the King’s Tournament. Her environmental shielding complements the existing combat Support’s tactical role.
 - This fulfills her romanticized childhood image of an aithren, while still allowing her to be an armorsmith, Cardsmith, Support Specialist and emerging Architect.
-- The [rescue and dinner record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) gives the seven roles. The group’s name, the six other members’ identities and ranks, leadership, specific training runs, routes and durations remain OPEN.
+- The [rescue and dinner record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) gives the seven roles. The leader is a Guardian and son of an Orange-ranked noble from another Blue Domain city. An Offensive Specialist provides air mobility. The group’s name and the six other members’ names, ranks and personalities remain OPEN. [Traversal logistics and residences](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md) records their equipment, support roles and gradual staging-settlement relocation.
 
 ## Exit state
 
@@ -32,3 +32,13 @@ Kaira’s training with her vaelum leads toward the Tournament in White. The qua
 [ARC](../ARC_005/ARC.md); [GENESIS_ROBE](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md); [CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md); [AITHREN_VAELUM_ACCORD](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md).
 
 Evidence: [03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE](../../../../PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/DELIVERY/CANON/03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE.md).
+
+## Selected schedule through Day 1159
+
+[The daily plan](VIOLET_DAILY_LEDGER_007.md) and [its CSV](VIOLET_DAILY_LEDGER_007.csv) record the four selected itineraries, royal games on 1085 and 1139, ordinary downtime on 1120, time with illi on 1140–1141, and the staging return on 1142. VTR-10 departs on 1143 and returns on 1159, with Yellow ELDRIS combat during the ascent. The first B041 Blue trial remains distinct from the earlier Y045 combat training.
+
+## Violet training and CSR planning
+
+The [atlas](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) supplies a shared working map. [Eleven route records](TRAINING_ROUTES_005/README.md) retain every node expectation and passage. VTR-09, VTR-01, VTR-02 and VTR-10 have selected schedules. The remaining seven itineraries are proposals.
+
+Kaira plans to make a CSR Card using her existing workstation. Its manufacture date, trials and resulting traversal choices remain OPEN. The leader already has CSR and a dimensional bracelet. The air specialist and the Black Sprite have distinct crossing roles. [CSR workshop decisions](VIOLET_CSR_TRAVERSAL_HANDOFF.md) records those developments. The Genesis Robe remains a separate native construction showing potential architectural capacity.

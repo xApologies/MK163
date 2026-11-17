@@ -1,0 +1,80 @@
+day,weekday_number,weekday,event,authority
+1081,1,Aiven,"Recovery, personal time, and vaelum arrangements; individual scenes OPEN",Author-selected event/date; weekday mechanically calculated
+1082,2,Ailar,"Recovery, personal time, and vaelum arrangements; individual scenes OPEN",Author-selected event/date; weekday mechanically calculated
+1083,3,Aiden,"Recovery, personal time, and vaelum arrangements; individual scenes OPEN",Author-selected event/date; weekday mechanically calculated
+1084,4,Aiveth,"Recovery, personal time, and vaelum arrangements; individual scenes OPEN",Author-selected event/date; weekday mechanically calculated
+1085,5,Ailor,King's raeon card game; exact location/participants subject to established continuity,Author-selected event/date; weekday mechanically calculated
+1086,6,Aithen,Return to Blue capital and expedition preparation,Author-selected event/date; weekday mechanically calculated
+1087,1,Aiven,"VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route",Author-selected event/date; weekday mechanically calculated
+1088,2,Ailar,"VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route",Author-selected event/date; weekday mechanically calculated
+1089,3,Aiden,"VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route",Author-selected event/date; weekday mechanically calculated
+1090,4,Aiveth,"VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route",Author-selected event/date; weekday mechanically calculated
+1091,5,Ailor,VTR-09: three full days of sustained ELDRIS combat at Y045,Author-selected event/date; weekday mechanically calculated
+1092,6,Aithen,VTR-09: three full days of sustained ELDRIS combat at Y045,Author-selected event/date; weekday mechanically calculated
+1093,1,Aiven,VTR-09: three full days of sustained ELDRIS combat at Y045,Author-selected event/date; weekday mechanically calculated
+1094,2,Ailar,VTR-09: return by same route; arrival 1097,Author-selected event/date; weekday mechanically calculated
+1095,3,Aiden,VTR-09: return by same route; arrival 1097,Author-selected event/date; weekday mechanically calculated
+1096,4,Aiveth,VTR-09: return by same route; arrival 1097,Author-selected event/date; weekday mechanically calculated
+1097,5,Ailor,VTR-09: return by same route; arrival 1097,Author-selected event/date; weekday mechanically calculated
+1098,6,Aithen,Five full downtime days; relocation to staging residences may be gradual,Author-selected event/date; weekday mechanically calculated
+1099,1,Aiven,Five full downtime days; relocation to staging residences may be gradual,Author-selected event/date; weekday mechanically calculated
+1100,2,Ailar,Five full downtime days; relocation to staging residences may be gradual,Author-selected event/date; weekday mechanically calculated
+1101,3,Aiden,Five full downtime days; relocation to staging residences may be gradual,Author-selected event/date; weekday mechanically calculated
+1102,4,Aiveth,Five full downtime days; relocation to staging residences may be gradual,Author-selected event/date; weekday mechanically calculated
+1103,5,Ailor,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1104,6,Aithen,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1105,1,Aiven,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1106,2,Ailar,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1107,3,Aiden,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1108,4,Aiveth,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1109,5,Ailor,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1110,6,Aithen,VTR-01 first Blue navigation trial: descend R001 to B041,Author-selected event/date; weekday mechanically calculated
+1111,1,Aiven,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1112,2,Ailar,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1113,3,Aiden,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1114,4,Aiveth,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1115,5,Ailor,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1116,6,Aithen,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1117,1,Aiven,VTR-01 return by same route; arrival 1117,Author-selected event/date; weekday mechanically calculated
+1118,2,Ailar,Downtime,Author-selected event/date; weekday mechanically calculated
+1119,3,Aiden,Downtime,Author-selected event/date; weekday mechanically calculated
+1120,4,Aiveth,Ordinary downtime,Author correction 2026-11-17; local tournament omitted
+1121,5,Ailor,Downtime and preparation,Author-selected event/date; weekday mechanically calculated
+1122,6,Aithen,Downtime and preparation,Author-selected event/date; weekday mechanically calculated
+1123,1,Aiven,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1124,2,Ailar,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1125,3,Aiden,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1126,4,Aiveth,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1127,5,Ailor,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1128,6,Aithen,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1129,1,Aiven,VTR-02 second Blue navigation trial: descend R001 to B013,Author-selected event/date; weekday mechanically calculated
+1130,2,Ailar,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1131,3,Aiden,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1132,4,Aiveth,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1133,5,Ailor,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1134,6,Aithen,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1135,1,Aiven,VTR-02 return by same route; arrival 1135,Author-selected event/date; weekday mechanically calculated
+1136,2,Ailar,Recovery and personal time,Author-selected event/date; weekday mechanically calculated
+1137,3,Aiden,Recovery and personal time after VTR-02; individual scenes OPEN,Author-selected event/date; weekday mechanically calculated
+1138,4,Aiveth,Recovery and personal time after VTR-02; individual scenes OPEN,Author-selected event/date; weekday mechanically calculated
+1139,5,Ailor,King's raeon card game in Violet Domain royal capital (fifth weekday),Author-selected event/date; weekday mechanically calculated
+1140,6,Aithen,"Princess illi visit, day 1 of 2",Author-selected event/date; weekday mechanically calculated
+1141,1,Aiven,"Princess illi visit, day 2 of 2",Author-selected event/date; weekday mechanically calculated
+1142,2,Ailar,Morning return to Blue capital dungeon staging settlement; preparation for Green delve,Author-selected event/date; weekday mechanically calculated
+1143,3,Aiden,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1144,4,Aiveth,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1145,5,Ailor,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1146,6,Aithen,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1147,1,Aiven,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1148,2,Ailar,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1149,3,Aiden,VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route,Author-selected event/date; weekday mechanically calculated
+1150,4,Aiveth,VTR-10: sustained ELDRIS combat training at G076; resource recovery as available,Author-selected event/date; weekday mechanically calculated
+1151,5,Ailor,VTR-10: sustained ELDRIS combat training at G076; resource recovery as available,Author-selected event/date; weekday mechanically calculated
+1152,6,Aithen,VTR-10: sustained ELDRIS combat training at G076; resource recovery as available,Author-selected event/date; weekday mechanically calculated
+1153,1,Aiven,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1154,2,Ailar,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1155,3,Aiden,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1156,4,Aiveth,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1157,5,Ailor,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1158,6,Aithen,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated
+1159,1,Aiven,VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159,Author-selected event/date; weekday mechanically calculated

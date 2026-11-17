@@ -1,0 +1,344 @@
+{
+  "package": "MK163 Violet cumulative checkpoint — Dungeon Atlas 002",
+  "date": "2026-11-17",
+  "cumulative_parent": "MK163_Violet_CSR_Cumulative_Codex_Handoff_2026-11-17.zip",
+  "scope": "Prior workshop payload plus proposed local Level 2 dungeon graph, maps, tables and integration guidance. Not a full repository export.",
+  "files": [
+    {
+      "path": "AERA/L1/INTERFACES/05_BINDING_CARD_BASIN_SUPPLY_AND_CSR.md",
+      "bytes": 5215,
+      "sha256": "f70e8354caa938fbf12e0f26f4568bb97ba89904d3028e4ae555f50cc87e2ed2"
+    },
+    {
+      "path": "AERA/L2/TECHNOLOGY/CSR_AND_DIMENSIONAL_EXPEDITION_EQUIPMENT.md",
+      "bytes": 1881,
+      "sha256": "f2c14522d2547ff462208ee892632ffad292c6cbf56a7a77d3f63a7a575b2a9c"
+    },
+    {
+      "path": "DELIVERY_VALIDATION.json",
+      "bytes": 1603,
+      "sha256": "108b67c1082bf31628e79d19baa9c2194286affbee650003460ee3e429080e5f"
+    },
+    {
+      "path": "INTEGRATION_DUNGEON_002.md",
+      "bytes": 3592,
+      "sha256": "a492013fbc50e0661061bd72ec6681df8c75ddfe8a547dab2048ea4986740295"
+    },
+    {
+      "path": "INTEGRATION_FOR_CODEX.md",
+      "bytes": 4631,
+      "sha256": "facddb550513898dcd437bb945564f9450d853a47dfd0bb056f0eefa47a2d071"
+    },
+    {
+      "path": "MK163/BOOKS/RED/ARCS/ARC_006/DUNGEON_ATLAS_002_BRIDGE.md",
+      "bytes": 1179,
+      "sha256": "6350a1bb14fc9629c04afd9489a5bef9c6e00ff229aa4351d1beb0dd758c32bf"
+    },
+    {
+      "path": "MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_CSR_TRAVERSAL_HANDOFF.md",
+      "bytes": 1496,
+      "sha256": "83cce4851596299b7deba72ec190803ce791b6daba87c8a6daed96edf39debdb"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md",
+      "bytes": 4455,
+      "sha256": "2ebb9c97366fb95b794411c64bd77247388eceeb8b9527ed610b335b682b3a85"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/AUTHOR_DECISIONS_AND_SCOPE.md",
+      "bytes": 4843,
+      "sha256": "445d73bd76cf3204d9086d40327ada9b6ae6cb7c1ccee91ebf415c6d46887b96"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/BLUE_CAPITAL_DUNGEON_ATLAS_002.pdf",
+      "bytes": 397806,
+      "sha256": "126d94396e3938b38eef46f78fc1980c9a11fe685a6e1cb37a7071f50e525ef7"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/DATA_DICTIONARY.md",
+      "bytes": 2643,
+      "sha256": "dab84f33139f3366e4d695399a29e8d61547ddcb3318c0a843e742445bd94bdb"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/DUNGEON_EXPLORER.html",
+      "bytes": 497024,
+      "sha256": "17a5760584ba12e50c6841e7da390b9c4c11736a8ef5af0e662766cf4b6cd7a8"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md",
+      "bytes": 5025,
+      "sha256": "3134c4efee4d6937fa59c4af163b342d4a0f76e394be4e41e5dad0b9a6266d96"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/VALIDATION.json",
+      "bytes": 3367,
+      "sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/adjacency.csv",
+      "bytes": 9839,
+      "sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/dungeon_graph.graphml",
+      "bytes": 303516,
+      "sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/dungeon_graph.json",
+      "bytes": 766955,
+      "sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/edges.csv",
+      "bytes": 175600,
+      "sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/nodes.csv",
+      "bytes": 53555,
+      "sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/stratum_connections.csv",
+      "bytes": 2342,
+      "sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/data/view_index.csv",
+      "bytes": 19548,
+      "sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/01_MASTER_DEPTH_NETWORK.pdf",
+      "bytes": 123165,
+      "sha256": "f837042e0cc460b2a17fea8e3074d77c9d52921c6fefd21da9956ceb7fa5776e"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/01_MASTER_DEPTH_NETWORK.png",
+      "bytes": 1094695,
+      "sha256": "96ce8b841ea575546838902ee572ad7e4da325a8404ca55a05039378bc9cca28"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/01_MASTER_DEPTH_NETWORK.svg",
+      "bytes": 443853,
+      "sha256": "dfd11b84a510e6f56027e72ae372a1500bfeed87ed8f33d20e0ebb58f8edd019"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/02_SECOND_DEPTH_NETWORK.pdf",
+      "bytes": 129524,
+      "sha256": "4eccfa1c5401b6309fbcc95545fd4eda85ce416ed79dacd9c5c59b6f097bfbcd"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/02_SECOND_DEPTH_NETWORK.png",
+      "bytes": 806090,
+      "sha256": "d2373439d2c9ea47afc5363db45b1ef4de0eeb4c1e44275cb7dddc004cf26e72"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/02_SECOND_DEPTH_NETWORK.svg",
+      "bytes": 448464,
+      "sha256": "5125607a93a8ae5dc96060e1e8f31ac155353bf4e09236eed8b22b12051ed76f"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/03_RED_PLAN.pdf",
+      "bytes": 37822,
+      "sha256": "44db3feaa41846f111e23bcef25978c654940e18ce27c681e72883ad15e22cb7"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/03_RED_PLAN.png",
+      "bytes": 279392,
+      "sha256": "a541498fb9b29ea0947aeab64f0cf97996244accb6d757e7cb3a219611ac2f13"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/03_RED_PLAN.svg",
+      "bytes": 69180,
+      "sha256": "d32070c4510102ae2ebaf00130b49f9c2309e8b3fd1ef6cc327a4b0c53fdb49a"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/04_ORANGE_PLAN.pdf",
+      "bytes": 43569,
+      "sha256": "fb66bc090272a4cc429ce401b4f57edf57c691f99b2a066b660090ffefc7b8eb"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/04_ORANGE_PLAN.png",
+      "bytes": 323275,
+      "sha256": "847330dd3a3c538210c44641458455164dcb53e375cf0c5d8f3b71f3e8dda02d"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/04_ORANGE_PLAN.svg",
+      "bytes": 93967,
+      "sha256": "62053a4323465c14428588ad687ae1fdde44daeb14ba5f0e6d75c9d7eaa96cbb"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/05_YELLOW_PLAN.pdf",
+      "bytes": 49560,
+      "sha256": "c23feea3a854381d5ac77190eba515484cc6e69924111c7697992bbc17868133"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/05_YELLOW_PLAN.png",
+      "bytes": 360012,
+      "sha256": "d31818ce2a4a0a1da2f2429416982c4d2270752b6381fcd8eda3a3d084ceab46"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/05_YELLOW_PLAN.svg",
+      "bytes": 118970,
+      "sha256": "976bac660fda660503f72e489b3782be925ae79752338c2f03a5cf0c1bd59827"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/06_GREEN_PLAN.pdf",
+      "bytes": 53137,
+      "sha256": "bf5826ada63f62d36c2e8402d2f5719148d28dbf6a04d9dc0769726b8ee90093"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/06_GREEN_PLAN.png",
+      "bytes": 375154,
+      "sha256": "40853dd50db1fc5d96f4a47428c0fc8422959be7788165cb5e37ed37e80e6e2e"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/06_GREEN_PLAN.svg",
+      "bytes": 132886,
+      "sha256": "b13f0ece52ed13203181fa91fbdd5fd545ce55d6ba583ef32e0e961f0cd5feb1"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/07_BLUE_PLAN.pdf",
+      "bytes": 56742,
+      "sha256": "939ca7d7ec48fb5e236947aef7bed0010fb458c9f7629ccff581a9449b664229"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/07_BLUE_PLAN.png",
+      "bytes": 373391,
+      "sha256": "75a2a48e0fd90d551e9a602dd1b65634d6d04ec64c3d703c4c65992136e23e97"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/07_BLUE_PLAN.svg",
+      "bytes": 143112,
+      "sha256": "c8acf5c7d396ed4e0ddb6d451da18b185b819e0578b12521a2e336dec718c181"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/08_COMMON_SCALE_OVERLAY.pdf",
+      "bytes": 56431,
+      "sha256": "b8c258d7aa182b8b0957b3a3c3431192fa444ceca557182f326f355ef79f6a62"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/08_COMMON_SCALE_OVERLAY.png",
+      "bytes": 440333,
+      "sha256": "33034a7ec532f9bbc562aea55d92eb1869290bc9543a7fcacd03bb6c19df5b4d"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/08_COMMON_SCALE_OVERLAY.svg",
+      "bytes": 233415,
+      "sha256": "098c550d6dc2c6eb013475821090c12b78949fd7fd5693c230be09714b49e7c1"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/tools/build_viewer.py",
+      "bytes": 14735,
+      "sha256": "f5625729c6c7765cb9e24b2c45a4b46666286cf636664b6e7044a1eabf15c675"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/tools/generate_proposal_002.py",
+      "bytes": 13642,
+      "sha256": "d4f42d3b67d90245624beec3fff4bdb4a7dce0b26717bb14defb6e395e2217b5"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/tools/render_atlas.py",
+      "bytes": 11713,
+      "sha256": "2951c4209ddb517e388fe345614b58917df07a838c27d41e1c0d1bbac5e7d126"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/tools/requirements.txt",
+      "bytes": 32,
+      "sha256": "80dfbfc982ebdf4cee539ef427c75376abb78c2c90546fb63846a35b3241d460"
+    },
+    {
+      "path": "MK163/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/tools/validate_graph.py",
+      "bytes": 3900,
+      "sha256": "e50fc59609b430f02f43c840dd54bf295e597d8c4dc32aff35064cc111065b74"
+    },
+    {
+      "path": "MK727/catalogues/genesis-cards/MK727_GENESIS_CARD_MASTER_1245.csv",
+      "bytes": 1943317,
+      "sha256": "4e7d13925b024f679aca369a08a8ca2b064b4794cde3654431e28bee531edab3"
+    },
+    {
+      "path": "PROVENANCE/PREVIOUS_CHECKPOINT/CARRY_FORWARD_AUDIT.json",
+      "bytes": 2028,
+      "sha256": "9bdc0185a0cf31d5e04fb4108b8254287f0553e1d90813f1584e32feac8bc6e2"
+    },
+    {
+      "path": "PROVENANCE/PREVIOUS_CHECKPOINT/MANIFEST_001.json",
+      "bytes": 1563,
+      "sha256": "17cc5d2ce6fc9677148fe909be6443664e134ad78951d7704086ad327ac5857b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1456,
+      "sha256": "5ca64bf0d90d588e6646da9a40f638ab222b510e6cd1e11676104d535d3e836a"
+    }
+  ],
+  "audit_summary": {
+    "status": "PASS",
+    "date": "2026-11-17",
+    "graph": {
+      "nodes": 340,
+      "edges": 709,
+      "principal_nodes": 258,
+      "terminal_arm_nodes": 82,
+      "terminal_tips": 32,
+      "interstratum_edges": 60,
+      "connected_components": 1,
+      "independent_cycles": 370,
+      "average_degree": 4.171,
+      "maximum_degree": 8,
+      "principal_articulation_points": [],
+      "entrance_degree": 4
+    },
+    "pdf_pages": 10,
+    "all_340_ids_in_master_elevation": true,
+    "plan_label_checks": {
+      "R": {
+        "expected_own_nodes": 40,
+        "all_labels_present": true
+      },
+      "O": {
+        "expected_own_nodes": 52,
+        "all_labels_present": true
+      },
+      "Y": {
+        "expected_own_nodes": 68,
+        "all_labels_present": true
+      },
+      "G": {
+        "expected_own_nodes": 80,
+        "all_labels_present": true
+      },
+      "B": {
+        "expected_own_nodes": 100,
+        "all_labels_present": true
+      }
+    },
+    "reproducible_graph_generator_byte_identical": true,
+    "offline_viewer_tests": {
+      "browser": "Chromium",
+      "all_nodes_rendered": 340,
+      "Y_W015_selects": "Y023",
+      "three_dimensional_view_nodes": 340,
+      "javascript_errors": []
+    },
+    "visual_review": [
+      "both guide pages",
+      "master depth projection",
+      "five plan pages",
+      "viewer Yellow selection"
+    ],
+    "previous_payload_files_preserved": 6,
+    "catalogue_unchanged_from_previous_checkpoint": true,
+    "remote_repository_changes": false,
+    "not_certified": [
+      "in-world survey knowledge",
+      "route walkability or timing",
+      "detailed geological realism",
+      "biome placement",
+      "historical site coordinates"
+    ]
+  }
+}

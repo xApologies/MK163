@@ -1,0 +1,26 @@
+{
+  "status": "author_locked_route",
+  "source_checkpoint": "003",
+  "path": [
+    "R001",
+    "R018",
+    "R023",
+    "R025",
+    "O031",
+    "O039",
+    "O042",
+    "Y036",
+    "Y055",
+    "G038",
+    "G067",
+    "B041"
+  ],
+  "destination": "B041",
+  "modeled_one_way_mi": 17.78746,
+  "passage_difficulty": {
+    "low": 2,
+    "medium": 3,
+    "hard": 6
+  },
+  "original_archive_sha256": "eaa228f89be793e8269d8932023a02980416b0de64db2f466447edcd3e22c7d9"
+}

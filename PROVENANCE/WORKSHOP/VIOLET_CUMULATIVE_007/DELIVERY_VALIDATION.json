@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "date": "2026-11-17",
+  "graph": {
+    "nodes": 340,
+    "edges": 709,
+    "principal_nodes": 258,
+    "terminal_arm_nodes": 82,
+    "terminal_tips": 32,
+    "interstratum_edges": 60,
+    "connected_components": 1,
+    "independent_cycles": 370,
+    "average_degree": 4.171,
+    "maximum_degree": 8,
+    "principal_articulation_points": [],
+    "entrance_degree": 4
+  },
+  "pdf_pages": 10,
+  "all_340_ids_in_master_elevation": true,
+  "plan_label_checks": {
+    "R": {
+      "expected_own_nodes": 40,
+      "all_labels_present": true
+    },
+    "O": {
+      "expected_own_nodes": 52,
+      "all_labels_present": true
+    },
+    "Y": {
+      "expected_own_nodes": 68,
+      "all_labels_present": true
+    },
+    "G": {
+      "expected_own_nodes": 80,
+      "all_labels_present": true
+    },
+    "B": {
+      "expected_own_nodes": 100,
+      "all_labels_present": true
+    }
+  },
+  "reproducible_graph_generator_byte_identical": true,
+  "offline_viewer_tests": {
+    "browser": "Chromium",
+    "all_nodes_rendered": 340,
+    "Y_W015_selects": "Y023",
+    "three_dimensional_view_nodes": 340,
+    "javascript_errors": []
+  },
+  "visual_review": [
+    "both guide pages",
+    "master depth projection",
+    "five plan pages",
+    "viewer Yellow selection"
+  ],
+  "previous_payload_files_preserved": 6,
+  "catalogue_unchanged_from_previous_checkpoint": true,
+  "remote_repository_changes": false,
+  "not_certified": [
+    "in-world survey knowledge",
+    "route walkability or timing",
+    "detailed geological realism",
+    "biome placement",
+    "historical site coordinates"
+  ]
+}

@@ -149,3 +149,12 @@ CHECKPOINTS/BLACKSTONE_CURRICULUM_V5_1/TEACHING_PATCH.diff -text -whitespace
 /PROVENANCE/WORKSHOP/BLUE_ARC_014/** -text
 /PROVENANCE/WORKSHOP/BLUE_ARC_014/04_DAILY_LEDGER_1050_1080.csv whitespace=trailing-space,space-before-tab,cr-at-eol
 /CHECKPOINTS/BLUE_ARC_014/*.json text eol=lf
+/PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/** -text whitespace=trailing-space,space-before-tab,cr-at-eol
+/CHECKPOINTS/VIOLET_CUMULATIVE_007/*.json text eol=lf
+/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/** -text whitespace=trailing-space,space-before-tab,cr-at-eol
+# Preserve generated path whitespace in the supplied SVG maps.
+/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/maps/*.svg -whitespace
+/BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/** -text whitespace=trailing-space,space-before-tab,cr-at-eol
+/BOOKS/RED/ARCS/ARC_006/FIRST_VAELUM_TRIAL_R001_B041_NODES.csv -text whitespace=trailing-space,space-before-tab,cr-at-eol
+
+/BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.* text eol=lf

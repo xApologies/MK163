@@ -408,3 +408,7 @@ The original ledger above remains as the Live Model 003 audit record. The rows b
 | WHITE-CONCLUSION | White | No seventh Black bond; saga conclusion | [bonds](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) |
 
 The unchanged RED-TOURNAMENT-RING and RING-CONTINUITY rows still govern storage. Kaira and the reader do not know the incompatibility at the first bond. No fourth Transduction interface is created; the denizens retain independent agency. Nyx’s parental orange flowers are individual expressions, not his fixed color or a species restriction. Raw-output rankings are not combat rankings. Arc 3’s exact exit, the failure timing and later bond scenes remain open.
+
+## Violet continuation through Day 1159
+
+[The selected daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) records four training trips, regular Ailor royal games on 1085 and 1139, and ordinary downtime on 1120. [The route register](../BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and distinguishes the four selected schedules from the seven proposals.

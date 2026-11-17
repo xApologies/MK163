@@ -1,6 +1,8 @@
-# Book Red running ledger · Blue complete through Day 1080
+# Book Red running ledger · Violet outlined through Day 1159
 
 Days 787–1080 continue the six-day week and 353-day civil calendar after graduation. The first three Blue Dungeon expeditions close on Days 943, 999 and 1049. The fourth, an unpaid rescue, returns on Day 1080 (Aithen). Kaira accepts the vaelum invitation at dinner that evening. Violet opens on Day 1081 (Aiven). The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
+
+Violet continues with 79 selected daily rows through Day 1159. Four training expeditions occupy Days 1087–1097, 1103–1117, 1123–1135 and 1143–1159. Ailor royal games are selected on 1085 and 1139. Day 1120 is ordinary downtime. [Detailed Violet schedule](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) · [Integration audit](../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
 
 **Day 1021 supersession.** The author canceled Kaira’s tournament participation and the Blue placement recorded for that day in Calendar Repair 013. The placement has no replacement date.
 
@@ -1228,6 +1230,85 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 1078 | Aelora | 24 | — | Aiveth | Emergency rescue: slower ascent escorting stranded personnel, day 11 of 13. |
 | 1079 | Aelora | 25 | — | Ailor | Emergency rescue: slower ascent escorting stranded personnel, day 12 of 13. |
 | 1080 | Aelora | 26 | — | Aithen | Rescue returns to surface; Registry closeout and positive unpaid-service dossier mark. That evening, dinner with six-member vaelum at staging settlement; Kaira accepts invitation as seventh member. BLUE ARC COMPLETE. [Rescue and dinner](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) · [Violet opening](../BOOKS/RED/ARCS/ARC_006/ARC.md) |
+| 1081 | Aelora | 27 | — | Aiven | Recovery, personal time, and vaelum arrangements; individual scenes OPEN. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1082 | Aelora | 28 | — | Ailar | Recovery, personal time, and vaelum arrangements; individual scenes OPEN. |
+| 1083 | Aelora | 29 | — | Aiden | Recovery, personal time, and vaelum arrangements; individual scenes OPEN. |
+| 1084 | Aelora | 30 | — | Aiveth | Recovery, personal time, and vaelum arrangements; individual scenes OPEN. |
+| 1085 | Aelora | 31 | — | Ailor | King's raeon card game; exact location/participants subject to established continuity. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1086 | Aevrin | 1 | — | Aithen | Return to Blue capital and expedition preparation. |
+| 1087 | Aevrin | 2 | — | Aiven | VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route. |
+| 1088 | Aevrin | 3 | — | Ailar | VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route. |
+| 1089 | Aevrin | 4 | — | Aiden | VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route. |
+| 1090 | Aevrin | 5 | — | Aiveth | VTR-09 Yellow ELDRIS combat: descent R001 to Y045, combat possible en route. |
+| 1091 | Aevrin | 6 | — | Ailor | VTR-09: three full days of sustained ELDRIS combat at Y045. |
+| 1092 | Aevrin | 7 | — | Aithen | VTR-09: three full days of sustained ELDRIS combat at Y045. |
+| 1093 | Aevrin | 8 | — | Aiven | VTR-09: three full days of sustained ELDRIS combat at Y045. |
+| 1094 | Aevrin | 9 | — | Ailar | VTR-09: return by same route; arrival 1097. |
+| 1095 | Aevrin | 10 | — | Aiden | VTR-09: return by same route; arrival 1097. |
+| 1096 | Aevrin | 11 | — | Aiveth | VTR-09: return by same route; arrival 1097. |
+| 1097 | Aevrin | 12 | — | Ailor | VTR-09: return by same route; arrival 1097. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1098 | Aevrin | 13 | — | Aithen | Five full downtime days; relocation to staging residences may be gradual. |
+| 1099 | Aevrin | 14 | — | Aiven | Five full downtime days; relocation to staging residences may be gradual. |
+| 1100 | Aevrin | 15 | — | Ailar | Five full downtime days; relocation to staging residences may be gradual. |
+| 1101 | Aevrin | 16 | — | Aiden | Five full downtime days; relocation to staging residences may be gradual. |
+| 1102 | Aevrin | 17 | — | Aiveth | Five full downtime days; relocation to staging residences may be gradual. |
+| 1103 | Aevrin | 18 | — | Ailor | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1104 | Aevrin | 19 | — | Aithen | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1105 | Aevrin | 20 | — | Aiven | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1106 | Aevrin | 21 | — | Ailar | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1107 | Aevrin | 22 | — | Aiden | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1108 | Aevrin | 23 | — | Aiveth | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1109 | Aevrin | 24 | — | Ailor | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1110 | Aevrin | 25 | — | Aithen | VTR-01 first Blue navigation trial: descend R001 to B041. |
+| 1111 | Aevrin | 26 | — | Aiven | VTR-01 return by same route; arrival 1117. |
+| 1112 | Aevrin | 27 | — | Ailar | VTR-01 return by same route; arrival 1117. |
+| 1113 | Aevrin | 28 | — | Aiden | VTR-01 return by same route; arrival 1117. |
+| 1114 | Aevrin | 29 | — | Aiveth | VTR-01 return by same route; arrival 1117. |
+| 1115 | Aevrin | 30 | — | Ailor | VTR-01 return by same route; arrival 1117. |
+| 1116 | Aevrin | 31 | — | Aithen | VTR-01 return by same route; arrival 1117. |
+| 1117 | Aevrin | 32 | — | Aiven | VTR-01 return by same route; arrival 1117. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1118 | Aevrin | 33 | — | Ailar | Downtime. |
+| 1119 | Aelis | 1 | — | Aiden | Downtime. |
+| 1120 | Aelis | 2 | — | Aiveth | Ordinary downtime. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1121 | Aelis | 3 | — | Ailor | Downtime and preparation. |
+| 1122 | Aelis | 4 | — | Aithen | Downtime and preparation. |
+| 1123 | Aelis | 5 | — | Aiven | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1124 | Aelis | 6 | — | Ailar | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1125 | Aelis | 7 | — | Aiden | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1126 | Aelis | 8 | — | Aiveth | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1127 | Aelis | 9 | — | Ailor | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1128 | Aelis | 10 | — | Aithen | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1129 | Aelis | 11 | — | Aiven | VTR-02 second Blue navigation trial: descend R001 to B013. |
+| 1130 | Aelis | 12 | — | Ailar | VTR-02 return by same route; arrival 1135. |
+| 1131 | Aelis | 13 | — | Aiden | VTR-02 return by same route; arrival 1135. |
+| 1132 | Aelis | 14 | — | Aiveth | VTR-02 return by same route; arrival 1135. |
+| 1133 | Aelis | 15 | — | Ailor | VTR-02 return by same route; arrival 1135. |
+| 1134 | Aelis | 16 | — | Aithen | VTR-02 return by same route; arrival 1135. |
+| 1135 | Aelis | 17 | — | Aiven | VTR-02 return by same route; arrival 1135. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1136 | Aelis | 18 | — | Ailar | Recovery and personal time. |
+| 1137 | Aelis | 19 | — | Aiden | Recovery and personal time after VTR-02; individual scenes OPEN. |
+| 1138 | Aelis | 20 | — | Aiveth | Recovery and personal time after VTR-02; individual scenes OPEN. |
+| 1139 | Aelis | 21 | — | Ailor | King's raeon card game in Violet Domain royal capital (fifth weekday). [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
+| 1140 | Aelis | 22 | — | Aithen | Princess illi visit, day 1 of 2. |
+| 1141 | Aelis | 23 | — | Aiven | Princess illi visit, day 2 of 2. |
+| 1142 | Aelis | 24 | — | Ailar | Morning return to Blue capital dungeon staging settlement; preparation for Green delve. |
+| 1143 | Aelis | 25 | — | Aiden | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1144 | Aelis | 26 | — | Aiveth | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1145 | Aelis | 27 | — | Ailor | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1146 | Aelis | 28 | — | Aithen | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1147 | Aelis | 29 | — | Aiven | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1148 | Aelis | 30 | — | Ailar | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1149 | Aelis | 31 | — | Aiden | VTR-10 Green ELDRIS combat: descent R001 to G076; combat possible en route. |
+| 1150 | Aevor | 1 | — | Aiveth | VTR-10: sustained ELDRIS combat training at G076; resource recovery as available. |
+| 1151 | Aevor | 2 | — | Ailor | VTR-10: sustained ELDRIS combat training at G076; resource recovery as available. |
+| 1152 | Aevor | 3 | — | Aithen | VTR-10: sustained ELDRIS combat training at G076; resource recovery as available. |
+| 1153 | Aevor | 4 | — | Aiven | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1154 | Aevor | 5 | — | Ailar | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1155 | Aevor | 6 | — | Aiden | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1156 | Aevor | 7 | — | Aiveth | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1157 | Aevor | 8 | — | Ailor | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1158 | Aevor | 9 | — | Aithen | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. |
+| 1159 | Aevor | 10 | — | Aiven | VTR-10: ascent by same route; Yellow-stratum ELDRIS encounter adds one day; return Day 1159. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

@@ -1,3 +1,22 @@
+# Current weekday order and royal games · author correction, 2026-11-17
+
+| Weekday number | Name |
+|---:|---|
+| 1 | Aiven |
+| 2 | Ailar |
+| 3 | Aiden |
+| 4 | Aiveth |
+| 5 | Ailor |
+| 6 | Aithen |
+
+The King's regular raeon game is held on Ailor, weekday 5. Days 1085 and 1139 are regular games under this governing schedule. Day 0 remains Aithen, and Day 1081 is Aiven. For a story day `d`, the weekday number is `((d - 1081) % 6) + 1`; use the table above to obtain its name.
+
+The author correction changes the weekday ordinals and governing royal recurrence. Historical source and teaching records below retain their preceding ordinal convention. Their named story dates continue in the same six-day phase. The 31-hour day, eleven month lengths and 353-day civil year retain their selected values.
+
+[Author decision](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AUTHOR_CALENDAR_DECISION.md) · [Violet daily plan](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md)
+
+---
+
 # Academic cycle · scoped running-weekday continuity
 
 The new Blackstone academic cycle is an offset **353-day** institution schedule starting at cumulative Day 224, separate from the existing 353-day MK163 civil year. Preserve all eleven month lengths and the Day 0 anchor. Do not reset the running six-day phase across semester/break or civil-year boundaries for this schedule: Day 341 is Ailor, Day 458 Ailar, next cycle Day 577 Aiven. Day 284 is the next Aelor 1, with the continuing weekday Ailar; no year name or year-week number is selected.

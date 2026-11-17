@@ -552,6 +552,18 @@
       "source_mapping": "CHECKPOINTS/BLUE_ARC_014/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/BLUE_ARC_014/VALIDATION.json",
       "scope": "Third-contract settlement, fourth expedition, Blue closure on 1080, Violet training and tournament roster cap"
+    },
+    {
+      "id": "MK163_VIOLET_CUMULATIVE_007",
+      "baseline": "2614c30c2f6e40edc25facd166988f8a7f3fe83b",
+      "archive": "MK163_Violet_Cumulative_007_Calendar_Reconciliation.zip",
+      "archive_sha256": "c77832ef2ea387110f567752f57df249ce790198193344094672367cca0b9d4d",
+      "source_root": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007",
+      "manifest": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/MANIFEST.json",
+      "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/VIOLET_CUMULATIVE_007/VALIDATION.json",
+      "author_decisions": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AUTHOR_CALENDAR_DECISION.md",
+      "scope": "Violet 1081–1159, governing Ailor royal recurrence, atlas and environment, training routes and traversal logistics"
     }
   ]
 }

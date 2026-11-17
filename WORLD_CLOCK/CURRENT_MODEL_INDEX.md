@@ -1,3 +1,11 @@
+# Violet · selected training through Day 1159
+
+Four selected expeditions use the working atlas and route register. The governing calendar places regular royal games on Ailor, weekday 5. Days 1085 and 1139 are selected games, and Day 1120 is ordinary downtime. The seven-member vaelum has a Guardian leader with CSR and a dimensional bracelet, an air-mobility Offensive Specialist and two staging residences. Kaira’s CSR construction and specific training outcomes remain OPEN.
+
+[Violet Arc](../BOOKS/RED/ARCS/ARC_006/ARC.md) · [Daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) · [Dungeon atlas](L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) · [Traversal logistics](L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md) · [Integration audit](../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
+
+---
+
 # Blue Arc · fourth expedition and closing dinner on Day 1080
 
 The capital dungeon’s depth, local oscillations and permanent Yellow cavern are established. Kaira’s first three contracts close on 943, 999 and 1049. Her home workstation produces a second Shield and a directed Beam on 1016. Yellow Dust and Crystal now have a scoped wholesale rate and contract distribution. The sole Helkir dies on 1041. Kaira remains a Green Support Specialist after the failed harvest. She collects the Yellow harvest share on 1054 and volunteers for the deep Green cave-in rescue. After the Day 1080 return the Registry commends her completed unpaid service. She accepts the vaelum invitation over dinner and enters Violet on 1081 as its seventh member. The King’s Tournament allows up to 11 registered members per team.

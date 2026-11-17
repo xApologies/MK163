@@ -18,3 +18,9 @@ The research party studies natural ru’ne, sigils and velis in Yellow and Green
 [Local oscillations and Yellow cavern conditions](../ENVIRONMENT/DUNGEONS.md) · [Capital and staging area](WORLD_MAP_REFERENCE.md) · [Separate Violet Dungeon settlement](RED_VIOLET_DUNGEON_CITY.md) · [Depth and oscillation source](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/02_CAPITAL_DUNGEON_WORLD_CLOCK.md) · [Cavern source](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md)
 
 [Inherited AERA definition](https://github.com/xApologies/AERA/blob/42437950ad2aa72ad885ff1a9129226da23d9286/L2/INHERITANCE/01_SIGILS_AND_VELIS.md)
+
+## Violet training atlas
+
+The selected principal east–west spans are Red 3, Orange 5, Yellow 8, Green 11 and Blue 16 miles. The [numbered atlas](BLUE_CAPITAL_DUNGEON_ATLAS/README.md) models these constraints in one proposed 3D graph. Exact north–south spans, coordinates, centerlines and generated ecological placements remain proposals. Natural passages, shelves and rock spans supply the geography. Existing research, Yellow harvest and Green rescue sites await deliberate anchoring within this graph.
+
+[Environmental layer](BLUE_CAPITAL_DUNGEON_ATLAS/ENVIRONMENT_COMPANION_003.md) · [Author constraints and design scope](BLUE_CAPITAL_DUNGEON_ATLAS/AUTHOR_DECISIONS_AND_SCOPE.md)

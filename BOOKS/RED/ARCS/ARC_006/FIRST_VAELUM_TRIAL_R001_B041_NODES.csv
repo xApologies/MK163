@@ -1,0 +1,13 @@
+order,node_id,depth_mi,geological_type,region_ids,hydrology,genesis_flora,genesis_crystals,vaen_formation,natural_velis,eldris_formation_potential,next_node,next_edge,next_distance_mi,next_difficulty,next_obstacle,route_role
+1,R001,0.0,surface_entrance,R-GENESIS_FOREST-01,none_assigned,forest_mosaic_70_30_illustrative,not_assigned,not_assigned,not_assigned,baseline_variable,R018,E0001,0.904919,medium,steep_natural_shaft_or_slope,outbound
+2,R018,0.651724,large_natural_junction,,none_assigned,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,R023,E0041,0.452854,medium,steep_slope_or_ledge,outbound
+3,R023,0.860136,large_natural_junction,R-WATER-01,river_or_stream,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,R025,E0039,0.485136,low,natural_passage,outbound
+4,R025,0.954271,narrow_cavern,,none_assigned,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,O031,E0661,1.885693,hard,steep_natural_shaft_or_slope,outbound
+5,O031,2.496091,large_natural_junction,O-WATER-02,river_or_stream,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,O039,E0150,0.593129,medium,steep_slope_or_ledge,outbound
+6,O039,2.853883,large_natural_junction,,none_assigned,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,O042,E0129,0.543292,low,natural_passage,outbound
+7,O042,2.903556,natural_tunnel_junction,,none_assigned,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,Y036,E0667,2.497958,hard,steep_natural_shaft_or_slope,outbound
+8,Y036,5.140504,large_natural_junction,Y-ELDRIS_FORMATION-01|Y-WATER-01,river_or_stream,scattered_or_none,not_assigned,not_assigned,not_assigned,high,Y055,E0246,1.277934,hard,natural_watercourse,outbound
+9,Y055,5.824281,boulder_chamber,Y-ELDRIS_FORMATION-01|Y-WATER-01,river_or_stream,scattered_or_none,not_assigned,not_assigned,not_assigned,high,G038,E0679,3.205436,hard,steep_natural_shaft_or_slope,outbound
+10,G038,8.827238,genesis_forest_cavern,G-GENESIS_FOREST-02|G-NATURAL_VELIS-01|G-WATER-02,river_or_stream,forest_mosaic_70_30_illustrative,not_assigned,not_assigned,natural_velis_observation_zone_proposed,baseline_variable,G067,E0384,1.749226,hard,steep_natural_shaft_or_slope,outbound
+11,G067,10.147652,large_natural_junction,,none_assigned,scattered_or_none,not_assigned,not_assigned,not_assigned,baseline_variable,B041,E0692,4.191883,hard,steep_natural_shaft_or_slope,outbound
+12,B041,14.042512,genesis_forest_cavern,B-GENESIS_FOREST-01|B-WATER-02,river_or_stream,forest_mosaic_70_30_illustrative,not_assigned,not_assigned,not_assigned,baseline_variable,,,,,,trial_marker_turnaround

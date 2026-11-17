@@ -1,0 +1,28 @@
+{
+  "revision": "DUNGEON_ENVIRONMENT_003",
+  "status": "PROPOSED ENVIRONMENTAL ASSIGNMENTS; author may revise; not existing in-world surveyed data",
+  "source_graph": "data/dungeon_graph.json",
+  "node_count": 340,
+  "passage_count": 709,
+  "regions": 44,
+  "water_features": 24,
+  "classification_counts": {
+    "medium": 417,
+    "low": 213,
+    "hard": 79
+  },
+  "source_graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+  "governance": {
+    "environment_geography": "MK163 L2",
+    "expedition_historical_records": "Accord Registry; no assignments in this file"
+  },
+  "corrections": [
+    "No naturally occurring Genesis Dust deposits; ELDRIS-derived only",
+    "No naturally floating ru\u2019ne/sigils; map natural velis",
+    "No manmade bridges, carved bridges or boats as expedition loadout",
+    "Vaen require second Genesis evolution; first-stage flora is not automatically vaen",
+    "ELDRIS formation potential is not fixed monster count",
+    "70:30 forest ratio illustrative, not measured universal",
+    "No substantial large-animal fauna; invertebrate classes possible, species open"
+  ]
+}
