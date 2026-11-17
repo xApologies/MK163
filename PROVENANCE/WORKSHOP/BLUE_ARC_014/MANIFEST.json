@@ -1,0 +1,40 @@
+{
+  "checkpoint": "BLUE_ARC_014",
+  "repository": "xApologies/MK163",
+  "baseline_tree_sha": "5553fb13ed761dfcf8aeb204980930ab59aae361",
+  "final_day": 1080,
+  "files": {
+    "README.md": {
+      "sha256": "dc2bb71d495c875f267aa060e1ec15d2c8944b5ed7c198ff47d6903ff2f73fd3",
+      "bytes": 1353
+    },
+    "01_BASELINE_AND_SUPERSESSION.md": {
+      "sha256": "39fc9979bdbf73be3458f21267f25506dcb1e7dfadfc12047b6d5f9638693ce1",
+      "bytes": 1747
+    },
+    "02_SETTLEMENT_AND_DAY_1054.md": {
+      "sha256": "89aca973b98fc9ac057ce1c932a8c51189fe35cb999a7e5ecf9397c072a6367f",
+      "bytes": 2504
+    },
+    "03_EMERGENCY_RESCUE.md": {
+      "sha256": "0bbeccbcf7b3a26a58257d00e861810fe6aa1fc56fe8078180258025e4fa86a5",
+      "bytes": 2992
+    },
+    "04_DAILY_LEDGER_1050_1080.csv": {
+      "sha256": "fd5df2f83ee6cda2532a06867343ca955d1c2479a9b19977eb4b545d4d35dccd",
+      "bytes": 2797
+    },
+    "05_BLUE_CLOSURE_AND_VIOLET_BRIDGE.md": {
+      "sha256": "50b9ea7a0fde29cd8c21db4866c526d4c878b269548a5cc58c26ebb976834d42",
+      "bytes": 2611
+    },
+    "06_CANON_AND_OPEN_ITEMS.md": {
+      "sha256": "0ef9726cf8098efcdfd388bf6bec76cd06824eafc70251925c2c47f02ffcd5b4",
+      "bytes": 2418
+    },
+    "07_CODEX_INTEGRATION.md": {
+      "sha256": "c143642a66a36c1304a2db420aedc479fc886b9d43c471d5821bb34406930825",
+      "bytes": 2878
+    }
+  }
+}

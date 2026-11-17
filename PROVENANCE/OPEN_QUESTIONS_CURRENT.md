@@ -1,8 +1,10 @@
-# Blue Arc · open after Day 1049
+# Blue Arc · open after Day 1080
 
 The prices and biological identities of the crafting vaen, gold plate dimensions, wood species, crystal quantities, engineering geometry, material losses, consumption and measured performance remain OPEN. Day 904 and Day 1016 each have a completed pair. Any physical pseudo-healing Card, its date and its basins remain OPEN.
 
-The three expedition closeouts are dated. First-trip payment and research findings, second-trip mineral yields, third-trip recovered weights and actual payout, the other accepted Day 1025 contract, injuries beyond the selected fatality, and later consequences remain OPEN. Fourth and possible fifth contracts are unselected. Violet depth, exact Yellow cavern coordinates and the cause of its exceptional density remain open. The Day 1020 salon result and a possible Elaira visit during 1026–1029 remain OPEN.
+The three contract closeouts and the fourth, unpaid rescue closeout are dated. First-trip payment and research findings, second-trip mineral yields, third-trip recovered weights and payout amount, the other accepted Day 1025 contract, injuries beyond the selected fatality, and later consequences remain OPEN. Kaira collected the third-contract funds on 1054. Funding and enforcement beyond the Registry guarantee and default dossier entry remain OPEN. Violet depth, exact Yellow cavern coordinates and the cause of its exceptional density remain open. The Day 1020 salon result and a possible Elaira visit during 1026–1029 remain OPEN.
+
+For the Green rescue, the cave-in’s timing and underlying cause, exact encounters and clearance method, force and stranded-party sizes, shelter, provisions, sustained pressure protection, injuries and individual fates remain OPEN. The six original vaelum members’ names, ranks, personalities, leadership, the group’s name and dinner dialogue remain OPEN. Violet’s training routes, durations and specific missions, the Tournament date and eligibility details beyond the 11-person maximum remain OPEN. [Rescue, roster and acceptance](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md)
 
 Examination dialogue and the detailed trauma-sampling convention remain OPEN. The gala unicorn’s identity and audience, Sprite flick, Vael’s companions and qualifying status, individual Blue leases and Registry terms, shipment quantity and unsettled tournament procedures remain open at their owners.
 

@@ -4,11 +4,11 @@
 
 ## Narrative objective
 
-Realize a native energy garment and move from independent contracts into a vaelum.
+Realize a native energy garment and train with the vaelum for the King’s Tournament.
 
 ## Entry state
 
-Blue’s field experience, Chainmail Robe expertise, and the Black Sprite’s Resolution insight.
+Violet opens on Day 1081 (Aiven). At the [Day 1080 staging-settlement dinner](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) Kaira accepted the environmental Support position in the seven-person vaelum. She brings Blue’s field experience, Chainmail Robe expertise and the Black Sprite’s Resolution insight.
 
 ## Principal conflict
 
@@ -19,13 +19,13 @@ Personally constructing and coupling stable ring manifolds is difficult; the com
 Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
 
 ## Vaelum and personal trajectory
-- During Violet Kaira affiliates with a **vaelum**, finding a regular dungeon-delving group she harmonizes with. She shifts from primarily independent Accord Registry contract postings to shared expeditions with companions.
+- Kaira now trains with her **vaelum** on dungeon runs. They practice mapped routes, formation and teamwork in preparation for the King’s Tournament. Her environmental shielding complements the existing combat Support’s tactical role.
 - This fulfills her romanticized childhood image of an aithren, while still allowing her to be an armorsmith, Cardsmith, Support Specialist and emerging Architect.
-- The vaelum's name, membership, formation, ranks and specific contracts remain OPEN. This sets her on the path to the King's Tournament, without inventing qualifiers or mechanics.
+- The [rescue and dinner record](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) gives the seven roles. The group’s name, the six other members’ identities and ranks, leadership, specific training runs, routes and durations remain OPEN.
 
 ## Exit state
 
-Kaira affiliates with a compatible vaelum; this leads toward the Tournament. Membership, contracts and qualifier path remain OPEN.
+Kaira’s training with her vaelum leads toward the Tournament in White. The qualifier path, event date and specific training outcomes remain OPEN.
 
 ## Dependencies
 

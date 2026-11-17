@@ -1,6 +1,6 @@
-# Book Red running ledger · Blue through Day 1049
+# Book Red running ledger · Blue complete through Day 1080
 
-Days 787–1049 continue the six-day week and 353-day civil calendar after graduation. The three Blue Dungeon expeditions close on Days 943, 999 and 1049. Day 1049 is Ailor. Day 1050 is Aithen and has no selected event. The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
+Days 787–1080 continue the six-day week and 353-day civil calendar after graduation. The first three Blue Dungeon expeditions close on Days 943, 999 and 1049. The fourth, an unpaid rescue, returns on Day 1080 (Aithen). Kaira accepts the vaelum invitation at dinner that evening. Violet opens on Day 1081 (Aiven). The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
 **Day 1021 supersession.** The author canceled Kaira’s tournament participation and the Blue placement recorded for that day in Calendar Repair 013. The placement has no replacement date.
 
@@ -1196,7 +1196,38 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 1046 | Aerith | 24 | — | Ailar | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
 | 1047 | Aerith | 25 | — | Aiden | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
 | 1048 | Aerith | 26 | — | Aiveth | **Emergency seven-day ascent**. Planned harvesting days 5–11 CANCELLED. Party returns injured and fatigued; Kaira sustains shields and Sprite helps stabilize survivors. Exact injuries and encounters OPEN. |
-| 1049 | Aerith | 27 | — | Ailor | Surface return and Registry closeout of **failed** expedition; casualty documented. Kaira receives contracted share for recovered/sold qualifying resources (amount OPEN). Her exceptional support during withdrawal is recognized, not a rank promotion. [Third expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) |
+| 1049 | Aerith | 27 | — | Ailor | Surface return and Registry closeout of **failed** expedition; casualty documented. The leader declares the qualifying harvest for weighing. The Registry establishes the shares and the leader promises deposit on Day 1054 (amount OPEN). Her exceptional support during withdrawal is recognized, not a rank promotion. [Third expedition](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) |
+| 1050 | Aerith | 28 | — | Aithen | Third-contract payment pending; recovery and ordinary activities OPEN. |
+| 1051 | Aerith | 29 | — | Aiven | Third-contract payment pending; recovery and ordinary activities OPEN. |
+| 1052 | Aerith | 30 | — | Ailar | Third-contract payment pending; recovery and ordinary activities OPEN. |
+| 1053 | Aerith | 31 | — | Aiden | Third-contract payment pending; recovery and ordinary activities OPEN. |
+| 1054 | Aerith | 32 | — | Aiveth | Collects third-contract payment at Crown Accord Registry; returning research expedition reports Green cave-in; Kaira volunteers for emergency rescue. [Settlement](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Volunteer call](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) |
+| 1055 | Aelora | 1 | — | Ailor | Emergency rescue: rapid mapped-route descent, day 1 of 10. |
+| 1056 | Aelora | 2 | — | Aithen | Emergency rescue: rapid mapped-route descent, day 2 of 10. |
+| 1057 | Aelora | 3 | — | Aiven | Emergency rescue: rapid mapped-route descent, day 3 of 10. |
+| 1058 | Aelora | 4 | — | Ailar | Emergency rescue: rapid mapped-route descent, day 4 of 10. |
+| 1059 | Aelora | 5 | — | Aiden | Emergency rescue: rapid mapped-route descent, day 5 of 10. |
+| 1060 | Aelora | 6 | — | Aiveth | Emergency rescue: rapid mapped-route descent, day 6 of 10. |
+| 1061 | Aelora | 7 | — | Ailor | Emergency rescue: rapid mapped-route descent, day 7 of 10. |
+| 1062 | Aelora | 8 | — | Aithen | Emergency rescue: rapid mapped-route descent, day 8 of 10. |
+| 1063 | Aelora | 9 | — | Aiven | Emergency rescue: rapid mapped-route descent, day 9 of 10. |
+| 1064 | Aelora | 10 | — | Ailar | Emergency rescue: rapid mapped-route descent, day 10 of 10. |
+| 1065 | Aelora | 11 | — | Aiden | Emergency rescue: stabilize and clear cave-in, day 1 of 3. |
+| 1066 | Aelora | 12 | — | Aiveth | Emergency rescue: stabilize and clear cave-in, day 2 of 3. |
+| 1067 | Aelora | 13 | — | Ailor | Emergency rescue: stabilize and clear cave-in, day 3 of 3. |
+| 1068 | Aelora | 14 | — | Aithen | Emergency rescue: slower ascent escorting stranded personnel, day 1 of 13. |
+| 1069 | Aelora | 15 | — | Aiven | Emergency rescue: slower ascent escorting stranded personnel, day 2 of 13. |
+| 1070 | Aelora | 16 | — | Ailar | Emergency rescue: slower ascent escorting stranded personnel, day 3 of 13. |
+| 1071 | Aelora | 17 | — | Aiden | Emergency rescue: slower ascent escorting stranded personnel, day 4 of 13. |
+| 1072 | Aelora | 18 | — | Aiveth | Emergency rescue: slower ascent escorting stranded personnel, day 5 of 13. |
+| 1073 | Aelora | 19 | — | Ailor | Emergency rescue: slower ascent escorting stranded personnel, day 6 of 13. |
+| 1074 | Aelora | 20 | — | Aithen | Emergency rescue: slower ascent escorting stranded personnel, day 7 of 13. |
+| 1075 | Aelora | 21 | — | Aiven | Emergency rescue: slower ascent escorting stranded personnel, day 8 of 13. |
+| 1076 | Aelora | 22 | — | Ailar | Emergency rescue: slower ascent escorting stranded personnel, day 9 of 13. |
+| 1077 | Aelora | 23 | — | Aiden | Emergency rescue: slower ascent escorting stranded personnel, day 10 of 13. |
+| 1078 | Aelora | 24 | — | Aiveth | Emergency rescue: slower ascent escorting stranded personnel, day 11 of 13. |
+| 1079 | Aelora | 25 | — | Ailor | Emergency rescue: slower ascent escorting stranded personnel, day 12 of 13. |
+| 1080 | Aelora | 26 | — | Aithen | Rescue returns to surface; Registry closeout and positive unpaid-service dossier mark. That evening, dinner with six-member vaelum at staging settlement; Kaira accepts invitation as seventh member. BLUE ARC COMPLETE. [Rescue and dinner](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) · [Violet opening](../BOOKS/RED/ARCS/ARC_006/ARC.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

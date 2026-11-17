@@ -11,6 +11,14 @@ The Accord Registry is a **Crown-level kingdom-wide institution** governing reco
 
 **Public/social role:** Kaira uses the Registry as a familiar help desk for Transduction-adjacent questions, testing, services, suppliers, contracts and civic processes. Staff gradually recognize her curiosity, friendliness and awkwardly numerous questions. Her retained white Afflicted appearance makes her visually conspicuous but does not make her universally admired or instantly famous. The staging branch is busy with working vaelum, artisans, merchants, professional clients and adventurers.
 
+## Settlement of contracted expedition Support shares
+
+At closeout the group leader declares the qualifying harvest and submits it for weighing. The Crown Accord Registry establishes the contracted shares from that declaration. The accounting depends on the group reporting its recovery honestly. The leader deposits the funds at the Registry, where the contracted Supports collect their eln.
+
+The settlement window covers the seven calendar days following closeout. If the vaelum defaults by the final deadline, the Registry guarantees the contracted Support share and records a negative entry in the responsible group’s dossier. Other collection or enforcement measures and the funding mechanism remain OPEN.
+
+For the failed Yellow harvest, the window ran from 1050 through 1056. The leader promised deposit on 1054, and Kaira collected that day. The contractual deadline was 1056. [Third expedition and distribution](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md).
+
 ## 2. Building, aesthetics and testing infrastructure
 Author-provided architectural reference: welcoming monumental three-story public Registry with pale stone, light, indoor greenery, water, glowing sigil ornament, staffed counters and consultation areas. The prior Orange workshop retains the preferred Registry interior reference. This cumulative delivery supplies the badge and adult Vaeryn images, not another building rendering.
 - **Ground floor:** public reception, inquiries, professional account and contract services, consultation, community circulation.

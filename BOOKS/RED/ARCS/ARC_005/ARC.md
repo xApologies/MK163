@@ -1,6 +1,6 @@
 # Blue · Independent Support Specialist and field Cardsmith
 
-**ID:** MK163-RED-ARC-005 · **Book:** Red · **Status:** outlined (author-selected arc beats; chapters and scene realization OPEN).
+**ID:** MK163-RED-ARC-005 · **Book:** Red · **Status:** outline complete through Day 1080. Chapters and scene realization remain OPEN.
 
 ## Narrative objective
 
@@ -98,9 +98,11 @@ Kaira reviewed her Blackstone Card portfolio at home after choosing Support on D
 | 1000–1012 | Recovery on 1000–1001. On 1002 Kaira visits the Blue palace, learns illi is in Violet and uses the coin to get there. She wins four games and loses one at the King’s salon. Days 1003–1005 allow time with illi or recovery. She stays with illi at the Violet palace on 1006–1007 and goes home on 1008. On 1009 she places Blue locally after unfavorable draws. Days 1010–1012 are ordinary. |
 | 1013–1018 | Four vaen, two additional large gold plates, crystals and crafting supplies purchased on 1013. Work on 1014–1016 produces an Orange + Blue dual-bypass Shield and the Yellow + Green Genesis Beam. Beam becomes her preferred offense. She retains Fireball. Rest on 1017 and an ordinary day on 1018. |
 | 1019–1029 | Three applications on 1019. Kaira travels to Violet on 1020 for the King’s salon. The result is OPEN. **Day 1021 — Aiven:** Kaira returns from the Violet royal capital to the Blue Domain capital following the King's Day 1020 raeon salon. She does not participate in the local card-shop tournament. Applications remain pending through 1024. Two acceptances arrive on 1025 and she chooses the Yellow cavern harvest. On 1027 she wins White locally. An Elaira visit during 1026–1029 remains unselected. |
-| 1030–1049 | Nine registered aithren depart on 1030. Seven days descending, half-day cavern approach on 1037, then harvesting and combat on 1038–1041. On the fourth day the sole Helkir is killed. The planned eleven-day harvest ends. Kaira adds combat shielding and Beam fire during the withdrawal while the Sprite helps stabilize the injured. Seven days of emergency ascent on 1042–1048 bring the survivors to Day 1049 surface return and Registry closeout. |
+| 1030–1049 | Nine registered aithren depart on 1030. Seven days descending, half-day cavern approach on 1037, then harvesting and combat on 1038–1041. On the fourth day the sole Helkir is killed. The planned eleven-day harvest ends. Kaira adds combat shielding and Beam fire during the withdrawal while the Sprite helps stabilize the injured. Seven days of emergency ascent on 1042–1048 bring the survivors to Day 1049 surface return and Registry closeout. The leader promises payment on 1054. |
+| 1050–1054 | The third contract’s payment is pending on 1050–1053. On 1054 Kaira collects the promised funds at the Registry. Exhausted researchers bring a map of a cave-in that stranded their colleagues deep in Green. Kaira volunteers as an environmental Support. |
+| 1055–1080 | The large rescue force descends for ten days, clears and stabilizes the passage over three and escorts stranded personnel up over thirteen. On 1080 the Registry commends Kaira for completed unpaid service. She retains Green certification. |
 
-The first party recognized Kaira as the Chainmail Robe’s creator as well as a capable environmental Support. On the third contract the remaining party recognizes her endurance and defense. The vaelum’s mission failed. Kaira receives her share of actual qualifying recovery and remains Green. A fourth expedition and any optional fifth remain OPEN.
+The first party recognized Kaira as the Chainmail Robe’s creator as well as a capable environmental Support. On the third contract the remaining party recognizes her endurance and defense. The vaelum’s mission failed. Kaira collects her eln share on 1054. The [fourth expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) is her final Blue Arc expedition.
 
 [First expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) · [Second expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_BLUE_MINERAL_VAEN_EXPEDITION.md) · [Third expedition](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) · [Capital dungeon](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Royal salons](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md) · [Cardsmithing](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/CARDSMITHING_AND_FABRICATION.md) · [Yellow market and contract](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md)
 
@@ -115,12 +117,13 @@ The first party recognized Kaira as the Chainmail Robe’s creator as well as a 
 - Kaira's exceptional capacity/endurance remains distinct from learned competency and eventual mastery. She must learn to *feel* shield integrity, anticipate failures, allocate protection, and control battlefield conditions.
 - Nyx and the Black Sprite grow alongside her as family and partners, not mere assets.
 - She continues to oversee Chainmail Robe production and can take personal craft work by choice. She can use dungeon-community contacts to build a Cardsmithing reputation.
-- Blue closes on Kaira's development as a professional dungeon delver, Support Specialist and increasingly practical Cardsmith. **No later rank promotion, Master Cardsmith attainment, permanent vaelum affiliation, or specific later contracts are established.**
-- The selected Violet arc follows this closure.
+- Her work as a professional dungeon delver draws on her developing Cardsmithing and environmental Support skills. She retains her Green rank. Master Cardsmith attainment remains OPEN.
 
-## Future exit state
+## Closing dinner and exit state · Day 1080, Aithen
 
-Kaira’s three completed expeditions have tested successive Card designs and her coordination with the Sprite. Further contract outcomes remain open. Whether she later fabricates a physical pseudo-healing Card remains OPEN. No vaelum membership or later promotion yet.
+Kaira’s first three contracts tested successive Card designs and her coordination with the Sprite. The fourth expedition introduces her to six members of a vaelum who worked alongside her during the rescue. That evening they dine together at the Blue capital dungeon staging settlement. They have been training for the King’s Tournament and need an environmental Support. Kaira enjoys their company and accepts their invitation at dinner. This is Blue’s final scene.
+
+The two Guardians, two Offensive Specialists, Helkir and combat Support are the original six. Kaira joins as their seventh registered member. Nyx and the Black Sprite accompany her outside that count. [Violet opens on Day 1081](../ARC_006/ARC.md) with Kaira already affiliated. Whether she later fabricates a physical pseudo-healing Card remains OPEN.
 
 ## Dependencies
 

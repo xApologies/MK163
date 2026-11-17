@@ -7,6 +7,8 @@
 ## Identity and recurrence
 The King's Tournament is a **very dangerous dungeon-racing circuit**, not an arena fight, PvP elimination, a dungeon-clear event or destruction of a dungeon. It is prestigious kingdom-wide competition hosted through existing dungeons and their communities. The accepted MK163 recurrence is **once every four years**: the author offered three to five, the assistant chose four, and the author accepted. Exact dates and the next event year are unset.
 
+A team may register up to **11 members**. A seven-person team fits within this cap. Minimum team size, further roster eligibility rules and the next Tournament date remain OPEN.
+
 ## Qualification, circuit and championship
 
 | Stage | Venues and advancement |
@@ -24,7 +26,7 @@ The source permits dungeons extending miles or tens of miles vertically; the aut
 Spectators cannot simply see the underground race throughout. Teams disappear into the dungeon and later return. Around the entrance/staging community, a major festival occupies the waiting interval: food, alcohol, merchants, magic, communal recreation and surface entertainment. Melee competitions and possibly jousting are discussed. The core is a celebration of civilization and aithren culture, not an obligatory real-world medieval schedule. No global broadcast system has been invented to remove the author's visibility premise.
 
 ## Story firewall
-Only the institution and explicitly reselected MK163 events are inherited. The original “Arc2 scaffold,” old travel itinerary, rivals, old party, months named January/February/March, and original Kira story are not imported. Kaira's current team, qualification encounters, exact circuits, opponents and chapters remain unwritten. Her Book Red result is recorded in L3 and cross-referenced here: fourth/Green, with a high-quality Dimensional Ring prize. Green placement does not mean the team stopped in the Green stratum.
+Only the institution and explicitly reselected MK163 events are inherited. The original “Arc2 scaffold,” old travel itinerary, rivals, old party, months named January/February/March, and original Kira story are not imported. Kaira enters Violet with a [seven-person training vaelum](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md). Qualification encounters, precise routes, opponents and chapters remain unwritten. Her Book Red result is recorded in L3 and cross-referenced here: fourth/Green, with a high-quality Dimensional Ring prize. Green placement does not mean the team stopped in the Green stratum.
 
 [Blue 004 institutional decision](../../../PROVENANCE/WORKSHOP/BLUE_ARC_004/08_KINGS_TOURNAMENT_INSTITUTION_REVISION.md)
 

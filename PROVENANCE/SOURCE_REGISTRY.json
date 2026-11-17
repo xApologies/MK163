@@ -541,6 +541,17 @@
       "source_mapping": "CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md",
       "validation": "CHECKPOINTS/CALENDAR_RAEON_VELIS_013/VALIDATION.json",
       "scope": "Seven Blue Arc raeon dates, accompanying visits and the MK163 definition of natural velis"
+    },
+    {
+      "id": "MK163_BLUE_ARC_014",
+      "baseline": "5553fb13ed761dfcf8aeb204980930ab59aae361",
+      "archive": "MK163_BLUE_ARC_014_REPACKED_FOR_CODEX.zip",
+      "archive_sha256": "3cc9819ca5efc2a5073d28c9547e1d855f11dbaf576a22ec41b53b6e9784e78d",
+      "source_root": "PROVENANCE/WORKSHOP/BLUE_ARC_014",
+      "manifest": "PROVENANCE/WORKSHOP/BLUE_ARC_014/MANIFEST.json",
+      "source_mapping": "CHECKPOINTS/BLUE_ARC_014/INTEGRATION_REPORT.md",
+      "validation": "CHECKPOINTS/BLUE_ARC_014/VALIDATION.json",
+      "scope": "Third-contract settlement, fourth expedition, Blue closure on 1080, Violet training and tournament roster cap"
     }
   ]
 }

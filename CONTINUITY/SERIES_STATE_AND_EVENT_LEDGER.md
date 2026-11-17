@@ -1,8 +1,8 @@
-# Blue Arc · after graduation through Day 1049
+# Blue Arc · after graduation through the Day 1080 closing dinner
 
-Graduation closes Green on 786. Kaira establishes her independent home on 818, attends the gala on 865, takes fourth and second in raeon on 871 and 877, and chooses Support on 891. The workstation on 900 and first Card pair on 904 precede her Green certification on 905. The Registry selects her on 908. The first expedition closes on 943 and the second on 999. illi presents the coin on 952. The Day 1016 toolkit is in use when the third expedition loses its Helkir on 1041. Day 1049 closes the failed contract.
+Graduation closes Green on 786. Kaira establishes her independent home on 818, attends the gala on 865, takes fourth and second in raeon on 871 and 877, and chooses Support on 891. The workstation on 900 and first Card pair on 904 precede her Green certification on 905. The Registry selects her on 908. The first expedition closes on 943 and the second on 999. illi presents the coin on 952. The Day 1016 toolkit is in use when the third expedition loses its Helkir on 1041. Day 1049 closes the failed contract, with payment promised for 1054. Kaira collects it and volunteers on 1054. The mapped Green rescue runs 1055–1080. After her commendation for unpaid service she accepts a place with the six-member vaelum at dinner that evening. Violet opens 1081 with Kaira as its seventh member.
 
-[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Capital dungeon](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Checkpoint 012 audit](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md)
+[Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Running day ledger](RED_RUNNING_DAY_LEDGER.md) · [Capital dungeon](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [Checkpoint 012 audit](../CHECKPOINTS/BLUE_ARC_012/INTEGRATION_REPORT.md) · [Blue closure audit](../CHECKPOINTS/BLUE_ARC_014/INTEGRATION_REPORT.md)
 
 ---
 
@@ -221,8 +221,8 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - **RED-002 Orange:** Independence, craft and Nyx joining the family; physical robe reveal at close. [Arc owner](../BOOKS/RED/ARCS/ARC_002/ARC.md).
 - **RED-003 Yellow:** Robe movement, Alchemist commission and friendship, first Black Sprite bond, Blackstone sponsorship at close. [Arc owner](../BOOKS/RED/ARCS/ARC_003/ARC.md).
 - **RED-004 Green:** Blackstone, high honors and Kaira’s friendship with Princess illi. The royal games and challenge coin are dated in the [Blue Arc](../BOOKS/RED/ARCS/ARC_005/ARC.md). [Arc owner](../BOOKS/RED/ARCS/ARC_004/ARC.md).
-- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, three expeditions closing on Days 943, 999 and 1049, with a Day 1016 upgrade to Beam and Shield. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
-- **RED-006 Violet:** Closed native rings and coupled seams, Crown research and vaelum affiliation. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
+- **RED-005 Blue:** Independent household in the Blue capital, Day 905 Green Support certification, the Day 1016 upgrade to Beam and Shield, three contracts closing on 943, 999 and 1049, and the volunteer rescue ending with Kaira’s acceptance at dinner on 1080. [Arc owner](../BOOKS/RED/ARCS/ARC_005/ARC.md).
+- **RED-006 Violet:** From Day 1081, dungeon training with the seven-person vaelum, closed native rings and coupled seams, and Crown research. [Arc owner](../BOOKS/RED/ARCS/ARC_006/ARC.md).
 - **RED-007 White:** King’s Tournament, fourth / Green and the Dimensional Ring at the end of Red. [Arc owner](../BOOKS/RED/ARCS/ARC_007/ARC.md).
 
 No Ring during Blue or Violet. The first independent environmental Support contract in Yellow/Green strata is separate from the proposed after-Vaelith Blue rescue. Graduation, certification and first native garment are distinct milestones.

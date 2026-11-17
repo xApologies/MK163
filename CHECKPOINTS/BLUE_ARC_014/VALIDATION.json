@@ -1,0 +1,127 @@
+{
+  "status": "PASS",
+  "baseline_commit": "5553fb13ed761dfcf8aeb204980930ab59aae361",
+  "archive": "MK163_BLUE_ARC_014_REPACKED_FOR_CODEX.zip",
+  "archive_sha256": "3cc9819ca5efc2a5073d28c9547e1d855f11dbaf576a22ec41b53b6e9784e78d",
+  "zip_crc": "PASS",
+  "manifest_hashes_and_sizes_checked": 8,
+  "original_members_byte_verified": 9,
+  "calendar": {
+    "sequential_days": [
+      0,
+      1080
+    ],
+    "civil_rows": 1081,
+    "all_month_dates_and_weekdays_verified": true,
+    "existing_calendar_fields_unchanged": 1050,
+    "existing_event_text_changed_only_on": [
+      1049
+    ],
+    "appended_csv_rows_matched": 31,
+    "first_violet_day": "1081 / Aelora 27 / Aiven",
+    "cancelled_day_1021_attendance_preserved": true
+  },
+  "settlement": {
+    "failed_closeout_and_declaration": 1049,
+    "payment_collected": 1054,
+    "window_inclusive": [
+      1050,
+      1056
+    ],
+    "wholesale_eln_per_100g": 49,
+    "shares": [
+      35,
+      7,
+      7
+    ]
+  },
+  "rescue": {
+    "enrollment": 1054,
+    "rapid_descent": [
+      1055,
+      1064
+    ],
+    "clearance": [
+      1065,
+      1067
+    ],
+    "escorted_ascent": [
+      1068,
+      1080
+    ],
+    "phase_lengths": [
+      10,
+      3,
+      13
+    ],
+    "inclusive_days": 26,
+    "unpaid_commendation_day": 1080,
+    "acceptance_at_staging_settlement_dinner": 1080,
+    "certification": "Green"
+  },
+  "vaelum": {
+    "Guardians": 2,
+    "Offensive Specialists": 2,
+    "Helkir": 1,
+    "Combat Support Specialist": 1,
+    "Kaira, Environmental Support Specialist": 1
+  },
+  "registered_after_acceptance": 7,
+  "tournament_team_maximum": 11,
+  "protected_files_compared_with_baseline": [
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/GENESIS_CRYSTAL_MARKET_PRICES.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md",
+    "BOOKS/RED/ARCS/ARC_007/ARC.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/TOURNAMENT_AND_RING_ACQUISITION.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md"
+  ],
+  "violet_garment_beats_and_tournament_circuit": "verbatim",
+  "relative_links_checked": 1488,
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "added": [
+    "CHECKPOINTS/BLUE_ARC_014/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/BLUE_ARC_014/VALIDATION.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/01_BASELINE_AND_SUPERSESSION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/02_SETTLEMENT_AND_DAY_1054.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/03_EMERGENCY_RESCUE.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/04_DAILY_LEDGER_1050_1080.csv",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/05_BLUE_CLOSURE_AND_VIOLET_BRIDGE.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/06_CANON_AND_OPEN_ITEMS.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/07_CODEX_INTEGRATION.md",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/MANIFEST.json",
+    "PROVENANCE/WORKSHOP/BLUE_ARC_014/README.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_005/ARC.md",
+    "BOOKS/RED/ARCS/ARC_006/ARC.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "README.md",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md",
+    "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md"
+  ],
+  "deleted": []
+}
