@@ -1,8 +1,8 @@
 # The King’s raeon salon and local shop tournaments
 
-The King hosts an informal salon each **Ailor**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the first weekday.
+The King hosts an informal salon each **Aithen**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the sixth weekday.
 
-The author corrected the governing recurrence to Ailor on 2026-11-17. Violet selects regular games on Days 1085 and 1139. Day 1120 is ordinary downtime. The earlier Blue visits in the table retain their dated record from the published ledger. [Author decisions](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AUTHOR_CALENDAR_DECISION.md) · [Violet calendar](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md)
+The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and Aiven/6 shop tournaments. Violet selects regular royal games on Days 1098 and 1140. Days 1081–1086 are recovery without royal travel; Day 1139 is downtime and Day 1120 has no scheduled tournament for Kaira. Earlier Blue visits and local results in the table remain unchanged. [Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet calendar](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md)
 
 | Story days | Earlier Blue royal visits and local play |
 |---|---|
@@ -49,7 +49,7 @@ Only the explicit Green Day 217 v6 decisions above supersede earlier statements 
 
 # Raeon · named tournament schedule and placements through Day 167
 
-The current checkpoint uses protected **Raeon**. Original quoted spellings remain. Kaira completes her first 60-card custom deck on Day 14; local card-shop tournaments run on **Aiven**, first weekday, with the current ledger's first eligible entry Day 19. This preserves the old house-deck practice/rental account without inventing a new dated match or forcing a specific deck into an otherwise unspecified tournament; the precise placement of that older rental episode remains OPEN.
+The current checkpoint uses protected **Raeon**. Original quoted spellings remain. Kaira completes her first 60-card custom deck on Day 14; local card-shop tournaments run on **Aiven**, sixth weekday, with the current ledger's first eligible entry Day 19. This preserves the old house-deck practice/rental account without inventing a new dated match or forcing a specific deck into an otherwise unspecified tournament; the precise placement of that older rental episode remains OPEN.
 
 | Ledger day(s) | Attendance/result |
 |---|---|
@@ -113,7 +113,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 
 # Raeon and royal games
 
-**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; the [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) dates her royal games. The King hosts the salon on Ailor, weekday 5. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
+**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; the [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) dates her royal games. The King hosts the salon on Aithen, weekday 5. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
 
 Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
 

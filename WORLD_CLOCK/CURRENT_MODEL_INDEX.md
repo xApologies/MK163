@@ -1,8 +1,8 @@
 # Violet · selected training through Day 1159
 
-Four selected expeditions use the working atlas and route register. The governing calendar places regular royal games on Ailor, weekday 5. Days 1085 and 1139 are selected games, and Day 1120 is ordinary downtime. The seven-member vaelum has a Guardian leader with CSR and a dimensional bracelet, an air-mobility Offensive Specialist and two staging residences. Kaira’s CSR construction and specific training outcomes remain OPEN.
+Four selected expeditions use the working atlas and route register. The restored original calendar places regular royal games on Aithen, weekday 5, and local tournaments on Aiven, weekday 6. The sole active 008 schedule selects royal games on 1098 and 1140. Days 1081–1086 are recovery without royal travel, Day 1139 is downtime and Day 1120 has no scheduled tournament. The seven-member vaelum has a Guardian leader with CSR and a dimensional bracelet, an air-mobility Offensive Specialist and two staging residences. Kaira’s CSR construction and specific training outcomes remain OPEN.
 
-[Violet Arc](../BOOKS/RED/ARCS/ARC_006/ARC.md) · [Daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) · [Dungeon atlas](L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) · [Traversal logistics](L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md) · [Integration audit](../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
+[Violet Arc](../BOOKS/RED/ARCS/ARC_006/ARC.md) · [Daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) · [Dungeon atlas](L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) · [Traversal logistics](L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md) · [Calendar restoration audit](../CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md) · [Historical atlas integration](../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
 
 ---
 

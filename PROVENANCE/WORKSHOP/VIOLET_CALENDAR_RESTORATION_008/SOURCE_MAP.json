@@ -1,0 +1,40 @@
+{
+  "baseline": "5260cefdf22f59c297f4ab66ade132f6ec8584a6",
+  "archive": "MK163_Violet_Calendar_Restoration_008.zip",
+  "archive_sha256": "8a29a6e9ff889ab7570d6454a01d9d4bbf2bd1eb3c3b4fc54aaa7d6c44fb667e",
+  "source_manifest_supplied": false,
+  "crc": "PASS",
+  "note": "SHA-256 values are independently computed receipt hashes. The package provides no external checksum manifest; VALIDATION.json is an arithmetic report, not a hash manifest.",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 4960,
+      "sha256": "8570e482b4f558a0fefb202d08d3fcc060081565f84c8530c32ac54f25bc0eee",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md"
+    },
+    {
+      "path": "README.md",
+      "bytes": 746,
+      "sha256": "bfc2ac0570b4eb88631574f70fc5f4a8f5e8e7c74ab40e16e1ba1cdd8e3a0b62",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/README.md"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 520,
+      "sha256": "e6f1745faac19dfd525a0d08c0de0fd415b894d7961722fbad17387a7971d71c",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VALIDATION.json"
+    },
+    {
+      "path": "VIOLET_CORRECTED_DAILY_LEDGER.csv",
+      "bytes": 7953,
+      "sha256": "27fbdf350b69228f7ef1eaae0e39e74d53025a8f13106747f3c03495b1801415",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VIOLET_CORRECTED_DAILY_LEDGER.csv"
+    },
+    {
+      "path": "VIOLET_CORRECTED_DAILY_LEDGER.md",
+      "bytes": 9973,
+      "sha256": "32107d58d6aec69a35a1e1e78e5804f1dcda82d104bb1fd432fa44aa3d6cc5a6",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VIOLET_CORRECTED_DAILY_LEDGER.md"
+    }
+  ]
+}

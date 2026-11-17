@@ -1,0 +1,37 @@
+{
+  "rows": 80,
+  "first_day": 1080,
+  "last_day": 1159,
+  "month_day_mismatches": 0,
+  "weekday_mismatches": 0,
+  "royal_days": [
+    1098,
+    1140
+  ],
+  "royal_weekday": "Aithen",
+  "royal_weekday_number": 5,
+  "expeditions": {
+    "Yellow": [
+      1087,
+      1097,
+      11
+    ],
+    "Blue_1": [
+      1103,
+      1117,
+      15
+    ],
+    "Blue_2": [
+      1123,
+      1135,
+      13
+    ],
+    "Green": [
+      1143,
+      1159,
+      17
+    ]
+  },
+  "deleted_from_github": false,
+  "github_committed": false
+}

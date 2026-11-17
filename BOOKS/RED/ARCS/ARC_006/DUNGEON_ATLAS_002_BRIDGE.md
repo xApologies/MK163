@@ -1,6 +1,6 @@
 # Violet training geography — Atlas 002 bridge
 
-Atlas 002 records the map proposal at the Day 1081 opening. The [Current Violet schedule](VIOLET_DAILY_LEDGER_007.md) supplies later dated selections.
+Atlas 002 records the map proposal at the Day 1081 opening. The [Current Violet schedule](VIOLET_DAILY_LEDGER_008.md) supplies later dated selections.
 
 The vaelum's training has an extensive proposed physical network to reference: 340 numbered sites and 709 passages across Red, Orange, Yellow, Green and Blue. Its primary use is route comparison, alternate connections, terminal branches and future traversal scenes. Use stable IDs in scene planning and expedition ledgers rather than recreating a cave to suit each scene.
 

@@ -27,4 +27,4 @@
 
 The vaelum has four men and three women including Kaira. It uses two permanent, comfortable four-private-room residences in the Blue capital dungeon staging settlement. The women share one with three occupied rooms, and the men occupy four rooms in the other. Kaira’s relocation can occur gradually after the first expedition. She retains her earlier apartment. Residence ownership remains OPEN.
 
-[Original residential decisions](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_006.md) · [Current Violet schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md)
+[Original residential decisions](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_006.md) · [Current Violet schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md)

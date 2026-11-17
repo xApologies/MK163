@@ -1,0 +1,155 @@
+{
+  "status": "PASS",
+  "baseline_commit": "5260cefdf22f59c297f4ab66ade132f6ec8584a6",
+  "archive": "MK163_Violet_Calendar_Restoration_008.zip",
+  "archive_sha256": "8a29a6e9ff889ab7570d6454a01d9d4bbf2bd1eb3c3b4fc54aaa7d6c44fb667e",
+  "supplied_files_preserved": 5,
+  "crc": "PASS",
+  "source_hashes_verified": 5,
+  "supplied_hash_manifest": false,
+  "calendar": {
+    "weekday_order": [
+      "Ailar",
+      "Aiden",
+      "Aiveth",
+      "Ailor",
+      "Aithen",
+      "Aiven"
+    ],
+    "consecutive_running_rows": 1160,
+    "range": [
+      0,
+      1159
+    ],
+    "calendar_mismatches": 0,
+    "unchanged_historical_rows": 1081,
+    "source_schedule_rows": 80,
+    "replaced_event_rows": 79,
+    "royal_games": [
+      1098,
+      1140
+    ],
+    "recovery_days": [
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086
+    ],
+    "illi_visits": [
+      1099,
+      1100,
+      1141
+    ],
+    "returns": [
+      1101,
+      1142
+    ],
+    "day1120": "No scheduled local tournament"
+  },
+  "expeditions": [
+    {
+      "route": "VTR-09",
+      "start": 1087,
+      "end": 1097,
+      "days": 11,
+      "phases": [
+        4,
+        3,
+        4
+      ]
+    },
+    {
+      "route": "VTR-01",
+      "start": 1103,
+      "end": 1117,
+      "days": 15,
+      "phases": [
+        8,
+        7
+      ]
+    },
+    {
+      "route": "VTR-02",
+      "start": 1123,
+      "end": 1135,
+      "days": 13,
+      "phases": [
+        7,
+        6
+      ]
+    },
+    {
+      "route": "VTR-10",
+      "start": 1143,
+      "end": 1159,
+      "days": 17,
+      "phases": [
+        7,
+        3,
+        7
+      ]
+    }
+  ],
+  "internal_path_links_checked": 1383,
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "historical_sources_preserved": true,
+  "unrelated_owners_and_atlas_unchanged": true,
+  "old_007_report": "Historical banner and pinned link only; original body and prior receipt preserved",
+  "obsolete_active_ledger_pairs_removed": 1,
+  "active_daily_ledger_pairs": 1,
+  "conflicts": [],
+  "omissions_in_supplied_correction": [],
+  "added": [
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.csv",
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md",
+    "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/DEPENDENCIES.md",
+    "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/VALIDATION.json",
+    "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/README.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VALIDATION.json",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VIOLET_CORRECTED_DAILY_LEDGER.csv",
+    "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VIOLET_CORRECTED_DAILY_LEDGER.md"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_006/ARC.md",
+    "BOOKS/RED/ARCS/ARC_006/DUNGEON_ATLAS_002_BRIDGE.md",
+    "BOOKS/RED/ARCS/ARC_006/FIRST_VAELUM_TRIAL_R001_B041.md",
+    "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/README.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ASTRONOMY/STARSCAPE_AND_CALENDAR.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md"
+  ],
+  "deleted": [
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.csv",
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md"
+  ],
+  "file_counts": {
+    "added": 12,
+    "modified": 15,
+    "deleted": 2
+  }
+}

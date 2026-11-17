@@ -564,6 +564,16 @@
       "validation": "CHECKPOINTS/VIOLET_CUMULATIVE_007/VALIDATION.json",
       "author_decisions": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AUTHOR_CALENDAR_DECISION.md",
       "scope": "Violet 1081–1159, governing Ailor royal recurrence, atlas and environment, training routes and traversal logistics"
+    },
+    {
+      "id": "MK163_VIOLET_CALENDAR_RESTORATION_008",
+      "baseline": "5260cefdf22f59c297f4ab66ade132f6ec8584a6",
+      "archive": "MK163_Violet_Calendar_Restoration_008.zip",
+      "archive_sha256": "8a29a6e9ff889ab7570d6454a01d9d4bbf2bd1eb3c3b4fc54aaa7d6c44fb667e",
+      "source_root": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008",
+      "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/VALIDATION.json",
+      "scope": "Restore original weekday ordinals and royal recurrence; replace Violet 1081–1159 events while preserving Day 1080, all prior scenes and four expedition intervals"
     }
   ]
 }

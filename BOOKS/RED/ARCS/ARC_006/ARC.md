@@ -35,7 +35,7 @@ Evidence: [03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE](../../../../PROVENANCE/WORKS
 
 ## Selected schedule through Day 1159
 
-[The daily plan](VIOLET_DAILY_LEDGER_007.md) and [its CSV](VIOLET_DAILY_LEDGER_007.csv) record the four selected itineraries, royal games on 1085 and 1139, ordinary downtime on 1120, time with illi on 1140–1141, and the staging return on 1142. VTR-10 departs on 1143 and returns on 1159, with Yellow ELDRIS combat during the ascent. The first B041 Blue trial remains distinct from the earlier Y045 combat training.
+[The daily plan](VIOLET_DAILY_LEDGER_008.md) and [its CSV](VIOLET_DAILY_LEDGER_008.csv) record the four selected itineraries, recovery/slice-of-life without royal travel on 1081–1086, royal games on 1098 and 1140, time with illi on 1099–1100 and 1141, the Blue return on 1101, preparation on 1102, ordinary downtime on 1120 and 1136–1139, and the staging return on 1142. VTR-10 departs on 1143 and returns on 1159, with Yellow ELDRIS combat during the ascent. The first B041 Blue trial remains distinct from the earlier Y045 combat training.
 
 ## Violet training and CSR planning
 

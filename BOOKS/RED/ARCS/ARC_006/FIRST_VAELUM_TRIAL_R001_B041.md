@@ -36,4 +36,4 @@ The King's Tournament objective for this Blue-depth training scenario is to ente
 - The Black Sprite assists Nyx with otherwise impassable traversals as needed; the air specialist and leader's CSR can help establish rope crossings; actual use at specific edges remains OPEN.
 - The leader has a dimensional bracelet for equipment; backup dimensional ring owner remains OPEN. No carried boat or manufactured bridges.
 - The environmental layer is PROPOSED. G038 forest/velis, Y036/Y055 ELDRIS potential, and other feature assignments are not locked merely by selecting this route. R001's proposed forest overlay still needs review.
-- [Atlas](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) · [Current Violet schedule](VIOLET_DAILY_LEDGER_007.md) · [Integration record](../../../../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
+- [Atlas](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) · [Current Violet schedule](VIOLET_DAILY_LEDGER_008.md) · [Integration record](../../../../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)

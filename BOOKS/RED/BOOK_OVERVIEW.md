@@ -81,4 +81,4 @@ Arc 2 ends with the first robe reveal; Arc 3 contains the robe movement and firs
 
 ## Violet continuation through Day 1159
 
-[The selected daily plan](ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md) records four training trips, regular Ailor royal games on 1085 and 1139, and ordinary downtime on 1120. [The route register](ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and distinguishes the four selected schedules from the seven proposals.
+[The selected daily plan](ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) records four training trips, regular Aithen royal games on 1098 and 1140, and ordinary downtime on 1120. [The route register](ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and distinguishes the four selected schedules from the seven proposals.

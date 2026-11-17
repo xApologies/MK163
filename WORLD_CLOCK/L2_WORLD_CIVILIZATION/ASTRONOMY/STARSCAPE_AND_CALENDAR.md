@@ -1,19 +1,19 @@
-# Current weekday order and royal games · author correction, 2026-11-17
+# Restored original weekday order · Violet 008
 
 | Weekday number | Name |
 |---:|---|
-| 1 | Aiven |
-| 2 | Ailar |
-| 3 | Aiden |
-| 4 | Aiveth |
-| 5 | Ailor |
-| 6 | Aithen |
+| 1 | Ailar |
+| 2 | Aiden |
+| 3 | Aiveth |
+| 4 | Ailor |
+| 5 | Aithen |
+| 6 | Aiven |
 
-The King's regular raeon game is held on Ailor, weekday 5. Days 1085 and 1139 are regular games under this governing schedule. Day 0 remains Aithen, and Day 1081 is Aiven. For a story day `d`, the weekday number is `((d - 1081) % 6) + 1`; use the table above to obtain its name.
+Day 0 is Aelora 5, Aithen (weekday 5). For nonnegative story day `d`, the weekday number is `((d + 4) % 6) + 1`. Story day, civil month/day and weekday are distinct coordinates. Never restart the weekday sequence at month, year or academic boundaries. Day 1080 is Aithen/5; Day 1081 is Aiven/6.
 
-The author correction changes the weekday ordinals and governing royal recurrence. Historical source and teaching records below retain their preceding ordinal convention. Their named story dates continue in the same six-day phase. The 31-hour day, eleven month lengths and 353-day civil year retain their selected values.
+The King's regular raeon salon is on Aithen, weekday 5. Local shop tournaments are on Aiven, weekday 6. Violet selects royal games on 1098 and 1140. Days 1085 and 1139 are ordinary recovery/downtime without royal games. The author-approved 008 restoration supersedes the rotated 007 order and Ailor royal recurrence. Historical Blue/Green/Blackstone scenes and all named dates remain unchanged. The 31-hour day, original eleven month lengths and 353-day year remain unchanged. Earlier source evidence is historical in its stated scope; year-week numbering and astronomical/seasonal reconciliation remain OPEN.
 
-[Author decision](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/AUTHOR_CALENDAR_DECISION.md) · [Violet daily plan](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_007.md)
+[Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet daily plan](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) · [Supersession audit](../../../CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md)
 
 ---
 

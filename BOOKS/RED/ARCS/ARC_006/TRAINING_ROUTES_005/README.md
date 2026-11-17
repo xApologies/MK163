@@ -27,4 +27,4 @@ VTR-01 has the author-locked B041 path. The current schedule selects VTR-09 on 1
 - This package does not modify the 340-node, 709-edge graph, environmental overlays or MK727 catalogue.
 - Do not transfer these plans into Blue Arc; these are Book Red / Violet Arc future training plans.
 
-[Current Violet schedule](../VIOLET_DAILY_LEDGER_007.md) · [Original source mapping and supersessions](../../../../../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
+[Current Violet schedule](../VIOLET_DAILY_LEDGER_008.md) · [Original source mapping and supersessions](../../../../../CHECKPOINTS/VIOLET_CUMULATIVE_007/INTEGRATION_REPORT.md)
