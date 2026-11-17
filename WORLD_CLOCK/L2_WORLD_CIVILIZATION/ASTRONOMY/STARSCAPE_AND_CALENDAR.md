@@ -13,7 +13,7 @@ Day 0 is Aelora 5, Aithen (weekday 5). For nonnegative story day `d`, the weekda
 
 The King's regular raeon salon is on Aithen, weekday 5. Local shop tournaments are on Aiven, weekday 6. Violet selects royal games on 1098 and 1140. Days 1085 and 1139 are ordinary recovery/downtime without royal games. The author-approved 008 restoration supersedes the rotated 007 order and Ailor royal recurrence. Historical Blue/Green/Blackstone scenes and all named dates remain unchanged. The 31-hour day, original eleven month lengths and 353-day year remain unchanged. Earlier source evidence is historical in its stated scope; year-week numbering and astronomical/seasonal reconciliation remain OPEN.
 
-[Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet daily plan](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) · [Supersession audit](../../../CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md)
+[Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet daily plan](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [Supersession audit](../../../CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md)
 
 ---
 

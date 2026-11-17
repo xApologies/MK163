@@ -409,6 +409,6 @@ The original ledger above remains as the Live Model 003 audit record. The rows b
 
 The unchanged RED-TOURNAMENT-RING and RING-CONTINUITY rows still govern storage. Kaira and the reader do not know the incompatibility at the first bond. No fourth Transduction interface is created; the denizens retain independent agency. Nyx’s parental orange flowers are individual expressions, not his fixed color or a species restriction. Raw-output rankings are not combat rankings. Arc 3’s exact exit, the failure timing and later bond scenes remain open.
 
-## Violet continuation through Day 1159
+## Violet outline complete through Day 1346
 
-[The selected daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) records four training trips, regular Aithen royal games on 1098 and 1140, and ordinary downtime on 1120. [The route register](../BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and distinguishes the four selected schedules from the seven proposals.
+[The selected daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) retains the first four training trips, Aithen royal games on 1098/1140 and ordinary downtime on 1120. It adds eight occurrences, royal games on 1188/1326, Blue placement on 1165 and tournament attendance with result OPEN on 1225. VTR-08 returns on 1346 and closes Violet as an outlined arc; the King’s Tournament remains future and unscheduled. [The route register](../BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and records twelve occurrences on ten distinct routes, retaining VTR-11 as unused and unscheduled.

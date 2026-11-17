@@ -79,6 +79,6 @@ See `WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md` and `WORLD_CLOCK/
 
 Arc 2 ends with the first robe reveal; Arc 3 contains the robe movement and first Black Sprite bond. Arc 3’s exact event order/exit, Arc 2/3 chapter counts, later arcs, course schedule and full cast remain open. The fourth/Green tournament result and Dimensional Ring at Red’s end are unchanged. [The six-bond owner](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) distinguishes Red’s Green-native Sprite from book colors and later acquisitions. [Constitution 13](../../CONSTITUTIONS/13_ARC_PIPELINE_AND_LEAN_INHERITANCE.md) governs expansion into chapters and prose.
 
-## Violet continuation through Day 1159
+## Violet outline complete through Day 1346
 
-[The selected daily plan](ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) records four training trips, regular Aithen royal games on 1098 and 1140, and ordinary downtime on 1120. [The route register](ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and distinguishes the four selected schedules from the seven proposals.
+[The selected daily plan](ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) retains the first four training trips, Aithen royal games on 1098/1140 and ordinary downtime on 1120. It adds eight occurrences, royal games on 1188/1326, Blue placement on 1165 and tournament attendance with result OPEN on 1225. VTR-08 returns on 1346 and closes Violet as an outlined arc; the King’s Tournament remains future and unscheduled. [The route register](ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and records twelve occurrences on ten distinct routes, retaining VTR-11 as unused and unscheduled.

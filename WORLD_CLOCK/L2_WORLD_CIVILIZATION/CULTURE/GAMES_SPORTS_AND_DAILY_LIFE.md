@@ -2,7 +2,7 @@
 
 The King hosts an informal salon each **Aithen**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the sixth weekday.
 
-The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and Aiven/6 shop tournaments. Violet selects regular royal games on Days 1098 and 1140. Days 1081–1086 are recovery without royal travel; Day 1139 is downtime and Day 1120 has no scheduled tournament for Kaira. Earlier Blue visits and local results in the table remain unchanged. [Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet calendar](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md)
+The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and Aiven/6 shop tournaments. The 008 interval selects regular royal games on Days 1098 and 1140. Days 1081–1086 are recovery without royal travel; Day 1139 is downtime and Day 1120 has no scheduled tournament for Kaira. Earlier Blue visits and local results in the table remain unchanged. [Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet calendar](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md)
 
 | Story days | Earlier Blue royal visits and local play |
 |---|---|
@@ -12,6 +12,10 @@ The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and 
 | 1020–1027 | While three Registry applications are pending, Kaira travels to the King’s salon in Violet on 1020. The result remains OPEN. **Day 1021 — Aiven:** Kaira returns from the Violet royal capital to the Blue Domain capital following the King's Day 1020 raeon salon. She does not participate in the local card-shop tournament. On 1027 she wins White at the local shop. |
 
 [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Earlier royal visit evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md) · [Earlier local results](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md) · [Date-by-date supersessions](../../../CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md)
+
+## Violet 009 selected attendance
+
+Kaira places **Blue** at the local Blue-capital raeon tournament on **1165** (Aevor 16, Aiven/6). She attends the local tournament on **1225** (Aerion 11, Aiven/6), with result **OPEN**. The King's regular royal games are selected on **1188** (Aelith 7) and **1326** (Aeleth 16), both Aithen/5; their results are OPEN. Kaira spends 1189–1190 with Princess illi, returns to Blue on 1191, and returns from the later royal visit on 1327. No additional attendance follows from recurrence. [Complete daily schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [Original continuation](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VIOLET_EXTENSION_1160_1346.md).
 
 ---
 

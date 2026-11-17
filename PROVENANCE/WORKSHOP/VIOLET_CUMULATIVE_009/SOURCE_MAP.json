@@ -1,0 +1,104 @@
+{
+  "baseline": "0ee036e7e2d015ab9d181fdc665fcce7757198f7",
+  "archive": "MK163_VIOLET_CUMULATIVE_009.zip",
+  "archive_sha256": "2663ae62a7bf82c6e58bbb2f2b3831b5ee778a1b33fdc8c67a64fa35f51c57c2",
+  "crc": "PASS",
+  "supplied_hash_manifest": false,
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 4565,
+      "sha256": "08aa25217239995856f4802badd87a6648abd24413556489e76c213321f28274",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/EXECUTABLE.md"
+    },
+    {
+      "path": "EXPEDITION_NODE_ROUTE_MANIFEST.md",
+      "bytes": 4207,
+      "sha256": "1c362cbbf1d8fc3194fa42f5d58632968bb07437235e73db74de4c9518c376e0",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/EXPEDITION_NODE_ROUTE_MANIFEST.md"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1257,
+      "sha256": "c7f28fefffa6ee7fc10754cc4a94d7a3374699a98ca1acd235b9148ee0178647",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/README.md"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 871,
+      "sha256": "55a08199489474b7a4877bc81f8af397b68721d64a1c593b6cce4c9ce566aa84",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VALIDATION.json"
+    },
+    {
+      "path": "VIOLET_EXTENSION_1160_1346.csv",
+      "bytes": 13166,
+      "sha256": "f972682b5d73e7584c15e1c84a588eb95802eb350e9ec2254ab7a963de96cf54",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VIOLET_EXTENSION_1160_1346.csv"
+    },
+    {
+      "path": "VIOLET_EXTENSION_1160_1346.md",
+      "bytes": 16209,
+      "sha256": "50ef438c2103afed5cec3789d61a909a8fb3c30bdf7056b6a48a03210078e869",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VIOLET_EXTENSION_1160_1346.md"
+    }
+  ],
+  "preserved_baseline": [
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/BASELINE_008/VIOLET_DAILY_LEDGER_008.md",
+      "sha256": "f28436074a027477b7c8d1adf15a58a711721203cf8a80aebccb71f779ebe9d7",
+      "bytes": 10660,
+      "reason": "Exact integrated 008 baseline"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.csv",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/BASELINE_008/VIOLET_DAILY_LEDGER_008.csv",
+      "sha256": "ad83d60084eb5ad3ebdfa1fbc7b948270abf412ed0d6880bbddb684bf04cc41c",
+      "bytes": 7872,
+      "reason": "Exact integrated 008 baseline"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-03.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-03.md",
+      "sha256": "44f374f98a3c1a82b743ecbe4e5281b477f5091021bac6bcc7ad7b7b9e94442e",
+      "bytes": 3020,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-04.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-04.md",
+      "sha256": "4a1d16ded27c1987197d13e0856279cd5d709d8ebb82da23d458140b9636968f",
+      "bytes": 3578,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-05.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-05.md",
+      "sha256": "1fee55e0701f2bd739441f7b4bc0d40e9d1572382b93af5d3efd07850fd7f2af",
+      "bytes": 4775,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-06.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-06.md",
+      "sha256": "e446bb18e66dbb5d5e3c2fb26273c808ec668ceb1c2d0a5c8ca9ea2348de56bc",
+      "bytes": 4598,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-07.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-07.md",
+      "sha256": "046da772c8f928708e8ec76c21f0b989faea1a841cfcd6db038f84a91b10cc30",
+      "bytes": 4002,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/VTR-08.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/PRIOR_ORIGINAL_ROUTES/VTR-08.md",
+      "sha256": "2afb04728d3ac563196293a9695c16776ab9fde252b893f4cad60a686cd6af6b",
+      "bytes": 3799,
+      "reason": "007 original previously preserved at its active path; now archived before status change"
+    }
+  ],
+  "note": "Computed SHA-256 receipt hashes; the ZIP contains no external checksum manifest. Prior 007 source map remains historical; six route originals now resolve through preserved_baseline."
+}

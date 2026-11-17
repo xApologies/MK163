@@ -1,0 +1,25 @@
+{
+  "status": "PASS_LOCAL_GENERATION",
+  "extension_rows": 187,
+  "range": [
+    1160,
+    1346
+  ],
+  "expected_cumulative_violet_rows": 267,
+  "expected_running_ledger_rows": 1347,
+  "unique_days": 187,
+  "weekday_mismatches": 0,
+  "expedition_occurrences": 8,
+  "scheduled_distinct_route_ids": 8,
+  "source_route_nodes": "Transcribed from inspected MK163 route records; Codex must independently compare to source files and graph edges",
+  "baseline_008": "NOT_BUNDLED; Codex must read repository authoritative file and preserve it",
+  "last_day": {
+    "story_day": 1346,
+    "month": "Aelor",
+    "day_of_month": 4,
+    "weekday_number": 1,
+    "weekday_name": "Ailar",
+    "event": "VTR-08 ascent along reverse route, day 9 of 9; surface return"
+  },
+  "open": "VTR-11 remains unscheduled; King Tournament date OPEN; individual node/day traversal assignments OPEN"
+}

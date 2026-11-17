@@ -1,0 +1,92 @@
+# MK163 Violet Arc — corrected daily ledger 008
+
+**Author-approved replacement schedule, Day 1080–1159.** This document replaces the active Violet 007 event schedule; the six-day civil calendar retains its ORIGINAL names and ordinals: 1 Ailar, 2 Aiden, 3 Aiveth, 4 Ailor, 5 Aithen, 6 Aiven. Day 0 = Aelora 5, Aithen. Civil year = 353 days with eleven original month lengths. The calendar does not restart at month/year or academic boundaries.
+
+**Locked author decisions:** Day 1080 Blue closure unchanged. Days 1081–1086 recovery/slice-of-life only; no royal game or travel. Yellow VTR-09 1087–1097. Royal game 1098, Princess illi 1099–1100, Blue return 1101, preparation 1102. Blue VTR-01 1103–1117; downtime 1118–1122. Blue VTR-02 1123–1135; downtime 1136–1139. Royal game 1140; illi 1141; Blue staging return 1142. Green VTR-10 1143–1159. Do not invent exact dialogue, extra encounters, travel mechanisms, or outcomes.
+
+**Scope:** Correct Violet event schedule and weekday numbering, not historical Blue/Green/Blackstone dates. Do not infer that the absence of an explicitly recorded local tournament means the shop is closed. Kaira may be unavailable because she is on expedition.
+
+| Story day | Civil date | Weekday | Event |
+|---:|---|---|---|
+| 1080 | Aelora 26 | 5 · Aithen | Blue Arc closure: rescue returns; Registry closeout; Kaira accepts invitation as seventh vaelum member at dinner. |
+| 1081 | Aelora 27 | 6 · Aiven | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1082 | Aelora 28 | 1 · Ailar | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1083 | Aelora 29 | 2 · Aiden | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1084 | Aelora 30 | 3 · Aiveth | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1085 | Aelora 31 | 4 · Ailor | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1086 | Aevrin 1 | 5 · Aithen | Recovery, personal time and ordinary slice-of-life. No royal game or royal-capital trip. |
+| 1087 | Aevrin 2 | 6 · Aiven | VTR-09 Yellow expedition: descent to Y045, day 1 of 4; possible encounters en route. |
+| 1088 | Aevrin 3 | 1 · Ailar | VTR-09 Yellow expedition: descent to Y045, day 2 of 4; possible encounters en route. |
+| 1089 | Aevrin 4 | 2 · Aiden | VTR-09 Yellow expedition: descent to Y045, day 3 of 4; possible encounters en route. |
+| 1090 | Aevrin 5 | 3 · Aiveth | VTR-09 Yellow expedition: descent to Y045, day 4 of 4; possible encounters en route. |
+| 1091 | Aevrin 6 | 4 · Ailor | VTR-09 Yellow expedition: sustained ELDRIS combat at Y045, day 1 of 3. |
+| 1092 | Aevrin 7 | 5 · Aithen | VTR-09 Yellow expedition: sustained ELDRIS combat at Y045, day 2 of 3. |
+| 1093 | Aevrin 8 | 6 · Aiven | VTR-09 Yellow expedition: sustained ELDRIS combat at Y045, day 3 of 3. |
+| 1094 | Aevrin 9 | 1 · Ailar | VTR-09 Yellow expedition: ascent, day 1 of 4. |
+| 1095 | Aevrin 10 | 2 · Aiden | VTR-09 Yellow expedition: ascent, day 2 of 4. |
+| 1096 | Aevrin 11 | 3 · Aiveth | VTR-09 Yellow expedition: ascent, day 3 of 4. |
+| 1097 | Aevrin 12 | 4 · Ailor | VTR-09 Yellow expedition: ascent, day 4 of 4; returns to surface. |
+| 1098 | Aevrin 13 | 5 · Aithen | King's weekly raeon game at Violet royal palace; Aithen (weekday 5). |
+| 1099 | Aevrin 14 | 6 · Aiven | Kaira spends time with Princess illi at royal palace, day 1 of 2. |
+| 1100 | Aevrin 15 | 1 · Ailar | Kaira spends time with Princess illi at royal palace, day 2 of 2. |
+| 1101 | Aevrin 16 | 2 · Aiden | Kaira returns to Blue capital from Violet royal palace. |
+| 1102 | Aevrin 17 | 3 · Aiveth | Downtime and expedition preparation. |
+| 1103 | Aevrin 18 | 4 · Ailor | VTR-01 Blue navigation trial: descent toward B041, day 1 of 8. |
+| 1104 | Aevrin 19 | 5 · Aithen | VTR-01 Blue navigation trial: descent toward B041, day 2 of 8. |
+| 1105 | Aevrin 20 | 6 · Aiven | VTR-01 Blue navigation trial: descent toward B041, day 3 of 8. |
+| 1106 | Aevrin 21 | 1 · Ailar | VTR-01 Blue navigation trial: descent toward B041, day 4 of 8. |
+| 1107 | Aevrin 22 | 2 · Aiden | VTR-01 Blue navigation trial: descent toward B041, day 5 of 8. |
+| 1108 | Aevrin 23 | 3 · Aiveth | VTR-01 Blue navigation trial: descent toward B041, day 6 of 8. |
+| 1109 | Aevrin 24 | 4 · Ailor | VTR-01 Blue navigation trial: descent toward B041, day 7 of 8. |
+| 1110 | Aevrin 25 | 5 · Aithen | VTR-01 Blue navigation trial: descent toward B041, day 8 of 8. |
+| 1111 | Aevrin 26 | 6 · Aiven | VTR-01 Blue navigation trial: return ascent, day 1 of 7. |
+| 1112 | Aevrin 27 | 1 · Ailar | VTR-01 Blue navigation trial: return ascent, day 2 of 7. |
+| 1113 | Aevrin 28 | 2 · Aiden | VTR-01 Blue navigation trial: return ascent, day 3 of 7. |
+| 1114 | Aevrin 29 | 3 · Aiveth | VTR-01 Blue navigation trial: return ascent, day 4 of 7. |
+| 1115 | Aevrin 30 | 4 · Ailor | VTR-01 Blue navigation trial: return ascent, day 5 of 7. |
+| 1116 | Aevrin 31 | 5 · Aithen | VTR-01 Blue navigation trial: return ascent, day 6 of 7. |
+| 1117 | Aevrin 32 | 6 · Aiven | VTR-01 Blue navigation trial: return ascent, day 7 of 7; returns to surface. |
+| 1118 | Aevrin 33 | 1 · Ailar | Downtime, recovery and ordinary life; no scheduled local tournament. |
+| 1119 | Aelis 1 | 2 · Aiden | Downtime, recovery and ordinary life; no scheduled local tournament. |
+| 1120 | Aelis 2 | 3 · Aiveth | Downtime, recovery and ordinary life; no scheduled local tournament. |
+| 1121 | Aelis 3 | 4 · Ailor | Downtime, recovery and ordinary life; no scheduled local tournament. |
+| 1122 | Aelis 4 | 5 · Aithen | Downtime, recovery and ordinary life; no scheduled local tournament. |
+| 1123 | Aelis 5 | 6 · Aiven | VTR-02 Blue navigation trial: descent toward B013, day 1 of 7. |
+| 1124 | Aelis 6 | 1 · Ailar | VTR-02 Blue navigation trial: descent toward B013, day 2 of 7. |
+| 1125 | Aelis 7 | 2 · Aiden | VTR-02 Blue navigation trial: descent toward B013, day 3 of 7. |
+| 1126 | Aelis 8 | 3 · Aiveth | VTR-02 Blue navigation trial: descent toward B013, day 4 of 7. |
+| 1127 | Aelis 9 | 4 · Ailor | VTR-02 Blue navigation trial: descent toward B013, day 5 of 7. |
+| 1128 | Aelis 10 | 5 · Aithen | VTR-02 Blue navigation trial: descent toward B013, day 6 of 7. |
+| 1129 | Aelis 11 | 6 · Aiven | VTR-02 Blue navigation trial: descent toward B013, day 7 of 7. |
+| 1130 | Aelis 12 | 1 · Ailar | VTR-02 Blue navigation trial: return ascent, day 1 of 6. |
+| 1131 | Aelis 13 | 2 · Aiden | VTR-02 Blue navigation trial: return ascent, day 2 of 6. |
+| 1132 | Aelis 14 | 3 · Aiveth | VTR-02 Blue navigation trial: return ascent, day 3 of 6. |
+| 1133 | Aelis 15 | 4 · Ailor | VTR-02 Blue navigation trial: return ascent, day 4 of 6. |
+| 1134 | Aelis 16 | 5 · Aithen | VTR-02 Blue navigation trial: return ascent, day 5 of 6. |
+| 1135 | Aelis 17 | 6 · Aiven | VTR-02 Blue navigation trial: return ascent, day 6 of 6; returns to surface. |
+| 1136 | Aelis 18 | 1 · Ailar | Downtime, recovery and ordinary slice-of-life; no royal game. |
+| 1137 | Aelis 19 | 2 · Aiden | Downtime, recovery and ordinary slice-of-life; no royal game. |
+| 1138 | Aelis 20 | 3 · Aiveth | Downtime, recovery and ordinary slice-of-life; no royal game. |
+| 1139 | Aelis 21 | 4 · Ailor | Downtime, recovery and ordinary slice-of-life; no royal game. |
+| 1140 | Aelis 22 | 5 · Aithen | King's weekly raeon game at Violet royal palace; Aithen (weekday 5). |
+| 1141 | Aelis 23 | 6 · Aiven | Kaira spends one day with Princess illi at the royal palace. |
+| 1142 | Aelis 24 | 1 · Ailar | Kaira returns to Blue capital and staging area; prepares for Green expedition. |
+| 1143 | Aelis 25 | 2 · Aiden | VTR-10 Green ELDRIS expedition: descent to G076, day 1 of 7; possible encounters en route. |
+| 1144 | Aelis 26 | 3 · Aiveth | VTR-10 Green ELDRIS expedition: descent to G076, day 2 of 7; possible encounters en route. |
+| 1145 | Aelis 27 | 4 · Ailor | VTR-10 Green ELDRIS expedition: descent to G076, day 3 of 7; possible encounters en route. |
+| 1146 | Aelis 28 | 5 · Aithen | VTR-10 Green ELDRIS expedition: descent to G076, day 4 of 7; possible encounters en route. |
+| 1147 | Aelis 29 | 6 · Aiven | VTR-10 Green ELDRIS expedition: descent to G076, day 5 of 7; possible encounters en route. |
+| 1148 | Aelis 30 | 1 · Ailar | VTR-10 Green ELDRIS expedition: descent to G076, day 6 of 7; possible encounters en route. |
+| 1149 | Aelis 31 | 2 · Aiden | VTR-10 Green ELDRIS expedition: descent to G076, day 7 of 7; possible encounters en route. |
+| 1150 | Aevor 1 | 3 · Aiveth | VTR-10 Green ELDRIS expedition: sustained combat at G076, day 1 of 3. |
+| 1151 | Aevor 2 | 4 · Ailor | VTR-10 Green ELDRIS expedition: sustained combat at G076, day 2 of 3. |
+| 1152 | Aevor 3 | 5 · Aithen | VTR-10 Green ELDRIS expedition: sustained combat at G076, day 3 of 3. |
+| 1153 | Aevor 4 | 6 · Aiven | VTR-10 Green ELDRIS expedition: ascent, day 1 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1154 | Aevor 5 | 1 · Ailar | VTR-10 Green ELDRIS expedition: ascent, day 2 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1155 | Aevor 6 | 2 · Aiden | VTR-10 Green ELDRIS expedition: ascent, day 3 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1156 | Aevor 7 | 3 · Aiveth | VTR-10 Green ELDRIS expedition: ascent, day 4 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1157 | Aevor 8 | 4 · Ailor | VTR-10 Green ELDRIS expedition: ascent, day 5 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1158 | Aevor 9 | 5 · Aithen | VTR-10 Green ELDRIS expedition: ascent, day 6 of 7; additional Yellow-stratum ELDRIS encounter during return. |
+| 1159 | Aevor 10 | 6 · Aiven | VTR-10 Green ELDRIS expedition: ascent, day 7 of 7; additional Yellow-stratum ELDRIS encounter during return; returns to surface. |
+
+**Reading boundary:** This is the sole active Violet daily schedule. The 006/007 schedules are superseded historical evidence. Source “Illi” is normalized to protected lowercase **illi** here. Repeated Yellow-stratum encounter wording on Days 1153–1159 describes the selected return interval, not seven newly selected encounters or an exact encounter day. The detailed Day 1080 closure remains in the running ledger and Blue rescue owner. [Restoration and reverse diff](../../../../CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/INTEGRATION_REPORT.md) · [Original supplied schedule](../../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/VIOLET_CORRECTED_DAILY_LEDGER.md).

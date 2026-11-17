@@ -1,4 +1,6 @@
-# Book Red running ledger · Violet outlined through Day 1159
+# Book Red running ledger · Violet outline complete through Day 1346
+
+Violet 009 adds Days 1160–1346 and closes the outlined arc at VTR-08’s surface return. The earlier 1,160 daily rows remain byte-for-byte unchanged, including their historical 008 navigation links. [Sole active cumulative Violet schedule](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [009 integration audit](../CHECKPOINTS/VIOLET_CUMULATIVE_009/INTEGRATION_REPORT.md). The 008 link page now points to the cumulative schedule and exact historical baseline.
 
 Days 787–1080 continue the six-day week and 353-day civil calendar after graduation. The first three Blue Dungeon expeditions close on Days 943, 999 and 1049. The fourth, an unpaid rescue, returns on Day 1080 (Aithen). Kaira accepts the vaelum invitation at dinner that evening. Violet opens on Day 1081 (Aiven). The Day 905 Green Support certification falls 119 elapsed days after graduation on Day 786, or 120 days counting both dates.
 
@@ -1309,6 +1311,193 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 1157 | Aevor | 8 | — | Ailor | VTR-10 Green ELDRIS expedition: ascent, day 5 of 7; additional Yellow-stratum ELDRIS encounter during return. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) |
 | 1158 | Aevor | 9 | — | Aithen | VTR-10 Green ELDRIS expedition: ascent, day 6 of 7; additional Yellow-stratum ELDRIS encounter during return. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) |
 | 1159 | Aevor | 10 | — | Aiven | VTR-10 Green ELDRIS expedition: ascent, day 7 of 7; additional Yellow-stratum ELDRIS encounter during return; returns to surface. [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) |
+| 1160 | Aevor | 11 | — | Ailar | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1161 | Aevor | 12 | — | Aiden | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1162 | Aevor | 13 | — | Aiveth | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1163 | Aevor | 14 | — | Ailor | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1164 | Aevor | 15 | — | Aithen | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1165 | Aevor | 16 | — | Aiven | Kaira places Blue in local raeon tournament in Blue capital; otherwise free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1166 | Aevor | 17 | — | Ailar | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1167 | Aevor | 18 | — | Aiden | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1168 | Aevor | 19 | — | Aiveth | Free time / recovery; slice-of-life OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1169 | Aevor | 20 | — | Ailor | Free time; final expedition preparation [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1170 | Aevor | 21 | — | Aithen | VTR-03 descent to B009, day 1 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1171 | Aevor | 22 | — | Aiven | VTR-03 descent to B009, day 2 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1172 | Aevor | 23 | — | Ailar | VTR-03 descent to B009, day 3 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1173 | Aevor | 24 | — | Aiden | VTR-03 descent to B009, day 4 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1174 | Aevor | 25 | — | Aiveth | VTR-03 descent to B009, day 5 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1175 | Aevor | 26 | — | Ailor | VTR-03 descent to B009, day 6 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1176 | Aevor | 27 | — | Aithen | VTR-03 descent to B009, day 7 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1177 | Aevor | 28 | — | Aiven | VTR-03 descent to B009, day 8 of 8; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1178 | Aevor | 29 | — | Ailar | VTR-03 ascent along reverse route, day 1 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1179 | Aevor | 30 | — | Aiden | VTR-03 ascent along reverse route, day 2 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1180 | Aevor | 31 | — | Aiveth | VTR-03 ascent along reverse route, day 3 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1181 | Aevor | 32 | — | Ailor | VTR-03 ascent along reverse route, day 4 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1182 | Aelith | 1 | — | Aithen | VTR-03 ascent along reverse route, day 5 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1183 | Aelith | 2 | — | Aiven | VTR-03 ascent along reverse route, day 6 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1184 | Aelith | 3 | — | Ailar | VTR-03 ascent along reverse route, day 7 of 7; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1185 | Aelith | 4 | — | Aiden | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1186 | Aelith | 5 | — | Aiveth | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1187 | Aelith | 6 | — | Ailor | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1188 | Aelith | 7 | — | Aithen | King's regular raeon card game in Violet royal capital [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1189 | Aelith | 8 | — | Aiven | Kaira spends day 1 of 2 with Princess illi [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1190 | Aelith | 9 | — | Ailar | Kaira spends day 2 of 2 with Princess illi [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1191 | Aelith | 10 | — | Aiden | Kaira returns to Blue capital [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1192 | Aelith | 11 | — | Aiveth | Downtime / expedition preparation [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1193 | Aelith | 12 | — | Ailor | VTR-04 descent to B015, day 1 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1194 | Aelith | 13 | — | Aithen | VTR-04 descent to B015, day 2 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1195 | Aelith | 14 | — | Aiven | VTR-04 descent to B015, day 3 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1196 | Aelith | 15 | — | Ailar | VTR-04 descent to B015, day 4 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1197 | Aelith | 16 | — | Aiden | VTR-04 descent to B015, day 5 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1198 | Aelith | 17 | — | Aiveth | VTR-04 descent to B015, day 6 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1199 | Aelith | 18 | — | Ailor | VTR-04 descent to B015, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1200 | Aelith | 19 | — | Aithen | VTR-04 descent to B015, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1201 | Aelith | 20 | — | Aiven | VTR-04 descent to B015, day 9 of 9; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1202 | Aelith | 21 | — | Ailar | VTR-04 ascent along reverse route, day 1 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1203 | Aelith | 22 | — | Aiden | VTR-04 ascent along reverse route, day 2 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1204 | Aelith | 23 | — | Aiveth | VTR-04 ascent along reverse route, day 3 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1205 | Aelith | 24 | — | Ailor | VTR-04 ascent along reverse route, day 4 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1206 | Aelith | 25 | — | Aithen | VTR-04 ascent along reverse route, day 5 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1207 | Aelith | 26 | — | Aiven | VTR-04 ascent along reverse route, day 6 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1208 | Aelith | 27 | — | Ailar | VTR-04 ascent along reverse route, day 7 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1209 | Aelith | 28 | — | Aiden | VTR-04 ascent along reverse route, day 8 of 8; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1210 | Aelith | 29 | — | Aiveth | Recovery / free time; no selected tournament or royal attendance [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1211 | Aelith | 30 | — | Ailor | Recovery / free time; no selected tournament or royal attendance [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1212 | Aelith | 31 | — | Aithen | Recovery / free time; no selected tournament or royal attendance [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1213 | Aelith | 32 | — | Aiven | Recovery / free time; no selected tournament or royal attendance [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1214 | Aelith | 33 | — | Ailar | VTR-09 (repeat) descent to Y045, day 1 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1215 | Aerion | 1 | — | Aiden | VTR-09 (repeat) descent to Y045, day 2 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1216 | Aerion | 2 | — | Aiveth | VTR-09 (repeat) descent to Y045, day 3 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1217 | Aerion | 3 | — | Ailor | VTR-09 (repeat) descent to Y045, day 4 of 4; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1218 | Aerion | 4 | — | Aithen | VTR-09 (repeat) ELDRIS combat training at Y045, day 1 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1219 | Aerion | 5 | — | Aiven | VTR-09 (repeat) ELDRIS combat training at Y045, day 2 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1220 | Aerion | 6 | — | Ailar | VTR-09 (repeat) ELDRIS combat training at Y045, day 3 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1221 | Aerion | 7 | — | Aiden | VTR-09 (repeat) ascent along reverse route, day 1 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1222 | Aerion | 8 | — | Aiveth | VTR-09 (repeat) ascent along reverse route, day 2 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1223 | Aerion | 9 | — | Ailor | VTR-09 (repeat) ascent along reverse route, day 3 of 4 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1224 | Aerion | 10 | — | Aithen | VTR-09 (repeat) ascent along reverse route, day 4 of 4; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1225 | Aerion | 11 | — | Aiven | Kaira attends local raeon tournament in Blue capital; result OPEN [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1226 | Aerion | 12 | — | Ailar | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1227 | Aerion | 13 | — | Aiden | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1228 | Aerion | 14 | — | Aiveth | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1229 | Aerion | 15 | — | Ailor | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1230 | Aerion | 16 | — | Aithen | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1231 | Aerion | 17 | — | Aiven | Free time / rest; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1232 | Aerion | 18 | — | Ailar | VTR-05 descent to B058, day 1 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1233 | Aerion | 19 | — | Aiden | VTR-05 descent to B058, day 2 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1234 | Aerion | 20 | — | Aiveth | VTR-05 descent to B058, day 3 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1235 | Aerion | 21 | — | Ailor | VTR-05 descent to B058, day 4 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1236 | Aerion | 22 | — | Aithen | VTR-05 descent to B058, day 5 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1237 | Aerion | 23 | — | Aiven | VTR-05 descent to B058, day 6 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1238 | Aerion | 24 | — | Ailar | VTR-05 descent to B058, day 7 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1239 | Aerion | 25 | — | Aiden | VTR-05 descent to B058, day 8 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1240 | Aerion | 26 | — | Aiveth | VTR-05 descent to B058, day 9 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1241 | Aerion | 27 | — | Ailor | VTR-05 descent to B058, day 10 of 10; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1242 | Aerion | 28 | — | Aithen | VTR-05 ascent along reverse route, day 1 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1243 | Aerion | 29 | — | Aiven | VTR-05 ascent along reverse route, day 2 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1244 | Aerion | 30 | — | Ailar | VTR-05 ascent along reverse route, day 3 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1245 | Aerion | 31 | — | Aiden | VTR-05 ascent along reverse route, day 4 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1246 | Aerion | 32 | — | Aiveth | VTR-05 ascent along reverse route, day 5 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1247 | Aeveth | 1 | — | Ailor | VTR-05 ascent along reverse route, day 6 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1248 | Aeveth | 2 | — | Aithen | VTR-05 ascent along reverse route, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1249 | Aeveth | 3 | — | Aiven | VTR-05 ascent along reverse route, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1250 | Aeveth | 4 | — | Ailar | VTR-05 ascent along reverse route, day 9 of 9; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1251 | Aeveth | 5 | — | Aiden | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1252 | Aeveth | 6 | — | Aiveth | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1253 | Aeveth | 7 | — | Ailor | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1254 | Aeveth | 8 | — | Aithen | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1255 | Aeveth | 9 | — | Aiven | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1256 | Aeveth | 10 | — | Ailar | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1257 | Aeveth | 11 | — | Aiden | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1258 | Aeveth | 12 | — | Aiveth | Free time / recovery; no selected attendance at recurring games [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1259 | Aeveth | 13 | — | Ailor | VTR-06 descent to B074, day 1 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1260 | Aeveth | 14 | — | Aithen | VTR-06 descent to B074, day 2 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1261 | Aeveth | 15 | — | Aiven | VTR-06 descent to B074, day 3 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1262 | Aeveth | 16 | — | Ailar | VTR-06 descent to B074, day 4 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1263 | Aeveth | 17 | — | Aiden | VTR-06 descent to B074, day 5 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1264 | Aeveth | 18 | — | Aiveth | VTR-06 descent to B074, day 6 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1265 | Aeveth | 19 | — | Ailor | VTR-06 descent to B074, day 7 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1266 | Aeveth | 20 | — | Aithen | VTR-06 descent to B074, day 8 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1267 | Aeveth | 21 | — | Aiven | VTR-06 descent to B074, day 9 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1268 | Aeveth | 22 | — | Ailar | VTR-06 descent to B074, day 10 of 10; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1269 | Aeveth | 23 | — | Aiden | VTR-06 ascent along reverse route, day 1 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1270 | Aeveth | 24 | — | Aiveth | VTR-06 ascent along reverse route, day 2 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1271 | Aeveth | 25 | — | Ailor | VTR-06 ascent along reverse route, day 3 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1272 | Aeveth | 26 | — | Aithen | VTR-06 ascent along reverse route, day 4 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1273 | Aeveth | 27 | — | Aiven | VTR-06 ascent along reverse route, day 5 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1274 | Aeveth | 28 | — | Ailar | VTR-06 ascent along reverse route, day 6 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1275 | Aeveth | 29 | — | Aiden | VTR-06 ascent along reverse route, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1276 | Aeveth | 30 | — | Aiveth | VTR-06 ascent along reverse route, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1277 | Aeveth | 31 | — | Ailor | VTR-06 ascent along reverse route, day 9 of 9; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1278 | Aesith | 1 | — | Aithen | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1279 | Aesith | 2 | — | Aiven | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1280 | Aesith | 3 | — | Ailar | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1281 | Aesith | 4 | — | Aiden | Recovery / free time [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1282 | Aesith | 5 | — | Aiveth | VTR-10 (repeat) descent to G076, day 1 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1283 | Aesith | 6 | — | Ailor | VTR-10 (repeat) descent to G076, day 2 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1284 | Aesith | 7 | — | Aithen | VTR-10 (repeat) descent to G076, day 3 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1285 | Aesith | 8 | — | Aiven | VTR-10 (repeat) descent to G076, day 4 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1286 | Aesith | 9 | — | Ailar | VTR-10 (repeat) descent to G076, day 5 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1287 | Aesith | 10 | — | Aiden | VTR-10 (repeat) descent to G076, day 6 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1288 | Aesith | 11 | — | Aiveth | VTR-10 (repeat) descent to G076, day 7 of 7; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1289 | Aesith | 12 | — | Ailor | VTR-10 (repeat) ELDRIS combat training at G076, day 1 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1290 | Aesith | 13 | — | Aithen | VTR-10 (repeat) ELDRIS combat training at G076, day 2 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1291 | Aesith | 14 | — | Aiven | VTR-10 (repeat) ELDRIS combat training at G076, day 3 of 3 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1292 | Aesith | 15 | — | Ailar | VTR-10 (repeat) ascent along reverse route, day 1 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1293 | Aesith | 16 | — | Aiden | VTR-10 (repeat) ascent along reverse route, day 2 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1294 | Aesith | 17 | — | Aiveth | VTR-10 (repeat) ascent along reverse route, day 3 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1295 | Aesith | 18 | — | Ailor | VTR-10 (repeat) ascent along reverse route, day 4 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1296 | Aesith | 19 | — | Aithen | VTR-10 (repeat) ascent along reverse route, day 5 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1297 | Aesith | 20 | — | Aiven | VTR-10 (repeat) ascent along reverse route, day 6 of 7 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1298 | Aesith | 21 | — | Ailar | VTR-10 (repeat) ascent along reverse route, day 7 of 7; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1299 | Aesith | 22 | — | Aiden | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1300 | Aesith | 23 | — | Aiveth | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1301 | Aesith | 24 | — | Ailor | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1302 | Aesith | 25 | — | Aithen | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1303 | Aesith | 26 | — | Aiven | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1304 | Aesith | 27 | — | Ailar | VTR-07 descent to B053, day 1 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1305 | Aesith | 28 | — | Aiden | VTR-07 descent to B053, day 2 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1306 | Aesith | 29 | — | Aiveth | VTR-07 descent to B053, day 3 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1307 | Aesith | 30 | — | Ailor | VTR-07 descent to B053, day 4 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1308 | Aesith | 31 | — | Aithen | VTR-07 descent to B053, day 5 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1309 | Aesith | 32 | — | Aiven | VTR-07 descent to B053, day 6 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1310 | Aesith | 33 | — | Ailar | VTR-07 descent to B053, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1311 | Aeleth | 1 | — | Aiden | VTR-07 descent to B053, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1312 | Aeleth | 2 | — | Aiveth | VTR-07 descent to B053, day 9 of 9; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1313 | Aeleth | 3 | — | Ailor | VTR-07 ascent along reverse route, day 1 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1314 | Aeleth | 4 | — | Aithen | VTR-07 ascent along reverse route, day 2 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1315 | Aeleth | 5 | — | Aiven | VTR-07 ascent along reverse route, day 3 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1316 | Aeleth | 6 | — | Ailar | VTR-07 ascent along reverse route, day 4 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1317 | Aeleth | 7 | — | Aiden | VTR-07 ascent along reverse route, day 5 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1318 | Aeleth | 8 | — | Aiveth | VTR-07 ascent along reverse route, day 6 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1319 | Aeleth | 9 | — | Ailor | VTR-07 ascent along reverse route, day 7 of 8 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1320 | Aeleth | 10 | — | Aithen | VTR-07 ascent along reverse route, day 8 of 8; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1321 | Aeleth | 11 | — | Aiven | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1322 | Aeleth | 12 | — | Ailar | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1323 | Aeleth | 13 | — | Aiden | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1324 | Aeleth | 14 | — | Aiveth | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1325 | Aeleth | 15 | — | Ailor | Free time / recovery [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1326 | Aeleth | 16 | — | Aithen | King's regular raeon card game in Violet royal capital [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1327 | Aeleth | 17 | — | Aiven | Kaira returns to Blue capital from royal visit [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1328 | Aeleth | 18 | — | Ailar | VTR-08 descent to B073, day 1 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1329 | Aeleth | 19 | — | Aiden | VTR-08 descent to B073, day 2 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1330 | Aeleth | 20 | — | Aiveth | VTR-08 descent to B073, day 3 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1331 | Aeleth | 21 | — | Ailor | VTR-08 descent to B073, day 4 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1332 | Aeleth | 22 | — | Aithen | VTR-08 descent to B073, day 5 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1333 | Aeleth | 23 | — | Aiven | VTR-08 descent to B073, day 6 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1334 | Aeleth | 24 | — | Ailar | VTR-08 descent to B073, day 7 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1335 | Aeleth | 25 | — | Aiden | VTR-08 descent to B073, day 8 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1336 | Aeleth | 26 | — | Aiveth | VTR-08 descent to B073, day 9 of 10 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1337 | Aeleth | 27 | — | Ailor | VTR-08 descent to B073, day 10 of 10; reach turnaround node [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1338 | Aeleth | 28 | — | Aithen | VTR-08 ascent along reverse route, day 1 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1339 | Aeleth | 29 | — | Aiven | VTR-08 ascent along reverse route, day 2 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1340 | Aeleth | 30 | — | Ailar | VTR-08 ascent along reverse route, day 3 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1341 | Aeleth | 31 | — | Aiden | VTR-08 ascent along reverse route, day 4 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1342 | Aeleth | 32 | — | Aiveth | VTR-08 ascent along reverse route, day 5 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1343 | Aelor | 1 | — | Ailor | VTR-08 ascent along reverse route, day 6 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1344 | Aelor | 2 | — | Aithen | VTR-08 ascent along reverse route, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1345 | Aelor | 3 | — | Aiven | VTR-08 ascent along reverse route, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1346 | Aelor | 4 | — | Ailar | VTR-08 ascent along reverse route, day 9 of 9; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

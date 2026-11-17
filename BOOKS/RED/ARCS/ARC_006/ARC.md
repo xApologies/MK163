@@ -1,6 +1,6 @@
 # Violet · Genesis Robe and a regular delving group
 
-**ID:** MK163-RED-ARC-006 · **Book:** Red · **Status:** outlined (author-selected arc beats; chapters and scene realization OPEN).
+**ID:** MK163-RED-ARC-006 · **Book:** Red · **Status:** COMPLETE AS AN OUTLINED ARC through Day 1346 (author-selected arc beats; chapters and scene realization OPEN).
 
 ## Narrative objective
 
@@ -25,7 +25,7 @@ Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam
 
 ## Exit state
 
-Kaira’s training with her vaelum leads toward the Tournament in White. The qualifier path, event date and specific training outcomes remain OPEN.
+Violet closes on Day 1346 (Aelor 4, Ailar/1) with the VTR-08 surface return. Kaira’s training with her vaelum leads toward the future, unscheduled Tournament in White. The qualifier path, event date and specific training outcomes remain OPEN.
 
 ## Dependencies
 
@@ -35,10 +35,14 @@ Evidence: [03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE](../../../../PROVENANCE/WORKS
 
 ## Selected schedule through Day 1159
 
-[The daily plan](VIOLET_DAILY_LEDGER_008.md) and [its CSV](VIOLET_DAILY_LEDGER_008.csv) record the four selected itineraries, recovery/slice-of-life without royal travel on 1081–1086, royal games on 1098 and 1140, time with illi on 1099–1100 and 1141, the Blue return on 1101, preparation on 1102, ordinary downtime on 1120 and 1136–1139, and the staging return on 1142. VTR-10 departs on 1143 and returns on 1159, with Yellow ELDRIS combat during the ascent. The first B041 Blue trial remains distinct from the earlier Y045 combat training.
+[The daily plan](VIOLET_DAILY_LEDGER_009.md) and [its CSV](VIOLET_DAILY_LEDGER_009.csv) record the four selected itineraries, recovery/slice-of-life without royal travel on 1081–1086, royal games on 1098 and 1140, time with illi on 1099–1100 and 1141, the Blue return on 1101, preparation on 1102, ordinary downtime on 1120 and 1136–1139, and the staging return on 1142. VTR-10 departs on 1143 and returns on 1159, with Yellow ELDRIS combat during the ascent. The first B041 Blue trial remains distinct from the earlier Y045 combat training.
 
 ## Violet training and CSR planning
 
-The [atlas](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) supplies a shared working map. [Eleven route records](TRAINING_ROUTES_005/README.md) retain every node expectation and passage. VTR-09, VTR-01, VTR-02 and VTR-10 have selected schedules. The remaining seven itineraries are proposals.
+The [atlas](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON_ATLAS/README.md) supplies a shared working map. [Eleven route records](TRAINING_ROUTES_005/README.md) retain every node expectation and passage. VTR-09, VTR-01, VTR-02 and VTR-10 have selected schedules. VTR-03–08 now also have selected schedules, and VTR-09/VTR-10 repeat. The cumulative outline has twelve occurrences on ten distinct routes. VTR-11 remains unused and unscheduled.
 
 Kaira plans to make a CSR Card using her existing workstation. Its manufacture date, trials and resulting traversal choices remain OPEN. The leader already has CSR and a dimensional bracelet. The air specialist and the Black Sprite have distinct crossing roles. [CSR workshop decisions](VIOLET_CSR_TRAVERSAL_HANDOFF.md) records those developments. The Genesis Robe remains a separate native construction showing potential architectural capacity.
+
+## Selected continuation and closure · Days 1160–1346
+
+The [complete daily plan](VIOLET_DAILY_LEDGER_009.md) preserves all prior dates and adds the eight occurrences listed in the [existing route register](TRAINING_ROUTES_005/README.md). Kaira places Blue in the local tournament on 1165; she attends on 1225 with result OPEN. Royal games are selected on 1188 and 1326 (Aithen/5). She visits illi on 1189–1190 and returns on 1191; the later royal return is 1327. Recurrence alone selects no other attendance. VTR-08 returns on 1346 and ends the outlined arc. No King's Tournament day, qualification, new acquisition, combat result or node/day assignment is inferred. [009 integration audit](../../../../CHECKPOINTS/VIOLET_CUMULATIVE_009/INTEGRATION_REPORT.md).

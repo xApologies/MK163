@@ -1,3 +1,5 @@
+> **Historical 008 restoration receipt.** The restored calendar still governs. [Cumulative 009](../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) retains all 80 baseline rows and extends the schedule through Day 1346. This report and its validation describe the earlier integration.
+
 # Violet Calendar Restoration 008 · integration and reverse diff
 
 This scoped correction applies the author's `MK163_Violet_Calendar_Restoration_008.zip` to published baseline `5260cefdf22f59c297f4ab66ade132f6ec8584a6`. It supersedes the 007 rotated weekday order and Violet event schedule. It does not reintegrate the cumulative atlas or other arcs. [Execution instructions](../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Pre-edit dependency inventory](DEPENDENCIES.md) · [Validation results](VALIDATION.json).
@@ -13,7 +15,7 @@ This scoped correction applies the author's `MK163_Violet_Calendar_Restoration_0
 | Second Violet royal visit | Game 1139/Ailor and illi 1140–1141 | Downtime 1136–1139, royal game 1140/Aithen, illi 1141 and return to Blue/staging 1142. |
 | Expedition schedules | Four selected intervals and eleven registered routes | Preserve VTR-09 1087–1097 (4+3+4 = 11 days), VTR-01 1103–1117 (8+7 = 15), VTR-02 1123–1135 (7+6 = 13), VTR-10 1143–1159 (7+3+7 = 17). No route geometry, node, passage, destination, equipment or roster change. |
 | Ordinary downtime | Day 1120 tournament already omitted | Retain no selected tournament on 1120 and the supplied downtime intervals. Absence of Kaira's participation does not close the shop. |
-| Single active schedule | Active 007 Markdown/CSV pair | Replace with the complete [008 Markdown](../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) and [008 CSV](../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.csv). Update arc, model index, operating guidance, continuity and dependent links. |
+| Single active schedule | Active 007 Markdown/CSV pair | Replace with the complete [008 Markdown](../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md) and [008 CSV](../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/BASELINE_008/VIOLET_DAILY_LEDGER_008.csv). Update arc, model index, operating guidance, continuity and dependent links. |
 
 The [running ledger](../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) retains every Day 0–1080 row exactly. Its 79 subsequent rows adopt the complete supplied events, preserving civil month/day, named weekday and continuity navigation. The supplied 80-row Violet schedule includes Day 1080 as a closure reference, without replacing the detailed Blue closeout. Day 1021 remains Kaira's return with no tournament attendance or replacement Blue placement.
 

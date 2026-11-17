@@ -1,6 +1,6 @@
 # VTR-08 — Blue navigation trial
 
-**Status:** PROPOSED_005_AWAIT_AUTHOR_APPROVAL. **Objective:** reach selected Blue training marker and return.
+**Status:** AUTHOR_SELECTED_SCHEDULE_009 (Days 1328–1346). **Objective:** reach selected Blue training marker and return.
 **Destination:** B073 (Blue, depth 15.072115 miles).
 **Distance:** 27.174 miles outbound; 54.349 miles same-route return. **Passages:** 16; low 4, medium 5, hard 7.
 
@@ -33,6 +33,10 @@
 ## Operational interpretation
 - This is a planned training route, not a completed expedition or a verified in-world survey.
 - ELDRIS formation potential is not an encounter count; Genesis Dust requires defeated ELDRIS.
-- The route follows existing graph connections; actual travel times, fatigue, combat outcomes, dates, marker installation and harvesting yields remain OPEN.
+- The route follows existing graph connections; edge traversal times, fatigue, individual combat outcomes, marker installation and harvesting yields remain OPEN.
 - No bridges, boats or fabricated infrastructure are introduced.
 - The same path is used for the return as a planning baseline; changes require later author selection.
+
+## Author-selected occurrence · 009
+
+Days 1328–1346 inclusive: 10 descent, 9 ascent, 19 days total. Return follows the existing reverse node sequence. This selects the dated itinerary, not observed node conditions, exact node/day assignments or completed prose. [Cumulative daily schedule](../VIOLET_DAILY_LEDGER_009.md) · [Route verification](../../../../../CHECKPOINTS/VIOLET_CUMULATIVE_009/ROUTE_VALIDATION.json).

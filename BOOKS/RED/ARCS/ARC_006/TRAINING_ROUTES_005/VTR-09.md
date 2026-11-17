@@ -28,3 +28,7 @@
 - No bridges, boats or fabricated infrastructure are introduced.
 - The same path is used for the return as a planning baseline; changes require later author selection.
 - The destination is a proposed high-formation hotspot; fighting and harvest outcomes are not guaranteed or predetermined.
+
+## Author-selected repeat occurrence · 009
+
+Days 1214–1224 inclusive: 4 descent, 3 combat, 4 ascent, 11 days total. Return follows the existing reverse node sequence. This selects the dated itinerary, not observed node conditions, exact node/day assignments or completed prose. [Cumulative daily schedule](../VIOLET_DAILY_LEDGER_009.md) · [Route verification](../../../../../CHECKPOINTS/VIOLET_CUMULATIVE_009/ROUTE_VALIDATION.json).

@@ -574,6 +574,16 @@
       "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/SOURCE_MAP.json",
       "validation": "CHECKPOINTS/VIOLET_CALENDAR_RESTORATION_008/VALIDATION.json",
       "scope": "Restore original weekday ordinals and royal recurrence; replace Violet 1081–1159 events while preserving Day 1080, all prior scenes and four expedition intervals"
+    },
+    {
+      "id": "MK163_VIOLET_CUMULATIVE_009",
+      "baseline": "0ee036e7e2d015ab9d181fdc665fcce7757198f7",
+      "archive": "MK163_VIOLET_CUMULATIVE_009.zip",
+      "archive_sha256": "2663ae62a7bf82c6e58bbb2f2b3831b5ee778a1b33fdc8c67a64fa35f51c57c2",
+      "source_root": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009",
+      "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/VIOLET_CUMULATIVE_009/VALIDATION.json",
+      "scope": "Add Days 1160–1346, eight route occurrences and Violet outlined-arc closure; preserve 008 calendar and all earlier daily rows"
     }
   ]
 }

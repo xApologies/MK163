@@ -1,6 +1,6 @@
 # Violet vaelum — traversal logistics and CSR economy
 
-**Status:** author-selected working continuity for Book Red Violet, beginning Day 1081 (Aiven); four training itineraries are selected for Days 1087–1159; individual scenes remain OPEN. This is an additive L2 story-world logistics record; it does not rewrite the existing dungeon, tournament, Registry, or Blue Arc records.
+**Status:** author-selected working continuity for Book Red Violet, beginning Day 1081 (Aiven); twelve expedition occurrences on ten distinct itineraries are selected through the Day 1346 outlined-arc closure; individual scenes remain OPEN. This is an additive L2 story-world logistics record; it does not rewrite the existing dungeon, tournament, Registry, or Blue Arc records.
 
 ## Seven-person vaelum and companions
 - Kaira joined the existing six-person vaelum at the Day 1080 dinner after the Green cave-in rescue. Seven registered aithren: two Guardians, two Offensive Specialists, one Helkir, one combat Support, and Kaira as environmental Support. Nyx and the Black Sprite are companions, not counted among the seven.
@@ -20,11 +20,11 @@
 
 ## Authority and OPEN items
 - Cross-interface mechanics: AERA L1; dimensional object mechanism: AERA L2/TECHNOLOGY/DIMENSIONAL_RINGS.md; 1,245-row prices and DG-0031: MK727 master CSV; Kaira's chronology and existing roster: MK163 Blue close/Violet ARC_006.
-- Names and ranks of the six companions, backup-ring owner, exact crossing procedures, bracelet capacity, equipment load, CSR manufacture date, detailed air Shapings and the Sprite’s exact operator remain OPEN. The route register selects four itineraries and retains seven proposals.
+- Names and ranks of the six companions, backup-ring owner, exact crossing procedures, bracelet capacity, equipment load, CSR manufacture date, detailed air Shapings and the Sprite’s exact operator remain OPEN. The route register schedules ten itineraries across twelve occurrences and retains VTR-11 as unused and unscheduled.
 - This addendum does not promote Kaira to Master Cardsmith or Architect. Her later Genesis Robe is evidence of potential native architectural capacity, not formal rank or profession.
 
 ## Staging residences
 
 The vaelum has four men and three women including Kaira. It uses two permanent, comfortable four-private-room residences in the Blue capital dungeon staging settlement. The women share one with three occupied rooms, and the men occupy four rooms in the other. Kaira’s relocation can occur gradually after the first expedition. She retains her earlier apartment. Residence ownership remains OPEN.
 
-[Original residential decisions](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_006.md) · [Current Violet schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md)
+[Original residential decisions](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_007/MK163/BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_006.md) · [Current Violet schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md)
