@@ -15,6 +15,8 @@ The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and 
 
 ## Violet 009 selected attendance
 
+The existing Day 1326 game also hosts the 010 robe reveal: Kaira wears her sole completed Genesis Robe, the King wants one, and illi mediates a prospective bargain with terms and outcome OPEN. Neither illi nor the King has a finished Genesis Robe in this event. This is the same scheduled game. [Genesis Robe chronology](../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
+
 Kaira places **Blue** at the local Blue-capital raeon tournament on **1165** (Aevor 16, Aiven/6). She attends the local tournament on **1225** (Aerion 11, Aiven/6), with result **OPEN**. The King's regular royal games are selected on **1188** (Aelith 7) and **1326** (Aeleth 16), both Aithen/5; their results are OPEN. Kaira spends 1189–1190 with Princess illi, returns to Blue on 1191, and returns from the later royal visit on 1327. No additional attendance follows from recurrence. [Complete daily schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [Original continuation](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VIOLET_EXTENSION_1160_1346.md).
 
 ---

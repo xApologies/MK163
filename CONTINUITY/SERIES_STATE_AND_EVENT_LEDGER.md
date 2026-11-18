@@ -412,3 +412,7 @@ The unchanged RED-TOURNAMENT-RING and RING-CONTINUITY rows still govern storage.
 ## Violet outline complete through Day 1346
 
 [The selected daily plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) retains the first four training trips, Aithen royal games on 1098/1140 and ordinary downtime on 1120. It adds eight occurrences, royal games on 1188/1326, Blue placement on 1165 and tournament attendance with result OPEN on 1225. VTR-08 returns on 1346 and closes Violet as an outlined arc; the King’s Tournament remains future and unscheduled. [The route register](../BOOKS/RED/ARCS/ARC_006/TRAINING_ROUTES_005/README.md) preserves all eleven paths and records twelve occurrences on ten distinct routes, retaining VTR-11 as unused and unscheduled.
+
+## Violet Genesis Robe · additive 010 selection
+
+Kaira completes the first Genesis Robe on Day 1303 after 35 work days across nine windows. She alone has a finished Genesis Robe during Violet. She takes it on VTR-07 (1304–1320) and wears it at the existing Day 1326 royal raeon game, where illi mediates an unresolved prospective bargain. No second robe, completed royal commission or field outcome is selected. [Owning event record](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md) · [010 audit](../CHECKPOINTS/VIOLET_CUMULATIVE_010/INTEGRATION_REPORT.md).

@@ -1,0 +1,13 @@
+# Codex execution — MK163 Violet Genesis Robe cumulative 010
+
+Repository: `xApologies/MK163`. **Apply on top of the integrated Violet 009**, never rebuild or overwrite its existing chronology from older archives.
+
+1. Confirm `BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md` has Days 1080–1346 (267 rows), and `CONTINUITY/RED_RUNNING_DAY_LEDGER.md` has Days 0–1346 (1347 rows). Abort and report if baseline differs.
+2. Import `GENESIS_ROBE_CANON_CORRECTION.md` as the authoritative new Violet development/ownership selection; store original package files in a provenance/workshop checkpoint directory with checksums.
+3. Integrate `GENESIS_ROBE_DAY_OVERLAY.csv` **additively** into existing daily entries in both the active Violet 009 Markdown and CSV, and the running ledger. Keep all preexisting date/weekday/event content; add a concise Genesis Robe clause or secondary event. Do not create duplicate days. For 1303, 1304, 1320, 1326, 1327 preserve the original event AND the new overlay. For 1326 the existing King's game is the setting, not an additional game.
+4. Update `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md` to correct ownership and event chronology: only Kaira has a finished Genesis Robe in Violet. Preserve the technical construction, seam coupling, black appearance and limited protective claims. Supersede rather than erase original three-owner claims; keep a dated provenance note. Update `BOOKS/RED/ARCS/ARC_006/ARC.md` and relevant current-model/navigation/index pages to match. No speculative terms of Illi's deal, no new finished robes, no invented dialogue or combat results.
+5. Keep Violet outlined closure at Day 1346 and the King's **Tournament** (distinct from weekly King's raeon game) future and unscheduled. Keep VTR-11 unused. Do not alter 009 route atlas, expedition dates, civil calendar, weekdays, other historical arcs, or protected vocabulary.
+6. Validate: exactly 35 distinct work dates across 9 windows; exactly 5 milestone overlays; all overlay days 1080–1346; Day 1303 completion; Day 1304 VTR-07 departure; Day 1320 return; Day 1326 King's regular game Aithen/5; Day 1327 return; Day 1328 VTR-08 departure; Day 1346 Violet closure. Check Day 1165 local tournament result preserved. Check 267 Violet and 1347 running unique rows and no calendar mismatch.
+7. Create `CHECKPOINTS/VIOLET_CUMULATIVE_010/INTEGRATION_REPORT.md` with baseline commit, file changes, reverse diff, hashes, validations, any unresolved conflicts. Commit/push through Codex and report actual commit SHA; do not claim push without confirmation.
+
+If existing canonical documents conflict, explicitly identify the conflicting statements and apply only this author's selected ownership correction, with provenance retention.

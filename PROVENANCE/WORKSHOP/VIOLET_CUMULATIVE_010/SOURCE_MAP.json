@@ -1,0 +1,54 @@
+{
+  "baseline": "93b5fa3236fe0f45df8ca7e297f5782acb69c5dc",
+  "archive": "MK163_VIOLET_CUMULATIVE_010.zip",
+  "archive_sha256": "121b4c700132e3e96193a8fe67a8f9d1c6c28c5a6af04846e4eca3b427334a32",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 2756,
+      "sha256": "2c247d500a8c7b25d2da7374b06d69d4fe270e1af6b30d3ff36203ca13074681",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/EXECUTABLE.md"
+    },
+    {
+      "path": "GENESIS_ROBE_CANON_CORRECTION.md",
+      "bytes": 3892,
+      "sha256": "5195bb89ec7fe3563027f489a4698bfdc17607c58f46dd88acd37e4018021520",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/GENESIS_ROBE_CANON_CORRECTION.md"
+    },
+    {
+      "path": "GENESIS_ROBE_DAY_OVERLAY.csv",
+      "bytes": 7110,
+      "sha256": "9acef298b6251605e3201c0cc1ddce7651cf39c14703038eee500b2173db0608",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/GENESIS_ROBE_DAY_OVERLAY.csv"
+    },
+    {
+      "path": "README.md",
+      "bytes": 528,
+      "sha256": "5ea377e437ce316a1753ee5544cdc8991e0454358e88d10082f80239381ea9ee",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/README.md"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 851,
+      "sha256": "ff2a72f0fca5dfb79e9ef45c1f7a484cb37e468253cff2c53e1665cc45feb0ca",
+      "original_destination": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/VALIDATION.json"
+    }
+  ],
+  "preserved_baseline": [
+    {
+      "baseline_path": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/PRE_010/GENESIS_ROBE.md",
+      "bytes": 4909,
+      "sha256": "ccaac3ef274fd3221cdeca5f1d2f62e71e9d1528f30d4fa2ab0714f70daabe49"
+    },
+    {
+      "baseline_path": "BOOKS/RED/ARCS/ARC_006/ARC.md",
+      "preserved_path": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/PRE_010/ARC.md",
+      "bytes": 5488,
+      "sha256": "466244322bfa5a17b594a2a6ded04f44bbea0a9ee2a0cfec98f60463f9fb5b90"
+    }
+  ],
+  "supplied_hash_manifest": false,
+  "crc": "PASS",
+  "note": "Computed receipt hashes; no external hash manifest supplied. VALIDATION.json is independently checked arithmetic. Prior ownership claims remain in PRE_010 and original workshop history."
+}

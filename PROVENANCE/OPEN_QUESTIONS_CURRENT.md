@@ -1,3 +1,9 @@
+# Violet Genesis Robe · 010 resolved dates and remaining questions
+
+The first Genesis Robe is completed on Day 1303, with Kaira its sole creator/owner through Violet. The 35 work days and five milestones are selected. Exact breakthroughs, field performance and protection limits, the Day 1326 bargain’s terms/acceptance/outcome, any later robe recipients or completions, and chapter dialogue remain OPEN. Aiselle, illi and the King have no completed Genesis Robe in Violet. [Owner](../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md) · [010 audit](../CHECKPOINTS/VIOLET_CUMULATIVE_010/INTEGRATION_REPORT.md).
+
+---
+
 # Blue Arc · open after Day 1080
 
 The prices and biological identities of the crafting vaen, gold plate dimensions, wood species, crystal quantities, engineering geometry, material losses, consumption and measured performance remain OPEN. Day 904 and Day 1016 each have a completed pair. Any physical pseudo-healing Card, its date and its basins remain OPEN.

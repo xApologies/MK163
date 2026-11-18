@@ -1,0 +1,155 @@
+{
+  "status": "PASS",
+  "baseline_commit": "93b5fa3236fe0f45df8ca7e297f5782acb69c5dc",
+  "archive": "MK163_VIOLET_CUMULATIVE_010.zip",
+  "archive_sha256": "121b4c700132e3e96193a8fe67a8f9d1c6c28c5a6af04846e4eca3b427334a32",
+  "source_files_verified": 5,
+  "pre_correction_snapshots_verified": 2,
+  "crc": "PASS",
+  "package_paths_safe": true,
+  "supplied_hash_manifest": false,
+  "work": {
+    "windows": [
+      [
+        1120,
+        1122
+      ],
+      [
+        1137,
+        1139
+      ],
+      [
+        1161,
+        1167
+      ],
+      [
+        1186,
+        1187
+      ],
+      [
+        1211,
+        1213
+      ],
+      [
+        1226,
+        1229
+      ],
+      [
+        1253,
+        1257
+      ],
+      [
+        1278,
+        1280
+      ],
+      [
+        1299,
+        1303
+      ]
+    ],
+    "distinct_days": 35,
+    "milestone_days": [
+      1303,
+      1304,
+      1320,
+      1326,
+      1327
+    ],
+    "overlay_rows": 40,
+    "affected_dates": 39
+  },
+  "continuity": {
+    "violet_rows": 267,
+    "violet_range": [
+      1080,
+      1346
+    ],
+    "running_rows": 1347,
+    "running_range": [
+      0,
+      1346
+    ],
+    "calendar_mismatches": 0,
+    "all_preexisting_events_retained": true,
+    "unchanged_running_rows": 1308,
+    "unchanged_violet_rows": 228,
+    "day1165_Blue_placement_preserved": true,
+    "day1303_completion": true,
+    "day1326_single_existing_game": "Aeleth 16, Aithen/5",
+    "closure": 1346,
+    "tournament_date": "OPEN",
+    "VTR11": "unused"
+  },
+  "preservation": {
+    "technical_origin_and_seams": "verbatim",
+    "crown_research": "verbatim",
+    "prior_workshop_and_checkpoint_files": "unchanged",
+    "routes_atlas_calendar_blackstone_other_arcs": "unchanged",
+    "deleted_files": 0
+  },
+  "normalizations": [
+    "Protected lowercase illi",
+    "Omit redundant source instruction Existing daily activity retained from added clauses",
+    "Final assembly on 1299–1302 leads to the explicit 1303 completion; no early finished robe"
+  ],
+  "internal_links_checked": 1775,
+  "structural_validation": {
+    "delivery": "MK163_LIVE_MODEL_003",
+    "status": "PASS",
+    "payload_files_found": 242,
+    "topic_records": 76,
+    "author_evidence_passages": 67,
+    "source_preservation_checked": true,
+    "prophecy_git_blobs_checked": true,
+    "api_parts_recombined_hash_checked": true,
+    "errors": [],
+    "note": "Mechanical integrity and declared coverage checks; not an independent proof of all fictional or mathematical claims."
+  },
+  "conflicts": [],
+  "omitted_supplied_topics": [],
+  "open": [
+    "Exact daily breakthroughs",
+    "Field tests, outcomes and protection limits",
+    "Royal bargain terms, acceptance and outcome",
+    "Any later additional Genesis Robe",
+    "Tournament date/qualification and VTR-11 scheduling",
+    "Unrelated prior OPEN items and chapter prose"
+  ],
+  "added": [
+    "CHECKPOINTS/VIOLET_CUMULATIVE_010/APPLIED_OVERLAY.json",
+    "CHECKPOINTS/VIOLET_CUMULATIVE_010/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/VIOLET_CUMULATIVE_010/VALIDATION.json",
+    "CHECKPOINTS/VIOLET_CUMULATIVE_010/validate_checkpoint.py",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/EXECUTABLE.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/GENESIS_ROBE_CANON_CORRECTION.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/GENESIS_ROBE_DAY_OVERLAY.csv",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/PRE_010/ARC.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/PRE_010/GENESIS_ROBE.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/README.md",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/SOURCE_MAP.json",
+    "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/VALIDATION.json"
+  ],
+  "modified": [
+    ".gitattributes",
+    "AGENTS.md",
+    "BOOKS/RED/ARCS/ARC_006/ARC.md",
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_008.md",
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.csv",
+    "BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md",
+    "BOOKS/RED/BOOK_OVERVIEW.md",
+    "CONTINUITY/RED_RUNNING_DAY_LEDGER.md",
+    "CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md",
+    "PROVENANCE/OPEN_QUESTIONS_CURRENT.md",
+    "PROVENANCE/SOURCE_REGISTRY.json",
+    "WORLD_CLOCK/CURRENT_MODEL_INDEX.md",
+    "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md"
+  ],
+  "deleted": [],
+  "file_counts": {
+    "added": 12,
+    "modified": 15,
+    "deleted": 0
+  }
+}

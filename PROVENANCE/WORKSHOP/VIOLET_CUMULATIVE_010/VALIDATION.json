@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "baseline": "Violet cumulative 009 already integrated; apply as additive patch",
+  "work_windows": [
+    [
+      1120,
+      1122
+    ],
+    [
+      1137,
+      1139
+    ],
+    [
+      1161,
+      1167
+    ],
+    [
+      1186,
+      1187
+    ],
+    [
+      1211,
+      1213
+    ],
+    [
+      1226,
+      1229
+    ],
+    [
+      1253,
+      1257
+    ],
+    [
+      1278,
+      1280
+    ],
+    [
+      1299,
+      1303
+    ]
+  ],
+  "work_days": 35,
+  "work_day_count_unique": 35,
+  "milestone_days": [
+    1303,
+    1304,
+    1320,
+    1326,
+    1327
+  ],
+  "overlay_rows": 40,
+  "date_checks": {
+    "completion": 1303,
+    "VTR07_departure": 1304,
+    "VTR07_return": 1320,
+    "royal_raeon": 1326,
+    "blue_return": 1327,
+    "VTR08_departure": 1328,
+    "violet_closure": 1346
+  },
+  "no_second_robe_during_violet": true
+}

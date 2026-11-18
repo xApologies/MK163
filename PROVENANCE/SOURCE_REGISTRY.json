@@ -584,6 +584,16 @@
       "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/SOURCE_MAP.json",
       "validation": "CHECKPOINTS/VIOLET_CUMULATIVE_009/VALIDATION.json",
       "scope": "Add Days 1160–1346, eight route occurrences and Violet outlined-arc closure; preserve 008 calendar and all earlier daily rows"
+    },
+    {
+      "id": "MK163_VIOLET_CUMULATIVE_010",
+      "baseline": "93b5fa3236fe0f45df8ca7e297f5782acb69c5dc",
+      "archive": "MK163_VIOLET_CUMULATIVE_010.zip",
+      "archive_sha256": "121b4c700132e3e96193a8fe67a8f9d1c6c28c5a6af04846e4eca3b427334a32",
+      "source_root": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010",
+      "source_mapping": "PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/VIOLET_CUMULATIVE_010/VALIDATION.json",
+      "scope": "Add 35 Genesis Robe work days and five milestones to unchanged 009 events; select sole ownership and Day 1303 completion, with Day 1326 negotiation unresolved"
     }
   ]
 }

@@ -16,7 +16,7 @@ Personally constructing and coupling stable ring manifolds is difficult; the com
 
 ## Major events
 
-Kaira makes closed black Genesis-energy rings and a protective robe. Paired seam rings part during motion and rejoin at rest. The Alchemist and Princess obtain robes; Kaira and the Princess wear theirs to raeon. The King wants one and the Princess bargains for Kaira. No completed royal commission is implied. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
+Kaira develops closed black Genesis-energy rings across 35 work days in nine windows and completes the first Genesis Robe on Day 1303. Paired seam rings part during motion and rejoin at rest. Only Kaira has a completed Genesis Robe during Violet; Aiselle and illi do not acquire one. Kaira takes hers on VTR-07 from 1304 through 1320 and wears it at the existing Day 1326 raeon game. The King wants one, and illi mediates a prospective bargain for Kaira. Terms, acceptance and outcome remain OPEN; no second robe or completed royal commission is selected. The return on 1327, next departure on 1328 and Violet closure on 1346 remain unchanged. Crown research remains limited in reach. See [complete garment, seam and negotiation decisions](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
 
 ## Vaelum and personal trajectory
 - Kaira now trains with her **vaelum** on dungeon runs. They practice mapped routes, formation and teamwork in preparation for the King’s Tournament. Her environmental shielding complements the existing combat Support’s tactical role.
@@ -46,3 +46,5 @@ Kaira plans to make a CSR Card using her existing workstation. Its manufacture d
 ## Selected continuation and closure · Days 1160–1346
 
 The [complete daily plan](VIOLET_DAILY_LEDGER_009.md) preserves all prior dates and adds the eight occurrences listed in the [existing route register](TRAINING_ROUTES_005/README.md). Kaira places Blue in the local tournament on 1165; she attends on 1225 with result OPEN. Royal games are selected on 1188 and 1326 (Aithen/5). She visits illi on 1189–1190 and returns on 1191; the later royal return is 1327. Recurrence alone selects no other attendance. VTR-08 returns on 1346 and ends the outlined arc. No King's Tournament day, qualification, new acquisition, combat result or node/day assignment is inferred. [009 integration audit](../../../../CHECKPOINTS/VIOLET_CUMULATIVE_009/INTEGRATION_REPORT.md).
+
+**010 supersession · 2026-11-18:** The former Alchemist/Princess ownership and joint robe-wearing claims are replaced only in that scope. [Prior arc wording](../../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/PRE_010/ARC.md) · [Author selection](../../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_010/GENESIS_ROBE_CANON_CORRECTION.md). The daily 009 pair remains the active schedule with additive 010 annotations.
