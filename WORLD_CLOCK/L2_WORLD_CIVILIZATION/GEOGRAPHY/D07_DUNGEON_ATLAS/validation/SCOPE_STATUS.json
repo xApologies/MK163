@@ -1,0 +1,76 @@
+{
+  "dungeon_id": "D07",
+  "revision": "D07_ATLAS_001",
+  "record_type": "scope_classification_not_test_report",
+  "requested_scope": "Construct D07 using the established structural mapping system.",
+  "delivered_scope": "First D07 structural graph with synchronized maps and offline viewer.",
+  "dungeon_classification": {
+    "political_domain": "Blue Domain",
+    "deepest_stratum": "Violet",
+    "included_strata": ["Red", "Orange", "Yellow", "Green", "Blue", "Violet"],
+    "maximum_modeled_depth_mi": 24
+  },
+  "phase_2_structural_graph": {
+    "status": "INCLUDED",
+    "authority": "data/dungeon_graph.json",
+    "independent_validation": "validation/INDEPENDENT_AUDIT.json"
+  },
+  "map_and_viewer_products": {
+    "status": "INCLUDED",
+    "source_work_order_phase": 3,
+    "products": [
+      "East-west depth elevation",
+      "North-south depth elevation",
+      "Six stratum plans",
+      "Common-scale footprint overlay",
+      "Eleven-page compiled PDF",
+      "Offline HTML explorer"
+    ],
+    "validation_note": "Coverage, functional checks, and visual review are separate evidence under validation/. This scope record does not assert unperformed checks."
+  },
+  "environmental_companion": {
+    "status": "PENDING_LATER_PHASE",
+    "source_work_order_phase": 4,
+    "note": "D07 environmental regions, hydrology, resources, natural velis, ELDRIS and passage-condition assignments remain open."
+  },
+  "route_and_travel_authoring": {
+    "status": "PENDING_LATER_PHASE",
+    "note": "Structural paths to the deepest modeled Violet node and back are analysis only. Authored itineraries, markers, dates, travel days, encounters and outcomes remain open."
+  },
+  "repository_integration": {
+    "status": "NOT_PERFORMED",
+    "instructions": "INTEGRATION_FOR_CODEX.md"
+  },
+  "continuity": {
+    "D01_changes": "NONE_IN_THIS_HANDOFF",
+    "D02_changes": "NONE_IN_THIS_HANDOFF",
+    "D03_changes": "NONE_IN_THIS_HANDOFF",
+    "D04_changes": "NONE_IN_THIS_HANDOFF",
+    "D05_changes": "NONE_IN_THIS_HANDOFF",
+    "D06_changes": "NONE_IN_THIS_HANDOFF",
+    "calendar_changes": "NONE",
+    "genesis_robe_changes": "NONE",
+    "other_dungeon_construction": "OUTSIDE_SCOPE"
+  },
+  "authority": {
+    "author_selected": [
+      "D07 identifier and Violet-ending classification in the Blue Domain",
+      "24-mile maximum modeled depth",
+      "Depth boundaries 0 / 1.5 / 3.5 / 6.5 / 11 / 17 / 24 miles",
+      "Continue the established dungeon mapping system"
+    ],
+    "computational_proposals": [
+      "Horizontal spans",
+      "Node and passage counts",
+      "Exact coordinates and passage polylines",
+      "Terminal-arm and transition allocations"
+    ],
+    "open": [
+      "D07 place name and world surface location",
+      "Environmental regions and passage conditions",
+      "Survey history and dated observations",
+      "Party-specific traversal and travel schedule"
+    ]
+  },
+  "revision_relation": "First D07 atlas; does not supersede D01, D02, D03, D04, D05, or D06."
+}

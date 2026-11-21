@@ -1,0 +1,25 @@
+﻿feature_id,stratum,type,nodes,passage_ids,status,note
+R-WATER-01,R,river,R026|R023|R031|R033,E0009|E0040|E0059,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+R-LAKE-01,R,subterranean_lake,R026,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+O-WATER-01,O,river,O041|O022|O038|O023|O036,E0093|E0089|E0139|E0135,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+O-WATER-02,O,river,O034|O040|O048|O031|O019|O020|O021,E0124|E0106|E0107|E0147|E0171|E0172,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+O-LAKE-01,O,subterranean_lake,O023,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+Y-WATER-01,Y,river,Y039|Y023|Y025|Y038|Y037|Y051|Y042|Y036|Y055,E0267|E0211|E0212|E0255|E0233|E0235|E0248|E0246,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+Y-WATER-02,Y,river,Y019|Y028|Y013|Y018|Y026|Y006|Y004|Y017|Y016,E0197|E0238|E0237|E0228|E0227|E0250|E0178|E0305,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+Y-WATER-03,Y,subterranean_stream,Y044|Y035|Y025|Y021,E0263|E0213|E0210,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+Y-LAKE-01,Y,subterranean_lake,Y004,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+Y-LAKE-02,Y,subterranean_lake,Y042,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+G-WATER-01,G,river,G062|G063|G043|G021,E0413|E0378|E0379,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+G-WATER-02,G,river,G050|G025|G048|G038|G055|G056|G057,E0324|E0321|E0381|E0385|E0451|E0452,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+G-WATER-03,G,subterranean_stream,G077|G078|G074|G055|G044|G045|G046|G047,E0388|E0336|E0338|E0310|E0439|E0440|E0441,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+G-WATER-04,G,river,G007|G010|G021|G035|G034|G033,E0373|E0374|E0308|E0442|E0443,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+G-LAKE-01,G,subterranean_lake,G043,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+G-LAKE-02,G,subterranean_lake,G055,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+B-WATER-01,B,river,B056|B081|B093|B085|B100,E0571|E0504|E0501|E0594,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+B-WATER-02,B,river,B092|B041|B060|B051|B039|B008,E0497|E0498|E0520|E0518|E0480,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+B-WATER-03,B,subterranean_stream,B001|B004|B011|B026|B055|B057|B061|B074|B094,E0465|E0491|E0494|E0609|E0475|E0474|E0624|E0597,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+B-WATER-04,B,river,B038|B027|B055|B013,E0543|E0542|E0558,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+B-WATER-05,B,river,B021|B009|B015|B023|B011|B022,E0487|E0489|E0615|E0492|E0493,PROPOSED,Water course along contiguous graph connections; direction/flow/hydrology not yet established
+B-LAKE-01,B,subterranean_lake,B039,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+B-LAKE-02,B,subterranean_lake,B011,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open
+B-LAKE-03,B,subterranean_lake,B011,,PROPOSED,Lake basin anchored at node; water extent and shore routes remain open

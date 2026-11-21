@@ -1,3 +1,13 @@
+# Current White outline · Book Red closes Day 1637
+
+White 006 completes the **Book Red outline through Day 1637**. The seven-person vaelum finishes Green/fourth in the independent royal final; each receives a White-ranked dimensional ring. Six CSR Cards are made on 1358–1361, distributed 1364. The King’s robe is delivered 1614 and worn at the final ceremony. Violet’s Day 1346 closure, all 23 arc files and every earlier running-ledger row remain unchanged. No completed prose or epilogue is implied.
+
+Read the [White owner](../BOOKS/RED/ARCS/ARC_007/ARC.md), [scoped supersessions](../CHECKPOINTS/WHITE_006/REVERSE_DIFF.md), and [source gaps](../CHECKPOINTS/WHITE_006/OMISSIONS.md). Three political domains, two Blue domain races and five Violet circuit races replace the older format. Green V2’s departure lottery remains provisional. Earlier frontier statements below retain only their historical scope.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # Blue Arc · after graduation through the Day 1080 closing dinner
 
 Graduation closes Green on 786. Kaira establishes her independent home on 818, attends the gala on 865, takes fourth and second in raeon on 871 and 877, and chooses Support on 891. The workstation on 900 and first Card pair on 904 precede her Green certification on 905. The Registry selects her on 908. The first expedition closes on 943 and the second on 999. illi presents the coin on 952. The Day 1016 toolkit is in use when the third expedition loses its Helkir on 1041. Day 1049 closes the failed contract, with payment promised for 1054. Kaira collects it and volunteers on 1054. The mapped Green rescue runs 1055–1080. After her commendation for unpaid service she accepts a place with the six-member vaelum at dinner that evening. Violet opens 1081 with Kaira as its seventh member.

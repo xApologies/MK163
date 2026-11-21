@@ -1,0 +1,5 @@
+# Tested locally 2026-11-17; Python 3.13.5
+numpy==2.3.5
+scipy==1.17.0
+networkx==3.6.1
+matplotlib==3.10.8

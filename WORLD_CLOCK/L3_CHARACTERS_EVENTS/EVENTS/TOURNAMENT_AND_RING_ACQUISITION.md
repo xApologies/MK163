@@ -1,3 +1,17 @@
+# White Arc conclusion — author-selected ending
+
+Book Red outline ends on Day **1637**, the royal awards ceremony at Violet Domain capital. Kaira's seven-member vaelum places **Green (fourth)** in the royal final. Each member receives a **White-ranked dimensional ring** from the King. The King wears the completed Genesis Robe Kaira delivered at his regular weekday-five raeon game on Day **1614**. **The ceremony is the final scene: no epilogue.**
+
+Dimensional rings follow AERA `L2/TECHNOLOGY/DIMENSIONAL_RINGS.md`: recursive-topology conservation, NOT pocket dimensions or finite volumetric inventories; White has illustrative projection reach ~31+ ft, adjustable.
+
+Open: other six finalist placements/prizes, detailed ceremony dialogue, remaining character names and commission terms.
+
+**Current scope:** Seven established vaelum members receive the seven rings. White device grade is independent of Green/fourth race placement and Green Support certification. No earlier Kaira ring is selected. Full [race chronology](../../../BOOKS/RED/ARCS/ARC_007/TOURNAMENT_RACES.md) and [device owner](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/DIMENSIONAL_STORAGE.md) govern; old unknown-grade, unscheduled-ceremony and tournament-format wording below is historical in this scope. AERA source revision: `42437950ad2aa72ad885ff1a9129226da23d9286`.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # Book Red championship · seven finalists
 
 After Green qualifiers, three Blue regional races per domain and eight kingdom-wide Violet points races, seven teams overall reach the separate ninth Violet Dungeon. The final race sets placement. Kaira’s fourth/Green finish at the end of Book Red and her Dimensional Ring prize stand. The Day 871 and 877 raeon results and the Day 905 Green Support certification are separate events. Vael’s training establishes no qualification or team.

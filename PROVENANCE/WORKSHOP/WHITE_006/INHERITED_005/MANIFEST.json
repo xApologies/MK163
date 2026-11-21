@@ -1,0 +1,93 @@
+{
+  "checkpoint": "005",
+  "coverage": [
+    1346,
+    1484
+  ],
+  "entries": {
+    "CANON/01_TOURNAMENT_STRUCTURE.md": {
+      "sha256": "5468fc184ddf78174956640711dd58fbba1a61aef86f9727deec3f1088bced54",
+      "bytes": 3874
+    },
+    "CANON/02_DEPARTURE_AND_MARKERS.md": {
+      "sha256": "d8b942ae9b833009d06ae0cd48cf06cc884e9605245c86fcc9387a0063502db6",
+      "bytes": 3673
+    },
+    "CANON/03_CHRONOMETER.md": {
+      "sha256": "cb28b12e87c9995cee580df28b4b888f570347bb311eb51a3db9f99b0a1d70fb",
+      "bytes": 1580
+    },
+    "CANON/04_CSR_AND_CHARACTERS.md": {
+      "sha256": "42ead984f8f3cac44f4e0f0637423031655755429e89cccf804583819eb5b968",
+      "bytes": 2840
+    },
+    "CANON/05_B03_QUALIFIER_OUTCOME_AND_TIMING.md": {
+      "sha256": "c91973215c899dcbe9406f6b70b68ef4906bf911a4474d1fc1725f9699251dc7",
+      "bytes": 2785
+    },
+    "CANON/06_B03_STAGE_TWO_ROUTE_A.md": {
+      "sha256": "2b29994bacc0ee7468b8de22715c4a8acd1d47c9ac752a682440f1e52d8253db",
+      "bytes": 1349
+    },
+    "CANON/07_B2_SECOND_BLUE_RACE_SETUP.md": {
+      "sha256": "697865b427c67cc955b19c60115f4b419babe8a24ab43a1f7f9cb946a5bdbcbd",
+      "bytes": 1982
+    },
+    "CANON/08_B02_ROUTES_AND_RACE.md": {
+      "sha256": "b395116934236a8c3e60cf6b4f72a821c6e0905f61a94c41ea3346711f56e97e",
+      "bytes": 1374
+    },
+    "CANON/09_VIOLET_CIRCUIT_RACE_1_BLUE_DOMAIN_V2.md": {
+      "sha256": "fb016cfc5229159a9b42e96efae316cda2a877be377aaba176354b8c59c224df",
+      "bytes": 1660
+    },
+    "CANON/10_VIOLET_CIRCUIT_RACE_2_BLUE_DOMAIN_V1_SETUP.md": {
+      "sha256": "5d7b7404d265e7dde43722bc595e5edb6755a6252dfcfccc27cbc69a8e7c52e6",
+      "bytes": 844
+    },
+    "Executable.md": {
+      "sha256": "268b5e8031aba15b711dba9cf7714af4b59a8285b22b645225f77d8f993baa4d",
+      "bytes": 988
+    },
+    "LEDGER/WHITE_ARC_DAILY_LEDGER_1346_1484.csv": {
+      "sha256": "68440110cec95a62f1cfe5b8d56c9b0aae65c6a764d800ba8de8eed0544d102e",
+      "bytes": 17404
+    },
+    "LEDGER/WHITE_ARC_DAILY_LEDGER_1346_1484.md": {
+      "sha256": "3266c55ad0c55725e9cc9fdb71a83c277a47bb4986eb9c81cfde81547b679b7d",
+      "bytes": 19339
+    },
+    "PROVENANCE/CHECKPOINT_003_DELTA.md": {
+      "sha256": "1d6d0b479a6c3dc365d374b1e01091dd8457abb185a3e6ce1e38a125cb302ade",
+      "bytes": 994
+    },
+    "PROVENANCE/CHECKPOINT_004_DELTA.md": {
+      "sha256": "7f249de9ee883e70466094fc43ac7059b956a36289edc7d068e0abf1d1a2f8c8",
+      "bytes": 818
+    },
+    "PROVENANCE/CHECKPOINT_005_DELTA.md": {
+      "sha256": "5eac2adf4dc211c792f917d9c77b17ff4dacd14864ca218a3847910a0e79575e",
+      "bytes": 721
+    },
+    "PROVENANCE/SOURCES_AND_OPEN_ISSUES.md": {
+      "sha256": "59a791b25a16443f4c93db2a2553875297f6e736639bdcfbcdf38b84e22575a4",
+      "bytes": 4151
+    },
+    "README.md": {
+      "sha256": "dff6327c886a5c8eb9ada7c1ebc3f4c4c342b0fbe1e6f2e2239bf899f26b2b0f",
+      "bytes": 1203
+    },
+    "REFERENCES/Dungeon Locations.PNG": {
+      "sha256": "037644e329a31034f333bbd6bd9fe54ca67c52954a60cdc143d874a03538b290",
+      "bytes": 1303780
+    },
+    "REFERENCES/V01(3).zip": {
+      "sha256": "e8ce640b6fedeb5b5c86a4c30cc0f164a990f0bae8deafca024831961d10b951",
+      "bytes": 11295026
+    },
+    "ROUTES/B03_QUALIFIER_ROUTES_A_TO_E.md": {
+      "sha256": "bae906b2cd24c0fdef33bd8fb16208300e8f1387889776d9af5751b43ffecbcd",
+      "bytes": 4790
+    }
+  }
+}

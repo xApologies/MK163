@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "all_graph_exports_unchanged": true,
+  "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+  "operation": "Redrew views from existing graph; initial generator was not invoked."
+}

@@ -1,3 +1,13 @@
+# White 006 · scoped tournament acceptance amendment
+
+Verify three political domains, all 24 Green-depth-or-deeper qualifier venues, one qualifier per vaelum, two Blue races per domain, seven advancing per domain (21 total), five Violet circuit races and seven finalists at the separate royal Violet V2 final. Final placement is independent. Verify nine Kaira race occurrences, eight unique dungeon route registers, 14 circuit points, Green/fourth final and seven White ring awards only at the Day 1637 ending. Keep the 31-hour day, 353-day year, unchanged weekday phase, four-year tournament recurrence and existing chromatic placement ladder. Green V2 departure remains provisional.
+
+[Author-source rules](../PROVENANCE/WORKSHOP/WHITE_006/INHERITED_005/CANON/01_TOURNAMENT_STRUCTURE.md) · [Current owner](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md). Only obsolete tournament counts and former unknown prize/date guards below are superseded.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # Blue 004 · tournament acceptance amendment
 
 For the King’s Tournament, check three Blue races per domain, two Violet circuit races per domain, seven finalists kingdom-wide, and a separate ninth Violet final. The final race alone determines the championship. These author-selected counts supersede the prior six-event regional circuit and 28-finalist acceptance check below. Preserve four-year recurrence, chromatic placement points, fourth/Green for Kaira and the end-of-Red Ring.

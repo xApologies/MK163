@@ -1,0 +1,391 @@
+# Kaira entering Semester III · Day 452
+
+The Day 391 trip adds the Yellow and Green MK-173 volumes to Kaira’s reading after Red and Orange. Blue, Violet and White remain outstanding. Her two personal robe commissions have now reached their recipients. She wears her original Day 171 Genesis-altered robe at the closing feast. Royal recognition on 451 makes her semi-famous on campus as the robe’s inventor and the public face of the movement. The Black Prophecy remains private. Semester III opens on 452.
+
+[Bookshop and smith](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/WEEK_09/DAY_391.md) · [Closing feast](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/SEMESTER_II_DAY_433_ADDITIVE_CANON.md) · [Semester III entry state](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
+# Kaira · break outline through Day 340 and Semester II anchor
+
+The Day 319 feast gains Aiselle's invitation and market observations. Kaira then visits Aiselle's existing Blue District home with Nyx and the independent young Black Sprite during Days 320–330, completes Elaira's existing gift robe there, and returns to Blackstone to present it on **331**. Exact completion date and arrival hour remain OPEN.
+
+On **332** Kaira, illi and Elaira make a rickshaw city trip and order rings for **two different new personally crafted originals**, one for Princess aina and one for the unnamed Yellow District smith. No ring delivery or construction start is established through 340. These are not replacements for her original personal robe, illi/Elaira gifts or Registry-managed production.
+
+The campus flower wall remains in her room. Break leisure, meals, raeon and Nyx exercise are outlined intervals; no 21 full day schedules, extra powers, new stage, future lesson attendance or finished prose is inferred. Semester II's opening anchor remains **341/Ailor**.
+
+[Full selected outline](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Distinct robe projects](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
+# Kaira · selected Semester I state through Day 319
+
+The full semester is an approved planning/live model, not completed chapter prose. Day 224 retains the previously published timing and intentions. Kaira closes Violet aen on **Day 248** under illi's guidance; subsequent widening is a training aim, not automatic Stage II proficiency. Sprite communication/morphology milestones are selected on 237/251 without omniscience or unearned mastery.
+
+She starts illi's gift robe on 227 and completes/gifts it on 253. Elaira's materials are ordered on 259, arrive on 293, and construction continues intermittently through 319 without completion. The original personal chromatic robe and existing commercial enterprise remain distinct. Kaira's second-exam performance is good; illi performs strongest among the three. Final grades remain OPEN.
+
+No later-semester attendance, course mastery, new Card subsystem or early Dimensional Ring is granted. The retained bookstore equipment, existing rucksack, Nyx and Black Sprite agency remain unchanged.
+
+[Full daily plans](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md) · [aen milestone scope](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Gift robe chronology](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md)
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
+# Kaira · Day 224 author-selected outline state
+
+The forthcoming chapter now selects the complete Day 224 sequence, starting with the 09:00 first-day wake-up exception. Kaira takes the existing Chainmail Robe and newly specified Maege notebook/stylus to the shared first lecture, meets Elaira alongside illi, and later follows the Day 217 professor invitation. This is outline state, not completed prose, mentorship mastery or a later-semester knowledge grant. Within the outline only one Genesis Field Theory I lecture has been attended. Violet, Stage II and any completed humanoid development are not advanced.
+
+The old black mushroom-leather rucksack remains her repurposed book bag; no replacement pack or storage power is acquired. Day 217 and all earlier equipment/bond history remain intact.
+
+[Full day and relationship sequence](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Selected mentorship and prophecy recognition](BLACKSTONE_SPRITE_PROFESSOR.md) · [Exact acquired stationery](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
+# Kaira · end-of-Day-217 state
+
+After moving into Blackstone, Kaira and illi eat at the Grand Archives with Nyx and the Black Sprite; a mature Green Sprite professor communicates directly with Kaira and offers to mentor the young Sprite, preserving their agency. The party visits the bookstore for textbooks, notebooks and class materials, then returns home. Kaira repurposes the larger black mushroom-leather rucksack previously used to carry Nyx as her book bag. This is the existing Yellow-era pack, not a new purchase or storage power.
+
+Violet remains OPEN and no Stage II, completed mentorship lesson or humanoid development follows automatically. Day 224 wake-up, breakfast, first lecture and seating are future planned beats, not completed attendance or an already-established friendship conversation with Elaira. [Complete Day 217 / future Day 224 owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
+# Kaira · Green Day 217 move-in frontier
+
+Kaira is 23 local years old. After the Day 212 Headmaster meeting and Days 213–215 capital exploration, the Alchemist introduces her to illi (27) at the Day 216 party. On Day 217 Kaira moves into Blackstone student housing with **Nyx, the male Vaeryn**, and the **independent young Black Sprite (they/them)**; illi and her personal handmaiden occupy the adjacent residence. Nyx is not the Sprite. Kaira’s original chromatic Chainmail Robe draws guests’ admiration. Violet aen remains OPEN; there is no new closure or Stage II achievement.
+
+Elaira is the now-named future Helkir friend; exact first meeting/scene is not selected at this frontier. Kaira’s full Cardsmith primary schedule covers five semesters and sixteen courses, including four in Semester II. The future academic schedule is not completed narrative. [Full Kaira curriculum](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md) · [Day 217 cutoff and detailed current Green owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/DAY_217_CUTOFF_AND_SCENE_AUTHORITY.md) · [CHARACTERS_AND_EDUCATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
+# Kaira · current state at Day 211
+
+Yellow is COMPLETE on arrival at the Alchemist's upscale Blue District apartment in the Blue Domain capital. Kaira travels with Nyx and the independent young Black Sprite, retains her business and national banking access, and awaits Blackstone admission/campus housing. Her mother is a **cardsmith**; the Day 180–187 trusted conversations preserve her history without invented trauma or daily disclosure order. The Day 171 involuntary surge transforms only her original physical robe and enlarges living plants/flowers; it is not repeatable mastery, deliberate Shaping or the later Genesis Robe. The 5,000-eln special commission is separate from ordinary wholesale production; her personal monthly commercial robe obligation ends with the trained four-smith handoff. Violet aen closure, Stage II and later Ring timing are unchanged. [Outburst](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md) · [Friendship and commission](ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Business terms](../../L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md) · [Possessions and relocation](../EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/02_CHROMATIC_ROBE_AND_SOCIAL_RESPONSE.md) · [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/04_CHAINMAIL_BUSINESS_HANDOFF.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
+# Kaira · current selected developments through Day 167
+
+Orange completion remains Day 50, debut/finale Day 51. Yellow begins Day 63 and **remains unfinished after Day 167**. The Alchemist relationship, unique commission, Blackstone sponsorship and actual Yellow exit remain future undated anchors. No early Ring, Blue Support credential, Stage II, full healing or new chapter is created.
+
+Her aen closures are Red/Orange by Day 43; Yellow in 52–62; Green 85; Blue 123 after near-success 119; Violet OPEN. Her business transitions from final repairs and first direct commissions to Day 116's seven-robe Registry wholesale plan: one personal robe/month, two home-based employees at three each, her small Orange apartment used for supplies, inspection and freight coordination. Ordinary outside direct commissions cease in that post-116 scope; earlier eight customer orders stay recorded.
+
+Nyx's Green crystals are three initially banked, withdrawn Days 42/94/137, leaving 2/1/0 in custody. The Black crystal from the Red Arc collapse is a treasured symbol of freedom/identity, separate from the green mineral vaen keepsake and Nyx nutrition. Mother's original Fireball Genesis Card remains retained. Day 164 she buys roughly five–seven living succulent-shaped vaen at about 20–30 eln each, arranges delivery and enjoys their Genesis expression; no exact spend, species or mineral-to-plant conversion is invented.
+
+Day 164's civic proposal is the historical Age of Knowledge origin, not the ring commission Day 0 or completed universal diffusion. Day 165 she considers her Black crystal for Binding without knowing ordinary incompatibility. Day 166 the paid professional Fireball attempt instead yields her first exceptional independent Black Sprite bond and permanent Black/Neon spectral eyes replacing steel-gray. Her underlying identity/affinity is exceptional, not instant expertise. Crowds overwhelm her; home flower bloom and Nyx/Sprite play follow. Day 167 the familiar abecca shop is less overwhelming; she visits barista, mailwright and unicorn researcher with Nyx and Sprite, receiving early mind-to-mind images.
+
+Existing scar/white-pigmentation/healthy Awakened appearance remains outside the explicitly selected eye change. Rendered garment model appearance is not new physiology. Raeon tournament development, friendship and life/work rhythms coexist; Day 163 Violet/second local game placement is not the King's Tournament's later Green/fourth. Exact customer/researcher/noble/village-hub names, costs, dialogue, cognitive grammar and unselected later dates stay OPEN.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [017/YELLOW_ARC_DAY_63_116_LEDGER.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/017/YELLOW_ARC_DAY_63_116_LEDGER.md) · [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
+# Kaira · Orange exit and Yellow entry state
+
+By Orange’s Day 51 finale Kaira has completed the physical Chainmail Robe on Day 50, publicly debuted it, cares for Nyx and continues the three-smithy repair business. Her White Chainmail Armorsmith badge retains the exact approved geometry and diamond. [Robe and public stops](../EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md); [Nyx care and supervised travel](NYX.md).
+
+Her first bank account is opened during the early apartment search, working Day −1; [paper records and Mage Glass account credential](../../L2_WORLD_CIVILIZATION/ECONOMY/BANKING_AND_MAGE_GLASS_ACCOUNTS.md) govern custody. The valuable banked Green Genesis crystal used for Nyx is **not** her permanent two-inch green mineral vaen keepsake. Three retained black mushroom vaen remain separate (7 − 3 − 1 = 3). No exact account holdings or crystal grade/value/lifetime is assigned.
+
+[Five introductory lessons](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) culminate Day 43 with Red/Orange closed, Yellow begun and all six points active. By Day 63 Yellow is closed; Green is being worked toward closure, Blue/Violet remain points and Stage II has not started. Neither White craft rank nor endurance confers automatic Transduction mastery. Later Black Sprite, school, Blue Support, Violet Genesis Robe and fourth/Green Ring at Red’s end retain their scopes.
+
+Checkpoint 006 · 2026-11-10. [Scoped decisions and source boundaries](../../../PROVENANCE/ORANGE_COMPLETION_006_SUPERSESSIONS.md). Source: [Original supplied record](../../../PROVENANCE/WORKSHOP/ORANGE_COMPLETION_006_2026_11_10/ORANGE_ARC_COMPLETION_006.md).
+
+## Earlier record · preserved verbatim
+
+All prior text remains below. The current decisions above supersede only their stated scope; unrelated detail continues to govern.
+
+---
+
+# Kaira · ordinary possessions and professional recognition
+
+The smallest of the three newly found mineral vaen is her personal keepsake: **about two inches** across, smooth, green, partially translucent, faint internal glow and perceptible weight. Handling it in her palm/pocket becomes a habit across all seven books, not a prescribed power, charm or required appearance in every scene. The other two stones are sold. Her three black mushroom vaen are a separate inventory.
+
+- Several days pass; Kaira continues Chainmail Robe experimentation, reads her novel, maintains fledgling repair business and ordinary coffee/food/card-shop routines. First physical Chainmail Robe remains unfinished; completion/public reveal remains the endpoint of Orange Arc.
+- Kaira wants to make her apartment personal by displaying and caring for living botanical resources. She goes shopping for attractive pots/planters, then acquires several small succulents over following days. Number, species, costs, exact shop and placement OPEN. Ordinary plants are not automatically vaen.
+- **Verified black mushroom inventory from Red Arc 1:** harvested 7; **3 consumed** in exceptional White-heavy Awakening Potion, **1 given to Stone Hollow alchemist** as payment, **3 retained by Kaira**. Three are genuine living black mushroom vaen. They are distinct from the new mineral vaen. They can become her indoor living collection, but appropriate cultivation environment and container conditions remain OPEN; do not assume ordinary soil or invent their future use.
+- Kaira's interest in living vaen, flowers, moss, fungi and unusual plants persists throughout the saga. Fungi are biologically distinct from plants.
+
+The shopping is Day 15 and plant delivery Day 16; cultivation conditions and precise contents remain open. White Chainmail Armorsmith recognizes her existing expertise at 23: mother died at 15, smith took her in around 16, roughly seven years of exploited work. Not a White Transduction rank. On Day 39 she rescues Nyx; he is family, not equipment. [Relative chronology](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
+# Orange · independent craft work and first return
+
+**Orange arc of Book Red · 2026-11-08.** The completed shirt, confidence in craft and difficulty soliciting strangers lead to two potential subcontracting relationships and independent freight arrangements. Vael’s prejudice despite her visible Awakening provokes genuine anger. Browsing the raeon shop and a voluntary nature detour help her recover. She returns with moss and mineral vaen, without a Ring, Nyx, Sprite, paid invoice or Support credential. See [ARC](../../../BOOKS/RED/ARCS/ARC_002/ARC.md), [KAIRA_AND_VAEL_FIRST_ENCOUNTER](../EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md), [GENESIS_FLORA_FAUNA_AND_VAEN](../../L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md), [SERIES_STATE_AND_EVENT_LEDGER](../../../CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md).
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
+# Kaira’s Book Red progression
+
+**Book Red consolidation · 2026-11-07.** Orange: Nyx joins the family. Yellow: the first Black Sprite bond and the Alchemist’s sponsorship. Green: a high-honors Cardsmith graduate, not yet a Master Cardsmith. Blue: completes Fireball and individual Genesis Shield on Day 904 and earns [Green Support certification](../EVENTS/KAIRA_FIRST_SUPPORT_CERTIFICATION.md) on Day 905 with Nyx and the Black Sprite. [Her first research contract](../EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) closes on Day 943 with payment and favorable feedback. Her Blue mineral-vaen contract closes on 999. She completes Beam and a dual-bypass Shield on 1016. During [the failed Yellow cavern expedition](../EVENTS/KAIRA_YELLOW_CAVERN_EXPEDITION.md) she protects the survivors through the Day 1049 closeout. After the [Green rescue](../EVENTS/KAIRA_GREEN_CAVE_IN_RESCUE.md) she accepts the vaelum’s invitation at dinner on 1080. In Violet she trains with the group and plans a CSR Card. [The vaelum’s traversal record](../../L2_WORLD_CIVILIZATION/CULTURE/VIOLET_VAELUM_TRAVERSAL_LOGISTICS.md) supplies the leader, air specialist and equipment decisions. Her first direct native Architect construction is a closed Genesis-energy ring, followed by [the Genesis Robe](../EVENTS/GENESIS_ROBE.md). The first completed Genesis Robe is selected on Day 1303 after 35 work days; Kaira alone possesses a finished one through Violet’s Day 1346 closure. The Day 1326 royal negotiation remains prospective and unresolved. White: Green/fourth and the book-ending Ring. These are successive plan states, not Arc 2 possessions, simultaneous basin access or present mastery. See [the Alchemist and Princess](ALCHEMIST_AND_PEOPLES_PRINCESS.md) for the relationships and their independent roles.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
+> **Live Model 009B current authority — 2026-10-22:** Records exceptional but developing potential and endurance without adding current abilities, equipment or completed scenes. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+[Her Black-bond owner](../EVENTS/SIX_BLACK_BONDS.md) now distinguishes preexisting affinity, bond-altered realm intuition and acquired mastery. Kaira is intended to become potentially universal in admissible Shaping over vast time; she remains young and constrained by knowledge, concept, manifold skill, energy throughput, resources and fatigue. Do not reduce that extraordinary potential to an ordinary generalist, or convert it into current omnipotence.
+
+**Exceptional endurance/sustainment** is a defining innate and gradually realized advantage: she can eventually sustain Transduction longer and perform several specialist functions, potentially offense, defense, restoration, exploration, research, Cardsmithing and armorsmithing. This is not infinite fatigue, a numerical multiplier or a duty to fill every role simultaneously. Companions remain independent friends/mentors/party members, not components. Exact perceptual mechanism and learning acceleration are OPEN.
+
+Future [Temporary Transduction Systems](../../L1_FANTASY/GENESIS_CARDS.md) use ordinary Cards to offload prepared geometry while she develops native competence. Existing Metal Manipulation illustrates a learning bridge; a hypothetical meteor is only an example, not an approved Shaping or acquisition. Native expression becomes central over time; technology can remain useful professionally and for convenience. First system/prototype/chronology remain OPEN; no new system is in her current Arc 2 possessions.
+
+[The proposed Blue-stratum research rescue](../../L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) may demonstrate endurance/coherence after a Vaelith bond but is not an actual event, roster or guaranteed outcome. [The world-local ending direction](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) concerns the saga's horizon, not present capability. All biography, current outfit/shirt/robe state, ordinary skills, Nyx, six-bond order and Ring restriction remain.
+
+Complete supplied evidence: [01_TEMPORARY_TRANSDUCTION_SYSTEMS](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/01_TEMPORARY_TRANSDUCTION_SYSTEMS.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [05_ARC_TWO_HANDOFF_AND_NARRATIVE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/05_ARC_TWO_HANDOFF_AND_NARRATIVE.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
+> **Live Model 009 current authority — 2026-10-22:** Removes retired future special-Card obligations from character navigation while preserving ordinary craft and Black identity. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+Kaira remains an ordinary Cardsmith who may use, collect, modify and craft ordinary Genesis Cards. Her existing Fireball activation, beginner Metal Manipulation, expert manual mailworking and separate aen training remain unchanged; this update grants no new Card or mastery.
+
+The 008 future Black Card architecture and required Armor/first-Green manufacture are **RETIRED / SUPERSEDED**, including their status as future design obligations. [Her six exceptional Black relationships](../EVENTS/SIX_BLACK_BONDS.md), conventional Binding incompatibility, independent denizen agency, Black Prophecy, Black Singularity and native Neon development remain. The bonds are not ordinary installed Bindings. No Armor, CSR, Orbs, Halo or Domain is automatically assigned as a Card, Shaping or possession.
+
+[Planning](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) retains Red Arc IV education; Arc V events, first original ordinary Card if any and special black mushroom use stay OPEN. Her prior biography, livelihood, outreach, appearance, relationships and equipment chronology remain intact.
+
+Source: [009 author decision](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
+> **Live Model 008 current authority — 2026-10-21:** Routes new narrative and future-design distinctions to their owners without turning later possibilities into present powers. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+[Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) now records her prior repaired-mail deliveries and independent shirt-carrying outreach. Familiarity does not establish a specific old customer, sale or dungeon entry. Existing manual/Card/aen distinctions and all 007 livelihood decisions remain.
+
+Her eventual realm-specific Black Card architecture is a **developing author direction**, not current equipment, automatic spells or completed mastery. [The six bonds](../EVENTS/SIX_BLACK_BONDS.md) retain independent denizen agency and small initial native expression; [Card design](../../L1_FANTASY/GENESIS_CARDS.md) supplies the separate realm-anchor model. [LM008-C01](../../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md) preserves the unresolved first Armor/Green-anchor identity, manufacturing resources and chronology. No Armor, CSR, Orbs, Halo or Domain ability is added to her current possessions by this checkpoint.
+
+---
+
+## Record before Live Model 008 — retained in full
+
+> **Live Model 007 current authority — 2026-10-20:** Links the new relationship and skill continuity to the existing Arc 2 owner without creating a second story authority. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+[Arc 2's current record](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the selected lease, first master-smith friendship, Card purchase direction, training and ongoing raeon hobby. The smith recognizes her expertise at their first conversation and becomes her first genuine friend; later mentorship is reciprocal. Identity remains Afflicted-born and visibly Awakened, with variable social reactions and false noble assumptions rather than actual noble ancestry.
+
+Manual mailworking expertise, known Fireball activation, beginner Metal Manipulation and separate beginner aen control remain distinct skills. The new shirt uses hand support and gradually learned ring Transduction, superseding the exclusively manual demonstration description. Efficient individual-ring manipulation after eight elapsed shirt days is not general metal or Card mastery. No new aen milestone is inferred. Freedom includes mundane choices, breaks and chosen community; personal raeon deck completion remains open.
+
+---
+
+## Record before Live Model 007 — retained in full
+
+> **Live Model 006 current authority — 2026-10-19:** Expands manual competence and distinguishes newly learned Metal Manipulation and aen control. Only the explicitly identified changes supersede earlier statements. All prior record bytes and evidence remain below.
+
+## Live Model 006 integration
+
+### Current skill distinctions for Red Arc 2
+
+Kaira is already an expert manual chainmail armorsmith: heating metal, drawing wire, winding mandrels, forming rings, closing/assembling and finishing. Years of manual work precede Metal Manipulation. She knows activation of her inherited Fireball Card; Metal Manipulation is a newly learned discipline requiring precision and repetition. Her ready-made business rings are purchased rather than newly manufactured by her.
+
+She starts deliberate aen training in Arc 2 with theoretical Genesis Field knowledge but beginner practical control. Access, formation, closure, width, endurance and control require practice; difficulty frustrates her. No exact basin, milestone, training duration or mastery is assigned. This is distinct from Card activation and does not boost operational Card throughput.
+
+Her independence, ordinary demonstration shirt, developing supplier friendship and social raeon are situated in [the arc contract](../../../BOOKS/RED/ARCS/ARC_002/ARC.md). Her current phenotype, scars, ordinary Afflicted origin, false noble rumors, Nyx and future equipment boundaries remain unchanged. The field model stays with [the existing aen owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md). Sources: [ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/ARC_002_CRAFT_BUSINESS_AND_TERMINOLOGY.md) and [AEN_NAMING_AND_KAIRA_TRAINING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_006/SESSION_006/AEN_NAMING_AND_KAIRA_TRAINING.md).
+
+---
+
+## Record before Live Model 006 — retained in full
+
+> **Delta 005 current authority — integrated 2026-10-19:** Kaira is visibly Awakened with healthy retained Afflicted pigmentation, steel-gray luminous eyes and persistent scars. The false noble-origin rumor is a seven-book motif; the previously open exceptional-eye choice is now resolved. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
+
+## Delta 005 current integration
+
+### Physiological identity
+Kaira was born with the Afflicted genetic mutation. It is a biological condition that can occur in any household, from commoners to noble families and royalty; genealogy matters to inheritance, but there is no rule that a particular social class is immune. The Afflicted condition is rare, and an individual noble family need not have any Afflicted ancestor. Kaira's pre-Awakening phenotype includes chalky/calcified white skin, brittle white hair, steel-gray eyes and reduced endurance. She survives beyond the common Afflicted lifespan and undergoes an extraordinary White Awakening after the Stone Hollow collapse.
+
+The potion reconstructs her brain and body at the Genesis-biological level. It removes the pathological expression of her Affliction, but her original coloration remains. She has healthy white skin, healthy fuller white hair and steel-gray irises with faint white internal luminescence. Her eye sockets become slightly larger and her eyes proportionally larger. Her face becomes angular, symmetric and strikingly attractive in the aesthetic of this society. Her physique becomes leaner and more densely muscular; modest growth is possible. She retains severe scars across left eye/cheek, abdomen, back and thigh. The Awakened phenotype is conspicuous: people can recognize it by sight. She is not an untreated Afflicted who merely happens to be feeling healthier. This explicit correction supersedes earlier assistant suggestions that the public would fail to notice her Awakening.
+
+### Economics of perception
+White Genesis Dust is so scarce and politically leveraged that Awakening Potions are not ordinary luxury consumer goods. Noble households are the principal group able to obtain them, through the Crown, direct expeditions, purchases or relationships. Wealthy merchants, banks, private aithren and exchanges can sometimes circulate White material, so nobility is not a biological or legal prerequisite. Yet the most common public association is Awakening with extraordinary noble wealth. City residents generally know both what Awakening looks like and what it costs.
+
+Kaira arrives in a mature large city and seeks a modest apartment in Orange District. She bargains badly, watches her budget, wears ordinary clothes and does not present a recognized noble family name or entourage. Her appearance communicates wealth and privileged treatment, but her actual living circumstances communicate limited means and unfamiliarity with elite social life. This is a social incongruity/status ambiguity, not a mathematical paradox. Urban residents tend to understand Affliction as a mutation and are less superstitious than frontier village-hub populations. Some are merely curious, others indifferent, others may resent the apparent advantage of someone who looks as if she had access to unimaginable wealth. Neither commoners nor nobles should be depicted as a single moral type.
+
+### Rumor chronology
+Immediately after Kaira rents an apartment, the neighborhood begins discussing the mysterious young Awakened woman with Afflicted coloration. The leading explanation becomes that she is a daughter of an unidentified noble house who was disowned, rejected or estranged. This theory reconciles the costly Awakening with her modest housing. It is not fact and need not be confirmed by a named gossip character. The story can circulate through nearby businesses, residents, landlords and market interactions.
+
+Over time it reaches noble circles. Nobles often attend to family lineage, patronage, political connections and who owes whom favors. The unknown Awakened young woman presents a gap in their social map. Questions include: Which noble family? Who paid for White Dust? Does she have royal connections? Why would someone with that privilege live in Orange? Is she truly estranged? These are plausible questions, not an automatic formal royal investigation or secret conspiracy. No noble names or plot confrontations have been authorized. The reader knows the actual explanation from Arc One; most in-world observers do not.
+
+### The Chainmail Robe amplification
+Kaira's skill as a smith and chainmail maker is real, earned through years of repetitive labor and later independent practice. She develops a unique robe through her own work. At Arc Two's end the first robe is completed and publicly revealed. Her recognizable craft and appearance combine with preexisting rumors: she becomes a fashion innovator whose public identity is hard to separate from the mystery of her origins. The fashion prominence is not proof of noble ancestry; it is a new independent source of attention that makes the old rumor more durable. She does not intentionally cultivate a fabricated noble persona. In subsequent books, strangers meeting her for the first time often assume noble birth, and that recurring mistake can support humor, social awkwardness, negotiations and relationship dynamics without requiring a new mystery subplot every time.
+
+### Character knowledge versus public knowledge
+Kaira knows her mother, smithy exploitation, catastrophic collapse, alchemist transaction and newfound independence. She may not initially know the rumors being spread. Neighbors know her visible appearance and apartment choice, not her hidden Black Sprite crystal or the genesis-collapse cause. Nobles know their own networks and may notice no known family claim, but lack evidence of her real history. The reader has greater knowledge from Arc One. Do not have a random passerby infer the entire collapse/potion history from appearance alone.
+
+### Scope
+L2 owns class and Awakening economics; L3 owns Kaira's phenotype and reputation; L4 scenes show the rumor through behavior. This motif spans all seven books, Red→Orange→Yellow→Green→Blue→Violet→White, and is not confined to the first apartment chapter.
+
+### Current selection and continuity
+The explicit current choice is **steel-gray irises with faint internally contained luminescence**; the older black/spectral-eye possibility is retained only as source history, not an unresolved alternating choice for present MK163 canon. Public recognition of Awakening supersedes the earlier broad suggestion in evidence E005 that nobody treats her differently. Frontier exploitation/fear and variable city reactions remain contextual facts. No noble ancestry, patron or false persona is invented.
+
+Specific permanent scars are left temple above the eye down the cheek, right abdomen, long left thigh wound and three deep diagonal back rakes from right shoulder toward left hip. [Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md) owns their acquisition and treatment. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns the failed first apartment haggling, three viewings, fruit breakfasts, purchased meals and living-vaen houseplants. The full earlier biography, independently adopted Nyx, six planned Black bonds and Red-ending Ring restriction remain in force.
+
+Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md](KAIRA_SOCIAL_IDENTITY_AND_ROUTINES_DELTA.md), [WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md](../EVENTS/KAIRA_STATUS_RUMORS_SERIES_MOTIF.md). The supplements preserve every delivered detail; this file is the active owner within the stated scope.
+
+---
+
+## Prior record retained in full
+
+> **Delta 004 authority update — 2026-10-15:** Delta 004 explicitly selects the Cardsmith-mother/MK727 backstory and Red Arcs 1–3, Nyx, and the six Black bonds. Earlier “not selected” or “timing open” statements apply only where the new records leave matters open; unrelated old plots remain excluded. The previous record and its source evidence are retained below in full. See the appended Delta 004 integration section for current references.
+
+# Kaira — established character state and biological source boundary
+
+**Project:** MK163  
+**Status:** ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS  
+**Canonical path:** `WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md`
+
+## Identity
+**Canonical name: Kaira (K-A-I-R-A)**, capital K and lowercase remainder. Repeated dictated “Kira” means Kaira. The earlier live-model001 statement making Kira canonical was an assistant export error and is superseded. No rename of historical source quotations is required.
+
+Kaira is the only inherited character from MK147. She is **23 local years old** under the31-hour/360-day calendar. Her broad starting situation is an Afflicted young woman in the developing Village Hub region; blacksmithing is the working opening occupation/background. Her complete biography, family names, relationships, personality, exact residence and opening scenes are not imported from any old book.
+
+## Affliction before Awakening
+Kaira's Afflicted condition is not a unique biological superpower. It is the same inherited kind of condition other Afflicted people have. Her Genesis channels retain distinct six-chromatic identities under bounded recursive containment, dark/charcoal with faint basin-colored leakage. Pre-transformation physical presentation includes pale/chalky/calcified skin with brittle surface growths, brittle white hair, steel-gray eyes and thin physique. Historical survival typically around11–17 makes reaching23 unusual, but no deterministic death age is assigned to every patient.
+
+## After Awakening
+A lifesaving Awakening Potion reconstructs her physiology under AERA's general Awakened model, not MK157's old armor/offering/Black Binding event. The inherited recursive identity persists; the pathological phenotype can be relieved in her selected story. Integrated neural/Genesis physiology and trained cutaneous aen are not exclusive Black-Prophecy powers. Detailed general biology lives in L2/BIOLOGY rather than being independently redefined here.
+
+The biological reference discussion also retained older MK157 physical specifics: roughly5ft8in before and5ft11in after; lean/dense musculature, longer limbs, healthier fuller white hair, refined angular/symmetric face, multilayered pale skin and Genesis-integrated skeletal/neural structures. They are biological reference traits, not confirmed scene measurements overriding later decisions. AERA's newer description retains steel-gray irises with faint internal luminosity, while the older exceptional source describes black eyes with internal spectral striations. The author asked to preserve biology, not pick a transformation plot. Keep this source difference visible; do not silently switch her eyes on alternate pages. The active general AERA phenotype is distinguished from the unresolved selection of exceptional post-transformation eye details.
+
+## Narrative identity
+The **Black Prophecy concerns Kaira specifically** in MK163. This does not create an eighth realm, turn all Afflicted people Black, or import a Phoenix/Sprite companion story. All eight prophecies are to be realized in the seven-book saga, but individual events remain largely open.
+
+## Established developments
+Kaira's Chainmail Robe and the Age of Knowledge are selected MK163 developments. She creates a recognizable garment and a business grows from its adoption; exact creation scene/arc remains open. Blackstone is relevant, but a full course timetable or attendance chronology is not established. At the end of Book Red, her friends' team places fourth/Green in the King's Tournament and she receives a high-quality Dimensional Ring. She does not own that ring during the earlier Red-book adventuring period.
+
+The old MK157 Valnak/Valnek training world, Elara, Illy, offering choices, Blackout, combat records and old cast are excluded. MK727 contributes operational card mechanics, not Kaira's old Black Cards/story. MK231's original Phoenix/Kitsune/companion story is not automatically inherited from AERA example files. Her new personal narrative starts here.
+
+## Author-source evidence
+
+These source passages preserve the author’s actual wording, including dictation variants. Current names and explicit corrections in this record govern interpretation; quoted superseded words are not reactivated as canon.
+
+### W001 — MK163 inheritance and Kaira spelling
+
+> So, like I said, the only thing we're not inheriting from MK-147, because it already has binding circles defined, is we're not inheriting the characters outside of K-A-I-R-A, which I say is Kira. Just know to spell it correctly, right? If I say Kira, it's a voice-to-text thing, and so it should be spelled K-A-I-R-A as her name. Just a pronoun, capital K, lowercase everything else. That's the only character that we're inheriting. We'll re-go through the starting chapters, her starting story, and everything. We're just, the big thing is we're inheriting from MK-147, essentially part of layer one, which is the binding circles, and then layer two, layer three, and layer four, because the world we're inheriting, the architecture, the kingdom, the nobles, everything we're inheriting. And then 7-2-7 is giving us the Genesis cards as active transduction systems. That's all we're inheriting from 7-2-7.
+
+### W003 — White Material Realm and Black Prophecy
+
+> So once again, the Black Prophecy is specifically talking and realizing Kira. Kira is essentially what the Black Prophecy is about. Like I said, these are the first books inside of the AERA framework. So everything that's there is going to relate to these books. So there's a direct relationship to the AERA framework and MK-163. That's all. So yeah, there is no Eighth Realm. The Seventh Chromatic Basin is actually the White Basin. It's the superpose of all color domains, red through violet, as white. That is Domain Seven. That is the Material Realm. It should be on the repository. If it's not, please let me know so I can update it.
+
+### W005 — Human variations and channel development
+
+> Now, real quick, dwarves, humans, and elves. These are three species under the human race as it relates to AERA. Dwarves, humans, and elves are a working title. We don't really know what to call them yet. But, right, they are specific to our AERA framework. So make sure you crawl through there and learn about them. They're very specific: their biology, their access to the genesis field, and just, right, just the general structuring, even of their intelligence levels, right? Dwarves are kind of dumb, humans are pretty average, elves are pretty intelligent. Their development of genesis channels as it relates to the brain. Dwarves are considered kind of lower development, humans once again are average, and elves are kind of, like, highly developed. So this gives them different levels of access to natural genesis expression.
+
+### W006 — Selective MK157 biological inheritance
+
+> Exactly. Kira is specific to the Black Prophecy. She's the one it talks about. But as far as her character biology goes, she's just an afflicted. There's nothing special about it. It just gives us her condition. Now, this is the thing. I don't think the affliction is fully developed on there. You can actually refer to MK-147 to talk about this. Actually, I have another repository. This repository is specifically to recover Kira's afflicted state because it discusses it very well.
+>
+> https://github.com/xApologies/MK157
+>
+> So once again, the only thing that we're recovering from MK-157 is Kira's afflicted state and her state post-transformation. So she's going to be taking an awakening potion. This is on the AERA framework. It explains how the transformation works. MK-157 has a really good description, though, of Kira as an afflicted, or what the afflicted biology is like, and what her biology is like post-affliction, or post-transformation. Once again, I just haven't consolidated this fully into AERA. So we're kind of pulling from multiple repositories right now. But this is the only thing that we're going to inherit from 157, is Kira's afflicted state pre-awakening and essentially post-awakening, fully transformed.
+
+### W007 — Biology only, not old transformation plot
+
+> So like I said, we're only focused on the biology. I don't care how it occurs. I'm only caring about the biology pre-transformation and post-awakening transformation.
+
+### W018 — Crown development cycle and village-hub geography
+
+> So let's talk about the wilds real quick. And the idea is this: civilization kind of bunkers down inside of cities, or built-up domains, so to speak, that protect them from the roving monsters, right? A monster can form out just by a local genesis collapse, forms 10, 15 monsters. They go roving across the countryside. They're very dangerous, especially to people who are unprepared or don't know any form of combat. So what happens is you have most of civilization lives inside of some kind of walled environment. Our kingdom uses capital cities, large cities, and small cities, and these are essentially square perimeters, square domains. The capital cities are generally about 13 miles by 13 miles in a big square structure perimeter. Large cities are 10 miles by 10 miles as a square perimeter, and small cities are 7 miles by 7 miles as a square perimeter. So this should also be on the MK147 repository. We'll have all of this information, right? This is level two on our world clock, right? This is the level two stuff that we're going to inherit from MK147. The other thing that exists as a crown-level infrastructure for the kingdom is the village hubs. So the sovereign will decide, hey, this area is worth developing. There might be a Genesis crystal mine. There might be a dungeon. There might just be some special resource, for whatever reason, that's growing there. Maybe it's just wide-open land that's great for developing agriculture. Who knows? For whatever reason, the crown decides to develop a region. That will be the next spot for a city, whether it's large or small. So they go out. They pick a 20 to 30 mile radius as a domain, and they essentially inhabit it. They essentially tame the wilds. So you'll get a localized village hub in either a half-mile by half-mile perimeter if it's going to be a small city, or a one-mile by one-mile perimeter if it's going to be a large city. Surrounding that region is going to be a number of smaller villages that act as, like, guard posts, survey spots. Who knows, right? Maybe it's part of the land that's going to be developed for whatever resource or agriculture, so it starts being developed. Over 60 to 80 years, the region is developed, mapped, surveyed, explored, essentially conquered, and then after that development cycle is done, they go through a roughly 10 to, we'll say, 11 to 13-year building process where they'll cannibalize the region, and starting at the village hub, they'll build the city out around it. The village hub becomes the city center, which is essentially the white district or the civic center. It's the managerial district, so to speak. If you look on MK147, it'll talk about this. So if it's our main character, Kira, she lives at a village hub that's being developed because there's a local dungeon nearby.
+>
+> So as you can see on this map, this map is 20 miles in radius. You'll see number six on the map, Hollowmere is actually the location of the dungeon. So this has a local staging area by it. People are still visiting it, right? There's still a traffic of people coming into the region to run the dungeon. So you'll see the village hub. It's a half-mile by half-mile village hub as the main kind of place that's anchored, that anchors the whole region. And the other villages are related to mapping, surveying, guard posts, so guards can patrol the roads, make sure there's no monsters running around. So essentially it's a region of the wilds that's being tamed, so to speak, and being developed so it can become a small city. And then outside the small city, right, the seven-mile by seven-mile, which is centered on the village hub, is Hollowmere, which is a distance away, which is roughly what, like 11 miles away. So it's away from the city center so that traffic doesn't cause congestion into and out of the city, right? The city doesn't get filled up with people just hanging out. That's what Hollowmere is for. It'll become a smaller staging area of roughly one mile by one mile, or two miles by two miles, within that domain, essentially acting as a smaller extension or hub of the city, so that people can just who are there for the dungeon are localized to the dungeon, etc.
+
+### W045 — Book Red finish and tournament festival
+
+> Perfect. So what we can say is, well, we're going to still follow the same ruling, is that Kira essentially places fourth place. So book one, I'm not sure where book one, our red book, is going to end up finishing. I think what we do is we have it end with Kira participating in the king's tournament as an adventurer, so to speak. It's kind of like her first foray into the dungeon delving community. So she finds a team to run with, some friends she makes out on the circuit of just delving for local dungeons, and she ends up placing fourth. So she places green, and as a reward, right at the end of book one, Kira gets this reward, which is a dimensional ring, like a really, really good one. And what that's going to do is it's a fun narrative for the dungeons, that the circuit and the king's tournament is a fun thing. Think of like old school king's tournaments, where they did, like the knights would do jousting, the melee combat. So all that stuff still happens, because honestly once the adventurers go into the dungeons, nobody gets to watch. It's kind of boring. But it's a long process, right? These dungeons are massive structures. We'll go into it. Actually, it should be on the MK147 repository about dungeons, right? They're these big structures. When you're going down into the violet domain, if it's the dungeons that large, right, going red through violet, that might be like 17 miles underground. So you're down in the dungeon for a long time. So the king's tournament, essentially whatever place, whatever dungeon's being held at, essentially is a big event that takes days. So over those days, the people on the outside, they have melee tournaments. We can even do jousting maybe, I don't know. Right? It's almost like a big kind of, right? It's a party almost. It's a celebration, right? Everybody loves the king's tournament. It's fun, right? Good food, good alcohol, there's magic, right? It's a reason to get together as a community and just celebrate civilization, I guess. I don't know. We'll have fun with it. But from the perspective of watching the races, there's really not much to watch, right? They disappear into the dungeon. They're down there for days or days, maybe a week, and then they come back up. But during that time, you have everything else happening around the staging area for that dungeon, so it becomes kind of like a big festival.
+
+### W046 — Ring as ongoing practical freedom, not power spectacle
+
+> So this is the idea, is moving forward into the orange book and progressing through the white book, Kira now has dimensional storage available to her. So that means she can carry a large amount of items. So she doesn't have to carry around a big kind of uncomfortable, awkward pack, all of her items strapped to it, right? It really allows her a freedom of mobility just throughout the books. So it's a big problem solver for us and allows her to kind of just be, like I said, has the degrees of freedom available to her in terms of travel and having her own personal items with her at all times, just like dimensional items generally do, right? They have great benefit, and that's really all it is. It's nothing flashy. It's not doing any crazy magic, but structurally it's carrying a lot of weight throughout the rest of the series.
+
+### W047 — Dimensional devices and economic access
+
+> So she has to go through, right, all of book one carrying her stuff around whenever she's an adventurer. So she learns to pack light. But for the rest of the book, or the series, this solves a lot of issues for us, especially from a narrative perspective, right? It just kind of compartmentalizes everything, allows us organization, right? Like I said, structurally it's doing a lot of work. But book one, she doesn't have it, so she only gets it at the very end. So for most of the book, right, she lives like a normal adventurer. Dimensional rings aren't a new thing in society. They are, right? They're pretty, like you can have a dimensional bracelet, a dimensional ring. The dimensional necklace is kind of whatever, so we just do dimensional bracelet or ring. Like you can think of the bracelet as almost like a bangle or something. Who knows? But they're very expensive, right? The amount of resources that are required to make them, not necessarily rare, but hard to come by, huge requirement of specific genesis crystal arrangements. So that's already cost prohibitive. So dimensional rings are generally only available to those who are affluent, right? Those who have essentially wealth associated to their character. So nobles generally have some form of dimensional item, you know, rich merchants. You're not going to just see your normal laborer walking around with a dimensional ring.
+
+### W049 — Inherited astronomy, Kaira age, professional ranks, robe and Age of Knowledge
+
+> Okay, so the planetary and astronomy and calendar. So basically what I'm getting from that, right, we're going to straight inherit that. We're inheriting that star system. So we get the 360-day year, 31-hour days, the four 90-day seasons, and six-day weeks. So, like honestly, that planetary and astronomy calendar is essentially what we're inheriting. So it's all there. Profession, culture, and social ranks. O2, zero two we'll go over. The healthcare, augmenter, and summoner professions, those are generally classes under transduction. So a summoner is someone who focuses specifically on summoning. An augmenter is someone that essentially alters their biology temporarily through transduction. So maybe their muscles get bigger. Think of, like, the Hulk when, right, Steve Banner, whatever his name is, turns into the Hulk. Like, right, that's like an augmenter. They don't get all green and, like, 20 times the size, but they do have growth, and it's generally associated with body augmentation in some way. So the magi, right, these are your special class, right? It's kind of a social class, but it's also a transduction class in the book. We have alchemists. We have architects. Generally the idea is, right, a summoner, right, they're more focused on sustaining summoned monsters—or not monsters, but shapings, right? So do you have a spectral hound? Do you have a prime elemental that you're maintaining? The MK—or I'm sorry, the AERA framework should have a list of bindings and summons. So there's 1,245 shapings, essentially, that should be on there as a list. If it's not there, I'll find the repository that has it. We're just going to inherit, we'll add to it, we'll subtract a few, or whatever. Human biology and longevity we already discussed. Enchanting and engineered equipment. We'll have to really go into the equipment side, right? What does an enchanted suit of armor do? What does enchanted chainmail do? Right? Generally you enchant them with, you know, some kind of combat proficiency. Do you have essentially, like, fire resistance, so to speak, where it does, like, thermal negation? So your armor protects you from fireballs or something, or the metal, the armor doesn't get red hot and melt you inside of it. And once again, that's all handled through putting the item into a sigil, anchoring the correct resources and activating the sigil. We already have a mechanism for enchanting. Culture and sports and daily life. We have rayon and the king's tournament. Prism, right? This is our national sport. Essentially it's like our equivalent of, like, football or baseball or basketball. And then Genesis biology, like we've already kind of gone over things. Two areas worth flagging first: the starscape calendar. So the idea is, is we inherit that starscape calendar. So this doesn't affect Kira's age at all. She's 23 years old under this calendar. 360-day year, right? She's 360 days times 23, plus give or take, right, however far she is into her 23rd birthday. Everything falls under this. The idea is, is that people still maintain a seven- to ten-hour sleep schedule. So assume everybody already is waking up at, like, 7 a.m. in the morning. That means they're going to bed on a 31-hour rotation. What is it? They're essentially going to bed around 2700 hours to 2800 hours, kind of later in the night. You sleep until the next day, right? So you can give everybody a seven- to ten-hour sleep schedule. If they wake up early, it just means they went to bed earlier in the previous day. If they wake up late, they went to bed later the previous day. Age of knowledge. This is actually going to come back, and we actually get to straight inherit now the Age of Knowledge, which is super cool. Kira with her Genesis, or her chainmail robes—we haven't talked about the chainmail robe yet, we will. Essentially we're going to inherit the chainmail robe. It's one of my main characters in all the books. It doesn't talk. It doesn't move around, but it's an anchored aspect. So Kira eventually makes the chainmail robe, and it becomes kind of a fashion icon. And unlike the magi, who go around wearing their normal fashion that represent some kind of robe, all the same styles. It's just the robe has a different color. If you're a magi who's qualified as red in the testing, right, so you're a red-ranked mage, you wear a red robe. If you qualified blue, well then you wear a blue robe. The idea with the chainmail robe is they represent an identity of just being a transductionist. Right, the magi are kind of snobby, right? They kind of think of themselves as the alpha of the transductionist grouping. So they kind of hold themselves loft. Kind of think of, like, old men in their country clubs. That's like the magi. So you don't go around wearing a mage robe and announcing yourself, for example, as a violet mage or a green mage if you haven't qualified, right? You haven't passed the set of tests, right? There's 13 different domains for the test. You haven't passed the test that identifies you under the mage category. So there's a specific test that everybody can take for blacksmithing, anything from, like, baking to chefs to trans... right? Anything related to transduction under specific professional categories or classes, you can get ranked in it. And it's essentially like having a three-star Michelin chef at your restaurant, or a blue-ranked blacksmith versus a master blacksmith at the white rank. So we'll pick all the professions and which ones inherit the ranking system, but the magi are kind of like the snobby elitist. So the idea is, is the chainmail robe is just different enough. It doesn't have all the flourishes that the mage robes have. It's chainmail. I actually have an image of it.
+>
+> So ignore the flowy at the bottom. This is just the best rendering I could get. But the idea is it's pretty form-fitted robe, like super simple, like five layers of chainmail. It's been enchanted for mass production, so it's like wearing a silk robe. It's not very heavy. It flows. But it's not all flowy like this one. It's more kind of like a little bit rigid. It's very kind of form-fitted. But as you can see, it's grayish black. It's not a color associated with any ranking, and it varies. It still has the big hood. It's still kind of the robe, but it's just different enough as a robe that doesn't fit the color profiles, that basically everybody accepts it as just their identification of a transductionist. So the Age of Knowledge is kicked off. Actually, I have a... We'll go over it later. The idea is that Kira, once she's established free of her little village hub area, so Arc 2 essentially picks up where Kira goes and starts to realize her first chainmail robe, and it's a huge hit. So she makes a couple more for a few people, and the word gets out, right? This new robe is out there. So it kickstarts, right? Kira is kind of understood as, like, this eccentric genius fashion designer, right? Think of all the weird fashion designers in our world. Like, they're kind of weird, and everybody holds them on a pedestal for whatever reason. They're geniuses, right? It's artistry in motion. But what it does is that people start to wear it, and, like, it becomes this big thing, and it's people identifying not as a mage, not as a healer, not as an alchemist or an architect, right? They're identifying just as a transductionist. So it's that identity, that inherent, that kicks off the Age of Knowledge, because what is at the heart of transduction is your concept. How do you understand the transduction life cycle? Is your concept of a fireball something that's drawn on a piece of paper, or do you understand it at the quantum mechanical level of chemistry as oxidation, thermal gradients, right? Transformation of energy. So the concept is, like, the most foundational way to enhance your shaping. If you use bindings, we talked about this, right? Your concept is essentially what allows you to be more efficient. Genesis cards, you're kind of screwed either way, right? The Genesis card handles the whole transduction life cycle. We don't worry about it. But then you also have just your general transductionist, as I put them. I don't know what category to put them as, right? Your general Genesis transductionist who essentially own the entire transduction life cycle, and they just, because of the Genesis channels in their brain, they interact with the Genesis energy at a personal level or whatever. We have those three domains of transduction, right? You have the Genesis cards, the bindings, and the just normal Genesis energy expression. But the Age of Knowledge is supposed to be this big thing that's going to last for, like, a millennia. And eventually at the end of that, right, humanity, civilization has accumulated so much more knowledge because there was this big push to just understand the Genesis field and concepts and science and math and all of this stuff that it leads to the Age of Wonder, and you all of a sudden get these crazy things. Now that's way out in the future. We'll never get to those books. But essentially in our book, right, Book Red, you get, like, day zero of the Age of Knowledge. So Kira gets to live through it. She's the central figure. And her chainmail robe is the identity of a transductionist. So the Age of Knowledge is really cool. We'll figure out where it fits in the book. I'm thinking, like, it's kind of like Arc 2, Arc 3. We'll figure it out. Right now the chainmail robe, huge thing. It's the fashion icon. Everybody wants to wear the chainmail robe. So that kind of starts Kira's little business. We'll go into it eventually.
+
+### W055 — Full AERA inheritance; constructs, ER foam, mathematical IP and limited plot
+
+> So yes, anything under the AERA framework, we're inheriting full stop. Like that is our requirement. So enchanting terminology, yes. Mage glass and Genesis constructs, yes. Now a Genesis construct could be something as simple as a metal cube that has sigils over it. You tap the activation side of the sigil or face and it glows, and now you have a nightlight for your daughter or your son or something as a kid. Super simple. Or you could activate the sigil and throw the cube and it blows up like a grenade, right? There's all kinds of things, right? They're constructs. The idea is, is they're objects that interact with the Genesis field some way, whether they produce a phase field. For example, an alchemist table that has a sigil on it that they use to interact with for their alchemy, for material science, is technically a construct. Although, right, it's kind of a piece of equipment, but at the same time too, you can kind of generalize it under a construct. ER foam is this really weird thing. So I'm going to give you MKUltra. So here's MK Ultra and its companion API that basically possesses all the math that's referenced in the theory paper. This is our mathematical physics framework, like for the world and the starscape. So you'll see that ER foam is kind of interesting. So what we do is we do ER foam as a projection, and what it does is, well, it's kind of like this tactile surface. Think of, like, a really hard rubber. So you can think of it like an ER foam tactile switch is essentially a projection of ER foam across a square surface, and you can interact with it, right? It's a surface you can interact with, and it's very kind of, like, not quite— it's elastic but not highly elastic, and it's like hard rubber. So tactly, it's kind of interesting. It's generally used as, like, light switches, if you have a large sigil network in your house that controls the lights. It can act as the surface for your hot and cold water. So it's like an activation surface kind of thing. Another thing is that ER foam can be, like, say you have a big table, and there's sigils all over those tables, and the sigils project a topological map, and that topological map is expressed as an ER foam distribution. So your map can be described that way. So think of, like, those maps that have, like, depth to them. Same thing. Intellectual property and manufacturing. Okay, so here's the thing: mathematics is absolutely important for the book. AERA should have a framework of mathematics on the repository, but it doesn't yet. I need to update it. BRICT repository, essentially, if you have that—I don't know if I've given it to you or not yet—is essentially our mathematics domain. So math is very important to the Genesis field. It's a complete descriptor, so to speak, of the Genesis field and sigils and, right, alchemy and transduction. So mathematical equations essentially can act like patents. So you might own the mathematical equation that produces some kind of sigil effect, and that sigil, like, for example, the light switch. So you might own the equation that projects the ER foam, and that ER foam is a mathematical equation, and it's patented. Maybe the crown owns it. Maybe a noble family. Maybe some mathematician owns it. So math is essentially intellectual property. We allow it to interact with patents, so you can generate royalties off of your math equations. Any old naming conventions in historical conflicts, we're just going to overwrite them with MK163. We're kind of redesigning everything from the ground up. We inherit the AE and AI naming conventions, and yes, we're not inheriting the original storyline. Like I said, we didn't inherit the story. We just inherited the world building, the mathematics, the transduction systems. We collapsed a number of MK series into one framework for AERA. So we're kind of having to rewrite certain aspects of the story. But, right, the story's going to start anew. The only real thing that you know right now for the main story is that Kira, at the end of book one, gets green place, or ranks green in the king's tournament, gets a dimensional ring. We have black stone, and Kira gets an awakening potion to save her life. Like, that's really, like, the full extent of the book we have right now.
+
+## Source ownership and references
+
+- AERA `L2/BIOLOGY/05_AFFLICTED.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/BIOLOGY/05_AFFLICTED.md
+- AERA `L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/NEUROGENESIS/02_WHITE_AWAKENING_AND_AEN.md
+- MK157 biological reference only; source differences retained in PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md
+
+
+## Delta 004 integration — 2026-10-15
+
+The full new biography and opening sequence are in [Red Arc 1](../../../BOOKS/RED/ARCS/ARC_001/ARC.md). [Red Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent city-life development, and [Red Arc 3](../../../BOOKS/RED/ARCS/ARC_003/ARC.md) owns the robe movement and first Black Sprite bond. These are explicit MK163 selections, not blanket inheritance of MK727 narrative.
+
+[Nyx](NYX.md) is her independently adopted Green-native feline family member. [Six Black bonds](../EVENTS/SIX_BLACK_BONDS.md) owns planned denizen bonds, compatibility, party roles and the future Arch Maegus working title. Planned acquisitions are not opening possessions. The first Sprite bond does not replace her lifesaving Awakening, make Nyx a Sprite, or grant a Dimensional Ring before Red’s tournament ending.
+
+The exceptional post-Awakening eye phenotype, Black Crystal involvement in the potion and precise recipe remain open. See [the supplied correction ledger](../../../PROVENANCE/DELTA_004_CORRECTIONS_AND_BOUNDARIES.md).

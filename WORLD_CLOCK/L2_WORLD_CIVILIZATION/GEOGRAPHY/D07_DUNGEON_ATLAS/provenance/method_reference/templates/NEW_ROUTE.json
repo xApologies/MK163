@@ -1,0 +1,14 @@
+{
+  "route_id": "SET_ROUTE_ID",
+  "status": "PROPOSED",
+  "geography_ref": "SET_GRAPH_REVISION",
+  "environment_ref": "SET_ENVIRONMENT_REVISION",
+  "purpose": "SET_PURPOSE",
+  "outbound_nodes": [],
+  "return_policy": "UNASSIGNED",
+  "marker_node": null,
+  "official_tournament_marker": false,
+  "departure_day": null,
+  "duration_days": null,
+  "encounters": null
+}

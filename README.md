@@ -6,6 +6,12 @@ Seven books: **Red → Orange → Yellow → Green → Blue → Violet → White
 
 [Current Green Arc · Semester V through graduation](WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/README.md) · [Cross-semester decisions and validation](CHECKPOINTS/BLACKSTONE_SEMESTER_V_DAY_786/INTEGRATION_REPORT.md)
 
+## White 006 · current Book Red endpoint
+
+White 006 completes the **Book Red outline through Day 1637**. The seven-person vaelum finishes Green/fourth in the independent royal final; each receives a White-ranked dimensional ring. Six CSR Cards are made on 1358–1361, distributed 1364. The King’s robe is delivered 1614 and worn at the final ceremony. Violet’s Day 1346 closure, all 23 arc files and every earlier running-ledger row remain unchanged. No completed prose or epilogue is implied.
+
+[White outline](BOOKS/RED/ARCS/ARC_007/ARC.md) · [Integration audit](CHECKPOINTS/WHITE_006/INTEGRATION_REPORT.md) · [Recovery limits](CHECKPOINTS/WHITE_006/OMISSIONS.md)
+
 ## Read first
 [Current World Clock](WORLD_CLOCK/CURRENT_MODEL_INDEX.md) · [Constitutions](CONSTITUTIONS/00_AUTHORITY.md) · [Continuity](CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md) · [Source register](PROVENANCE/SOURCES.md) · [Coverage](PROVENANCE/WORKSHOP/COVERAGE.md) · [Corrections](PROVENANCE/CORRECTIONS_AND_SOURCE_BOUNDARIES.md)
 

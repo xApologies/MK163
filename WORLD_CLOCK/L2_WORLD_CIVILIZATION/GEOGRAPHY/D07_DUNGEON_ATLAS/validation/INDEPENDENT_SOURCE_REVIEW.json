@@ -1,0 +1,269 @@
+{
+  "status": "PASS",
+  "scope": "Independent byte comparison of immutable method source, immediate D06 tool baselines and generation implementation, and graph source continuity. No remote repository state is asserted.",
+  "source_archive_crc": "PASS",
+  "method_reference_files_compared": 64,
+  "tool_baselines_compared": 11,
+  "source_archive_sha256": "a8e56e2331778e8e5eaaf22afe849f5e10770c566379ef1f283c2890e64e6878",
+  "tool_baselines": [
+    {
+      "file": "build_atlas_pdf.py",
+      "sha256": "32186e1c53f6869678bc286d14f662e9b679fad1226193ced0b31e1b89b89db8",
+      "source_identical": true
+    },
+    {
+      "file": "build_viewer.py",
+      "sha256": "2c9abe15cc0b2346df9593991958d1e2e4ddc1c24af13f18e394d40109291126",
+      "source_identical": true
+    },
+    {
+      "file": "check_structural_route.py",
+      "sha256": "9dde403236d0371a25b9dd53f3ae642ab457eeebc40f5db6ce3444b64fd8603d",
+      "source_identical": true
+    },
+    {
+      "file": "check_viewer_browser.py",
+      "sha256": "382974711c2d3afa0c7ffc7026ea974e2fa624b2e408170a2f78fa981abac211",
+      "source_identical": true
+    },
+    {
+      "file": "check_viewer_logic.js",
+      "sha256": "2e198da822e608df4ff02ebb1247f67b26f18160420b07c981deb501805deffd",
+      "source_identical": true
+    },
+    {
+      "file": "generate_dungeon.py",
+      "sha256": "c570ac0ae09752fd0e143eb4ce78c5b6df0113b5cdd85e15a5ba425fce49cdf6",
+      "source_identical": true
+    },
+    {
+      "file": "rebuild_views.py",
+      "sha256": "760f7d1765b7febe1b339b1bc26743d18f0cdc01e80eb7e1eb251ea99c2056be",
+      "source_identical": true
+    },
+    {
+      "file": "render_atlas.py",
+      "sha256": "e4f388fc8e8548b56ffa87006532be7328018d4c88e1a79752887d791084c78d",
+      "source_identical": true
+    },
+    {
+      "file": "reproduce_build.py",
+      "sha256": "8dabc8bab5f6385dd33bc637ba9664bddaea417da667348a5736da378b4b22b4",
+      "source_identical": true
+    },
+    {
+      "file": "validate_graph.py",
+      "sha256": "5f756970962b9ce170f63aaf5478927b7dc7f05ea71e1db36ed8d40517df2dec",
+      "source_identical": true
+    },
+    {
+      "file": "verify_package.py",
+      "sha256": "28cddc8442e77f604dbbee239e2283398c6392babdbcde468eaeb32f8b2a1272",
+      "source_identical": true
+    }
+  ],
+  "generator_byte_identical_to_D06": true,
+  "generation_parameters_byte_identical_to_D06": true,
+  "graph_continuity": {
+    "D01": {
+      "expected_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "current_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "unchanged": true
+    },
+    "D06": {
+      "expected_sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405",
+      "current_sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405",
+      "unchanged": true
+    },
+    "D07": {
+      "expected_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "current_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "unchanged": true
+    }
+  },
+  "failures": [],
+  "public_document_review": {
+    "status": "PASS",
+    "documents_reviewed": [
+      "AUTHOR_DECISIONS_AND_SCOPE.md",
+      "DATA_DICTIONARY.md",
+      "EXECUTABLE.md",
+      "INTEGRATION_FOR_CODEX.md",
+      "README.md",
+      "provenance/REVISION_HISTORY.md",
+      "validation/SCOPE_STATUS.json"
+    ],
+    "local_links_checked": 15,
+    "links": [
+      {
+        "document": "AUTHOR_DECISIONS_AND_SCOPE.md",
+        "target": "provenance/REVISION_HISTORY.md",
+        "exists": true
+      },
+      {
+        "document": "EXECUTABLE.md",
+        "target": "INTEGRATION_FOR_CODEX.md",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "AUTHOR_DECISIONS_AND_SCOPE.md",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "MK163_D07_ATLAS_001.pdf",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "DUNGEON_EXPLORER.html",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "maps/01_MASTER_DEPTH_NETWORK.png",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "maps/08_VIOLET_PLAN.png",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "maps/09_COMMON_SCALE_OVERLAY.png",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "data/dungeon_graph.json",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "EXECUTABLE.md",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "validation/INDEPENDENT_AUDIT.json",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "validation/RENDER_COVERAGE.json",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "provenance/method_reference/DUNGEON_MAPPING_STANDARD.md",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "provenance/REVISION_HISTORY.md",
+        "exists": true
+      },
+      {
+        "document": "README.md",
+        "target": "INTEGRATION_FOR_CODEX.md",
+        "exists": true
+      }
+    ],
+    "pdf_page_counts": {
+      "atlas": 11,
+      "maps": 9
+    },
+    "all_map_PDF_pages_identify_D07": true,
+    "all_python_tools_syntax": "PASS",
+    "README_counts_depths_and_deepest_target_match_graph": true,
+    "prior_dungeon_mentions_are_provenance_or_continuity_only": true,
+    "D07_is_a_new_Violet_ending_owner_in_the_Blue_political_Domain": true,
+    "environment_and_authored_expeditions_remain_pending": true,
+    "documented_command_targets_and_arguments_match_implementations": true,
+    "supporting_report_statuses": {
+      "D06_BASELINE_REGRESSION.json": {
+        "status": "PASS",
+        "scope": "Run the D07 delivery generator against preserved D06 configuration and compare all eight authoritative exports. Source D06 atlas unchanged."
+      },
+      "D07_REPRODUCTION.json": {
+        "status": "PASS",
+        "scope": "Frozen initial build reproduction, not a live atlas update."
+      },
+      "OVERWRITE_GUARD.json": {
+        "status": "PASS",
+        "scope": null
+      },
+      "STRUCTURAL_ROUTE_TEST.json": {
+        "status": "PASS",
+        "scope": "Topology and modeled centerline-distance test only; not a selected expedition or tournament marker."
+      },
+      "VIEWER_LOGIC_CHECK.json": {
+        "status": "PASS",
+        "scope": "actual embedded JavaScript executed in a minimal DOM harness"
+      }
+    },
+    "structural_route_V120_24mi_is_analysis_only": true,
+    "issues": []
+  },
+  "six_stratum_display_semantics": {
+    "status": "PASS",
+    "viewer_options": [
+      "xz",
+      "yz",
+      "3d",
+      "R",
+      "O",
+      "Y",
+      "G",
+      "B",
+      "V",
+      "xy"
+    ],
+    "viewer_embedded_graph_identical": true,
+    "viewer_palette": {
+      "R": "#a8303c",
+      "O": "#ba5c16",
+      "Y": "#94720c",
+      "G": "#22764d",
+      "B": "#245b9a",
+      "V": "#6e4094"
+    },
+    "static_and_viewer_palette_match": true,
+    "positive_searches_recorded_for_all_six_strata": true,
+    "deepest_Violet_search_recorded": true,
+    "map_products": [
+      "01_MASTER_DEPTH_NETWORK.pdf",
+      "01_MASTER_DEPTH_NETWORK.png",
+      "01_MASTER_DEPTH_NETWORK.svg",
+      "02_SECOND_DEPTH_NETWORK.pdf",
+      "02_SECOND_DEPTH_NETWORK.png",
+      "02_SECOND_DEPTH_NETWORK.svg",
+      "03_RED_PLAN.pdf",
+      "03_RED_PLAN.png",
+      "03_RED_PLAN.svg",
+      "04_ORANGE_PLAN.pdf",
+      "04_ORANGE_PLAN.png",
+      "04_ORANGE_PLAN.svg",
+      "05_YELLOW_PLAN.pdf",
+      "05_YELLOW_PLAN.png",
+      "05_YELLOW_PLAN.svg",
+      "06_GREEN_PLAN.pdf",
+      "06_GREEN_PLAN.png",
+      "06_GREEN_PLAN.svg",
+      "07_BLUE_PLAN.pdf",
+      "07_BLUE_PLAN.png",
+      "07_BLUE_PLAN.svg",
+      "08_VIOLET_PLAN.pdf",
+      "08_VIOLET_PLAN.png",
+      "08_VIOLET_PLAN.svg",
+      "09_COMMON_SCALE_OVERLAY.pdf",
+      "09_COMMON_SCALE_OVERLAY.png",
+      "09_COMMON_SCALE_OVERLAY.svg",
+      "NETWORK_MAPS.pdf"
+    ],
+    "Blue_and_Violet_plans_present": true,
+    "nine_views_only": true
+  }
+}

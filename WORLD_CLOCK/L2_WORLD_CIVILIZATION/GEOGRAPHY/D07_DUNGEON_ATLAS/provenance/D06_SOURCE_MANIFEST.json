@@ -1,0 +1,725 @@
+{
+  "schema": "MK163_COMPLETE_PACKAGE_MANIFEST_001",
+  "dungeon_id": "D06",
+  "revision": "D06_ATLAS_001",
+  "scope": "First D06 Phase 2 structural atlas and synchronized maps/viewer; environmental companion pending.",
+  "payload_file_count": 143,
+  "manifest_exclusion": "MANIFEST.json is excluded from its own digest list. All other delivered files are enumerated.",
+  "files": [
+    {
+      "path": "AUTHOR_DECISIONS_AND_SCOPE.md",
+      "size_bytes": 4869,
+      "sha256": "9c272b2a0d1a3f25af95d86823ee2bda1916ab6b95225319566a2f8a332c7e87"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "size_bytes": 6647,
+      "sha256": "2a6ee9344ddadd1c88a1af4deab7e063769d327ea960021dd16e40705c149743"
+    },
+    {
+      "path": "DUNGEON_EXPLORER.html",
+      "size_bytes": 358337,
+      "sha256": "ab8175d95a54e4ccaa38e8c6c355fe8d73d0c25a61732a72a49b19cc312fbc91"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "size_bytes": 5391,
+      "sha256": "a1458b6461be4700d42ceef6154aed5bd4a97b0e51c83ab0ab99c7ca8dc6b2d1"
+    },
+    {
+      "path": "INTEGRATION_FOR_CODEX.md",
+      "size_bytes": 3260,
+      "sha256": "4d5f775ffbb4c290820528d90d0c2f352a19903ca88e5e1d8bfb87ab1261b40a"
+    },
+    {
+      "path": "MK163_D06_ATLAS_001.pdf",
+      "size_bytes": 335783,
+      "sha256": "920028d59681c1d11d1ae7d2865957243e697bdfedeec69535f06edea7787b4d"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 5313,
+      "sha256": "cac3b3096cc3d5053128de96b38521dc61e7e43bce337b928f0d634e785e7882"
+    },
+    {
+      "path": "config/dungeon_spec.json",
+      "size_bytes": 3777,
+      "sha256": "719bec578706ec8591fee085a8cdf48a085eabf2e148ca3291cb876c9458380f"
+    },
+    {
+      "path": "config/generation_parameters.json",
+      "size_bytes": 625,
+      "sha256": "288ba392aca330df35932c79d4b10388f6199ce7783fd0e098142bc266fdbcce"
+    },
+    {
+      "path": "data/VALIDATION.json",
+      "size_bytes": 2968,
+      "sha256": "b285a2f10b7ded409136f03a3248bf5c9de719babf4e6a0af35c2b232a9e2ffe"
+    },
+    {
+      "path": "data/adjacency.csv",
+      "size_bytes": 6939,
+      "sha256": "e635e11f213a1d0d59d86f0f9279345ff00d62e0a83a8cd2cd7dfe504ee301cc"
+    },
+    {
+      "path": "data/dungeon_graph.graphml",
+      "size_bytes": 215320,
+      "sha256": "d5328cb3841406cfca2a003008a0d638967e2e5fc051ac5d752583d10e03d943"
+    },
+    {
+      "path": "data/dungeon_graph.json",
+      "size_bytes": 543718,
+      "sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405"
+    },
+    {
+      "path": "data/edges.csv",
+      "size_bytes": 125073,
+      "sha256": "bab9b4e5330dcfe33ec1c0a083c144396bef2a13b846f75f45d01624e72b2783"
+    },
+    {
+      "path": "data/nodes.csv",
+      "size_bytes": 38735,
+      "sha256": "fd50d187417b476049b01c6b5488a4bcc2c8f93572cbc287fea71267a3bf45dc"
+    },
+    {
+      "path": "data/stratum_connections.csv",
+      "size_bytes": 1447,
+      "sha256": "1b87d84d5a695b2bd29a2847b403128aba78695a949440a1b36b541737e3e4f3"
+    },
+    {
+      "path": "data/view_index.csv",
+      "size_bytes": 13792,
+      "sha256": "cec5a8615126e401dbf68df648619ca6371e12db62f3fc923b38a815e1d3ea37"
+    },
+    {
+      "path": "maps/01_MASTER_DEPTH_NETWORK.pdf",
+      "size_bytes": 96408,
+      "sha256": "5afd26f689bab03bdd0a06cba0daea32af8ea16102e5de9651a23c41cf3949a8"
+    },
+    {
+      "path": "maps/01_MASTER_DEPTH_NETWORK.png",
+      "size_bytes": 916724,
+      "sha256": "585cc9df9618be8c60eedd11ee2b4d93fc47ab5878ed17519a5ba35023e0378c"
+    },
+    {
+      "path": "maps/01_MASTER_DEPTH_NETWORK.svg",
+      "size_bytes": 315659,
+      "sha256": "4b58fe7a56e2d616e088b63c17b2e9e2147e7c02526f3c48b9c1fe0bb8432252"
+    },
+    {
+      "path": "maps/02_SECOND_DEPTH_NETWORK.pdf",
+      "size_bytes": 99857,
+      "sha256": "5459c56183977529de0e77efe301a85949ebc0186f7d63acaf0ba594a8037121"
+    },
+    {
+      "path": "maps/02_SECOND_DEPTH_NETWORK.png",
+      "size_bytes": 707517,
+      "sha256": "0e283318c47aa4711a6614736d9e497f0211cbe17fe9c3ed9f1f5cc9b812b24f"
+    },
+    {
+      "path": "maps/02_SECOND_DEPTH_NETWORK.svg",
+      "size_bytes": 316022,
+      "sha256": "1cd5607e62b094b2b1b43e1bd430ee10ceab1901e962ff73230b81d79c843ef0"
+    },
+    {
+      "path": "maps/03_RED_PLAN.pdf",
+      "size_bytes": 38232,
+      "sha256": "27a827ae9f0e605aaeb0427c1596753d0da646d6a7a9a781da4815c92cd68b05"
+    },
+    {
+      "path": "maps/03_RED_PLAN.png",
+      "size_bytes": 260603,
+      "sha256": "c54c2e2fbab90d1ce44067a4c3c4983c6acba1b296b25c55e3c896d76f22e4a9"
+    },
+    {
+      "path": "maps/03_RED_PLAN.svg",
+      "size_bytes": 66782,
+      "sha256": "f71582e1ea1e04505748de319c49499f20565ab5d850832c0b14f1d2eb402195"
+    },
+    {
+      "path": "maps/04_ORANGE_PLAN.pdf",
+      "size_bytes": 43869,
+      "sha256": "b5343e61753847cdb3f5d3a8530d25c9d1f98d1a67e83c910b45c653c8be4a90"
+    },
+    {
+      "path": "maps/04_ORANGE_PLAN.png",
+      "size_bytes": 318636,
+      "sha256": "bfc0b92b3e81d3bd8e5c3ba5fba6d1e3bd2b1f6af7d00c1b3f8753cd634d6240"
+    },
+    {
+      "path": "maps/04_ORANGE_PLAN.svg",
+      "size_bytes": 90360,
+      "sha256": "c32d2997f19958794784705a0e8b9e4c38d36ceb5a9bbce927a997a0fef9e988"
+    },
+    {
+      "path": "maps/05_YELLOW_PLAN.pdf",
+      "size_bytes": 49620,
+      "sha256": "7b4aa656b8926d6468317b749c5e1faf2a092418bbaf8e3dcc412b7aa369faf9"
+    },
+    {
+      "path": "maps/05_YELLOW_PLAN.png",
+      "size_bytes": 347346,
+      "sha256": "f2945886937478058107a520995d1a7ca156ca99218f42b064165845f79176f5"
+    },
+    {
+      "path": "maps/05_YELLOW_PLAN.svg",
+      "size_bytes": 114790,
+      "sha256": "c4fdca086effa2bafec2aac610133c0c978dc378bcaff49729a203931406c7ce"
+    },
+    {
+      "path": "maps/06_GREEN_PLAN.pdf",
+      "size_bytes": 51798,
+      "sha256": "0de81d633d214f97bd5653231a6006a318cd602a9cbdded27bee4256bfd662a4"
+    },
+    {
+      "path": "maps/06_GREEN_PLAN.png",
+      "size_bytes": 367188,
+      "sha256": "8374188143c33875727a0270449359ad594a8950428a7aec996c8c45a7e39f33"
+    },
+    {
+      "path": "maps/06_GREEN_PLAN.svg",
+      "size_bytes": 119395,
+      "sha256": "22ebdfdf37ca3b274024794dee5d3683c50a5fd2b19a926b3620b1414de1b078"
+    },
+    {
+      "path": "maps/07_COMMON_SCALE_OVERLAY.pdf",
+      "size_bytes": 48524,
+      "sha256": "0d3495003acc7a4f0ddab0342d56d15b83da585ff9d1a3b29455066d91454569"
+    },
+    {
+      "path": "maps/07_COMMON_SCALE_OVERLAY.png",
+      "size_bytes": 400657,
+      "sha256": "fc463a6b2412a13a2822049691dfad802379002e02d195e88092ec4732dfa7e7"
+    },
+    {
+      "path": "maps/07_COMMON_SCALE_OVERLAY.svg",
+      "size_bytes": 170920,
+      "sha256": "fd791ff7af93ce9cb9126ae94db94124b4eccc79f1b8c4357fcea8c1f7f5389b"
+    },
+    {
+      "path": "maps/NETWORK_MAPS.pdf",
+      "size_bytes": 289865,
+      "sha256": "454c719c4a289fcb8607e7fbb25986084653084852d094ee43c0b2647ff2a280"
+    },
+    {
+      "path": "provenance/D01_REFERENCE_REGRESSION_PRIOR.json",
+      "size_bytes": 6258,
+      "sha256": "1cac2fb55b1b2c6f7e408547daa71eb06cabe25d139d9baff9d2f2ea994b9539"
+    },
+    {
+      "path": "provenance/D05_SOURCE_MANIFEST.json",
+      "size_bytes": 27102,
+      "sha256": "9d68bbf6ecfb2e7b7dd01f6d81edd74552e1d1a27da517abc8dadf9025b5a0dc"
+    },
+    {
+      "path": "provenance/REVISION_HISTORY.md",
+      "size_bytes": 2127,
+      "sha256": "ebf56567d6ccd17fb04c7948369d3adf932c1bcfe32f303119d7769a94ae0932"
+    },
+    {
+      "path": "provenance/SOURCE_RECORD.json",
+      "size_bytes": 2249,
+      "sha256": "0b1f129b37e6a7e855949213f7477421d9431af3ea0061e210ad8526daa3f552"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/build_atlas_pdf.py",
+      "size_bytes": 9100,
+      "sha256": "2f143e999a491f936628a4e4706163f65ed78c797b231cdbe7db0b8ff0888ab1"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/build_viewer.py",
+      "size_bytes": 16732,
+      "sha256": "96d380c57333211b4e86d8137ac862985c8be4ccf0d1bcf4ad06b2bca6af4375"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/check_structural_route.py",
+      "size_bytes": 2493,
+      "sha256": "9dde403236d0371a25b9dd53f3ae642ab457eeebc40f5db6ce3444b64fd8603d"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/check_viewer_browser.py",
+      "size_bytes": 5974,
+      "sha256": "382974711c2d3afa0c7ffc7026ea974e2fa624b2e408170a2f78fa981abac211"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/check_viewer_logic.js",
+      "size_bytes": 7640,
+      "sha256": "2e198da822e608df4ff02ebb1247f67b26f18160420b07c981deb501805deffd"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/generate_dungeon.py",
+      "size_bytes": 16730,
+      "sha256": "c570ac0ae09752fd0e143eb4ce78c5b6df0113b5cdd85e15a5ba425fce49cdf6"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/rebuild_views.py",
+      "size_bytes": 1266,
+      "sha256": "760f7d1765b7febe1b339b1bc26743d18f0cdc01e80eb7e1eb251ea99c2056be"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/render_atlas.py",
+      "size_bytes": 13684,
+      "sha256": "0f3af9ca5721f844dc7e0326add249beab4640faf78c2146f9238afde3b1c895"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/reproduce_build.py",
+      "size_bytes": 1946,
+      "sha256": "8dabc8bab5f6385dd33bc637ba9664bddaea417da667348a5736da378b4b22b4"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/validate_graph.py",
+      "size_bytes": 21314,
+      "sha256": "3f4b1f0b2356bcd80667a7234c544b053ea8e77b100828b65488c66540ed1448"
+    },
+    {
+      "path": "provenance/d05_tool_baseline/verify_package.py",
+      "size_bytes": 2631,
+      "sha256": "28cddc8442e77f604dbbee239e2283398c6392babdbcde468eaeb32f8b2a1272"
+    },
+    {
+      "path": "provenance/method_reference/CODEX_NEW_DUNGEON_WORK_ORDER.md",
+      "size_bytes": 5359,
+      "sha256": "3ba2d0fcb5e5f594bfe56c271ca7a5ab8b68fffb69f136d8e95e144366435ab2"
+    },
+    {
+      "path": "provenance/method_reference/DUNGEON_MAPPING_STANDARD.md",
+      "size_bytes": 77769,
+      "sha256": "6c846ea2a7e42cca396c6f28f84005699fd873f0cb4ec334581831180d3d786b"
+    },
+    {
+      "path": "provenance/method_reference/INTEGRATION_FOR_CODEX.md",
+      "size_bytes": 2638,
+      "sha256": "2814058cf0023d5dfdc2cf7e7dc15704a37a6725d9e0bd517bdc509d8c90b214"
+    },
+    {
+      "path": "provenance/method_reference/MANIFEST.json",
+      "size_bytes": 11608,
+      "sha256": "33159dc1374f76702445d1ded93001405ba57f8a73a2c74b908a30cec0061565"
+    },
+    {
+      "path": "provenance/method_reference/README.md",
+      "size_bytes": 2222,
+      "sha256": "6c9bfe9d48374cb99ec0a586579139fa658c401d5771d7cf89025d56595fe0f2"
+    },
+    {
+      "path": "provenance/method_reference/provenance/SOURCE_ARCHIVE_AUDIT.json",
+      "size_bytes": 1867,
+      "sha256": "3c47062c832b9e15b8e3a4ec82966e72346ed8b350ef2fb0dd8a423dadbdae88"
+    },
+    {
+      "path": "provenance/method_reference/provenance/SOURCE_AUDIT.md",
+      "size_bytes": 3385,
+      "sha256": "acea451145e2fc2b131b8e6af59b3ba15854c8ba436b20fed6f44e4d599b2b0a"
+    },
+    {
+      "path": "provenance/method_reference/provenance/SOURCE_REGISTER.json",
+      "size_bytes": 10838,
+      "sha256": "4527081e36de4e451c642f9df43b32c19a6141c61f7fcf68dba329b796eca5ac"
+    },
+    {
+      "path": "provenance/method_reference/provenance/checkpoint004_CHECKPOINT_004_ADDENDUM.json",
+      "size_bytes": 459,
+      "sha256": "8a2ef8103298300b932b8e05d3f5e3d1a630e95464be44565b65c7e6326b08f6"
+    },
+    {
+      "path": "provenance/method_reference/provenance/checkpoint004_INTEGRATION_DUNGEON_002.md",
+      "size_bytes": 3592,
+      "sha256": "a492013fbc50e0661061bd72ec6681df8c75ddfe8a547dab2048ea4986740295"
+    },
+    {
+      "path": "provenance/method_reference/provenance/checkpoint004_INTEGRATION_ENVIRONMENT_003.md",
+      "size_bytes": 639,
+      "sha256": "57a7d3e8b09ce65a25a8f59fbd521e0bcb4361613ce3420fbc42cc6c8402e737"
+    },
+    {
+      "path": "provenance/method_reference/provenance/checkpoint004_INTEGRATION_FIRST_TRIAL_004.md",
+      "size_bytes": 587,
+      "sha256": "44ef68946ae0946023f36d8560f36723e340bc782a66bfde4e77fb31e8ae55db"
+    },
+    {
+      "path": "provenance/method_reference/provenance/checkpoint004_MANIFEST.json",
+      "size_bytes": 14259,
+      "sha256": "faf2baab1b96959a95d56c9ac23a1d7f5bf528d454c70544a00d3952aabdedde"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/AUTHOR_DECISIONS_AND_SCOPE.md",
+      "size_bytes": 4843,
+      "sha256": "445d73bd76cf3204d9086d40327ada9b6ae6cb7c1ccee91ebf415c6d46887b96"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/BLUE_CAPITAL_DUNGEON_ATLAS_002.pdf",
+      "size_bytes": 397806,
+      "sha256": "126d94396e3938b38eef46f78fc1980c9a11fe685a6e1cb37a7071f50e525ef7"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/DATA_DICTIONARY.md",
+      "size_bytes": 2643,
+      "sha256": "dab84f33139f3366e4d695399a29e8d61547ddcb3318c0a843e742445bd94bdb"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/DUNGEON_EXPLORER.html",
+      "size_bytes": 497024,
+      "sha256": "17a5760584ba12e50c6841e7da390b9c4c11736a8ef5af0e662766cf4b6cd7a8"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/ENVIRONMENT_COMPANION_003.md",
+      "size_bytes": 4142,
+      "sha256": "c235b0e11e55ad0923b3a53cdef3b98f8ae0ee7eefa72ed6184b1b50d237535a"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/README.md",
+      "size_bytes": 5025,
+      "sha256": "3134c4efee4d6937fa59c4af163b342d4a0f76e394be4e41e5dad0b9a6266d96"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/VALIDATION.json",
+      "size_bytes": 3367,
+      "sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/adjacency.csv",
+      "size_bytes": 9839,
+      "sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/dungeon_graph.graphml",
+      "size_bytes": 303516,
+      "sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/dungeon_graph.json",
+      "size_bytes": 766955,
+      "sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/edges.csv",
+      "size_bytes": 175600,
+      "sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/environment_nodes_003.csv",
+      "size_bytes": 132602,
+      "sha256": "3d81a9ffa1dbb5000e1681ad264819d2aeb483a5993252b1c529f2a639b0b63a"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/environment_passages_003.csv",
+      "size_bytes": 189751,
+      "sha256": "51042b662c69b3c1a0c89b737c8873d4c317e1397d33411a601d3c2eebe27ee3"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/environment_regions_003.csv",
+      "size_bytes": 8754,
+      "sha256": "d83cf28654b18bc1a559f1a0247d62874111f3babdcd465fe520b2a5a0ffc3ca"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/environment_summary_003.json",
+      "size_bytes": 1140,
+      "sha256": "358e5d56b02fd87a0bd02ebb1c98f636fd24f254db055c29843ba24311189f54"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/environment_waterways_003.csv",
+      "size_bytes": 3931,
+      "sha256": "76a61b8ab764e69f83be030436e8ae8e60b2b4357340a2de76e93d39b7fdc879"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/nodes.csv",
+      "size_bytes": 53555,
+      "sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/stratum_connections.csv",
+      "size_bytes": 2342,
+      "sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/data/view_index.csv",
+      "size_bytes": 19548,
+      "sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/maps/01_MASTER_DEPTH_NETWORK.png",
+      "size_bytes": 1094695,
+      "sha256": "96ce8b841ea575546838902ee572ad7e4da325a8404ca55a05039378bc9cca28"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/maps/05_YELLOW_PLAN.png",
+      "size_bytes": 360012,
+      "sha256": "d31818ce2a4a0a1da2f2429416982c4d2270752b6381fcd8eda3a3d084ceab46"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/tools/build_viewer.py",
+      "size_bytes": 14735,
+      "sha256": "f5625729c6c7765cb9e24b2c45a4b46666286cf636664b6e7044a1eabf15c675"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/tools/generate_proposal_002.py",
+      "size_bytes": 13642,
+      "sha256": "d4f42d3b67d90245624beec3fff4bdb4a7dce0b26717bb14defb6e395e2217b5"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/tools/render_atlas.py",
+      "size_bytes": 11713,
+      "sha256": "2951c4209ddb517e388fe345614b58917df07a838c27d41e1c0d1bbac5e7d126"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/tools/requirements.txt",
+      "size_bytes": 32,
+      "sha256": "80dfbfc982ebdf4cee539ef427c75376abb78c2c90546fb63846a35b3241d460"
+    },
+    {
+      "path": "provenance/method_reference/reference/blue_capital/tools/validate_graph.py",
+      "size_bytes": 3900,
+      "sha256": "e50fc59609b430f02f43c840dd54bf295e597d8c4dc32aff35064cc111065b74"
+    },
+    {
+      "path": "provenance/method_reference/reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041.md",
+      "size_bytes": 3854,
+      "sha256": "591f9fb36c71f90797e86208db4570816265e27148f28e422897fe0ebad4641e"
+    },
+    {
+      "path": "provenance/method_reference/reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041_NODES.csv",
+      "size_bytes": 2678,
+      "sha256": "e80542406a243e67eeae32d15862655617fb166843d3ffc8f5916f2edc520a62"
+    },
+    {
+      "path": "provenance/method_reference/requirements-tested.txt",
+      "size_bytes": 105,
+      "sha256": "38823e41e4e54b3cd3b250003fa45d0cb1c9861a3bf4860c1f2449f33bfe0983"
+    },
+    {
+      "path": "provenance/method_reference/templates/BLUE_CAPITAL_PARAMETERS.json",
+      "size_bytes": 2444,
+      "sha256": "b8d26401f9cfcfab11e637fba342ddd2d2b1031a30f9447592c4311ecf145ccd"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_edges.csv",
+      "size_bytes": 197,
+      "sha256": "15f7d1746d540e6b905e35459a8d6906c0a3ec062e0756aead6a368954ed9fa8"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_environment_nodes_003.csv",
+      "size_bytes": 276,
+      "sha256": "192a003e379510fbe0d9ff87a154f7ca6963a8e1cc6a228a2aca422672e7b32c"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_environment_passages_003.csv",
+      "size_bytes": 208,
+      "sha256": "3e5a4c698d29347c30e5f5b9f093bac23ae06173a2902576a1ade34d73e7a11e"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_environment_regions_003.csv",
+      "size_bytes": 91,
+      "sha256": "0b38dee6e01c631825db70c3d8bd92fb809cc1907725be5cfca2d95220897377"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_environment_waterways_003.csv",
+      "size_bytes": 58,
+      "sha256": "1baa5bafc82e9286241d326d880d66cf28a8e7513371130187d39cdb8cce8e31"
+    },
+    {
+      "path": "provenance/method_reference/templates/EMPTY_nodes.csv",
+      "size_bytes": 187,
+      "sha256": "b19ab1019bdac6a926640668e4ae2ca77f0693c4598e5bc4c9b8807e2214ff1f"
+    },
+    {
+      "path": "provenance/method_reference/templates/FIRST_TRIAL_REFERENCE.json",
+      "size_bytes": 553,
+      "sha256": "84b9a3fa8eb7bd1dbbfe02fdccc3dad79a785ddef870d9b738faf3fb67ec6b3a"
+    },
+    {
+      "path": "provenance/method_reference/templates/NEW_DUNGEON_SPEC.json",
+      "size_bytes": 2431,
+      "sha256": "d1cf0bf08e696969af662cba09540aa8ace904418211ac62286ad1e8f670a724"
+    },
+    {
+      "path": "provenance/method_reference/templates/NEW_ROUTE.json",
+      "size_bytes": 366,
+      "sha256": "d4633890ee957dc4a4d5de5fcd7656dd2585a9f1c6920b7c0f06fdf0d2e8cd36"
+    },
+    {
+      "path": "provenance/method_reference/tools/audit_atlas.py",
+      "size_bytes": 8432,
+      "sha256": "826cd16adaa13536b4479ddf4ffbe9a6daeeb38ea939ac09707f652b39eff9ea"
+    },
+    {
+      "path": "provenance/method_reference/tools/reproduce_reference.py",
+      "size_bytes": 3263,
+      "sha256": "59a6215a4bc97d79739f980cd97d420e83c89ffc4bb8223982ae83f264f7f09e"
+    },
+    {
+      "path": "provenance/method_reference/tools/route_report.py",
+      "size_bytes": 7283,
+      "sha256": "bc81764fb783fa65e54c3041915cfca1027f405a969bb8715e6da1ec555ad429"
+    },
+    {
+      "path": "provenance/method_reference/tools/verify_package.py",
+      "size_bytes": 1610,
+      "sha256": "be774f3db7902a1cc4c14ffa95a87491c1fa96cd1f752c7e6d0b664845d21f67"
+    },
+    {
+      "path": "provenance/method_reference/validation/BUILD_SUMMARY.md",
+      "size_bytes": 2289,
+      "sha256": "78a2c1c86e48e8f3ace116ca19add2a65cf0220f5d160a63e0cd39d59b36d1f0"
+    },
+    {
+      "path": "provenance/method_reference/validation/DOCUMENT_LINK_CHECK.json",
+      "size_bytes": 218,
+      "sha256": "897823c02e058e7d6cbff96c606b2bdd3641f35d285c0f8e88373e532c2da10f"
+    },
+    {
+      "path": "provenance/method_reference/validation/FIRST_TRIAL_ROUTE_TEST.json",
+      "size_bytes": 1123,
+      "sha256": "669c008588483bb1eb49b8e8cbfe58d3e7be1a6a5bbf60dde102a79714b46c49"
+    },
+    {
+      "path": "provenance/method_reference/validation/REFERENCE_ATLAS_AUDIT.json",
+      "size_bytes": 1018,
+      "sha256": "58dfe4891fc13a7bb974ac4771ec5699167c24fed210a2f2a5add58ade266c86"
+    },
+    {
+      "path": "provenance/method_reference/validation/REPRODUCTION_REPORT.json",
+      "size_bytes": 6448,
+      "sha256": "feec0d4392e792b0a337825768e3bf9ea68da3bbb55a2ec146ecba89095e6d0b"
+    },
+    {
+      "path": "provenance/method_reference/validation/SOURCE_PRESERVATION.json",
+      "size_bytes": 6424,
+      "sha256": "063dc11dba34066b322ca36a1604a4adba12a10b704b977d70dbdbc47b7704b8"
+    },
+    {
+      "path": "provenance/method_reference/validation/TESTED_ENVIRONMENT.json",
+      "size_bytes": 354,
+      "sha256": "ef620fe63edfeedf9ddd3c048c6f6f8980eeef9dbba6a13cfae9d3869de16864"
+    },
+    {
+      "path": "provenance/method_reference/validation/TOOL_TESTS.json",
+      "size_bytes": 787,
+      "sha256": "9c1f5e62a09d9f331a6bbfe57ca7625af773a05804226439223e122d7de4272e"
+    },
+    {
+      "path": "provenance/source_method.zip",
+      "size_bytes": 2122412,
+      "sha256": "a8e56e2331778e8e5eaaf22afe849f5e10770c566379ef1f283c2890e64e6878"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "size_bytes": 131,
+      "sha256": "72b3f857b4cecab027b434990b7b1a829a797bd46a195e2e11f4d0cbe29534cf"
+    },
+    {
+      "path": "tools/build_atlas_pdf.py",
+      "size_bytes": 9104,
+      "sha256": "32186e1c53f6869678bc286d14f662e9b679fad1226193ced0b31e1b89b89db8"
+    },
+    {
+      "path": "tools/build_viewer.py",
+      "size_bytes": 16736,
+      "sha256": "2c9abe15cc0b2346df9593991958d1e2e4ddc1c24af13f18e394d40109291126"
+    },
+    {
+      "path": "tools/check_structural_route.py",
+      "size_bytes": 2493,
+      "sha256": "9dde403236d0371a25b9dd53f3ae642ab457eeebc40f5db6ce3444b64fd8603d"
+    },
+    {
+      "path": "tools/check_viewer_browser.py",
+      "size_bytes": 5974,
+      "sha256": "382974711c2d3afa0c7ffc7026ea974e2fa624b2e408170a2f78fa981abac211"
+    },
+    {
+      "path": "tools/check_viewer_logic.js",
+      "size_bytes": 7640,
+      "sha256": "2e198da822e608df4ff02ebb1247f67b26f18160420b07c981deb501805deffd"
+    },
+    {
+      "path": "tools/generate_dungeon.py",
+      "size_bytes": 16730,
+      "sha256": "c570ac0ae09752fd0e143eb4ce78c5b6df0113b5cdd85e15a5ba425fce49cdf6"
+    },
+    {
+      "path": "tools/rebuild_views.py",
+      "size_bytes": 1266,
+      "sha256": "760f7d1765b7febe1b339b1bc26743d18f0cdc01e80eb7e1eb251ea99c2056be"
+    },
+    {
+      "path": "tools/render_atlas.py",
+      "size_bytes": 13688,
+      "sha256": "e4f388fc8e8548b56ffa87006532be7328018d4c88e1a79752887d791084c78d"
+    },
+    {
+      "path": "tools/reproduce_build.py",
+      "size_bytes": 1946,
+      "sha256": "8dabc8bab5f6385dd33bc637ba9664bddaea417da667348a5736da378b4b22b4"
+    },
+    {
+      "path": "tools/validate_graph.py",
+      "size_bytes": 21314,
+      "sha256": "5f756970962b9ce170f63aaf5478927b7dc7f05ea71e1db36ed8d40517df2dec"
+    },
+    {
+      "path": "tools/verify_package.py",
+      "size_bytes": 2631,
+      "sha256": "28cddc8442e77f604dbbee239e2283398c6392babdbcde468eaeb32f8b2a1272"
+    },
+    {
+      "path": "validation/D05_BASELINE_REGRESSION.json",
+      "size_bytes": 2303,
+      "sha256": "23f83b6ed7415a7765ea784fcb6e9f25aa6429de983beebd96624a36759f1391"
+    },
+    {
+      "path": "validation/D06_REPRODUCTION.json",
+      "size_bytes": 2223,
+      "sha256": "97c9d4a44910e53fe7eb21c947936057b31df439176be1bd10f1337cc4a49272"
+    },
+    {
+      "path": "validation/INDEPENDENT_AUDIT.json",
+      "size_bytes": 2749,
+      "sha256": "15eb9259375b4e76751778b5f622af6520208c499ce6bdedfffc2f27a9bc4559"
+    },
+    {
+      "path": "validation/INDEPENDENT_SOURCE_REVIEW.json",
+      "size_bytes": 7499,
+      "sha256": "e7c56a3ebd9b6be6080736afd499e85830256f2af1573352fb80dfc1d09c3736"
+    },
+    {
+      "path": "validation/OVERWRITE_GUARD.json",
+      "size_bytes": 278,
+      "sha256": "24fcb56ff62c18844378b925c3d981b18f9c086f43de0bff4b376639432ff549"
+    },
+    {
+      "path": "validation/RENDER_COVERAGE.json",
+      "size_bytes": 52249,
+      "sha256": "df360e8a616e9036a8847097ffc37957eb07e93c33dd99d046ff905b05c92852"
+    },
+    {
+      "path": "validation/SCOPE_STATUS.json",
+      "size_bytes": 3008,
+      "sha256": "7941c978badc1b1d3829509ea10aa6944898cef38bbd2892b412381e687689ad"
+    },
+    {
+      "path": "validation/STRUCTURAL_ROUTE_TEST.json",
+      "size_bytes": 1411,
+      "sha256": "1e00849c9732e12ee60cb9c5770a6c77b3f8203b70a4bfa15ab20492060c255d"
+    },
+    {
+      "path": "validation/TESTED_ENVIRONMENT.json",
+      "size_bytes": 246,
+      "sha256": "4e126f8725f51e8da7e96a8e49e26fb28470dcfb591d4a44463009fe0d497a59"
+    },
+    {
+      "path": "validation/VIEWER_LOGIC_CHECK.json",
+      "size_bytes": 1951,
+      "sha256": "b0b712991106da21d997894573c81bac03fef7bfca29a3dd866b6c4ddc949059"
+    },
+    {
+      "path": "validation/VIEW_REBUILD.json",
+      "size_bytes": 235,
+      "sha256": "e7c92b5fe0fbeae9aceb90c3ae9da358fe48bed68d91a4cd8493894369a906ae"
+    },
+    {
+      "path": "validation/VISUAL_REVIEW.json",
+      "size_bytes": 3378,
+      "sha256": "b4c63a2adf1fc1a41782ea860ee0819fa8b67292eda090a093ddc30241c38e3d"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "generator_refuses_existing_graph": true,
+  "refusal_message": "Refusing to overwrite an existing graph. Choose a new --output directory.",
+  "graph_unchanged": true,
+  "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb"
+}

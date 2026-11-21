@@ -1,0 +1,104 @@
+{
+  "status": "PASS",
+  "validator_version": "D07_METHOD_ALIGNED_INDEPENDENT_001",
+  "dungeon_id": "D07",
+  "revision": "D07_ATLAS_001",
+  "source_graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+  "source_spec_sha256": "8eebf3150821d2c4e32875ea889cd8a484d3550948c6cbe17e55c707f6932b85",
+  "scope": "Structural Phase 2 graph, selected constraints and synchronized exports. No ecological, geological-realism, accessibility, travel-time or narrative-event certification.",
+  "check_count": 64804,
+  "failure_count": 0,
+  "failures": [],
+  "metrics": {
+    "nodes": 461,
+    "edges": 965,
+    "principal_nodes": 362,
+    "terminal_arm_nodes": 99,
+    "terminal_tips": 33,
+    "interstratum_edges": 70,
+    "connected_components": 1,
+    "independent_cycles": 505,
+    "average_degree": 4.187,
+    "maximum_degree": 9,
+    "principal_articulation_points": [],
+    "entrance_degree": 6
+  },
+  "layers": [
+    {
+      "stratum": "Red",
+      "nodes": 39,
+      "principal_nodes": 30,
+      "terminal_nodes": 9,
+      "terminal_branches": 3,
+      "internal_edges": 75,
+      "independent_cycles": 37
+    },
+    {
+      "stratum": "Orange",
+      "nodes": 52,
+      "principal_nodes": 40,
+      "terminal_nodes": 12,
+      "terminal_branches": 4,
+      "internal_edges": 100,
+      "independent_cycles": 49
+    },
+    {
+      "stratum": "Yellow",
+      "nodes": 67,
+      "principal_nodes": 52,
+      "terminal_nodes": 15,
+      "terminal_branches": 5,
+      "internal_edges": 129,
+      "independent_cycles": 63
+    },
+    {
+      "stratum": "Green",
+      "nodes": 82,
+      "principal_nodes": 64,
+      "terminal_nodes": 18,
+      "terminal_branches": 6,
+      "internal_edges": 159,
+      "independent_cycles": 78
+    },
+    {
+      "stratum": "Blue",
+      "nodes": 101,
+      "principal_nodes": 80,
+      "terminal_nodes": 21,
+      "terminal_branches": 7,
+      "internal_edges": 197,
+      "independent_cycles": 97
+    },
+    {
+      "stratum": "Violet",
+      "nodes": 120,
+      "principal_nodes": 96,
+      "terminal_nodes": 24,
+      "terminal_branches": 8,
+      "internal_edges": 235,
+      "independent_cycles": 116
+    }
+  ],
+  "interstratum_link_counts": {
+    "R-O": 10,
+    "O-Y": 12,
+    "Y-G": 14,
+    "G-B": 16,
+    "B-V": 18
+  },
+  "graph_export_sha256": {
+    "adjacency.csv": "168a07dbd5429c1c466858cce5b8e9985283fe7fac13bd044d3fbc9488e38659",
+    "dungeon_graph.graphml": "88c2c278d4baca551aa5b6fd714195bd9a7941fcc98d9440b26e880b2b717218",
+    "dungeon_graph.json": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+    "edges.csv": "22b5b7340a5585083293b6a7e6ade73b163f5dbe8e93daedb3a88528e16d3c37",
+    "nodes.csv": "90034aacf4e8577e76e59bca3f43ea1825fb2a1c5527c16b40fe47069dd6534b",
+    "stratum_connections.csv": "49835d8137be382979dd12d70ad86e66a661d8dd5b85879259b5f7a52fdda8f9",
+    "VALIDATION.json": "ea8ba89b2c43440952bb29ccf71ac76a496565fd8c673d6d1bddec2561ce3820",
+    "view_index.csv": "8bb7a37886cfeaee2cbc77ef93a397332c1c22cb3b7c85a294915458ae86db18"
+  },
+  "pending_later_phases": [
+    "Environmental companion",
+    "Party traversal classifications",
+    "Authored expedition routes and schedules"
+  ]
+}

@@ -1,0 +1,102 @@
+# Blue capital dungeon · stable passages and local oscillations
+
+The capital dungeon’s passages are mapped and physically stable. The stratum-specific periods in the geographic table describe oscillations in the local Genesis field. Conditions can admit crystal growth, vaen or ELDRIS formation without changing the cave passages. Formation, exact phase, quantities and hazard duration remain open. Genesis Mines have separate equilibrium and growth rules. Dungeon-born ELDRIS remain confined to their own strata. Ambient pressure can threaten biological coherence in a secured chamber.
+
+The Yellow cavern experiences unusually concentrated Yellow Genesis Crystal growth and Yellow ELDRIS formation in favorable phases of the local seven-day cycle. The cause remains unknown. Ordinary parties generally avoid it. Commercial groups may enter deliberately for crystals and ELDRIS-derived Dust. Yellow Category A ELDRIS have limited ranged force-bearing projection. Green Category B juggernauts rely on reinforced persistent melee. Blue Category B expressed projections can detonate, burn, shear or produce post-impact effects. These characteristics establish hazards, without fixing encounter counts or yields.
+
+Favorable Blue oscillations can produce rare smooth, rounded or irregular mineral vaen. They vary in size, are translucent to nearly clear with some internal cloudiness, and glow sapphire-blue throughout with no localized emitter. They have no jagged facets. These identity-bearing nodules differ from ordinary Genesis Crystals and from Kaira’s earlier moss-bearing green mineral specimens, of which she kept the smallest, about two inches across. Identity, price and actual yield of any Blue specimens remain OPEN.
+
+[Local depth and oscillation table](../GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md) · [ELDRIS](ELDRIS.md) · [Genesis Mines](GENESIS_MINES.md) · [Yellow cavern evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/09_YELLOW_CAVERN_WORLD_CLOCK_AND_ECONOMY.md)
+
+---
+
+# King’s Tournament · selected host dungeons
+
+The current competition uses local Green qualifiers, three Blue regional races per domain, an eight-race Violet circuit and a separate ninth Violet final. Ordinary dungeon access persists between competitions. The older W043 regional counts below are historical evidence.
+
+[Current tournament rules](../CULTURE/KINGS_TOURNAMENT.md)
+
+---
+
+> **Live Model 009B current authority — 2026-10-22:** Adds separate environmental biological pressure and natural-boundary research without changing dungeon confinement. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+### Biological environmental pressure is a separate hazard
+
+In addition to eldris within discrete strata, **environmental Genesis-field pressure can destabilize biological coherence**, particularly in deeper Green/Blue/Violet conditions. Even a chamber cleared or locally secured against monsters may remain hazardous to unprotected biology. The workshop relates this to Genesis Mines and stratified energetic conditions; no new species, energy basin or exact depth-to-injury law is introduced. **Eldris still cannot cross chromatic strata or escape to the surface** under the existing dungeon confinement rules. Surface conviviality and containment do not make depth safe.
+
+Natural ru’ne/sigil structures may help stabilize prismatic transitions; some might be studied in a Blue stratum. Their formation, exact boundary mechanism and visibility are OPEN. No mandatory visible glyph, universal boundary sigil or new equation replaces the inherited persistent contiguous-stratum model. [The sigil owner](../TECHNOLOGY/SIGIL_ENGINEERING.md) distinguishes natural relationships from physical inscriptions.
+
+Dungeons are natural laboratories as well as resource/combat environments. Institutions/researchers may hire aithren escorts through existing organizations such as vaelum, taking specialists and supplies to protected local study sites. A **multiweek Blue-stratum expedition with three weeks studying one structure** is an illustrative research pattern, not an actual expedition, fixed duration, route or Blue-book placement. [Research logistics](../CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md) and [two helkir functions](../PROFESSIONS/HELKIR.md) govern operational context. Existing particular 17–23-mile working depth, persistent routes, changing resources and staging geography remain unchanged.
+
+Complete supplied evidence: [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/02_NATURAL_RUNE_SIGILS_AND_ENGINEERING.md); [03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/03_DUNGEON_RESEARCH_HELKIR_AND_AITHREN.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
+> **Live Model 008 current authority — 2026-10-21:** Scopes the new depth example to this dungeon and preserves the established containment and persistence rules. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The particular Violet dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
+
+Existing persistent prismatic geometry, contiguous strata, resource/spawn variation and eldris confinement are unchanged: **eldris cannot cross strata or escape into the outer settlement**. The new excavated entrance and surface community do not make the dungeon a temporary domai, a cleared/reset instance or a source of routine surface monster raids.
+
+
+Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md).
+
+---
+
+## Record before Live Model 008 — retained in full
+
+# Dungeons — persistent geographic prisms and contained danger
+
+**Project:** MK163  
+**Status:** ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS  
+**Canonical path:** `WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md`
+
+Dungeons are persistent geographic Genesis-field displacements. A cave, mountain interior or descending subterranean system can act like a prism, separating the local field into discrete ordered chromatic strata. They can extend upward into a mountain or downward into ground; “deeper” does not force every route into a straight vertical shaft.
+
+Their chromatic profiles are contiguous subsequences of Red→Orange→Yellow→Green→Blue→Violet. Orange–Yellow–Green and Green–Blue–Violet are valid examples. Red–Orange–Blue is invalid because it skips Yellow and Green. A full-spectrum dungeon has all six. The finite ordering description D[a,b] is notation for the author's rule, not a new field equation.
+
+Each stratum oscillates. Red is slowest, Violet fastest; the author's roughly eleven-day Red and three-day Violet periods are examples, not universal timers or a fixed intermediate interpolation. Oscillations can form crystals, vaen and eldris. These are possible outputs, not every-output guarantees per cycle. Hunting eldris yields Genesis Dust on destruction; crystals and vaen supply the economy.
+
+An eldris that forms in one dungeon stratum cannot travel into another stratum up or down, nor escape the entrance into the outer settlement. Red stays Red; Yellow stays Yellow. The structure localizes compatible entities; do not project this confinement onto all Wilds-born eldris. Contained danger permits comparatively safe staging settlements outside the dungeon, not safe expeditions within it.
+
+Routes and overall dungeon geometry are persistent and generally mapped; spawn/resource locations change. The dungeon is not “cleared”, destroyed, reset or erased when a team finishes. Source examples include miles/tens of miles vertically and 17-plus-mile depths. Depth is not path length or a universal championship distance. A descent and return can take days or a week depending on route and event.
+
+Dungeons are distinct from temporary domai and single-basin mines. They do not automatically have a domai White core or expire on a domai schedule. Their economic continuity supports staging towns, equipment markets, research, resource harvest and a relaxed outside/professional inside delving culture.
+
+## Author-source evidence
+
+These source passages preserve the author’s actual wording, including dictation variants. Current names and explicit corrections in this record govern interpretation; quoted superseded words are not reactivated as canon.
+
+### W014 — Dungeons as contiguous environmental prisms
+
+> Perfect. I'm trying to think. Dungeons, they should be on the AERA framework, and dungeons are very, very heavily talked about in MK147 repository. The idea is the local environment, whether it be a cave, a mountain, I don't know. Generally, it's a displacement of the genesis field. So the local environment essentially acts as a prism for the genesis field and separates it into the chromatic energy basins. So you will have dungeons, essentially a cave system. They generally are projected down or above the ground. So up into a mountain or down into a ground or the cave. Essentially what you get is a displaced prism effect of the energy basins themselves. So red, orange, yellow, green, blue, or violet as discrete basins. So one dungeon might be orange, yellow, and green. Another one might be green, blue, violet. The idea is you always get a discrete linear prismatic effect. So you'll never get something like red, orange, then blue. You'll only get the next progression. Generally, dungeons are seen in terms of red, orange, yellow, green, blue, and violet as a full prismatic displacement, or some variation of those discrete orderings.
+
+### W015 — Dungeon oscillation, resource regeneration and delving
+
+> Now inside of these dungeons, so to speak, the local domain, the Genesis field oscillates. So the red oscillates very slowly. So you can think of the red as essentially the Genesis field gets an expression of the Genesis energy throughout. Orange oscillates a little bit more frequently, up to the point where violet is essentially oscillating the fastest. So it might take you 11 days to oscillate one oscillation of the red level of the dungeon, and violet might happen every three days, so to speak. Everything else kind of fills in between. What happens when this happens is essentially you'll get Genesis crystal growth, you'll get monster spawns, they'll form Eldris, and you'll get V-A-E-N that form. So generally that's why people go into the dungeons. Either they're hunting the monsters because the monsters collapse into Genesis dust when they're destroyed, they harvest Genesis crystals, and they collect V-A-E-N.
+
+### W017 — Two aithren cultures and dungeon containment
+
+> Now, there's a second. There's two groups of Aethryn culture. MK147 should really talk about the dungeon delving community. The dungeons are really cool because the monsters can't leave their prismatic domains. So an Eldris that forms in the red level of the dungeon can't go up or down. It's blocked by energy. The energy structure just kind of, like, localizes it. A yellow Eldris can't leave the yellow domain of the dungeon. So this means one: monsters can't travel down, but monsters also can't travel up and leave the dungeon. So outside of the dungeons, you generally get a community that forms, kind of a localized miniature city, like a staging area. And these can be large. So this is essentially, you'll get kind of like these— generally the kingdom, the crown, the sovereign, or any government-like structure or organization will generally form cities or regions around these dungeons, mainly because people are traveling to them. So it generates tourism and taxes and income, right? It's a revenue stream, essentially, if you manage the region around the dungeon correctly. So the dungeon delving community is very kind of laid back, but they're professional, but they're protected because the monsters can't get out. So you can get large groups forming and filling that staging area, and it kind of turns into a miniature party area, right? People are always happy. The adventuring community for the dungeons is very fun. Now, the groups that go out and essentially—I call them storm chasers. They're the ones that go after the Genesis storms. These are very serious, right? They're going into the storm. It's life or death, right? They're fighting monsters. They're there to collect Genesis crystals, harvest the Genesis dust from the monsters, and collect VAEN. So once again, the resources—crystals, dust, and VAEN—form under both conditions of Domai and Genesis storms and in the dungeons, but it's a much different environment. The dungeons outside are very relaxed. Inside they're very controlled, right? There's maps of the dungeons. People know, right, how deep they go generally. Everything's kind of mapped. What changes is the monster spawns and the resource formation. Out in the open, right, out in nature, right, is called the Wilds. It's the domain outside of cities and kingdoms. Just the nature in general, the uninhabited domain, is called the Wilds. And out there, right, it's—you don't know what to expect. So the two different Aethryn communities function entirely differently because of this. The dungeon groups are very laid back, kind of, right? It's like a big party until you go into the dungeon. The other groups, I kind of equate them to, like, Tier 1 operators, right? They're locked in. They're going there. They go in, they do their job, and they get out. The dungeon delvers, right, they play hacky sack or something. They play Reyon. They discuss new Genesis builds for different, essentially, shapings. So it's very different communities, and they clash whenever they're together.
+
+### W043 — King’s Tournament: local qualifiers to 28-team final
+
+> So let's make sure our live model is up to date or make sure we're maintaining the live model. Now what we might as well get into is the King's Tournament. So the King's Tournament is basically an event. I don't know if it happens every year or what. We'll just outline the King's Tournament and we'll just decide on when it becomes an event. So the King's Tournament, if you look on the MK147 repository, you'll see, like, everything about it. It has all the rules, how participants behave or engage in it. The idea is anything below a green or above, like, so any dungeon that goes into the depths of green, blue, or violet is essentially part of the King's Tournament. Each regional domain, so violet, orange, green, and blue, have their own brackets for the King's Tournament. So there'll be a number of dungeons throughout each of these regional domains, and as long as they're green, blue, or violet, they're part of the King's Tournament. So the idea is, it's essentially almost like a race. Adventurers or anybody wanting to delve the dungeon goes, and it's essentially to see who can delve the dungeon the fastest, get down to the lowest depths, activate a marker, and then come back up. So this is a big event. Essentially, you have your regional qualifier. So everybody basically wants to participate, goes to their local dungeon that's on the circuit, and they participate in the qualifier. So many people from each of those qualifiers go on to the regional, essentially domain. And I don't know if we do it as a points accumulation or what. The idea is, I think, if we do the top seven. So you have red through violet plus white. So white is first place, violet is second place, all the way down to red is seventh place. So at the end of this points kind of qualifier or points tournament, you'll have seven groups from each of the four domains meet at the violet domain. And basically what it is is there's one dungeon, right? Anybody can go to these places and practice throughout whenever, right outside of the King's Tournament. So the idea is you go to the violet domain for, like, the grand championship, so the grand finals. And these 28 teams compete in a race to go from down into the depths of a violet dungeon. So they have to go through all red, orange, yellow, green, blue, violet, and then back up. And then the winners, right, the top seven, white through red, are awarded prizes, prestige, right? They get all kinds of things. So that's the King's Tournament, and it should be pretty explicitly mapped out on MK147, ignoring the story as it relates to Kira and her participation in it.
+
+### W045 — Book Red finish and tournament festival
+
+> Perfect. So what we can say is, well, we're going to still follow the same ruling, is that Kira essentially places fourth place. So book one, I'm not sure where book one, our red book, is going to end up finishing. I think what we do is we have it end with Kira participating in the king's tournament as an adventurer, so to speak. It's kind of like her first foray into the dungeon delving community. So she finds a team to run with, some friends she makes out on the circuit of just delving for local dungeons, and she ends up placing fourth. So she places green, and as a reward, right at the end of book one, Kira gets this reward, which is a dimensional ring, like a really, really good one. And what that's going to do is it's a fun narrative for the dungeons, that the circuit and the king's tournament is a fun thing. Think of like old school king's tournaments, where they did, like the knights would do jousting, the melee combat. So all that stuff still happens, because honestly once the adventurers go into the dungeons, nobody gets to watch. It's kind of boring. But it's a long process, right? These dungeons are massive structures. We'll go into it. Actually, it should be on the MK147 repository about dungeons, right? They're these big structures. When you're going down into the violet domain, if it's the dungeons that large, right, going red through violet, that might be like 17 miles underground. So you're down in the dungeon for a long time. So the king's tournament, essentially whatever place, whatever dungeon's being held at, essentially is a big event that takes days. So over those days, the people on the outside, they have melee tournaments. We can even do jousting maybe, I don't know. Right? It's almost like a big kind of, right? It's a party almost. It's a celebration, right? Everybody loves the king's tournament. It's fun, right? Good food, good alcohol, there's magic, right? It's a reason to get together as a community and just celebrate civilization, I guess. I don't know. We'll have fun with it. But from the perspective of watching the races, there's really not much to watch, right? They disappear into the dungeon. They're down there for days or days, maybe a week, and then they come back up. But during that time, you have everything else happening around the staging area for that dungeon, so it becomes kind of like a big festival.
+
+## Source ownership and references
+
+- AERA `L2/ENVIRONMENT/03_DUNGEONS.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/ENVIRONMENT/03_DUNGEONS.md
+- MK147 `live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md — historical worldbuilding, not MK163 plot authority.
+- PROVENANCE/SOURCE_DOCUMENTS/ORIGINALS/MASTER(1).pdf

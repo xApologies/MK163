@@ -1,0 +1,27 @@
+{
+  "route_id": "VIOLET_FIRST_VAELUM_TRIAL_R001_B041",
+  "status": "AUTHOR_LOCKED_ITINERARY",
+  "geography_ref": "DUNGEON_ATLAS_002",
+  "environment_ref": "DUNGEON_ENVIRONMENT_003",
+  "purpose": "training",
+  "outbound_nodes": [
+    "R001",
+    "R018",
+    "R023",
+    "R025",
+    "O031",
+    "O039",
+    "O042",
+    "Y036",
+    "Y055",
+    "G038",
+    "G067",
+    "B041"
+  ],
+  "return_policy": "REVERSE_OUTBOUND",
+  "marker_node": "B041",
+  "official_tournament_marker": false,
+  "departure_day": null,
+  "duration_days": null,
+  "encounters": null
+}

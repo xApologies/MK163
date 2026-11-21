@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "scope": "Run the D07 delivery generator against preserved D06 configuration and compare all eight authoritative exports. Source D06 atlas unchanged.",
+  "graph_files_compared": 8,
+  "comparisons": [
+    {
+      "file": "VALIDATION.json",
+      "byte_identical": true,
+      "expected_sha256": "b285a2f10b7ded409136f03a3248bf5c9de719babf4e6a0af35c2b232a9e2ffe",
+      "actual_sha256": "b285a2f10b7ded409136f03a3248bf5c9de719babf4e6a0af35c2b232a9e2ffe"
+    },
+    {
+      "file": "adjacency.csv",
+      "byte_identical": true,
+      "expected_sha256": "e635e11f213a1d0d59d86f0f9279345ff00d62e0a83a8cd2cd7dfe504ee301cc",
+      "actual_sha256": "e635e11f213a1d0d59d86f0f9279345ff00d62e0a83a8cd2cd7dfe504ee301cc"
+    },
+    {
+      "file": "dungeon_graph.graphml",
+      "byte_identical": true,
+      "expected_sha256": "d5328cb3841406cfca2a003008a0d638967e2e5fc051ac5d752583d10e03d943",
+      "actual_sha256": "d5328cb3841406cfca2a003008a0d638967e2e5fc051ac5d752583d10e03d943"
+    },
+    {
+      "file": "dungeon_graph.json",
+      "byte_identical": true,
+      "expected_sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405",
+      "actual_sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405"
+    },
+    {
+      "file": "edges.csv",
+      "byte_identical": true,
+      "expected_sha256": "bab9b4e5330dcfe33ec1c0a083c144396bef2a13b846f75f45d01624e72b2783",
+      "actual_sha256": "bab9b4e5330dcfe33ec1c0a083c144396bef2a13b846f75f45d01624e72b2783"
+    },
+    {
+      "file": "nodes.csv",
+      "byte_identical": true,
+      "expected_sha256": "fd50d187417b476049b01c6b5488a4bcc2c8f93572cbc287fea71267a3bf45dc",
+      "actual_sha256": "fd50d187417b476049b01c6b5488a4bcc2c8f93572cbc287fea71267a3bf45dc"
+    },
+    {
+      "file": "stratum_connections.csv",
+      "byte_identical": true,
+      "expected_sha256": "1b87d84d5a695b2bd29a2847b403128aba78695a949440a1b36b541737e3e4f3",
+      "actual_sha256": "1b87d84d5a695b2bd29a2847b403128aba78695a949440a1b36b541737e3e4f3"
+    },
+    {
+      "file": "view_index.csv",
+      "byte_identical": true,
+      "expected_sha256": "cec5a8615126e401dbf68df648619ca6371e12db62f3fc923b38a815e1d3ea37",
+      "actual_sha256": "cec5a8615126e401dbf68df648619ca6371e12db62f3fc923b38a815e1d3ea37"
+    }
+  ]
+}

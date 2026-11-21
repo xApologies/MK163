@@ -1,0 +1,73 @@
+{
+  "files": {
+    "LEDGER/WHITE_ARC_DAILY_LEDGER_1346_1637.csv": {
+      "bytes": 19457,
+      "sha256": "d659055f12fafe225eeffde2648ee8e4c7d47456d8ca393c0fa479cce28bb989"
+    },
+    "LEDGER/WHITE_ARC_DAILY_LEDGER_1346_1637.md": {
+      "bytes": 22881,
+      "sha256": "b5bebd886a0cc59022915e29cc7430e305fd10fd2d54593c0d1b6ddfc67a5b19"
+    },
+    "ROUTES/b03_qualifier.md": {
+      "bytes": 864,
+      "sha256": "270002a40f9b2c8ae2a79ea91adeba011cd5762805ee3272b4e1595684275e71"
+    },
+    "ROUTES/b02_stage_two.md": {
+      "bytes": 774,
+      "sha256": "5108a905cef7c2c3e342050ca0f2ac61e16e7886d6a33e9b0a6e33a5abbf3f0e"
+    },
+    "ROUTES/blue_domain_v2.md": {
+      "bytes": 790,
+      "sha256": "822ddb5ccd338a3561010e435f4bb2a07547abf53cf9d075650c9cce4c312e8e"
+    },
+    "ROUTES/blue_domain_v1.md": {
+      "bytes": 825,
+      "sha256": "41ec0f95d281eb353a4e01ed48386e4f9dee39936ef9cce51eceaee9f947cfee"
+    },
+    "ROUTES/green_domain_v2.md": {
+      "bytes": 796,
+      "sha256": "196c54a68bd645f6c15b2b088f876a832292d63f7303931175a63b846feb7f0f"
+    },
+    "ROUTES/green_domain_v1.md": {
+      "bytes": 836,
+      "sha256": "8cd743c2b3963f345a83aa9ed73e0fb376b1fab7effc8ba4ef77a66793bc59c6"
+    },
+    "ROUTES/violet_domain_v1.md": {
+      "bytes": 787,
+      "sha256": "55d60b2973d6902c84773d2b275de5ee016cd8f319083c7442b7e479220818bf"
+    },
+    "ROUTES/violet_domain_v2_royal_final.md": {
+      "bytes": 829,
+      "sha256": "3c420f380afed2c0e71d0c1d04369fb64adc3388a0002e36056ebb2490d34fc0"
+    },
+    "CANON/RACE_CHRONOMETERS_AND_STANDINGS.md": {
+      "bytes": 1396,
+      "sha256": "2cda4ac8ed76f16349f65e626857cb85299ad1f516f8fe157695157e73da1f3a"
+    },
+    "CANON/BOOK_RED_ENDING.md": {
+      "bytes": 792,
+      "sha256": "003378631ef4ea1540082683734b5f62125721c782854a7e8af794af1f56e3c3"
+    },
+    "README.md": {
+      "bytes": 1097,
+      "sha256": "9d972fc130c14d5a3074cd6103ed0afd313829b60e8cd8decadd7113cd51e35f"
+    },
+    "CODEX_INTEGRATION.md": {
+      "bytes": 1467,
+      "sha256": "20bba6b27016f5d8644787cd6d9137cc176ffe604da58704cb3e5a3a961c3f01"
+    },
+    "PROVENANCE/OPEN_ISSUES.md": {
+      "bytes": 974,
+      "sha256": "76a925593ae889e75ef11133d7f14b413fb0fcbc319c96acf824535e57275553"
+    },
+    "REFERENCES/MK163_WHITE_ARC_005_CUMULATIVE_CODEX_HANDOFF.zip": {
+      "bytes": 12608344,
+      "sha256": "2d1cdb88b7bb2cede81addbe0c9add67847b16e52467e4a93439301e22fa2480"
+    },
+    "REFERENCES/Dungeon Locations.PNG": {
+      "bytes": 1303780,
+      "sha256": "037644e329a31034f333bbd6bd9fe54ca67c52954a60cdc143d874a03538b290"
+    }
+  },
+  "status": "white outline complete; violet files referenced for Codex fetch, not embedded"
+}

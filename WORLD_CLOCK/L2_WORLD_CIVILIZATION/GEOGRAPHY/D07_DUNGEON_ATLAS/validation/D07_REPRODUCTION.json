@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "scope": "Frozen initial build reproduction, not a live atlas update.",
+  "graph_files_compared": 8,
+  "comparisons": [
+    {
+      "file": "dungeon_graph.json",
+      "byte_identical": true,
+      "expected_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "actual_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb"
+    },
+    {
+      "file": "nodes.csv",
+      "byte_identical": true,
+      "expected_sha256": "90034aacf4e8577e76e59bca3f43ea1825fb2a1c5527c16b40fe47069dd6534b",
+      "actual_sha256": "90034aacf4e8577e76e59bca3f43ea1825fb2a1c5527c16b40fe47069dd6534b"
+    },
+    {
+      "file": "edges.csv",
+      "byte_identical": true,
+      "expected_sha256": "22b5b7340a5585083293b6a7e6ade73b163f5dbe8e93daedb3a88528e16d3c37",
+      "actual_sha256": "22b5b7340a5585083293b6a7e6ade73b163f5dbe8e93daedb3a88528e16d3c37"
+    },
+    {
+      "file": "adjacency.csv",
+      "byte_identical": true,
+      "expected_sha256": "168a07dbd5429c1c466858cce5b8e9985283fe7fac13bd044d3fbc9488e38659",
+      "actual_sha256": "168a07dbd5429c1c466858cce5b8e9985283fe7fac13bd044d3fbc9488e38659"
+    },
+    {
+      "file": "view_index.csv",
+      "byte_identical": true,
+      "expected_sha256": "8bb7a37886cfeaee2cbc77ef93a397332c1c22cb3b7c85a294915458ae86db18",
+      "actual_sha256": "8bb7a37886cfeaee2cbc77ef93a397332c1c22cb3b7c85a294915458ae86db18"
+    },
+    {
+      "file": "stratum_connections.csv",
+      "byte_identical": true,
+      "expected_sha256": "49835d8137be382979dd12d70ad86e66a661d8dd5b85879259b5f7a52fdda8f9",
+      "actual_sha256": "49835d8137be382979dd12d70ad86e66a661d8dd5b85879259b5f7a52fdda8f9"
+    },
+    {
+      "file": "dungeon_graph.graphml",
+      "byte_identical": true,
+      "expected_sha256": "88c2c278d4baca551aa5b6fd714195bd9a7941fcc98d9440b26e880b2b717218",
+      "actual_sha256": "88c2c278d4baca551aa5b6fd714195bd9a7941fcc98d9440b26e880b2b717218"
+    },
+    {
+      "file": "VALIDATION.json",
+      "byte_identical": true,
+      "expected_sha256": "ea8ba89b2c43440952bb29ccf71ac76a496565fd8c673d6d1bddec2561ce3820",
+      "actual_sha256": "ea8ba89b2c43440952bb29ccf71ac76a496565fd8c673d6d1bddec2561ce3820"
+    }
+  ]
+}

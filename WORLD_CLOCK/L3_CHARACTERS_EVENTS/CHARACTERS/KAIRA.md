@@ -1,3 +1,9 @@
+# White 006 · Book Red ending state
+
+At the Day 1637 outlined ending, Kaira retains her own Genesis Robe, the CSR Card made during 1358–1361 and her newly awarded White-ranked dimensional ring. Her seven-person vaelum places Green/fourth in the independent royal final. The King has received his robe on 1614. No formal rank promotion, automatic mastery, earlier Kaira ring or lifetime count for the Day 1369 White raeon result is inferred. Her original Village Hub is now assigned Green Domain G3 by explicit author correction. [Full White chronology](../../../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) · [Author decisions](../../../PROVENANCE/WORKSHOP/WHITE_006/AUTHOR_DECISIONS.md).
+
+---
+
 # Kaira entering Semester III · Day 452
 
 The Day 391 trip adds the Yellow and Green MK-173 volumes to Kaira’s reading after Red and Orange. Blue, Violet and White remain outstanding. Her two personal robe commissions have now reached their recipients. She wears her original Day 171 Genesis-altered robe at the closing feast. Royal recognition on 451 makes her semi-famous on campus as the robe’s inventor and the public face of the movement. The Black Prophecy remains private. Semester III opens on 452.

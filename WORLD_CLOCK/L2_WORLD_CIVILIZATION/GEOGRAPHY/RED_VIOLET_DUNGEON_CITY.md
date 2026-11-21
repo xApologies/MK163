@@ -1,3 +1,9 @@
+# White 006 — current political-domain scope
+
+The kingdom has three political domains: Green, Blue and Violet. Orange remains a rank, district and stratum designation. Earlier four-domain language below is historical in this scope; its original record remains verbatim. Current residence distinctions and the Village Hub correction are governed by [WORLD_MAP_REFERENCE.md](WORLD_MAP_REFERENCE.md). No local city map geometry or event chronology changes.
+
+---
+
 # OR-01 — Violet Dungeon staging settlement: geography, zoning and access
 
 **Orange arc of Book Red · 2026-11-08.** ## Identity and geometry

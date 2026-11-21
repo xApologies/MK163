@@ -1,0 +1,23 @@
+{
+  "python_source_parse": "PASS",
+  "original_validator_returncode": 0,
+  "original_validator_result": {
+    "status": "PASS",
+    "nodes": 340,
+    "edges": 709,
+    "independent_cycles": 370,
+    "terminal_tips": 32,
+    "failures": []
+  },
+  "route_missing_edge_rejected": true,
+  "rejected_route_created_output": false,
+  "route_rejection_message": "Route report failed: No actual passage connects R001 to B100.",
+  "generated_viewer_embeds_identical_graph": true,
+  "rendered_outputs": {
+    "png": 8,
+    "svg": 8,
+    "pdf": 9
+  },
+  "visual_review": "Regenerated Yellow top-down PNG inspected for label/axis/legend readability. Not a guarantee of zero overlaps in all views.",
+  "browser_interaction_test": "Not performed; embedded data and successful viewer build verified."
+}

@@ -1,3 +1,13 @@
+# Current White outline · Book Red closes Day 1637
+
+White 006 completes the **Book Red outline through Day 1637**. The seven-person vaelum finishes Green/fourth in the independent royal final; each receives a White-ranked dimensional ring. Six CSR Cards are made on 1358–1361, distributed 1364. The King’s robe is delivered 1614 and worn at the final ceremony. Violet’s Day 1346 closure, all 23 arc files and every earlier running-ledger row remain unchanged. No completed prose or epilogue is implied.
+
+Read the [White owner](../../BOOKS/RED/ARCS/ARC_007/ARC.md), [scoped supersessions](../../CHECKPOINTS/WHITE_006/REVERSE_DIFF.md), and [source gaps](../../CHECKPOINTS/WHITE_006/OMISSIONS.md). Three political domains, two Blue domain races and five Violet circuit races replace the older format. Green V2’s departure lottery remains provisional. Earlier frontier statements below retain only their historical scope.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # Book Red · Blue closes on Day 1080
 
 Green closes at graduation on Day 786. In the Blue capital Kaira’s robe business supports her independent household and Cardsmithing. Her first three contracts cover research, Blue mineral-vaen recovery and a failed Yellow cavern harvest. She earns Green on Day 905 and retains it through the third expedition’s Day 1049 closeout. Kaira collects the Yellow-harvest payment on 1054 and volunteers for the Green cave-in rescue. At dinner after the rescue’s Day 1080 closeout she accepts the six rescuers’ invitation to join their vaelum. Violet opens on Day 1081 with the seven training for the King’s Tournament.

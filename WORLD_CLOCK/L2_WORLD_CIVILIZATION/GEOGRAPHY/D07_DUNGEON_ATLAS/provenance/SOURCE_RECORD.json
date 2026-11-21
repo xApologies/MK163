@@ -1,0 +1,30 @@
+{
+  "record_type": "source_provenance",
+  "construction_source": "Validated configured D06 generator, retaining the D03/corrected D02 construction algorithms and original D01 mapping method.",
+  "source_D06_archive_name": "MK163_D06_ATLAS_001.zip",
+  "source_D06_library_file_id": "libfile_0a12f8bcfc3c8191b01bac61cf0f7188",
+  "source_D06_archive_sha256": "ac9f90ae23fe08bed32fc51689a51e08af083c69300086e225e58256fc945b0a",
+  "source_D06_payload_files_verified": 143,
+  "source_D06_graph_sha256": "dad6e6860e56ff9ffd64875a1b7fb17a7f8c9b0b6ebbfa98f3a1e4d8b456c405",
+  "original_method_archive_sha256": "a8e56e2331778e8e5eaaf22afe849f5e10770c566379ef1f283c2890e64e6878",
+  "original_D01_graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+  "generation_algorithm_changed": false,
+  "generator_change": "None. D07 uses the exact D06 generator and generation parameters with its own frozen specification and seed.",
+  "package_scope": "D07 atlas plus immutable shared method and immediate tool provenance. Does not nest earlier full atlas archives.",
+  "source_graphs_modified": false,
+  "repository_accessed": false,
+  "repository_updated": false,
+  "tool_baseline_hashes": {
+    "build_atlas_pdf.py": "32186e1c53f6869678bc286d14f662e9b679fad1226193ced0b31e1b89b89db8",
+    "build_viewer.py": "2c9abe15cc0b2346df9593991958d1e2e4ddc1c24af13f18e394d40109291126",
+    "check_structural_route.py": "9dde403236d0371a25b9dd53f3ae642ab457eeebc40f5db6ce3444b64fd8603d",
+    "check_viewer_browser.py": "382974711c2d3afa0c7ffc7026ea974e2fa624b2e408170a2f78fa981abac211",
+    "check_viewer_logic.js": "2e198da822e608df4ff02ebb1247f67b26f18160420b07c981deb501805deffd",
+    "generate_dungeon.py": "c570ac0ae09752fd0e143eb4ce78c5b6df0113b5cdd85e15a5ba425fce49cdf6",
+    "rebuild_views.py": "760f7d1765b7febe1b339b1bc26743d18f0cdc01e80eb7e1eb251ea99c2056be",
+    "render_atlas.py": "e4f388fc8e8548b56ffa87006532be7328018d4c88e1a79752887d791084c78d",
+    "reproduce_build.py": "8dabc8bab5f6385dd33bc637ba9664bddaea417da667348a5736da378b4b22b4",
+    "validate_graph.py": "5f756970962b9ce170f63aaf5478927b7dc7f05ea71e1db36ed8d40517df2dec",
+    "verify_package.py": "28cddc8442e77f604dbbee239e2283398c6392babdbcde468eaeb32f8b2a1272"
+  }
+}

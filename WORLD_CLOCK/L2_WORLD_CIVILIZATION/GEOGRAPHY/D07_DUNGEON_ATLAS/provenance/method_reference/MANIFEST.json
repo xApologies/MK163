@@ -1,0 +1,328 @@
+{
+  "package": "MK163 Dungeon Mapping Method 001",
+  "date": "2026-11-17",
+  "scope": "Standalone exhaustive method manual plus preserved reference implementation, templates and audit/route tools. Not a replacement cumulative atlas.",
+  "source_archive": "MK163_Violet_Cumulative_004_First_Trial_R001_B041.zip",
+  "main_document": "DUNGEON_MAPPING_STANDARD.md",
+  "main_document_words": 11093,
+  "manual_numbered_sections": 32,
+  "payload_file_count": 63,
+  "manifest_policy": "All payload files listed. MANIFEST.json is excluded from its own hash inventory.",
+  "files": [
+    {
+      "path": "CODEX_NEW_DUNGEON_WORK_ORDER.md",
+      "bytes": 5359,
+      "sha256": "3ba2d0fcb5e5f594bfe56c271ca7a5ab8b68fffb69f136d8e95e144366435ab2"
+    },
+    {
+      "path": "DUNGEON_MAPPING_STANDARD.md",
+      "bytes": 77769,
+      "sha256": "6c846ea2a7e42cca396c6f28f84005699fd873f0cb4ec334581831180d3d786b"
+    },
+    {
+      "path": "INTEGRATION_FOR_CODEX.md",
+      "bytes": 2638,
+      "sha256": "2814058cf0023d5dfdc2cf7e7dc15704a37a6725d9e0bd517bdc509d8c90b214"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2222,
+      "sha256": "6c9bfe9d48374cb99ec0a586579139fa658c401d5771d7cf89025d56595fe0f2"
+    },
+    {
+      "path": "provenance/SOURCE_ARCHIVE_AUDIT.json",
+      "bytes": 1867,
+      "sha256": "3c47062c832b9e15b8e3a4ec82966e72346ed8b350ef2fb0dd8a423dadbdae88"
+    },
+    {
+      "path": "provenance/SOURCE_AUDIT.md",
+      "bytes": 3385,
+      "sha256": "acea451145e2fc2b131b8e6af59b3ba15854c8ba436b20fed6f44e4d599b2b0a"
+    },
+    {
+      "path": "provenance/SOURCE_REGISTER.json",
+      "bytes": 10838,
+      "sha256": "4527081e36de4e451c642f9df43b32c19a6141c61f7fcf68dba329b796eca5ac"
+    },
+    {
+      "path": "provenance/checkpoint004_CHECKPOINT_004_ADDENDUM.json",
+      "bytes": 459,
+      "sha256": "8a2ef8103298300b932b8e05d3f5e3d1a630e95464be44565b65c7e6326b08f6"
+    },
+    {
+      "path": "provenance/checkpoint004_INTEGRATION_DUNGEON_002.md",
+      "bytes": 3592,
+      "sha256": "a492013fbc50e0661061bd72ec6681df8c75ddfe8a547dab2048ea4986740295"
+    },
+    {
+      "path": "provenance/checkpoint004_INTEGRATION_ENVIRONMENT_003.md",
+      "bytes": 639,
+      "sha256": "57a7d3e8b09ce65a25a8f59fbd521e0bcb4361613ce3420fbc42cc6c8402e737"
+    },
+    {
+      "path": "provenance/checkpoint004_INTEGRATION_FIRST_TRIAL_004.md",
+      "bytes": 587,
+      "sha256": "44ef68946ae0946023f36d8560f36723e340bc782a66bfde4e77fb31e8ae55db"
+    },
+    {
+      "path": "provenance/checkpoint004_MANIFEST.json",
+      "bytes": 14259,
+      "sha256": "faf2baab1b96959a95d56c9ac23a1d7f5bf528d454c70544a00d3952aabdedde"
+    },
+    {
+      "path": "reference/blue_capital/AUTHOR_DECISIONS_AND_SCOPE.md",
+      "bytes": 4843,
+      "sha256": "445d73bd76cf3204d9086d40327ada9b6ae6cb7c1ccee91ebf415c6d46887b96"
+    },
+    {
+      "path": "reference/blue_capital/BLUE_CAPITAL_DUNGEON_ATLAS_002.pdf",
+      "bytes": 397806,
+      "sha256": "126d94396e3938b38eef46f78fc1980c9a11fe685a6e1cb37a7071f50e525ef7"
+    },
+    {
+      "path": "reference/blue_capital/DATA_DICTIONARY.md",
+      "bytes": 2643,
+      "sha256": "dab84f33139f3366e4d695399a29e8d61547ddcb3318c0a843e742445bd94bdb"
+    },
+    {
+      "path": "reference/blue_capital/DUNGEON_EXPLORER.html",
+      "bytes": 497024,
+      "sha256": "17a5760584ba12e50c6841e7da390b9c4c11736a8ef5af0e662766cf4b6cd7a8"
+    },
+    {
+      "path": "reference/blue_capital/ENVIRONMENT_COMPANION_003.md",
+      "bytes": 4142,
+      "sha256": "c235b0e11e55ad0923b3a53cdef3b98f8ae0ee7eefa72ed6184b1b50d237535a"
+    },
+    {
+      "path": "reference/blue_capital/README.md",
+      "bytes": 5025,
+      "sha256": "3134c4efee4d6937fa59c4af163b342d4a0f76e394be4e41e5dad0b9a6266d96"
+    },
+    {
+      "path": "reference/blue_capital/data/VALIDATION.json",
+      "bytes": 3367,
+      "sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa"
+    },
+    {
+      "path": "reference/blue_capital/data/adjacency.csv",
+      "bytes": 9839,
+      "sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d"
+    },
+    {
+      "path": "reference/blue_capital/data/dungeon_graph.graphml",
+      "bytes": 303516,
+      "sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42"
+    },
+    {
+      "path": "reference/blue_capital/data/dungeon_graph.json",
+      "bytes": 766955,
+      "sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2"
+    },
+    {
+      "path": "reference/blue_capital/data/edges.csv",
+      "bytes": 175600,
+      "sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100"
+    },
+    {
+      "path": "reference/blue_capital/data/environment_nodes_003.csv",
+      "bytes": 132602,
+      "sha256": "3d81a9ffa1dbb5000e1681ad264819d2aeb483a5993252b1c529f2a639b0b63a"
+    },
+    {
+      "path": "reference/blue_capital/data/environment_passages_003.csv",
+      "bytes": 189751,
+      "sha256": "51042b662c69b3c1a0c89b737c8873d4c317e1397d33411a601d3c2eebe27ee3"
+    },
+    {
+      "path": "reference/blue_capital/data/environment_regions_003.csv",
+      "bytes": 8754,
+      "sha256": "d83cf28654b18bc1a559f1a0247d62874111f3babdcd465fe520b2a5a0ffc3ca"
+    },
+    {
+      "path": "reference/blue_capital/data/environment_summary_003.json",
+      "bytes": 1140,
+      "sha256": "358e5d56b02fd87a0bd02ebb1c98f636fd24f254db055c29843ba24311189f54"
+    },
+    {
+      "path": "reference/blue_capital/data/environment_waterways_003.csv",
+      "bytes": 3931,
+      "sha256": "76a61b8ab764e69f83be030436e8ae8e60b2b4357340a2de76e93d39b7fdc879"
+    },
+    {
+      "path": "reference/blue_capital/data/nodes.csv",
+      "bytes": 53555,
+      "sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2"
+    },
+    {
+      "path": "reference/blue_capital/data/stratum_connections.csv",
+      "bytes": 2342,
+      "sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e"
+    },
+    {
+      "path": "reference/blue_capital/data/view_index.csv",
+      "bytes": 19548,
+      "sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107"
+    },
+    {
+      "path": "reference/blue_capital/maps/01_MASTER_DEPTH_NETWORK.png",
+      "bytes": 1094695,
+      "sha256": "96ce8b841ea575546838902ee572ad7e4da325a8404ca55a05039378bc9cca28"
+    },
+    {
+      "path": "reference/blue_capital/maps/05_YELLOW_PLAN.png",
+      "bytes": 360012,
+      "sha256": "d31818ce2a4a0a1da2f2429416982c4d2270752b6381fcd8eda3a3d084ceab46"
+    },
+    {
+      "path": "reference/blue_capital/tools/build_viewer.py",
+      "bytes": 14735,
+      "sha256": "f5625729c6c7765cb9e24b2c45a4b46666286cf636664b6e7044a1eabf15c675"
+    },
+    {
+      "path": "reference/blue_capital/tools/generate_proposal_002.py",
+      "bytes": 13642,
+      "sha256": "d4f42d3b67d90245624beec3fff4bdb4a7dce0b26717bb14defb6e395e2217b5"
+    },
+    {
+      "path": "reference/blue_capital/tools/render_atlas.py",
+      "bytes": 11713,
+      "sha256": "2951c4209ddb517e388fe345614b58917df07a838c27d41e1c0d1bbac5e7d126"
+    },
+    {
+      "path": "reference/blue_capital/tools/requirements.txt",
+      "bytes": 32,
+      "sha256": "80dfbfc982ebdf4cee539ef427c75376abb78c2c90546fb63846a35b3241d460"
+    },
+    {
+      "path": "reference/blue_capital/tools/validate_graph.py",
+      "bytes": 3900,
+      "sha256": "e50fc59609b430f02f43c840dd54bf295e597d8c4dc32aff35064cc111065b74"
+    },
+    {
+      "path": "reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041.md",
+      "bytes": 3854,
+      "sha256": "591f9fb36c71f90797e86208db4570816265e27148f28e422897fe0ebad4641e"
+    },
+    {
+      "path": "reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041_NODES.csv",
+      "bytes": 2678,
+      "sha256": "e80542406a243e67eeae32d15862655617fb166843d3ffc8f5916f2edc520a62"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "bytes": 105,
+      "sha256": "38823e41e4e54b3cd3b250003fa45d0cb1c9861a3bf4860c1f2449f33bfe0983"
+    },
+    {
+      "path": "templates/BLUE_CAPITAL_PARAMETERS.json",
+      "bytes": 2444,
+      "sha256": "b8d26401f9cfcfab11e637fba342ddd2d2b1031a30f9447592c4311ecf145ccd"
+    },
+    {
+      "path": "templates/EMPTY_edges.csv",
+      "bytes": 197,
+      "sha256": "15f7d1746d540e6b905e35459a8d6906c0a3ec062e0756aead6a368954ed9fa8"
+    },
+    {
+      "path": "templates/EMPTY_environment_nodes_003.csv",
+      "bytes": 276,
+      "sha256": "192a003e379510fbe0d9ff87a154f7ca6963a8e1cc6a228a2aca422672e7b32c"
+    },
+    {
+      "path": "templates/EMPTY_environment_passages_003.csv",
+      "bytes": 208,
+      "sha256": "3e5a4c698d29347c30e5f5b9f093bac23ae06173a2902576a1ade34d73e7a11e"
+    },
+    {
+      "path": "templates/EMPTY_environment_regions_003.csv",
+      "bytes": 91,
+      "sha256": "0b38dee6e01c631825db70c3d8bd92fb809cc1907725be5cfca2d95220897377"
+    },
+    {
+      "path": "templates/EMPTY_environment_waterways_003.csv",
+      "bytes": 58,
+      "sha256": "1baa5bafc82e9286241d326d880d66cf28a8e7513371130187d39cdb8cce8e31"
+    },
+    {
+      "path": "templates/EMPTY_nodes.csv",
+      "bytes": 187,
+      "sha256": "b19ab1019bdac6a926640668e4ae2ca77f0693c4598e5bc4c9b8807e2214ff1f"
+    },
+    {
+      "path": "templates/FIRST_TRIAL_REFERENCE.json",
+      "bytes": 553,
+      "sha256": "84b9a3fa8eb7bd1dbbfe02fdccc3dad79a785ddef870d9b738faf3fb67ec6b3a"
+    },
+    {
+      "path": "templates/NEW_DUNGEON_SPEC.json",
+      "bytes": 2431,
+      "sha256": "d1cf0bf08e696969af662cba09540aa8ace904418211ac62286ad1e8f670a724"
+    },
+    {
+      "path": "templates/NEW_ROUTE.json",
+      "bytes": 366,
+      "sha256": "d4633890ee957dc4a4d5de5fcd7656dd2585a9f1c6920b7c0f06fdf0d2e8cd36"
+    },
+    {
+      "path": "tools/audit_atlas.py",
+      "bytes": 8432,
+      "sha256": "826cd16adaa13536b4479ddf4ffbe9a6daeeb38ea939ac09707f652b39eff9ea"
+    },
+    {
+      "path": "tools/reproduce_reference.py",
+      "bytes": 3263,
+      "sha256": "59a6215a4bc97d79739f980cd97d420e83c89ffc4bb8223982ae83f264f7f09e"
+    },
+    {
+      "path": "tools/route_report.py",
+      "bytes": 7283,
+      "sha256": "bc81764fb783fa65e54c3041915cfca1027f405a969bb8715e6da1ec555ad429"
+    },
+    {
+      "path": "tools/verify_package.py",
+      "bytes": 1610,
+      "sha256": "be774f3db7902a1cc4c14ffa95a87491c1fa96cd1f752c7e6d0b664845d21f67"
+    },
+    {
+      "path": "validation/BUILD_SUMMARY.md",
+      "bytes": 2289,
+      "sha256": "78a2c1c86e48e8f3ace116ca19add2a65cf0220f5d160a63e0cd39d59b36d1f0"
+    },
+    {
+      "path": "validation/DOCUMENT_LINK_CHECK.json",
+      "bytes": 218,
+      "sha256": "897823c02e058e7d6cbff96c606b2bdd3641f35d285c0f8e88373e532c2da10f"
+    },
+    {
+      "path": "validation/FIRST_TRIAL_ROUTE_TEST.json",
+      "bytes": 1123,
+      "sha256": "669c008588483bb1eb49b8e8cbfe58d3e7be1a6a5bbf60dde102a79714b46c49"
+    },
+    {
+      "path": "validation/REFERENCE_ATLAS_AUDIT.json",
+      "bytes": 1018,
+      "sha256": "58dfe4891fc13a7bb974ac4771ec5699167c24fed210a2f2a5add58ade266c86"
+    },
+    {
+      "path": "validation/REPRODUCTION_REPORT.json",
+      "bytes": 6448,
+      "sha256": "feec0d4392e792b0a337825768e3bf9ea68da3bbb55a2ec146ecba89095e6d0b"
+    },
+    {
+      "path": "validation/SOURCE_PRESERVATION.json",
+      "bytes": 6424,
+      "sha256": "063dc11dba34066b322ca36a1604a4adba12a10b704b977d70dbdbc47b7704b8"
+    },
+    {
+      "path": "validation/TESTED_ENVIRONMENT.json",
+      "bytes": 354,
+      "sha256": "ef620fe63edfeedf9ddd3c048c6f6f8980eeef9dbba6a13cfae9d3869de16864"
+    },
+    {
+      "path": "validation/TOOL_TESTS.json",
+      "bytes": 787,
+      "sha256": "9c1f5e62a09d9f331a6bbfe57ca7625af773a05804226439223e122d7de4272e"
+    }
+  ]
+}

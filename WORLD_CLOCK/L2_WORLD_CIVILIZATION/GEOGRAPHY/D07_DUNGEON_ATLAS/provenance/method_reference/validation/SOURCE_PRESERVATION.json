@@ -1,0 +1,171 @@
+{
+  "status": "PASS",
+  "preserved_source_files": 33,
+  "results": [
+    {
+      "file": "reference/blue_capital/README.md",
+      "byte_identical": true,
+      "sha256": "3134c4efee4d6937fa59c4af163b342d4a0f76e394be4e41e5dad0b9a6266d96"
+    },
+    {
+      "file": "reference/blue_capital/AUTHOR_DECISIONS_AND_SCOPE.md",
+      "byte_identical": true,
+      "sha256": "445d73bd76cf3204d9086d40327ada9b6ae6cb7c1ccee91ebf415c6d46887b96"
+    },
+    {
+      "file": "reference/blue_capital/DATA_DICTIONARY.md",
+      "byte_identical": true,
+      "sha256": "dab84f33139f3366e4d695399a29e8d61547ddcb3318c0a843e742445bd94bdb"
+    },
+    {
+      "file": "reference/blue_capital/ENVIRONMENT_COMPANION_003.md",
+      "byte_identical": true,
+      "sha256": "c235b0e11e55ad0923b3a53cdef3b98f8ae0ee7eefa72ed6184b1b50d237535a"
+    },
+    {
+      "file": "reference/blue_capital/data/VALIDATION.json",
+      "byte_identical": true,
+      "sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa"
+    },
+    {
+      "file": "reference/blue_capital/data/adjacency.csv",
+      "byte_identical": true,
+      "sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d"
+    },
+    {
+      "file": "reference/blue_capital/data/dungeon_graph.graphml",
+      "byte_identical": true,
+      "sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42"
+    },
+    {
+      "file": "reference/blue_capital/data/dungeon_graph.json",
+      "byte_identical": true,
+      "sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2"
+    },
+    {
+      "file": "reference/blue_capital/data/edges.csv",
+      "byte_identical": true,
+      "sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100"
+    },
+    {
+      "file": "reference/blue_capital/data/environment_nodes_003.csv",
+      "byte_identical": true,
+      "sha256": "3d81a9ffa1dbb5000e1681ad264819d2aeb483a5993252b1c529f2a639b0b63a"
+    },
+    {
+      "file": "reference/blue_capital/data/environment_passages_003.csv",
+      "byte_identical": true,
+      "sha256": "51042b662c69b3c1a0c89b737c8873d4c317e1397d33411a601d3c2eebe27ee3"
+    },
+    {
+      "file": "reference/blue_capital/data/environment_regions_003.csv",
+      "byte_identical": true,
+      "sha256": "d83cf28654b18bc1a559f1a0247d62874111f3babdcd465fe520b2a5a0ffc3ca"
+    },
+    {
+      "file": "reference/blue_capital/data/environment_summary_003.json",
+      "byte_identical": true,
+      "sha256": "358e5d56b02fd87a0bd02ebb1c98f636fd24f254db055c29843ba24311189f54"
+    },
+    {
+      "file": "reference/blue_capital/data/environment_waterways_003.csv",
+      "byte_identical": true,
+      "sha256": "76a61b8ab764e69f83be030436e8ae8e60b2b4357340a2de76e93d39b7fdc879"
+    },
+    {
+      "file": "reference/blue_capital/data/nodes.csv",
+      "byte_identical": true,
+      "sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2"
+    },
+    {
+      "file": "reference/blue_capital/data/stratum_connections.csv",
+      "byte_identical": true,
+      "sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e"
+    },
+    {
+      "file": "reference/blue_capital/data/view_index.csv",
+      "byte_identical": true,
+      "sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107"
+    },
+    {
+      "file": "reference/blue_capital/tools/build_viewer.py",
+      "byte_identical": true,
+      "sha256": "f5625729c6c7765cb9e24b2c45a4b46666286cf636664b6e7044a1eabf15c675"
+    },
+    {
+      "file": "reference/blue_capital/tools/generate_proposal_002.py",
+      "byte_identical": true,
+      "sha256": "d4f42d3b67d90245624beec3fff4bdb4a7dce0b26717bb14defb6e395e2217b5"
+    },
+    {
+      "file": "reference/blue_capital/tools/render_atlas.py",
+      "byte_identical": true,
+      "sha256": "2951c4209ddb517e388fe345614b58917df07a838c27d41e1c0d1bbac5e7d126"
+    },
+    {
+      "file": "reference/blue_capital/tools/requirements.txt",
+      "byte_identical": true,
+      "sha256": "80dfbfc982ebdf4cee539ef427c75376abb78c2c90546fb63846a35b3241d460"
+    },
+    {
+      "file": "reference/blue_capital/tools/validate_graph.py",
+      "byte_identical": true,
+      "sha256": "e50fc59609b430f02f43c840dd54bf295e597d8c4dc32aff35064cc111065b74"
+    },
+    {
+      "file": "reference/blue_capital/maps/01_MASTER_DEPTH_NETWORK.png",
+      "byte_identical": true,
+      "sha256": "96ce8b841ea575546838902ee572ad7e4da325a8404ca55a05039378bc9cca28"
+    },
+    {
+      "file": "reference/blue_capital/maps/05_YELLOW_PLAN.png",
+      "byte_identical": true,
+      "sha256": "d31818ce2a4a0a1da2f2429416982c4d2270752b6381fcd8eda3a3d084ceab46"
+    },
+    {
+      "file": "reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041.md",
+      "byte_identical": true,
+      "sha256": "591f9fb36c71f90797e86208db4570816265e27148f28e422897fe0ebad4641e"
+    },
+    {
+      "file": "reference/first_trial/FIRST_VAELUM_TRIAL_R001_B041_NODES.csv",
+      "byte_identical": true,
+      "sha256": "e80542406a243e67eeae32d15862655617fb166843d3ffc8f5916f2edc520a62"
+    },
+    {
+      "file": "provenance/checkpoint004_MANIFEST.json",
+      "byte_identical": true,
+      "sha256": "faf2baab1b96959a95d56c9ac23a1d7f5bf528d454c70544a00d3952aabdedde"
+    },
+    {
+      "file": "provenance/checkpoint004_CHECKPOINT_004_ADDENDUM.json",
+      "byte_identical": true,
+      "sha256": "8a2ef8103298300b932b8e05d3f5e3d1a630e95464be44565b65c7e6326b08f6"
+    },
+    {
+      "file": "provenance/checkpoint004_INTEGRATION_DUNGEON_002.md",
+      "byte_identical": true,
+      "sha256": "a492013fbc50e0661061bd72ec6681df8c75ddfe8a547dab2048ea4986740295"
+    },
+    {
+      "file": "provenance/checkpoint004_INTEGRATION_ENVIRONMENT_003.md",
+      "byte_identical": true,
+      "sha256": "57a7d3e8b09ce65a25a8f59fbd521e0bcb4361613ce3420fbc42cc6c8402e737"
+    },
+    {
+      "file": "provenance/checkpoint004_INTEGRATION_FIRST_TRIAL_004.md",
+      "byte_identical": true,
+      "sha256": "44ef68946ae0946023f36d8560f36723e340bc782a66bfde4e77fb31e8ae55db"
+    },
+    {
+      "file": "reference/blue_capital/BLUE_CAPITAL_DUNGEON_ATLAS_002.pdf",
+      "byte_identical": true,
+      "sha256": "126d94396e3938b38eef46f78fc1980c9a11fe685a6e1cb37a7071f50e525ef7"
+    },
+    {
+      "file": "reference/blue_capital/DUNGEON_EXPLORER.html",
+      "byte_identical": true,
+      "sha256": "17a5760584ba12e50c6841e7da390b9c4c11736a8ef5af0e662766cf4b6cd7a8"
+    }
+  ]
+}

@@ -1,3 +1,9 @@
+# Book Red outline complete through Day 1637
+
+White 006 extends the single running table through the royal awards ceremony. Every prior Day 0–1346 table row is unchanged. See the [full White daily outline](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) for inherited details, proposals and provisional clock assumptions. Earlier frontier headings below are historical.
+
+---
+
 # Book Red running ledger · Violet outline complete through Day 1346
 
 Violet 009 adds Days 1160–1346 and closes the outlined arc at VTR-08’s surface return. At the 009 integration, the earlier 1,160 daily rows were preserved byte-for-byte, including their historical 008 navigation links. The 010 overlay now appends the author-selected Genesis Robe annotations while retaining all preexisting event text and coordinates. [Sole active cumulative Violet schedule](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [009 integration audit](../CHECKPOINTS/VIOLET_CUMULATIVE_009/INTEGRATION_REPORT.md). The 008 link page now points to the cumulative schedule and exact historical baseline.
@@ -1498,6 +1504,297 @@ Days 0–167, extending 019 without dropping prior event text. The calendar year
 | 1344 | Aelor | 2 | — | Aithen | VTR-08 ascent along reverse route, day 7 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
 | 1345 | Aelor | 3 | — | Aiven | VTR-08 ascent along reverse route, day 8 of 9 [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
 | 1346 | Aelor | 4 | — | Ailar | VTR-08 ascent along reverse route, day 9 of 9; surface return [Violet plan](../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) |
+| 1347 | Aelor | 5 | — | Aiden | Slice of life and recovery. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1348 | Aelor | 6 | — | Aiveth | Slice of life; work on the King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1349 | Aelor | 7 | — | Ailor | Slice of life; work on the King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1350 | Aelor | 8 | — | Aithen | Work part of day on King's Genesis Robe; King's regular raeon game at Violet royal capital. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1351 | Aelor | 9 | — | Aiven | Spend day with Princess illi at the royal palace. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1352 | Aelor | 10 | — | Ailar | Second day with Princess illi at palace. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1353 | Aelor | 11 | — | Aiden | Return to Blue capital; vaelum stand-down until tournament. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1354 | Aelor | 12 | — | Aiveth | Ordinary slice of life; specific scene OPEN. No unpacking scene. [OPEN / NON-SPECIFIC; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1355 | Aelor | 13 | — | Ailor | At dungeon staging area meet vaelum; agree to make six CSR Cards; borrow leader's CSR Card; leader finances materials. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1356 | Aelor | 14 | — | Aithen | Purchase TWO gold sigil plates (one reusable production plate, one spare), Genesis Crystals, Genesis Dust and vaen. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1357 | Aelor | 15 | — | Aiven | Local raeon shop tournament; Violet placement. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1358 | Aelor | 16 | — | Ailar | Work on six CSR Cards. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1359 | Aelor | 17 | — | Aiden | Work on six CSR Cards. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1360 | Aelor | 18 | — | Aiveth | Work on six CSR Cards. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1361 | Aelor | 19 | — | Ailor | Finish manufacturing six CSR Cards (working schedule). [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1362 | Aelor | 20 | — | Aithen | Work on King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1363 | Aelor | 21 | — | Aiven | Local raeon shop tournament; Blue placement. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1364 | Aelor | 22 | — | Ailar | Return to dungeon staging area; distribute six CSR Cards; group CSR flight/coordination practice. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1365 | Aelor | 23 | — | Aiden | Work on King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1366 | Aelor | 24 | — | Aiveth | Work on King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1367 | Aelor | 25 | — | Ailor | Work on King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1368 | Aelor | 26 | — | Aithen | City errands: acquire living vaen for houseplants; visit Genesis Card shop. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1369 | Aelor | 27 | — | Aiven | Local raeon shop tournament; White placement. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1370 | Aelor | 28 | — | Ailar | Check chainmail robe workshop/business; staging area and Accord Registry check on robe sales. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1371 | Aelor | 29 | — | Aiden | Slice of life; work on King's Genesis Robe. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1372 | Aelor | 30 | — | Aiveth | Staging area: second group CSR flight/coordination practice. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1373 | Aelor | 31 | — | Ailor | Vaelum gathers for lunch and dinner; coordination and tournament plans. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1374 | Aelor | 32 | — | Aithen | Final tournament preparations. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1375 | Aelor | 33 | — | Aiven | Free day; Kaira works on King's Genesis Robe; leader collects Yellow Block 2 lottery assignment from Accord Registry; group stays at staging-area residence overnight. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1376 | Aerith | 1 | — | Ailar | Aerith 1: Kingdom-wide King's Tournament qualifiers begin; Red Block 1 at 10:00. Vaelum reviews routes A–E; Route B preferred. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1377 | Aerith | 2 | — | Aiden | Orange departure day; Kaira group has not yet entered. Vaelum continues route review; confirms B and contingencies. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1378 | Aerith | 3 | — | Aiveth | Yellow departure day: Kaira vaelum enters Blue Domain B3 at 16:00, Block 2; blue coin with two topazes; offset 68h. Selected Route B to the G054–B009 Blue boundary, not B009 itself; return Day 1390 at 00:30:17 (later locked). [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1379 | Aerith | 4 | — | Ailor | Route B descent toward the Blue boundary on G054–B009; abbreviated sleep rotations, sentries, selective CSR; specific passage-by-day schedule PROPOSED, not locked. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1380 | Aerith | 5 | — | Aithen | Route B descent toward the Blue boundary on G054–B009; abbreviated sleep rotations, sentries, selective CSR; specific passage-by-day schedule PROPOSED, not locked. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1381 | Aerith | 6 | — | Aiven | Route B descent toward the Blue boundary on G054–B009; abbreviated sleep rotations, sentries, selective CSR; specific passage-by-day schedule PROPOSED, not locked. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1382 | Aerith | 7 | — | Ailar | Route B descent toward the Blue boundary on G054–B009; abbreviated sleep rotations, sentries, selective CSR; specific passage-by-day schedule PROPOSED, not locked. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1383 | Aerith | 8 | — | Aiden | Route B descent toward the Blue boundary on G054–B009; abbreviated sleep rotations, sentries, selective CSR; specific passage-by-day schedule PROPOSED, not locked. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1384 | Aerith | 9 | — | Aiveth | At 00:30:00, cross the G054–B009 Blue boundary; activate Blue-depth marker (two topazes); begin six-day-plus-17-seconds ascent on Route B in reverse. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1385 | Aerith | 10 | — | Ailor | Route B return ascent; shortened sleep rotations and sentries; exact passage milestones OPEN. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1386 | Aerith | 11 | — | Aithen | Route B return ascent; shortened sleep rotations and sentries; exact passage milestones OPEN. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1387 | Aerith | 12 | — | Aiven | Route B return ascent; shortened sleep rotations and sentries; exact passage milestones OPEN. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1388 | Aerith | 13 | — | Ailar | Route B return ascent; shortened sleep rotations and sentries; exact passage milestones OPEN. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1389 | Aerith | 14 | — | Aiden | Route B return ascent; shortened sleep rotations and sentries; exact passage milestones OPEN. [AUTHOR-SELECTED FRAMEWORK; DETAILS OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1390 | Aerith | 15 | — | Aiveth | At 00:30:17, surface at B03; surrender activated blue-dungeon marker with two topazes; official master clock 013:21:30:17, departure offset 002:06:00:00, elapsed 011:15:30:17. Orange (sixth under the current placement ladder) placement determined later; announcement date OPEN. [AUTHOR SELECTED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1391 | Aerith | 16 | — | Ailor | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1392 | Aerith | 17 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1393 | Aerith | 18 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1394 | Aerith | 19 | — | Ailar | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1395 | Aerith | 20 | — | Aiden | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1396 | Aerith | 21 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1397 | Aerith | 22 | — | Ailor | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1398 | Aerith | 23 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1399 | Aerith | 24 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1400 | Aerith | 25 | — | Ailar | Blue-domain knockout first dungeon event opens; Red departures; first of two Blue dungeon races per political domain. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1401 | Aerith | 26 | — | Aiden | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1402 | Aerith | 27 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1403 | Aerith | 28 | — | Ailor | Green Block 1 at 10:00: Kaira vaelum departs into Blue Domain B03; Route A selected; Blue threshold activation on G048→B011. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1404 | Aerith | 29 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1405 | Aerith | 30 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1406 | Aerith | 31 | — | Ailar | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1407 | Aerith | 32 | — | Aiden | Approximately 10:00: Route A crosses Green–Blue boundary at depth 11.5 mi; Green Block 1 marker activates; ascent begins. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1408 | Aelora | 1 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1409 | Aelora | 2 | — | Ailor | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1410 | Aelora | 3 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1411 | Aelora | 4 | — | Aiven | B03 Stage Two race finish at 25:37:23. Master 011:15:37:23, individual 008:15:37:23. Marker surrendered. Eventual Green (4th), announced later; contributes to two-race domain score. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1412 | Aelora | 5 | — | Ailar | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1413 | Aelora | 6 | — | Aiden | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1414 | Aelora | 7 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1415 | Aelora | 8 | — | Ailor | Vaelum transfers from Blue capital toward Blue Domain B2 using military-maintained spatial corridors, daisy-chained between cities; travel time and exact itinerary OPEN. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1416 | Aelora | 9 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1417 | Aelora | 10 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1418 | Aelora | 11 | — | Ailar | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1419 | Aelora | 12 | — | Aiden | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1420 | Aelora | 13 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1421 | Aelora | 14 | — | Ailor | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1422 | Aelora | 15 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1423 | Aelora | 16 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1424 | Aelora | 17 | — | Ailar | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1425 | Aelora | 18 | — | Aiden | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1426 | Aelora | 19 | — | Aiveth | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1427 | Aelora | 20 | — | Ailor | Accord Registry posts B2 start assignment three days before event opening: Orange Block 3. Marker collection/issuance process; verify inactive at staging check-in before departure. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1428 | Aelora | 21 | — | Aithen | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1429 | Aelora | 22 | — | Aiven | Unassigned interval; no new specific scene established. [OPEN; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1430 | Aelora | 23 | — | Ailar | Blue Domain B2 second Blue-dungeon race opens; Red Block 1 at 10:00. No Kaira departure today. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1431 | Aelora | 24 | — | Aiden | Kaira vaelum scheduled Orange Block 3, 22:00, for B2; marker Orange day, 3 citrines, Blue-depth coin. Route A selected; activation at the 9.2-mile Blue boundary on G039–B022. [AUTHOR SELECTED / CORRECTED CALENDAR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1432 | Aelora | 25 | — | Aiveth | B02 Route A descent continues after Orange Block 3 departure on Day 1431. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1433 | Aelora | 26 | — | Ailor | B02 descent; Orange/Yellow corridors, selective CSR and rest. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1434 | Aelora | 27 | — | Aithen | B02 descent; reaches Green and approaches G039. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1435 | Aelora | 28 | — | Aiven | B02: marker activates crossing 9.2-mi Blue boundary on G039–B022 at approximately 06:30; ascent begins. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1436 | Aelora | 29 | — | Ailar | B02 Route A ascent with sentries, sleep and CSR recovery. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1437 | Aelora | 30 | — | Aiden | B02 Route A ascent with sentries, sleep and CSR recovery. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1438 | Aelora | 31 | — | Aiveth | B02 Route A ascent with sentries, sleep and CSR recovery. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1439 | Aevrin | 1 | — | Ailor | B02 surface return 06:43:07; three-citrine Orange Block 3 marker submitted; master 008:27:43:07; elapsed 007:15:43:07. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1440 | Aevrin | 2 | — | Aithen | B02 staging city: rest and ordinary life. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1441 | Aevrin | 3 | — | Aiven | Aiven local raeon tournament opportunity in Green District; participation and placement OPEN. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1442 | Aevrin | 4 | — | Ailar | Remain in B02 staging city, rest and await Blue-domain combined standings. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1443 | Aevrin | 5 | — | Aiden | Remain in B02 staging city, rest and await Blue-domain combined standings. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1444 | Aevrin | 6 | — | Aiveth | Remain in B02 staging city, rest and await Blue-domain combined standings. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1445 | Aevrin | 7 | — | Ailor | Remain in B02 staging city, rest and await Blue-domain combined standings. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1446 | Aevrin | 8 | — | Aithen | Remain in B02 staging city, rest and await Blue-domain combined standings. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1447 | Aevrin | 9 | — | Aiven | Accord Registry posts Blue-domain two-race standings: Kaira vaelum Yellow overall (third); among seven advancing from Blue domain. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1448 | Aevrin | 10 | — | Ailar | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1449 | Aevrin | 11 | — | Aiden | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1450 | Aevrin | 12 | — | Aiveth | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1451 | Aevrin | 13 | — | Ailor | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1452 | Aevrin | 14 | — | Aithen | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1453 | Aevrin | 15 | — | Aiven | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1454 | Aevrin | 16 | — | Ailar | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1455 | Aevrin | 17 | — | Aiden | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1456 | Aevrin | 18 | — | Aiveth | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1457 | Aevrin | 19 | — | Ailor | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1458 | Aevrin | 20 | — | Aithen | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1459 | Aevrin | 21 | — | Aiven | Military spatial-corridor transfer and preparation at Blue Domain V2; review five mapped routes; Route C selected. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1460 | Aevrin | 22 | — | Ailar | Violet circuit Race 1 at Blue Domain V2: Red Block 2 departure 16:00, Route C; violet-depth marker with two rubies. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1461 | Aevrin | 23 | — | Aiden | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1462 | Aevrin | 24 | — | Aiveth | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1463 | Aevrin | 25 | — | Ailor | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1464 | Aevrin | 26 | — | Aithen | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1465 | Aevrin | 27 | — | Aiven | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1466 | Aevrin | 28 | — | Ailar | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1467 | Aevrin | 29 | — | Aiden | Blue Domain V2 Route C descent through established strata; rest/sentries and selective CSR. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1468 | Aevrin | 30 | — | Aiveth | V2 Route C: Violet boundary crossed on B052–V021 at approximately 00:30; marker activates; ascent begins. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1469 | Aevrin | 31 | — | Ailor | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1470 | Aevrin | 32 | — | Aithen | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1471 | Aevrin | 33 | — | Aiven | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1472 | Aelis | 1 | — | Ailar | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1473 | Aelis | 2 | — | Aiden | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1474 | Aelis | 3 | — | Aiveth | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1475 | Aelis | 4 | — | Ailor | V2 Route C ascent, with recovery, sleep and rotating sentries. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1476 | Aelis | 5 | — | Aithen | V2 surface return at 24:27:15; master 016:14:27:15, elapsed 016:08:27:15; two-ruby marker submitted. Eventual Green (4th), announced later. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1477 | Aelis | 6 | — | Aiven | Rest day after V2 race. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1478 | Aelis | 7 | — | Ailar | Travel toward Blue Domain V1 via military-maintained, daisy-chained spatial corridors. [AUTHOR SELECTED / RECORDED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1479 | Aelis | 8 | — | Aiden | V1 staging period: rest, meals and review of V1 atlas and potential routes; specific route OPEN. The route is now selected as D; these particular daily staging scenes remain PROPOSED. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1480 | Aelis | 9 | — | Aiveth | V1 staging period: rest, meals and review of V1 atlas and potential routes; specific route OPEN. The route is now selected as D; these particular daily staging scenes remain PROPOSED. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1481 | Aelis | 10 | — | Ailor | V1 staging period: rest, meals and review of V1 atlas and potential routes; specific route OPEN. The route is now selected as D; these particular daily staging scenes remain PROPOSED. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1482 | Aelis | 11 | — | Aithen | V1 staging period: rest, meals and review of V1 atlas and potential routes; specific route OPEN. The route is now selected as D; these particular daily staging scenes remain PROPOSED. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1483 | Aelis | 12 | — | Aiven | V1 staging period: rest, meals and review of V1 atlas and potential routes; specific route OPEN. The route is now selected as D; these particular daily staging scenes remain PROPOSED. [PROPOSED SCENE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1484 | Aelis | 13 | — | Ailar | Free time / travel / optional route discussion (unassigned) Earlier 005 opening is superseded by the added six-day free week; Race 2 now opens Day 1490. [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1485 | Aelis | 14 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1486 | Aelis | 15 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1487 | Aelis | 16 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1488 | Aelis | 17 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1489 | Aelis | 18 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1490 | Aelis | 19 | — | Ailar | Violet Circuit Race 2 opens Blue Domain V1 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1491 | Aelis | 20 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1492 | Aelis | 21 | — | Aiveth | Race 2 Route D Yellow Block 2 departure 16:00 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1493 | Aelis | 22 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1494 | Aelis | 23 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1495 | Aelis | 24 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1496 | Aelis | 25 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1497 | Aelis | 26 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1498 | Aelis | 27 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1499 | Aelis | 28 | — | Ailor | Race 2 marker activation 00:30 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1500 | Aelis | 29 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1501 | Aelis | 30 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1502 | Aelis | 31 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1503 | Aevor | 1 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1504 | Aevor | 2 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1505 | Aevor | 3 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1506 | Aevor | 4 | — | Aithen | Race 2 finish 17:37:53; Orange = 2 points [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1507 | Aevor | 5 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1508 | Aevor | 6 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1509 | Aevor | 7 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1510 | Aevor | 8 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1511 | Aevor | 9 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1512 | Aevor | 10 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1513 | Aevor | 11 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1514 | Aevor | 12 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1515 | Aevor | 13 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1516 | Aevor | 14 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1517 | Aevor | 15 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1518 | Aevor | 16 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1519 | Aevor | 17 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1520 | Aevor | 18 | — | Ailar | Violet Circuit Race 3 Green Domain V2 Route B provisional Red Block 1 departure 10:00 [AUTHOR-SELECTED OUTLINE; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1521 | Aevor | 19 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1522 | Aevor | 20 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1523 | Aevor | 21 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1524 | Aevor | 22 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1525 | Aevor | 23 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1526 | Aevor | 24 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1527 | Aevor | 25 | — | Aiden | Race 3 marker activation 25:30 [AUTHOR-SELECTED OUTLINE; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1528 | Aevor | 26 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1529 | Aevor | 27 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1530 | Aevor | 28 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1531 | Aevor | 29 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1532 | Aevor | 30 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1533 | Aevor | 31 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1534 | Aevor | 32 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1535 | Aelith | 1 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1536 | Aelith | 2 | — | Aithen | Race 3 finish 13:21:37; Red = 1 point [AUTHOR-SELECTED OUTLINE; GREEN V2 DEPARTURE CLOCK PROVISIONAL; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1537 | Aelith | 3 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1538 | Aelith | 4 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1539 | Aelith | 5 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1540 | Aelith | 6 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1541 | Aelith | 7 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1542 | Aelith | 8 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1543 | Aelith | 9 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1544 | Aelith | 10 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1545 | Aelith | 11 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1546 | Aelith | 12 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1547 | Aelith | 13 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1548 | Aelith | 14 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1549 | Aelith | 15 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1550 | Aelith | 16 | — | Ailar | Violet Circuit Race 4 Green Domain V1 Route B Red Block 1 departure 10:00 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1551 | Aelith | 17 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1552 | Aelith | 18 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1553 | Aelith | 19 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1554 | Aelith | 20 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1555 | Aelith | 21 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1556 | Aelith | 22 | — | Ailar | Race 4 marker activation 25:30 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1557 | Aelith | 23 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1558 | Aelith | 24 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1559 | Aelith | 25 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1560 | Aelith | 26 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1561 | Aelith | 27 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1562 | Aelith | 28 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1563 | Aelith | 29 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1564 | Aelith | 30 | — | Aiveth | Race 4 finish 12:57:13; Yellow = 3 points [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1565 | Aelith | 31 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1566 | Aelith | 32 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1567 | Aelith | 33 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1568 | Aerion | 1 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1569 | Aerion | 2 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1570 | Aerion | 3 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1571 | Aerion | 4 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1572 | Aerion | 5 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1573 | Aerion | 6 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1574 | Aerion | 7 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1575 | Aerion | 8 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1576 | Aerion | 9 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1577 | Aerion | 10 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1578 | Aerion | 11 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1579 | Aerion | 12 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1580 | Aerion | 13 | — | Ailar | Violet Circuit Race 5 Violet Domain V1 opens [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1581 | Aerion | 14 | — | Aiden | Race 5 Route C Orange Block 3 departure 22:00 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1582 | Aerion | 15 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1583 | Aerion | 16 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1584 | Aerion | 17 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1585 | Aerion | 18 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1586 | Aerion | 19 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1587 | Aerion | 20 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1588 | Aerion | 21 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1589 | Aerion | 22 | — | Ailor | Race 5 marker activation 06:30 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1590 | Aerion | 23 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1591 | Aerion | 24 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1592 | Aerion | 25 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1593 | Aerion | 26 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1594 | Aerion | 27 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1595 | Aerion | 28 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1596 | Aerion | 29 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1597 | Aerion | 30 | — | Aiven | Race 5 finish 23:11:47; Green = 4 points; circuit total 14 [AUTHOR-SELECTED OUTLINE; RETURN DAY CORRECTED BY AUTHOR; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1598 | Aerion | 31 | — | Ailar | Unassigned interval after the Day 1597 race return; no new specific scene established. [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1599 | Aerion | 32 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1600 | Aeveth | 1 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1601 | Aeveth | 2 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1602 | Aeveth | 3 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1603 | Aeveth | 4 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1604 | Aeveth | 5 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1605 | Aeveth | 6 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1606 | Aeveth | 7 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1607 | Aeveth | 8 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1608 | Aeveth | 9 | — | Aithen | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1609 | Aeveth | 10 | — | Aiven | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1610 | Aeveth | 11 | — | Ailar | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1611 | Aeveth | 12 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1612 | Aeveth | 13 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1613 | Aeveth | 14 | — | Ailor | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1614 | Aeveth | 15 | — | Aithen | Royal raeon game; Kaira presents completed Genesis Robe to King [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1615 | Aeveth | 16 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1616 | Aeveth | 17 | — | Ailar | Royal final Violet Domain V2 Route A Red Block 2 departure 16:00 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1617 | Aeveth | 18 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1618 | Aeveth | 19 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1619 | Aeveth | 20 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1620 | Aeveth | 21 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1621 | Aeveth | 22 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1622 | Aeveth | 23 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1623 | Aeveth | 24 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1624 | Aeveth | 25 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1625 | Aeveth | 26 | — | Ailor | Royal final marker activation 00:30 [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1626 | Aeveth | 27 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1627 | Aeveth | 28 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1628 | Aeveth | 29 | — | Ailar | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1629 | Aeveth | 30 | — | Aiden | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1630 | Aeveth | 31 | — | Aiveth | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1631 | Aesith | 1 | — | Ailor | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1632 | Aesith | 2 | — | Aithen | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1633 | Aesith | 3 | — | Aiven | Unassigned / inherited prior ledger [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1634 | Aesith | 4 | — | Ailar | Royal final finish 16:37:17; eventual Green fourth [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1635 | Aesith | 5 | — | Aiden | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1636 | Aesith | 6 | — | Aiveth | Free time / travel / optional route discussion (unassigned) [OPEN / UNSCHEDULED; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
+| 1637 | Aesith | 7 | — | Ailor | Royal awards ceremony; King wears Genesis Robe; seven White dimensional rings; BOOK ENDS [AUTHOR-SELECTED OUTLINE; White plan](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) |
 
 
 ## Earlier detailed interval record · continued except scoped supersessions

@@ -1,0 +1,116 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_SOURCE_CORRECTIONS",
+  "method": "Authoritative graph connectivity; source proportional-depth threshold estimates and exact polyline clipping kept distinct. Only B03 C/D/E endpoint-label errors corrected.",
+  "routes": [
+    {
+      "dungeon": "b03_qualifier",
+      "route": "A",
+      "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "supplied_miles": 14.689,
+      "proportional_boundary_miles": 14.689041,
+      "polyline_clipped_boundary_miles": 14.712432,
+      "full_endpoint_miles": 16.078775,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "b03_qualifier",
+      "route": "B",
+      "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "supplied_miles": 19.26,
+      "proportional_boundary_miles": 19.260176,
+      "polyline_clipped_boundary_miles": 19.305143,
+      "full_endpoint_miles": 20.880042,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "b03_qualifier",
+      "route": "C",
+      "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "supplied_miles": 22.781,
+      "proportional_boundary_miles": 21.160719,
+      "polyline_clipped_boundary_miles": 21.205686,
+      "full_endpoint_miles": 22.780585,
+      "connected": true,
+      "source_distance_corrected": true
+    },
+    {
+      "dungeon": "b03_qualifier",
+      "route": "D",
+      "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "supplied_miles": 20.362,
+      "proportional_boundary_miles": 18.972458,
+      "polyline_clipped_boundary_miles": 18.995849,
+      "full_endpoint_miles": 20.362192,
+      "connected": true,
+      "source_distance_corrected": true
+    },
+    {
+      "dungeon": "b03_qualifier",
+      "route": "E",
+      "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "supplied_miles": 22.517,
+      "proportional_boundary_miles": 19.754255,
+      "polyline_clipped_boundary_miles": 19.756107,
+      "full_endpoint_miles": 22.517193,
+      "connected": true,
+      "source_distance_corrected": true
+    },
+    {
+      "dungeon": "blue_domain_v1",
+      "route": "A",
+      "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "supplied_miles": 21.472,
+      "proportional_boundary_miles": 21.472449,
+      "polyline_clipped_boundary_miles": 21.532144,
+      "full_endpoint_miles": 23.860841,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "blue_domain_v1",
+      "route": "B",
+      "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "supplied_miles": 22.099,
+      "proportional_boundary_miles": 22.098992,
+      "polyline_clipped_boundary_miles": 22.136462,
+      "full_endpoint_miles": 24.770498,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "blue_domain_v1",
+      "route": "C",
+      "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "supplied_miles": 22.955,
+      "proportional_boundary_miles": 22.95455,
+      "polyline_clipped_boundary_miles": 23.014245,
+      "full_endpoint_miles": 25.342942,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "blue_domain_v1",
+      "route": "D",
+      "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "supplied_miles": 22.319,
+      "proportional_boundary_miles": 22.319063,
+      "polyline_clipped_boundary_miles": 22.378758,
+      "full_endpoint_miles": 24.707455,
+      "connected": true,
+      "source_distance_corrected": false
+    },
+    {
+      "dungeon": "blue_domain_v1",
+      "route": "E",
+      "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+      "supplied_miles": 22.653,
+      "proportional_boundary_miles": 22.652928,
+      "polyline_clipped_boundary_miles": 22.690398,
+      "full_endpoint_miles": 25.324434,
+      "connected": true,
+      "source_distance_corrected": false
+    }
+  ]
+}

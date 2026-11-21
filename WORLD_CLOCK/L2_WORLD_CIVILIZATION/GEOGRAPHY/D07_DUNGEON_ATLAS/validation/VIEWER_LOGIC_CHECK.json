@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "test_kind": "actual embedded JavaScript executed in a minimal DOM harness",
+  "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+  "included_layer_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V"
+  ],
+  "last_stratum_code": "V",
+  "view_menu_matches_included_strata": true,
+  "absent_stratum_searches_rejected": [],
+  "views": [
+    {
+      "view": "xz",
+      "node_count": 461,
+      "edge_count": 965,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "yz",
+      "node_count": 461,
+      "edge_count": 965,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "3d",
+      "node_count": 461,
+      "edge_count": 965,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "R",
+      "node_count": 49,
+      "edge_count": 85,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "O",
+      "node_count": 74,
+      "edge_count": 122,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "Y",
+      "node_count": 93,
+      "edge_count": 155,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "G",
+      "node_count": 112,
+      "edge_count": 189,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "B",
+      "node_count": 135,
+      "edge_count": 231,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "V",
+      "node_count": 138,
+      "edge_count": 253,
+      "all_ids_and_geometry_vertex_counts_match": true
+    },
+    {
+      "view": "xy",
+      "node_count": 461,
+      "edge_count": 965,
+      "all_ids_and_geometry_vertex_counts_match": true
+    }
+  ],
+  "local_width_alias_and_global_search": true,
+  "searched_layer_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V"
+  ],
+  "deepest_node_search": "V120",
+  "neighbor_navigation": true,
+  "visibility_controls": true,
+  "zoom_rotation_and_common_scale_controls": true,
+  "source_geometry_unchanged": true,
+  "self_contained_no_external_dependencies": true,
+  "limitations": [
+    "Full browser layout and touch-device tests were not performed in this build. This minimal-DOM harness verifies logic, not CSS rendering."
+  ]
+}

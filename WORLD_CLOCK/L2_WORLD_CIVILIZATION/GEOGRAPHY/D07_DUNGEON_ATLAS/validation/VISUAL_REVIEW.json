@@ -1,0 +1,141 @@
+{
+  "status": "PASS",
+  "graph_sha256": "ac065063c0f7c90e35dc8aef5a2f5dcb8d7e9fa16597d6141b5a5c57a4d95ccb",
+  "combined_pdf": "MK163_D07_ATLAS_001.pdf",
+  "combined_pdf_pages": 11,
+  "map_views": 9,
+  "map_formats": [
+    "PNG",
+    "SVG",
+    "PDF"
+  ],
+  "included_layer_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V"
+  ],
+  "deepest_stratum": "Violet",
+  "max_depth_mi": 24.0,
+  "deepest_node": "V120",
+  "pdf_label_checks": [
+    {
+      "page": 3,
+      "view": "east_west_elevation",
+      "required_node_labels": 461,
+      "extracted_node_labels": 461,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 4,
+      "view": "north_south_elevation",
+      "required_node_labels": 461,
+      "extracted_node_labels": 461,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 5,
+      "view": "Red_plan",
+      "own_nodes": 39,
+      "ghost_endpoint_labels": 10,
+      "required_node_labels": 49,
+      "extracted_node_labels": 49,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 6,
+      "view": "Orange_plan",
+      "own_nodes": 52,
+      "ghost_endpoint_labels": 22,
+      "required_node_labels": 74,
+      "extracted_node_labels": 74,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 7,
+      "view": "Yellow_plan",
+      "own_nodes": 67,
+      "ghost_endpoint_labels": 26,
+      "required_node_labels": 93,
+      "extracted_node_labels": 93,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 8,
+      "view": "Green_plan",
+      "own_nodes": 82,
+      "ghost_endpoint_labels": 30,
+      "required_node_labels": 112,
+      "extracted_node_labels": 112,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 9,
+      "view": "Blue_plan",
+      "own_nodes": 101,
+      "ghost_endpoint_labels": 34,
+      "required_node_labels": 135,
+      "extracted_node_labels": 135,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    },
+    {
+      "page": 10,
+      "view": "Violet_plan",
+      "own_nodes": 120,
+      "ghost_endpoint_labels": 18,
+      "required_node_labels": 138,
+      "extracted_node_labels": 138,
+      "missing": [],
+      "unexpected": [],
+      "status": "PASS"
+    }
+  ],
+  "six_stratum_product_checks": {
+    "exactly_nine_map_files_per_format": true,
+    "overlay_basename": "09_COMMON_SCALE_OVERLAY",
+    "blue_and_violet_map_products_present": true,
+    "guide_and_viewer_distinguish_violet_dungeon_from_blue_political_domain": true,
+    "guide_and_viewer_use_twenty_four_mile_maximum": true,
+    "network_maps_pdf_has_nine_pages": true
+  },
+  "annotation_estimate_checks": {
+    "labeled_views": 8,
+    "estimated_overlapping_label_pairs": 0,
+    "estimated_outside_axes_or_stratum_band": 0,
+    "method": "Estimated display boxes from the renderer; this does not establish a mathematical guarantee of actual glyph non-overlap."
+  },
+  "visual_review": {
+    "reference_presentation_preserved": true,
+    "two_guide_pages_and_all_nine_map_views_reviewed": true,
+    "dense_centers_entrance_terminal_tips_ghost_nodes_legend_and_footer_reviewed": true,
+    "final_pdf_all_pages_rasterized_and_reviewed": true,
+    "graph_coordinates_not_changed_for_label_placement": true,
+    "observed_upper_elevation_label_collisions_corrected": true,
+    "root_independently_reviewed_both_corrected_elevations": true
+  },
+  "viewer_visual_status": "UNVERIFIED: full browser/CSS/mobile/touch tests were not performed. VIEWER_LOGIC_CHECK.json records only the completed Node minimal-DOM logic checks.",
+  "notes": [
+    "D07 uses the verified D06 presentation baseline, founded on the preserved original D01 mapping method.",
+    "The original palette is retained, including Violet #6e4094. The common-scale legend uses six columns for six layers.",
+    "Additional annotation offsets and leader lines resolve the observed dense Red/Orange elevation label collisions. Label boxes remain within their depth bands; Red may use the axes whitespace above the entrance. Physical graph geometry, page dimensions and coordinate axes were not changed.",
+    "All required permanent node labels and neighboring-stratum ghost endpoint labels are present in the combined vector PDF. The common-scale overlay intentionally omits node text labels.",
+    "All eleven final PDF pages were rasterized with Poppler and reviewed as a contact sheet; both guides and each map were additionally reviewed separately. Visual review is not a mathematical proof that every possible display scale is free of text overlap.",
+    "Environment, traversal, survey knowledge, travel-time and story overlays remain OPEN."
+  ]
+}

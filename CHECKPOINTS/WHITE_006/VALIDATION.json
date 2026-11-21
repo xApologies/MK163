@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "baseline": "164ce15c5fa5709472c551b38613ac68fc4ecb6b",
+  "check_count": 4794,
+  "failure_count": 0,
+  "failures": [],
+  "counts": {
+    "violet_files_preserved": 23,
+    "white_rows": 292,
+    "running_rows": 1638,
+    "race_clocks": 9,
+    "route_candidates": 40
+  },
+  "coverage": "Supplied payload and checked-out scope preserved; external source dependencies remain explicitly PARTIAL — WORKSHOP."
+}

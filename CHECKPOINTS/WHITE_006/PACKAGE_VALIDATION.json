@@ -1,0 +1,32 @@
+{
+  "archives": [
+    {
+      "root": "MK163_BOOK_RED_WHITE_006/",
+      "files": 18,
+      "verified_hashes": 17,
+      "crc": "PASS"
+    },
+    {
+      "root": "MK163_WHITE_ARC_005_CUMULATIVE/",
+      "files": 22,
+      "verified_hashes": 21,
+      "crc": "PASS"
+    },
+    {
+      "root": "MK163_D07_ATLAS_001/",
+      "files": 150,
+      "verified_hashes": 149,
+      "crc": "PASS"
+    },
+    {
+      "root": "MK163_Dungeon_Mapping_Method_001_2026-11-17/",
+      "files": 64,
+      "verified_hashes": 63,
+      "crc": "PASS"
+    }
+  ],
+  "archive_sha256": "eeb4d7edc9f3575414c10d32b4669ca689f2e582e9b52be1f0ddc493e03d76f9",
+  "total_verified_manifest_entries": 250,
+  "note": "250 current package manifest entries verified. Historical checkpoint/D06 manifests are retained as historical evidence, not asserted to inventory the current package. See ROUTE_VALIDATION.json for proportional threshold and polyline methods.",
+  "status": "PASS"
+}

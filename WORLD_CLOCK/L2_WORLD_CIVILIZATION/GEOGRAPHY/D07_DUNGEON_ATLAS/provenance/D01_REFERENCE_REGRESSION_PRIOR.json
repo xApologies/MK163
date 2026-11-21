@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "scope": "Byte equality of the eight graph-generation outputs; map PDF byte equality is not asserted.",
+  "environment_overlay_regenerated": false,
+  "checks": [
+    {
+      "file": "VALIDATION.json",
+      "matches": true,
+      "reference_sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa",
+      "regenerated_sha256": "88de78199e4eb38b70e9c2b5b24792f783f823c09284e7a7daab9169ddd5c5fa"
+    },
+    {
+      "file": "adjacency.csv",
+      "matches": true,
+      "reference_sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d",
+      "regenerated_sha256": "1af74edf8857f594b475c3656f811c8e847b09094da0fca4636aa0392d81011d"
+    },
+    {
+      "file": "dungeon_graph.graphml",
+      "matches": true,
+      "reference_sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42",
+      "regenerated_sha256": "5135a6f687a5bc3b2bd80d013aa8b31bca93a7f993cef2d9d72139e7d0a50b42"
+    },
+    {
+      "file": "dungeon_graph.json",
+      "matches": true,
+      "reference_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+      "regenerated_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2"
+    },
+    {
+      "file": "edges.csv",
+      "matches": true,
+      "reference_sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100",
+      "regenerated_sha256": "2ff18481c9ab03ee6194a29d5ba7fa414c15a506ffb07f092da0e0a7e6761100"
+    },
+    {
+      "file": "nodes.csv",
+      "matches": true,
+      "reference_sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2",
+      "regenerated_sha256": "3dc4326943366f7ea41a53d62d1901e6c01e803ff0035a611c64fd73689e4bf2"
+    },
+    {
+      "file": "stratum_connections.csv",
+      "matches": true,
+      "reference_sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e",
+      "regenerated_sha256": "2531e6f165661523e4791541e90699f2b2fcbc7cb7e30b4b0e5bb5dd5855b48e"
+    },
+    {
+      "file": "view_index.csv",
+      "matches": true,
+      "reference_sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107",
+      "regenerated_sha256": "2524c9982c13ff1b6f1bd4364ed548c43cdd87db1508d87fa35594005545d107"
+    }
+  ],
+  "logs": {
+    "generate": "{\n  \"checks\": {\n    \"unique_node_ids\": true,\n    \"unique_edge_ids\": true,\n    \"one_connected_component\": true,\n    \"no_self_loops\": true,\n    \"no_duplicate_edges\": true,\n    \"principal_network_vertex_biconnected\": true,\n    \"entrance_is_R001\": true,\n    \"entrance_at_origin\": true,\n    \"no_violet_nodes\": true,\n    \"all_stratum_depth_bounds\": true,\n    \"lateral_arms_constant_depth\": true,\n    \"all_terminal_tips_degree_one\": true,\n    \"no_terminal_interstratum_links\": true,\n    \"only_adjacent_strata_linked\": true,\n    \"polyline_endpoints_match_nodes\": true,\n    \"modeled_lengths_not_shorter_than_chords\": true,\n    \"principal_east_west_widths_match\": true\n  },\n  \"metrics\": {\n    \"nodes\": 340,\n    \"edges\": 709,\n    \"principal_nodes\": 258,\n    \"terminal_arm_nodes\": 82,\n    \"terminal_tips\": 32,\n    \"interstratum_edges\": 60,\n    \"connected_components\": 1,\n    \"independent_cycles\": 370,\n    \"average_degree\": 4.171,\n    \"maximum_degree\": 8,\n    \"principal_articulation_points\": [],\n    \"entrance_degree\": 4\n  },\n  \"layers\": [\n    {\n      \"stratum\": \"Red\",\n      \"code\": \"R\",\n      \"depth_min_mi\": 0.0,\n      \"depth_max_mi\": 1.5,\n      \"principal_ew_span_mi\": 3.0,\n      \"provisional_ns_span_mi\": 2.4,\n      \"core_node_count\": 30,\n      \"terminal_node_count\": 10,\n      \"terminal_branch_count\": 4,\n      \"node_count\": 40,\n      \"node_range\": \"R001\\u2013R040\",\n      \"lateral_extent_ew_mi\": 4.618,\n      \"internal_edges\": 76,\n      \"cycle_rank_internal\": 37\n    },\n    {\n      \"stratum\": \"Orange\",\n      \"code\": \"O\",\n      \"depth_min_mi\": 1.5,\n      \"depth_max_mi\": 3.5,\n      \"principal_ew_span_mi\": 5.0,\n      \"provisional_ns_span_mi\": 3.8,\n      \"core_node_count\": 40,\n      \"terminal_node_count\": 12,\n      \"terminal_branch_count\": 5,\n      \"node_count\": 52,\n      \"node_range\": \"O001\\u2013O052\",\n      \"lateral_extent_ew_mi\": 8.386,\n      \"internal_edges\": 100,\n      \"cycle_rank_internal\": 49\n    },\n    {\n      \"stratum\": \"Yellow\",\n      \"code\": \"Y\",\n      \"depth_min_mi\": 3.5,\n      \"depth_max_mi\": 6.5,\n      \"principal_ew_span_mi\": 8.0,\n      \"provisional_ns_span_mi\": 6.4,\n      \"core_node_count\": 52,\n      \"terminal_node_count\": 16,\n      \"terminal_branch_count\": 6,\n      \"node_count\": 68,\n      \"node_range\": \"Y001\\u2013Y068\",\n      \"lateral_extent_ew_mi\": 12.829,\n      \"internal_edges\": 130,\n      \"cycle_rank_internal\": 63\n    },\n    {\n      \"stratum\": \"Green\",\n      \"code\": \"G\",\n      \"depth_min_mi\": 6.5,\n      \"depth_max_mi\": 11.5,\n      \"principal_ew_span_mi\": 11.0,\n      \"provisional_ns_span_mi\": 8.8,\n      \"core_node_count\": 60,\n      \"terminal_node_count\": 20,\n      \"terminal_branch_count\": 8,\n      \"node_count\": 80,\n      \"node_range\": \"G001\\u2013G080\",\n      \"lateral_extent_ew_mi\": 20.117,\n      \"internal_edges\": 152,\n      \"cycle_rank_internal\": 73\n    },\n    {\n      \"stratum\": \"Blue\",\n      \"code\": \"B\",\n      \"depth_min_mi\": 11.5,\n      \"depth_max_mi\": 17.0,\n      \"principal_ew_span_mi\": 16.0,\n      \"provisional_ns_span_mi\": 12.0,\n      \"core_node_count\": 76,\n      \"terminal_node_count\": 24,\n      \"terminal_branch_count\": 9,\n      \"node_count\": 100,\n      \"node_range\": \"B001\\u2013B100\",\n      \"lateral_extent_ew_mi\": 26.489,\n      \"internal_edges\": 191,\n      \"cycle_rank_internal\": 92\n    }\n  ],\n  \"note\": \"Graph-theory checks validate the proposed model, not travel realism, geological plausibility or finished canon.\"\n}\nATLAS_DIRECTORY /workspace/scratch/dd4521a0e3b3/reference_regression\n",
+    "validate": "{\n  \"status\": \"PASS\",\n  \"nodes\": 340,\n  \"edges\": 709,\n  \"independent_cycles\": 370,\n  \"terminal_tips\": 32,\n  \"failures\": []\n}\n"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": "DUNGEON_SPEC_001",
+  "generator_version": "MK163_CONFIGURED_DUNGEON_GENERATOR_003",
+  "dungeon_id": "D07",
+  "display_name": "D07 / Blue Domain",
+  "revision": "D07_ATLAS_001",
+  "build_date": "2026-11-18",
+  "seed": 1630701,
+  "geography_status": "DESIGN_PROPOSAL_D07_001",
+  "phase": "PHASE_2_STRUCTURAL_ATLAS",
+  "coordinate_system": {
+    "units": "miles",
+    "origin": "R001 / primary surface entrance",
+    "x": "east_positive",
+    "y": "north_positive",
+    "z": "depth_positive"
+  },
+  "layers": [
+    {
+      "stratum": "Red",
+      "code": "R",
+      "depth_min_mi": 0.0,
+      "depth_max_mi": 1.5,
+      "principal_ew_span_mi": 3.0,
+      "provisional_ns_span_mi": 2.4,
+      "core_node_count": 30,
+      "terminal_node_count": 9,
+      "terminal_branch_count": 3,
+      "links_to_next_layer": 10
+    },
+    {
+      "stratum": "Orange",
+      "code": "O",
+      "depth_min_mi": 1.5,
+      "depth_max_mi": 3.5,
+      "principal_ew_span_mi": 5.4,
+      "provisional_ns_span_mi": 4.2,
+      "core_node_count": 40,
+      "terminal_node_count": 12,
+      "terminal_branch_count": 4,
+      "links_to_next_layer": 12
+    },
+    {
+      "stratum": "Yellow",
+      "code": "Y",
+      "depth_min_mi": 3.5,
+      "depth_max_mi": 6.5,
+      "principal_ew_span_mi": 8.5,
+      "provisional_ns_span_mi": 6.6,
+      "core_node_count": 52,
+      "terminal_node_count": 15,
+      "terminal_branch_count": 5,
+      "links_to_next_layer": 14
+    },
+    {
+      "stratum": "Green",
+      "code": "G",
+      "depth_min_mi": 6.5,
+      "depth_max_mi": 11.0,
+      "principal_ew_span_mi": 12.4,
+      "provisional_ns_span_mi": 9.6,
+      "core_node_count": 64,
+      "terminal_node_count": 18,
+      "terminal_branch_count": 6,
+      "links_to_next_layer": 16
+    },
+    {
+      "stratum": "Blue",
+      "code": "B",
+      "depth_min_mi": 11.0,
+      "depth_max_mi": 17.0,
+      "principal_ew_span_mi": 18.0,
+      "provisional_ns_span_mi": 14.0,
+      "core_node_count": 80,
+      "terminal_node_count": 21,
+      "terminal_branch_count": 7,
+      "links_to_next_layer": 18
+    },
+    {
+      "stratum": "Violet",
+      "code": "V",
+      "depth_min_mi": 17.0,
+      "depth_max_mi": 24.0,
+      "principal_ew_span_mi": 25.0,
+      "provisional_ns_span_mi": 19.0,
+      "core_node_count": 96,
+      "terminal_node_count": 24,
+      "terminal_branch_count": 8,
+      "links_to_next_layer": null
+    }
+  ],
+  "generation_parameters_file": "generation_parameters.json",
+  "topology_policy": {
+    "principal_core_biconnected": true,
+    "each_stratum_core_biconnected": true,
+    "natural_passages_only": true,
+    "terminal_arms_constant_depth": true,
+    "allow_parallel_passages_between_same_nodes": false,
+    "new_ids_append_only": true
+  },
+  "known_site_constraints": [],
+  "author_constraints": [
+    "D07 is a Violet-ending dungeon in the Blue political Domain. Domain identity and deepest dungeon stratum are separate concepts.",
+    "Phase 1 depth bands: Red 0–1.5, Orange 1.5–3.5, Yellow 3.5–6.5, Green 6.5–11, Blue 11–17, Violet 17–24 miles.",
+    "Use the established D01–D06 mapping system and consistent data, rendering and explorer conventions.",
+    "One persistent 3D graph supplies every projection; changing views does not generate new geography."
+  ],
+  "design_proposals": [
+    "Principal E-W widths, N-S placement envelopes, node counts, terminal-arm allocations and link counts are design proposals for D07.",
+    "The preserved best-candidate placement, Delaunay-pruning, depth-correlation, lateral-chain and four-vertex passage algorithms are retained.",
+    "One primary entrance at local R001 (0,0,0); use (D07,node_id) for global identity.",
+    "The deepest principal node is fixed at 24 miles in Violet. All six strata Red, Orange, Yellow, Green, Blue and Violet are included.",
+    "Seed 1630701 and the source implementation are frozen for D07 revision001. Permanent IDs are assigned once."
+  ],
+  "unresolved": [
+    "D07 place name and exact surface location within the Blue Domain.",
+    "Environmental regions, hydrology, flora, resources, natural velis and ELDRIS formation profiles.",
+    "Tunnel clearances, chamber dimensions, crossing methods, directional costs and passage difficulty.",
+    "Survey history, markers, authored expeditions, encounters, fatigue and elapsed travel days."
+  ],
+  "revision_relation": "First D07 atlas. Separate geography owner; does not supersede D01, D02, D03, D04, D05 or D06."
+}

@@ -62,3 +62,10 @@ Existing daily activities coexist with these work periods; no all-day scheduling
 This is native energy armor, distinct from the physical Chainmail Robe, ordinary Genesis Cards and the later Dimensional Ring. The reference to an unverified “Genesis Point” is not a new operator. No special Black Card, Neon engine or Armor of the Abyss milestone is restored.
 
 Evidence: [03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE](../../../PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/DELIVERY/CANON/03_VIOLET_ARC_GENESIS_ROBE_ARCHITECTURE.md).
+
+## White 006 · royal robe work and delivery
+
+Kaira's own first and only completed Genesis Robe as of Violet is finished Day 1303. On Day 1326 the King expresses desire for one and Princess `illi` mediates possible terms; exact bargain/acceptance was OPEN in the published Violet ledger. **Current White working chronology explicitly has Kaira working on the King's Genesis Robe on Days 1348–1350 (part day), 1362, 1365–1367, 1371, 1375.** This establishes active work on a second robe for the King; does **not** establish completion, transfer, or exact negotiated terms.
+
+
+The later 006 decision selects the completed royal robe’s presentation at the existing regular Aithen/5 game on **Day 1614**, and the King wears it at the **Day 1637** awards ceremony. Completion occurs by delivery; no separate fabrication-completion day or intervening work schedule is selected. Exact commission price, negotiated concessions and dialogue remain OPEN. This is a later White development; Kaira remains the only finished-robe owner throughout Violet, and all Violet 010 work windows, technical seam architecture and Crown research boundaries remain unchanged.

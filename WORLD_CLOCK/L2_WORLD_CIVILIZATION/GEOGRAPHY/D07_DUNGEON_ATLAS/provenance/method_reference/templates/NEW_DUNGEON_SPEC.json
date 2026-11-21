@@ -1,0 +1,88 @@
+{
+  "schema_version": "DUNGEON_SPEC_001",
+  "purpose": "Planning configuration for adapting the reference scripts. The preserved original generator does NOT read this file.",
+  "dungeon_id": "SET_UNIQUE_DUNGEON_ID",
+  "display_name": "SET_CITY_AND_DUNGEON_NAME",
+  "revision": "001",
+  "seed": "SELECT_INTEGER_AND_FREEZE",
+  "coordinate_system": {
+    "units": "miles",
+    "origin": "primary surface entrance",
+    "x": "east_positive",
+    "y": "north_positive",
+    "z": "depth_positive"
+  },
+  "layers": [
+    {
+      "name": "Red",
+      "code": "R",
+      "min_depth_mi": null,
+      "max_depth_mi": null,
+      "principal_ew_span_mi": null,
+      "principal_ns_span_mi": null,
+      "principal_nodes": null,
+      "terminal_nodes": null,
+      "terminal_branches": null,
+      "links_to_next_layer": null
+    },
+    {
+      "name": "Orange",
+      "code": "O",
+      "min_depth_mi": null,
+      "max_depth_mi": null,
+      "principal_ew_span_mi": null,
+      "principal_ns_span_mi": null,
+      "principal_nodes": null,
+      "terminal_nodes": null,
+      "terminal_branches": null,
+      "links_to_next_layer": null
+    },
+    {
+      "name": "Yellow",
+      "code": "Y",
+      "min_depth_mi": null,
+      "max_depth_mi": null,
+      "principal_ew_span_mi": null,
+      "principal_ns_span_mi": null,
+      "principal_nodes": null,
+      "terminal_nodes": null,
+      "terminal_branches": null,
+      "links_to_next_layer": null
+    },
+    {
+      "name": "Green",
+      "code": "G",
+      "min_depth_mi": null,
+      "max_depth_mi": null,
+      "principal_ew_span_mi": null,
+      "principal_ns_span_mi": null,
+      "principal_nodes": null,
+      "terminal_nodes": null,
+      "terminal_branches": null,
+      "links_to_next_layer": null
+    },
+    {
+      "name": "Blue",
+      "code": "B",
+      "min_depth_mi": null,
+      "max_depth_mi": null,
+      "principal_ew_span_mi": null,
+      "principal_ns_span_mi": null,
+      "principal_nodes": null,
+      "terminal_nodes": null,
+      "terminal_branches": null,
+      "links_to_next_layer": null
+    }
+  ],
+  "topology_policy": {
+    "principal_core_biconnected": "DESIGN_CHOICE_TO_APPROVE",
+    "natural_passages_only": true,
+    "terminal_arms_constant_depth": true,
+    "allow_parallel_passages_between_same_nodes": false,
+    "new_ids_append_only": true
+  },
+  "known_site_constraints": [],
+  "author_constraints": [],
+  "design_proposals": [],
+  "unresolved": []
+}

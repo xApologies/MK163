@@ -1,0 +1,32 @@
+{
+  "candidates_per_new_point": 90,
+  "elliptical_acceptance_squared": 1.05,
+  "depth_fraction_jitter": [
+    -0.13,
+    0.13
+  ],
+  "depth_fraction_clamp": [
+    0.055,
+    0.945
+  ],
+  "target_internal_core_edges_per_node": 2.2,
+  "terminal_extension_fraction_of_ew_width": [
+    0.2,
+    0.42
+  ],
+  "terminal_bend_fraction_of_ew_width": [
+    -0.11,
+    0.11
+  ],
+  "terminal_angle_jitter_radians": [
+    -0.65,
+    0.65
+  ],
+  "polyline_offset_fraction_of_chord": [
+    0.03,
+    0.11
+  ],
+  "algorithm_version": "D01_REFERENCE_ADAPTED_002",
+  "candidate_draw_limit_per_point": 10000,
+  "coordinate_decimal_places": 6
+}

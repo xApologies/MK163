@@ -1,0 +1,3 @@
+# Checkpoint 005 delta / authority
+
+Cumulative content from 004 retained, except ledger replaced with full continuous 1346–1484 ledger and README/Executable updated. Added B02 five routes, B02 timing, Blue-domain final Yellow standing, Blue V2 five routes and selected C, Violet circuit Race 1 finish with eventual Green placement, and Blue V1 race 2 staging timeline. User decisions override earlier provisional or conflicting proposals. Source files: V01(3).zip, V02(3).zip, B02(3).zip, Companion.zip. V01 atlas included as byte-identical source attachment under REFERENCES; full other archives are external dependencies, not silently reconstructed. No remote GitHub push performed. IMPORTANT: V1 route remains OPEN.

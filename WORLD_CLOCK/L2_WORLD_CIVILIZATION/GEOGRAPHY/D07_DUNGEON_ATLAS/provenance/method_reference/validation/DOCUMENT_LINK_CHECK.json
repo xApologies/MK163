@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "documents_checked": [
+    "DUNGEON_MAPPING_STANDARD.md",
+    "README.md"
+  ],
+  "missing_local_links": [],
+  "scope": "Primary authored documentation, not immutable historical source links."
+}

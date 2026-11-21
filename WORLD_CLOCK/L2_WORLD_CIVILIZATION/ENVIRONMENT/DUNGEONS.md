@@ -12,7 +12,7 @@ Favorable Blue oscillations can produce rare smooth, rounded or irregular minera
 
 # King’s Tournament · selected host dungeons
 
-The current competition uses local Green qualifiers, three Blue regional races per domain, an eight-race Violet circuit and a separate ninth Violet final. Ordinary dungeon access persists between competitions. The older W043 regional counts below are historical evidence.
+The current competition uses all 24 Green-depth-or-deeper local qualifier venues, two Blue races per political domain, a five-race Violet circuit and a separate royal Violet V2 final; three domains supply 21 circuit entrants and seven finalists. Ordinary dungeon access persists between competitions. The older W043 regional counts below are historical evidence.
 
 [Current tournament rules](../CULTURE/KINGS_TOURNAMENT.md)
 

@@ -1,3 +1,68 @@
+# King's Tournament — current White Arc stage design
+
+**Authority:** Explicit author selections from 2026-11-19 conversation. **Supersedes in scope:** older MK163 four-domain and three-Blue-race/eight-Violet-circuit descriptions. Historical documents remain preserved for provenance.
+
+The kingdom now contains **three political domains**: Green, Blue, Violet. Orange remains a chromatic stratum and noble rank/district descriptor, but not a fourth political domain. The tournament is a quadrennial dangerous **dungeon race**, not a PvP arena or dungeon clear. Each team chooses a route through persistent mapped passages, crosses the designated deepest-stratum activation boundary to activate its marker, then returns to the surface. Only successful completion qualifies for placement. Teams may deviate from a preplanned route; ELDRIS, oscillations, water and other natural conditions remain part of the race.
+
+## Stage 1 — local qualifying races
+All **24** mapped Green-depth-or-deeper dungeons host qualifiers, with kingdom-wide opening on **Day 1376, Aerith 1, Ailar (weekday 1)**. A vaelum enters exactly one local qualifier; all venues begin the same day, preventing repeat attempts at another qualifier. Seven highest completed places per dungeon advance (White to Red, 7 through 1). Domain dungeon counts: Green political domain 9 (4 Green, 3 Blue, 2 Violet); Blue political domain 8 (3 Green, 3 Blue, 2 Violet); Violet political domain 7 (3 Green, 2 Blue, 2 Violet). Maximum 168 advancing entries if each venue produces seven distinct finishers.
+
+## Stage 2 — domain Blue races
+Each domain holds **two Blue-dungeon races**, scoring cumulative points across both. Top **seven vaelum per political domain** advance, giving 21 total. Blue Domain selects B03 and B02; other domains’ venue pairs and dates remain OPEN. A team can score zero in a race if it fails to finish or places below seventh. Equal cumulative totals require a tiebreaker **not yet selected**; do not compare raw elapsed times from different dungeon layouts as though they were equivalent.
+
+## Stage 3 — kingdom Violet circuit
+All 21 advancing teams compete across five Violet-depth dungeons, in this author-selected order:
+1. Blue political domain **V2**
+2. Blue political domain **V1**
+3. Green political domain **V2** (Green capital dungeon)
+4. Green political domain **V1**
+5. Violet political domain **V1**
+
+Cumulative circuit points select top seven for royal final. Kaira’s selected races and 14-point circuit total are recorded in the White event chronology; other team standings and tie resolution remain OPEN.
+
+## Stage 4 — royal final
+**Violet political domain V2**, the kingdom's royal-capital dungeon. Seven finalists race; this final alone determines their finishing places, with prior points serving only to qualify. First White (7 points), second Violet (6), third Blue (5), **fourth Green (4; Kaira's vaelum)**, fifth Yellow (3), sixth Orange (2), seventh Red (1). A nonfinisher receives no finishing placement. Kaira receives an exceptional **Dimensional Ring** at the Book Red conclusion; White grade is now selected for every member of her seven-person team at Day 1637; exact commission terms and other finalists’ prizes remain OPEN.
+
+
+# Tournament departure staging and markers
+
+## Entry rules
+- A vaelum has **maximum 11 aithren, no minimum**; typical groups contain 5–11.
+- **Maximum 50 individual aithren per departure window**, not 50 teams. Teams are never split to fill capacity. Officials pack windows close to 50 where practical, accepting empty places. Example 11+11+11+7+7 = **47**.
+- Three windows per day: **10:00, 16:00, 22:00**. AERA/MK163 local day has **31 hours**.
+- Six possible days in order Red (day 1), Orange (day 2), Yellow (day 3), Green (day 4), Blue (day 5), Violet (day 6), each aligned to the six-day weekday cycle Ailar, Aiden, Aiveth, Ailor, Aithen, Aiven when opening on Ailar.
+- Maximum theoretical throughput 150 individuals/day, 900 individuals over six days per dungeon, **not** expected attendance. Many venues use only Red through Green or Blue days. Registered vaelum are allocated by lottery; staging schedules are announced after entry counts are known.
+- Each team's own elapsed time is measured from its assigned window. Dungeons have branching routes, variable ELDRIS conditions, and no promise of identical encounters. No reset between entrants.
+
+## Three-factor physical coin system — 54 combinations
+**3 dungeon activation types × 6 departure days × 3 departure blocks = 54.** All coins are genuinely **circular**, ~1.5-inch diameter, consistent proportions. The coin's **body/inlay** carries a subtle dungeon-specific tint/design: Green, Blue, Violet. **Gemstone hue is independent** and identifies departure day; gemstone **count** identifies block. Do not recolor all coins according to the departure day, and do not turn circular coins into ovals.
+
+| Day | Weekday | Gemstone | Block 1 / 10:00 | Block 2 / 16:00 | Block 3 / 22:00 |
+|---|---|---|---|---|---|
+| Red | Ailar | Ruby | 1 ruby | 2 rubies | 3 rubies |
+| Orange | Aiden | Citrine | 1 citrine | 2 citrines | 3 citrines |
+| Yellow | Aiveth | Topaz | 1 topaz | 2 topazes | 3 topazes |
+| Green | Ailor | Emerald | 1 emerald | 2 emeralds | 3 emeralds |
+| Blue | Aithen | Sapphire | 1 sapphire | 2 sapphires | 3 sapphires |
+| Violet | Aiven | Amethyst | 1 amethyst | 2 amethysts | 3 amethysts |
+
+A Green-dungeon coin activates at its designated Green-depth checkpoint; Blue-dungeon coin at designated Blue-depth checkpoint; Violet-dungeon coin at designated Violet-depth checkpoint. **Only the gemstone(s) glow upon successful activation**; the metal body does not glow. Verification must correspond to the race's designated checkpoint, not any arbitrary point of that color. Coins are surrendered and verified on return. The author has **approved a specific visual rendering** in conversation; preserve that approved image, do not redesign or treat failed intermediate image generations as canon. Image is not embedded in this ZIP because an authoritative exact source file was not supplied for packaging.
+
+## Time measurement
+Three **independent** identical maege glass chronometers are started simultaneously at the first Red Block 1 departure. Each continues counting; officials log the global return reading and registered wave/window offset. **Race elapsed time = return clock reading − departure offset.** For day `d` (1–6), block `b` (1–3), with 31-hour days and 6-hour blocks, offset in hours = `31*(d-1)+6*(b-1)`.
+
+**Kaira's vaelum:** Blue political domain **B3** local qualifier; assigned **Yellow Day 3, Block 2, 16:00**. Actual departure **Day 1378, Aerith 3, Aiveth**. Offset **68 hours** after Day 1376, 10:00. Their coin is **Blue-dungeon design with two topazes**; it activates at the designated Blue checkpoint. Departure lottery result is learned by the leader on Day 1375.
+
+## Current owning references
+
+[Race chronology](../../../BOOKS/RED/ARCS/ARC_007/TOURNAMENT_RACES.md) · [Three-domain map and namespace](../GEOGRAPHY/WORLD_MAP_REFERENCE.md) · [Chronometer construction](../TECHNOLOGY/TOURNAMENT_CHRONOMETERS.md) · [White 006 supersessions](../../../CHECKPOINTS/WHITE_006/REVERSE_DIFF.md)
+
+Earlier four-domain, three-Blue, eight-Violet-circuit, 28-finalist and ninth-final counts below are superseded. Festival customs, ordinary access and all unrelated detail survive.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # The King's Tournament — complete institutional working specification
 
 **Project:** MK163  

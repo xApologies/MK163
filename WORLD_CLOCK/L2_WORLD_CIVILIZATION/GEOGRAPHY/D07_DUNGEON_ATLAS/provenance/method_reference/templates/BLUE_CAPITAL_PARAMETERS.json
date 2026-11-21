@@ -1,0 +1,99 @@
+{
+  "schema_version": "DUNGEON_SPEC_001",
+  "purpose": "Exact recovered parameter table for Blue Capital generator 002; not universal defaults.",
+  "dungeon_id": "MK163_BLUE_CAPITAL",
+  "display_name": "Blue Capital Dungeon",
+  "revision": "DUNGEON_ATLAS_002",
+  "seed": 1631081,
+  "layers": [
+    {
+      "stratum": "Red",
+      "code": "R",
+      "depth_min_mi": 0.0,
+      "depth_max_mi": 1.5,
+      "principal_ew_span_mi": 3.0,
+      "provisional_ns_span_mi": 2.4,
+      "core_node_count": 30,
+      "terminal_node_count": 10,
+      "terminal_branch_count": 4,
+      "links_to_next_layer": 12
+    },
+    {
+      "stratum": "Orange",
+      "code": "O",
+      "depth_min_mi": 1.5,
+      "depth_max_mi": 3.5,
+      "principal_ew_span_mi": 5.0,
+      "provisional_ns_span_mi": 3.8,
+      "core_node_count": 40,
+      "terminal_node_count": 12,
+      "terminal_branch_count": 5,
+      "links_to_next_layer": 14
+    },
+    {
+      "stratum": "Yellow",
+      "code": "Y",
+      "depth_min_mi": 3.5,
+      "depth_max_mi": 6.5,
+      "principal_ew_span_mi": 8.0,
+      "provisional_ns_span_mi": 6.4,
+      "core_node_count": 52,
+      "terminal_node_count": 16,
+      "terminal_branch_count": 6,
+      "links_to_next_layer": 16
+    },
+    {
+      "stratum": "Green",
+      "code": "G",
+      "depth_min_mi": 6.5,
+      "depth_max_mi": 11.5,
+      "principal_ew_span_mi": 11.0,
+      "provisional_ns_span_mi": 8.8,
+      "core_node_count": 60,
+      "terminal_node_count": 20,
+      "terminal_branch_count": 8,
+      "links_to_next_layer": 18
+    },
+    {
+      "stratum": "Blue",
+      "code": "B",
+      "depth_min_mi": 11.5,
+      "depth_max_mi": 17.0,
+      "principal_ew_span_mi": 16.0,
+      "provisional_ns_span_mi": 12.0,
+      "core_node_count": 76,
+      "terminal_node_count": 24,
+      "terminal_branch_count": 9,
+      "links_to_next_layer": null
+    }
+  ],
+  "generator_constants": {
+    "candidates_per_new_point": 90,
+    "elliptical_acceptance_squared": 1.05,
+    "depth_fraction_jitter": [
+      -0.13,
+      0.13
+    ],
+    "depth_fraction_clamp": [
+      0.055,
+      0.945
+    ],
+    "target_internal_core_edges_per_node": 2.2,
+    "terminal_extension_fraction_of_ew_width": [
+      0.2,
+      0.42
+    ],
+    "terminal_bend_fraction_of_ew_width": [
+      -0.11,
+      0.11
+    ],
+    "terminal_angle_jitter_radians": [
+      -0.65,
+      0.65
+    ],
+    "polyline_offset_fraction_of_chord": [
+      0.03,
+      0.11
+    ]
+  }
+}

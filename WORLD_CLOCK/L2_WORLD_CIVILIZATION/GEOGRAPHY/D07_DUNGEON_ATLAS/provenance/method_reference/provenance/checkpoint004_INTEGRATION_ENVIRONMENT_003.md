@@ -1,0 +1,3 @@
+# Codex integration — Environmental Companion 003
+
+Integrate only the five new `BLUE_CAPITAL_DUNGEON_ATLAS/data/environment_*_003.*` files and `BLUE_CAPITAL_DUNGEON_ATLAS/ENVIRONMENT_COMPANION_003.md` into MK163. Read `INTEGRATION_DUNGEON_002.md` first and reconcile live remote HEAD. The graph 002 and all inherited source content must remain unchanged. Treat all generated environmental placements and traversal difficulty as **proposals**, not locked world canon. Accord Registry owns expedition/historical records and these are intentionally not filled. No repo push has occurred. Preserve this package as cumulative checkpoint 003.

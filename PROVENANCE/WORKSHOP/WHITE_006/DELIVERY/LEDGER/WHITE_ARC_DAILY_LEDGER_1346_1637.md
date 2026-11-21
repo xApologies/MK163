@@ -1,0 +1,298 @@
+# White Arc cumulative daily ledger
+
+Unassigned days retain prior checkpoint details; this file is a milestone overlay, not a claim that all intervening scenes were written. Day labels use AERA six-day week.
+
+| Day | Date | Weekday | Event |
+|---|---|---|---|
+| 1346 | Aelor 4 | Ailar (1) | Violet Arc ends: VTR-08 surface return |
+| 1347 | Aelor 5 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1348 | Aelor 6 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1349 | Aelor 7 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1350 | Aelor 8 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1351 | Aelor 9 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1352 | Aelor 10 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1353 | Aelor 11 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1354 | Aelor 12 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1355 | Aelor 13 | Ailor (4) | Vaelum staging visit; borrows leader CSR; six cards financed |
+| 1356 | Aelor 14 | Aithen (5) | Purchase two reusable gold sigil plates, Genesis crystals, dust, vaen |
+| 1357 | Aelor 15 | Aiven (6) | Local raeon: Violet |
+| 1358 | Aelor 16 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1359 | Aelor 17 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1360 | Aelor 18 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1361 | Aelor 19 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1362 | Aelor 20 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1363 | Aelor 21 | Aiven (6) | Local raeon: Blue |
+| 1364 | Aelor 22 | Ailar (1) | Distribute six CSR Cards; first group flight coordination |
+| 1365 | Aelor 23 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1366 | Aelor 24 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1367 | Aelor 25 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1368 | Aelor 26 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1369 | Aelor 27 | Aiven (6) | Local raeon: White |
+| 1370 | Aelor 28 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1371 | Aelor 29 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1372 | Aelor 30 | Aiveth (3) | Second CSR flight practice |
+| 1373 | Aelor 31 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1374 | Aelor 32 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1375 | Aelor 33 | Aiven (6) | Leader obtains Yellow Block 2 assignment |
+| 1376 | Aerith 1 | Ailar (1) | B03 qualifier opens; route planning |
+| 1377 | Aerith 2 | Aiden (2) | B03 route planning |
+| 1378 | Aerith 3 | Aiveth (3) | B03 qualifier Route B Yellow Block 2 departure 16:00 |
+| 1379 | Aerith 4 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1380 | Aerith 5 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1381 | Aerith 6 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1382 | Aerith 7 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1383 | Aerith 8 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1384 | Aerith 9 | Aiveth (3) | B03 Blue threshold marker activation 00:30 |
+| 1385 | Aerith 10 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1386 | Aerith 11 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1387 | Aerith 12 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1388 | Aerith 13 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1389 | Aerith 14 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1390 | Aerith 15 | Aiveth (3) | B03 qualifier finish 00:30:17; Orange eventual placement |
+| 1391 | Aerith 16 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1392 | Aerith 17 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1393 | Aerith 18 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1394 | Aerith 19 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1395 | Aerith 20 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1396 | Aerith 21 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1397 | Aerith 22 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1398 | Aerith 23 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1399 | Aerith 24 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1400 | Aerith 25 | Ailar (1) | B03 Stage Two opens |
+| 1401 | Aerith 26 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1402 | Aerith 27 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1403 | Aerith 28 | Ailor (4) | B03 Route A Green Block 1 departure 10:00 |
+| 1404 | Aerith 29 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1405 | Aerith 30 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1406 | Aerith 31 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1407 | Aerith 32 | Aiden (2) | B03 second marker activation 10:00 |
+| 1408 | Aelora 1 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1409 | Aelora 2 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1410 | Aelora 3 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1411 | Aelora 4 | Aiven (6) | B03 Stage Two finish 25:37:23; Green eventual placement |
+| 1412 | Aelora 5 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1413 | Aelora 6 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1414 | Aelora 7 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1415 | Aelora 8 | Ailor (4) | Spatial corridor transfer to Blue Domain B02 |
+| 1416 | Aelora 9 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1417 | Aelora 10 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1418 | Aelora 11 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1419 | Aelora 12 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1420 | Aelora 13 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1421 | Aelora 14 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1422 | Aelora 15 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1423 | Aelora 16 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1424 | Aelora 17 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1425 | Aelora 18 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1426 | Aelora 19 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1427 | Aelora 20 | Ailor (4) | B02 assignment posted Orange Block 3 |
+| 1428 | Aelora 21 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1429 | Aelora 22 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1430 | Aelora 23 | Ailar (1) | B02 Stage Two race opens |
+| 1431 | Aelora 24 | Aiden (2) | B02 Route A Orange Block 3 departure 22:00 |
+| 1432 | Aelora 25 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1433 | Aelora 26 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1434 | Aelora 27 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1435 | Aelora 28 | Aiven (6) | B02 Blue threshold marker activation 06:30 |
+| 1436 | Aelora 29 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1437 | Aelora 30 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1438 | Aelora 31 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1439 | Aevrin 1 | Ailor (4) | B02 finish 06:43:07 |
+| 1440 | Aevrin 2 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1441 | Aevrin 3 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1442 | Aevrin 4 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1443 | Aevrin 5 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1444 | Aevrin 6 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1445 | Aevrin 7 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1446 | Aevrin 8 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1447 | Aevrin 9 | Aiven (6) | Blue Domain combined standings Yellow; advances to 21-team Violet circuit |
+| 1448 | Aevrin 10 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1449 | Aevrin 11 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1450 | Aevrin 12 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1451 | Aevrin 13 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1452 | Aevrin 14 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1453 | Aevrin 15 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1454 | Aevrin 16 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1455 | Aevrin 17 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1456 | Aevrin 18 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1457 | Aevrin 19 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1458 | Aevrin 20 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1459 | Aevrin 21 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1460 | Aevrin 22 | Ailar (1) | Violet Circuit Race 1 Blue Domain V2 Route C Red Block 2 departure 16:00 |
+| 1461 | Aevrin 23 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1462 | Aevrin 24 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1463 | Aevrin 25 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1464 | Aevrin 26 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1465 | Aevrin 27 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1466 | Aevrin 28 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1467 | Aevrin 29 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1468 | Aevrin 30 | Aiveth (3) | Race 1 Violet marker activation 00:30 |
+| 1469 | Aevrin 31 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1470 | Aevrin 32 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1471 | Aevrin 33 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1472 | Aelis 1 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1473 | Aelis 2 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1474 | Aelis 3 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1475 | Aelis 4 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1476 | Aelis 5 | Aithen (5) | Race 1 finish 24:27:15; Green = 4 points |
+| 1477 | Aelis 6 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1478 | Aelis 7 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1479 | Aelis 8 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1480 | Aelis 9 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1481 | Aelis 10 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1482 | Aelis 11 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1483 | Aelis 12 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1484 | Aelis 13 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1485 | Aelis 14 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1486 | Aelis 15 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1487 | Aelis 16 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1488 | Aelis 17 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1489 | Aelis 18 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1490 | Aelis 19 | Ailar (1) | Violet Circuit Race 2 opens Blue Domain V1 |
+| 1491 | Aelis 20 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1492 | Aelis 21 | Aiveth (3) | Race 2 Route D Yellow Block 2 departure 16:00 |
+| 1493 | Aelis 22 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1494 | Aelis 23 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1495 | Aelis 24 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1496 | Aelis 25 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1497 | Aelis 26 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1498 | Aelis 27 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1499 | Aelis 28 | Ailor (4) | Race 2 marker activation 00:30 |
+| 1500 | Aelis 29 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1501 | Aelis 30 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1502 | Aelis 31 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1503 | Aevor 1 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1504 | Aevor 2 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1505 | Aevor 3 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1506 | Aevor 4 | Aithen (5) | Race 2 finish 17:37:53; Orange = 2 points |
+| 1507 | Aevor 5 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1508 | Aevor 6 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1509 | Aevor 7 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1510 | Aevor 8 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1511 | Aevor 9 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1512 | Aevor 10 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1513 | Aevor 11 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1514 | Aevor 12 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1515 | Aevor 13 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1516 | Aevor 14 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1517 | Aevor 15 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1518 | Aevor 16 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1519 | Aevor 17 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1520 | Aevor 18 | Ailar (1) | Violet Circuit Race 3 Green Domain V2 Route B provisional Red Block 1 departure 10:00 |
+| 1521 | Aevor 19 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1522 | Aevor 20 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1523 | Aevor 21 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1524 | Aevor 22 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1525 | Aevor 23 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1526 | Aevor 24 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1527 | Aevor 25 | Aiden (2) | Race 3 marker activation 25:30 |
+| 1528 | Aevor 26 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1529 | Aevor 27 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1530 | Aevor 28 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1531 | Aevor 29 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1532 | Aevor 30 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1533 | Aevor 31 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1534 | Aevor 32 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1535 | Aelith 1 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1536 | Aelith 2 | Aithen (5) | Race 3 finish 13:21:37; Red = 1 point |
+| 1537 | Aelith 3 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1538 | Aelith 4 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1539 | Aelith 5 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1540 | Aelith 6 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1541 | Aelith 7 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1542 | Aelith 8 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1543 | Aelith 9 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1544 | Aelith 10 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1545 | Aelith 11 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1546 | Aelith 12 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1547 | Aelith 13 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1548 | Aelith 14 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1549 | Aelith 15 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1550 | Aelith 16 | Ailar (1) | Violet Circuit Race 4 Green Domain V1 Route B Red Block 1 departure 10:00 |
+| 1551 | Aelith 17 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1552 | Aelith 18 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1553 | Aelith 19 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1554 | Aelith 20 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1555 | Aelith 21 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1556 | Aelith 22 | Ailar (1) | Race 4 marker activation 25:30 |
+| 1557 | Aelith 23 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1558 | Aelith 24 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1559 | Aelith 25 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1560 | Aelith 26 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1561 | Aelith 27 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1562 | Aelith 28 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1563 | Aelith 29 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1564 | Aelith 30 | Aiveth (3) | Race 4 finish 12:57:13; Yellow = 3 points |
+| 1565 | Aelith 31 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1566 | Aelith 32 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1567 | Aelith 33 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1568 | Aerion 1 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1569 | Aerion 2 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1570 | Aerion 3 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1571 | Aerion 4 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1572 | Aerion 5 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1573 | Aerion 6 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1574 | Aerion 7 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1575 | Aerion 8 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1576 | Aerion 9 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1577 | Aerion 10 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1578 | Aerion 11 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1579 | Aerion 12 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1580 | Aerion 13 | Ailar (1) | Violet Circuit Race 5 Violet Domain V1 opens |
+| 1581 | Aerion 14 | Aiden (2) | Race 5 Route C Orange Block 3 departure 22:00 |
+| 1582 | Aerion 15 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1583 | Aerion 16 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1584 | Aerion 17 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1585 | Aerion 18 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1586 | Aerion 19 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1587 | Aerion 20 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1588 | Aerion 21 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1589 | Aerion 22 | Ailor (4) | Race 5 marker activation 06:30 |
+| 1590 | Aerion 23 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1591 | Aerion 24 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1592 | Aerion 25 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1593 | Aerion 26 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1594 | Aerion 27 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1595 | Aerion 28 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1596 | Aerion 29 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1597 | Aerion 30 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1598 | Aerion 31 | Ailar (1) | Race 5 finish 23:11:47; Green = 4 points; circuit total 14 |
+| 1599 | Aerion 32 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1600 | Aeveth 1 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1601 | Aeveth 2 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1602 | Aeveth 3 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1603 | Aeveth 4 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1604 | Aeveth 5 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1605 | Aeveth 6 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1606 | Aeveth 7 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1607 | Aeveth 8 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1608 | Aeveth 9 | Aithen (5) | Free time / travel / optional route discussion (unassigned) |
+| 1609 | Aeveth 10 | Aiven (6) | Free time / travel / optional route discussion (unassigned) |
+| 1610 | Aeveth 11 | Ailar (1) | Free time / travel / optional route discussion (unassigned) |
+| 1611 | Aeveth 12 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1612 | Aeveth 13 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1613 | Aeveth 14 | Ailor (4) | Free time / travel / optional route discussion (unassigned) |
+| 1614 | Aeveth 15 | Aithen (5) | Royal raeon game; Kaira presents completed Genesis Robe to King |
+| 1615 | Aeveth 16 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1616 | Aeveth 17 | Ailar (1) | Royal final Violet Domain V2 Route A Red Block 2 departure 16:00 |
+| 1617 | Aeveth 18 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1618 | Aeveth 19 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1619 | Aeveth 20 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1620 | Aeveth 21 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1621 | Aeveth 22 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1622 | Aeveth 23 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1623 | Aeveth 24 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1624 | Aeveth 25 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1625 | Aeveth 26 | Ailor (4) | Royal final marker activation 00:30 |
+| 1626 | Aeveth 27 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1627 | Aeveth 28 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1628 | Aeveth 29 | Ailar (1) | Unassigned / inherited prior ledger |
+| 1629 | Aeveth 30 | Aiden (2) | Unassigned / inherited prior ledger |
+| 1630 | Aeveth 31 | Aiveth (3) | Unassigned / inherited prior ledger |
+| 1631 | Aesith 1 | Ailor (4) | Unassigned / inherited prior ledger |
+| 1632 | Aesith 2 | Aithen (5) | Unassigned / inherited prior ledger |
+| 1633 | Aesith 3 | Aiven (6) | Unassigned / inherited prior ledger |
+| 1634 | Aesith 4 | Ailar (1) | Royal final finish 16:37:17; eventual Green fourth |
+| 1635 | Aesith 5 | Aiden (2) | Free time / travel / optional route discussion (unassigned) |
+| 1636 | Aesith 6 | Aiveth (3) | Free time / travel / optional route discussion (unassigned) |
+| 1637 | Aesith 7 | Ailor (4) | Royal awards ceremony; King wears Genesis Robe; seven White dimensional rings; BOOK ENDS |

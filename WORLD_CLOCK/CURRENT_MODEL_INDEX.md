@@ -1,3 +1,13 @@
+# Current White outline · Book Red closes Day 1637
+
+White 006 completes the **Book Red outline through Day 1637**. The seven-person vaelum finishes Green/fourth in the independent royal final; each receives a White-ranked dimensional ring. Six CSR Cards are made on 1358–1361, distributed 1364. The King’s robe is delivered 1614 and worn at the final ceremony. Violet’s Day 1346 closure, all 23 arc files and every earlier running-ledger row remain unchanged. No completed prose or epilogue is implied.
+
+Read the [White owner](../BOOKS/RED/ARCS/ARC_007/ARC.md), [scoped supersessions](../CHECKPOINTS/WHITE_006/REVERSE_DIFF.md), and [source gaps](../CHECKPOINTS/WHITE_006/OMISSIONS.md). Three political domains, two Blue domain races and five Violet circuit races replace the older format. Green V2’s departure lottery remains provisional. Earlier frontier statements below retain only their historical scope.
+
+---
+
+## Previous record · historical in the explicitly superseded scope
+
 # Violet · outline complete through Day 1346
 
 Kaira completes the first Genesis Robe on Day 1303 after 35 work days across nine windows. She alone has a finished Genesis Robe during Violet. She takes it on VTR-07 (1304–1320) and wears it at the existing Day 1326 royal raeon game, where illi mediates an unresolved prospective bargain. No second robe, completed royal commission or field outcome is selected. [Genesis Robe owner](L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md) · [010 audit](../CHECKPOINTS/VIOLET_CUMULATIVE_010/INTEGRATION_REPORT.md).

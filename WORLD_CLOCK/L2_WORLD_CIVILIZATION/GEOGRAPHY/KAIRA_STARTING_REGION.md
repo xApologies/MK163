@@ -1,3 +1,9 @@
+# White 006 · political-domain correction
+
+The author places Kaira’s original Village Hub and associated Hollowmere Green dungeon in **Green Domain G3**. This changes the territorial assignment only; the original numbered regional map, northwest Hollowmere location, all delivery legs and story dates below remain unchanged. [Author decision](../../../PROVENANCE/WORKSHOP/WHITE_006/AUTHOR_DECISIONS.md) · [Kingdom map owner](WORLD_MAP_REFERENCE.md).
+
+---
+
 > **Delta 005 current authority — integrated 2026-10-19:** The detailed numbered circuit replaces the older Arc 1 shorthand through Hollowmere. Hollowmere remains site #6 northwest of the hub, distinct from #5 Green Hollow; specified distances are working locks, other legs remain open. This section governs the identified changes. The complete prior record is retained after it as provenance; only explicitly superseded statements cease to govern.
 
 ## Delta 005 current integration

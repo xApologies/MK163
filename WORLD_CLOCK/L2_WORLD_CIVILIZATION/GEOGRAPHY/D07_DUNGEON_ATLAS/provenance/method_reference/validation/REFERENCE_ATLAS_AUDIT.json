@@ -1,0 +1,31 @@
+{
+  "status": "PASS_WITH_REVIEW_ITEMS",
+  "graph_sha256": "2f5139f399f48a62f5ee0f3eff9e05f4ff9a89badecd9841305855ef2651f4f2",
+  "metrics": {
+    "nodes": 340,
+    "edges": 709,
+    "components": 1,
+    "independent_cycles": 370,
+    "principal_nodes": 258,
+    "terminal_tips": 32
+  },
+  "environment": {
+    "node_rows": 340,
+    "passage_rows": 709,
+    "regions": 44,
+    "water_features": 24,
+    "difficulties": {
+      "medium": 417,
+      "low": 213,
+      "hard": 79
+    }
+  },
+  "check_count": 10131,
+  "failure_count": 0,
+  "failures": [],
+  "review_items": [
+    "R001: provisional forest overlay overlaps the entrance; retain as review item, not automatic accepted vegetation.",
+    "Environmental generator and exact difficulty thresholds are not included in checkpoint004; audit checks saved results, not a recovered generation algorithm."
+  ],
+  "scope": "Structural and cross-file checks only; not geological realism, travel feasibility, historical accuracy, hydrologic flow, or ecology validation."
+}
