@@ -1,3 +1,17 @@
+# Book Blue 002 · selected pirate infrastructure and campaign
+
+The selected combination is **mobile floating-city-like fortresses**, fleets, **central resource-harvesting islands**, independent numbered slave-market territories and a small island headquarters/harbor. Water-manipulating sigils move the fortresses, so positions shift and tracking/containment are difficult. Their exact number is not fixed by the older three-to-five source. The old volcanic-island source remains historical; it does not supply unselected modern coordinates or a Domai Heart mechanism.
+
+A multinational coalition/armada campaigns overseas. Book Blue Green locates and dismantles fortresses it can find; Kaira’s particular contribution remains OPEN. Blue targets land-based timber, crop and other resource operations in the map’s central pink region, Kaira’s primary operational role. Violet brings her armada to independent slave-trading territory 1; other coalition forces address 2/3. These are not pirate-owned kingdoms by default and no abolition, annexation or complete victory is inferred. White attacks the red-circled Pirate King’s island/harbor and dismantles the coordinated King/Lords collective. The King’s personal fate, exact assault, other outcomes and political aftermath remain OPEN; independent piracy and illicit trade may persist.
+
+Kaira remains Crown Intelligence / Special Projects, not a naval transfer or primary ship-to-ship combat role. Cabal manipulation and the selected White revelation belong to [the existing Cabal owner](CABAL_OF_ASH_AND_CROWN.md). Full chronology and exclusions: [Book Blue 002](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md). [Exact annotated map and reading limits](../../../BOOKS/BLUE/REFERENCE_ASSETS/READING_NOTES.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Pirates — international criminal maritime infrastructure
 
 **Project:** MK163  

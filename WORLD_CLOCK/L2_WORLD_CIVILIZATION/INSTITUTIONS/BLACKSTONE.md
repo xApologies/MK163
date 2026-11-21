@@ -1,3 +1,17 @@
+# Book Yellow · three advanced Transduction semesters
+
+After the Red Black Dragon egg bond and return to White, illi sponsors Kaira’s return to Blackstone for **three semesters** of advanced Transduction, building on her earlier five-semester education. The selected six Dragon-associated categories are Elemental Transduction, Dimensional Geometry, Genesis Field Topology, Genesis Expression, Resonance and Chirality. These already match the MK163 [Dragon-capability owner](../../L1_FANTASY/OPERATIONAL_DOMAINS.md); they are not a silent rewrite of AERA’s generic Domain 1. The separately proposed AERA patch is not claimed merged.
+
+Recruitment into the regular ELDRIS/domai military occurs in Book Yellow Green, during this academic period, with exact meeting date OPEN. She graduates before Blue service. This adds no dated semester timetable, named courses/faculty, qualification title or repeated first-cycle calendar. All original Book Red schedules below remain unchanged.
+
+[Full Yellow macro](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Recruitment distinction](CROWN_MILITARY_AND_SPECIAL_PROJECTS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Blackstone Keep · Semester III
 
 Sixteen weeks of dated plans cover Days 452–547. Genesis Field Theory III, shared Quantum Field Theory I, Elaira’s Differential Geometry II and Chemistry I, and Kaira and illi’s Transduction Theory I retain their instructional slots. The dated plans select the first-lecture study exception, the Founders Games postponement, the three examination cycles and each student’s event attendance.

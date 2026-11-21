@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "packages": [
+    {
+      "book": "ORANGE",
+      "checkpoint": "MK163_BOOK_ORANGE_MACRO_001",
+      "archive": "Orange Arcs.zip",
+      "archive_sha256": "e3af75437e559fc47ffb1cb9dd4a233653db5cb5a4cd7ecf5ae229717f060e30",
+      "files": 4,
+      "manifest_entries_verified": 3,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "YELLOW",
+      "checkpoint": "MK163_BOOK_YELLOW_MACRO_001",
+      "archive": "Yellow Arcs.zip",
+      "archive_sha256": "6c960678e43479defa695ef4006b42f30c623200836740065d4d39af0287e508",
+      "files": 5,
+      "manifest_entries_verified": 4,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "GREEN",
+      "checkpoint": "MK163_BOOK_GREEN_MACRO_002",
+      "archive": "Green Arcs.zip",
+      "archive_sha256": "b1ed42569f390d0ec065394aa9711b9b833cd7f933a2343f97d65d498f2b533d",
+      "files": 5,
+      "manifest_entries_verified": 4,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "BLUE",
+      "checkpoint": "MK163_BOOK_BLUE_MACRO_002",
+      "archive": "Blue Arcs.zip",
+      "archive_sha256": "a0e5f354c4f1faaa2caf4b46754b8bdb7a74a83faee9de89bdca33e0f7ca0007",
+      "files": 6,
+      "manifest_entries_verified": 5,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    }
+  ],
+  "total_files": 20,
+  "total_manifest_entries": 16
+}

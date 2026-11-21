@@ -1,0 +1,35 @@
+# MK163 — Book Blue (Book Five): author-selected macro outline
+Status: AUTHOR-SELECTED MACRO; chapter/scene implementation OPEN.
+Source: conversation decisions through 2026-11-20; reconcile against live MK163 before integration.
+
+## Red Arc — Recognition and Violet Realm
+Kaira receives the kingdom's highest service decoration for her contributions to the coordinated continental cartel/black-market disruption of Book Green. Formal award name, ceremony, presenter and attendees OPEN.
+Kaira visits the Violet Realm accompanied only by her living Black Unicorn. Her other companions (Nyx, Black Sprite, Black Vaelith, Black Dragon) remain in the White Realm: humans may enter chromatic realms; nonnative chromatic beings cannot enter other chromatic realms. Companions retain independent agency; activities while apart OPEN. Unicorns, authors of all eight prophecies, inform Kaira that the Black Primordial has emerged in geode/crystalline egg-like form in the Yellow Realm. Realm time passes differently; no ratios or ages are fixed. Kaira and Unicorn return to the White Realm palace; she tells others what she learned. An intelligence update reports heavy cartel/black-market disruption, only scattered resistance, and improved cooperation among the western kingdom, central merchant city-states and eastern republic. Red concludes on this favorable report. No Primordial bond yet.
+
+## Orange Arc — Special Projects deployment
+Three Domai emerge and merge into a major threat (colors and mechanics OPEN). Special Projects sends a coordinated division, with Kaira attached because of her capabilities and bonds. She engages as part of the group, gains operational experience, and returns. Location, tactics, exact outcome and commendations OPEN. **No Yellow Realm expedition in Orange** (superseded placement).
+
+## Yellow Arc — Yellow Realm expedition
+Kaira decides to seek the Black Primordial. Princess **illi** accompanies her in a small Crown diplomatic delegation; other delegates/security OPEN. Kaira's non-Yellow-native companions, including Nyx and Black Unicorn, stay in the White Realm under interrealm restrictions. They visit the Yellow Realm, pursue the fifth Black bond with the Yellow-native Black Primordial (geode/crystalline egg-like), and return to the White Realm. The bond is the designated Book Blue Black bond; exact discovery, bonding sequence and Primordial development OPEN. Do not assert unselected scenes or fixed elapsed times.
+
+## Green Arc — Mobile floating fortresses
+A large, multinational naval armada/coalition begins the overseas anti-piracy campaign. Kaira is attached as a Crown Intelligence / Special Projects operative, **not transferred to the navy**. The armada locates and dismantles pirate floating fortresses that it can find. These are huge floating-city-like bases moved by water-manipulating sigils; locations shift, so tracking/containment are difficult. Kaira is not primarily assigned ship-to-ship mage combat; her precise contribution to these fortress engagements remains OPEN. **Do not place the central resource-island harvesting campaign in Green; it belongs in Blue.**
+
+## Blue Arc — Central resource-harvesting islands
+Kaira's armada attacks pirate-held small islands in the **central pink-marked region** of the supplied pirate map, dismantling fortifications and disrupting timber/lumber harvesting, crops and other resource supply operations supporting fleets and floating cities. **Kaira's primary operational role is land-based attacks on these facilities.** Specific islands, missions, combat, civilian protections and results OPEN.
+
+## Violet Arc — Slave-trading territory No. 1
+Kaira's armada advances to the independent slave-trading territory **numbered 1** on the annotated pirate map. Other coalition forces address numbered territories **2 and 3**; exact assignments, methods and outcomes OPEN. These are independent political territories with established slave markets, **not** pirate-owned kingdoms by default. The campaign targets trafficking infrastructure, but does not imply automatic abolition of slavery or annexation. Exact engagements OPEN.
+
+## White Arc — Pirate King's harbor
+The campaign culminates at the Pirate King's headquarters on a small island **circled in red** on the annotated map, with a major naval port/fleet concentration around it. Coalition operations dismantle the **coordinated Pirate King/Lords organization as a collective infrastructure**. The Pirate King's personal fate, exact assault, surviving pirates, political aftermath and individual trafficking outcomes OPEN. Independent piracy and illicit trade may persist.
+
+### White Arc — Cabal of Maegi revelation (NEW author decision, checkpoint 002)
+During the defeat of the Pirate King and assault on his headquarters, members of the **Cabal of Maegi** are found present at the location and interrogated. Kaira's group thereby learns that the Cabal has been operating behind the scenes for centuries in pursuit of **world domination**. The Pirate King believed the Cabal was working *with* him, but the Cabal was manipulating him as a piece in its larger strategy. This is an **established manipulative relationship**, superseding the earlier status of an unselected possible Cabal–Pirate King connection. Preserve the protected spelling **Maegi** (M-A-E-G-I), never 'Magi'. The Cabal's specific plan, leadership, identities of interrogated members, interrogation details, degree of disclosure and fate of those members remain OPEN. The revelation launches the Cabal horizon for Book Violet; do not resolve the Cabal in Book Blue.
+
+## Geographic and institutional boundaries
+- Use `PIRATE_MAP_AUTHOR_ANNOTATED.jpg` as author-provided reference: pink regions are operating zones, **not fixed fortress coordinates**; central pink region contains resource islands; white-marked numbered 1/2/3 are slave-market territories; small red circle denotes Pirate King's island/harbor. Map world diameter stated ~80,000 miles; do not invent travel times or distances.
+- Pirate system: mobile floating cities, fleets, land-based harvesting bases, and independent slave-trading markets. Cartels maintain black markets; pirates supply illicit intercontinental shipping, including drugs and human trafficking.
+- Kaira is high-ranking Crown Intelligence within independent Crown Special Projects, with extraordinary authority below Princess illi. Special Projects operative title remains UNNAMED; **Reaper is retired author-level terminology**, not canon.
+- The coordinated naval campaign is multinational. Kaira's armada has a specified route; do not make Kaira responsible for every coalition battle.
+- **White Arc Cabal reveal is now author-selected:** interrogated Cabal of Maegi members at the Pirate King’s headquarters reveal centuries of behind-the-scenes manipulation toward world domination. Exact plan, identities and subsequent confrontation remain OPEN.

@@ -1,0 +1,192 @@
+{
+  "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+  "packages": [
+    {
+      "book": "ORANGE",
+      "checkpoint": "MK163_BOOK_ORANGE_MACRO_001",
+      "archive": "Orange Arcs.zip",
+      "archive_sha256": "e3af75437e559fc47ffb1cb9dd4a233653db5cb5a4cd7ecf5ae229717f060e30",
+      "files": 4,
+      "manifest_entries_verified": 3,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "YELLOW",
+      "checkpoint": "MK163_BOOK_YELLOW_MACRO_001",
+      "archive": "Yellow Arcs.zip",
+      "archive_sha256": "6c960678e43479defa695ef4006b42f30c623200836740065d4d39af0287e508",
+      "files": 5,
+      "manifest_entries_verified": 4,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "GREEN",
+      "checkpoint": "MK163_BOOK_GREEN_MACRO_002",
+      "archive": "Green Arcs.zip",
+      "archive_sha256": "b1ed42569f390d0ec065394aa9711b9b833cd7f933a2343f97d65d498f2b533d",
+      "files": 5,
+      "manifest_entries_verified": 4,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    },
+    {
+      "book": "BLUE",
+      "checkpoint": "MK163_BOOK_BLUE_MACRO_002",
+      "archive": "Blue Arcs.zip",
+      "archive_sha256": "a0e5f354c4f1faaa2caf4b46754b8bdb7a74a83faee9de89bdca33e0f7ca0007",
+      "files": 6,
+      "manifest_entries_verified": 5,
+      "crc": "PASS",
+      "path_safety": "PASS",
+      "manifest_coverage": "PASS"
+    }
+  ],
+  "files": [
+    {
+      "book": "ORANGE",
+      "source": "BOOK_ORANGE_MACRO_OUTLINE.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "sha256": "4150f747b532d6207408cfa7bfcbc41f6af215f0c8a0283789f56972ce48ce09",
+      "bytes": 7422
+    },
+    {
+      "book": "ORANGE",
+      "source": "CODEX_HANDOFF.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/CODEX_HANDOFF.md",
+      "sha256": "eb290e4e447f5f259387bccae7c80760f931fd0c620541ededa6e03d22a162b7",
+      "bytes": 1567
+    },
+    {
+      "book": "ORANGE",
+      "source": "MANIFEST.json",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/MANIFEST.json",
+      "sha256": "bf4be79bbf90090c5b5f7ec5199910ebd5eebe4d08f37c1f781ef91a94e578d7",
+      "bytes": 372
+    },
+    {
+      "book": "ORANGE",
+      "source": "README.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/README.md",
+      "sha256": "3440bfe932aa1e9f4a4e1eb4390434da80a886b9a93bb0f72ce352223e4bd259",
+      "bytes": 421
+    },
+    {
+      "book": "YELLOW",
+      "source": "BOOK_YELLOW_MACRO_OUTLINE.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "sha256": "f6615697fd46fd43369fe50bf9a0b146b884c3d03340ab4915ba419c58cc36c5",
+      "bytes": 6665
+    },
+    {
+      "book": "YELLOW",
+      "source": "executable.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/executable.md",
+      "sha256": "b1c9026d2526e62eaaaf404938c8c69da07c135ccdc8df603a96d40de1a61071",
+      "bytes": 4275
+    },
+    {
+      "book": "YELLOW",
+      "source": "MANIFEST_SHA256.json",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/MANIFEST_SHA256.json",
+      "sha256": "f49605e9aa80b771d2def83bb9a6e4f1ceb26c8bec14ba6c785bb6d61f3150cf",
+      "bytes": 452
+    },
+    {
+      "book": "YELLOW",
+      "source": "README.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/README.md",
+      "sha256": "70f7f51be0c9f6805ff4b78aa4a665d208a52c33f731593961978750ca60909b",
+      "bytes": 627
+    },
+    {
+      "book": "YELLOW",
+      "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "sha256": "c23e56d8db9ada90f6cf299c8255ec64b5191e4ab7e8c2b11396d714f72d76e3",
+      "bytes": 1474
+    },
+    {
+      "book": "GREEN",
+      "source": "BOOK_GREEN_MACRO_OUTLINE.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "sha256": "9123a62366cd1e3022d3911bf9c9fcbfd720a40f156f3ff7e2b4f845c401909f",
+      "bytes": 6801
+    },
+    {
+      "book": "GREEN",
+      "source": "executable.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/executable.md",
+      "sha256": "978d7ae59153222900bc2ed44ca4b5c9b976dce76fa5b4d87065a0554c8c372f",
+      "bytes": 4494
+    },
+    {
+      "book": "GREEN",
+      "source": "MANIFEST_SHA256.json",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/MANIFEST_SHA256.json",
+      "sha256": "92c745f764eae98bf1b1786b3210eb0909f089c755cc644d7c52291bbc7d823b",
+      "bytes": 450
+    },
+    {
+      "book": "GREEN",
+      "source": "README.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/README.md",
+      "sha256": "bd35d3bc12b1e98107e438692e4602a4dabc47b6f9065f55d30645206d54b59a",
+      "bytes": 826
+    },
+    {
+      "book": "GREEN",
+      "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "sha256": "4ab1f9658dac48d78669458febef9aefb8bb8da89a37febfa9dd2043c236a697",
+      "bytes": 3306
+    },
+    {
+      "book": "BLUE",
+      "source": "BOOK_BLUE_MACRO_OUTLINE.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "sha256": "38fa8c2486bf373c9b369a5c9ccc7d9ee9f85243821927dad7e5462be1e789bd",
+      "bytes": 6930
+    },
+    {
+      "book": "BLUE",
+      "source": "executable.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/executable.md",
+      "sha256": "06f0817feb6b1beb68b24e1342b02167c4d5bd4406e80f5d8ac8b8bc58649d65",
+      "bytes": 4732
+    },
+    {
+      "book": "BLUE",
+      "source": "MANIFEST_SHA256.json",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/MANIFEST_SHA256.json",
+      "sha256": "323a8a8f68c7fb312d43c9a7be0289bb4801e5e950a4364ec6bf5ee73a1d7a66",
+      "bytes": 600
+    },
+    {
+      "book": "BLUE",
+      "source": "PIRATE_MAP_AUTHOR_ANNOTATED.jpg",
+      "target": "BOOKS/BLUE/REFERENCE_ASSETS/PIRATE_MAP_AUTHOR_ANNOTATED.jpg",
+      "sha256": "a792a7959541505aa8fc62d213e60e98387a1ec257560d387b669fe53e896057",
+      "bytes": 952880
+    },
+    {
+      "book": "BLUE",
+      "source": "README.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/README.md",
+      "sha256": "4ebe1c5b7207c5849c72c98e348f526a95ef82b234c0a9c2d057fa1af2e26fbc",
+      "bytes": 761
+    },
+    {
+      "book": "BLUE",
+      "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "target": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "sha256": "988ae59398c5ccb4549d393ca97ed46744d71b687666a9f251e041a9f944b9b5",
+      "bytes": 2543
+    }
+  ],
+  "image_policy": "One exact image file at the Book Blue reference-assets owner; its manifest entry resolves through this mapping, avoiding a duplicate image copy."
+}

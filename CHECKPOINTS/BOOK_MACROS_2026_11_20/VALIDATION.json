@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+  "check_count": 1547,
+  "failures": [],
+  "counts": {
+    "packages": 4,
+    "source_files": 20,
+    "payload_hashes": 16,
+    "complete_macros": 4,
+    "arc_contracts": 28,
+    "coverage_topics": 41,
+    "local_links_checked": 313,
+    "expected_changed_paths": 109
+  },
+  "preservation": "All earlier text retained in changed owners; Book Red/daily ledger, Violet/White books and historical sources remain unchanged.",
+  "scope": "Complete supplied macro checkpoints; no literal workshop transcript or full manuscript claim. Referenced Kingdoms map identity remains pending recovery."
+}

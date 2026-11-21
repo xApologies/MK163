@@ -1,3 +1,19 @@
+# Book Blue White · Cabal of Maegi revelation
+
+**Author-selected checkpoint 002, 2026-11-20; integrated 2026-11-21.** The protected Book Blue label is **Cabal of Maegi**, not “Magi”; this refines the existing Cabal record rather than creating a second organization. Its historical filename and source naming remain preserved.
+
+During the Pirate King’s defeat and headquarters assault, Cabal members are found there and interrogated. Kaira’s group learns that the Cabal has operated behind the scenes for centuries toward world domination. The Pirate King believed it was working with him, but it manipulated him as a piece in its larger strategy. **This manipulation relationship is established**, superseding the prior possibility-only connection in this scope. No feud is selected. No hierarchy making all pirates/cartels Cabal subsidiaries follows.
+
+The exact strategy, leadership, interrogated members’ identities, interrogation detail, degree of disclosure, their fates and the Pirate King’s fate remain OPEN. The revelation provides Book Violet’s starting context without selecting its arcs or defeating the Cabal in Blue. Existing source-power limitations, protected prophecies and unrelated historical evidence below remain in force.
+
+[Full White Arc revelation](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Exact scoped author supersession](../../../PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/SUPERSESSIONS_AND_OPEN_ITEMS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Cabal of Ash and Crown — hidden civilizational domination
 
 **Project:** MK163  

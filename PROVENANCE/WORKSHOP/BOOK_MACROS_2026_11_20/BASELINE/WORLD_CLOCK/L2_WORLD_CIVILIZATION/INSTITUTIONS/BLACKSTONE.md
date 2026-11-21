@@ -1,0 +1,329 @@
+# Blackstone Keep · Semester III
+
+Sixteen weeks of dated plans cover Days 452–547. Genesis Field Theory III, shared Quantum Field Theory I, Elaira’s Differential Geometry II and Chemistry I, and Kaira and illi’s Transduction Theory I retain their instructional slots. The dated plans select the first-lecture study exception, the Founders Games postponement, the three examination cycles and each student’s event attendance.
+
+The faculty Prism season opens with the Day 502 announcement. On Days 505, 511, 517, 523, 529, 535 and 541 the regular Aiven competition window is 13:00–23:00, with overtime possible. The Day 547 championship shares the final Aiven with the symposium and feast. The institutional raeon club meets 13:00–17:00 on Aiven. Students can choose the club, an outing or an event, subject to their dated clinical commitments. The Guest Scholar opening and continuations on 523–526 are attended by all three, 19:00–25:00.
+
+[Cumulative source guide](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/README.md) · [Aiven opportunities and amendments](BLACKSTONE_EDUCATION/SEMESTER_III_LIVE_MODEL/AIVEN_CITY_TRIP_OPPORTUNITIES.md) · [Earlier semesters’ institutional comparison](BLACKSTONE_SEMESTER_I_CALENDAR.md) · [Daily timetables](../../../CONTINUITY/RED_RUNNING_DAY_LEDGER.md) · [Corrections and open details](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_III_DAY_576/INTEGRATION_REPORT.md)
+
+---
+
+# Blackstone · Semester II and the Age of Knowledge
+
+The first cycle’s Semester II covers Days 338–433. Sixteen six-day weeks each have a complete daily plan for Kaira, illi and Elaira. The inherited semester event pattern repeats on its semester-local dates. Freshman standing covers Semesters I–II, middleclassman III–IV and upperclassman V. The Guest Scholar Series offers 19:00–25:00 sessions on semester days 72–75. All three attend the main session in each semester. Attendance on the three subsequent evenings remains optional. The First Hospital Observation window on Semester I Day 265 and Semester II Day 379 is 13:00–18:00. The supplied Semester I overlay files cover the guest series.
+
+The faculty and staff Prism season opens on semester day 51. Eight academic department teams compete on the permanent field in the U-shaped Gym. Seven regular Aiven game days use 13:00–23:00, with possible overtime. The Day 433 championship shares the afternoon with the symposium. The winner is announced at the 19:00–23:00 feast. Specific fixtures, points, winning department and student attendance remain OPEN.
+
+On Break II Day 451 aina publicly recognizes the transductionist movement. Headmaster Caelor accepts the expectation that Blackstone lead its academic development. Conceptual study helps practitioners improve shaping efficiency and expression. The bookstore will carry voluntary transductionist clothing made by local chainmail smiths. Stocking date, prices and supply agreements remain OPEN.
+
+[Cycle and first-cycle dates](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Recurring campus events](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/CAMPUS_EVENTS_RECURRING.md) · [Semester I guest overlays](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/GUEST_SCHOLAR_OVERLAYS/README.md) · [Eight departments and fixtures](BLACKSTONE_EDUCATION/SEMESTER_II_LIVE_MODEL/PRISM_TOURNAMENT_SEASON.md) · [Royal recognition](BLACKSTONE_EDUCATION/BREAK_II_LIVE_MODEL/DAY_451_AGE_OF_KNOWLEDGE_CEREMONY.md)
+
+---
+
+# Blackstone · first break outline and unchanged annual calendar
+
+Semester I's complete Days 224–319 model remains intact. Aiselle's Day 319 feast appearance is an additive scene detail, not a timetable replacement. Nyx's living bedroom flower wall is a Semester I retrospective and stays in Kaira's campus apartment during her visit away.
+
+Break **320–340** is 21 days. Kaira stays at Aiselle's established **Blue District** apartment in the **Blue Domain capital** during 320–330, returns with Elaira's completed gift on **331**, and joins illi/Elaira's rickshaw ring-order trip on **332**. Later break leisure is an interval outline, not full daily schedules. **341/Ailor** remains the Semester II opening/first instructional-day calendar anchor; no required lesson or attendance is invented.
+
+aina, illi's older sister and Blue ruler, lives at a **White District** palace in this same capital; illi visits without moving home. Prestigious artisan Rows are in **Yellow District**. The violet map marker within the Blue Domain identifies its capital per the author; Domain and district colors are separate categories. The conceptual map has no newly surveyed scale, route, coordinates or global placement.
+
+Headmaster Caelor and Aiselle retain their confirmed names. No new institutional top-level directory, professor appointment or inherited-calendar edit is created.
+
+[Unchanged academic cycle](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Owning break narrative outline](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) · [Living wall retrospective](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) · [Exact conceptual domain map reused](../../../PROVENANCE/WORKSHOP/BOOK_RED_2026_11_07/SOURCES/LM_011/REFERENCES/USER_SUPPLIED_KINGDOM_MAP.jpeg)
+
+[Break Checkpoint 02 reconciliation](../../../CHECKPOINTS/GREEN_SEMESTER_II_BREAK_02/REVERSE_DIFF.md) · [Complete supplied source mapping](../../../PROVENANCE/WORKSHOP/GREEN_SEMESTER_II_BREAK_02/SOURCE_MAP.json)
+
+## Earlier record · preserved verbatim
+
+Only the stated Break Checkpoint 02 author selections govern the new intervals and retrospective details. Prior content remains as historical evidence; all unrelated decisions still apply. Outlined events and calendar anchors are not completed prose or fully authored daily schedules.
+
+---
+
+# Blackstone · annual academic cycle and complete Semester I planning
+
+[Annual academic calendar: 353-day offset cycle](BLACKSTONE_ACADEMIC_CALENDAR.md) · [Complete Semester I live model, Days 224–319](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+The annual institutional owner is separate from the preserved Semester I event infrastructure calendar and the three unchanged five-semester curriculum owners. Semester II begins Day 341 (Ailor), III Day 458 (Ailar), and the next cycle Day 577 (Aiven); no weekday reset or civil New Year identification. Days after 319 are allocations only.
+
+**Headmaster Caelor** and **Aiselle, the Alchemist**, are now explicitly author-confirmed names. Aiselle arranged Kaira's course overlap with illi during admissions with Caelor; no new exact date or altered admission outcome is inferred. Professor and young Sprite names/gender remain independently OPEN.
+
+Campus planning retains the departmental/faculty Prism Cup rule and OPEN Cup date. The historical ER Foam Ball/five-branch source is not revived. The existing Semester I infrastructure file remains byte-identical; selected attendance and time overlays live with their weekly records. Shapings remain operations and Bindings interfaces; historical “binding-circle” activity labels do not authorize new metaphysics.
+
+[Semester I reconciliation](../../../CHECKPOINTS/BLACKSTONE_SEMESTER_I_ANNUAL/REVERSE_DIFF.md) · [Complete daily live model and source boundaries](BLACKSTONE_EDUCATION/SEMESTER_I_LIVE_MODEL/README.md)
+
+## Earlier record · preserved verbatim
+
+The approved Semester I selections and the explicit integration decisions govern only their stated scope. Earlier frontier/OPEN labels describe previous checkpoints; all unrelated canon and source evidence remain. These are selected plans, not completed prose or automatic mastery.
+
+---
+
+# Blackstone · Day 224 Natural Philosophy association
+
+The established mature Green Sprite professor's Day 224 visit is associated with **Natural Philosophy**, an existing department. The author's proposed office/home area does not determine a room, street address, separate landmark, precise map geometry or residence arrangement. Their standing 16:00–20:00 office hours offer optional mentorship, with attendance governed by consent and student schedules, not a new compulsory course. The selected first visit supersedes Kaira's optional afternoon blocks on Day 224 only. Required Genesis Field Theory I remains 11:00–13:00; Opening Convocation time is OPEN.
+
+[Professor identity, office hours and full mentorship record](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Day 217 bookstore stationery clarification](../TECHNOLOGY/MAEGE_GLASS_AND_CONSTRUCTS.md) · [Day 224 scene owner](../../../BOOKS/RED/ARCS/ARC_004/ARC.md)
+
+[Day 224 reconciliation](../../../CHECKPOINTS/GREEN_DAY224/REVERSE_DIFF.md) · [Complete original author selections](../../../PROVENANCE/WORKSHOP/GREEN_DAY224/DAY_224_GREEN_ARC_AUTHOR_BEATS.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Day 224 selections above supersede the earlier record in their stated scope. Prior source wording, unrelated decisions and detailed historical records remain preserved. Earlier end-of-Day-217 frontier labels describe the preceding checkpoint; current selected-outline status is stated above, without claiming completed prose.
+
+---
+
+# Blackstone teaching expansion · v5
+
+[All-subject five-semester teaching directory](BLACKSTONE_EDUCATION/TEACHING/V5/README.md) preserves the complete Kaira, illi and Elaira daily plans: 1,440 student-days, 736 required student-class entries and a 512-row master syllabus. All remain proposed lessons under the existing three primary timetable owners. Current v7 repairs, Aiven rest, Kaira's Semester II Ailor class and all narrative canon are unchanged. [Source qualifications and teaching readiness](BLACKSTONE_EDUCATION/TEACHING/V5/READING_NOTES.md) govern reading; no lesson is a completed story event.
+
+## Earlier record · preserved verbatim
+
+Only this scoped teaching-plan addition changes the current curriculum references. Prior source wording and all unrelated canon remain preserved.
+
+---
+
+# Blackstone · Day 217 scholar encounter and proposed syllabus
+
+After move-in, Kaira and illi dine at an ordinary Grand Archives counter/restaurant with Nyx and the young Black Sprite. A long-established, mature Green-native Sprite scholar recognizes/notices the young companion and offers respectful mentorship, with Kaira’s agreement and the Sprite’s agency. The Grand Archives is the central monumental building; the professor has a Blackstone office with an open invitation, exact coordinates OPEN. Their work with humans spans Green Realm ecology, Genesis biology, culture and prophecy. [Full professor identity, visual design, communication and mentorship limits](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md).
+
+The bookstore supplies textbooks, notebooks and class materials before their return home; no titles, prices or extra required texts are selected. The adjacent residences/move-in remain. The handmaiden now stays behind to unpack using a dimensional storage bracelet; she is a personal attendant, not a student, and has free time after duties. Exact bracelet mechanics remain OPEN. [Full selected Day 217 beats and future Day 224 planning](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+[Proposed five-semester Genesis/Transduction syllabus](BLACKSTONE_EDUCATION/GENESIS_TRANSDUCTION_PROPOSED_SYLLABUS.md) complements the existing three complete curricula without changing meetings, dates or disciplinary courses. Semester I Day 224 remains future; Opening Convocation time and its placement around the required 11:00–13:00 GFT I lecture remain OPEN. Multicultural faculty is a direction; a Leviathan mathematician and Orange-native Vaelith biologist are examples only, not selected appointments.
+
+Green v8 · 2026-11-12. [Scoped supersessions and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V8/REVERSE_DIFF.md) · [GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CANON/GREEN_DAY217_SPRITE_PROFESSOR_AND_BOOKSTORE_v8.md) · [BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/CURRICULUM/BLACKSTONE_GENESIS_TRANSDUCTION_FIVE_SEMESTERS_v1.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit v8 decisions above supersede earlier statements in their stated scope. All unrelated canon, original source wording and prior decisions remain preserved.
+
+---
+
+# Blackstone education · v7 schedule reconciliation
+
+**EDU-01 RESOLVED:** Kaira and illi share Semester III Quantum Field Theory I on **Aiveth 11:00–13:00**. illi’s 13:00–15:00 block is optional quantum-field review / independent study.
+
+**EDU-02 RESOLVED:** Elaira’s Chemistry I is **Aithen 11:00–13:00**, and Differential Geometry II is **Aiveth 17:00–19:00**. On Aiveth, 18:00–19:00 is optional study for Kaira and illi while Elaira attends her required lecture; **19:00–20:00** is the optional all-three study period. This does not compel attendance or retime Kaira’s or Elaira’s original schedules.
+
+The existing three complete curriculum owners remain authoritative; only illi Semester III source and current cross-references change. The older EDU-01 OPEN banner below is historical. No campus, Prism, narrative or calendar decision changes. [Corrected full illi timetable](BLACKSTONE_EDUCATION/ILLI_PRIMARY.md).
+
+[v7 integration and reverse diff](../../../CHECKPOINTS/GREEN_DAY217_V7/INTEGRATION_REPORT.md) · [Author-directed reconciliation](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V7/EDU_RECONCILIATION_v7.md)
+
+## Earlier record · preserved verbatim
+
+The explicit v7 decision supersedes only EDU-01/EDU-02 below. All unrelated details remain in force; original v6 sources and audit reports remain unchanged.
+
+---
+
+# Blackstone Keep · current campus and education owners
+
+The Day 212 Headmaster meeting and Day 217 campus move are now selected. Kaira occupies student housing with Nyx and the independent Sprite; illi and her personal handmaiden occupy the adjacent, larger apartment. Semester I begins on cumulative Day 224, a future anchor. This supersedes the earlier campus-move OPEN only; exact admission procedure, evaluation and dialogue remain OPEN. The retained 022 wine courtesy/acquaintance boundary still governs.
+
+## Provenance and precedence
+Source: author-uploaded 20-page `MASTER(3).pdf`, titled *BLACKSTONE UNIVERSITY — ARC 4 CAMPUS CANON*. Preserve original source unaltered. This document is a faithful extracted summary with **explicit later author corrections**. Older source calls the institution Blackstone University and uses "Mage Lights"; current MK163 terminology uses **Blackstone Keep** and protected **maege** (thus **maege lights**). Historical text stays unchanged in SOURCES.
+
+## Institution and construction
+- **Age approximately 1,100 years**, author-approved revision of source's ~1,700 years. The source's 'seventeen centuries' wording is superseded for current narrative.
+- Campus ~4 miles x 4 miles, effectively a university-city. Historical source says kingdom ~3,000 years old (working estimate, not newly locked).
+- Spatial-locking phase-grown Blackstone forms massive unsupported interior spans. Architectural forms are mostly simple cubes, rectangular prisms and orthogonal structures; complexity is in space and circulation, not excessive exterior ornament.
+- Blackstone is seamless, deep black, black-on-black marbled, slightly fluid-looking, with depth below its solid surface. It is not natural quarry rock.
+- Daylight identity: calm greenery, trees, gardens, canals, water, promenades, courtyards, open study spaces, natural light. Campus is lived-in, not an endless spectacle.
+- Night identity: old sigil-carved **maege lights** gently activate, revealing glowing geometry in walls. Canals glow bright arcane blue (not teal or neon), water remains water. Magic is restrained and infrastructural; old systems remain in use by tradition and utility.
+- Institutional philosophy: understanding and accumulated knowledge; centuries of research, architectural practice and traditions.
+
+## Departmental landmarks
+1. **Chemistry — The Perpetual Flame.** Controlled reaction continuously maintained for centuries; occasionally changes color for reasons debated by students; chemists insist it is under control.
+2. **Biology — The Anatomical Gallery.** Permanent museum within Biology Complex: comparative anatomy, medical history, organ systems, developmental and educational exhibits. The permanent gallery is distinct from the scheduled Anatomical Exhibition. The later explicit daily-ledger decision resolves the legacy Day 21 claim: Anatomical Exhibition is Semester Day 18 (cumulative 241); Founders Games are Semester Day 21 (cumulative 244). Preserve both historical sources unchanged.
+3. **Genesis Field Studies — The Sphere.** Massive projected, evolving closed configuration outside department; never repeats or fully stabilizes; student meeting point and research debate.
+4. **Mathematics — The Wall.** Blackstone wall carved with a meaningful configuration of zeros and ones, mathematically valid, solution lost with its creator; no known solution. **Approximately 800 years old**, author-approved revision of the source's ~1,300 years. Researchers travel to study it.
+5. **Hospital / Helkir — The Healing Garden.** Quiet therapeutic garden used by patients, students, nurses, healers; collaboration among Biology, Helkir, Genesis Fields and Architecture.
+6. **Quantum Fields — The Pedestal.** Simple Blackstone monument claimed to contain the 'First Gravity Particle'; no visible object, occasional light/perspective distortions; other departments skeptical; official assertion: 'It is there.'
+7. **Natural Philosophy — Department of Questions.** Physics, cosmology, mechanics, observation, nature, reality; intellectual counterpart to Genesis Field Studies. No specific permanent landmark is assigned in the uploaded source.
+
+## Relationship to existing approved Gym and Prism
+All previously approved three-wing four-story Gym, Prism Field ~3/4 x 1/2 mile, engineered Blackstone obstacle field, and selected visual reference remain controlling. Do not use artistic renderings to revise campus map geometry.
+
+# The Gym — approved architecture and floor allocation
+
+**Name:** The Gym. Do not rename it “Blackstone Gymnasium.”
+
+## Placement and geometry
+- Located immediately north of the Hospital Complex, surrounding the Prism Field on three sides.
+- U-shaped structure: **West Wing, East Wing, South Wing**. **No North Wing**; the field is open to the north.
+- South Wing runs across the **width of the U / horizontal span of the field**; East/West wings run along the **depth** of the field.
+- **Four stories**; each story approximately 20 feet tall with monumental/vaulted interior proportions, approximately 80 feet combined story heights, excluding unspecified roof detail.
+- Built from engineered/grown Blackstone. Spatial-locking sigils enable immense clear-span interiors without conventional load-bearing pillars.
+- Width of the Gym is only a **provisional map-derived estimate** (roughly two-thirds to three-quarters of a mile); do not claim a precise surveyed dimension. The original 4 mi × 4 mi campus map is the geographic authority.
+
+## Floor allocation (author-approved working resolution)
+| Floor | West Wing | East Wing | South Wing |
+|---|---|---|---|
+| 1 | Individual firing lanes, students aim inward at stationary projected manifold targets | Room-clearing course I, start south and move north; engage selected targets and avoid others | Large social lobby: couches, chairs, tables, fireplace ambience; smoothies, multiple healthy/recovery-oriented restaurants; large male/female changing rooms |
+| 2 | Open stationary and moving manifold target range | Room-clearing course II, distinct room configuration | Weight room / fitness |
+| 3 | Advanced varied manifold target range, more complex combinations and movements | Room-clearing course III, distinct room configuration | Additional gym / conditioning |
+| 4 | Long-distance manifestation range; students fire from southern end northward along the wing, potentially approximately half a mile | Room-clearing course IV, distinct room configuration | Large indoor swimming pool |
+
+The Gym's primary function is safe transduction practice, especially offensive manifestation and accuracy; conventional physical training is a secondary but real function. Projected manifolds can be stationary or moving. The fourth-floor West Wing is about long-distance accuracy and control rather than simply destructive strength.
+
+**Caveat:** Specific target patterns, floor dimensions, restaurant names, pool layout and room-course maps are not yet designed. No additional wing or campus structure is authorized.
+
+# Prism Field — author-locked concept
+
+## Placement and size
+- Permanent outdoor field occupying the open central space of the U-shaped Gym; **no North Wing**.
+- Approximate dimensions **3/4 mile × 1/2 mile** (~1.21 km × 0.805 km; ~240 acres). Supersedes earlier 1 mile × 2/3 mile estimate.
+- The Gym's South Wing spans the field's width across the southern side; West/East wings extend along its depth.
+- The original author campus map is authoritative for placement; the rendering is an aesthetic and obstacle-layout reference, **not a dimensionally exact plan**.
+
+## Approved permanent obstacle character
+- Author-selected reference image: `SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg`.
+- A **tailored competitive field**, not a flat track or empty lawn.
+- Permanent obstacles are **engineered/grown Blackstone formed through a phase field**, not natural sedimentary rock, random boulders, quarry debris or rocky terrain.
+- Structured cover walls, towers/pillars, climbable elevated positions, platforms, stairs, ramps, arches, bridges, paths, sightline breaks, and open lanes. Image serves as the preferred arrangement/aesthetic; exact object count, positions, heights, top-down blocks are pending author reconstruction.
+- Open spaces remain between obstacle clusters. Flyers (air manipulation / CSR) exploit verticality; augmenters move quickly between cover, jump, climb, and parkour; non-flyers can gain elevated positions by climbing constructed structures.
+- Blackstone field obstacles are permanent physical architecture, **not the Gym's projected manifold targets**.
+- The render may depict the South Wing as one story or suggest enclosing background buildings: these visual errors do not override the **four-story U-shaped Gym with open north**.
+
+## Relation to training
+- The field supports Prism games and, when available, augmenter movement training / obstacle courses.
+- Gym training ranges use projected manifolds; the Prism Field is for physical terrain-based competition and recreation.
+
+## Complete primary curricula and calendar
+
+Three distinct five-semester curricula are supplied, with 90 full recurring daily patterns and a 31-hour day. Names: Kaira (Cardsmith), illi (Awakened native Genesis transduction), Elaira (Helkir). These are approved future education schedules, not evidence that five semesters have already elapsed at the Day 217 frontier. Aiven stays a protected rest day; optional study and social opportunities are not scripted attendance. Kaira’s Semester II has four required courses, including the Ailor Sigil Architecture class; do not apply a blanket three-class or non-instructional-Ailor rule to her.
+
+- [Kaira — all five semesters and full timetables](BLACKSTONE_EDUCATION/KAIRA_PRIMARY.md)
+- [illi — all five semesters and full timetables](BLACKSTONE_EDUCATION/ILLI_PRIMARY.md)
+- [Elaira — all five semesters and full timetables](BLACKSTONE_EDUCATION/ELAIRA_PRIMARY.md)
+- [Semester I infrastructure calendar and complete source descriptions](BLACKSTONE_SEMESTER_I_CALENDAR.md)
+
+**EDU-01 — OPEN by author instruction, 2026-11-12:** Semester III Quantum Field Theory I is called a shared section, but Kaira has Aiveth 11:00–13:00 and illi 13:00–15:00. Preserve both timetables; no shared class time is selected. Optional shared-study labels do not override another student’s required class. [Detailed scheduling limits](../../../CHECKPOINTS/GREEN_DAY217_V6/OMISSIONS_AND_OPEN_ISSUES.md).
+
+Visual sources: [original annotated campus map](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/CAMPUS/ORIGINAL_ANNOTATED_CAMPUS_MAP.jpg) · [approved Prism Field concept](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/SOURCES/PRISM_FIELD/PRISM_FIELD_APPROVED_CONCEPT.jpeg). The map is supplied despite stale missing-map language in earlier package notes. Image captions and render geometry do not override written decisions.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/BLACKSTONE_CAMPUS_LANDMARKS_AND_ARCHITECTURE.md) · [GYM_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/GYM_ARCHITECTURE.md) · [PRISM_FIELD_ARCHITECTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_FIELD_ARCHITECTURE.md) · [CHARACTERS_AND_EDUCATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CHARACTERS_AND_EDUCATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
+# Sponsorship offered Day 187 · admission pending at Yellow closure
+
+The Alchemist offers Blackstone Cardsmith education sponsorship, tuition and housing on Day 187 after the special robe is completed. Day 211 arrival at her Blue capital apartment closes Yellow; it does not confirm admission or campus occupancy. Green Arc begins after 211. Exact admission date/procedure, campus move and a possible wine exchange remain OPEN. Existing Blue capital/campus dimensions and later educational outline remain unchanged. [Commission and friendship](../../L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md) · [Temporary Blue District residence](../../L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md).
+
+Delta 021 · 2026-11-11. [Scoped decisions and reconciliation](../../../CHECKPOINTS/YELLOW_CLOSURE_021/REVERSE_DIFF.md). Sources: [CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/03_ALCHEMIST_FRIENDSHIP_COMMISSION.md) · [CANON/06_TRAVEL_AND_ARC_BOUNDARY.md](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/CANON/06_TRAVEL_AND_ARC_BOUNDARY.md).
+
+## Earlier record · preserved verbatim
+
+Only the explicit Delta 021 changes above supersede earlier statements. Unrelated canon and all source quotations retain their existing scope.
+
+---
+
+# Blackstone Keep and the Blue Domain capital
+
+**Book Red consolidation · 2026-11-07.** Blackstone Keep is the Institution of Knowledge **inside the 13 × 13 mile Blue Domain capital** (169 square miles). Its **4 × 4 mile campus** occupies 16 square miles. Its city already participates in the four-capital King’s Highway; no separate Blackstone-to-capital portal. Campus placement, gate location and exact royal academic contracts remain OPEN. The Crown’s capital and the Blue capital remain distinct.
+
+One of three equally premier institutions (other names OPEN). The Alchemist sponsors admission, tuition and housing at the close of Yellow. Kaira studies human Cardsmithing with a sigil, styluses and maege-glass; the Princess studies advanced Transduction/mathematics following private tutoring. Years pass; high honors and a portfolio of student Cards do not confer a Master Cardsmith title or commercial clientele. The Sprite’s Resolution insight helps her reason about Card topology; she still learns technique. No official honor title or timetable selected. [Green Arc](../../../BOOKS/RED/ARCS/ARC_004/ARC.md).
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
+> **Live Model 009B current authority — 2026-10-22:** Keeps Arc IV human Cardsmith schooling and distinguishes ongoing realm-native experiential mentorship. This scoped update preserves LIVE_MODEL_009 Black Card retirement and every unrelated decision.
+
+## Live Model 009B integration
+
+**Red Arc IV formal Cardsmith education remains.** The Institution of Knowledge provides Kaira's human-engineered mathematical/Cardsmith training; ordinary Genesis Cards are human technology rather than automatic denizen abilities. This does not remove the institution's broader existing curriculum or professions.
+
+Her [realm-native education](../../L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) develops through independent Black companions, observation, demonstrations and shared adventures, avoiding repeated formal school arcs for each realm. Human theory and denizen intuition can inform each other. No precise learning-rate law, timetable, new curriculum, class roster or complete school story is authored. First modular ordinary-Card invention is future and unplaced. The required Arc V Black Card manufacture remains retired.
+
+Complete supplied evidence: [04_BLACK_BONDS_PERCEPTION_MENTORSHIP](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/WORKSHOP/04_BLACK_BONDS_PERCEPTION_MENTORSHIP.md); [selected author excerpts](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009B/PROVENANCE/AUTHOR_EVIDENCE_EXCERPTS.md). [Corrections and source limits](../../../PROVENANCE/LIVE_MODEL_009B_CORRECTIONS_AND_BOUNDARIES.md) govern interpretation; the supplied record is not a complete literal transcript.
+
+---
+
+## Record before Live Model 009B — retained verbatim
+
+**Scope boundary:** Earlier statements remain in full. Only the explicit 009B refinements above govern their identified scope. Ordinary modular Card engineering does not revive the retired special Black Card subsystem, realm-card anchors, sixfold Neon engine or required Arc V Armor manufacture. Unrelated prior canon and historical evidence remain intact; source quotations are not new execution permission.
+
+> **Live Model 009 current authority — 2026-10-22:** Retains education and institution while removing the retired special-Card dependency. Only this explicit supersession changes prior canon; unrelated decisions and complete prior evidence remain.
+
+## Live Model 009 — focused supersession
+
+**Red Arc IV formal Cardsmith education remains the author-directed planning constraint.** Kaira's ordinary Cardsmith profession, curriculum scope and institution remain. Course selection, timetable, peers and full school narrative remain OPEN.
+
+The former **Arc V first Black Card** dependency and Armor/Green reconciliation are **RETIRED / SUPERSEDED**, not school graduation or manufacturing requirements. [Series planning](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) leaves Arc V activity and a first original ordinary Card if any OPEN, with no replacement assignment. The full institution record and source boundaries remain unchanged below.
+
+Source: [009 author decision](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_009/CANON_DELTA/ACTIVE_AUTHOR_DECISION.md); [retirement and remaining OPEN issues](../../../PROVENANCE/LIVE_MODEL_009_BLACK_CARD_RETIREMENT.md).
+
+---
+
+## Record before Live Model 009 — preserved verbatim
+
+**Reading boundary:** Earlier authority banners below are historical. All specialized Black Card proposals, realm-card anchors, six-card coupling, exceptional-card engineering/occupancy questions, and required Arc V Black Card manufacture are **RETIRED / SUPERSEDED** by 009, even where the preserved text says “current,” “selected,” or “OPEN.” The Armor/Green dispute is closed as an active obligation without selecting either variant. Unrelated canon, ordinary Cards, Black bonds, Neon cosmology and other open questions remain governed by their existing scoped decisions. No historical passage reactivates the retired subsystem.
+
+> **Live Model 008 current authority — 2026-10-21:** Links the new scoped educational placement while keeping course and school-story details unassigned. Only the explicit scope below changes prior decisions; the complete previous record remains preserved.
+
+## Live Model 008 integration
+
+The supplied 008 planning constraint places formal Cardsmith education in **Red Arc IV**. [The series owner](../../L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) distinguishes that current scoped anchor from 007's previously open attendance chronology. Courses, timetable, named peers, full school arc and later fabrication implementation remain OPEN. The legacy first major original Black Card belongs to Arc V, with [Armor/Green-anchor reconciliation unresolved](../../../PROVENANCE/LIVE_MODEL_008_BLACK_CARD_CHRONOLOGY_CONFLICT.md); no old MK147 school narrative is imported.
+
+---
+
+## Record before Live Model 008 — retained in full
+
+# Blackstone — Institution of Knowledge
+
+**Project:** MK163  
+**Status:** ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS  
+**Canonical path:** `WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md`
+
+Blackstone is the selected flagship Institution of Knowledge relevant to Kaira's story. Other Institutions of Knowledge exist; Blackstone is not the only place learning occurs. The author uses Yale/Harvard/MIT as prestige analogies, not imported Earth campuses, degree systems or people.
+
+MK147 describes Blackstone as one of the kingdom's premier/top-three institutions, a residential accelerated professional/craft institution. Its campus is approximately four miles by four miles within an approximately thirteen-mile-square capital. The inherited architectural language is seamless dark phase-grown stone, orthogonal/rectangular organization, greenery, water and extensive open spaces; not Gothic, cathedral, castle or Brutalist architecture. Spatial locking can support unusually large interiors.
+
+The source plan locates Mathematics west/northwest, Genesis Field Studies north-central, Chemistry northeast, Biology east, Hospital/helkir southeast and Natural Philosophy south/southwest. Named landmarks are the Perpetual Flame, Anatomical Gallery, Sphere, Wall and Healing Garden. The Pedestal remains a campus-lore candidate. The supplied image is preserved; its incidental marks do not assign new MK163 characters or events.
+
+The academic frame is science, mathematics and practical Genesis understanding. Biology, Anatomy, Chemistry, Topology, Differential Geometry, Genesis Field Theory and field/atomic concepts support coherent Shapings. The author also selects quantum fields/quanta and quantum field theory as relevant mathematical concepts, rather than making a decorative vague school of magic. This is in-world curriculum scope, not a claim that the fictional system has independently established new real-world physics.
+
+For Binding users, education improves concept: a picture of fire is not the same as understanding oxidation, thermal gradients, chemistry and energy organization. The prepared manifold does not eliminate this conceptual requirement. Better understanding improves realization efficiency, not automatically the nominal output ceiling of a fixed Binding. Native specialists additionally need construction/holding expertise. Cards automate their prepared lifecycle but still require competent operation and aiming; do not apply the Binding concept bottleneck as a newly invented mandatory card examination.
+
+MK147's old semester timetable, hospital scenes, named friends/rivals, Nyx and story traffic are not adopted into MK163 merely because the school is inherited. Kaira's attendance chronology, course selection and actual school arc remain to be developed. The institution is available and important; no complete school plot has been written.
+
+## Author-source evidence
+
+These source passages preserve the author’s actual wording, including dictation variants. Current names and explicit corrections in this record govern interpretation; quoted superseded words are not reactivated as canon.
+
+### W026 — Architects, velis, growth fields, food, and Blackstone
+
+> At the level we're talking about right now, we just know they exist. We're implementing them as part of our framework as an inheritance under AERA. So, right? They just act as material scientists that guide transduction, essentially through phase field projection from sigils and stuff. Super cool. We can get into it later. Now, architects and velis. Architects are people that can directly interact with the Genesis field. So essentially, right, they have a way to interact with the field in some way. Think of an old lady with a ball of yarn. The yarn is essentially the Genesis field. She has her knitting needles, and she knits the yarn into a scarf, or a shirt, or a hat, or gloves, or whatever. Socks maybe. The idea is, is the architect takes the Genesis field and essentially forms a velis, an anchor. It's a locally anchored part of the Genesis field that does something. Generally, it projects a field. It might create a barrier, like a hemisphere around an area to protect from incoming damage. They might be able to essentially create a velis that is interactive, that allows a person to essentially form fireballs, right? They can do all kinds of crazy things. But the idea is, is that architects directly interact with the Genesis field locally at a certain area and essentially tie it into, like, some kind of knot or something, or structure, right? The velis. They form an anchor with it. That anchor is doing something, whether it can be interacted with, or it's just a persistent field projection. Who knows? We'll get into it later. I haven't fully developed them. I just know that they're there and velis are important. Right? One big thing that they do is you go into a field, right? An agricultural field. They establish a velis. That velis projects a Genesis field under a certain constraint, and that acts as a growth field. So any plant under that domain of the field has accelerated growth rates, coupled with alchemically enriched soil from an alchemist to provide rapid uptake of nutrients to the plant. The plants can grow quicker. So now what you have is rather than a normal harvest taking one season, and you only get one harvest per season, now you might be able to get three, five, seven harvests per season. So food under a vegetarian diet is very available. It's abundant. So mainly then a big important thing is because of the monsters, you can't have a lot of livestock, right? You don't have the area to sustain the livestock, mainly because the monsters can overrun that area. And as we know, livestock requires a lot of acreage. So a city doesn't really have that space. So livestock is generally related to beasts of burden for, like, caravans, or specialty livestocks for, like nobles and stuff that eat meat. Meat's very, very expensive, like very, very expensive. Think, like, wagyu beef expensive for just a basic steak. So monsters generally kill off your livestock before it can be matured and, right, essentially slaughtered. So a vegetarian diet, which we have the agricultural slices on the AERA repository. So there's a full domain of vegetarian staple for agriculture. So architects are really good for that kind of stuff. They're basically, like, either specialty to a domain for establishing bulwarks, or I don't know. We'll come up with it. But they're really good at these local domains of, like, field projections and stuff, such as growth fields for agriculture. Civilization and institution of knowledge, Blackstone is our general institution of knowledge. It's kind of like our Yale or Harvard or MIT. It's just the one academy that we go to with Kira. There's a number of them out there, institutions of knowledge. They essentially teach either Genesis transduction. Here, I'll just give you the image.
+>
+> So this is Blackstone. Blackstone is essentially the institution of knowledge that every AERA framework is allowed to have. It's inherent, right? It's our design. So we use it for our books. But Blackstone, right, is our kind of flagship academy. It covers, right, the picture says a thousand words. So these are all the domains available to it. It kind of treats it as, like, a normal science and physics and math, right? Your general STEM. It also teaches things like quantum fields, because quantum fields and quanta, essentially not quantum mechanics, but we teach quantum field theory. We like to deal with fields and geometry as it relates to AERA under Genesis mathematics. BRIC repository has the Genesis math, the Genesis language, chirality fabric. All the mathematics is based in geometry. So we have a great way to talk about quantum field theory, and then Genesis field theory is a thing, right? How do you interact with the Genesis field? How do you form manifolds? Things of that nature. So Blackstone is a place, right? This is how the institutions are structured under this domain, right? Biology, chemistry, right? Medicine, natural nature, right? Which is just your basic domain of physics, mathematics. So that's pretty important to civilization, because expression of that is how you express your concept. If you look at AERA, specifically the transduction lifecycle, there's six steps to it. The first step is the concept conceptualization. Do you know a fireball as your only understanding of a fireball is a cool little flaming ball on a piece of paper as a drawing? Your concept's gonna kind of suck, which means your efficiency as a shaping is going to be kind of disastrous: high energy cost to stabilize the concept when you consciously collapse the field into a shaping, into a realization of that concept. Or do you understand fire as an expression of quantum field theory and chemistry and oxidation and thermal gradients? Well, your concept is going to allow for a much more efficient and more, essentially within the field topology of the manifold you're producing, powerful fireball.
+
+### W027 — Binding deployment: expandable scaffold, energy, realization
+
+> So in terms of the institution of knowledge, if you're using specifically bindings, the idea of a binding, think of like a little spiky ball that they use in physics that expands out into a sphere, right? It's like a fun little like toy model. The idea is the binding is essentially a localized anchor to the person's Genesis field that they can extend out into the sphere through phase state shadow projection. That sphere becomes the manifold. It is essentially the realization of the Genesis field top, all the gene. Once established, they then access their energy basins. They move energy into the scaffold, right? The sphere, the expanded sphere acts as a scaffold, the manifold acts as a scaffold. They move energy into it. It tells the energy where to essentially live within the manifold. Once the energy is fully realized as a structure, you consciously collapse the energy, and through your concept, right, the conscious expression of collapsing of the energy, and you realize the shaping. So, for example, a fireball. A person has a fireball binding. They expand it out into the manifold. They move energy into it and consciously collapse the energy with their concept to produce the shaping of a fireball.
+
+### W028 — Binding concept controls efficiency, not unlimited power
+
+> So for people with bindings, the most important thing they can know is their concept. The binding itself provides the manifold. They have access to energy, which is essentially managed through fatigue, right? How long can you sustain the energy output? But the concept is really the only thing that can affect your shaping, is your understanding of a fireball— essentially a picture you saw somewhere that someone drew for you, or is your concept of fire essentially energy packets, topology, quantum states, oxidation, chemistry, and stuff. So your shaping is going to be much more efficient. Now a binding has a general kind of normalization of power output. For example, your concept of a fireball can be insane, right? It can be super high-level mathematics, physics, all of that stuff. But just because you have a high concept doesn't mean that your fireball is going to be more powerful with the binding. Generally what is going to be understood is efficiency. You know, how much energy does that field need to stabilize, that manifold need to stabilize? So for example, if your fireball understanding is that of a picture, well, even though you can produce the manifold through the binding projection, fill the energy, your concept may be poor enough that the energy just isn't there to stabilize the shaping, so that energy is essentially wasted and escapes into the environment. So you get no fireball. So at worst come, you essentially can't even realize the shaping even if you have the binding. Whereas someone who has a really high understanding of their concept, right, their concept is fully realized, their shaping will be, like, perfectly efficient. So that's, like, kind of the opposite ends of the spectrum.
+
+### W049 — Inherited astronomy, Kaira age, professional ranks, robe and Age of Knowledge
+
+> Okay, so the planetary and astronomy and calendar. So basically what I'm getting from that, right, we're going to straight inherit that. We're inheriting that star system. So we get the 360-day year, 31-hour days, the four 90-day seasons, and six-day weeks. So, like honestly, that planetary and astronomy calendar is essentially what we're inheriting. So it's all there. Profession, culture, and social ranks. O2, zero two we'll go over. The healthcare, augmenter, and summoner professions, those are generally classes under transduction. So a summoner is someone who focuses specifically on summoning. An augmenter is someone that essentially alters their biology temporarily through transduction. So maybe their muscles get bigger. Think of, like, the Hulk when, right, Steve Banner, whatever his name is, turns into the Hulk. Like, right, that's like an augmenter. They don't get all green and, like, 20 times the size, but they do have growth, and it's generally associated with body augmentation in some way. So the magi, right, these are your special class, right? It's kind of a social class, but it's also a transduction class in the book. We have alchemists. We have architects. Generally the idea is, right, a summoner, right, they're more focused on sustaining summoned monsters—or not monsters, but shapings, right? So do you have a spectral hound? Do you have a prime elemental that you're maintaining? The MK—or I'm sorry, the AERA framework should have a list of bindings and summons. So there's 1,245 shapings, essentially, that should be on there as a list. If it's not there, I'll find the repository that has it. We're just going to inherit, we'll add to it, we'll subtract a few, or whatever. Human biology and longevity we already discussed. Enchanting and engineered equipment. We'll have to really go into the equipment side, right? What does an enchanted suit of armor do? What does enchanted chainmail do? Right? Generally you enchant them with, you know, some kind of combat proficiency. Do you have essentially, like, fire resistance, so to speak, where it does, like, thermal negation? So your armor protects you from fireballs or something, or the metal, the armor doesn't get red hot and melt you inside of it. And once again, that's all handled through putting the item into a sigil, anchoring the correct resources and activating the sigil. We already have a mechanism for enchanting. Culture and sports and daily life. We have rayon and the king's tournament. Prism, right? This is our national sport. Essentially it's like our equivalent of, like, football or baseball or basketball. And then Genesis biology, like we've already kind of gone over things. Two areas worth flagging first: the starscape calendar. So the idea is, is we inherit that starscape calendar. So this doesn't affect Kira's age at all. She's 23 years old under this calendar. 360-day year, right? She's 360 days times 23, plus give or take, right, however far she is into her 23rd birthday. Everything falls under this. The idea is, is that people still maintain a seven- to ten-hour sleep schedule. So assume everybody already is waking up at, like, 7 a.m. in the morning. That means they're going to bed on a 31-hour rotation. What is it? They're essentially going to bed around 2700 hours to 2800 hours, kind of later in the night. You sleep until the next day, right? So you can give everybody a seven- to ten-hour sleep schedule. If they wake up early, it just means they went to bed earlier in the previous day. If they wake up late, they went to bed later the previous day. Age of knowledge. This is actually going to come back, and we actually get to straight inherit now the Age of Knowledge, which is super cool. Kira with her Genesis, or her chainmail robes—we haven't talked about the chainmail robe yet, we will. Essentially we're going to inherit the chainmail robe. It's one of my main characters in all the books. It doesn't talk. It doesn't move around, but it's an anchored aspect. So Kira eventually makes the chainmail robe, and it becomes kind of a fashion icon. And unlike the magi, who go around wearing their normal fashion that represent some kind of robe, all the same styles. It's just the robe has a different color. If you're a magi who's qualified as red in the testing, right, so you're a red-ranked mage, you wear a red robe. If you qualified blue, well then you wear a blue robe. The idea with the chainmail robe is they represent an identity of just being a transductionist. Right, the magi are kind of snobby, right? They kind of think of themselves as the alpha of the transductionist grouping. So they kind of hold themselves loft. Kind of think of, like, old men in their country clubs. That's like the magi. So you don't go around wearing a mage robe and announcing yourself, for example, as a violet mage or a green mage if you haven't qualified, right? You haven't passed the set of tests, right? There's 13 different domains for the test. You haven't passed the test that identifies you under the mage category. So there's a specific test that everybody can take for blacksmithing, anything from, like, baking to chefs to trans... right? Anything related to transduction under specific professional categories or classes, you can get ranked in it. And it's essentially like having a three-star Michelin chef at your restaurant, or a blue-ranked blacksmith versus a master blacksmith at the white rank. So we'll pick all the professions and which ones inherit the ranking system, but the magi are kind of like the snobby elitist. So the idea is, is the chainmail robe is just different enough. It doesn't have all the flourishes that the mage robes have. It's chainmail. I actually have an image of it.
+>
+> So ignore the flowy at the bottom. This is just the best rendering I could get. But the idea is it's pretty form-fitted robe, like super simple, like five layers of chainmail. It's been enchanted for mass production, so it's like wearing a silk robe. It's not very heavy. It flows. But it's not all flowy like this one. It's more kind of like a little bit rigid. It's very kind of form-fitted. But as you can see, it's grayish black. It's not a color associated with any ranking, and it varies. It still has the big hood. It's still kind of the robe, but it's just different enough as a robe that doesn't fit the color profiles, that basically everybody accepts it as just their identification of a transductionist. So the Age of Knowledge is kicked off. Actually, I have a... We'll go over it later. The idea is that Kira, once she's established free of her little village hub area, so Arc 2 essentially picks up where Kira goes and starts to realize her first chainmail robe, and it's a huge hit. So she makes a couple more for a few people, and the word gets out, right? This new robe is out there. So it kickstarts, right? Kira is kind of understood as, like, this eccentric genius fashion designer, right? Think of all the weird fashion designers in our world. Like, they're kind of weird, and everybody holds them on a pedestal for whatever reason. They're geniuses, right? It's artistry in motion. But what it does is that people start to wear it, and, like, it becomes this big thing, and it's people identifying not as a mage, not as a healer, not as an alchemist or an architect, right? They're identifying just as a transductionist. So it's that identity, that inherent, that kicks off the Age of Knowledge, because what is at the heart of transduction is your concept. How do you understand the transduction life cycle? Is your concept of a fireball something that's drawn on a piece of paper, or do you understand it at the quantum mechanical level of chemistry as oxidation, thermal gradients, right? Transformation of energy. So the concept is, like, the most foundational way to enhance your shaping. If you use bindings, we talked about this, right? Your concept is essentially what allows you to be more efficient. Genesis cards, you're kind of screwed either way, right? The Genesis card handles the whole transduction life cycle. We don't worry about it. But then you also have just your general transductionist, as I put them. I don't know what category to put them as, right? Your general Genesis transductionist who essentially own the entire transduction life cycle, and they just, because of the Genesis channels in their brain, they interact with the Genesis energy at a personal level or whatever. We have those three domains of transduction, right? You have the Genesis cards, the bindings, and the just normal Genesis energy expression. But the Age of Knowledge is supposed to be this big thing that's going to last for, like, a millennia. And eventually at the end of that, right, humanity, civilization has accumulated so much more knowledge because there was this big push to just understand the Genesis field and concepts and science and math and all of this stuff that it leads to the Age of Wonder, and you all of a sudden get these crazy things. Now that's way out in the future. We'll never get to those books. But essentially in our book, right, Book Red, you get, like, day zero of the Age of Knowledge. So Kira gets to live through it. She's the central figure. And her chainmail robe is the identity of a transductionist. So the Age of Knowledge is really cool. We'll figure out where it fits in the book. I'm thinking, like, it's kind of like Arc 2, Arc 3. We'll figure it out. Right now the chainmail robe, huge thing. It's the fashion icon. Everybody wants to wear the chainmail robe. So that kind of starts Kira's little business. We'll go into it eventually.
+
+### W050 — Professional practice and thirteen-domain White qualification
+
+> So we'll really go over the Augmenter, Summoner, and kind of, well, the Healer, the Healer role. Those are pretty locked in. Like the Healer is actually specific to AERA. I need to add it to the GitHub, but they focus on healing through coherence and topological stabilization, which is kind of a different form of healing than any magic I've seen. And it works really, really well with the expression that we operate under for the Genesis field. Augmenters, right? These are, like, think of it this way. It's like your warrior that's wielding a seven-foot sword that's just running around the battlefield in melee combat, just hulking out. That's your Augmenter. They're like kind of brawlers, right? They're up close and personal. They're in your face. They're all about resonance and just, like, they're juggernauts. The Summoner, these are the ones that focus specifically on summoning any kind of, right? Maybe they summon a dragon, or wolves, or birds, or whatever, right? They interact through a passive combat system generally. They manage their little army. I think that can kind of do it. The idea is the Mage and the Majai. These are your kind of traditional just spellcasters in general fantasy. They have that assumed role of kind of, like, offensive capability or utility in some way. They're kind of like your highly specialized Genesis transductionist. It's kind of a unique role in society. For example, a Summoner isn't a Majai, right? Because the Majai is, like, the one casting fireballs, or, right? They have a complete mastery under Genesis expression. We'll have to really work with it, but it's there. Healers, right? They're healers. So that essentially gives us an Augmenter and Summoner are, right? They might be temporary classes. We might just allow people. I don't know. We'll figure it out. For example, if you go to a dungeon, they're going to ask you, right? What class do you fall under? Are you a traditional just kind of offensive or support Majai? Do you specialize in utility spells? What is your expression as a Majai? Are you a healer? For example, Summoners are really kind of practical in a dungeon because they're more bodies to basically fight the monsters and occupy the monsters. Augmenters, right? They're just known as kind of like the berserker juggernauts, right? Everybody thinks they're mental. Obviously the Architects, they're generally, right? They're doing their own thing with the Genesis field. They're generally, like, set up the field and allow something to happen, right? You're not going to really take an Architect into a dungeon. They're going to sit there and have to, like, set things up, and that generally doesn't work for fighting monsters and stuff. Like they're the ones that set up the defensive bulwark of a city, or establish the defensive perimeter around, like, encamped soldiers and stuff, right? They do their own thing. Alchemists, right? They're the material scientists. The chainmail robe. Eventually Kira makes a robe entirely out of Genesis energy. So we have some cool things that are going to happen with the chainmail robe. I love the chainmail robe. It's one of my favorite things. Like, I really want to own one if it wasn't, like, 80 pounds. Like if I could find a way to make a chainmail robe that only weighed, like, 10 pounds, I'd be set for life. The Age of Knowledge, right, is kicked off in Book Red, and essentially Kira and her chainmail robe are the central focus of it, right? They're the catalyst that essentially just propels it. Because everybody wants to assume this new identity of a transductionist, and the big push is understanding your concept, and the concept relies on institutions of knowledges. So you have to go to school, essentially. You have to learn about things to understand what you're shaping. Enchanting is very simple, right? It's a very simple process. It's handled already on the AERA framework. Prism, right? It's our adopted national sport. Professional ranking will have to go over this test, so to speak, that gives you a rank within whatever profession you're doing. Are you a blacksmith? Are you a mage? Are you a healer? Are you a chef? Right? They have rankings for everybody. And there are 13 domains I think we'll do, and they're rated red through violet, and then white is, like, exceptional. So you pass, like, every... you cross every T and you dot every I for that domain. And if you get all white, you are considered ranked like a paragon, right? You are a white ranked under your classification or profession. If you rank 12 whites and get even just violet on one, well, it's averaged. So you're now going to be a violet because you can't do full. You have to be full white to get white ranked, and that's a big deal in society. If there's a white-ranked walking around, they're a big deal. If it's a white-ranked Majai, you might just want to cross the street and not even worry about them.
+
+### W055 — Full AERA inheritance; constructs, ER foam, mathematical IP and limited plot
+
+> So yes, anything under the AERA framework, we're inheriting full stop. Like that is our requirement. So enchanting terminology, yes. Mage glass and Genesis constructs, yes. Now a Genesis construct could be something as simple as a metal cube that has sigils over it. You tap the activation side of the sigil or face and it glows, and now you have a nightlight for your daughter or your son or something as a kid. Super simple. Or you could activate the sigil and throw the cube and it blows up like a grenade, right? There's all kinds of things, right? They're constructs. The idea is, is they're objects that interact with the Genesis field some way, whether they produce a phase field. For example, an alchemist table that has a sigil on it that they use to interact with for their alchemy, for material science, is technically a construct. Although, right, it's kind of a piece of equipment, but at the same time too, you can kind of generalize it under a construct. ER foam is this really weird thing. So I'm going to give you MKUltra. So here's MK Ultra and its companion API that basically possesses all the math that's referenced in the theory paper. This is our mathematical physics framework, like for the world and the starscape. So you'll see that ER foam is kind of interesting. So what we do is we do ER foam as a projection, and what it does is, well, it's kind of like this tactile surface. Think of, like, a really hard rubber. So you can think of it like an ER foam tactile switch is essentially a projection of ER foam across a square surface, and you can interact with it, right? It's a surface you can interact with, and it's very kind of, like, not quite— it's elastic but not highly elastic, and it's like hard rubber. So tactly, it's kind of interesting. It's generally used as, like, light switches, if you have a large sigil network in your house that controls the lights. It can act as the surface for your hot and cold water. So it's like an activation surface kind of thing. Another thing is that ER foam can be, like, say you have a big table, and there's sigils all over those tables, and the sigils project a topological map, and that topological map is expressed as an ER foam distribution. So your map can be described that way. So think of, like, those maps that have, like, depth to them. Same thing. Intellectual property and manufacturing. Okay, so here's the thing: mathematics is absolutely important for the book. AERA should have a framework of mathematics on the repository, but it doesn't yet. I need to update it. BRICT repository, essentially, if you have that—I don't know if I've given it to you or not yet—is essentially our mathematics domain. So math is very important to the Genesis field. It's a complete descriptor, so to speak, of the Genesis field and sigils and, right, alchemy and transduction. So mathematical equations essentially can act like patents. So you might own the mathematical equation that produces some kind of sigil effect, and that sigil, like, for example, the light switch. So you might own the equation that projects the ER foam, and that ER foam is a mathematical equation, and it's patented. Maybe the crown owns it. Maybe a noble family. Maybe some mathematician owns it. So math is essentially intellectual property. We allow it to interact with patents, so you can generate royalties off of your math equations. Any old naming conventions in historical conflicts, we're just going to overwrite them with MK163. We're kind of redesigning everything from the ground up. We inherit the AE and AI naming conventions, and yes, we're not inheriting the original storyline. Like I said, we didn't inherit the story. We just inherited the world building, the mathematics, the transduction systems. We collapsed a number of MK series into one framework for AERA. So we're kind of having to rewrite certain aspects of the story. But, right, the story's going to start anew. The only real thing that you know right now for the main story is that Kira, at the end of book one, gets green place, or ranks green in the king's tournament, gets a dimensional ring. We have black stone, and Kira gets an awakening potion to save her life. Like, that's really, like, the full extent of the book we have right now.
+
+## Source ownership and references
+
+- MK147 `live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md — historical worldbuilding, not MK163 plot authority.
+- PROVENANCE/SOURCE_DOCUMENTS/IMAGES/Untitled_Artwork.jpg
+- AERA `L1/FATIGUE_CONCEPT.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L1/FATIGUE_CONCEPT.md

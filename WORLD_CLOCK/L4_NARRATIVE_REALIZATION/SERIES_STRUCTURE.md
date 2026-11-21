@@ -1,3 +1,15 @@
+# Current Books Orange–Blue · seven-arc macro outlines
+
+Author-selected macro outlines now cover all seven arcs in each of Books Orange, Yellow, Green and Blue. Orange ends with one ransom cartel dismantled; Yellow progresses from summit and Dragon egg through three advanced semesters, regular military service and Special Projects recruitment; Green 002 places the Unicorn bond/training in Green, merchant-city campaign in Blue, republic merged domai in Violet and continental disruption in White; Blue 002 retains the pirate campaign and adds the White Arc Cabal of Maegi manipulation revelation. Book Red’s Day 1637 endpoint and every dated record remain unchanged. No later calendar days, chapters or scenes are invented.
+
+[Orange full outline](../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Yellow full outline](../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Green full outline](../../BOOKS/GREEN/BOOK_MACRO_OUTLINE.md) · [Blue full outline](../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/BOOK_MACROS_2026_11_20/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Seven arcs per book; Book Red progression
 
 **Book Red consolidation · 2026-11-07.** The seven books remain distinct from their seven sequential arc colors Red, Orange, Yellow, Green, Blue, Violet and White. Book Red’s stable Arc 1–7 owners are at [the book overview](../../BOOKS/RED/BOOK_OVERVIEW.md). Arc lengths/chapters remain variable. Green is human Cardsmith education, Blue independent certification and fieldwork through vaelum acceptance, Violet dungeon training and native Genesis Robe/coupled seams, White the championship and Ring; there is no mandatory Arc V Black Card manufacture. These are not the six successive books’ Black bonds. The 009B planet-local ending direction is unchanged.

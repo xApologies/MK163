@@ -604,6 +604,46 @@
       "source_mapping": "PROVENANCE/WORKSHOP/WHITE_006/SOURCE_MAP.json",
       "validation": "CHECKPOINTS/WHITE_006/VALIDATION.json",
       "scope": "Cumulative White outline through Day 1637; preserve Violet, reconcile 005 detail and 006 decisions, retain original nested atlas and external recovery gaps."
+    },
+    {
+      "id": "MK163_BOOK_ORANGE_MACRO_001",
+      "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+      "archive": "Orange Arcs.zip",
+      "archive_sha256": "e3af75437e559fc47ffb1cb9dd4a233653db5cb5a4cd7ecf5ae229717f060e30",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_MACROS_2026_11_20/VALIDATION.json",
+      "scope": "Book Orange seven-arc macro; full source preservation, scoped supersessions, no invented dates or chapters; combined four-package author request."
+    },
+    {
+      "id": "MK163_BOOK_YELLOW_MACRO_001",
+      "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+      "archive": "Yellow Arcs.zip",
+      "archive_sha256": "6c960678e43479defa695ef4006b42f30c623200836740065d4d39af0287e508",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_MACROS_2026_11_20/VALIDATION.json",
+      "scope": "Book Yellow seven-arc macro; full source preservation, scoped supersessions, no invented dates or chapters; combined four-package author request."
+    },
+    {
+      "id": "MK163_BOOK_GREEN_MACRO_002",
+      "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+      "archive": "Green Arcs.zip",
+      "archive_sha256": "b1ed42569f390d0ec065394aa9711b9b833cd7f933a2343f97d65d498f2b533d",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_MACROS_2026_11_20/VALIDATION.json",
+      "scope": "Book Green seven-arc macro; full source preservation, scoped supersessions, no invented dates or chapters; combined four-package author request."
+    },
+    {
+      "id": "MK163_BOOK_BLUE_MACRO_002",
+      "baseline": "6d1010357e0499887b23dda9a0b4db361c79ed71",
+      "archive": "Blue Arcs.zip",
+      "archive_sha256": "a0e5f354c4f1faaa2caf4b46754b8bdb7a74a83faee9de89bdca33e0f7ca0007",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_MACROS_2026_11_20/VALIDATION.json",
+      "scope": "Book Blue seven-arc macro; full source preservation, scoped supersessions, no invented dates or chapters; combined four-package author request."
     }
   ]
 }

@@ -1,3 +1,17 @@
+# Book Orange · fourth chainmail assembly operation
+
+After Book Red, Kaira relocates her primary residence to the Violet capital and rents a small **Yellow District assembly shop with eight trained blacksmiths**. The three earlier operations remain: 4 + 8 + 6 = 18 assemblers, with conditional 54 robes per accounting month. The added eight yield four operations and 26 assemblers; at the inherited three-robes-per-smith rate, the new shop has conditional capacity 24 and the combined capacity is **78 per accounting month**. This is capacity, not guaranteed sales, accepted deliveries, actual revenue or net profit. No new rent, wages, sales, costs or net income is fixed. Existing kingdom-wide central banking, enterprise and Accord Registry wholesale/retail logistics continue. The old 200-eln lease belongs to the six-assembler Blue-capital shop, not this new lease.
+
+[Complete Book Orange decisions](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Source and baseline arithmetic](../../../PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md)
+
+The detailed historical pricing and three-operation model below retains its Book Red scope.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Blue Arc · three robe operations across two cities
 
 The original operation continues in the Green Domain city near the Violet Dungeon. During Days 787–817 Aiselle encourages an eight-assembler operation in the Blue capital. Kaira subsequently establishes a separate six-assembler Yellow District workshop in the same capital and contracts with the Blue Dungeon staging-area Registry for its concentrated aithren trade. The Crown Registry buys wholesale and manages retail and agreed logistics. Kaira retains design and quality control.

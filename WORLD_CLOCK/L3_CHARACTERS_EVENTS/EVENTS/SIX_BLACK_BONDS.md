@@ -1,3 +1,24 @@
+# Book Orange–Blue macro selections · bond chronology
+
+The six-bond order, independent agency, native realm identities, conventional Binding incompatibility and developmental limits are unchanged. The four macro packages add scoped placements:
+
+| Book | Selected arc | Bond and form | Selected boundary |
+|---|---|---|---|
+| Orange | Yellow | Orange-native Black Vaelith, living | Orange Arc dignitaries introduce the prospect; no earlier bond; returns as a companion |
+| Yellow | Yellow | Red-native Black Dragon egg | Dragon dignitaries accompany the Red journey; no grown or battle-ready Dragon assumed |
+| Green | Green | Violet-native Black Unicorn, living | Older delegation waits privately at the White palace; interviews Kaira before presenting the secluded Unicorn; no Violet journey for this bond |
+| Blue | Yellow | Yellow-native Black Primordial, geode/crystalline egg-like | Violet Realm information comes in Red; diplomatic Yellow journey and fifth bond are in Yellow |
+
+The third bond prompted the Unicorn delegation’s visit; Unicorns authored all eight prophecies and maintain an information network, without a selected full roster, omniscience or new prophetic verses. The roughly split training in Book Green Green synchronizes Kaira with Nyx and her companions; Dragon maturity remains OPEN. Book Blue realm trips obey the [selected travel limits](../../L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md). Book Violet’s sixth Blue-native Leviathan bond and Book White’s no-new-bond conclusion remain unchanged.
+
+[Orange selections](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Yellow selections](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Green selections](../../../BOOKS/GREEN/BOOK_MACRO_OUTLINE.md) · [Blue selections](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Black Sprite · v8 prophetic discussion and mentorship offer
 
 The Day 166 failed ordinary Fireball installation / exceptional independent Black Sprite identity bond and eye transformation initiate Kaira’s Black Prophecy trajectory. At the existing Day 167 consultation, the humanoid male unicorn discusses Prophecy VIII, Singularity significance and possible connection to the bond, without claiming complete knowledge or proof. No prophecy text, book/bond order, ordinary incompatibility or special Black Card retirement changes.

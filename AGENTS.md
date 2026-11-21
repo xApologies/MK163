@@ -1,3 +1,17 @@
+# Current Books Orange–Blue · macro outlines
+
+Author-selected macro outlines now cover all seven arcs in each of Books Orange, Yellow, Green and Blue. Orange ends with one ransom cartel dismantled; Yellow progresses from summit and Dragon egg through three advanced semesters, regular military service and Special Projects recruitment; Green 002 places the Unicorn bond/training in Green, merchant-city campaign in Blue, republic merged domai in Violet and continental disruption in White; Blue 002 retains the pirate campaign and adds the White Arc Cabal of Maegi manipulation revelation. Book Red’s Day 1637 endpoint and every dated record remain unchanged. No later calendar days, chapters or scenes are invented.
+
+Use the complete book macros and their linked arc contracts. Keep Orange’s ransom cartel distinct from trafficking networks; Yellow Green recruitment is regular military, White is Special Projects. No illi kidnapping in Yellow or Green. Kaira remains Crown Intelligence in Blue, not navy; no exact rank or operative title is selected. The two new domai engagements in Green and Blue do not rewrite Yellow’s. Preserve all six independent Black bonds and their forms. No upstream AERA patch is asserted.
+
+[Scoped source precedence](CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Unresolved details](CHECKPOINTS/BOOK_MACROS_2026_11_20/OPEN_ITEMS.md) · [Map limits](BOOKS/BLUE/REFERENCE_ASSETS/READING_NOTES.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Current White outline · Book Red closes Day 1637
 
 White 006 completes the **Book Red outline through Day 1637**. The seven-person vaelum finishes Green/fourth in the independent royal final; each receives a White-ranked dimensional ring. Six CSR Cards are made on 1358–1361, distributed 1364. The King’s robe is delivered 1614 and worn at the final ceremony. Violet’s Day 1346 closure, all 23 arc files and every earlier running-ledger row remain unchanged. No completed prose or epilogue is implied.

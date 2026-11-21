@@ -1,3 +1,23 @@
+# Book Green · current seven-arc macro
+
+Author-selected planning checkpoint BOOK_GREEN_MACRO_002, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.
+
+- [Red](ARCS/ARC_001/ARC.md): Orient Kaira to Crown Intelligence.
+- [Orange](ARCS/ARC_002/ARC.md): Establish renewed domestic cartel pressure.
+- [Yellow](ARCS/ARC_003/ARC.md): Rescue the two noble siblings.
+- [Green](ARCS/ARC_004/ARC.md): Establish the fourth Black bond and synchronize the party through training.
+- [Blue](ARCS/ARC_005/ARC.md): Disrupt merchant-city cartel infrastructure.
+- [Violet](ARCS/ARC_006/ARC.md): Build eastern-republic relationships and help defeat a locally forming merged domai.
+- [White](ARCS/ARC_007/ARC.md): Disrupt republic cartels with continent-wide black-market impact.
+
+[Integration audit](../../CHECKPOINTS/BOOK_MACROS_2026_11_20/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Book Green — MK163
 
 Book four. Kaira has her Dimensional Ring. Pirate involvement becomes more direct and interregional criminal infrastructure matters. The complete plot and arc sequence remain open.

@@ -1,0 +1,320 @@
+{
+  "scope": "Complete supplied four macro payloads, not a complete literal workshop transcript or full manuscript",
+  "topics": [
+    {
+      "id": "ORANGE-01",
+      "scope": "Red Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#red-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_001/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-02",
+      "scope": "Orange Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#orange-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_002/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-03",
+      "scope": "Yellow Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#yellow-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_003/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-04",
+      "scope": "Green Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#green-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_004/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-05",
+      "scope": "Blue Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#blue-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_005/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-06",
+      "scope": "Violet Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#violet-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_006/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "ORANGE-07",
+      "scope": "White Arc",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md#white-arc",
+      "contract": "BOOKS/ORANGE/ARCS/ARC_007/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-01",
+      "scope": "Red Arc â€” Return and preparations",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#red-arc--return-and-preparations",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_001/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-02",
+      "scope": "Orange Arc â€” World Summit",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#orange-arc--world-summit",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_002/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-03",
+      "scope": "Yellow Arc â€” Red Realm and Dragon egg",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#yellow-arc--red-realm-and-dragon-egg",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_003/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-04",
+      "scope": "Green Arc â€” Blackstone education and military recruitment",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#green-arc--blackstone-education-and-military-recruitment",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_004/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-05",
+      "scope": "Blue Arc â€” Military training",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#blue-arc--military-training",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_005/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-06",
+      "scope": "Violet Arc â€” Theater operations",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#violet-arc--theater-operations",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_006/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "YELLOW-07",
+      "scope": "White Arc â€” Commendations and Special Projects",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md#white-arc--commendations-and-special-projects",
+      "contract": "BOOKS/YELLOW/ARCS/ARC_007/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-01",
+      "scope": "Red Arc â€” Crown Intelligence orientation",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#red-arc--crown-intelligence-orientation",
+      "contract": "BOOKS/GREEN/ARCS/ARC_001/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-02",
+      "scope": "Orange Arc â€” Domestic cartel pressure",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#orange-arc--domestic-cartel-pressure",
+      "contract": "BOOKS/GREEN/ARCS/ARC_002/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-03",
+      "scope": "Yellow Arc â€” Noble siblings and merchant-city pursuit",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#yellow-arc--noble-siblings-and-merchant-city-pursuit",
+      "contract": "BOOKS/GREEN/ARCS/ARC_003/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-04",
+      "scope": "Green Arc â€” Unicorn bond and operational synchronization",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#green-arc--unicorn-bond-and-operational-synchronization",
+      "contract": "BOOKS/GREEN/ARCS/ARC_004/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-05",
+      "scope": "Blue Arc â€” Central merchant city-state cartel campaign",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#blue-arc--central-merchant-city-state-cartel-campaign",
+      "contract": "BOOKS/GREEN/ARCS/ARC_005/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-06",
+      "scope": "Violet Arc â€” Eastern republic relations and merged Domai",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#violet-arc--eastern-republic-relations-and-merged-domai",
+      "contract": "BOOKS/GREEN/ARCS/ARC_006/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "GREEN-07",
+      "scope": "White Arc â€” Republic cartel disruption and continental black-market impact",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "BOOKS/GREEN/BOOK_MACRO_OUTLINE.md#white-arc--republic-cartel-disruption-and-continental-black-market-impact",
+      "contract": "BOOKS/GREEN/ARCS/ARC_007/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-01",
+      "scope": "Red Arc â€” Recognition and Violet Realm",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#red-arc--recognition-and-violet-realm",
+      "contract": "BOOKS/BLUE/ARCS/ARC_001/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-02",
+      "scope": "Orange Arc â€” Special Projects deployment",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#orange-arc--special-projects-deployment",
+      "contract": "BOOKS/BLUE/ARCS/ARC_002/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-03",
+      "scope": "Yellow Arc â€” Yellow Realm expedition",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#yellow-arc--yellow-realm-expedition",
+      "contract": "BOOKS/BLUE/ARCS/ARC_003/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-04",
+      "scope": "Green Arc â€” Mobile floating fortresses",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#green-arc--mobile-floating-fortresses",
+      "contract": "BOOKS/BLUE/ARCS/ARC_004/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-05",
+      "scope": "Blue Arc â€” Central resource-harvesting islands",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#blue-arc--central-resource-harvesting-islands",
+      "contract": "BOOKS/BLUE/ARCS/ARC_005/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-06",
+      "scope": "Violet Arc â€” Slave-trading territory No. 1",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#violet-arc--slave-trading-territory-no-1",
+      "contract": "BOOKS/BLUE/ARCS/ARC_006/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "BLUE-07",
+      "scope": "White Arc â€” Pirate King's harbor",
+      "source": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md#white-arc--pirate-kings-harbor",
+      "contract": "BOOKS/BLUE/ARCS/ARC_007/ARC.md",
+      "status": "AUTHOR-SELECTED MACRO; unselected details OPEN"
+    },
+    {
+      "id": "FRAME",
+      "scope": "Book colors vs arc colors; complete seven-arc macros",
+      "source": "All four full macro files",
+      "owner": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "ECON",
+      "scope": "Fourth shop; eight trained smiths; conditional 24/78 capacity; prices OPEN",
+      "source": "ORANGE/BOOK_ORANGE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "REALM",
+      "scope": "Human/native travel permissions; companion separation; no time ratios",
+      "source": "YELLOW and BLUE macro files",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "SUMMIT",
+      "scope": "Five-year rotation; 6–7 White nations; six realm delegations; full agenda",
+      "source": "YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/WORLD_SUMMIT.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "EDU",
+      "scope": "Three advanced semesters; six Dragon-associated categories; no upstream taxonomy patch",
+      "source": "YELLOW/BOOK_YELLOW_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "MIL",
+      "scope": "Regular military recruitment vs Special Projects vs Crown Intelligence; illi authority; unnamed title",
+      "source": "YELLOW/GREEN/BLUE macros",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/CROWN_MILITARY_AND_SPECIAL_PROJECTS.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "GEO",
+      "scope": "Western kingdom, provisional merchant city-state numbers/radii, eastern republic, sigil services",
+      "source": "GREEN/BOOK_GREEN_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_MERCHANT_CITIES_AND_EASTERN_REPUBLIC.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "CARTEL",
+      "scope": "Ransom cartel, returned daughter vs rescued siblings, successive organizations, no eradication",
+      "source": "ORANGE/YELLOW/GREEN macros",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "PIRATE",
+      "scope": "Mobile forts, resource islands, independent slave-market territories, headquarters and multinational roles",
+      "source": "BLUE/BOOK_BLUE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "CABAL",
+      "scope": "Centuries-long manipulation established; no feud or Cabal defeat",
+      "source": "BLUE checkpoint 002 macro and supersessions",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "BONDS",
+      "scope": "Second through fifth bond placement/forms; sixth/no-seventh unchanged; agency and development",
+      "source": "All four macro files",
+      "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "ROYAL",
+      "scope": "illi diplomat, friend, gifted practitioner, no governorship or Special Projects appointment; aina unchanged",
+      "source": "All four macro files",
+      "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    },
+    {
+      "id": "MAP",
+      "scope": "Original JPG bytes, three numbered territories, pink zones, red harbor and printed-label cautions",
+      "source": "BLUE/PIRATE_MAP_AUTHOR_ANNOTATED.jpg",
+      "owner": "BOOKS/BLUE/REFERENCE_ASSETS/READING_NOTES.md",
+      "status": "ESTABLISHED within selected macro scope; proposed and OPEN details retained"
+    }
+  ]
+}

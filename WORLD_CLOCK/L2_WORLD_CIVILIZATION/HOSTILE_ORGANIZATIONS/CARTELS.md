@@ -1,3 +1,17 @@
+# Current book scopes · ransom cartel and broader networks
+
+Book Orange’s specific cartel kidnaps nobles **for ransom**, not slave trafficking. The Green Domain noble’s daughter has already returned after ransom payment; there is no rescue or attempted off-continent sale for that case. illi’s Green Arc investigation continues in Blue alongside Kaira’s separate local delves. Violet identifies a Yellow-ranked lower noble informant in an unnamed Green Domain city; the informant is not assumed to lead the cartel. White dismantles that specific cartel. Successor organizations exploit the vacuum; it remains dismantled in later books.
+
+Yellow introduces worldwide distributed cartels, slavery, drugs and pirate transport through the summit, not one world cartel. Green Yellow’s two noble siblings are a **different case** and are rescued. Green’s merchant-city campaign is Blue Arc, eastern-republic relationships and locally forming merged domai are Violet, and republic cartel / continent-wide black-market disruption is White. This substantially hinders pirate trafficking without eradicating crime or dismantling coordinated pirate leadership before Book Blue. Names, exact operations and consequences remain OPEN.
+
+[Orange scope](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Yellow scope](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Green 002 placement](../../../BOOKS/GREEN/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Cartels — regional black markets and leverage
 
 **Project:** MK163  

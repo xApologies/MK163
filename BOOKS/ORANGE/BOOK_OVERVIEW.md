@@ -1,3 +1,23 @@
+# Book Orange · current seven-arc macro
+
+Author-selected planning checkpoint BOOK_ORANGE_MACRO_001, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.
+
+- [Red](ARCS/ARC_001/ARC.md): Visit the Green Realm and relocate to the Violet capital.
+- [Orange](ARCS/ARC_002/ARC.md): Introduce the visiting Vaelith dignitaries and continue Support delving.
+- [Yellow](ARCS/ARC_003/ARC.md): Establish the second Black bond in the Orange Realm.
+- [Green](ARCS/ARC_004/ARC.md): Accompany illi’s Crown investigation in the Green Domain.
+- [Blue](ARCS/ARC_005/ARC.md): Continue the kingdom-wide investigation alongside local Support contracts.
+- [Violet](ARCS/ARC_006/ARC.md): Identify the Yellow-ranked noble informant.
+- [White](ARCS/ARC_007/ARC.md): Dismantle the specific noble-ransom cartel.
+
+[Integration audit](../../CHECKPOINTS/BOOK_MACROS_2026_11_20/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Book Orange — MK163
 
 Book two. Kaira has her Dimensional Ring. Cartels and black-market influence become more relevant; the reader becomes more aware of slavery. Exact scenes, arcs and encounters remain unoutlined.

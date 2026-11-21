@@ -1,3 +1,17 @@
+# Current Orange–Blue macro windows · 2026-11-21
+
+Orange deals with one noble-ransom cartel: the example daughter is returned after payment, illi investigates in Green/Blue, Violet exposes the lower-noble informant, and White dismantles that cartel. Slavery awareness may exist in the wider setting without turning this organization into a slave cartel. Yellow’s summit expands awareness to separate worldwide trafficking networks; there is no illi kidnapping or direct pirate showdown. Green’s sibling rescue and continent-wide cartel disruption materially hinder trafficking but leave the coordinated Pirate King/Lords milestone for Blue. Green’s merged domai is Violet Arc, distinct from Yellow’s.
+
+Blue’s campaign is Green floating fortresses → Blue central resource islands → Violet numbered territory 1 → White red-circled headquarters. The coordinated pirate organization is dismantled, not all piracy or trafficking. **Blue White now selects Cabal of Maegi discovery/interrogation and centuries-long manipulation of the Pirate King**, who thought they collaborated. Only the earlier possibility-only relationship and unassigned reveal are superseded; no feud, named roster or precise strategy is invented. Book Violet inherits this context, with its active plots unchanged.
+
+The full world records remain at [Cartels](../L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CARTELS.md), [Pirates](../L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/PIRATES.md) and [Cabal](../L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md). All broader windows and exact original passages below retain their historical or unrelated scope.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Antagonist existence, awareness, interaction and resolution across books
 
 **Project:** MK163  

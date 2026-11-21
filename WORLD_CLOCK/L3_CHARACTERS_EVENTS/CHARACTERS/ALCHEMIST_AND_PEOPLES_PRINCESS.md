@@ -1,3 +1,15 @@
+# Books Orange–Blue · illi’s diplomatic and personal role
+
+illi remains Kaira’s close friend and a gifted Transduction practitioner, a Crown diplomat who can represent the Crown, **not a domain governor and not a Special Projects operative**. Her older sister aina remains the Blue Domain ruler. Orange selects illi’s Green Realm Crown liaison journey, persuasion of Kaira to relocate nearer her in the Violet capital, and Crown ransom investigation. Yellow selects the summit entourage, academic sponsorship and no kidnapping of illi. Green selects their sibling rescue, Crown report, investigations and diplomacy; Kaira’s relevant exceptional authority is directly below illi, with precise formal limits OPEN. Blue selects illi’s small Yellow Realm diplomatic delegation; other delegates/security remain OPEN.
+
+These later macro selections do not revise Book Red ages, friendship, courses or events. [Institutional authority owner](../../L2_WORLD_CIVILIZATION/INSTITUTIONS/CROWN_MILITARY_AND_SPECIAL_PROJECTS.md) · [Orange](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Yellow](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Green](../../../BOOKS/GREEN/BOOK_MACRO_OUTLINE.md) · [Blue](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 # Princess aina, illi and Aiselle · Days 433–451
 
 aina’s surprise visit brings her first in-person introduction to Kaira through illi. Aiselle, already acquainted with aina, arrives for Kaira. The princess wears the new five-layer robe and invites Kaira, illi and Aiselle to her palace. Elaira chooses to visit her family. After the palace visit they return to Blackstone in time for the Day 451 celebration. aina calls on Kaira, seated with illi, to stand for public recognition. Caelor accepts the royal expectation of institutional leadership.

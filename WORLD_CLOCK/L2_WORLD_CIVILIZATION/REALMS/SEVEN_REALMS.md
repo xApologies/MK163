@@ -1,3 +1,17 @@
+# Book Yellow–Blue · author-selected MK163 interrealm travel
+
+White/Material Realm humanity can travel to each chromatic realm. Chromatic natives may travel between their own realm and White, but cannot ordinarily enter another chromatic realm because of structural energy incompatibility. Native chromatic peoples may adopt humanoid form for interaction in White. This does not authorize free chromatic-to-chromatic travel. Realm time differs; no new ratios, elapsed ages or travel mechanisms are selected. This is an MK163 realization; AERA is not edited or claimed patched.
+
+Book Blue Red selects Kaira’s Violet visit with only her living Black Unicorn; Nyx, Sprite, Vaelith and Dragon remain in White. Book Blue Yellow selects illi and a small Crown delegation for the Yellow journey; non-Yellow-native companions, including Nyx and Unicorn, remain in White. Companion activities while apart and any unspecified earlier travel-party composition remain OPEN. Independent agency and the six-bond order are unchanged.
+
+[Travel-rule selection](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md) · [Selected Blue travel parties](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
 ## Vaen formation · interpretive realm and prophecy pathway
 
 **Interpretation, not a new L0 law.** [Natural vaen formation](../TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md) has two distinct changes. The six native emphases below describe possible contributions, not six individual actions.
