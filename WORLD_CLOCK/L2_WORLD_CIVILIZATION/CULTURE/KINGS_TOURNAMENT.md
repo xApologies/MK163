@@ -1,3 +1,19 @@
+# King’s Tournament · triennial recurrence selected 2026-11-21
+
+The current recurrence is **once every three years (triennial)**, explicitly superseding every older quadrennial/four-year interval below. The dangerous dungeon-race format, stages, rules and three political domains remain unchanged. Book Red’s Day 1376 opening and Day 1637 awards, Green/fourth finish and seven White-ranked dimensional rings remain unchanged.
+
+Kaira’s **second King’s Tournament concludes Book Blue Red Arc**, after the highest-service decoration, Violet Realm visit and return. The favorable intelligence report remains within Red. Her second team/vaelum, placement, prizes, opponents, races, qualifying process and exact dates remain OPEN; first-tournament selections do not automatically repeat.
+
+The civil year remains 353 days; three years equal **1,059 days**. If opening qualifiers are the recurrence anchor, 1376 + 1059 = **2435** is a conditional arithmetic candidate only, **not an assigned story day**. The anchor and approximate Orange/Yellow/Green durations are not reconciled to absolute dates. Do not extend or renumber the running ledger or change the weekday phase. Any future scheduling conflict requires an author decision.
+
+[Author decision and chronology warning](../../../PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/SUPERSESSIONS_AND_OPEN_ITEMS.md) · [Second tournament sequence](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # King's Tournament — current White Arc stage design
 
 **Authority:** Explicit author selections from 2026-11-19 conversation. **Supersedes in scope:** older MK163 four-domain and three-Blue-race/eight-Violet-circuit descriptions. Historical documents remain preserved for provenance.

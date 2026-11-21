@@ -1,3 +1,21 @@
+# Cabal of Maegi · Violet–White international war
+
+Blue White’s interrogation/revelation remains unchanged. **Books Violet and White form a two-book war**, with substantial disruption in Violet and **Cabal defeat in Book White Yellow**, at Kingdom 29’s mountain stronghold. The exact military/political settlement, leadership and individual fates remain OPEN. This refines the former unassigned confrontation window; the historical filename does not create a second organization.
+
+Violet Red identifies **five occupied northern cities among eleven aqua markers**; six others are not identified as occupied. Successive interrogations connect the sites; by the third, the last two are identified. All five footholds are disrupted and Kaira returns home. The western home kingdom and eastern Republic of States are **not known** to be infiltrated, not universally proven immune. The separate far-right pink-X foothold is successfully dismantled by allied foreign kingdoms, independently of Kaira and at an OPEN time. Violet’s later routes end with homecoming, not final eradication.
+
+Kingdoms **25 and 29** are historically collaborating principal Cabal bases and permit slavery. Cabal influence around Kingdom 27 has lasted more than a millennium, but **27 has resisted a successful foothold**. In White Red failed penetration and international pressure prompt kidnapping ruling/noble family members, including from 27 and 28; White Orange pursues them toward 29. Captives’ fates remain OPEN. Kingdom 29 is not a coalition partner. [Global war ledger](../CIVILIZATION/GLOBAL_CABAL_WAR.md) owns the parallel coalition assignments.
+
+White Yellow discovers the [fatal extraction sigil](../TECHNOLOGY/SIGIL_ENGINEERING.md) and a centuries-old research trove: old scrolls, books, ordinary historical paper, later **maege paper**, instruments and other records. The Cabal has knowledge beyond mainstream magic relevant to ELDRIS, storms and collapses. Its research provides clues toward Genesis Field stabilization, not an already-completed solution or new inherited power. Specific archive contents and mechanisms remain OPEN.
+
+[Complete Violet macro](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md) · [Complete White macro](../../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Book Blue White · Cabal of Maegi revelation
 
 **Author-selected checkpoint 002, 2026-11-20; integrated 2026-11-21.** The protected Book Blue label is **Cabal of Maegi**, not “Magi”; this refines the existing Cabal record rather than creating a second organization. Its historical filename and source naming remain preserved.

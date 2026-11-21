@@ -1,3 +1,13 @@
+# Later application · juvenile Leviathan growth
+
+Book Violet Orange selects Kaira using her **trained aen access** to assist the juvenile Black Leviathan’s Blue-energy-supported growth after hatching. This adds a later application without changing any Book Red closure date or establishing completed Stage II, effortless stability, quantitative throughput or mastery. Energy transfer, development rate and realm-time mechanics remain OPEN. [Leviathan biology and selected sizes](../REALMS/BLUE_LEVIATHANS.md) · [Full author selection](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # aen · Violet closure selected for Day 248
 
 The author-approved Semester I plan selects **Day 248**, 21:00–25:00 evening block: with illi's guidance, Kaira closes her Violet aen ring. This resolves the earlier Violet-date OPEN only from this point; all earlier closures and their original dates remain.

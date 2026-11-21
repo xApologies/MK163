@@ -1,3 +1,17 @@
+# Black Singularity travel exception · 2026-11-21
+
+The ordinary rule remains: White Realm humans can enter each chromatic realm; chromatic natives can visit White and their own realm but ordinarily cannot enter another chromatic realm. **Once bonded to Kaira as the Black Singularity**, her Black Sprite, Black Vaelith, Black Dragon, Black Unicorn, Black Primordial and Black Leviathan gain the specific exception to accompany her into other chromatic realms. Eligibility begins only when each bond forms, preserves agency/consent and does not compel attendance. No general race privilege, citizenship change, transfer mechanism or realm time ratio is inferred.
+
+Blue Red’s former Unicorn-only rule and Blue Yellow’s blanket exclusion of non-Yellow Black companions are superseded. The Unicorn accompanies the Red visit; other eligible companions’ attendance remains OPEN. Nyx is **not** Black-bonded and stays in White on those Violet/Yellow visits. **Nyx can enter his native Green Realm**: Book White Red explicitly takes him with Kaira and Black companions from Kingdom 1 through Green Realm to Kingdom 27. This uses Green geometry as a bridge, not a ship voyage or universal Nyx exception. illi’s attendance and other unselected logistics in that White journey remain OPEN.
+
+The ordinary rule in Book Yellow and earlier records remains valid with this later explicit exception. [Exact author decisions](../../../PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md) · [Selected White journey](../../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Book Yellow–Blue · author-selected MK163 interrealm travel
 
 White/Material Realm humanity can travel to each chromatic realm. Chromatic natives may travel between their own realm and White, but cannot ordinarily enter another chromatic realm because of structural energy incompatibility. Native chromatic peoples may adopt humanoid form for interaction in White. This does not authorize free chromatic-to-chromatic travel. Realm time differs; no new ratios, elapsed ages or travel mechanisms are selected. This is an MK163 realization; AERA is not edited or claimed patched.

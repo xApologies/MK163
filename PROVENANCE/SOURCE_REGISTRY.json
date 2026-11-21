@@ -644,6 +644,46 @@
       "source_mapping": "PROVENANCE/WORKSHOP/BOOK_MACROS_2026_11_20/SOURCE_MAP.json",
       "validation": "CHECKPOINTS/BOOK_MACROS_2026_11_20/VALIDATION.json",
       "scope": "Book Blue seven-arc macro; full source preservation, scoped supersessions, no invented dates or chapters; combined four-package author request."
+    },
+    {
+      "id": "MK163_BOOK_BLUE_LEVIATHAN_SUPPORT_003",
+      "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+      "archive": "Leviathan update.zip",
+      "archive_sha256": "d953bc23f4b35781ee7061c37b52e0b6a6dbf7f8ed04327d620cf7804510a767",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/LEVIATHAN_003",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VALIDATION.json",
+      "scope": "Scoped LEVIATHAN_003 integration in combined four-package author request; complete supplied records, maps and explicit supersessions preserved. Leviathan 003 reconciled once through Blue 004."
+    },
+    {
+      "id": "MK163_BOOK_BLUE_REVISION_004",
+      "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+      "archive": "MK163_BOOK_BLUE_REVISION_004.zip",
+      "archive_sha256": "a6e2efa969d410415becef418a37d2ac936a1503d11ad5a487607249366a3910",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VALIDATION.json",
+      "scope": "Scoped BLUE_004 integration in combined four-package author request; complete supplied records, maps and explicit supersessions preserved. Leviathan 003 reconciled once through Blue 004."
+    },
+    {
+      "id": "MK163_BOOK_VIOLET_CUMULATIVE_001",
+      "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+      "archive": "MK163_BOOK_VIOLET_CUMULATIVE_001.zip",
+      "archive_sha256": "b0f03a12980c709d09b26ae837fe751e5f63eb76929c8f1e402f58af8b00809e",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VALIDATION.json",
+      "scope": "Scoped VIOLET_001 integration in combined four-package author request; complete supplied records, maps and explicit supersessions preserved. Leviathan 003 reconciled once through Blue 004."
+    },
+    {
+      "id": "MK163_BOOK_WHITE_CUMULATIVE_001",
+      "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+      "archive": "Arcs.zip",
+      "archive_sha256": "29774a55c6e77f5a2ec1f8fe70f6a1cbeba7cd11a876c733e6724e81e66ac4f6",
+      "source_root": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001",
+      "source_mapping": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VALIDATION.json",
+      "scope": "Scoped WHITE_001 integration in combined four-package author request; complete supplied records, maps and explicit supersessions preserved. Leviathan 003 reconciled once through Blue 004."
     }
   ]
 }

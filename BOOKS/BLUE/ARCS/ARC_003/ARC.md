@@ -14,7 +14,7 @@ Kaira chooses to seek the Primordial; illi joins a small Crown diplomatic delega
 
 ## Principal conflict
 
-Interrealm restrictions keep non-Yellow-native companions in White; exact bond sequence is OPEN.
+Already-bonded Black companions may accompany Kaira under the Black Singularity exception; exact attendance and bonding sequence remain OPEN. Nyx stays in White.
 
 ## Major events
 
@@ -26,7 +26,7 @@ The designated Yellow-native Black Primordial bond and return are selected witho
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Scoped supersessions](../../../../CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Preceding arc](../ARC_002/ARC.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/REVERSE_DIFF.md) · [Preceding arc](../ARC_002/ARC.md)
 
 ## Status
 

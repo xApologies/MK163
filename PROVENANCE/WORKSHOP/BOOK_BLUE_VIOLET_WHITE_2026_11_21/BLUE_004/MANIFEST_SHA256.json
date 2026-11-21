@@ -1,0 +1,11 @@
+{
+  "package": "MK163_BOOK_BLUE_REVISION_004",
+  "version": "004",
+  "files": {
+    "README.md": "cff35c5c412f62fb67f2f5d9d0ac6777d2f83dbe39c12cb3f61b6f8abc9b8468",
+    "AUTHOR_DECISIONS.md": "66652f5d5ef3c906d4c540aae5984c8503892b3c1c7b30cf60f72d60cef8798f",
+    "BOOK_BLUE_REVISED_MACRO.md": "6a57dbf5bce5d708b39d3f89a7dc103b6d9dfefbdf108fb238d5a9804a819cda",
+    "SUPERSESSIONS_AND_OPEN_ITEMS.md": "1d43c693b08b9ab78cd89e65a227999952b62676a7b07b3410714b8817faefab",
+    "executable.md": "24d7bbcef2d74559d8e1536278add5b0bb864e621d0fa1d94f464ef1ee9b1432"
+  }
+}

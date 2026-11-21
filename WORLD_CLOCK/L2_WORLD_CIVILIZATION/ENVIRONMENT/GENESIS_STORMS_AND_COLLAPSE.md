@@ -1,3 +1,13 @@
+# Book White ending · future scoped resolution
+
+The selected [planetary stabilization event](../../L3_CHARACTERS_EVENTS/EVENTS/PLANETARY_GENESIS_STABILIZATION.md) concludes Book White with the intended planet-local outcome of no further storms, collapses, Domai formation or monster threat. Its mechanism and treatment of preexisting ELDRIS remain OPEN. This future outlined result does not alter the environmental laws or dated events below and is not starscape-wide stabilization.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Genesis storms and localized collapse events
 
 **Project:** MK163  

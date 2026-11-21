@@ -1,0 +1,438 @@
+{
+  "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+  "scope": "Complete supplied macro payloads, not complete historical chats or finished manuscripts.",
+  "topics": [
+    {
+      "id": "MACRO-01",
+      "package": "LEVIATHAN_003",
+      "topic": "Voluntary naval contingent",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/LEVIATHAN_003/LEVIATHAN_SUPPORT_DELTA.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md",
+      "decision": "Approximately five or six; maritime protection and supporting fortress engagements; no exact roster, size or single-handed victory.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-02",
+      "package": "LEVIATHAN_003",
+      "topic": "Species versus contingent",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/LEVIATHAN_003/LEVIATHAN_SUPPORT_DELTA.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "decision": "Most stay Blue; some White visitors/human form; exceptional ~8 km is not the contingent or juvenile size; no new Black bond.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-03",
+      "package": "BLUE_004",
+      "topic": "Triennial recurrence",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "decision": "Three years supersedes four; first tournament format/result/dates remain.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-04",
+      "package": "BLUE_004",
+      "topic": "Second tournament arc ending",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "BOOKS/BLUE/ARCS/ARC_001/ARC.md",
+      "decision": "Award, Violet visit, return and retained report; second tournament concludes Red, result/team/prizes OPEN.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-05",
+      "package": "BLUE_004",
+      "topic": "Three merging Domai",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "BOOKS/BLUE/ARCS/ARC_002/ARC.md",
+      "decision": "Existing Orange deployment retained exactly; not political domains.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-06",
+      "package": "BLUE_004",
+      "topic": "Black Singularity travel",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "decision": "Six companions eligible once bonded, no compulsory attendance or general race permission.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-07",
+      "package": "BLUE_004",
+      "topic": "Nyx native access",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "decision": "Not Black-bonded; stays White on Blue Violet/Yellow visits, can enter native Green in White Red.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-08",
+      "package": "BLUE_004",
+      "topic": "Yellow party correction",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "BOOKS/BLUE/ARCS/ARC_003/ARC.md",
+      "decision": "illi/Crown delegation and fifth bond retained; other bonded companions eligible, attendance OPEN.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-09",
+      "package": "BLUE_004",
+      "topic": "003 duplicate reconciliation",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "BOOKS/BLUE/ARCS/ARC_004/ARC.md",
+      "decision": "003 and 004 carry same contingent facts, integrated once with both sources preserved.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-10",
+      "package": "BLUE_004",
+      "topic": "Blue remainder and pirate map",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md",
+      "owner": "BOOKS/BLUE/BOOK_MACRO_OUTLINE.md",
+      "decision": "002 Orange, Blue, Violet, White sections and annotated map unchanged; no Cabal defeat moved into Blue.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-11",
+      "package": "BLUE_004",
+      "topic": "Absolute chronology OPEN",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/SUPERSESSIONS_AND_OPEN_ITEMS.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md",
+      "decision": "353*3=1059; Day 2435 only conditional qualifier-anchor arithmetic; no date assignment or ledger change.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-12",
+      "package": "VIOLET_001",
+      "topic": "Red — five northern Cabal cities, then return",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_001/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-13",
+      "package": "VIOLET_001",
+      "topic": "Orange — Blue Realm and sixth Black bond",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_002/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-14",
+      "package": "VIOLET_001",
+      "topic": "Yellow — southwestern kingdom and outward missions",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_003/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-15",
+      "package": "VIOLET_001",
+      "topic": "Green — southern follow-on foothold",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_004/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-16",
+      "package": "VIOLET_001",
+      "topic": "Blue — Leviathan flight to southern continent",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_005/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-17",
+      "package": "VIOLET_001",
+      "topic": "Violet — southeastern marked location",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_006/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-18",
+      "package": "VIOLET_001",
+      "topic": "White — final marked route, information and homecoming",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/ARCS/ARC_007/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-19",
+      "package": "WHITE_001",
+      "topic": "Red Arc — arrival at the Great Tree and attempted infiltration",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_001/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-20",
+      "package": "WHITE_001",
+      "topic": "Orange Arc — pursuit to Kingdom 29",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_002/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-21",
+      "package": "WHITE_001",
+      "topic": "Yellow Arc — Cabal defeat, lethal extraction sigil, ancient research",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_003/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-22",
+      "package": "WHITE_001",
+      "topic": "Green Arc — natural velis: Green and Yellow Realms",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_004/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-23",
+      "package": "WHITE_001",
+      "topic": "Blue Arc — natural velis: Violet and Orange Realms",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_005/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-24",
+      "package": "WHITE_001",
+      "topic": "Violet Arc — natural velis: Blue and Red Realms",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_006/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-25",
+      "package": "WHITE_001",
+      "topic": "White Arc — local planetary Genesis stabilization",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "BOOKS/WHITE/ARCS/ARC_007/ARC.md",
+      "decision": "Complete selected section preserved in full macro; contract links it using eight constitutional fields; no invented dates/scenes.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-26",
+      "package": "VIOLET_001",
+      "topic": "Five of eleven northern cities",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "decision": "Five occupied sites; six not identified as occupied; third investigation identifies last two.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-27",
+      "package": "VIOLET_001",
+      "topic": "Independent pink-X operation",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md",
+      "decision": "Allied kingdoms successfully dismantle separate foothold; timing and participants OPEN; not Kaira route.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-28",
+      "package": "VIOLET_001",
+      "topic": "Growth and flight limits",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md",
+      "decision": "Egg hatches; 30–40 ft at Blue departure; later flight selected, 60–100 ft only illustrative.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-29",
+      "package": "VIOLET_001",
+      "topic": "aen application",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+      "decision": "Trained access supports growth; no quantitative law, mastery or new closure date.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-30",
+      "package": "VIOLET_001",
+      "topic": "Two-book Cabal war",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/BOOK_VIOLET_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md",
+      "decision": "Violet disruption/homecoming precedes White defeat and stabilization; no final victory prematurely in Violet.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-31",
+      "package": "VIOLET_001",
+      "topic": "Map legend and byte identity",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VIOLET_001/MAP_LEGEND_AND_LIMITS.md",
+      "owner": "BOOKS/VIOLET/REFERENCE_ASSETS/READING_NOTES.md",
+      "decision": "Seven arc routes; pink route is White, far-right pink X independent; exact map retained; no pixel-derived borders or speed.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-32",
+      "package": "WHITE_001",
+      "topic": "Great Tree / infiltration",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md",
+      "decision": "Kingdom 27 capital approximately five-mile Great Tree; failed infiltration; government names OPEN.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-33",
+      "package": "WHITE_001",
+      "topic": "Green Realm bridge",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md",
+      "decision": "Kingdom 1 via Green to 27; Nyx native access; not ship journey; illi attendance OPEN.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-34",
+      "package": "WHITE_001",
+      "topic": "Cabal bases and tactics",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "decision": "25/29 principal bases allow slavery; >millennium influence around resistant 27; kidnappings 27/28 toward 29.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-35",
+      "package": "WHITE_001",
+      "topic": "Fatal extraction technology",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_ENGINEERING.md",
+      "decision": "Constructed sigil kills captive extracting energy into crystals; no glyph procedure, capacity, rates or selected golems.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-36",
+      "package": "WHITE_001",
+      "topic": "Overcharged crystal boundary",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/TECHNOLOGY/GENESIS_CRYSTALS_DUST_AND_VAEN.md",
+      "decision": "Exceptional energy storage, no newly manufactured raw crystal structure or changed mass/market/diamond laws.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-37",
+      "package": "WHITE_001",
+      "topic": "Archive provenance and knowledge",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md",
+      "decision": "Scrolls/books/ordinary and later maege paper/instruments; research clues, not completed stabilization.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-38",
+      "package": "WHITE_001",
+      "topic": "Natural velis distinction",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "decision": "Existing Repair 013 natural origin/history preserved; engineered anchors and physical inscriptions distinct; AERA unmodified.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-39",
+      "package": "WHITE_001",
+      "topic": "Six realm pairs",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/ARCHITECTS_AND_VELIS.md",
+      "decision": "Green+Yellow, Violet+Orange, Blue+Red; each once, no duplicate Yellow.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-40",
+      "package": "WHITE_001",
+      "topic": "Planet-local ending",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/PLANETARY_GENESIS_STABILIZATION.md",
+      "decision": "Intended no further storms/collapses/Domai/monster threat; old ELDRIS resolution and mechanism OPEN; no seventh bond/starscape claim.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-41",
+      "package": "WHITE_001",
+      "topic": "Rejected sport",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md",
+      "decision": "Great Tree aerial racing/checkpoints/bracelets not canonized.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-42",
+      "package": "WHITE_001",
+      "topic": "War theater 1",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "1+12+14 target 15–19 against slave governments/Cabal.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-43",
+      "package": "WHITE_001",
+      "topic": "War theater 2",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "28+30+32 target 20–21; 29 is not coalition partner.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-44",
+      "package": "WHITE_001",
+      "topic": "War theater 3",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "1+26+27 target 22–24; Kingdom 1 participates twice.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-45",
+      "package": "WHITE_001",
+      "topic": "War theater 4",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "5+6+7+8 assist 33 against internal Cabal; not hostile assault on its government.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-46",
+      "package": "WHITE_001",
+      "topic": "War theater 5",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "9+10 assist 31 against internal Cabal; not hostile assault on its government.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-47",
+      "package": "WHITE_001",
+      "topic": "Neutrality and war aims",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "4/11/13 neutral; ten slave states15–24, removal/replacement/abolition desired, specific transitions/outcomes OPEN.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    },
+    {
+      "id": "MACRO-48",
+      "package": "WHITE_001",
+      "topic": "Map namespace and discarded route",
+      "source": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/GLOBAL_WAR_LEDGER.md",
+      "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md",
+      "decision": "Kingdom numbers1–33 not continent numbers or Blue pirate numbering; old repeated military itinerary superseded; coalition background not Kaira route.",
+      "status": "INTEGRATED / OPEN boundaries retained"
+    }
+  ]
+}

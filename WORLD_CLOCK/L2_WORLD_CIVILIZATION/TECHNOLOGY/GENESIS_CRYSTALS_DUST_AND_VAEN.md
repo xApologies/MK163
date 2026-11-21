@@ -1,3 +1,13 @@
+# Exceptional Cabal use · overcharged crystals
+
+Book White Yellow discovers a Cabal sigil that stores energy lethally extracted from a living person in Genesis crystals, producing **overcharged Genesis crystals**. [Sigil engineering](SIGIL_ENGINEERING.md) owns this exceptional technology and its OPEN implementation. No creation of raw crystal structure, general recharge method, new mass/price, capacity or golem use is selected. All ordinary natural-crystal, diamond, dust and vaen distinctions below remain in force. [Exact author selection](../../../PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/WHITE_001/BOOK_WHITE_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Natural Genesis crystals · structure, normalized mass and separate resources
 
 Genesis crystals are naturally forming, basin-specific **structured Genesis energy resources**. Ordinary practitioners cannot create them by Transduction. They supply intrinsic energy structure as well as energy for Binding installation, alchemy, ru’ne/sigils and fabrication. Mining/harvesting, scarcity and basin identity underpin their market. Installation/recipes may consume them when specified; not all uses are nondestructive. The RAM/configuration comparison is an analogy, not literal computer hardware.

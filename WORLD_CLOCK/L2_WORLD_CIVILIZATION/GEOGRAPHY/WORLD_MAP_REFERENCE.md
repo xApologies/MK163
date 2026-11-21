@@ -1,3 +1,17 @@
+# Later-book annotated maps · separate source scopes
+
+[Violet’s exact map](../../../BOOKS/VIOLET/REFERENCE_ASSETS/BOOK_VIOLET_ARC_OUTLINE_AUTHOR.jpg) and [reading notes](../../../BOOKS/VIOLET/REFERENCE_ASSETS/READING_NOTES.md) distinguish five white-X Cabal cities among eleven northern aqua markers, Kaira’s arc-colored routes, the White Arc pink route and a separate far-right pink-X allied operation.
+
+[White’s exact world-war map](../../../BOOKS/WHITE/REFERENCE_ASSETS/BOOK_WHITE_WORLD_WAR_AUTHOR.jpg) uses numbers **1–33 for political territories**, not continent numbers. Its [five-theater coalition ledger](../CIVILIZATION/GLOBAL_CABAL_WAR.md) follows verbal author assignments rather than inferring assignments from pixels. Kingdom 27’s capital is organized around/within an approximately **five-mile-tall Great Tree**. Formal governments, names and borders remain OPEN. Green Realm bridge travel replaces a ship voyage from 1 to 27.
+
+Book Blue’s separately numbered pirate territories 1/2/3 are not automatically identical to White’s numbered kingdoms. Preserve all original map bytes; no mileage, dates, new borders or speed is inferred. The older base-map scale and realm-label cautions below continue to apply; the specific Great Tree height above is now independently selected by the author.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # White 006 · three political domains and dungeon identity
 
 Green, Blue and Violet are the three political domains; Orange remains a stratum, rank and district designation. The supplied [dungeon location map](../../../PROVENANCE/WORKSHOP/WHITE_006/DELIVERY/REFERENCES/Dungeon%20Locations.PNG) is preserved in exact original bytes. [Author reconciliation](../../../PROVENANCE/WORKSHOP/WHITE_006/AUTHOR_DECISIONS.md).

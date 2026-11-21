@@ -1,3 +1,19 @@
+# Leviathan biology and selected later-book instances · 2026-11-21
+
+Most Leviathans remain in their native Blue Realm in natural form. Some visit White and may adopt human form. They feed on **Blue Genesis energy**. Exceptional individuals can reach approximately **8 km**, not a universal size and not an assigned size for the naval contingent or Kaira’s juvenile. No aquatic-only restriction, fixed development law or new reproduction mechanism follows.
+
+Book Blue Green selects approximately **five or six** voluntary White-affinity Leviathans helping the coalition protect maritime travel and engage/dismantle mobile pirate fortresses. They do not win the campaign alone. Their exact count, names, sizes, battles, arrival and command arrangements remain OPEN. This is separate from any Black bond or Kaira’s land-based assignment.
+
+Book Violet Orange selects the sixth Black bond with an initially egg-like Blue Black Leviathan; the egg hatches. Kaira’s trained aen access assists energy-supported growth. At Blue Realm departure the juvenile is approximately **30–40 feet** long. By Violet Blue it has grown further and can fly, carrying Kaira, illi, companions and a small selected group across water. **60–100 feet** is an illustrative later scale, not a fixed measurement. The entire delegation is not assigned to that flight. Growth rates, energy transfer, realm timing and adult maturation remain OPEN; no aen mastery is inferred.
+
+[Book Blue support](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Full Violet selections](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md) · [Bond exception](SEVEN_REALMS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Blue native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Bandwidth**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.

@@ -1,3 +1,15 @@
+# Tournament recurrence cross-reference · 2026-11-21
+
+The King’s Tournament is now **triennial**, superseding the older quadrennial description below. [The single tournament owner](KINGS_TOURNAMENT.md) governs recurrence, unchanged race format and the OPEN absolute schedule for Kaira’s second participation at the end of Book Blue Red. Regular raeon weekday schedules and all dated Book Red selections remain unchanged.
+
+The Book White Great Tree aerial festival, six checkpoints, bracelet activation and Kaira’s participation were brainstormed only and **are not canonized**. [Current White macro](../../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # The King’s raeon salon and local shop tournaments
 
 The King hosts an informal salon each **Aithen**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the sixth weekday.

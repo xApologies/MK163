@@ -1,3 +1,17 @@
+# Current Cabal horizon · Book Blue reveal to Book White defeat
+
+Blue White’s selected manipulation reveal remains. Violet and White form a two-book international war: Violet disrupts northern and overseas footholds, includes a separately successful allied pink-X operation, and ends with Kaira home. **White Yellow** selects Cabal defeat at Kingdom 29; later White arcs investigate natural velis and culminate in planetary stabilization. Earlier unspecified-confrontation language is superseded only in this scope.
+
+The [Cabal owner](../L2_WORLD_CIVILIZATION/HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md) governs bases, knowledge, attempted infiltration and kidnappings. The [global war ledger](../L2_WORLD_CIVILIZATION/CIVILIZATION/GLOBAL_CABAL_WAR.md) is parallel coalition background; Kaira is not assigned every theater. Kingdoms 31/33 are assisted, 29 is not an ally, and final political outcomes remain OPEN. This changes neither earlier ransom-cartel scope nor the Blue pirate culmination.
+
+[Violet full outline](../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md) · [White full outline](../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Current Orange–Blue macro windows · 2026-11-21
 
 Orange deals with one noble-ransom cartel: the example daughter is returned after payment, illi investigates in Green/Blue, Violet exposes the lower-noble informant, and White dismantles that cartel. Slavery awareness may exist in the wider setting without turning this organization into a slave cartel. Yellow’s summit expands awareness to separate worldwide trafficking networks; there is no illi kidnapping or direct pirate showdown. Green’s sibling rescue and continent-wide cartel disruption materially hinder trafficking but leave the coordinated Pirate King/Lords milestone for Blue. Green’s merged domai is Violet Arc, distinct from Yellow’s.

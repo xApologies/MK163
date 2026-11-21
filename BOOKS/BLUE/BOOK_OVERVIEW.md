@@ -1,3 +1,15 @@
+# Book Blue · Revision 004 and support 003
+
+The [complete macro](BOOK_MACRO_OUTLINE.md) now concludes [Red Arc](ARCS/ARC_001/ARC.md) with Kaira’s second King’s Tournament, following the award, Violet visit and return; the favorable intelligence report remains. Recurrence is triennial, absolute dates and result OPEN. Already-bonded Black companions may accompany the Red and [Yellow](ARCS/ARC_003/ARC.md) realm visits; Nyx stays in White. [Green Arc](ARCS/ARC_004/ARC.md) adds approximately five or six voluntary Leviathan supporters, without replacing Kaira’s Blue Arc land campaign or moving the sixth bond out of Violet. Orange still has three merging Domai. All seven existing arc IDs, the pirate map, later campaign and Cabal reveal remain.
+
+[Audit and supersessions](../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Book Blue · current seven-arc macro
 
 Author-selected planning checkpoint BOOK_BLUE_MACRO_002, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.

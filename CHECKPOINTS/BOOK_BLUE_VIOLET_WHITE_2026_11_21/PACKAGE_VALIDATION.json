@@ -1,0 +1,158 @@
+[
+  {
+    "package": "LEVIATHAN_003",
+    "archive": "Leviathan update.zip",
+    "archive_sha256": "d953bc23f4b35781ee7061c37b52e0b6a6dbf7f8ed04327d620cf7804510a767",
+    "status": "PASS",
+    "payload_hashes": 3,
+    "files": [
+      {
+        "source": "LEVIATHAN_SUPPORT_DELTA.md",
+        "bytes": 1525,
+        "sha256": "cd1033e6b27f363142d673f6a889ec4a0c36aad48aecfce6a0a8182697aafe7a"
+      },
+      {
+        "source": "MANIFEST_SHA256.json",
+        "bytes": 350,
+        "sha256": "e45a12c6f951b94e1bc83b566740be87ec8cbbb84130cdacae481afbdcf6fd32"
+      },
+      {
+        "source": "README.md",
+        "bytes": 410,
+        "sha256": "a638fd494eee7e6a4a1fb933ee1a618d7c71cf6b03276e4c6f89cfbe967fdb37"
+      },
+      {
+        "source": "executable.md",
+        "bytes": 1921,
+        "sha256": "d943880630c1e127d594edeb3a9d64429f98c387c5cc615d958c3d051fd72bbb"
+      }
+    ]
+  },
+  {
+    "package": "BLUE_004",
+    "archive": "MK163_BOOK_BLUE_REVISION_004.zip",
+    "archive_sha256": "a6e2efa969d410415becef418a37d2ac936a1503d11ad5a487607249366a3910",
+    "status": "PASS",
+    "payload_hashes": 5,
+    "files": [
+      {
+        "source": "README.md",
+        "bytes": 1043,
+        "sha256": "cff35c5c412f62fb67f2f5d9d0ac6777d2f83dbe39c12cb3f61b6f8abc9b8468"
+      },
+      {
+        "source": "AUTHOR_DECISIONS.md",
+        "bytes": 3307,
+        "sha256": "66652f5d5ef3c906d4c540aae5984c8503892b3c1c7b30cf60f72d60cef8798f"
+      },
+      {
+        "source": "BOOK_BLUE_REVISED_MACRO.md",
+        "bytes": 3488,
+        "sha256": "6a57dbf5bce5d708b39d3f89a7dc103b6d9dfefbdf108fb238d5a9804a819cda"
+      },
+      {
+        "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+        "bytes": 2589,
+        "sha256": "1d43c693b08b9ab78cd89e65a227999952b62676a7b07b3410714b8817faefab"
+      },
+      {
+        "source": "executable.md",
+        "bytes": 2855,
+        "sha256": "24d7bbcef2d74559d8e1536278add5b0bb864e621d0fa1d94f464ef1ee9b1432"
+      },
+      {
+        "source": "MANIFEST_SHA256.json",
+        "bytes": 563,
+        "sha256": "10646e165cd4d944aa451cd5e1723ea70c38eaf3fa63ba0b2b8fe101767c74ba"
+      }
+    ]
+  },
+  {
+    "package": "VIOLET_001",
+    "archive": "MK163_BOOK_VIOLET_CUMULATIVE_001.zip",
+    "archive_sha256": "b0f03a12980c709d09b26ae837fe751e5f63eb76929c8f1e402f58af8b00809e",
+    "status": "PASS",
+    "payload_hashes": 6,
+    "files": [
+      {
+        "source": "README.md",
+        "bytes": 545,
+        "sha256": "213bb2c7f5cba18b9d305a85611987eeab5775e7c6cbb536943de2c1b395ddba"
+      },
+      {
+        "source": "BOOK_VIOLET_MACRO_OUTLINE.md",
+        "bytes": 6506,
+        "sha256": "b18fbb425a7acba777c82f4daa2f3fa046c82743a86221a61745cd61c2bb74eb"
+      },
+      {
+        "source": "MAP_LEGEND_AND_LIMITS.md",
+        "bytes": 1387,
+        "sha256": "cc0071e0cf46a3e49e09bce9cb37a821d4530f38b0df289aa621c5c5f1641930"
+      },
+      {
+        "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+        "bytes": 1560,
+        "sha256": "a2d5502987052e060b6014cdcb8e4c242822eaa9c12e4a54946bd395975145c4"
+      },
+      {
+        "source": "executable.md",
+        "bytes": 3341,
+        "sha256": "4124428cb85f6377cd770e60b591f4899062e904d4b6e636385c7b4fb2adad61"
+      },
+      {
+        "source": "MANIFEST_SHA256.json",
+        "bytes": 699,
+        "sha256": "a6c3c4a7ee67b430033de5251f8f5b5778a703d07652e8a001a67f9ccf4b398f"
+      },
+      {
+        "source": "REFERENCE_ASSETS/BOOK_VIOLET_ARC_OUTLINE_AUTHOR.jpg",
+        "bytes": 1086629,
+        "sha256": "57c26eae0f0e8395985fd3525352b3844ba033d057556f759d64738ec495defc"
+      }
+    ]
+  },
+  {
+    "package": "WHITE_001",
+    "archive": "Arcs.zip",
+    "archive_sha256": "29774a55c6e77f5a2ec1f8fe70f6a1cbeba7cd11a876c733e6724e81e66ac4f6",
+    "status": "PASS",
+    "payload_hashes": 6,
+    "files": [
+      {
+        "source": "README.md",
+        "bytes": 656,
+        "sha256": "b471cf31c1a9b90718ebf2949c534d6f83e3db962b28bfcebb5f930b225e609c"
+      },
+      {
+        "source": "BOOK_WHITE_MACRO_OUTLINE.md",
+        "bytes": 6353,
+        "sha256": "4b34885452a48d25c8646fcb0f0eb12730a21ac4e4cad431c61df66e155a4c35"
+      },
+      {
+        "source": "GLOBAL_WAR_LEDGER.md",
+        "bytes": 2376,
+        "sha256": "4ec35a3fad3f479bfe4d66fa63fb8e8f93439b1651f98541aa53b5b462d86025"
+      },
+      {
+        "source": "SUPERSESSIONS_AND_OPEN_ITEMS.md",
+        "bytes": 2234,
+        "sha256": "6a3c4c4293037439b8bc43f8e2b81895c2ee3364f69fb35afc82aca9f300588b"
+      },
+      {
+        "source": "executable.md",
+        "bytes": 3270,
+        "sha256": "b466f110cd122fad5bd795ca35ed583921dd9a22cea049d41fd3f99023d6d198"
+      },
+      {
+        "source": "MANIFEST_SHA256.json",
+        "bytes": 710,
+        "sha256": "d51690732365fac05e534764d020fb0fe95dc592ebb464a664073c0ae05a3e48"
+      },
+      {
+        "source": "REFERENCE_ASSETS/BOOK_WHITE_WORLD_WAR_AUTHOR.jpg",
+        "bytes": 2913354,
+        "sha256": "f10a533dabae2ae597cba0f2af2239f866e8b3045ca6f14854022ca13af4b909"
+      }
+    ]
+  }
+]

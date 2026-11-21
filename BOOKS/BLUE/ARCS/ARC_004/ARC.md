@@ -10,7 +10,7 @@ Locate and dismantle pirate floating fortresses.
 
 ## Entry state
 
-A multinational armada begins the overseas anti-piracy campaign. Unspecified dates, locations and incidental circumstances remain OPEN.
+A multinational armada begins the overseas anti-piracy campaign with voluntary support from approximately five or six Leviathans. Unspecified dates, locations and incidental circumstances remain OPEN.
 
 ## Principal conflict
 
@@ -22,11 +22,11 @@ Huge water-sigil-driven mobile bases are difficult to track and contain.
 
 ## Exit state
 
-The armada dismantles fortresses it can find; precise engagements and Kaira’s contribution remain OPEN.
+The armada dismantles fortresses it can find, with Leviathans helping protect maritime travel and engage mobile bases. They do not win the campaign alone. Exact number, identities, sizes, engagements and Kaira’s contribution remain OPEN; her Blue Arc land assignment is unchanged.
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Scoped supersessions](../../../../CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Preceding arc](../ARC_003/ARC.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/REVERSE_DIFF.md) · [Preceding arc](../ARC_003/ARC.md)
 
 ## Status
 

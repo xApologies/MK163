@@ -1,3 +1,15 @@
+# Second tournament · Book Blue Red selection
+
+Kaira participates in a second King’s Tournament **after her Violet Realm return, concluding Book Blue Red Arc**. The preceding award and favorable intelligence report remain. The [tournament institution](../../L2_WORLD_CIVILIZATION/CULTURE/KINGS_TOURNAMENT.md) now has a triennial recurrence, but the second event’s absolute schedule, team, placement, race details and prizes are OPEN. No new ring award is inferred.
+
+The complete first tournament and Ring acquisition record below is unchanged: Book Red Day 1637, fourth/Green, seven White-ranked rings and no epilogue. [Blue author decisions](../../../PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/BLUE_004/AUTHOR_DECISIONS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # White Arc conclusion — author-selected ending
 
 Book Red outline ends on Day **1637**, the royal awards ceremony at Violet Domain capital. Kaira's seven-member vaelum places **Green (fourth)** in the royal final. Each member receives a **White-ranked dimensional ring** from the King. The King wears the completed Genesis Robe Kaira delivered at his regular weekday-five raeon game on Day **1614**. **The ceremony is the final scene: no epilogue.**

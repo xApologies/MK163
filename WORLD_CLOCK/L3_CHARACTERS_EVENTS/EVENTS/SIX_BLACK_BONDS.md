@@ -1,3 +1,17 @@
+# Sixth bond and companion travel · 2026-11-21
+
+All six existing bond identities/order and independent agency remain: Red/Green Sprite; Orange/Orange Vaelith; Yellow/Red Dragon egg; Green/Violet Unicorn; Blue/Yellow Primordial; Violet/Blue Leviathan. **Violet Orange Arc** now selects the sixth bond, egg hatching and juvenile development; Book White has **no seventh bond**. The separate Book Blue naval Leviathans are not new Black companions.
+
+Once each bond forms, that companion may accompany Kaira across chromatic realms through the Black Singularity exception. This is eligibility, not compulsory attendance or a general race rule. Nyx remains outside the six bonds: he stays in White for Blue’s Violet/Yellow visits but may enter his own Green Realm on White Red’s bridge journey. No current Book Red event or early bond timing changes.
+
+Leviathan feeding, approximate juvenile size, flight and limits belong to [the biology owner](../../L2_WORLD_CIVILIZATION/REALMS/BLUE_LEVIATHANS.md); the full exception belongs to [the realm owner](../../L2_WORLD_CIVILIZATION/REALMS/SEVEN_REALMS.md). [Violet macro](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Book Orange–Blue macro selections · bond chronology
 
 The six-bond order, independent agency, native realm identities, conventional Binding incompatibility and developmental limits are unchanged. The four macro packages add scoped placements:

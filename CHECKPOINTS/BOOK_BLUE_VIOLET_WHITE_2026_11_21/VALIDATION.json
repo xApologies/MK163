@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "baseline": "79365c07373cdd5449174d8fc5cd7ee0116c80a5",
+  "check_count": 1813,
+  "counts": {
+    "packages": 4,
+    "source_files": 24,
+    "payload_and_asset_hashes": 20,
+    "new_complete_macros": 2,
+    "new_arc_contracts": 14,
+    "blue_contracts_modified": 3,
+    "contracts_checked": 21,
+    "coverage_topics": 48,
+    "local_links_checked": 351,
+    "protected_files_checked": 1026,
+    "changed_paths": 114,
+    "added": 86,
+    "modified": 28,
+    "deleted": 0
+  },
+  "failures": [],
+  "scope": "Complete supplied macro payloads; chronology/mechanisms explicitly OPEN. Historical sources and Book Red ledger unchanged."
+}

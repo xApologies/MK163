@@ -1,3 +1,19 @@
+# Books Blue–White · current selected macro scope
+
+Blue Revision 004 now ends Red Arc with the second King’s Tournament after the Violet visit; recurrence is three years with absolute chronology OPEN. Already-bonded Black companions gain scoped interrealm eligibility; Nyx does not, but may visit his native Green Realm. Approximately five or six Leviathans support Blue’s Green naval campaign, separately from Kaira’s sixth bond in Violet Orange.
+
+Violet’s complete seven-arc outline covers five occupied northern cities out of eleven markers, the Leviathan’s hatching/development, overseas Cabal missions and homecoming. The far-right pink-X allied success is separate from Kaira and from the pink White Arc route. White’s complete outline uses a Green Realm bridge to Kingdom 27, pursuit to 29, Cabal defeat in Yellow, six-realm natural-velis study and planet-local stabilization. Its five coalition theaters remain background, with outcomes and mechanics OPEN where unselected.
+
+No later absolute days or prose scenes are invented. Book Red’s complete Day 0–1637 ledger and first tournament are unchanged; Books Orange/Yellow/Green and all prior workshop/checkpoint originals remain preserved.
+
+[Blue outline](../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Violet outline](../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md) · [White outline](../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/INTEGRATION_REPORT.md) · [OPEN chronology and mechanics](../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/OPEN_ITEMS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Current Books Orange–Blue · seven-arc macro outlines
 
 Author-selected macro outlines now cover all seven arcs in each of Books Orange, Yellow, Green and Blue. Orange ends with one ransom cartel dismantled; Yellow progresses from summit and Dragon egg through three advanced semesters, regular military service and Special Projects recruitment; Green 002 places the Unicorn bond/training in Green, merchant-city campaign in Blue, republic merged domai in Violet and continental disruption in White; Blue 002 retains the pirate campaign and adds the White Arc Cabal of Maegi manipulation revelation. Book Red’s Day 1637 endpoint and every dated record remain unchanged. No later calendar days, chapters or scenes are invented.

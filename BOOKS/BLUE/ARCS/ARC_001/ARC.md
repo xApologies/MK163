@@ -6,7 +6,7 @@ Stable ID: MK163-BLUE-ARC-001. Book: Blue. Working title: Recognition and Violet
 
 ## Narrative objective
 
-Receive recognition and learn of the Black Primordial in the Violet Realm.
+Receive recognition, learn of the Black Primordial in the Violet Realm and participate in a second King’s Tournament.
 
 ## Entry state
 
@@ -14,7 +14,7 @@ Kaira has contributed to Book Green’s continental disruption. Unspecified date
 
 ## Principal conflict
 
-Only her living Black Unicorn accompanies the realm visit; other companions remain in White.
+Her living Black Unicorn accompanies the realm visit; other already-bonded Black companions are eligible but attendance is OPEN. Nyx stays in White. Exact tournament challenges and outcome remain OPEN.
 
 ## Major events
 
@@ -22,11 +22,11 @@ Only her living Black Unicorn accompanies the realm visit; other companions rema
 
 ## Exit state
 
-They return to the White palace; the arc closes on the favorable intelligence report, with no Primordial bond yet.
+After the White Realm return and the retained favorable intelligence report, the second King’s Tournament concludes Red Arc. Its team, placement, prizes and absolute dates remain OPEN; no Primordial bond yet.
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Scoped supersessions](../../../../CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Preceding book](../../../GREEN/BOOK_OVERVIEW.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/REVERSE_DIFF.md) · [Preceding book](../../../GREEN/BOOK_OVERVIEW.md)
 
 ## Status
 

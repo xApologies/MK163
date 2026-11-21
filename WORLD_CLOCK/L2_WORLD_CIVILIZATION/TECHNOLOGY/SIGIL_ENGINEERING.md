@@ -1,3 +1,17 @@
+# Cabal extraction sigil · Book White Yellow discovery
+
+An author-selected **large constructed sigil** forcibly extracts Genesis energy from a living person placed inside it, **killing the person**, and stores that extracted energy in Genesis crystals, producing **overcharged Genesis crystals**. Cabal slavery and captive sacrifice are linked to this technology. This is a fictional worldbuilding selection, not a supplied design or procedure: glyph geometry, activation, extraction rate, energy capacity, physics and implementation remain OPEN. Golems are only a possible application, not a selected use.
+
+The selection stores energy in crystals; it does not establish manufacture of new raw crystal structure, unlimited recharging, a replacement for ordinary diamond reservoirs, or a changed market/mass law. [Resource distinctions](GENESIS_CRYSTALS_DUST_AND_VAEN.md) remain. The [Cabal owner](../HOSTILE_ORGANIZATIONS/CABAL_OF_ASH_AND_CROWN.md) records discovery and recovered research; [White macro](../../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md) owns the narrative.
+
+Natural velis, engineered field anchors and physical ru’ne/sigils remain distinct. The existing natural-velis origin/history below is preserved; Book White’s research does not invent observations or amend upstream AERA.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Natural velis in the history of sigil engineering
 
 Practitioners studied the stable topology of naturally occurring velis before designing ru’ne and sigil geometries. Natural structures can be studied without visible inscriptions. An engineered geometry may draw on several observations. The MK163 definition and the inherited terminology for Architect-made local anchors are recorded in [Architects and velis](../PROFESSIONS/ARCHITECTS_AND_VELIS.md).

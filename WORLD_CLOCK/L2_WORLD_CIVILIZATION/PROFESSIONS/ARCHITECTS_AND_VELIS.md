@@ -1,3 +1,15 @@
+# Book White natural-velis research · scoped application
+
+The MK163 natural-velis definition and history below already govern: naturally forming local Genesis Field anchors informed deliberate ru’ne/sigil engineering. Architect-created/maintained analogues and physical inscriptions remain distinct; **vaelum** is an adventuring organization, not a field anchor. The inherited AERA terminology remains preserved at its cited revision and is not edited upstream.
+
+Book White’s selected research sequence is **Green Arc: Green and Yellow Realms; Blue Arc: Violet and Orange; Violet Arc: Blue and Red**. Each chromatic realm appears once in that sequence. The recovered Cabal archives motivate investigation, but exact natural examples, observations, topology and stabilization mechanism remain OPEN. No Great Tree sport machinery or new field law is supplied. [Complete macro](../../../BOOKS/WHITE/BOOK_MACRO_OUTLINE.md) · [Ending event](../../L3_CHARACTERS_EVENTS/EVENTS/PLANETARY_GENESIS_STABILIZATION.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-21 selections above supersede prior wording in their stated scope. All unrelated facts and historical source evidence below remain preserved.
+
 # Natural velis and Architect-made anchors
 
 In MK163 a **velis** is a naturally forming, locally stabilized configuration of the Genesis Field that functions as an anchor. Velis form without a practitioner. Like natural sigils, they can be studied through their geometry and stable relationships. Their topologies can differ. A field anchor can exist without a written symbol or visible glyph.

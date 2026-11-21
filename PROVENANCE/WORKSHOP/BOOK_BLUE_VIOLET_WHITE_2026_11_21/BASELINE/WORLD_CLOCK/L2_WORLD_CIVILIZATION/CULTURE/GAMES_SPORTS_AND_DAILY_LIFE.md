@@ -1,0 +1,205 @@
+# The King’s raeon salon and local shop tournaments
+
+The King hosts an informal salon each **Aithen**, the fifth weekday, in the Violet royal capital. Nobles, generals, administrators and other officials may attend. Kaira is invited as illi’s friend. Her challenge coin conveys fare-free passage on the King’s Highway and a standing invitation to these games. It confers no nobility, monetary award or unrestricted access. Local card shops hold their weekly raeon tournaments on **Aiven**, the sixth weekday.
+
+The author-approved Violet 008 restoration reinstates Aithen/5 royal salons and Aiven/6 shop tournaments. The 008 interval selects regular royal games on Days 1098 and 1140. Days 1081–1086 are recovery without royal travel; Day 1139 is downtime and Day 1120 has no scheduled tournament for Kaira. Earlier Blue visits and local results in the table remain unchanged. [Restoration source](../../../PROVENANCE/WORKSHOP/VIOLET_CALENDAR_RESTORATION_008/EXECUTABLE.md) · [Violet calendar](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md)
+
+| Story days | Earlier Blue royal visits and local play |
+|---|---|
+| 945–951 | illi’s invitation reaches Kaira on 945. Kaira takes a rickshaw to the Blue palace on 946, stays overnight and visits illi on 947. On 948 they take the King’s Highway to the Violet capital. illi leaves Kaira at the King’s table and returns near the end of game three. Kaira wins all four. The King recognizes the ringer and play continues after the two leave. The visit continues through 951. |
+| 952 and 955 | On their return to the Blue capital on 952, illi presents the coin. They visit the staging-area Registry together afterward. On 955 Kaira wins her first White tournament at the local card shop. |
+| 999–1009 | The expedition closes on 999. Kaira recovers on 1000–1001. On 1002 she goes to the Blue palace, learns illi is in Violet and uses the coin to travel there. She wins four games and loses one. Guests celebrate the unidentified player who beats her. Days 1003–1007 allow time with illi or recovery, including relaxed days with illi at the Violet palace on 1006–1007. Kaira returns home on 1008 and places Blue locally on 1009 after unfavorable draws. |
+| 1020–1027 | While three Registry applications are pending, Kaira travels to the King’s salon in Violet on 1020. The result remains OPEN. **Day 1021 — Aiven:** Kaira returns from the Violet royal capital to the Blue Domain capital following the King's Day 1020 raeon salon. She does not participate in the local card-shop tournament. On 1027 she wins White at the local shop. |
+
+[Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) · [Earlier royal visit evidence](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/04_ROYAL_SALONS_AND_COIN.md) · [Earlier local results](../../../PROVENANCE/WORKSHOP/BLUE_ARC_012/07_DAYS_1009_TO_1049_LEDGER.md) · [Date-by-date supersessions](../../../CHECKPOINTS/CALENDAR_RAEON_VELIS_013/INTEGRATION_REPORT.md)
+
+## Violet 009 selected attendance
+
+The existing Day 1326 game also hosts the 010 robe reveal: Kaira wears her sole completed Genesis Robe, the King wants one, and illi mediates a prospective bargain with terms and outcome OPEN. Neither illi nor the King has a finished Genesis Robe in this event. This is the same scheduled game. [Genesis Robe chronology](../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/GENESIS_ROBE.md).
+
+Kaira places **Blue** at the local Blue-capital raeon tournament on **1165** (Aevor 16, Aiven/6). She attends the local tournament on **1225** (Aerion 11, Aiven/6), with result **OPEN**. The King's regular royal games are selected on **1188** (Aelith 7) and **1326** (Aeleth 16), both Aithen/5; their results are OPEN. Kaira spends 1189–1190 with Princess illi, returns to Blue on 1191, and returns from the later royal visit on 1327. No additional attendance follows from recurrence. [Complete daily schedule](../../../BOOKS/RED/ARCS/ARC_006/VIOLET_DAILY_LEDGER_009.md) · [Original continuation](../../../PROVENANCE/WORKSHOP/VIOLET_CUMULATIVE_009/VIOLET_EXTENSION_1160_1346.md).
+
+---
+
+# Prism · current game and Blackstone culture
+
+## Base gameplay
+- Genesis-field non-destructive competitive team sport analogous to paintball/tag.
+- A crafted Prism bracelet projects a body-bound protective Genesis shield and supplies a non-destructive Genesis-energy orb.
+- Orb contact with ordinary unshielded matter/person splashes/dissipates harmlessly; coupling to the Prism shield produces localized and accumulated global shield decay; total shield dissipation eliminates the player.
+- Working visual damage ladder: Clear/Full → Violet → Blue → Green → Yellow → Orange → Red → dissipated.
+- Athletic/tactical advantage is driven by mobility, positioning, field geometry, and team composition; it is **not simply transduction destructive power**.
+- Flyers through air manipulation or CSR (continuous spatial resolution) gain aerial mobility; augmenters gain speed/jumping/agility; fireball specialists have little direct advantage; summoners have no automatic advantage. The legality of environmental fire barriers is still unresolved.
+
+## Blackstone faculty Cup
+- Prism was invented at Blackstone approximately two centuries before Kaira's story, by professors who developed the bracelet; an early faculty game evolved into the annual **Blackstone Prism Cup**, later spreading into kingdom-wide professional sport.
+- **The Blackstone Prism Cup is FACULTY-ONLY** and teams represent academic **departments** (e.g., Mathematics versus Chemistry), **not** transduction classifications, and **not** students. Longstanding interdepartmental rivalries are part of Blackstone's heritage.
+
+## Student recreation
+- Students can check out bracelets and play informal/pickup games, including on weekends/rest days.
+- A student **Prism Club** supports informal recreation, independent of the faculty Cup. Kaira, illi and Elaira are not automatically Cup competitors; they may play recreationally or spectate.
+- Student schedules' Aiven rest day is a natural time for pickup games.
+
+## Unresolved competition rules
+Exact team size (earlier 5–7 target), bracelet interface, scoring beyond elimination, match duration, recharge/reset, fouls, substitutions, league operations, and legality of various transductions remain open. Do not invent and promote these to canon.
+
+The historical Semester Day 51 ER Foam Ball / five-branch championship is superseded in name and team basis. The current faculty-only departmental Prism Cup has no selected season/start day. Founders Games are a separate Semester Day 21 event; student pickup play is separate from both. [Gym and permanent Prism Field architecture](../INSTITUTIONS/BLACKSTONE.md). Existing raeon rules, attendance and tournament outcomes remain unchanged.
+
+Green Day 217 v6 · 2026-11-12. [Scoped decisions and reverse reconciliation](../../../CHECKPOINTS/GREEN_DAY217_V6/REVERSE_DIFF.md) · Sources: [PRISM_GAME_AND_CULTURE.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/PRISM_GAME_AND_CULTURE.md) · [CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V6/CANON/CAMPUS_SEMESTER_CALENDAR_RECONCILIATION.md)
+
+## Earlier record · preserved verbatim
+
+Only the explicit Green Day 217 v6 decisions above supersede earlier statements in their stated scope. All unrelated canon and historical source text remain intact.
+
+---
+
+# Raeon · named tournament schedule and placements through Day 167
+
+The current checkpoint uses protected **Raeon**. Original quoted spellings remain. Kaira completes her first 60-card custom deck on Day 14; local card-shop tournaments run on **Aiven**, sixth weekday, with the current ledger's first eligible entry Day 19. This preserves the old house-deck practice/rental account without inventing a new dated match or forcing a specific deck into an otherwise unspecified tournament; the precise placement of that older rental episode remains OPEN.
+
+| Ledger day(s) | Attendance/result |
+|---|---|
+| 19, 25, 37 | Attends; early elimination |
+| 49, 55 | Attends; improves/advances further |
+| 67, 73, 79 | Attends; nearing placement |
+| 91 | Orange, sixth |
+| 97 | Red, seventh |
+| 109 | Early elimination from poor draws |
+| 121 | Yellow, fifth |
+| 127 | Orange, sixth |
+| 145 | Blue, third |
+| 151 | Green, fourth |
+| 163 | Violet, second; narrowly misses first |
+| 31, 43, 61, 85, 103, 115, 133, 139 | Explicit nonattendance |
+| 157 | Tournament occurs; attendance and result OPEN |
+
+Seven placements: Red seventh, Orange sixth, Yellow fifth, Green fourth, Blue third, Violet second, White first. Tie-breaking mechanics, opponents and exact prizes remain governed by prior rules/OPEN decisions. A bad draw is not lack of developing skill; no guaranteed victory. After Day 163 she buys cards to rebuild the original deck around her developed style; exact purchases and cost OPEN.
+
+Dates coexist with freight, craft, aen and Nyx events without fixed time slots or compulsory daily scenes. Local results are separate from the King's Tournament Green/fourth and later royal gatherings. No upstream game edits, legal decklist, invented card or rule changes.
+
+Checkpoint 020 · 2026-11-11. [Scoped supersessions and coverage](../../../CHECKPOINTS/CUMULATIVE_020/REVERSE_DIFF.md). Sources: [019/CHECKPOINT_019_CANON.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/019/CHECKPOINT_019_CANON.md) · [020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md](../../../PROVENANCE/WORKSHOP/CUMULATIVE_020_2026_11_11/020/CHECKPOINT_020_CANON_AND_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+All prior bytes remain below. Only explicit scoped decisions above supersede earlier language; unrelated detail and source quotations remain intact.
+
+---
+
+# Orange Day 14 · first custom deck and independent reading
+
+- Following morning Kaira drinks abecca, turns her retained green stone in her hand and decides to complete her personal **raeon** deck that day.
+- She returns to the **regular large-city raeon shop** she has visited across the first three days of early deck-building. Exact district, shop name, assistant identity remain OPEN. This is distinct from the staging-settlement shop.
+- Prior established state: a few purchased Prime Fields/Utilities, informal house-deck practice with shop assistant, no completed deck; her first tournament used a rented Utility/Universal house deck.
+- **New decision:** a highly knowledgeable shop employee helps Kaira design and purchase her **first complete entry-level custom 60-card deck**. She actively participates, then plays approximately one or two casual games with local players. Results and opponents OPEN. Shop is a social place where people of different status play; raeon is a widespread civic pastime, including royal participation.
+- Do not invent decklist, cards, rules, exact prices, or format. Retrieve current `_raeon` source for a legal specific list before finalizing deck mechanics. MK163 prior rules: 60-card constructed deck; Prime identity uniqueness and three active Prime positions; max two Field Generators and three Utilities per identity.
+- On way home she buys **The Geometry of Existence**, the established MK173 literary work, **not** a generic good-versus-evil fantasy. It concerns Genesis Field, geometry, identity and existence. This is an intentional **in-world literary crossover**; it does not merge MK173 historical events into MK163 reality.
+- She reads it recreationally at home between ordinary work.
+
+The Day 26 games show intuition and fast learning, not invincibility. The existing royal gatherings happen later in Green. Sources: [LIVE_MODEL](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/LIVE_MODEL.md), [CHECKPOINT_003_DECISIONS](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/CHECKPOINT_003_DECISIONS.md).
+
+Checkpoint 005 · 2026-11-09. [Source precedence and corrections](../../../PROVENANCE/ORANGE_CUMULATIVE_005_SUPERSESSIONS.md).
+
+## Earlier record · preserved verbatim
+
+Earlier statements remain as evidence; the new decisions govern only their stated scope.
+
+---
+
+# raeon · game and storefront
+
+**Orange arc of Book Red · 2026-11-08.** The game’s protected name is now **raeon**. The southeastern raeon shop and adjacent unnamed abecca shop belong to the Violet staging settlement. Collectible maege-glass game Cards are distinct from operational Genesis Cards. Vael drops two undamaged game Cards; Kaira browses, recovers her composure and buys none at the staging prices. [First encounter](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md). Existing game mechanics, Green royal gatherings and limited challenge coin remain.
+
+[Decision and source boundaries](../../../PROVENANCE/ORANGE_2026_11_08_CORRECTIONS.md).
+
+## Earlier record · retained in full
+
+Only the scoped decisions above supersede earlier language. Source quotations retain their original wording.
+
+---
+
+# Raeon and royal games
+
+**Book Red consolidation · 2026-11-07.** **Raeon** is the title-cased name of the existing Genesis Card game. Kaira can afford a competitive deck from Chainmail Robe earnings. She builds and plays it at Blackstone and local tournaments; the [Blue Arc](../../../BOOKS/RED/ARCS/ARC_005/ARC.md) dates her royal games. The King hosts the salon on Aithen, weekday 5. The King sometimes stacks his guest list with strategists; he does not stack the deck. The unnamed coffee shop in Blue serves **abecca**, the bean/drink, not a proprietor or shop name.
+
+Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+
+---
+
+> **Live Model 007 current authority — 2026-10-20:** Adds approved MK163 formats and community details, with scoped upstream verification and open fees/placements. Only explicit supersessions below change earlier decisions; all previous record bytes remain intact.
+
+## Live Model 007 integration
+
+### MK163 social and tournament decisions
+
+Raeon values strategic ability, tactics, creativity and sportsmanship at the table more than birthright, nobility or wealth. Collection access can still be unequal; skill is not automatically purchased. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns Kaira's community, ongoing indecision, practice and first Utility/Universal rental. Cards are durable reusable maege glass, distinct from operational Genesis Cards.
+
+**Standard** uses the current published cycle for sanctioned events. **Open** admits any published cycle for casual and potentially organized events. These are MK163 workshop format decisions, not a claim that upstream software implements them. Deck fundamentals remain inherited. Shops stock old and current cards; older stock may be cheaper while rare old cards retain value. Example dollar prices are not eln/ahm prices.
+
+The selected local tournament cadence is six days: registration on days 1–5, single-elimination head-to-head play on day 6, approximately 30–50 entrants with variable attendance. Seven prize positions run Red through White, **White first**; other entrants receive no prize. In **Standard**, Red–Violet receive older-cycle cards and White receives a current-cycle card. In **Open**, all seven receive older-cycle cards. Placement colors do not determine the prize card's basin. Lower-place ranking/tiebreaks are **OPEN**; no extra matches or administrative formula is invented. This is separate from the King's Tournament.
+
+Three teaching house-deck archetypes are **Tempo** (aggressive Degrade/early field pressure), **Control** (Restoration, sustained/emergent fields and defense), and **Utility/Universal** (draw, selection, flexible configurations and response). They are not formats or final decklists. Casual practice with the assistant is distinct from tournament rental; rented decks must be legal for the event. One Orange ahm entry and one Red ahm rental remain **ILLUSTRATIVE**, not fixed shop or universal fees.
+
+### Verified scoped upstream reference
+
+Local `_raeon` commit **cbd71e8696c1edc9c71253490da7352f7645338a**, `design/cards/CARD_SYSTEM.md`, was read: 60-card constructed decks; 120 Field Generators + 14 Prime Fields + 51 Utilities = 185 ordinary Cycle-1 cards; normal limits two Field Generators and three Utilities per identity, unique Prime identity and three active Prime positions. No additional color uniqueness rule follows. These are inherited, not new MK163 mechanics; older recalled ~160/~200 counts do not override that revision. Individual card definitions remain under design, so no names/effects are invented.
+
+`design/game/GAME_DESIGN_DOCUMENT.md` at that same local revision describes approximately 15-minute target sessions, not a guaranteed duration, and provisional product direction with individually accepted game rules. No complete catalogue or playable release is asserted, and no upstream files were modified. Novel exposition remains experiential through play/dialogue.
+
+
+Sources: [04_RAEON](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/04_RAEON.md); [10_RAEON_FULL_RECOVERY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_007/WORKSHOP/10_RAEON_FULL_RECOVERY.md).
+
+---
+
+## Record before Live Model 007 — retained in full
+
+# raeon, Prism, Genesis collections and daily culture
+
+**Project:** MK163  
+**Status:** ESTABLISHED / INHERITED WITH AUTHOR AMENDMENTS  
+**Canonical path:** `WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/GAMES_SPORTS_AND_DAILY_LIFE.md`
+
+**raeon** is the separate cultural tabletop field game implemented with maege-glass cards. Its Field Generators, Prime Fields and Utilities organize linked geometric/topological play. The inherited reference uses sixty-card constructed decks and three active Prime positions. Detailed game authority remains _raeon; do not copy the obsolete narrative deck counts or invent a full rulebook from a mention. The card-count numbers have varied by source revision and were not freshly validated for this package.
+
+Operational Genesis Cards are not raeon cards. People may collect/trade useful manifold cards as commodities or simply because they enjoy particular manifolds. The and/or relationship is explicit: a card can be both collectible and operational. A collectible-only display does not become castable merely by exchange.
+
+**Prism** is adopted as the national sport, analogous in cultural importance to football, baseball or basketball. It can support fans, clubs, rivalries and participation, but no pitch dimensions, team size, scoring or exact gameplay rules were authored in this thread. Do not rename the King's Tournament as Prism or treat the card game as the national physical sport.
+
+The King's Tournament is a distinct quadrennial kingdom-wide dungeon-racing institution with a multi-day festival. Food, drink, merchants, games, demonstrations and surface competitions can fill the spectator interval. Jousting was proposed, not established as an unavoidable official discipline.
+
+Daily culture includes abecca as the coffee-equivalent term, restaurants, public water/greenery, shopping, entertainment, scientific enthusiasm and professional community. Material abundance and cleanliness do not mean identical luxury in every district. Prices and amenities increase inward toward the wealthy chromatic rings; White is civic. These are an authored romanticized civilization, not a modern electronic/industrial society automatically imported from the author's informal TV/barista analogies.
+
+## Author-source evidence
+
+These source passages preserve the author’s actual wording, including dictation variants. Current names and explicit corrections in this record govern interpretation; quoted superseded words are not reactivated as canon.
+
+### W017 — Two aithren cultures and dungeon containment
+
+> Now, there's a second. There's two groups of Aethryn culture. MK147 should really talk about the dungeon delving community. The dungeons are really cool because the monsters can't leave their prismatic domains. So an Eldris that forms in the red level of the dungeon can't go up or down. It's blocked by energy. The energy structure just kind of, like, localizes it. A yellow Eldris can't leave the yellow domain of the dungeon. So this means one: monsters can't travel down, but monsters also can't travel up and leave the dungeon. So outside of the dungeons, you generally get a community that forms, kind of a localized miniature city, like a staging area. And these can be large. So this is essentially, you'll get kind of like these— generally the kingdom, the crown, the sovereign, or any government-like structure or organization will generally form cities or regions around these dungeons, mainly because people are traveling to them. So it generates tourism and taxes and income, right? It's a revenue stream, essentially, if you manage the region around the dungeon correctly. So the dungeon delving community is very kind of laid back, but they're professional, but they're protected because the monsters can't get out. So you can get large groups forming and filling that staging area, and it kind of turns into a miniature party area, right? People are always happy. The adventuring community for the dungeons is very fun. Now, the groups that go out and essentially—I call them storm chasers. They're the ones that go after the Genesis storms. These are very serious, right? They're going into the storm. It's life or death, right? They're fighting monsters. They're there to collect Genesis crystals, harvest the Genesis dust from the monsters, and collect VAEN. So once again, the resources—crystals, dust, and VAEN—form under both conditions of Domai and Genesis storms and in the dungeons, but it's a much different environment. The dungeons outside are very relaxed. Inside they're very controlled, right? There's maps of the dungeons. People know, right, how deep they go generally. Everything's kind of mapped. What changes is the monster spawns and the resource formation. Out in the open, right, out in nature, right, is called the Wilds. It's the domain outside of cities and kingdoms. Just the nature in general, the uninhabited domain, is called the Wilds. And out there, right, it's—you don't know what to expect. So the two different Aethryn communities function entirely differently because of this. The dungeon groups are very laid back, kind of, right? It's like a big party until you go into the dungeon. The other groups, I kind of equate them to, like, Tier 1 operators, right? They're locked in. They're going there. They go in, they do their job, and they get out. The dungeon delvers, right, they play hacky sack or something. They play Reyon. They discuss new Genesis builds for different, essentially, shapings. So it's very different communities, and they clash whenever they're together.
+
+### W033 — Concentric square rings, affordability not decay
+
+> So let's talk about a small city real quick because your thing is all messed up. Think of a seven-mile by seven-mile city. You can organize it into the outer ring, essentially is the red district. Move in, you get the orange district as a ring. Move in, you get the yellow district as a ring. Move in, you get the white as the center. The same goes for the large city and the capital cities. The red district is the outer ring. Moving inwards, you get rings that go from red, orange, yellow, green, blue, violet, and finally the white center. And essentially the idea is, is the red districts, they're not like run down, right? The lower quality, right? The red district, the orange district, et cetera. They're not run down. They're just lower economic occupancy. So the red district is smaller buildings, right, residents, right? They might be 400 by 400 square feet, or 400 square feet, so 20 by 20 residents, like apartments. Property taxes are lower. Cost of living in terms of amenities and luxuries are not as prevalent and they're reduced in price. The higher rings, so like the green, blue, and violet, they're the more kind of affluent areas of the city. Larger residences, more amenities, more luxuries. The white once again is just the civic center. That's where, like, that's the area that's like, what do you call it? It's like the district that manages the city. So no one really lives there.
+
+### W035 — Romanticized preindustrial setting and metallurgy clarification
+
+> So for our book setting, I like to recognize it as kind of like late 17th century, early 18th century, pre-industrial revolution. So no metal, no machines. Instead, technology turns towards sigils and genesis field construction. So it's kind of romanticized, right, kind of time period.
+>
+> What I mean in terms of no metal is there's no industry producing, like iron beams and metal ships and things of that nature. We can still produce metal. We can still do metal shaping. We can still do stuff like that. But Industrial Revolution really required a lot of metal. Like think of a steam engine. It's not made of wood. So there's no steam engines and stuff, right? Industry and technology diverged because we have magic. So a society that's steeped in magic doesn't necessarily develop the technology that we would experience in my reality.
+>
+> So, for example, ships were made of wood.
+
+### W045 — Book Red finish and tournament festival
+
+> Perfect. So what we can say is, well, we're going to still follow the same ruling, is that Kira essentially places fourth place. So book one, I'm not sure where book one, our red book, is going to end up finishing. I think what we do is we have it end with Kira participating in the king's tournament as an adventurer, so to speak. It's kind of like her first foray into the dungeon delving community. So she finds a team to run with, some friends she makes out on the circuit of just delving for local dungeons, and she ends up placing fourth. So she places green, and as a reward, right at the end of book one, Kira gets this reward, which is a dimensional ring, like a really, really good one. And what that's going to do is it's a fun narrative for the dungeons, that the circuit and the king's tournament is a fun thing. Think of like old school king's tournaments, where they did, like the knights would do jousting, the melee combat. So all that stuff still happens, because honestly once the adventurers go into the dungeons, nobody gets to watch. It's kind of boring. But it's a long process, right? These dungeons are massive structures. We'll go into it. Actually, it should be on the MK147 repository about dungeons, right? They're these big structures. When you're going down into the violet domain, if it's the dungeons that large, right, going red through violet, that might be like 17 miles underground. So you're down in the dungeon for a long time. So the king's tournament, essentially whatever place, whatever dungeon's being held at, essentially is a big event that takes days. So over those days, the people on the outside, they have melee tournaments. We can even do jousting maybe, I don't know. Right? It's almost like a big kind of, right? It's a party almost. It's a celebration, right? Everybody loves the king's tournament. It's fun, right? Good food, good alcohol, there's magic, right? It's a reason to get together as a community and just celebrate civilization, I guess. I don't know. We'll have fun with it. But from the perspective of watching the races, there's really not much to watch, right? They disappear into the dungeon. They're down there for days or days, maybe a week, and then they come back up. But during that time, you have everything else happening around the staging area for that dungeon, so it becomes kind of like a big festival.
+
+### W049 — Inherited astronomy, Kaira age, professional ranks, robe and Age of Knowledge
+
+> Okay, so the planetary and astronomy and calendar. So basically what I'm getting from that, right, we're going to straight inherit that. We're inheriting that star system. So we get the 360-day year, 31-hour days, the four 90-day seasons, and six-day weeks. So, like honestly, that planetary and astronomy calendar is essentially what we're inheriting. So it's all there. Profession, culture, and social ranks. O2, zero two we'll go over. The healthcare, augmenter, and summoner professions, those are generally classes under transduction. So a summoner is someone who focuses specifically on summoning. An augmenter is someone that essentially alters their biology temporarily through transduction. So maybe their muscles get bigger. Think of, like, the Hulk when, right, Steve Banner, whatever his name is, turns into the Hulk. Like, right, that's like an augmenter. They don't get all green and, like, 20 times the size, but they do have growth, and it's generally associated with body augmentation in some way. So the magi, right, these are your special class, right? It's kind of a social class, but it's also a transduction class in the book. We have alchemists. We have architects. Generally the idea is, right, a summoner, right, they're more focused on sustaining summoned monsters—or not monsters, but shapings, right? So do you have a spectral hound? Do you have a prime elemental that you're maintaining? The MK—or I'm sorry, the AERA framework should have a list of bindings and summons. So there's 1,245 shapings, essentially, that should be on there as a list. If it's not there, I'll find the repository that has it. We're just going to inherit, we'll add to it, we'll subtract a few, or whatever. Human biology and longevity we already discussed. Enchanting and engineered equipment. We'll have to really go into the equipment side, right? What does an enchanted suit of armor do? What does enchanted chainmail do? Right? Generally you enchant them with, you know, some kind of combat proficiency. Do you have essentially, like, fire resistance, so to speak, where it does, like, thermal negation? So your armor protects you from fireballs or something, or the metal, the armor doesn't get red hot and melt you inside of it. And once again, that's all handled through putting the item into a sigil, anchoring the correct resources and activating the sigil. We already have a mechanism for enchanting. Culture and sports and daily life. We have rayon and the king's tournament. Prism, right? This is our national sport. Essentially it's like our equivalent of, like, football or baseball or basketball. And then Genesis biology, like we've already kind of gone over things. Two areas worth flagging first: the starscape calendar. So the idea is, is we inherit that starscape calendar. So this doesn't affect Kira's age at all. She's 23 years old under this calendar. 360-day year, right? She's 360 days times 23, plus give or take, right, however far she is into her 23rd birthday. Everything falls under this. The idea is, is that people still maintain a seven- to ten-hour sleep schedule. So assume everybody already is waking up at, like, 7 a.m. in the morning. That means they're going to bed on a 31-hour rotation. What is it? They're essentially going to bed around 2700 hours to 2800 hours, kind of later in the night. You sleep until the next day, right? So you can give everybody a seven- to ten-hour sleep schedule. If they wake up early, it just means they went to bed earlier in the previous day. If they wake up late, they went to bed later the previous day. Age of knowledge. This is actually going to come back, and we actually get to straight inherit now the Age of Knowledge, which is super cool. Kira with her Genesis, or her chainmail robes—we haven't talked about the chainmail robe yet, we will. Essentially we're going to inherit the chainmail robe. It's one of my main characters in all the books. It doesn't talk. It doesn't move around, but it's an anchored aspect. So Kira eventually makes the chainmail robe, and it becomes kind of a fashion icon. And unlike the magi, who go around wearing their normal fashion that represent some kind of robe, all the same styles. It's just the robe has a different color. If you're a magi who's qualified as red in the testing, right, so you're a red-ranked mage, you wear a red robe. If you qualified blue, well then you wear a blue robe. The idea with the chainmail robe is they represent an identity of just being a transductionist. Right, the magi are kind of snobby, right? They kind of think of themselves as the alpha of the transductionist grouping. So they kind of hold themselves loft. Kind of think of, like, old men in their country clubs. That's like the magi. So you don't go around wearing a mage robe and announcing yourself, for example, as a violet mage or a green mage if you haven't qualified, right? You haven't passed the set of tests, right? There's 13 different domains for the test. You haven't passed the test that identifies you under the mage category. So there's a specific test that everybody can take for blacksmithing, anything from, like, baking to chefs to trans... right? Anything related to transduction under specific professional categories or classes, you can get ranked in it. And it's essentially like having a three-star Michelin chef at your restaurant, or a blue-ranked blacksmith versus a master blacksmith at the white rank. So we'll pick all the professions and which ones inherit the ranking system, but the magi are kind of like the snobby elitist. So the idea is, is the chainmail robe is just different enough. It doesn't have all the flourishes that the mage robes have. It's chainmail. I actually have an image of it.
+>
+> So ignore the flowy at the bottom. This is just the best rendering I could get. But the idea is it's pretty form-fitted robe, like super simple, like five layers of chainmail. It's been enchanted for mass production, so it's like wearing a silk robe. It's not very heavy. It flows. But it's not all flowy like this one. It's more kind of like a little bit rigid. It's very kind of form-fitted. But as you can see, it's grayish black. It's not a color associated with any ranking, and it varies. It still has the big hood. It's still kind of the robe, but it's just different enough as a robe that doesn't fit the color profiles, that basically everybody accepts it as just their identification of a transductionist. So the Age of Knowledge is kicked off. Actually, I have a... We'll go over it later. The idea is that Kira, once she's established free of her little village hub area, so Arc 2 essentially picks up where Kira goes and starts to realize her first chainmail robe, and it's a huge hit. So she makes a couple more for a few people, and the word gets out, right? This new robe is out there. So it kickstarts, right? Kira is kind of understood as, like, this eccentric genius fashion designer, right? Think of all the weird fashion designers in our world. Like, they're kind of weird, and everybody holds them on a pedestal for whatever reason. They're geniuses, right? It's artistry in motion. But what it does is that people start to wear it, and, like, it becomes this big thing, and it's people identifying not as a mage, not as a healer, not as an alchemist or an architect, right? They're identifying just as a transductionist. So it's that identity, that inherent, that kicks off the Age of Knowledge, because what is at the heart of transduction is your concept. How do you understand the transduction life cycle? Is your concept of a fireball something that's drawn on a piece of paper, or do you understand it at the quantum mechanical level of chemistry as oxidation, thermal gradients, right? Transformation of energy. So the concept is, like, the most foundational way to enhance your shaping. If you use bindings, we talked about this, right? Your concept is essentially what allows you to be more efficient. Genesis cards, you're kind of screwed either way, right? The Genesis card handles the whole transduction life cycle. We don't worry about it. But then you also have just your general transductionist, as I put them. I don't know what category to put them as, right? Your general Genesis transductionist who essentially own the entire transduction life cycle, and they just, because of the Genesis channels in their brain, they interact with the Genesis energy at a personal level or whatever. We have those three domains of transduction, right? You have the Genesis cards, the bindings, and the just normal Genesis energy expression. But the Age of Knowledge is supposed to be this big thing that's going to last for, like, a millennia. And eventually at the end of that, right, humanity, civilization has accumulated so much more knowledge because there was this big push to just understand the Genesis field and concepts and science and math and all of this stuff that it leads to the Age of Wonder, and you all of a sudden get these crazy things. Now that's way out in the future. We'll never get to those books. But essentially in our book, right, Book Red, you get, like, day zero of the Age of Knowledge. So Kira gets to live through it. She's the central figure. And her chainmail robe is the identity of a transductionist. So the Age of Knowledge is really cool. We'll figure out where it fits in the book. I'm thinking, like, it's kind of like Arc 2, Arc 3. We'll figure it out. Right now the chainmail robe, huge thing. It's the fashion icon. Everybody wants to wear the chainmail robe. So that kind of starts Kira's little business. We'll go into it eventually.
+
+## Source ownership and references
+
+- AERA `L2/CULTURE_AND_GAMES.md` at 6f71b068cba3bf7d851041084e7bb90700a0a751; https://github.com/xApologies/AERA/blob/6f71b068cba3bf7d851041084e7bb90700a0a751/L2/CULTURE_AND_GAMES.md
+- MK147 `live-model/05_CULTURE/V2_CULTURE_CANON.md`; https://github.com/xApologies/Mk-147/blob/main/live-model/05_CULTURE/V2_CULTURE_CANON.md — historical worldbuilding, not MK163 plot authority.
+- https://github.com/xApologies/_raeon
