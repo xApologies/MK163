@@ -684,6 +684,17 @@
       "source_mapping": "PROVENANCE/WORKSHOP/BOOK_BLUE_VIOLET_WHITE_2026_11_21/SOURCE_MAP.json",
       "validation": "CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/VALIDATION.json",
       "scope": "Scoped WHITE_001 integration in combined four-package author request; complete supplied records, maps and explicit supersessions preserved. Leviathan 003 reconciled once through Blue 004."
+    },
+    {
+      "id": "MK163_CHROMATIC_REALM_ARC_UPDATE_2026_11_23",
+      "baseline": "f4b7064cb403204e16601e0c438cdf2d5124788a",
+      "archive": "MK163_Chromatic_Realm_Arc_Update_2026-11-23.zip",
+      "archive_sha256": "895614c99af7b3cdc72caf4a041dab802ef61efe04d03b56187dc3d4074e3180",
+      "source_root": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/ORIGINAL",
+      "source_mapping": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/VALIDATION.json",
+      "scope": "Seven realm-entry touchpoints; explicit Unicorn bond-location and native-capability supersessions; complete original script/text preserved; no Book Red/White or upstream edits.",
+      "manifest_status": "No publisher manifest supplied; computed intake hashes and original ZIP CRC verified."
     }
   ]
 }

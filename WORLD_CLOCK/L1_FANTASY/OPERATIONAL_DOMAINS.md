@@ -4,6 +4,10 @@
 Genesis Field → Resolution → Bandwidth → Persistence → Chirality.
 
 ## Six realm-to-specialization assignments (LATEST, AUTHOR-LOCKED)
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Author native-capability amendment · 2026-11-23:** All Dragons have access to **Elemental Transduction, Dimensional Transduction / Dimensional Geometry (CSR flight), and Chirality**, while individuals specialize in one or another; not three mutually exclusive species. **Genesis Field Topology** is assigned to **Unicorns**; **Resonance** to **Primordials** (self-augmentation, reinforced structure, strength, speed, jumping and durability); **Genesis Expression** to **Leviathans** (beams, orbs, bursts, shields, barriers, domes). Vaelith topology/coherence and Sprite Resolution remain unchanged. This newer native-capability assignment supersedes the historical *six Dragon-associated capabilities* paragraph below, **not** the universal L1 operational taxonomy or established realm-to-specialization table.
+
 | Chromatic realm | Native population | Primary Genesis specialization |
 | --- | --- | --- |
 | Red | Dragons | **Chirality** |
@@ -16,6 +20,8 @@ Genesis Field → Resolution → Bandwidth → Persistence → Chirality.
 The Orange/Topology specialization is separate from the five-node chain as currently written; its exact formal placement and mathematical meaning are **OPEN**. Do not invent a sixth chain node, equate Topology to Chirality, or assign a specific operator without further author selection.
 
 
+
+**Historical native-capability assignment — superseded by the 2026-11-23 amendment above.** The primary realm-emphasis table and inherited universal operations remain unchanged.
 
 For MK163 the six **Dragon-associated capabilities** are Elemental Transduction (ordinary elemental fire), Dimensional Geometry (including CSR flight), Genesis Field Topology (Architect-like organization), Genesis Expression (raw beams/orbs), Resonance (biological reinforcement), and Chirality (admissibility). Finite energy and skill remain limiting. This is distinct from the inherited generic operational list, six basins, six-stage lifecycle and order of books/bonds. Orange’s persistent topology/coherence supports restoration; Green can produce similar outward effects through Resolution, not an identical operator. The provisional Red=Bandwidth+Chirality and Orange=Bandwidth+Chirality primary assignments are superseded. No upstream text or mathematics is amended.
 

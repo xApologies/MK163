@@ -1,3 +1,15 @@
+# Chromatic realm selections · 2026-11-23
+
+Green Arc now makes Kaira’s **first Violet Realm visit**, with a Genesis Sanctuary field trial before the fourth Black Unicorn bond. This supersedes the White-palace first-bond/interview location. Unicorns already know her identity; stages and illi’s attendance remain OPEN. Post-bond operational synchronization and all other arc placements remain.
+
+[Complete current macro](BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Green · current seven-arc macro
 
 Author-selected planning checkpoint BOOK_GREEN_MACRO_002, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.

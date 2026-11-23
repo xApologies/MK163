@@ -1,3 +1,17 @@
+# Dragon native capabilities · author amendment 2026-11-23
+
+Every Dragon can access **Elemental Transduction**, **Dimensional Transduction / Dimensional Geometry** (including CSR, Continuous Spatial Resolution, for flight), and **Chirality**. Individuals specialize differently; these are not three mutually exclusive species. Dragon energy budgets are comparatively limited despite dangerous Chirality admissibility effects. This supersedes old six-Dragon-domain assignments and old exclusive individual-specialization limits, without granting automatic mastery.
+
+The primary emphasis **Chirality** and the universal operational taxonomy are unchanged. Genesis Field Topology is assigned to Unicorns, Resonance to Primordials and Genesis Expression to Leviathans as native capabilities; no upstream AERA or L0 amendment follows. [Operational owner](../../L1_FANTASY/OPERATIONAL_DOMAINS.md)
+
+Book Yellow Yellow selects Kaira ending a specific age-old faction war by defeating and killing its Chirality-specialist leader. Names, motives/war origins and battle detail remain OPEN. The Black Dragon egg bond remains in that arc, with no mature or battle-ready Dragon inferred. [Complete author-selected journey](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Red native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Chirality; six Dragon capabilities, beginning with Elemental Transduction**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.

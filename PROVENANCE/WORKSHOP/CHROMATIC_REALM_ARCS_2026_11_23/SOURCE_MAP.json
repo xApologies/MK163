@@ -1,0 +1,26 @@
+{
+  "baseline": "f4b7064cb403204e16601e0c438cdf2d5124788a",
+  "archive": "MK163_Chromatic_Realm_Arc_Update_2026-11-23.zip",
+  "archive_sha256": "895614c99af7b3cdc72caf4a041dab802ef61efe04d03b56187dc3d4074e3180",
+  "manifest_status": "No publisher hash manifest supplied. Computed intake SHA-256 hashes identify and verify preservation of the supplied bytes, not independent publisher authentication.",
+  "files": [
+    {
+      "source": "mk163_realm_arc_update/CODEX_PROMPT.txt",
+      "bytes": 581,
+      "sha256": "9e44506caf593a150a8b208d55962ce487b00a8e57a1d91e51b4619cc9fde708",
+      "target": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/ORIGINAL/CODEX_PROMPT.txt"
+    },
+    {
+      "source": "mk163_realm_arc_update/README.md",
+      "bytes": 3767,
+      "sha256": "58e8de6fd0ae3fc082ed35086ba6bb68cbf764229f2a5fb5f1239c1e5e8a2c8e",
+      "target": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/ORIGINAL/README.md"
+    },
+    {
+      "source": "mk163_realm_arc_update/apply_update.py",
+      "bytes": 12780,
+      "sha256": "e2c20ebb823a93974300699de0b764f4fae1146278fc050c6ffaf3315861902b",
+      "target": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/ORIGINAL/apply_update.py"
+    }
+  ]
+}

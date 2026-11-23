@@ -18,6 +18,10 @@ Her living Black Unicorn accompanies the realm visit; other already-bonded Black
 
 ## Major events
 
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Author-selected chromatic realm event · 2026-11-23:** This is a later Violet Realm visit with the already-bonded Black Unicorn, following the first Violet Realm visit and sanctuary trial in Book Green Green Arc. Existing tournament and intelligence beats remain unchanged.
+
+
 [Complete author-selected Red Arc record](../../BOOK_MACRO_OUTLINE.md#red-arc--recognition-and-violet-realm) owns all supplied details, qualifications and exclusions. This contract is navigation in addition to that full record; no omitted scene is implied.
 
 ## Exit state
@@ -26,7 +30,7 @@ After the White Realm return and the retained favorable intelligence report, the
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/BOOK_BLUE_VIOLET_WHITE_2026_11_21/REVERSE_DIFF.md) · [Preceding book](../../../GREEN/BOOK_OVERVIEW.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [Preceding book](../../../GREEN/BOOK_OVERVIEW.md)
 
 ## Status
 

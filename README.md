@@ -1,3 +1,17 @@
+# Current chromatic realm arcs · 2026-11-23
+
+Seven actual realm-entry touchpoints now carry the author-selected homecoming, city restoration, Dragon-war, Sanctuary-trial, later Violet-return, Yellow-velis and Paragon-restoration events. Book Green Green’s first Unicorn bond is in the Violet Realm after a Genesis Field trial, superseding the White-palace location; Book Blue Red is the later return. No six-stage trial, new dates or trial identity test is selected. Bond order/agency, travel eligibility and subsequent Green training remain.
+
+All Dragons access Elemental Transduction, Dimensional Transduction/Geometry (CSR flight) and Chirality with individual specialization. Unicorns receive Genesis Field Topology, Primordials Resonance and Leviathans Genesis Expression as native assignments; primary realm emphases and universal operations remain unchanged. Yellow’s three advanced semesters remain with revised syllabus OPEN. Book Red, Book White, all maps, existing daily ledger, previous sources and upstream repositories are unchanged.
+
+[Current seven-touchpoint coverage](CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/COVERAGE.md) · [Scoped supersessions](CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [OPEN details](CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/OPEN_ITEMS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Blue revision and Violet–White complete macros
 
 Blue Revision 004 now ends Red Arc with the second King’s Tournament after the Violet visit; recurrence is three years with absolute chronology OPEN. Already-bonded Black companions gain scoped interrealm eligibility; Nyx does not, but may visit his native Green Realm. Approximately five or six Leviathans support Blue’s Green naval campaign, separately from Kaira’s sixth bond in Violet Orange.

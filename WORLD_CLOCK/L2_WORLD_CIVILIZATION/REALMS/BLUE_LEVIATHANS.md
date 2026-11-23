@@ -1,3 +1,19 @@
+# Paragon restoration before the sixth bond · 2026-11-23
+
+Leviathans have native **Genesis Expression** through vast **Bandwidth**: beams, orbs, bursts, shields, barriers and domes. Bandwidth remains their primary emphasis, not a new realm or replacement universal taxonomy. No automatic immunity to corruption follows from combat power.
+
+In Book Violet Orange, the ancient matriarch/patriarch provisionally titled **Paragon** has accumulated ELDRIS-inflicted wounds over years defending the realm. Recursive Genesis corruption persists and spreads through the immense body. Kaira, her existing Black Sprite (Resolution) and Black Vaelith (topological coherence/regeneration) heal the Paragon using complementary abilities and reciprocal Black-bond amplification. This secures access/consent to the **Black Leviathan egg**.
+
+The sixth bond, hatching, aen-assisted growth and approximately **30–40-foot** juvenile departure remain. Paragon name/sex/title/lineage, healing mechanism and egg custodianship remain OPEN. The naval contingent in Book Blue and illustrative later juvenile size/flight remain unchanged. No new maturation, life-history chronology or universal healing capability is inferred.
+
+[Complete Blue Realm event](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md) · [Capability owner](../../L1_FANTASY/OPERATIONAL_DOMAINS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Leviathan biology and selected later-book instances · 2026-11-21
 
 Most Leviathans remain in their native Blue Realm in natural form. Some visit White and may adopt human form. They feed on **Blue Genesis energy**. Exceptional individuals can reach approximately **8 km**, not a universal size and not an assigned size for the naval contingent or Kaira’s juvenile. No aquatic-only restriction, fixed development law or new reproduction mechanism follows.

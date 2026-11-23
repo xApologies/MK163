@@ -1,3 +1,13 @@
+# Native-capability cross-reference · scoped correction
+
+The older reference below to Dragon expression across six operational domains is historical as a **Dragon-native capability assignment**. Use the [2026-11-23 operational-owner amendment](OPERATIONAL_DOMAINS.md): three accessible Dragon capabilities with individual specialization, distinct from universal Transduction operations. No ordinary Card operation, occupancy rule, lifecycle, Black Card retirement or mathematical source is changed by this realm-arc update.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Shaping operation and six Foundational access Card concept
 
 A **Shaping** is the realized Transduction operation. **Binding** identifies one prepared interface, not the universal name of an operation. Native expression, installed conventional Binding and ordinary Genesis Card are the three personal interfaces; the six-stage lifecycle and prepared-geometry/operator responsibilities remain below.

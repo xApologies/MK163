@@ -1,3 +1,15 @@
+# Chromatic realm selections · 2026-11-23
+
+Red’s Green Realm trip is a homecoming for the already-bonded Sprite with Kaira and illi, with no separation. Yellow’s Black Vaelith bond is conditioned on helping save a symbiotic living city; reciprocal amplification restores its energetic nexus after bonding. The city is not an anatomical heart or a planetary velis solution.
+
+[Complete current macro](BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Orange · current seven-arc macro
 
 Author-selected planning checkpoint BOOK_ORANGE_MACRO_001, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.

@@ -1,3 +1,15 @@
+# Chromatic realm selections · 2026-11-23
+
+Orange’s Blue Realm visit now includes healing the ancient Paragon’s recursive ELDRIS wounds with the Black Sprite’s Resolution and Black Vaelith’s coherence/regeneration, using reciprocal bond amplification. This secures egg access/consent; sixth bond, hatching and approximately 30–40-foot juvenile departure remain. Paragon identity and detailed mechanics stay OPEN.
+
+[Complete current macro](BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Violet · cumulative macro 001
 
 Author-selected 2026-11-21: [complete seven-arc macro](BOOK_MACRO_OUTLINE.md), with all source detail preserved. Prior overview statements that arcs are unassigned are superseded only in this scope.

@@ -24,6 +24,10 @@ Source: Author decisions in conversation, 2026-11-20. This package has not been 
 - Spellings: Kaira, illi, aina, Vaelith, vaelum, Accord Registry, Black Sprite.
 
 ## Red Arc
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Chromatic Green Realm visit — author update 2026-11-23:** This is a homecoming for Kaira's *already bonded* Black Sprite, not a transfer, abandonment or new bond. Kaira and the Sprite travel together, accompanied by Princess illi as previously established, to reconnect the Sprite with its native realm and a Sprite community. Community identity, ruling-body interaction and scenes remain OPEN. The Black Sprite stays bonded to Kaira and returns with her.
+
 - Following the King's Tournament, Kaira's tournament vaelum disbands. It was formed for the tournament, not intended as a permanent team; some members are recruited by more prominent vaelum. Individual destinations OPEN.
 - Kaira, Princess illi and the Black Sprite travel to the native Green Realm. illi acts as a Crown liaison. They interact with Sprites and the realm's ruling body. Green Realm has non-ordinary geometry and vast scale; specifics OPEN.
 - During the journey illi convinces Kaira to relocate her primary residence to the Violet Domain capital to be closer to her.
@@ -38,6 +42,10 @@ Source: Author decisions in conversation, 2026-11-20. This package has not been 
 - The earlier placement of illi's Green Domain kidnapping investigation in Orange Arc is SUPERSEDED: it belongs in Green Arc.
 
 ## Yellow Arc
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Chromatic Orange Realm — living-city nexus (author update 2026-11-23):** The Vaelith live symbiotically with a city formed from interconnected living biological structures (potentially tree networks). Its "heart" is **not an anatomical heart**: it is a Genesis-energy nexus sustaining the city's living distributed coherence network. Recursive ELDRIS-origin corruption threatens the nexus. The Black Vaelith's condition for consenting to the bond is that Kaira help heal the city. Kaira and the independently consenting Black Vaelith bond; their reciprocal amplification enables Vaelith topological/coherence-based restoration of the nexus and saves the city. This is a local city restoration, not a natural velis anchoring operation or the Book White planetary solution. Precise biology, scenes and mechanism remain OPEN.
+
 - Kaira travels to the Orange Realm, bonds with the Black Vaelith, and returns to the kingdom accompanied by the Black Vaelith as a member of her traveling party.
 - Exact bond mechanism, companions on journey and duration OPEN.
 

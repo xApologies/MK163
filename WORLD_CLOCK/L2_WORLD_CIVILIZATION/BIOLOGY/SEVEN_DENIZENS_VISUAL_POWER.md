@@ -1,3 +1,15 @@
+# Native capability cross-reference · 2026-11-23
+
+The historical six-Dragon-generalist statement below is superseded by [three accessible Dragon native capabilities](../../L1_FANTASY/OPERATIONAL_DOMAINS.md), with differing individual specializations. Unicorn Genesis Field Topology, Primordial Resonance and Leviathan Genesis Expression are the other selected assignments. Sprite Resolution and Vaelith topology/coherence remain.
+
+The existing primary-emphasis table, humanoid forms, visual sources and raw-output ranking remain unchanged. A capability assignment is not a new species partition, universal mastery or replacement for the inherited operational taxonomy.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # v8 · selected mature Sprite expression
 
 The Blackstone professor’s current expression is a human-height, largely featureless/androgynous head–torso–arms–legs silhouette made of dark charcoal/black continuously recursive Genesis containment, with subtle predominantly GREEN internal luminescence and possibly luminous eyes. They are neither a green-skinned human nor a skeletal monster, a neon-rainbow Black Sprite or ELDRIS. The rejected generated purple-background monster is not current visual authority. User images are conceptual source evidence, not exact portraits.

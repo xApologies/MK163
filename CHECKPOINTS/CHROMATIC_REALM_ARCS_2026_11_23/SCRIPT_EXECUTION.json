@@ -1,0 +1,18 @@
+{
+  "source": "PROVENANCE/WORKSHOP/CHROMATIC_REALM_ARCS_2026_11_23/ORIGINAL/apply_update.py",
+  "inspection": "Reviewed entire supplied source before execution: local path-anchored text additions only; no network, deletion, subprocess or Git mutation.",
+  "initial_check": {
+    "result": "PASS",
+    "would_update": 14
+  },
+  "application": {
+    "result": "PASS",
+    "updated": 14
+  },
+  "after_application_check": {
+    "result": "PASS",
+    "would_update": 0
+  },
+  "source_script_changed": false,
+  "additional_reconciliation": "Explicit history labels, arc entry/conflict/exit reconciliation and necessary owning-world/navigation/provenance records added after supplied script; documented in reverse diff."
+}

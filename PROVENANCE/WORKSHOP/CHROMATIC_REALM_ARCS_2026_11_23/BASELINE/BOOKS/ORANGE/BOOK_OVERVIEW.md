@@ -1,0 +1,32 @@
+# Book Orange · current seven-arc macro
+
+Author-selected planning checkpoint BOOK_ORANGE_MACRO_001, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.
+
+- [Red](ARCS/ARC_001/ARC.md): Visit the Green Realm and relocate to the Violet capital.
+- [Orange](ARCS/ARC_002/ARC.md): Introduce the visiting Vaelith dignitaries and continue Support delving.
+- [Yellow](ARCS/ARC_003/ARC.md): Establish the second Black bond in the Orange Realm.
+- [Green](ARCS/ARC_004/ARC.md): Accompany illi’s Crown investigation in the Green Domain.
+- [Blue](ARCS/ARC_005/ARC.md): Continue the kingdom-wide investigation alongside local Support contracts.
+- [Violet](ARCS/ARC_006/ARC.md): Identify the Yellow-ranked noble informant.
+- [White](ARCS/ARC_007/ARC.md): Dismantle the specific noble-ransom cartel.
+
+[Integration audit](../../CHECKPOINTS/BOOK_MACROS_2026_11_20/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit scoped selections above supersede earlier unknown or conflicting planning statements. Unrelated canon and original source quotations remain unchanged.
+
+# Book Orange — MK163
+
+Book two. Kaira has her Dimensional Ring. Cartels and black-market influence become more relevant; the reader becomes more aware of slavery. Exact scenes, arcs and encounters remain unoutlined.
+
+Book colors are ordinal narrative identifiers, not basin restrictions. Arcs will be created in `ARCS/ARC_NNN/` only when authored, with stable IDs and the eight constitutional fields. Canonical facts live in WORLD_CLOCK and are referenced rather than rewritten as competing versions here.
+
+See `WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md` and `WORLD_CLOCK/L4_NARRATIVE_REALIZATION/ANTAGONIST_VISIBILITY.md`. These overview notes are navigation, not a substitute for the detailed event records or an approved full book outline.
+
+
+## Delta 004 integration — 2026-10-15
+
+The selected bond for this book is Orange Black Vaelith (living). [The six-bond owner](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) preserves the complete sequence, independent agency, compatibility, party roles and unresolved timing. This adds a book-level anchor only; no later arcs, chapter counts or scenes are assigned.

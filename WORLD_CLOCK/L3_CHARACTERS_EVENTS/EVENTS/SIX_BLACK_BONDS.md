@@ -1,4 +1,32 @@
+# Realm events and bond conditions · current 2026-11-23
+
+The script’s exact author note and earlier sources follow below. The six-bond order/forms and independent agency remain unchanged; no extra bond is added.
+
+| Book / arc | Current selected event and bond boundary |
+|---|---|
+| Orange / Red | Already-bonded Sprite’s Green-community homecoming with Kaira/illi; Sprite returns with Kaira |
+| Orange / Yellow | Consent to Black Vaelith bond conditioned on helping heal the living city; bond then amplified energetic-nexus restoration |
+| Yellow / Yellow | Specific Dragon faction war ends with leader defeated/killed; Red Black Dragon egg remains immature |
+| Green / Green | **First Violet Realm visit**, Genesis Sanctuary trial, then fourth independently consenting Unicorn bond; old White-palace bond location superseded |
+| Blue / Red | Later Violet return with the already-bonded Unicorn; Primordial information and second tournament retained |
+| Blue / Yellow | Fifth Primordial bond plus multiple natural-velis stabilization in Yellow; not global/planetary completion |
+| Violet / Orange | Paragon healed by Kaira/Sprite/Vaelith, securing egg access/consent; sixth bond, hatching and juvenile growth retained |
+
+Earlier palace-interview/table wording is historical in the explicitly corrected first-bond scope. No delegation history, illi’s first Violet-journey attendance, trial stages, death or prophetic identity recurrence is invented. Universal six-stage Transduction is not a six-stage Sanctuary trial. Existing Black Singularity travel eligibility and Nyx’s native Green access remain.
+
+[Full coverage and owners](../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/COVERAGE.md) · [Supersessions](../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Sixth bond and companion travel · 2026-11-21
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Author chronology correction · 2026-11-23:** The fourth Black Unicorn bond still occurs in **Book Green, Green Arc**, but now **in the Violet Realm at the Genesis Sanctuary after Kaira passes a Genesis Field trial**. The older White-palace delegation interview/bond location is SUPERSEDED only in that scope. The Book Blue Red Arc Violet Realm visit remains a subsequent visit with the already-bonded Unicorn. Six-bond order, independent agency and companion-travel restrictions remain unchanged. The trial's stages/mechanics are OPEN; the Black Unicorn's death without a successful bond may restart its prophetic emergence cycle, exact mechanics OPEN.
+
 
 All six existing bond identities/order and independent agency remain: Red/Green Sprite; Orange/Orange Vaelith; Yellow/Red Dragon egg; Green/Violet Unicorn; Blue/Yellow Primordial; Violet/Blue Leviathan. **Violet Orange Arc** now selects the sixth bond, egg hatching and juvenile development; Book White has **no seventh bond**. The separate Book Blue naval Leviathans are not new Black companions.
 

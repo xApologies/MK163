@@ -14,7 +14,7 @@ Kaira has returned to White; illi sponsors her renewed study. Unspecified dates,
 
 ## Principal conflict
 
-Advanced study and recruitment remain distinct from Special Projects; exact academic challenges are OPEN.
+The three advanced semesters and regular-military recruitment remain distinct from Special Projects. The former six-Dragon-native premise is superseded; exact revised syllabus and academic challenges are OPEN.
 
 ## Major events
 
@@ -26,7 +26,7 @@ Kaira graduates before beginning regular military service in Blue Arc.
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Scoped supersessions](../../../../CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Preceding arc](../ARC_003/ARC.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [Preceding arc](../ARC_003/ARC.md)
 
 ## Status
 

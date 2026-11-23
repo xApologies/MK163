@@ -18,6 +18,10 @@ Rising noble kidnappings for ransom become known at the royal raeon game.
 
 ## Major events
 
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Author-selected chromatic realm event · 2026-11-23:** Green Realm homecoming: Kaira, Princess illi and the already-bonded Black Sprite visit the Sprite community and ruling body. The bond continues; the Sprite departs with Kaira. Community and reunion details OPEN.
+
+
 [Complete author-selected Red Arc record](../../BOOK_MACRO_OUTLINE.md#red-arc) owns all supplied details, qualifications and exclusions. This contract is navigation in addition to that full record; no omitted scene is implied.
 
 ## Exit state
@@ -26,7 +30,7 @@ Kaira lives in the Violet capital, has expanded her enterprise, and hears the ra
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Scoped supersessions](../../../../CHECKPOINTS/BOOK_MACROS_2026_11_20/REVERSE_DIFF.md) · [Preceding book](../../../RED/BOOK_OVERVIEW.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [Preceding book](../../../RED/BOOK_OVERVIEW.md)
 
 ## Status
 

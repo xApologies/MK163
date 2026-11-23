@@ -1,3 +1,17 @@
+# Yellow realm flux and Primordial capability · 2026-11-23
+
+**Resonance** is the selected native capability: self-augmentation, reinforced structure, strength, speed, jumping and durability. This does not replace Yellow’s primary **Persistence** emphasis or the Inorganic, Organic and Process families. [Native capability versus primary emphasis](../../L1_FANTASY/OPERATIONAL_DOMAINS.md)
+
+Book Blue Yellow encounters an immense realm whose singularity has elevated neon flux and especially severe ELDRIS formation. Alongside the fifth geode/crystalline egg-like Black Primordial bond, Kaira visits multiple **naturally occurring velis** and stabilizes enough significant local anchors to bring Yellow into safer conditions and greatly reduce ELDRIS formation. She does not visit or repair every velis. Some hostile Primordials are encountered and battled; the entire race is not hostile.
+
+Exact route, number of anchors, operators, combat, mechanisms and thresholds remain OPEN. This is **intra-Yellow** stabilization, not the later White planet’s solution, total ELDRIS eradication or a solved universal field law. Existing delegation, companion eligibility and return remain. [Complete journey](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Natural-velis distinction](../PROFESSIONS/ARCHITECTS_AND_VELIS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Yellow native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Persistence**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.

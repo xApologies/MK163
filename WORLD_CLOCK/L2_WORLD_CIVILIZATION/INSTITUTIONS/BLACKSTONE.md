@@ -1,3 +1,15 @@
+# Advanced-study premise correction · 2026-11-23
+
+The three advanced semesters in **Book Yellow Green**, illi’s sponsorship, graduation before Blue service and regular-military recruitment remain selected. The older **six Dragon-native domains** premise below is superseded. Dragons access Elemental Transduction, Dimensional Transduction/Geometry (CSR flight), and Chirality, with individual specialization; Genesis Field Topology belongs to Unicorns, Resonance to Primordials and Genesis Expression to Leviathans as native assignments.
+
+The **exact revised syllabus is OPEN**. This does not reduce the universal operation categories, assign course names/timetables, revise Book Red’s five-semester records or claim an AERA patch. [Current native-capability owner](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) · [Complete Book Yellow macro](../../../BOOKS/YELLOW/BOOK_MACRO_OUTLINE.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Yellow · three advanced Transduction semesters
 
 After the Red Black Dragon egg bond and return to White, illi sponsors Kaira’s return to Blackstone for **three semesters** of advanced Transduction, building on her earlier five-semester education. The selected six Dragon-associated categories are Elemental Transduction, Dimensional Geometry, Genesis Field Topology, Genesis Expression, Resonance and Chirality. These already match the MK163 [Dragon-capability owner](../../L1_FANTASY/OPERATIONAL_DOMAINS.md); they are not a silent rewrite of AERA’s generic Domain 1. The separately proposed AERA patch is not claimed merged.

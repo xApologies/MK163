@@ -1,3 +1,15 @@
+# Chromatic realm selections · 2026-11-23
+
+Yellow’s Red Realm journey now ends a specific age-old Dragon faction war by defeating/killing its Chirality-specialist leader while retaining the Black Dragon egg bond. Green’s three advanced semesters remain; the six-Dragon-native premise is superseded by three accessible Dragon capabilities and an OPEN revised syllabus.
+
+[Complete current macro](BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Yellow · current seven-arc macro
 
 Author-selected planning checkpoint BOOK_YELLOW_MACRO_001, integrated 2026-11-21. Read the [complete macro outline](BOOK_MACRO_OUTLINE.md); the contracts below follow the eight constitutional fields. They do not select chapters, dates or scenes. Older statements that all arcs are unoutlined are historical in this scope.

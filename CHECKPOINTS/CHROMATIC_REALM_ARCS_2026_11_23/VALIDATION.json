@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "baseline": "f4b7064cb403204e16601e0c438cdf2d5124788a",
+  "check_count": 1966,
+  "failures": [],
+  "counts": {
+    "source_files": 3,
+    "publisher_manifest_hashes": 0,
+    "computed_source_hashes": 3,
+    "exact_author_notes": 17,
+    "script_targets": 14,
+    "realm_entry_touchpoints": 7,
+    "contracts_checked": 35,
+    "protected_files_checked": 1143,
+    "links_checked": 181,
+    "changed_paths": 88,
+    "added": 51,
+    "modified": 37,
+    "deleted": 0
+  },
+  "source_limit": "No publisher hash manifest supplied. ZIP CRC and computed intake/source-preservation hashes checked.",
+  "scope": "Book Red, Book White, maps, earlier sources, ledger and inherited repositories unchanged; no invented dates/scenes/mechanics."
+}

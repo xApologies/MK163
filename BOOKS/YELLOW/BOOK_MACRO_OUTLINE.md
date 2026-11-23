@@ -32,9 +32,19 @@ Agenda: international trade, tariffs, cartels, pirate networks, drug trafficking
 Interrealm travel rule selected by author: White Realm humanity can travel to each chromatic realm; chromatic natives can travel between their own realm and White, but cannot ordinarily enter other chromatic realms because of structural energy incompatibility. Native chromatic peoples may adopt humanoid form for interaction in White. Do not equate this with free chromatic-to-chromatic passage.
 
 ## Yellow Arc — Red Realm and Dragon egg
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Chromatic Red Realm — Dragon conflict (author update 2026-11-23):** The Red Realm is experiencing an age-old war involving a hostile faction/brood led by a Chirality-specialist Dragon. All Dragons can access **Elemental Transduction**, **Dimensional Transduction / Dimensional Geometry** (CSR, Continuous Spatial Resolution, for flight), and **Chirality**, but individuals specialize differently; these are **not three mutually exclusive species**. Dragon energy budgets are comparatively limited despite Chirality's dangerous admissibility effects. During the Red Realm journey Kaira confronts the faction, ultimately defeats and kills its leader, ending this specific long-running war. The existing Black Dragon **egg** bond still occurs in Yellow Arc; do not imply the egg is grown or battle-ready. War origins, battle detail and faction name remain OPEN.
+
 Following the summit encounter, Kaira journeys with Dragon dignitaries to the Red Realm. There she bonds with the **Red Black Dragon egg**. Exact bond mechanism, egg development, journey length, and travel companions beyond the selected dignitaries are open. Do not assert a fully grown or battle-ready Dragon at this stage.
 
 ## Green Arc — Blackstone education and military recruitment
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Dragon capability correction (author update 2026-11-23):** The historical six-Dragon-domain list in this macro is superseded **only as a native Dragon capability assignment**. Dragons have three accessible native domains: Elemental Transduction, Dimensional Transduction / Geometry (CSR flight), and Chirality, with differing individual specializations. Genesis Field Topology is assigned to Unicorns, Genesis Expression to Leviathans, and Resonance to Primordials. The existing three-semester advanced-study milestone remains; its exact revised syllabus is OPEN. Do not silently retain six *Dragon-native* domains as the curriculum's premise.
+
+**Historical study-premise wording — the six Dragon-native capability assignment below is superseded by the author correction above.** Sponsorship, three advanced semesters and the regular-military chronology remain active; exact revised syllabus is OPEN.
+
 After returning to White, Princess illi sponsors Kaira's return to Blackstone. Kaira completes **three semesters** of advanced Transduction study, drawing on her previous five-semester Blackstone education rather than repeating it. Focus: six Dragon-associated forms of Transduction. Author-selected six-category list: Elemental Transduction, Dimensional Geometry, Genesis Field Topology, Genesis Expression, Resonance, Chirality. The AERA Domain 1 correction was prepared separately and must not be assumed already pushed; do not silently alter AERA as part of this MK163 checkpoint.
 
 During Green Arc, at the King's regular raeon card game, Kaira meets a military general associated with the kingdom's ELDRIS/Domai fighting forces. She is recruited to the **regular ELDRIS/Domai military branch**, NOT Special Projects. Kaira graduates from her three-semester program before beginning service in Blue Arc. The precise date of the meeting within the academic period is open.

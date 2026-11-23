@@ -1,3 +1,17 @@
+# Symbiotic living city and Black Vaelith consent · 2026-11-23
+
+In Book Orange Yellow, Vaelith live symbiotically with a city of interconnected living biological structures, potentially tree networks. Its “heart” is a **Genesis-energy nexus** sustaining distributed living coherence, not an anatomical heart or a lone indispensable core of an individual Vaelith. Recursive ELDRIS-origin corruption threatens this city.
+
+The Black Vaelith independently conditions bonding on Kaira helping heal the city. They bond, and reciprocal amplification enables Vaelith topological/coherence-based restoration of the nexus, saving the city. Precise biology, scene and mechanism remain OPEN. This local restoration is not natural-velis anchoring or Book White’s planetary solution. The established four-component Vaelith biology and independent agency below remain.
+
+The later Book Violet Paragon healing combines that coherence/regeneration with the Black Sprite’s complementary Resolution and reciprocal bond amplification. [Orange journey](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Paragon event](BLUE_LEVIATHANS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Orange native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Topology; Coherence–Decoherence, including deep biological restoration**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.

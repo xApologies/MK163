@@ -1,3 +1,15 @@
+# Book Blue local Yellow-realm intervention · 2026-11-23
+
+The [Blue Yellow journey](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) now selects stabilization of multiple significant naturally occurring velis under elevated Yellow-singularity neon flux. Enough local anchors are stabilized to produce safer conditions and greatly reduce ELDRIS formation; not every anchor is repaired. Exact methods, operators and thresholds remain OPEN.
+
+This intra-Yellow intervention is distinct from the [unchanged Book White planetary ending](../../L3_CHARACTERS_EVENTS/EVENTS/PLANETARY_GENESIS_STABILIZATION.md) and from Orange’s living-city energy-nexus healing. The natural-versus-engineered origin distinction below, physical ru’ne/sigil distinction and AERA inheritance remain intact.
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book White natural-velis research · scoped application
 
 The MK163 natural-velis definition and history below already govern: naturally forming local Genesis Field anchors informed deliberate ru’ne/sigil engineering. Architect-created/maintained analogues and physical inscriptions remain distinct; **vaelum** is an adventuring organization, not a field anchor. The inherited AERA terminology remains preserved at its cited revision and is not edited upstream.

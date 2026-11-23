@@ -25,6 +25,10 @@ Status: AUTHOR-SELECTED MACRO; chapter/scene implementation OPEN.
 Source: conversation decisions through 2026-11-20; reconcile against live MK163 before integration.
 
 ## Red Arc — Recognition and Violet Realm
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Continuity clarification (author update 2026-11-23):** This is a **later return visit** to the Violet Realm **with the already-bonded Black Unicorn**, distinct from the Book Green Green Arc first Violet Realm visit and Genesis Sanctuary trial. Preserve this Red Arc's Black Primordial intelligence, second King's Tournament, travel restrictions and other established events.
+
 Kaira receives the kingdom's highest service decoration for her contributions to the coordinated continental cartel/black-market disruption of Book Green. Formal award name, ceremony, presenter and attendees OPEN.
 Kaira visits the Violet Realm with her living Black Unicorn. Her other already-bonded Black companions are eligible to accompany her through the Black Singularity bond exception; their exact attendance remains OPEN. Nyx stays in White for this cross-chromatic visit and gains no bond exception. The ordinary restrictions on nonnative chromatic beings remain in force for those without the exception. Companions retain independent agency; activities while apart OPEN. Unicorns, authors of all eight prophecies, inform Kaira that the Black Primordial has emerged in geode/crystalline egg-like form in the Yellow Realm. Realm time passes differently; no ratios or ages are fixed. Kaira and Unicorn return to the White Realm palace; she tells others what she learned. An intelligence update reports heavy cartel/black-market disruption, only scattered resistance, and improved cooperation among the western kingdom, central merchant city-states and eastern republic. The favorable report remains an established Red event. After the Violet Realm return, Kaira participates in her second King’s Tournament, which concludes Red Arc. Team/vaelum, placement, prizes, race details and absolute dates remain OPEN. No Primordial bond yet. The tournament is now triennial; the recurrence anchor and reconciliation with intervening book durations remain OPEN.
 
@@ -32,6 +36,10 @@ Kaira visits the Violet Realm with her living Black Unicorn. Her other already-b
 Three Domai emerge and merge into a major threat (colors and mechanics OPEN). Special Projects sends a coordinated division, with Kaira attached because of her capabilities and bonds. She engages as part of the group, gains operational experience, and returns. Location, tactics, exact outcome and commendations OPEN. **No Yellow Realm expedition in Orange** (superseded placement).
 
 ## Yellow Arc — Yellow Realm expedition
+
+<!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+**Chromatic Yellow Realm — natural velis stabilization (author update 2026-11-23):** Yellow's singularity is in elevated neon flux and its realm suffers especially severe ELDRIS formation. In addition to the established fifth Black Primordial geode/crystalline egg-like bond, Kaira travels among **multiple naturally occurring velis**, stabilizing enough significant local anchors to bring the Yellow Realm into safer conditions and greatly reduce ELDRIS formation. The realm is immense; she does **not** visit or repair every velis. She encounters and battles some hostile Primordials; do not characterize the entire race as hostile. This is **intra-Yellow realm stabilization**, not the cross-realm/White-planet anchoring reserved for Book White. Exact route, number, operators, combat and stabilization thresholds remain OPEN.
+
 Kaira decides to seek the Black Primordial. Princess **illi** accompanies her in a small Crown diplomatic delegation; other delegates/security OPEN. Already-bonded Black companions are eligible to accompany Kaira under the Black Singularity exception; eligibility does not select attendance. Nyx remains in White, with his host/activities OPEN. They visit the Yellow Realm, pursue the fifth Black bond with the Yellow-native Black Primordial (geode/crystalline egg-like), and return to the White Realm. The bond is the designated Book Blue Black bond; exact discovery, bonding sequence and Primordial development OPEN. Do not assert unselected scenes or fixed elapsed times.
 
 ## Green Arc — Mobile floating fortresses

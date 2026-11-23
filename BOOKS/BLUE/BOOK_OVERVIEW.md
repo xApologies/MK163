@@ -1,3 +1,15 @@
+# Chromatic realm selections · 2026-11-23
+
+Red’s Violet visit is the **later return with the already-bonded Unicorn**; Primordial intelligence and second tournament remain. Yellow adds multiple natural-velis stabilization to make the elevated-neon realm safer and greatly reduce ELDRIS, alongside the fifth bond. Not every anchor is repaired; not every Primordial is hostile. No Book White planetary outcome occurs here.
+
+[Complete current macro](BOOK_MACRO_OUTLINE.md) · [Integration audit](../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/INTEGRATION_REPORT.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Book Blue · Revision 004 and support 003
 
 The [complete macro](BOOK_MACRO_OUTLINE.md) now concludes [Red Arc](ARCS/ARC_001/ARC.md) with Kaira’s second King’s Tournament, following the award, Violet visit and return; the favorable intelligence report remains. Recurrence is triennial, absolute dates and result OPEN. Already-bonded Black companions may accompany the Red and [Yellow](ARCS/ARC_003/ARC.md) realm visits; Nyx stays in White. [Green Arc](ARCS/ARC_004/ARC.md) adds approximately five or six voluntary Leviathan supporters, without replacing Kaira’s Blue Arc land campaign or moving the sixth bond out of Violet. Orange still has three merging Domai. All seven existing arc IDs, the pirate map, later campaign and Cabal reveal remain.

@@ -1,3 +1,19 @@
+# Genesis Sanctuary and first Violet visit · 2026-11-23
+
+Unicorns’ selected native capability is **Genesis Field Topology**, consistent with their unchanged primary Genesis Field emphasis. During **Book Green Green**, after the sibling rescue and return, Kaira travels to the Violet Realm and must pass a **Genesis Field trial at the Genesis Sanctuary** before bonding with the independently consenting living Black Unicorn. Unicorns already recognize her as the current Black Singularity; the trial does not verify identity. No six-stage trial, challenges or detailed mechanics are selected. illi’s attendance is OPEN.
+
+This explicitly supersedes the earlier White-palace first-bond/delegation-interview location. The delegation’s other history is not newly reconciled or duplicated as a second first bond. Subsequent Green operational synchronization remains. **Book Blue Red is the later return visit with the already-bonded Unicorn**, retaining Primordial intelligence and the second tournament.
+
+If no candidate succeeds and the Black Unicorn dies, the prophetic emergence cycle may begin again with another Black Unicorn later. This is conditional, not an assigned death, guaranteed outcome, reincarnated identity or newly authored prophecy verse. Exact recurrence/identity mechanics remain OPEN.
+
+[First visit and trial](../../../BOOKS/GREEN/BOOK_MACRO_OUTLINE.md) · [Later visit](../../../BOOKS/BLUE/BOOK_MACRO_OUTLINE.md) · [Native capabilities](../../L1_FANTASY/OPERATIONAL_DOMAINS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # Violet native specialization in MK163
 
 **Book Red consolidation · 2026-11-07.** The selected primary emphasis is **Genesis Field**. [Operational domains and six-realm reconciliation](../../L1_FANTASY/OPERATIONAL_DOMAINS.md) distinguishes native emphasis from exclusive access, generic operational categories and basin identity. Earlier expressions are retained where compatible; prior primary assignments do not override the corrected mapping.

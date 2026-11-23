@@ -1,3 +1,17 @@
+# Black Sprite homecoming and later cooperative healing · 2026-11-23
+
+Book Orange Red’s existing Green Realm visit is a community homecoming for the **already-bonded** Black Sprite. Kaira, the Sprite and illi travel together; illi’s Crown liaison role and ruling-body interaction remain. The Sprite stays bonded and returns with Kaira: no separation, abandonment, transfer or new bond. Community identity and detailed interactions remain OPEN.
+
+In Book Violet Orange, the Sprite contributes **Resolution** alongside Kaira and the Black Vaelith’s complementary coherence/regeneration to heal the Leviathan Paragon through reciprocal Black-bond amplification. This selected later team outcome does not retroactively upgrade the Sprite’s limited earlier pseudo-healing or erase independent agency, collective biology or developmental limits.
+
+[Full homecoming](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Paragon restoration](BLUE_LEVIATHANS.md)
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-23 selections above supersede earlier statements in their stated scope. Unrelated facts and original evidence remain unchanged.
+
 # v8 Sprite morphology and communication boundaries
 
 The Day 217 Blackstone professor is a selected mature Green-native scholar with a human-height recursive humanoid silhouette, subtle predominantly Green internal light and they/them pending gender selection. This expression is distinct from an ordinary green-skinned human, the young Black Sprite’s six-basin neon and ELDRIS. [Full character owner](../../L3_CHARACTERS_EVENTS/CHARACTERS/BLACKSTONE_SPRITE_PROFESSOR.md) · [Original source-image distinctions](../../../PROVENANCE/WORKSHOP/GREEN_DAY217_V8/REFERENCES/README.md).
