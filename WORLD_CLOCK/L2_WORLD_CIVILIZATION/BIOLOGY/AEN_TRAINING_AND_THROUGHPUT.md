@@ -1,3 +1,21 @@
+# Book Orange · White Genesis Collapse training
+
+**Author-established MK163 chronology · 2026-11-25.** After the Green Realm return and Violet-capital relocation, Orange Arc begins Kaira's White Genesis Collapse instruction at the royal palace under Princess illi. Training includes simultaneous six closed aen rings, Violet-referenced equal output normalization, initiation and sustenance. During Yellow Arc illi accompanies Kaira and the Vaelith dignitaries and continues teaching; Kaira practices through the outward and return journeys. On the return toward the Violet capital, by Yellow Arc's end, she finalizes **functional control**. This is not expert combat mastery, maximum endurance, selective incorporation mastery, completed Stage II widening or automatic Binding acquisition. Specific lessons, earlier achievements and encounter uses remain OPEN.
+
+Book Red's closures stay **Day 43 Red/Orange**, **Days 52–62 Yellow**, **Day 85 Green**, **Day 123 Blue** and **Day 248 Violet under illi**. Six-ring closure is a prerequisite, not collapse mastery; no collapse instruction is inserted into Book Red. Existing Card loadouts and the independent Support role remain unchanged. Active Genesis Cards and White Genesis Collapse cannot coexist; no interface bypass is selected.
+
+## AERA dependency — verified published
+
+[AERA White Genesis Collapse](https://github.com/xApologies/AERA/blob/dfdc85142fa673691bcb8a93f38d9f5a8e44eb3b/L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md) at `dfdc85142fa673691bcb8a93f38d9f5a8e44eb3b` owns the universal mechanism. Read as an inherited dependency, not a new local specification: fixed singular recursion; six normalized active closed rings; physical/energetic resistance; reinforcement against damage accelerates cumulative basin fatigue; material envelope and selective exclusion; compatible native Shapings/installed Bindings, incompatible active operational Cards. The approximately **17-hour trained baseline** is not Kaira-specific; **11–13 hours under combat reinforcement is illustrative only**. No equation, personal endurance, maximum duration or automatic mastery is assigned here. AERA and MK727 are unchanged.
+
+[Complete Book Orange sequence](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Original author decision](../../../PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md) · [Upstream verification](../../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/UPSTREAM_VERIFICATION.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Later application · juvenile Leviathan growth
 
 Book Violet Orange selects Kaira using her **trained aen access** to assist the juvenile Black Leviathan’s Blue-energy-supported growth after hatching. This adds a later application without changing any Book Red closure date or establishing completed Stage II, effortless stability, quantitative throughput or mastery. Energy transfer, development rate and realm-time mechanics remain OPEN. [Leviathan biology and selected sizes](../REALMS/BLUE_LEVIATHANS.md) · [Full author selection](../../../BOOKS/VIOLET/BOOK_MACRO_OUTLINE.md)

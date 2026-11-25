@@ -1,3 +1,13 @@
+# Genesis System book placement · cumulative update 001
+
+Book Orange selects the **Amplification System (Enhance)** at author-planning level. Its introduction arc, dates, lessons, topology, manufacturing and mastery remain OPEN. [The single Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) preserves the complete concept, component allocations, examples, exclusivity and engineering questions; no catalogue rows or IDs are added. The separate collapse sequence below does not schedule this system; a complete Genesis System cannot coexist with White Genesis Collapse. No new systems are introduced in Red, Violet or White; existing systems may be used in Violet and White. [Scope and supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+
+---
+
+## Earlier macro · Orange and Yellow amended below
+
+The 2026-11-25 Orange/Yellow sequence below incorporates the explicit author corrections. The prior wording remains in the original source and [the scoped patch](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/CANON_PATCH.diff); all unrelated arc text and source evidence remain unchanged.
+
 # Current Book Orange macro · integrated 2026-11-21
 
 Authority: BOOK_ORANGE_MACRO_001; author selections dated 2026-11-20. The complete supplied outline follows. Statements about package preparation or absence of a push describe the source snapshot; the integration report records repository execution. This is macro planning, not manuscript prose, chapter counts or a dated schedule.
@@ -36,18 +46,28 @@ Source: Author decisions in conversation, 2026-11-20. This package has not been 
 - Example case: a Green Domain noble's daughter was kidnapped; her ransom was PAID and she was returned. This is one of multiple kidnappings. No rescue mission for this victim; older rescue/off-continent trafficking variants are SUPERSEDED.
 
 ## Orange Arc
-- Vaelith dignitaries from the Orange Realm visit the kingdom's Violet Domain capital because they have heard of Kaira and her Black Sprite and recognize the beginnings of the Black Prophecy.
-- They meet the King, who confirms knowing Kaira and the Black Sprite. The Vaelith already have a Black Vaelith and are assessing whether they agree to a bond with Kaira. Kaira learns of the Black Vaelith and meets the dignitaries. They depart. No bond yet.
-- Kaira also participates in several dungeon delves as a Support Specialist and performs well. Contracts/teams/dungeons/results beyond this are OPEN.
-- The earlier placement of illi's Green Domain kidnapping investigation in Orange Arc is SUPERSEDED: it belongs in Green Arc.
+
+**Author-approved ordered sequence · 2026-11-25:**
+
+1. After the Red Arc Green Realm return and relocation to the Violet Domain capital, Kaira begins **White Genesis Collapse** instruction at the royal palace under Princess **illi**. No new instructor is needed. The training includes simultaneous six closed rings, Violet-referenced equal output normalization, initiation and sustenance. Exact lessons and achievements remain OPEN; six-ring closure is a prerequisite, not collapse mastery.
+2. Kaira participates in several independent dungeon expeditions as a **Support Specialist**, retaining the previously selected good performance and Card-based role. Contracts, teams, dungeons, detailed outcomes, dates and use of collapse in particular encounters remain OPEN. Active Genesis Cards cannot coexist with collapse; no automatic Binding acquisition follows.
+3. Vaelith dignitaries from the Orange Realm arrive at the Violet capital as **guests of the King**. They have heard of Kaira and her Black Sprite, recognize the emerging Black Prophecy and have a Black Vaelith in their native realm. They meet the King, who confirms knowing Kaira and the Black Sprite, and assess the prospective bond. This preserves the existing meeting/assessment context, with no Black Vaelith bond in Orange Arc.
+4. Kaira meets the dignitaries and learns of the Black Vaelith.
+5. The dignitaries depart **with Kaira and illi as part of their traveling party for the Orange Realm**. This joint departure closes Orange Arc, superseding a separate departure without Kaira. No travel mechanism or date is fixed.
+
+The earlier placement of illi's Green Domain kidnapping investigation in Orange Arc remains SUPERSEDED: it belongs in Green Arc. [Training scope and upstream dependency](../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) governs the selected capability; no Book Red instruction or date changes follow.
 
 ## Yellow Arc
 
 <!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
 **Chromatic Orange Realm — living-city nexus (author update 2026-11-23):** The Vaelith live symbiotically with a city formed from interconnected living biological structures (potentially tree networks). Its "heart" is **not an anatomical heart**: it is a Genesis-energy nexus sustaining the city's living distributed coherence network. Recursive ELDRIS-origin corruption threatens the nexus. The Black Vaelith's condition for consenting to the bond is that Kaira help heal the city. Kaira and the independently consenting Black Vaelith bond; their reciprocal amplification enables Vaelith topological/coherence-based restoration of the nexus and saves the city. This is a local city restoration, not a natural velis anchoring operation or the Book White planetary solution. Precise biology, scenes and mechanism remain OPEN.
 
-- Kaira travels to the Orange Realm, bonds with the Black Vaelith, and returns to the kingdom accompanied by the Black Vaelith as a member of her traveling party.
-- Exact bond mechanism, companions on journey and duration OPEN.
+1. Kaira travels to the Orange Realm with the dignitaries and **illi**, who continues White Genesis Collapse instruction; Kaira practices throughout the journey.
+2. The living Vaelith city, distributed coherence network, Genesis-energy nexus and recursive ELDRIS-origin threat remain as selected above.
+3. The independently consenting Black Vaelith conditions the bond on Kaira helping heal the city. Their bond precedes reciprocal amplification and topological/Coherence restoration of the nexus. No new bond mechanism or forced consent is selected; this remains local city restoration, not planetary stabilization or natural velis anchoring.
+4. Kaira returns toward the Violet capital with the Black Vaelith and continues practice with illi. **On the return journey, by the end of Yellow Arc, she finalizes functional control of White Genesis Collapse.** This does not grant expert combat mastery, maximum endurance or selective incorporation mastery. The Black Sprite remains bonded, without transfer or abandonment; other companion logistics remain OPEN.
+
+Exact bond mechanism, duration, travel mechanism and unselected companions remain OPEN. illi's selected accompaniment supersedes the earlier wholly OPEN journey-companion statement. [Original author decision](../../PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md) · [Explicit supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
 
 ## Green Arc
 - Princess illi is assigned Crown duties investigating the repeated kidnapping/ransom cases in the Green Domain.

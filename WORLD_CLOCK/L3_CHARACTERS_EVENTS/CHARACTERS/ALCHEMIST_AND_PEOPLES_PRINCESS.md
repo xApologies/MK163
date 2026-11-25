@@ -1,3 +1,15 @@
+# Book Orange · illi teaches and accompanies Kaira
+
+Princess **illi** is established as capable of teaching White Genesis Collapse. She begins Kaira's instruction at the Violet royal palace in Orange Arc, departs with Kaira and the Orange Realm dignitaries at that arc's end, and continues instruction during Yellow Arc's outward and return journeys. [Kaira's training owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) governs functional control by the Yellow return/end and its limits. No new instructor, date, lesson schedule or personal endurance is selected.
+
+[Kingdom demographics](../../L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md) establish White Awakening for all royals and almost all nobles, without automatic collapse competence. illi's friendship, diplomatic role, non-governing status and existing Book Red teaching remain; Aiselle's non-Awakened Genesis-potion history is unchanged. [Author source](../../../PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Books Orange–Blue · illi’s diplomatic and personal role
 
 illi remains Kaira’s close friend and a gifted Transduction practitioner, a Crown diplomat who can represent the Crown, **not a domain governor and not a Special Projects operative**. Her older sister aina remains the Blue Domain ruler. Orange selects illi’s Green Realm Crown liaison journey, persuasion of Kaira to relocate nearer her in the Violet capital, and Crown ransom investigation. Yellow selects the summit entourage, academic sponsorship and no kidnapping of illi. Green selects their sibling rescue, Crown report, investigations and diplomacy; Kaira’s relevant exceptional authority is directly below illi, with precise formal limits OPEN. Blue selects illi’s small Yellow Realm diplomatic delegation; other delegates/security remain OPEN.

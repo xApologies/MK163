@@ -1,3 +1,15 @@
+# Book Orange travel clarification · cumulative update 001
+
+Orange Arc now closes with the dignitaries, Kaira and illi departing together; the independently consenting Black Vaelith bond remains in **Yellow Arc**, conditioned on helping heal the living city. Bonding still precedes amplified nexus restoration. Kaira returns with the Black Vaelith while illi continues teaching. The Black Sprite stays bonded without transfer or abandonment; unselected companion logistics remain OPEN. Six-bond order, forms, travel eligibility and all later realm events are unchanged.
+
+[Full sequence](../../../BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Author-approved supersessions](../../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Realm events and bond conditions · current 2026-11-23
 
 The script’s exact author note and earlier sources follow below. The six-bond order/forms and independent agency remain unchanged; no extra bond is added.

@@ -1,3 +1,15 @@
+# Cumulative update 001 · current Book Orange selections
+
+Orange Arc orders palace White Genesis Collapse training under illi, independent Support delves, visiting Vaelith dignitaries, discovery of the Black Vaelith and joint departure. Yellow preserves the living-city bond/restoration and selects continuing instruction, with functional collapse control on the return journey/by arc end. Green–White's ransom-cartel sequence is unchanged.
+
+Book-level Amplification System planning has **no assigned introduction arc**, date or mastery. [Complete macro](BOOK_MACRO_OUTLINE.md) · [Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) · [Integration audit](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/INTEGRATION_REPORT.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Chromatic realm selections · 2026-11-23
 
 Red’s Green Realm trip is a homecoming for the already-bonded Sprite with Kaira and illi, with no separation. Yellow’s Black Vaelith bond is conditioned on helping save a symbiotic living city; reciprocal amplification restores its energetic nexus after bonding. The city is not an anatomical heart or a planetary velis solution.

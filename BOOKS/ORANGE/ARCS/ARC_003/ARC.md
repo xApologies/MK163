@@ -6,11 +6,11 @@ Stable ID: MK163-ORANGE-ARC-003. Book: Orange. Working title: Yellow.
 
 ## Narrative objective
 
-Establish the second Black bond in the Orange Realm.
+Establish the second Black bond and city restoration in the Orange Realm, with ongoing instruction under illi and functional White Genesis Collapse control by the return journey/end of the arc.
 
 ## Entry state
 
-The Black Vaelith has been introduced without an earlier bond. Unspecified dates, locations and incidental circumstances remain OPEN.
+Kaira and illi travel with the Orange Realm dignitaries after the joint Orange Arc departure. The Black Vaelith has been introduced without an earlier bond. illi continues instruction and Kaira practices White Genesis Collapse throughout the journey; dates and incidental circumstances remain OPEN.
 
 ## Principal conflict
 
@@ -26,11 +26,11 @@ The Black Vaelith conditions consent on helping heal the living city’s corrupt
 
 ## Exit state
 
-The local living city is saved, and Kaira returns with the living Black Vaelith as a traveling companion. This does not perform a natural-velis or planetary stabilization.
+The local living city is saved. Kaira returns toward the Violet capital with the living Black Vaelith and continues practice with illi; on the return journey, by arc end, she finalizes functional White Genesis Collapse control. This is not expert combat mastery, maximum endurance or selective incorporation mastery. The Black Sprite remains bonded; other companion logistics remain OPEN. No natural-velis or planetary stabilization is performed.
 
 ## Dependencies
 
-[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [Preceding arc](../ARC_002/ARC.md)
+[Series structure](../../../../WORLD_CLOCK/L4_NARRATIVE_REALIZATION/SERIES_STRUCTURE.md) · [Bond order and agency](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md) · [Current scoped supersessions](../../../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md) · [Preserved city/bond selection](../../../../CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/REVERSE_DIFF.md) · [Training scope](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Preceding arc](../ARC_002/ARC.md)
 
 ## Status
 

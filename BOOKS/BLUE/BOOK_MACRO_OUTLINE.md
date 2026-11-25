@@ -1,3 +1,13 @@
+# Genesis System book placement · cumulative update 001
+
+Book Blue selects the **Convergence System (Integrate)** at author-planning level. Its introduction arc, dates, lessons, topology, manufacturing and mastery remain OPEN. [The single Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) preserves the complete concept, component allocations, examples, exclusivity and engineering questions; no catalogue rows or IDs are added. No new systems are introduced in Red, Violet or White; existing systems may be used in Violet and White. [Scope and supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Revision 004 · tournament, bonded travel and Leviathan support
 
 The amendments below govern the existing complete 002 macro. Orange still concerns **three merging Domai**, not political domains. All other arc placements, the original pirate map and the White Arc Cabal of Maegi revelation remain unchanged. The supplied short revision is an overlay, not a replacement for detailed 002 records.

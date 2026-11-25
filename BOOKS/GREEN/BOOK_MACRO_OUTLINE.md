@@ -1,3 +1,13 @@
+# Genesis System book placement · cumulative update 001
+
+Book Green selects the **Vector System (Redirect)** at author-planning level. Its introduction arc, dates, lessons, topology, manufacturing and mastery remain OPEN. [The single Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) preserves the complete concept, component allocations, examples, exclusivity and engineering questions; no catalogue rows or IDs are added. No new systems are introduced in Red, Violet or White; existing systems may be used in Violet and White. [Scope and supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Current Book Green macro · integrated 2026-11-21
 
 Authority: BOOK_GREEN_MACRO_002; author selections dated 2026-11-20. The complete supplied outline follows. Statements about package preparation or absence of a push describe the source snapshot; the integration report records repository execution. This is macro planning, not manuscript prose, chapter counts or a dated schedule.

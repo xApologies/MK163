@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "baseline": "dc4ef8440e18f39f89bc0a15dd1d26942c1258ec",
+  "checks": 3765,
+  "publisher_hashes_verified": 4,
+  "original_files_preserved": 5,
+  "systems": 4,
+  "components": 19,
+  "single_basin": 14,
+  "dual_basin": 5,
+  "six_basin_covers": 4,
+  "coverage_topics": 16,
+  "unrelated_baseline_files_unchanged": 2326,
+  "historical_and_asset_files_raw_byte_verified": 1064,
+  "arc_contracts_present": 49,
+  "new_local_links_checked": 76,
+  "files_added": 19,
+  "files_modified": 20,
+  "files_deleted": 0,
+  "upstream_collapse_revision": "dfdc85142fa673691bcb8a93f38d9f5a8e44eb3b",
+  "errors": [],
+  "limits": "Structural and declared-scope preservation checks; no mathematical feasibility, transcript completeness, mastery or push-success claim."
+}

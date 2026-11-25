@@ -1,3 +1,15 @@
+# Book Orange training and later Genesis System planning
+
+Kaira begins White Genesis Collapse instruction under illi in Book Orange's Orange Arc at the Violet royal palace. Functional control is selected on the Yellow Arc return journey/by its end, with combat expertise, personal endurance and selective incorporation mastery unassigned. Her existing Support Specialist Card role remains; active Cards cannot coexist with collapse. [The training owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) preserves the full milestones and unchanged Book Red closures.
+
+[The Genesis Systems planning owner](../../L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) selects book placements Orange/Yellow/Green/Blue while leaving introduction arcs, fabrication and mastery OPEN. These are future author plans, not present possessions or completed achievements at Book Red's endpoint. No new systems in Red, Violet or White; existing systems may be used in the latter two. [Source and audit](../../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/INTEGRATION_REPORT.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # White 006 · Book Red ending state
 
 At the Day 1637 outlined ending, Kaira retains her own Genesis Robe, the CSR Card made during 1358–1361 and her newly awarded White-ranked dimensional ring. Her seven-person vaelum places Green/fourth in the independent royal final. The King has received his robe on 1614. No formal rank promotion, automatic mastery, earlier Kaira ring or lifetime count for the Day 1369 White raeon result is inferred. Her original Village Hub is now assigned Green Domain G3 by explicit author correction. [Full White chronology](../../../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) · [Author decisions](../../../PROVENANCE/WORKSHOP/WHITE_006/AUTHOR_DECISIONS.md).

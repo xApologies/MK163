@@ -1,0 +1,13 @@
+# OPEN items and source limits
+
+No blocking canon conflict was found against the fetched MK163 baseline. The package explicitly supersedes the earlier Orange/Yellow order and wholly unselected travel-party wording; the remainder of the prior outline remains.
+
+- Collapse: exact lessons and intermediate achievements, encounter use, personal endurance, expert combat proficiency, maximum sustainment and selective incorporation mastery are not selected. Functional control on the Yellow return/by arc end is selected.
+- Travel: dates, duration, travel mechanism and companions/logistics beyond the named dignitaries, Kaira, illi and the selected Black Vaelith return remain OPEN. The Black Sprite stays bonded; bond status does not assign every travel detail. Vaelith bond mechanism, city biology and restoration implementation remain OPEN; original independent consent remains required.
+- Delves: contracts, teams, dungeon identities, detailed outcomes and collapse use remain OPEN; existing generally good Support performance is retained.
+- Genesis Systems: all four introduction arcs, dates, lessons, topology, coupled-manifold admissibility, interface implementation, manufacture and mastery remain OPEN. Book Yellow Green is only a candidate Network development context; no fixed introduction or completed device is inferred.
+- Amplification: multiplier and color-to-basin rule unassigned. Network: recipient limits, energy accounting and node geometry OPEN. Vector: targeting, momentum accounting and limits OPEN. Convergence: compatibility, accounting and composite identity rules OPEN; Beam plus Fireball and homogeneous/heterogeneous cases are illustrative/workshop possibilities.
+- Component labels are local to each system, not catalogue IDs. Reconstruction, fabrication, spatial and transmutation systems are not selected. Allocation arithmetic is not proof of mathematical feasibility, unrestricted concurrency or mastery.
+- Demographic proportions beyond all royals/almost all nobles, prices and individual Awakening histories are not specified. No legal nobility requirement or universal AERA demographic claim is added.
+
+AERA's collapse dependency is verified published at the pinned SHA in UPSTREAM_VERIFICATION.md. No pending publication blocks this update. Five source files and all four declared hashes are preserved; MANIFEST.json is retained and separately hashed but does not list itself. No images or raw conversation transcript were supplied. Coverage is complete for these two scoped written deltas; literal workshop/transcript completeness is not asserted. There are no known omitted supplied records.

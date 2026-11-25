@@ -1,0 +1,42 @@
+{
+  "package": "MK163_CUMULATIVE_UPDATE_001.zip",
+  "archive_sha256": "69e2994a9a25654de1bbfb10a424b9fa44df55864fbbb41b512445a4e9192c2e",
+  "baseline": "dc4ef8440e18f39f89bc0a15dd1d26942c1258ec",
+  "files": [
+    {
+      "path": "01_BOOK_ORANGE_COLLAPSE.md",
+      "sha256": "24582e72702fb56d58e4b3342346bece9f897570d4a8e6b97d83a819790f9246",
+      "bytes": 4469,
+      "publisher_hash_verified": true,
+      "target": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md"
+    },
+    {
+      "path": "02_GENESIS_SYSTEMS.md",
+      "sha256": "9d7b9734915898696e2fb8a2b5a136ae56be65fa47d392c6d4ace24e8a1bf08a",
+      "bytes": 2855,
+      "publisher_hash_verified": true,
+      "target": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f7d6bfa97c161e5efabc00fdcc9a7548ae0355303f8d5f1b769290660cfef461",
+      "bytes": 179,
+      "publisher_hash_verified": true,
+      "target": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/README.md"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "sha256": "ef7e48bb302b22f166d1f62b2bc32e25d9d4f9d0b04a950e59a1cc8cc7381712",
+      "bytes": 5229,
+      "publisher_hash_verified": true,
+      "target": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/EXECUTABLE.md"
+    },
+    {
+      "path": "MANIFEST.json",
+      "sha256": "79df915088c574f741e70d62ddb920bf3268628750674732145b42c443410d3f",
+      "bytes": 367,
+      "publisher_hash_verified": false,
+      "target": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/MANIFEST.json"
+    }
+  ]
+}

@@ -1,3 +1,15 @@
+# MK163 Genesis Systems · author planning only
+
+[Genesis Systems planning](GENESIS_SYSTEMS_PLANNING.md) is the single active owner for four book-level coupled-Card concepts and their component/basin allocations. These are MK163 author selections with introduction arcs, topology, interface implementation, manufacturing and mastery OPEN; they are not new catalogue entries, independent conventional Shapings or universal AERA mechanics. Existing basin exclusivity remains: each complete system occupies all six personal basins once and cannot coexist with another complete system, ordinary active Cards or White Genesis Collapse. Kaira directs the topology; other practitioners contribute Shapings. No retired special Black Card or sixfold Neon subsystem is revived.
+
+[Source and audit](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/INTEGRATION_REPORT.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Native-capability cross-reference · scoped correction
 
 The older reference below to Dragon expression across six operational domains is historical as a **Dragon-native capability assignment**. Use the [2026-11-23 operational-owner amendment](OPERATIONAL_DOMAINS.md): three accessible Dragon capabilities with individual specialization, distinct from universal Transduction operations. No ordinary Card operation, occupancy rule, lifecycle, Black Card retirement or mathematical source is changed by this realm-arc update.

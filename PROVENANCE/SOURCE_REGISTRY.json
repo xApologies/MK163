@@ -695,6 +695,17 @@
       "validation": "CHECKPOINTS/CHROMATIC_REALM_ARCS_2026_11_23/VALIDATION.json",
       "scope": "Seven realm-entry touchpoints; explicit Unicorn bond-location and native-capability supersessions; complete original script/text preserved; no Book Red/White or upstream edits.",
       "manifest_status": "No publisher manifest supplied; computed intake hashes and original ZIP CRC verified."
+    },
+    {
+      "id": "MK163_CUMULATIVE_UPDATE_001",
+      "baseline": "dc4ef8440e18f39f89bc0a15dd1d26942c1258ec",
+      "archive": "MK163_CUMULATIVE_UPDATE_001.zip",
+      "archive_sha256": "69e2994a9a25654de1bbfb10a424b9fa44df55864fbbb41b512445a4e9192c2e",
+      "source_root": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL",
+      "source_mapping": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/SOURCE_MAP.json",
+      "validation": "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/VALIDATION.json",
+      "scope": "Author-approved Book Orange collapse sequence, illi accompaniment, kingdom Awakening demographics and four Genesis System plans; introduction arcs OPEN; original bytes preserved; no upstream changes.",
+      "upstream_reference": "https://github.com/xApologies/AERA/blob/dfdc85142fa673691bcb8a93f38d9f5a8e44eb3b/L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md"
     }
   ]
 }

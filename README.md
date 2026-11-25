@@ -1,3 +1,17 @@
+# Current cumulative update 001 · 2026-11-25
+
+Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
+
+The four author-planned Genesis Systems belong to Orange (Amplification), Yellow (Network), Green (Vector) and Blue (Convergence), with **all introduction arcs OPEN**. Their single allocation owner retains full examples and constraints. No new system in Red, Violet or White; already established systems may be used in Violet/White. Preserve all seven realm-entry selections, unrelated canon, Book Red Day 0–1637, maps and original evidence; no upstream repository is modified.
+
+[Book Orange sequence](BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md) · [Genesis Systems](WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) · [Integration audit](CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/INTEGRATION_REPORT.md) · [Scoped supersessions](CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md) · [OPEN items](CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/OPEN_ITEMS.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Current chromatic realm arcs · 2026-11-23
 
 Seven actual realm-entry touchpoints now carry the author-selected homecoming, city restoration, Dragon-war, Sanctuary-trial, later Violet-return, Yellow-velis and Paragon-restoration events. Book Green Green’s first Unicorn bond is in the Violet Realm after a Genesis Field trial, superseding the White-palace location; Book Blue Red is the later return. No six-stage trial, new dates or trial identity test is selected. Bond order/agency, travel eligibility and subsequent Green training remain.

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "CU001-01",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Orange ordered palace training, independent Support delves, dignitary arrival, discovery and joint departure",
+    "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md",
+    "classification": "New canon / scoped sequence correction",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-02",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Yellow journey practice, city nexus, independent bond before reciprocal restoration, functional control during return/by end",
+    "owner": "BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md",
+    "classification": "New canon / preservation",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-03",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Arc entry/exit transitions and no Orange bond",
+    "owner": "BOOKS/ORANGE/ARCS/ARC_002/ARC.md",
+    "classification": "Canon correction; adjacent ARC_003 also reconciled",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-04",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Six closed rings, equal normalization, initiation/sustenance, functional-control limits and all unchanged Book Red closure dates",
+    "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "classification": "New MK163 training milestone / inherited dependency",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-05",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "All royals/almost all nobles White Awakened, wealth/access, kingdom-only scope and distinction from collapse competence",
+    "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/NOBILITY_AND_CIVIC_AUTHORITY.md",
+    "classification": "New MK163 L2 demographic selection",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-06",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "illi teaches and accompanies; separate Aiselle non-Awakened status preserved",
+    "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md",
+    "classification": "New character selection / preservation",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-07",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Kaira training roadmap distinct from Book Red current possessions or accomplished skill",
+    "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md",
+    "classification": "Character continuity cross-reference",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-08",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "Black Sprite retention, Vaelith consent/second bond and later bond order",
+    "owner": "WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md",
+    "classification": "Preservation / travel clarification",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-09",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md",
+    "scope": "AERA fixed recursion, resistance/reinforcement/fatigue, 17-hour baseline/11–13 illustrative combat, envelope/exclusion, compatible native/Bindings and incompatible active Cards",
+    "owner": "WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md",
+    "classification": "Verified upstream reference; not a new universal owner",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-10",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Unified topology directed by Kaira; others supply Shapings; components distinct from conventional Shapings; all-six exclusivity and implementation OPEN",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Author-selected MK163 planning",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-11",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Orange Amplification/Enhance; compatible input, extra energy, fireball size/heat illustrations, no fixed multiplier or color rule; four component allocations",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Author-selected book placement; introduction arc OPEN",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-12",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Yellow Network/Distribute; central node, active recipient tracking, Genesis Shield, illustrative 30 ft cube, candidate Green study only, intended military use; five allocations",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Author-selected book placement; introduction arc OPEN",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-13",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Green Vector/Redirect; chosen targets/protected individuals, illustrative 30 ft by 20 ft field, targeting/momentum/limits OPEN; four allocations",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Author-selected book placement; introduction arc OPEN",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-14",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Blue Convergence/Integrate; compatible inputs, unified identity, homogeneous/heterogeneous workshop possibilities, Beam/Fireball example only; six allocations",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Author-selected book placement; introduction arc OPEN",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-15",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "Nineteen distinct components, fourteen single/five dual; each system covers all six exactly once; no IDs/catalogue, no feasibility proof",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Structural selection and audit",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  },
+  {
+    "id": "CU001-16",
+    "source": "PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/02_GENESIS_SYSTEMS.md",
+    "scope": "No new systems in Red/Violet/White; later use allowed; reconstruction/fabrication/spatial/transmutation systems unselected; dates/lessons/manufacturing/mastery OPEN",
+    "owner": "WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md",
+    "classification": "Explicit exclusions / OPEN boundaries",
+    "coverage": "PRESERVED; validated against supplied scoped decisions"
+  }
+]

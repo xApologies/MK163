@@ -1,3 +1,17 @@
+# MK163 kingdom · White Awakening demographics
+
+**Author-selected social/biological distinction · 2026-11-25.** All members of the royal family are **White Awakened**; **almost all nobles** are White Awakened. Expense makes Awakening uncommon in the general population, but it is accessible to sufficiently wealthy commoners. This is kingdom-specific, not a universal AERA requirement, a legal condition of nobility or proof of noble ancestry. It supplies no new percentages, prices, age-of-Awakening rule or individual genealogies.
+
+Awakening is distinct from trained White Genesis Collapse competence. **illi is capable of teaching collapse** in Book Orange; this does not establish that all royals or nobles can perform it. Aiselle remains a wealthy **non-Awakened** Genesis-potion user, not a counterexample to a wealth mandate; wealth affords access rather than requiring Awakening. Existing royal roles, professional ranks and Kaira's false noble-origin rumor remain unchanged.
+
+[Training owner](../BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) · [Original author decision](../../../PROVENANCE/WORKSHOP/CUMULATIVE_UPDATE_001_2026_11_25/ORIGINAL/01_BOOK_ORANGE_COLLAPSE.md) · [Scope](../../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+
+---
+
+## Earlier record · preserved verbatim
+
+Only the explicit 2026-11-25 selections above supersede earlier statements in their stated scope. Unrelated canon and original evidence remain unchanged.
+
 # Blue Domain ruler · Princess aina
 
 The Blue Domain's ruling princess is now selected as **Princess aina**, exact lowercase, **older sister of illi**. This resolves the former ruling-princess name and sister-relationship OPENs. illi retains her separate non-governing role; no Crown office, sovereign, succession law, full genealogy or new territorial rank is invented.
