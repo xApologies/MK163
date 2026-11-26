@@ -1,3 +1,17 @@
+# Corrected Book Red city identities · checkpoint 012
+
+City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
+
+[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Blue Domain capital dungeon · depth and research sites
 
 The entrance serves the Blue Domain capital and its 2 × 2 mile staging district. Depths measure vertical distance below the entrance. Mapped passage lengths can be substantially longer. The Green Domain city associated with the Violet Dungeon has its own geography.

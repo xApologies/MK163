@@ -1,14 +1,28 @@
+# Corrected Book Red city identities · checkpoint 012
+
+City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
+
+[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # White 006 — current political-domain scope
 
 The kingdom has three political domains: Green, Blue and Violet. Orange remains a rank, district and stratum designation. Earlier four-domain language below is historical in this scope; its original record remains verbatim. Current residence distinctions and the Village Hub correction are governed by [WORLD_MAP_REFERENCE.md](WORLD_MAP_REFERENCE.md). No local city map geometry or event chronology changes.
 
 ---
 
-# OR-01 — Violet Dungeon staging settlement: geography, zoning and access
+# OR-01 — Blue Dungeon B3 staging settlement: geography, zoning and access
 
 **Orange arc of Book Red · 2026-11-08.** ## Identity and geometry
 
-The Violet Dungeon staging settlement is a permanent, materially and economically developed mini-city serving a Violet-stratum dungeon, distinct from the larger civilian city. Its author-selected **working footprint is a square of approximately 2 miles × 2 miles = 4 square miles**. It is not a temporary tent encampment. The related large city occupies an approximately **10 mile × 10 mile** square. Their **working geographic separation is approximately five miles**, not seven miles: the user explicitly corrected a seven-mile slip caused by confusion with the Blue Arc setting. The five-mile reference endpoints and precise actual walking route are not yet mapped; traveling from Kaira's apartment inside the enormous city adds non-negligible intra-city distance. Do not replace this with exact commute time, straight-line street geometry or a fabricated satellite map.
+The Blue Dungeon B3 staging settlement is a permanent, materially and economically developed mini-city serving a Blue-ranked B3 dungeon, distinct from the larger civilian city. Its author-selected **working footprint is a square of approximately 2 miles × 2 miles = 4 square miles**. It is not a temporary tent encampment. The related large city occupies an approximately **10 mile × 10 mile** square. Their **working geographic separation is approximately five miles**, not seven miles: the user explicitly corrected a seven-mile slip caused by confusion with the Blue Arc setting. The five-mile reference endpoints and precise actual walking route are not yet mapped; traveling from Kaira's apartment inside the enormous city adds non-negligible intra-city distance. Do not replace this with exact commute time, straight-line street geometry or a fabricated satellite map.
 
 The dungeon entrance occupies the northern, slightly north-offset part of the settlement, not the center or a corner. The cave/sinkhole is naturally formed, later excavated and enlarged, and has winding/spiraling descent. Prior concept illustrations exaggerate the opening; no mile-wide hole, final entrance dimensions or depth count adopted. The settlement is built within an advanced stone/sigil civilization; entrances and public streets are constructed rather than muddy wilderness tracks.
 
@@ -53,7 +67,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 
 ## Live Model 008 integration
 
-### Separate Violet dungeon staging settlement — working arrangement
+### Separate Blue dungeon B3 staging settlement — working arrangement
 
 The associated civilian city remains **10×10 miles**. Its separate dungeon staging settlement now has a **roughly 2×2-mile working footprint**, replacing 1×1 and 1.5×1.5 options in this scope. It is a permanent substantial settlement, not just tents or another name for the large city. The dungeon remains northwest at a roughly five-mile working separation; endpoints and routes remain unmeasured. No approved scaled map is supplied.
 
@@ -67,7 +81,7 @@ Proximity to the dungeon commands premium private housing and extended-stay rent
 
 Illustrative teams spend **two or three nights** assembling and provisioning, descend for **roughly two weeks**, then return to eat, sleep, repair, exchange information and resupply; a six-month private rental is another example, not every expedition's schedule. Storage rings/bracelets can help equipped groups, not every team; none is granted to Kaira before Red's ending. Hospitality and logistics are major economic activities. [The dungeon owner](../ENVIRONMENT/DUNGEONS.md) retains confinement/persistence and the working specific 17–23-mile depth, which is not route length or a travel-time formula.
 
-The existing four-domain kingdom and two Violet dungeons in this royal domain remain. Placement under an unnamed prince is **tentative**, with no chosen ruler identity or regional jurisdiction. Main-city 007 lease and other existing decisions remain; 'rents open' in older location text does not reopen Kaira's established 110-eln lease. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent outreach, not a completed customer scene.
+The existing four-domain kingdom and two Blue dungeon B3s in this royal domain remain. Placement under an unnamed prince is **tentative**, with no chosen ruler identity or regional jurisdiction. Main-city 007 lease and other existing decisions remain; 'rents open' in older location text does not reopen Kaira's established 110-eln lease. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent outreach, not a completed customer scene.
 
 
 Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md); [05_ALTERNATIVES_AND_PROVENANCE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md).
@@ -80,7 +94,7 @@ Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LI
 
 ## Delta 005 current integration
 
-Three principal gates per side give **12** gates: normally open, defensively closable; northern gates carry substantial dungeon traffic. The Violet dungeon is northwest, with a working separation of roughly five miles whose reference endpoints remain open. This is illustrative pending map confirmation. Its strata are R/O/Y/G/B/V. A separate staging hub provisionally 1×1 to 2×2 miles offers inns, shops, crafts, food and repairs at a proximity premium, reducing congestion while the city retains an independent civilian economy.
+Three principal gates per side give **12** gates: normally open, defensively closable; northern gates carry substantial dungeon traffic. The Blue dungeon B3 is northwest, with a working separation of roughly five miles whose reference endpoints remain open. This is illustrative pending map confirmation. Its strata are R/O/Y/G/B/V. A separate staging hub provisionally 1×1 to 2×2 miles offers inns, shops, crafts, food and repairs at a proximity premium, reducing congestion while the city retains an independent civilian economy.
 
 Kaira's eventual residence is in northwestern Orange District, slightly east of the literal corner, convenient to but not directly beside an unselected northern gate. The block, entrance, gate, routes, rents and jurisdiction remain open. The historical brown wooden wall is superseded by the current stone/sigil architecture. Original source-map waterways, lakes and keyed outlines are descriptive references; the author intends an orthogonal pixel remake.
 
@@ -93,7 +107,7 @@ Detailed supplied reconstruction/evidence: [WORLD_CLOCK/L2_WORLD_CIVILIZATION/GE
 ## Prior record retained in full
 
 # Book Red Arcs Two/Three city
-Author supplied top-down orthogonal zone-map and color key: 10×10-mile large city south of Kaira's starting region, attached to one of exactly TWO Violet dungeons in its royal domain. Multiple Blue/Green dungeons also exist; Blue/Violet generally large cities 10×10 miles, Green small 7×7. Kingdom has four domains ruled sovereign King/Queen (Violet), princes (Orange/Green), princess (Blue); precise jurisdiction of Kaira's new city OPEN, do not force it. Map includes residential, crafters, adventurer/alchemist guilds, commerce, shops, restaurants, groceries, entertainment, education, government, finance, guards, hospitals, emergency response, caravan stables, parks, training, industry, agriculture, gates and water. Kaira's routine apartment↔blacksmith supplier↔raeon/abecca/Genesis Card shops↔dungeon staging↔forest harvesting. Exact streets/distances of routes OPEN; do not invent map geometry or render substitutes. Earlier Village Hub Green dungeon remains separate region.
+Author supplied top-down orthogonal zone-map and color key: 10×10-mile large city south of Kaira's starting region, attached to one of exactly TWO Blue dungeon B3s in its royal domain. Multiple Blue/Green dungeons also exist; Blue/Violet generally large cities 10×10 miles, Green small 7×7. Kingdom has four domains ruled sovereign King/Queen (Violet), princes (Orange/Green), princess (Blue); precise jurisdiction of Kaira's new city OPEN, do not force it. Map includes residential, crafters, adventurer/alchemist guilds, commerce, shops, restaurants, groceries, entertainment, education, government, finance, guards, hospitals, emergency response, caravan stables, parks, training, industry, agriculture, gates and water. Kaira's routine apartment↔blacksmith supplier↔raeon/abecca/Genesis Card shops↔dungeon staging↔forest harvesting. Exact streets/distances of routes OPEN; do not invent map geometry or render substitutes. Earlier Village Hub Green dungeon remains separate region.
 
 
 ## Delta 004 evidence availability

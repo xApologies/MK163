@@ -1,3 +1,15 @@
+# Vaeryn identity retained · checkpoint 012
+
+The author explicitly reconfirmed **Vaeryn** during this integration. Incoming NAME OPEN wording does not revoke this protected species name. Nyx remains male, distinct from medium-sized Veshar. [Full fauna additions and visual boundaries](../REALMS/GREEN_ECOLOGY/FAUNA_REGISTER.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Vaeryn juvenile nutrition · Nyx observation
 
 The new [Nyx care record](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) fixes his tiny vivid orange almost-luminous flowers, instinctive and less effective than adult flower sustenance, and Green Genesis crystal nourishment. These are separate sources; juvenile flower color is not adult stripe color. This individual record does not establish universal juvenile flower color, all-flower vaen status, precise conversion, crystal grade/rate/lifespan, or stripe onset. The two original approved visual references and all prior species/parent-fate limits remain unchanged.
@@ -26,6 +38,6 @@ These are biological expressions, not professional ranks, relative strength, tem
 **Nyx:** Male, about **seven weeks old** at Day 39 discovery; small all-black cub, **no visible adult dermal striping yet**. He will later develop the male Green/Blue/Violet range. Do not prematurely depict him as glowing blue as an infant.
 
 ## Habitat, territory and sustenance
-Two adult Vaeryn (male and female, Nyx's parents) crossed from Green Realm into White Realm and established a territorial range in the wilds between the large city and the Violet Dungeon staging settlement. They are territorial and protective when intruded upon, but not wantonly aggressive toward the settlement or passing people. They **manifest large patches of multicolored flowers** (red, orange, yellow, green, blue, violet possible) as territorial expression and as a **Genesis-field sustenance mechanism**; they are **not carnivorous hunters living on animal prey** in the selected model. Exact biological energy conversion, whether flowers are individually Stage 2 vaen, and taxonomic mechanics OPEN. Do not assume all manifested flowers are vaen.
+Two adult Vaeryn (male and female, Nyx's parents) crossed from Green Realm into White Realm and established a territorial range in the wilds between the large city and the City 52 Blue Dungeon B3 staging settlement. They are territorial and protective when intruded upon, but not wantonly aggressive toward the settlement or passing people. They **manifest large patches of multicolored flowers** (red, orange, yellow, green, blue, violet possible) as territorial expression and as a **Genesis-field sustenance mechanism**; they are **not carnivorous hunters living on animal prey** in the selected model. Exact biological energy conversion, whether flowers are individually Stage 2 vaen, and taxonomic mechanics OPEN. Do not assume all manifested flowers are vaen.
 
 The sex-associated ranges describe adult dermal stripes, not flower color. The adult reference establishes morphology and approximate scale; the pictured blue is one male state. Do not transfer adult stripes to the cub or assign an identity to every manifested flower. Earlier orange-flower observations remain historical evidence, not a fixed species-wide color. [Parents, witness limits and the Day 39 encounter](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md). Sources: [VAERYN_SPECIES_AND_NYX_DAY39](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VAERYN_SPECIES_AND_NYX_DAY39.md), [README](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/README.md).

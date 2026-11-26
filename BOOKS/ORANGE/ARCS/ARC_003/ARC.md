@@ -10,13 +10,15 @@ Establish the second Black bond and city restoration in the Orange Realm, with o
 
 ## Entry state
 
-Kaira and illi travel with the Orange Realm dignitaries after the joint Orange Arc departure. The Black Vaelith has been introduced without an earlier bond. illi continues instruction and Kaira practices White Genesis Collapse throughout the journey; dates and incidental circumstances remain OPEN.
+Day1775 Orange Realm portal entry opens Yellow after the joint caravan journey; caravan remains on the kingdom side.
 
 ## Principal conflict
 
 The Black Vaelith conditions consent on helping heal the living city’s corrupted energetic nexus. Bonding precedes their amplified restoration; precise biology, healing mechanism and journey details remain OPEN.
 
 ## Major events
+
+[Complete dated ledger](../../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [G-000–G-005](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Full D24 and departure selection](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) govern dated realization.
 
 <!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
 **Author-selected chromatic realm event · 2026-11-23:** Orange Realm: Kaira and the Black Vaelith bond under the condition that they heal the living Vaelith city. Its "heart" is a Genesis-energy nexus in an interconnected living biological network, not an anatomical organ. Their amplified topological restoration removes ELDRIS-origin recursive corruption and saves the city.
@@ -26,7 +28,7 @@ The Black Vaelith conditions consent on helping heal the living city’s corrupt
 
 ## Exit state
 
-The local living city is saved. Kaira returns toward the Violet capital with the living Black Vaelith and continues practice with illi; on the return journey, by arc end, she finalizes functional White Genesis Collapse control. This is not expert combat mastery, maximum endurance or selective incorporation mastery. The Black Sprite remains bonded; other companion logistics remain OPEN. No natural-velis or planetary stabilization is performed.
+Independent Vaelith bond then amplified local city restoration; functional collapse on return/by Yellow end. Return from P15 uses CSR to City40; further leg and return date OPEN.
 
 ## Dependencies
 
@@ -34,4 +36,4 @@ The local living city is saved. Kaira returns toward the Violet capital with the
 
 ## Status
 
-Outlined at macro level. Chapters, dialogue, calendar dates and unselected scene realization remain OPEN.
+Outlined at macro level. Selected dates through Day 1775 govern; chapters, dialogue, later unassigned dates and unselected scene realization remain OPEN.

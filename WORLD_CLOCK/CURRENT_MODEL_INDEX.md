@@ -1,3 +1,17 @@
+# Current Orange 012 and Book Red geography · checkpoint 012
+
+Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
+
+[Geography](L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](../CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
+
+[Source precedence and scoped supersessions](../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Current cumulative update 001 · 2026-11-25
 
 Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
@@ -342,12 +356,12 @@ Earlier statements remain as evidence; the new decisions govern only their state
 
 **Orange arc of Book Red · 2026-11-08.** This update concerns the second arc of Book Red, not Book Orange or a new AERA integration. [Coverage and source register](../CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md).
 
-- [OR-01 · Violet Dungeon staging settlement: geography, zoning and access](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
+- [OR-01 · City 52 Blue Dungeon B3 staging settlement: geography, zoning and access](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
 - [OR-02 · Staging economy: 1.3–1.7 locality premium, resource wealth, repair markets](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
 - [OR-03 · Civic architecture: stone, spatial locking, lighting, water, greenery, sigil flame](L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md)
 - [OR-04 · Accord Registry public halls, inn interiors, civic daily life and amenities](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md)
 - [OR-05 · Smithy architecture: standard-depth modular bays, two tiers, horizontal growth](L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
-- [OR-06 · Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+- [OR-06 · Kaira's first independent City 52 Blue Dungeon B3 staging visit: detailed commerce and logistics](../BOOKS/RED/ARCS/ARC_002/ARC.md)
 - [OR-07 · First Vael conflict at neighboring abecca/raeon shops](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md)
 - [OR-08 · First return journey: animal path, warning-color frog, moss and mineral vaen](L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md)
 - [OR-09 · Full manufacturing model: ingot → spool → flat chainmail rings, parallel sigil stations](L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_CHAINMAIL_RING_FABRICATION.md)

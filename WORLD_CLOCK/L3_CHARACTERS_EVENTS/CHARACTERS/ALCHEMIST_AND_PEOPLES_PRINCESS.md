@@ -1,3 +1,29 @@
+# Dated Book Orange training · checkpoint 012
+
+Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson. [Full dated selection](../EVENTS/ORANGE_D24_AND_PORTAL.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
+# Corrected Book Red city identities · checkpoint 012
+
+City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
+
+[Single geographic crosswalk](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Book Orange · illi teaches and accompanies Kaira
 
 Princess **illi** is established as capable of teaching White Genesis Collapse. She begins Kaira's instruction at the Violet royal palace in Orange Arc, departs with Kaira and the Orange Realm dignitaries at that arc's end, and continues instruction during Yellow Arc's outward and return journeys. [Kaira's training owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) governs functional control by the Yellow return/end and its limits. No new instructor, date, lesson schedule or personal endurance is selected.
@@ -165,7 +191,7 @@ Only the scoped decisions above supersede earlier language. Source quotations re
 - Highly exceptional native Genesis-expression prodigy, extraordinarily precise in concept and Shaping execution; trained by elite private tutors; attends advanced Blackstone Transduction/mathematics immersion during Kaira's Green Arc. Connected genealogically to historical archmaegi; names/genealogy open.
 - In Book Red she exceeds Kaira's native-Genesis mastery, though Kaira may later surpass her. No present unlimited output or full historical archmaegi rank.
 - Alchemist introduces Kaira; princess and Kaira rapidly become **inseparable best friends**, with independent lives and royal public responsibilities. Princess provides support in aristocratic settings and native Transduction learning; Alchemist provides broader social reach and mentoring.
-- Blue-ranked nobleman's son (earlier first collision in Orange at Violet dungeon settlement) is a long-running arrogant rival; princess's status may eventually temper his power over Kaira, but no specific confrontation is canonized.
+- Blue-ranked nobleman's son (earlier first collision in Book Red Orange at City 52/B3 Blue dungeon settlement) is a long-running arrogant rival; princess's status may eventually temper his power over Kaira, but no specific confrontation is canonized.
 
 ## Relationship trajectory
 

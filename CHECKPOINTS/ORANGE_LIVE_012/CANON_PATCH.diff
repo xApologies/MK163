@@ -1,0 +1,1234 @@
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/WORLD_MAP_REFERENCE.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Later-book annotated maps · separate source scopes
+ 
+ [Violet’s exact map](../../../BOOKS/VIOLET/REFERENCE_ASSETS/BOOK_VIOLET_ARC_OUTLINE_AUTHOR.jpg) and [reading notes](../../../BOOKS/VIOLET/REFERENCE_ASSETS/READING_NOTES.md) distinguish five white-X Cabal cities among eleven northern aqua markers, Kaira’s arc-colored routes, the White Arc pink route and a separate far-right pink-X allied operation.
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KAIRA_STARTING_REGION.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # White 006 · political-domain correction
+ 
+ The author places Kaira’s original Village Hub and associated Hollowmere Green dungeon in **Green Domain G3**. This changes the territorial assignment only; the original numbered regional map, northwest Hollowmere location, all delivery legs and story dates below remain unchanged. [Author decision](../../../PROVENANCE/WORKSHOP/WHITE_006/AUTHOR_DECISIONS.md) · [Kingdom map owner](WORLD_MAP_REFERENCE.md).
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md
+@@ -1,14 +1,28 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # White 006 — current political-domain scope
+ 
+ The kingdom has three political domains: Green, Blue and Violet. Orange remains a rank, district and stratum designation. Earlier four-domain language below is historical in this scope; its original record remains verbatim. Current residence distinctions and the Village Hub correction are governed by [WORLD_MAP_REFERENCE.md](WORLD_MAP_REFERENCE.md). No local city map geometry or event chronology changes.
+ 
+ ---
+ 
+-# OR-01 — Violet Dungeon staging settlement: geography, zoning and access
++# OR-01 — Blue Dungeon B3 staging settlement: geography, zoning and access
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## Identity and geometry
+ 
+-The Violet Dungeon staging settlement is a permanent, materially and economically developed mini-city serving a Violet-stratum dungeon, distinct from the larger civilian city. Its author-selected **working footprint is a square of approximately 2 miles × 2 miles = 4 square miles**. It is not a temporary tent encampment. The related large city occupies an approximately **10 mile × 10 mile** square. Their **working geographic separation is approximately five miles**, not seven miles: the user explicitly corrected a seven-mile slip caused by confusion with the Blue Arc setting. The five-mile reference endpoints and precise actual walking route are not yet mapped; traveling from Kaira's apartment inside the enormous city adds non-negligible intra-city distance. Do not replace this with exact commute time, straight-line street geometry or a fabricated satellite map.
++The Blue Dungeon B3 staging settlement is a permanent, materially and economically developed mini-city serving a Blue-ranked B3 dungeon, distinct from the larger civilian city. Its author-selected **working footprint is a square of approximately 2 miles × 2 miles = 4 square miles**. It is not a temporary tent encampment. The related large city occupies an approximately **10 mile × 10 mile** square. Their **working geographic separation is approximately five miles**, not seven miles: the user explicitly corrected a seven-mile slip caused by confusion with the Blue Arc setting. The five-mile reference endpoints and precise actual walking route are not yet mapped; traveling from Kaira's apartment inside the enormous city adds non-negligible intra-city distance. Do not replace this with exact commute time, straight-line street geometry or a fabricated satellite map.
+ 
+ The dungeon entrance occupies the northern, slightly north-offset part of the settlement, not the center or a corner. The cave/sinkhole is naturally formed, later excavated and enlarged, and has winding/spiraling descent. Prior concept illustrations exaggerate the opening; no mile-wide hole, final entrance dimensions or depth count adopted. The settlement is built within an advanced stone/sigil civilization; entrances and public streets are constructed rather than muddy wilderness tracks.
+ 
+@@ -53,7 +67,7 @@
+ 
+ ## Live Model 008 integration
+ 
+-### Separate Violet dungeon staging settlement — working arrangement
++### Separate Blue dungeon B3 staging settlement — working arrangement
+ 
+ The associated civilian city remains **10×10 miles**. Its separate dungeon staging settlement now has a **roughly 2×2-mile working footprint**, replacing 1×1 and 1.5×1.5 options in this scope. It is a permanent substantial settlement, not just tents or another name for the large city. The dungeon remains northwest at a roughly five-mile working separation; endpoints and routes remain unmeasured. No approved scaled map is supplied.
+ 
+@@ -67,7 +81,7 @@
+ 
+ Illustrative teams spend **two or three nights** assembling and provisioning, descend for **roughly two weeks**, then return to eat, sleep, repair, exchange information and resupply; a six-month private rental is another example, not every expedition's schedule. Storage rings/bracelets can help equipped groups, not every team; none is granted to Kaira before Red's ending. Hospitality and logistics are major economic activities. [The dungeon owner](../ENVIRONMENT/DUNGEONS.md) retains confinement/persistence and the working specific 17–23-mile depth, which is not route length or a travel-time formula.
+ 
+-The existing four-domain kingdom and two Violet dungeons in this royal domain remain. Placement under an unnamed prince is **tentative**, with no chosen ruler identity or regional jurisdiction. Main-city 007 lease and other existing decisions remain; 'rents open' in older location text does not reopen Kaira's established 110-eln lease. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent outreach, not a completed customer scene.
++The existing four-domain kingdom and two Blue dungeon B3s in this royal domain remain. Placement under an unnamed prince is **tentative**, with no chosen ruler identity or regional jurisdiction. Main-city 007 lease and other existing decisions remain; 'rents open' in older location text does not reopen Kaira's established 110-eln lease. [Arc 2](../../../BOOKS/RED/ARCS/ARC_002/ARC.md) owns her independent outreach, not a completed customer scene.
+ 
+ 
+ Complete source evidence: [01_DUNGEON_COMMUNITY](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/01_DUNGEON_COMMUNITY.md); [05_ALTERNATIVES_AND_PROVENANCE](../../../PROVENANCE/WORKSHOP/LIVE_MODEL_008/WORKSHOP/05_ALTERNATIVES_AND_PROVENANCE.md).
+@@ -80,7 +94,7 @@
+ 
+ ## Delta 005 current integration
+ 
+-Three principal gates per side give **12** gates: normally open, defensively closable; northern gates carry substantial dungeon traffic. The Violet dungeon is northwest, with a working separation of roughly five miles whose reference endpoints remain open. This is illustrative pending map confirmation. Its strata are R/O/Y/G/B/V. A separate staging hub provisionally 1×1 to 2×2 miles offers inns, shops, crafts, food and repairs at a proximity premium, reducing congestion while the city retains an independent civilian economy.
++Three principal gates per side give **12** gates: normally open, defensively closable; northern gates carry substantial dungeon traffic. The Blue dungeon B3 is northwest, with a working separation of roughly five miles whose reference endpoints remain open. This is illustrative pending map confirmation. Its strata are R/O/Y/G/B/V. A separate staging hub provisionally 1×1 to 2×2 miles offers inns, shops, crafts, food and repairs at a proximity premium, reducing congestion while the city retains an independent civilian economy.
+ 
+ Kaira's eventual residence is in northwestern Orange District, slightly east of the literal corner, convenient to but not directly beside an unselected northern gate. The block, entrance, gate, routes, rents and jurisdiction remain open. The historical brown wooden wall is superseded by the current stone/sigil architecture. Original source-map waterways, lakes and keyed outlines are descriptive references; the author intends an orthogonal pixel remake.
+ 
+@@ -93,7 +107,7 @@
+ ## Prior record retained in full
+ 
+ # Book Red Arcs Two/Three city
+-Author supplied top-down orthogonal zone-map and color key: 10×10-mile large city south of Kaira's starting region, attached to one of exactly TWO Violet dungeons in its royal domain. Multiple Blue/Green dungeons also exist; Blue/Violet generally large cities 10×10 miles, Green small 7×7. Kingdom has four domains ruled sovereign King/Queen (Violet), princes (Orange/Green), princess (Blue); precise jurisdiction of Kaira's new city OPEN, do not force it. Map includes residential, crafters, adventurer/alchemist guilds, commerce, shops, restaurants, groceries, entertainment, education, government, finance, guards, hospitals, emergency response, caravan stables, parks, training, industry, agriculture, gates and water. Kaira's routine apartment↔blacksmith supplier↔raeon/abecca/Genesis Card shops↔dungeon staging↔forest harvesting. Exact streets/distances of routes OPEN; do not invent map geometry or render substitutes. Earlier Village Hub Green dungeon remains separate region.
++Author supplied top-down orthogonal zone-map and color key: 10×10-mile large city south of Kaira's starting region, attached to one of exactly TWO Blue dungeon B3s in its royal domain. Multiple Blue/Green dungeons also exist; Blue/Violet generally large cities 10×10 miles, Green small 7×7. Kingdom has four domains ruled sovereign King/Queen (Violet), princes (Orange/Green), princess (Blue); precise jurisdiction of Kaira's new city OPEN, do not force it. Map includes residential, crafters, adventurer/alchemist guilds, commerce, shops, restaurants, groceries, entertainment, education, government, finance, guards, hospitals, emergency response, caravan stables, parks, training, industry, agriculture, gates and water. Kaira's routine apartment↔blacksmith supplier↔raeon/abecca/Genesis Card shops↔dungeon staging↔forest harvesting. Exact streets/distances of routes OPEN; do not invent map geometry or render substitutes. Earlier Village Hub Green dungeon remains separate region.
+ 
+ 
+ ## Delta 004 evidence availability
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/VIOLET_CITY_WORKSHOP_DELTA.md
+@@ -1,8 +1,22 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ > **Delta 005 supplied supplement — preserved source, not a competing canonical owner.** Active decisions are reconciled in [WORLD_CLOCK/L2_WORLD_CIVILIZATION/CIVILIZATION/CHROMATIC_DISTRICTS.md](../CIVILIZATION/CHROMATIC_DISTRICTS.md), [WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md](RED_VIOLET_DUNGEON_CITY.md). The complete original delivery bytes follow unchanged. Cross-domain explanations here do not override those owners or their explicit open parameters.
+ 
+-# Violet Dungeon City — new geographic decisions
++# Blue Dungeon B3 City — new geographic decisions
+ 10×10-mile square mature city. Concentric orthogonal square districts Red→Orange→Yellow→Green→Blue→Violet→White. Red/Orange/Yellow generally commoner and working households; greatest lifestyle jump Yellow→Green, then Blue affluent, Violet luxury. White civic center, limited governing noble residence. No slums by district definition: clean, maintained stone infrastructure, water, sanitation, greenery and civic services throughout. Red may have some nighttime petty crime, not a blanket stigma.
+ 
+-Three principal gates per side = 12; normally open, defensively closable. Violet dungeon NW of city ~5 miles away (distance reference point open), one of two Violet dungeons in territorial royal domain; exact jurisdiction open. Dungeon stratified R/O/Y/G/B/V. Independent 1×1 to 2×2-mile staging hub (size provisional) absorbs concentrated delver traffic, offers inns, shops, food, crafts, repairs at proximity premium. Northern gates handle significant traffic. City has full independent civilian economy.
++Three principal gates per side = 12; normally open, defensively closable. Blue dungeon B3 NW of city ~5 miles away (distance reference point open), one of two Blue dungeon B3s in territorial royal domain; exact jurisdiction open. Dungeon stratified R/O/Y/G/B/V. Independent 1×1 to 2×2-mile staging hub (size provisional) absorbs concentrated delver traffic, offers inns, shops, food, crafts, repairs at proximity premium. Northern gates handle significant traffic. City has full independent civilian economy.
+ 
+ Kaira seeks Orange District apartment in NW sector slightly east of NW corner, near but not directly at a northern gate. Exact address, gate, route and rents open. Arc One arrival at inn; Arc Two opens amid failed bargaining at first of three apartment viewings. Do not predetermine outcome of third viewing. Historical city map has waterways, lakes, outlined keyed zones, building dots; author intends remake in orthogonal pixel blocks. Brown wooden wall in old map superseded by stone/sigil architecture.
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/BLUE_CAPITAL_DUNGEON.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Blue Domain capital dungeon · depth and research sites
+ 
+ The entrance serves the Blue Domain capital and its 2 × 2 mile staging district. Depths measure vertical distance below the entrance. Mapped passage lengths can be substantially longer. The Green Domain city associated with the Violet Dungeon has its own geography.
+--- a/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md
++++ b/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/KAIRA.md
+@@ -1,3 +1,29 @@
++# Dated Book Orange training · checkpoint 012
++
++Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson. [Full dated selection](../EVENTS/ORANGE_D24_AND_PORTAL.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Book Orange training and later Genesis System planning
+ 
+ Kaira begins White Genesis Collapse instruction under illi in Book Orange's Orange Arc at the Violet royal palace. Functional control is selected on the Yellow Arc return journey/by its end, with combat expertise, personal endurance and selective incorporation mastery unassigned. Her existing Support Specialist Card role remains; active Cards cannot coexist with collapse. [The training owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) preserves the full milestones and unchanged Book Red closures.
+--- a/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md
++++ b/WORLD_CLOCK/L3_CHARACTERS_EVENTS/CHARACTERS/ALCHEMIST_AND_PEOPLES_PRINCESS.md
+@@ -1,3 +1,29 @@
++# Dated Book Orange training · checkpoint 012
++
++Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson. [Full dated selection](../EVENTS/ORANGE_D24_AND_PORTAL.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Book Orange · illi teaches and accompanies Kaira
+ 
+ Princess **illi** is established as capable of teaching White Genesis Collapse. She begins Kaira's instruction at the Violet royal palace in Orange Arc, departs with Kaira and the Orange Realm dignitaries at that arc's end, and continues instruction during Yellow Arc's outward and return journeys. [Kaira's training owner](../../L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md) governs functional control by the Yellow return/end and its limits. No new instructor, date, lesson schedule or personal endurance is selected.
+@@ -165,7 +191,7 @@
+ - Highly exceptional native Genesis-expression prodigy, extraordinarily precise in concept and Shaping execution; trained by elite private tutors; attends advanced Blackstone Transduction/mathematics immersion during Kaira's Green Arc. Connected genealogically to historical archmaegi; names/genealogy open.
+ - In Book Red she exceeds Kaira's native-Genesis mastery, though Kaira may later surpass her. No present unlimited output or full historical archmaegi rank.
+ - Alchemist introduces Kaira; princess and Kaira rapidly become **inseparable best friends**, with independent lives and royal public responsibilities. Princess provides support in aristocratic settings and native Transduction learning; Alchemist provides broader social reach and mentoring.
+-- Blue-ranked nobleman's son (earlier first collision in Orange at Violet dungeon settlement) is a long-running arrogant rival; princess's status may eventually temper his power over Kaira, but no specific confrontation is canonized.
++- Blue-ranked nobleman's son (earlier first collision in Book Red Orange at City 52/B3 Blue dungeon settlement) is a long-running arrogant rival; princess's status may eventually temper his power over Kaira, but no specific confrontation is canonized.
+ 
+ ## Relationship trajectory
+ 
+--- a/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md
++++ b/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/YELLOW_CLOSURE_AND_RELOCATION.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Late Yellow amendment · Violet aen practice, Days 202–209
+ 
+ During the caravan journey, Kaira becomes bored in her free time and practices her still-open **Violet aen ring**. She makes meaningful progress, **without a confirmed closure**. No individual practice date, Stage II or new ability is selected. All existing departure/arrival milestones remain: departure Day 202, Green capital arrival Day 209, Yellow closes on Blue capital arrival Day 211. The complete daily ledger is unchanged. [Green opening setup](../../../BOOKS/RED/ARCS/ARC_004/ARC.md) occurs after Day 211; Day 212 is only proposed.
+@@ -14,7 +28,7 @@
+ 
+ **Author map:** [AUTHOR_DOMAIN_ROUTE_MAP.jpeg](../../../PROVENANCE/WORKSHOP/YELLOW_CLOSURE_021_2026_11_11/VISUAL_REFERENCES/AUTHOR_DOMAIN_ROUTE_MAP.jpeg); purple marker in **Green Domain** marks Green capital, purple marker in **Blue Domain** marks Blue capital. Smaller dots ignored for this route; exact originating city name OPEN. Map is author-supplied conceptual geography, not precise measured road distance.
+ 
+-- Day 202 depart from unnamed Green Domain city with Alchemist, Kaira, Nyx and Black Sprite. Seven **elapsed** travel days, arrive Green capital **Day 209**; don't silently recast as Day 208 arrival. Caravan uses spatial corridors to leapfrog across large distances, ordinary travel and wilderness exposure. Corridor mechanics and stops not individually specified; do not invent a new direct capital portal or conflate caravan corridor with King's Highway.
++- Day 202 depart from City 52 in the Green Domain with Alchemist, Kaira, Nyx and Black Sprite. Seven **elapsed** travel days, arrive City 46, Green capital, **Day 209**; don't silently recast as Day 208 arrival. Caravan uses spatial corridors to leapfrog across large distances, ordinary travel and wilderness exposure. Corridor mechanics and stops not individually specified; do not invent a new direct capital portal or conflate caravan corridor with King's Highway.
+ - Travel offers slice of life: conversations with Alchemist, fellow caravaners intrigued by Kaira's unusual Black/Neon eyes, chromatic Chainmail Robe, growing striped Nyx, tiny Black Sprite; early mind-to-mind practice and modest Kaira/Sprite magic learning; small adventures remain OPEN (no mandatory combat scenes or instant mastery).
+ - Day 209 arrive **Green Domain capital**; Alchemist owns/has a residence there; stay Days 209–210, see city and prepare crossing.
+ - Day 211 use **King's Highway** direct Green→Blue capital monumental permanent gateway. Four capital complete K4 network: 3 open monumental gateways per capital, 12 endpoints, 6 bidirectional links. Not a scheduled temporary portal, no extra campus gate. Arrive **Blue Domain capital** and stay at Alchemist's upscale **Blue District** 3–4 bedroom apartment, no rent for Kaira, pending Blackstone admission and campus housing.
+--- a/BOOKS/RED/ARCS/ARC_002/ARC.md
++++ b/BOOKS/RED/ARCS/ARC_002/ARC.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Orange · scoped checkpoint 020 additions
+ 
+ Orange still ends Day 51; no Yellow event is moved into this arc. Day 14 first custom 60-card Raeon deck remains. New dated Orange attendance: **19/25/37 early elimination;49 improved advancement**. Days 31/43 are explicit absences, not missing tournaments. Later 55 is transition, not an Orange re-opening. Prior work/freight/lesson events on those dates coexist with no fixed time-of-day allocation.
+@@ -64,7 +78,7 @@
+ - Day 18: preparation, other work, ordinary leisure. No compulsory full scene.
+ - Day 19: receives or collects compatible repair rings; starts customer repairs that evening.
+ - Days 19–23 inclusive: **five-day** repair period for 11 items, varying minor through extensive. Craftsmanship and customer work take priority; no need for eleven detailed repair scenes or continuous labor. She has morning fruit from her bowl, regular abecca (sometimes twice daily), purchased lunches/dinners, limited cooking ability and equipment; reads MK173 novel, tends plants, occasionally plays raeon; Chainmail Robe remains unfinished. Exact hours, damage distribution, fees, material amounts and margin OPEN.
+-- Day 24: finished work ready. Kaira visits the **Green District city Accord Registry** to find the **city office of the same independent freight provider** she engaged at the Violet Dungeon staging settlement on Day 12. Registry supplies directions; Kaira visits provider's city office and schedules pickup. This is NOT a new freight company and the Registry does not itself transport goods.
++- Day 24: finished work ready. Kaira visits the **Green District city Accord Registry** to find the **city office of the same independent freight provider** she engaged at the Blue Dungeon B3 staging settlement on Day 12. Registry supplies directions; Kaira visits provider's city office and schedules pickup. This is NOT a new freight company and the Registry does not itself transport goods.
+ - Day 25: freight provider collects the eleven repaired items at her apartment for return to staging-settlement smithies.
+ - Day 26: Kaira makes her **second** dungeon-related staging-settlement visit (distinct from later **third** visit where she encounters Nyx). She carries her finished 23–25k-ring Offset-Lattice demonstration shirt in her backpack, starts with abecca at local café, visits the two original smithies, confirms deliveries and receives their enthusiastic approval of precision repairs. Both give new work; a **third** smithy enters a trial/working subcontract relationship. Exact new order size, receipts, invoice settlement and payment timing OPEN. She plays a couple of raeon games with her first deck: strong intuition and fast learning but not an unbeatable expert. She is increasingly recognizable through white retained Afflicted pigmentation, steel-gray eyes, scars, and repeated friendly visits; not instantly famous or universally welcomed.
+ 
+@@ -84,7 +98,7 @@
+ 
+ ---
+ 
+-# OR-06 — Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics
++# OR-06 — Kaira's first independent Blue Dungeon B3 staging visit: detailed commerce and logistics
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## State arriving at the settlement
+ 
+@@ -143,7 +157,7 @@
+ 
+ ### Resumption state — inherited, no new completed scene
+ 
+-Kaira carries the completed **mass-reduced demonstration chainmail shirt**, with the existing proprietary Offset-Lattice concept and Genesis-infused iron rings, in a **backpack with fruit for lunch**. Mass reduction is the selected enchantment scope; the full five-layer robe is **not complete**. She walks toward the Violet dungeon staging community roughly five miles northwest (working separation, not a measured route) to show workmanship and seek repairs/armorsmith income. Previous indentured repaired-mail deliveries supply familiarity; this is independent peer outreach, not first awareness of the community.
++Kaira carries the completed **mass-reduced demonstration chainmail shirt**, with the existing proprietary Offset-Lattice concept and Genesis-infused iron rings, in a **backpack with fruit for lunch**. Mass reduction is the selected enchantment scope; the full five-layer robe is **not complete**. She walks toward the Blue dungeon B3 staging community roughly five miles northwest (working separation, not a measured route) to show workmanship and seek repairs/armorsmith income. Previous indentured repaired-mail deliveries supply familiarity; this is independent peer outreach, not first awareness of the community.
+ 
+ **No first customer, named aithren, price, sale, dialogue, dungeon descent or completed expedition is added.** No Blue-stratum research mission, modular system demonstration or first prototype occurs here. Temporary Transduction Systems belong to future Cardsmith development with chronology OPEN. Existing detailed material, pricing, timing, suppliers and topology qualifications below continue to govern; the label Offset-Lattice does not solve the open physical interlayer weave.
+ 
+@@ -179,7 +193,7 @@
+ 
+ ### First independent dungeon-community outreach — scene still OPEN
+ 
+-After the existing shirt/smith/robe-experiment sequence, Kaira packs the **mass-reduced demonstration shirt in a backpack with fruit for lunch** and walks toward the Violet dungeon staging community roughly five miles northwest of the city. The possible one-pound shirt weight is unconfirmed. She carries the shirt, not a completed robe, and still has no Dimensional Ring.
++After the existing shirt/smith/robe-experiment sequence, Kaira packs the **mass-reduced demonstration shirt in a backpack with fruit for lunch** and walks toward the Blue dungeon B3 staging community roughly five miles northwest of the city. The possible one-pound shirt weight is unconfirmed. She carries the shirt, not a completed robe, and still has no Dimensional Ring.
+ 
+ She already knows aithren and support commerce through **delivering repaired mail during her indentured smithy work**; a combined five-shirt repair order is illustrative, not an invented customer ledger. This is her first exposure as an independent peer presenting her own workmanship, not her first awareness of dungeon people. Recognizing an old customer is only a possibility. **No first sale, named customer, completed encounter or dungeon descent is established.**
+ 
+@@ -224,7 +238,7 @@
+ 
+ The **eight elapsed days** of constructing the roughly **23,000–25,000-ring demonstration shirt** start with the first pickup, not with commissioning. Completion is around commission day 11, with the next smith visit around day 11/12 as approximate indexing permits. The workshop's “day nine” is relative to the shirt project, not order-day nine; exact absolute scene dates remain OPEN. She can work up to about 20 hours on an intense 31-hour day, without requiring that every day. Meals, abecca, frustration breaks and raeon continue. The old 96-hour and 100–150-hour work estimates are planning assumptions, not required totals. By the end she has practical efficiency with individual rings, not mastery of all metals or complex objects.
+ 
+-She shows the finished shirt to the smith for expert opinion, recognition and business advice. At home that night she begins robe experiments; following day she carries the **shirt**, not an unfinished or completed robe, toward the Violet dungeon aithren staging community northwest of the city. Roughly five miles remains a working cartographic estimate; route, encounters and the dungeon scene are not supplied. Existing slow early orders, repairs, harvesting, Nyx's third-return rescue and later robe endpoint remain intact.
++She shows the finished shirt to the smith for expert opinion, recognition and business advice. At home that night she begins robe experiments; following day she carries the **shirt**, not an unfinished or completed robe, toward the Blue dungeon B3 aithren staging community northwest of the city. Roughly five miles remains a working cartographic estimate; route, encounters and the dungeon scene are not supplied. Existing slow early orders, repairs, harvesting, Nyx's third-return rescue and later robe endpoint remain intact.
+ 
+ ### Raeon as an ongoing social strand
+ 
+@@ -289,7 +303,7 @@
+ #### Opening apartment sequence
+ Kaira arrives at the city after a protected caravan journey that included at least one intermediate city and a caravan transfer. She initially uses an inn, not an instant apartment. Arc Two begins in the middle of a failed negotiation with an apartment manager. The author specifically corrected 'arguing' to 'failing at haggling'. She is trying to negotiate a lower rent on the FIRST of THREE apartment viewings. We have not established a landlord name, apartment price, deposit, the exact sequence of the second and third viewings, or the decisive reason for her final choice. Do not write a scene in which the manager accuses her of lying about nobility unless the author later selects that reaction. The manager can notice her striking appearance without becoming a new antagonist.
+ 
+-The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Violet dungeon lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
++The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Blue dungeon B3 lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
+ 
+ #### Food as an independence marker
+ Kaira's smithy upbringing did not provide a normal domestic education. She has a few simple foods she can prepare, but cooking is not one of her established competencies. The author described this as somewhat embarrassing for her. She therefore keeps a bowl of inexpensive fresh fruit at home and eats that for breakfast, often an apple, banana or whatever local equivalent is available. Lunch and dinner are usually purchased at restaurants or small food establishments. This is economically plausible because the kingdom's agriculture is unusually productive: growth-field velis plus enriched soil allow multiple harvests, and a mostly vegetarian diet is affordable. A restaurant visit is not necessarily a special event. It is a routine part of her day, and it naturally moves her through streets where she encounters shopkeepers, delvers and neighbors.
+@@ -315,7 +329,7 @@
+ ## Prior record retained in full
+ 
+ # MK163-RED-ARC-002 — Independence, Nyx and First Chainmail Robe
+-Status established macro arc; chapter count OPEN. Kaira newly Awakened with ~3 years frugal living in crystals (her estimate, without income), hidden Black Crystal, mother's books/card. Travels south to mature 10×10-mile orthogonal zoned city associated with one of only TWO Violet dungeons in its royal domain. Green dungeon anchors 7×7-mile small city, Blue/Violet 10×10 large city. City map/color key supplied; no invented street coordinates or domain ruler.
++Status established macro arc; chapter count OPEN. Kaira newly Awakened with ~3 years frugal living in crystals (her estimate, without income), hidden Black Crystal, mother's books/card. Travels south to mature 10×10-mile orthogonal zoned city associated with one of only TWO Blue dungeon B3s in its royal domain. Green dungeon anchors 7×7-mile small city, Blue/Violet 10×10 large city. City map/color key supplied; no invented street coordinates or domain ruler.
+ Rents apartment, finds blacksmith selling ready chainmail rings, constructs demonstration chainmail shirt, shows dungeon staging-area delvers quality and repair pricing. One/two orders grow to three/four, pay for food, clothes and part of rent, extending savings. Regular route between home, smith/craft district, commercial area, dungeon staging and forest harvesting. Skilled since old delivery days at identifying medicinal flora/fungi/moss/vaen; earns small supplemental sales to apothecaries/alchemists. At least one early return includes flower patch harvest. Buys Metal Manipulation Genesis Card at Genesis Card shop (MK727 specifications); mother's Fireball Card already owned. Resumes Cardsmith theory from mother's books, still little hands-on manufacturing. Raeon shop/social tournaments possible every sixth day, seven placements White first (current cycle card) through Red seventh (older cycle cards), exact local schedule open. Abecca house, restaurant, artifact shops, friendships, delver culture; dungeon delvers relaxed social vs high-risk storm chasers; no universal moral stereotypes.
+ Nyx: hears of territorial giant Green-native feline pair early. Male killed by hunters before third trip; female wounded by fireball, dies in den; male patrolled/protected pregnant mate, not hunting meat. Cats crossed Green→White, manifest *living* energy-gathering flowers by The Unwritten; parents happened to make bright orange, not species rule; sunlight/Genesis collected and cats siphon without killing flowers, no meat diet; subtle local vegetation stunting. Approx third dungeon return Kaira investigates unusual moss near minor dissipating Genesis disturbance (dust devil, not necessarily domai), finds orange flower-covered cave, dead mother and ~6–7-week black cub Nyx; adopts him. Nyx proud, friendly, mischievous, independent, becomes her shadow and family; grows flowers in apartment sleeping corner; rapid growth, later enormous mount and pseudo-tank. He is NOT Black Sprite.
+ Parallel developments: mail repair, resource gathering, Cardsmith study, Nyx growth, community routines, robe design. First robe hooded form-fitting gray-black approximately five mail layers, lightweight enchanted silk-like but structured, no flared hem, no professional maege color claim. **ARC TWO ENDS WITH COMPLETION AND PUBLIC REVEAL OF FIRST ROBE.** No Black Crystal Binding in Arc2.
+--- a/BOOKS/RED/ARCS/ARC_003/ARC.md
++++ b/BOOKS/RED/ARCS/ARC_003/ARC.md
+@@ -1,3 +1,17 @@
++# Corrected Book Red city identities · checkpoint 012
++
++City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
++
++[Single geographic crosswalk](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Yellow chronology amendment · Days 166–167 only
+ 
+ ## Existing chronology preserved
+@@ -32,7 +46,7 @@
+ - Day 188 Alchemist organizes her own affairs for transition.
+ - Day 189 Kaira opens kingdom-wide bank account and arranges Accord Registry production management at staging branch. Her existing local handwritten-ledger bank remains a separate tier, not erased.
+ - Day 190 Registry searches for two additional experienced smiths; Day 191 Kaira interviews/selects them; Day 192 prep; Days 193–201 training and departure arrangements. Four total smiths each three original robes/month; Registry manages for 130 eln/month; see dedicated file.
+-- Day 202 departure with Alchemist, Nyx, Sprite by caravan from unnamed Green Domain city. Days 202–209 span seven elapsed days, with arrival on Day 209 in Green Domain capital. Travel uses existing spatial corridors / leapfrogging, with slice of life, small adventures, early Kaira/Sprite magical practice; individual events OPEN.
++- Day 202 departure with Alchemist, Nyx, Sprite by caravan from City 52 in the Green Domain. Days 202–209 span seven elapsed days, with arrival on Day 209 in City 46, Green Domain capital. Travel uses existing spatial corridors / leapfrogging, with slice of life, small adventures, early Kaira/Sprite magical practice; individual events OPEN.
+ - Days 209–210 Green capital stay at Alchemist's residence; Day 211 King's Highway direct Green→Blue capital crossing and arrival at Alchemist's upscale Blue District apartment. **Yellow ends on arrival**, not enrollment.
+ - Kaira brings modest personal possessions, cards/books, original chromatic robe, living vaen, remaining bank-held Genesis crystals physically withdrawn; no invented new Green crystal stock. Alchemist arranges sale/disposal of bulky furniture; Kaira retains business ownership and national banking access.
+ - Named original city, both capitals' names, Alchemist's personal name, caravan incidents, legal admission date and precise chronology of property sale remain OPEN.
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md
+@@ -1,3 +1,17 @@
++# Three-city chainmail enterprise · checkpoint 012
++
++The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
++
++[City identities](../GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Book Orange dated production](../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Book Orange · fourth chainmail assembly operation
+ 
+ After Book Red, Kaira relocates her primary residence to the Violet capital and rents a small **Yellow District assembly shop with eight trained blacksmiths**. The three earlier operations remain: 4 + 8 + 6 = 18 assemblers, with conditional 54 robes per accounting month. The added eight yield four operations and 26 assemblers; at the inherited three-robes-per-smith rate, the new shop has conditional capacity 24 and the combined capacity is **78 per accounting month**. This is capacity, not guaranteed sales, accepted deliveries, actual revenue or net profit. No new rent, wages, sales, costs or net income is fixed. Existing kingdom-wide central banking, enterprise and Accord Registry wholesale/retail logistics continue. The old 200-eln lease belongs to the six-assembler Blue-capital shop, not this new lease.
+@@ -163,13 +177,13 @@
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## Relative economic levels
+ 
+-Let **C** be the price charged for a *comparable* item/service/housing class in the nearby large city. The **large city baseline = 1.0 × C**. In the Violet Dungeon staging settlement, **normal comparable pricing is 1.3–1.7 × C**, a **30–70% location premium**. The user expressly prefers that this is a **broad defining economic rule**, not an inn-only surcharge or casual suggestion: food, lodging, residences, ordinary consumer purchases, repair services, shop/workshop rent, other local professional services and their local operating expenses participate in the premium, with actual prices determined by property, quality, scarcity, competition and other trade circumstances. This is a comparative rule rather than a mandated exact price for every SKU: do not mechanically overwrite historic equipment benchmarks or create impossible identical prices for noncomparable goods.
++Let **C** be the price charged for a *comparable* item/service/housing class in the nearby large city. The **large city baseline = 1.0 × C**. In the City 52 Blue Dungeon B3 staging settlement, **normal comparable pricing is 1.3–1.7 × C**, a **30–70% location premium**. The user expressly prefers that this is a **broad defining economic rule**, not an inn-only surcharge or casual suggestion: food, lodging, residences, ordinary consumer purchases, repair services, shop/workshop rent, other local professional services and their local operating expenses participate in the premium, with actual prices determined by property, quality, scarcity, competition and other trade circumstances. This is a comparative rule rather than a mandated exact price for every SKU: do not mechanically overwrite historic equipment benchmarks or create impossible identical prices for noncomparable goods.
+ 
+ Why: the staging settlement is immediately convenient to the dungeon. Travelers could stay in the main city at ordinary rates, but commuting must traverse the city—**10 miles × 10 miles total footprint**—and its gate before continuing the roughly **five miles** to the staging area. An illustrative expedition participant might travel ten miles in a day just to deliver damaged armor or buy supplies, depending on city position and streets. These are examples, not locked route distances. Persistent vaelum/research parties with frequent dungeon work pay a premium to save time, maintain immediate readiness and avoid unnecessary trips.
+ 
+ ## Dungeon-generated purchasing power and consumption
+ 
+-The Violet Dungeon naturally replenishes valuable commodities through its Genesis processes. Expeditions bring out **Genesis Dust from defeated ELDRIS**, **Genesis crystals**, naturally occurring **vaen** with relevant identities, and other ordinary or Genesis-influenced flora and materials. Materials enter local markets, professional contracts, commissioned manufacturing, alchemy and wider trade. Some groups sell in the staging settlement and use their revenues immediately for inns, restaurants, tools, repairs, provisioning, supplies and entertainment before descending again. Others transport materials into the city and beyond. The settlement can host wealth and high turnover without implying every resident or aithren is affluent.
++The City 52 Blue Dungeon B3 naturally replenishes valuable commodities through its Genesis processes. Expeditions bring out **Genesis Dust from defeated ELDRIS**, **Genesis crystals**, naturally occurring **vaen** with relevant identities, and other ordinary or Genesis-influenced flora and materials. Materials enter local markets, professional contracts, commissioned manufacturing, alchemy and wider trade. Some groups sell in the staging settlement and use their revenues immediately for inns, restaurants, tools, repairs, provisioning, supplies and entertainment before descending again. Others transport materials into the city and beyond. The settlement can host wealth and high turnover without implying every resident or aithren is affluent.
+ 
+ There are legitimate alternatives: rent lower-cost city housing or larger premium staging residences; commute or stay local; purchase same-day local repair vs send work to a cheaper city contractor. Frequent expedition travel explains why a premium is economically sustainable. It is **not** a rule that each local business earns guaranteed profit or that skilled workers receive matching 1.3–1.7 wage raises.
+ 
+--- a/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md
++++ b/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/CHAINMAIL_ROBE_AND_AGE_OF_KNOWLEDGE.md
+@@ -1,3 +1,17 @@
++# Three-city chainmail enterprise · checkpoint 012
++
++The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
++
++[City identities](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Book Orange dated production](../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Day 865 · the robe as gala attire
+ 
+ Aiselle wears her original robe, illi wears the five-layer original made personally for her, and Kaira wears her hooded five-layer dark-iron original. Its irregular intrinsic Red-through-Violet streaks arose in the involuntary Day 171 event. Gala guests admire the designer and wear lower-layer or five-layer imitations. Conventional colored finishes, splashes, speckles, stripes and display-only pieces in glass cases extend its influence into fine attire. Visual imitation establishes no technique for reproducing the material event, protective improvement, formal guild or sales figure. The midsummer-style gala hosts humans, VAELITH, sprites, dragons, primordials and at least one unicorn. Leviathans are more typical of academic gatherings. Season and astronomical correspondence remain OPEN.
+@@ -131,7 +145,7 @@
+ Kaira completes her first **physical five-layer Chainmail Robe**, after beginning experiments Day 11 and intermittently working through business, lessons and Nyx care. Approx. 39 elapsed days between Day 11 and Day 50. Garment: opaque gray-black, form-fitting/athletic, hooded, controlled drape, no flowing flared hem; front, back and side slits with magnetic ring closures; supplier-made Genesis-infused iron elastic self-closing rings with selected mass reduction. Approx. 250,000 robe rings is a **planning estimate**, not audited final count. Do not substitute later native-energy Genesis Robe. Author-approved robe image in existing repository is an imperfect silhouette reference, not a validated weave proof.
+ 
+ ### Day 51 — Public debut and arc ending
+-Kaira wears the completed robe and her White Craftsmanship badge. Nyx accompanies her **in her backpack** with a securely carried **Green Genesis crystal in a separate pouch**. The crystal provides portable energy nourishment: she can take Nyx out, hold him and let him siphon energy as needed; a crystal is valuable and is depleted gradually, not instantly. Nyx's backpack becomes a familiar mobile resting place. At first stop, the city master mailwright friend on Yellow Blacksmith Row sees the finished robe, recognizes her technical skill, and meets the young Vaeryn; he may be surprised at her raising a potentially huge territorial species. Second stop, her familiar abecca shop and barista friend: Kaira displays robe and introduces Nyx; he may sit in lap/on a permitted chair, play with a small ball or feather wand, or nap. Third stop, Violet Dungeon staging settlement: she follows up with the **three smithies** on returned customer repairs and wears the robe in public; professional smiths can appreciate its complex weave, workmanship, fitted drape, and precision. Shipment picked up Day 49 may arrive approximately Day 51; verify receipt before writing customer approval. No dungeon descent, Black Sprite bond or Dimensional Ring. The robe and cub both attract attention; no instant celebrity or blanket public acceptance.
++Kaira wears the completed robe and her White Craftsmanship badge. Nyx accompanies her **in her backpack** with a securely carried **Green Genesis crystal in a separate pouch**. The crystal provides portable energy nourishment: she can take Nyx out, hold him and let him siphon energy as needed; a crystal is valuable and is depleted gradually, not instantly. Nyx's backpack becomes a familiar mobile resting place. At first stop, the city master mailwright friend on Yellow Blacksmith Row sees the finished robe, recognizes her technical skill, and meets the young Vaeryn; he may be surprised at her raising a potentially huge territorial species. Second stop, her familiar abecca shop and barista friend: Kaira displays robe and introduces Nyx; he may sit in lap/on a permitted chair, play with a small ball or feather wand, or nap. Third stop, City 52 Blue Dungeon B3 staging settlement: she follows up with the **three smithies** on returned customer repairs and wears the robe in public; professional smiths can appreciate its complex weave, workmanship, fitted drape, and precision. Shipment picked up Day 49 may arrive approximately Day 51; verify receipt before writing customer approval. No dungeon descent, Black Sprite bond or Dimensional Ring. The robe and cub both attract attention; no instant celebrity or blanket public acceptance.
+ 
+ This selects narrative completion, not solved engineering. [Materials and unresolved topology](../../L2_WORLD_CIVILIZATION/TECHNOLOGY/ARMOR_MATERIALS_AND_ENHANCEMENT.md) owns the technical boundary. The small maker’s signature and its unselected placement remain governed by the earlier Book Red decision below. The distinct native-energy Genesis Robe remains in Violet. **Commission Day 0 is not the historical Day Zero of the Age of Knowledge**: that later retrospective date/scene remains OPEN. Social/cultural influence grows in Yellow; no instant kingdom-wide phenomenon or blanket acceptance. [Day ledger](../../../CONTINUITY/ORANGE_RUNNING_DAY_LEDGER.md).
+ 
+--- a/CONTINUITY/RED_RUNNING_DAY_LEDGER.md
++++ b/CONTINUITY/RED_RUNNING_DAY_LEDGER.md
+@@ -1,3 +1,15 @@
++# Book Red scoped geography and production repair · checkpoint 012
++
++All Days 0–1637 remain. Only original-city rank/IDs and the author-selected Days 787–859 workforce descriptions change. Calendar columns remain unchanged. [Corrected geography](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Book Orange continuation through 1775](BOOK_ORANGE_RUNNING_DAY_LEDGER.md)
++
++[Source precedence and scoped supersessions](../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Book Red outline complete through Day 1637
+ 
+ White 006 extends the single running table through the royal awards ceremony. Every prior Day 0–1346 table row is unchanged. See the [full White daily outline](../BOOKS/RED/ARCS/ARC_007/WHITE_DAILY_LEDGER.md) for inherited details, proposals and provisional clock assumptions. Earlier frontier headings below are historical.
+@@ -169,7 +181,7 @@
+ | 9 | Aelora | 14 | 14 | Aiden | Approximate third ring batch |
+ | 10 | Aelora | 15 | 14 | Aiveth | Unspecified daily activity / slice of life (not fixed) |
+ | 11 | Aelora | 16 | 14 | Ailor | Final ring batch; shirt completed; first robe experiments |
+-| 12 | Aelora | 17 | 14 | Aithen | First staging visit; Registry inquiry; smithy outreach |
++| 12 | Aelora | 17 | 14 | Aithen | First staging visit; Registry inquiry; smithy outreach Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 13 | Aelora | 18 | 14 | Aiven | Sells moss and two mineral vaen |
+ | 14 | Aelora | 19 | 14 | Ailar | First 60-card Raeon deck; buys The Geometry of Existence |
+ | 15 | Aelora | 20 | 15 | Aiden | Tutor inquiry; plants purchased |
+@@ -183,7 +195,7 @@
+ | 23 | Aelora | 28 | 16 | Ailor | First repair cycle ends |
+ | 24 | Aelora | 29 | 16 | Aithen | Schedules freight |
+ | 25 | Aelora | 30 | 16 | Aiven | First repaired batch collected; CONFIRMED: Kaira attends local Raeon tournament at card shop; Raeon tournament: attends, eliminated early |
+-| 26 | Aelora | 31 | 16 | Ailar | White Chainmail Armorsmith certification; second staging visit |
++| 26 | Aelora | 31 | 16 | Ailar | White Chainmail Armorsmith certification; second staging visit Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 27 | Aevrin | 1 | 17 | Aiden | Aen lesson 2; mailwright celebration |
+ | 28 | Aevrin | 2 | 17 | Aiveth | Second repair shipment; cycle begins |
+ | 29 | Aevrin | 3 | 17 | Ailor | Unspecified daily activity / slice of life (not fixed) |
+@@ -196,7 +208,7 @@
+ | 36 | Aevrin | 10 | 18 | Aithen | Repair quality check |
+ | 37 | Aevrin | 11 | 18 | Aiven | Freight pickup; CONFIRMED: Kaira attends local Raeon tournament at card shop; Raeon tournament: attends, eliminated early |
+ | 38 | Aevrin | 12 | 18 | Ailar | Aen lesson 4 |
+-| 39 | Aevrin | 13 | 19 | Aiden | Third staging visit; rescues Nyx |
++| 39 | Aevrin | 13 | 19 | Aiden | Third staging visit; rescues Nyx Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 40 | Aevrin | 14 | 19 | Aiveth | Unspecified daily activity / slice of life (not fixed) |
+ | 41 | Aevrin | 15 | 19 | Ailor | Third repair shipment; cycle begins |
+ | 42 | Aevrin | 16 | 19 | Aithen | Realm-fauna specialist consultation; CONFIRMED: withdraws first of three banked Green Genesis crystals for Nyx (two remain at bank); Realm-fauna specialist; first of three banked Green Genesis crystals withdrawn (2 remain) |
+@@ -208,7 +220,7 @@
+ | 48 | Aevrin | 22 | 20 | Aithen | Third repair cycle completed |
+ | 49 | Aevrin | 23 | 20 | Aiven | Repairs collected; CONFIRMED: Kaira attends local Raeon tournament at card shop; Third repair shipment collected; Raeon tournament: advances somewhat further |
+ | 50 | Aevrin | 24 | 20 | Ailar | Original five-layer robe completed |
+-| 51 | Aevrin | 25 | 21 | Aiden | Fourth staging visit; public robe debut; next repair shipment scheduled |
++| 51 | Aevrin | 25 | 21 | Aiden | Fourth staging visit; public robe debut; next repair shipment scheduled Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 52 | Aevrin | 26 | 21 | Aiveth | Unspecified daily activity / slice of life (not fixed) |
+ | 53 | Aevrin | 27 | 21 | Ailor | Repair shipment arrives; ongoing work |
+ | 54 | Aevrin | 28 | 21 | Aithen | Unspecified daily activity / slice of life (not fixed) |
+@@ -346,11 +358,11 @@
+ | 186 | Aerion | 31 | — | Aithen | Alchemist observes Kaira robe production; friendship, shared meals, conversations, personal history (specific day assignments OPEN) |
+ | 187 | Aerion | 32 | — | Aiven | Eighth robe-production day; commissioned robe completed; Alchemist offers Blackstone Cardsmith sponsorship |
+ | 188 | Aeveth | 1 | — | Ailar | Alchemist organizes her own affairs for transition |
+-| 189 | Aeveth | 2 | — | Aiden | Kaira opens kingdom-wide bank account; staging Accord Registry business-management handoff arranged |
++| 189 | Aeveth | 2 | — | Aiden | Kaira opens kingdom-wide bank account; staging Accord Registry business-management handoff arranged Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 190 | Aeveth | 3 | — | Aiveth | Accord Registry searches for two additional experienced smiths |
+ | 191 | Aeveth | 4 | — | Ailor | Kaira interviews and selects two new smiths (four total) |
+ | 192 | Aeveth | 5 | — | Aithen | Preparations for training and expanded business operation |
+-| 193 | Aeveth | 6 | — | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
++| 193 | Aeveth | 6 | — | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
+ | 194 | Aeveth | 7 | — | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+ | 195 | Aeveth | 8 | — | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+ | 196 | Aeveth | 9 | — | Aiveth | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+@@ -358,17 +370,17 @@
+ | 198 | Aeveth | 11 | — | Aithen | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+ | 199 | Aeveth | 12 | — | Aiven | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+ | 200 | Aeveth | 13 | — | Ailar | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+-| 201 | Aeveth | 14 | — | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) |
+-| 202 | Aeveth | 15 | — | Aiveth | Kaira, Alchemist, Nyx and Black Sprite depart by Green Domain caravan; spatial corridors and slice of life |
++| 201 | Aeveth | 14 | — | Aiden | Training two new smiths, coordinating Registry operations, sale/packing of possessions and departure preparations (parallel interval; no mandatory scene each day) Geography: City 52, Green Domain; original staging dungeon B3/Blue. |
++| 202 | Aeveth | 15 | — | Aiveth | Kaira, Alchemist, Nyx and Black Sprite depart by Green Domain caravan; spatial corridors and slice of life Departure city: City 52. |
+ | 203 | Aeveth | 16 | — | Ailor | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+ | 204 | Aeveth | 17 | — | Aithen | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+ | 205 | Aeveth | 18 | — | Aiven | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+ | 206 | Aeveth | 19 | — | Ailar | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+ | 207 | Aeveth | 20 | — | Aiden | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+ | 208 | Aeveth | 21 | — | Aiveth | Caravan through Green Domain using spatial corridors; Alchemist friendship, Nyx/Sprite and small adventures (details OPEN) |
+-| 209 | Aeveth | 22 | — | Ailor | Arrival at Green Domain capital after seven elapsed days; Alchemist residence; first capital stay day |
+-| 210 | Aeveth | 23 | — | Aithen | Second Green capital stay day; city and King’s Highway preparations |
+-| 211 | Aeveth | 24 | — | Aiven | King’s Highway direct crossing Green→Blue capital; arrive Alchemist Blue District apartment; YELLOW ARC ENDS |
++| 209 | Aeveth | 22 | — | Ailor | Arrival at Green Domain capital after seven elapsed days; Alchemist residence; first capital stay day Arrival: City 46, Green capital/V2; earlier route contradiction resolved by checkpoint 012. |
++| 210 | Aeveth | 23 | — | Aithen | Second Green capital stay day; city and King’s Highway preparations City 46 stay. |
++| 211 | Aeveth | 24 | — | Aiven | King’s Highway direct crossing Green→Blue capital; arrive Alchemist Blue District apartment; YELLOW ARC ENDS Arrival: City 40, Blue capital/Blackstone. |
+ | 212 | Aeveth | 25 | — | Ailar | Headmaster meeting at Blackstone; Alchemist sponsors Kaira's upcoming Cardsmithing enrollment, brings one rare vintage; they use a hired pulled rickshaw to travel between Blackstone and her residence. Semester has NOT begun. |
+ | 213 | Aeveth | 26 | — | Aiden | Kaira and Alchemist spend time together and explore the capital; precise itinerary open. |
+ | 214 | Aeveth | 27 | — | Aiveth | Continued capital exploration and time together; precise itinerary open. |
+@@ -944,76 +956,76 @@
+ | 784 | Aelis | 19 | — | Aiveth | [Semester V, academic day 4](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_784.md) |
+ | 785 | Aelis | 20 | — | Ailor | [Semester V, academic day 5](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_785.md) Cardsmithing Laboratory II, Native Genesis Laboratory I and Biology Lab III finals. |
+ | 786 | Aelis | 21 | — | Aithen | [Semester V, academic day 6](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/INSTITUTIONS/BLACKSTONE_EDUCATION/SEMESTER_V_LIVE_MODEL/WEEK_16/DAY_786.md) Graduation 11:00–13:00 closes the Green Arc. Symposium, selected championship games and feast follow on the campus calendar. |
+-| 787 | Aelis | 22 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 788 | Aelis | 23 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 789 | Aelis | 24 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 790 | Aelis | 25 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 791 | Aelis | 26 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 792 | Aelis | 27 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 793 | Aelis | 28 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 794 | Aelis | 29 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 795 | Aelis | 30 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 796 | Aelis | 31 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 797 | Aevor | 1 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 798 | Aevor | 2 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 799 | Aevor | 3 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 800 | Aevor | 4 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 801 | Aevor | 5 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 802 | Aevor | 6 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 803 | Aevor | 7 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 804 | Aevor | 8 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 805 | Aevor | 9 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 806 | Aevor | 10 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 807 | Aevor | 11 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 808 | Aevor | 12 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 809 | Aevor | 13 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 810 | Aevor | 14 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 811 | Aevor | 15 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 812 | Aevor | 16 | — | Ailar | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 813 | Aevor | 17 | — | Aiden | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 814 | Aevor | 18 | — | Aiveth | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 815 | Aevor | 19 | — | Ailor | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 816 | Aevor | 20 | — | Aithen | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
+-| 817 | Aevor | 21 | — | Aiven | Staying at Aiselle’s Blue District residence. Leisure, apartment search and the eight-smith capital expansion span this interval. Individual appointments OPEN. |
++| 787 | Aelis | 22 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 788 | Aelis | 23 | — | Ailar | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 789 | Aelis | 24 | — | Aiden | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 790 | Aelis | 25 | — | Aiveth | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 791 | Aelis | 26 | — | Ailor | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 792 | Aelis | 27 | — | Aithen | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 793 | Aelis | 28 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 794 | Aelis | 29 | — | Ailar | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 795 | Aelis | 30 | — | Aiden | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 796 | Aelis | 31 | — | Aiveth | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 797 | Aevor | 1 | — | Ailor | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 798 | Aevor | 2 | — | Aithen | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 799 | Aevor | 3 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 800 | Aevor | 4 | — | Ailar | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 801 | Aevor | 5 | — | Aiden | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 802 | Aevor | 6 | — | Aiveth | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 803 | Aevor | 7 | — | Ailor | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 804 | Aevor | 8 | — | Aithen | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 805 | Aevor | 9 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 806 | Aevor | 10 | — | Ailar | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 807 | Aevor | 11 | — | Aiden | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 808 | Aevor | 12 | — | Aiveth | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 809 | Aevor | 13 | — | Ailor | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 810 | Aevor | 14 | — | Aithen | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 811 | Aevor | 15 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 812 | Aevor | 16 | — | Ailar | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 813 | Aevor | 17 | — | Aiden | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 814 | Aevor | 18 | — | Aiveth | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 815 | Aevor | 19 | — | Ailor | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 816 | Aevor | 20 | — | Aithen | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
++| 817 | Aevor | 21 | — | Aiven | Staying at Aiselle’s Blue District residence following Blackstone graduation. Spending time with Aiselle, enjoying leisure, and searching for an apartment. Individual appointments OPEN. |
+ | 818 | Aevor | 22 | — | Ailar | Kaira moves into her own rented Green District apartment in the Blue Domain capital. Furnishings, breakfast fruit and living vaen. |
+ | 819 | Aevor | 23 | — | Aiden | Explores neighborhood dining, raeon, an operational Genesis Card shop and an abecca shop. |
+-| 820 | Aevor | 24 | — | Aiveth | Commercial visit to the Crown Accord Registry at the capital’s Blue Dungeon staging area. Proposes a six-smith wholesale partnership. |
++| 820 | Aevor | 24 | — | Aiveth | Commercial visit to the Crown Accord Registry at the capital’s Blue Dungeon staging area. Proposes a eight-smith wholesale partnership. |
+ | 821 | Aevor | 25 | — | Ailor | Commissions three independent ring-producing smith workshops. |
+ | 822 | Aevor | 26 | — | Aithen | Specific activity OPEN. |
+ | 823 | Aevor | 27 | — | Aiven | Specific activity OPEN. |
+ | 824 | Aevor | 28 | — | Ailar | Specific activity OPEN. |
+-| 825 | Aevor | 29 | — | Aiden | Selects the Yellow District six-table assembly and storage shop at 200 eln/month. Finished rings arrive ready for assembly. |
++| 825 | Aevor | 29 | — | Aiden | Selects the Yellow District eight-table assembly and storage shop at 200 eln/month. Finished rings arrive ready for assembly. |
+ | 826 | Aevor | 30 | — | Aiveth | Furnishes and prepares the assembly shop. |
+-| 827 | Aevor | 31 | — | Ailor | Continues furnishing the shop and hires six experienced smiths through Registry introductions. |
++| 827 | Aevor | 31 | — | Ailor | Continues furnishing the shop and hires eight experienced smiths through Registry introductions. |
+ | 828 | Aevor | 32 | — | Aithen | Ring inventory arrives. Eighteen days of supervised assembly begin. |
+-| 829 | Aelith | 1 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 830 | Aelith | 2 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 831 | Aelith | 3 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 832 | Aelith | 4 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 833 | Aelith | 5 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 834 | Aelith | 6 | — | Aithen | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 835 | Aelith | 7 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 836 | Aelith | 8 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 837 | Aelith | 9 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 838 | Aelith | 10 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 839 | Aelith | 11 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 840 | Aelith | 12 | — | Aithen | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 841 | Aelith | 13 | — | Aiven | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 842 | Aelith | 14 | — | Ailar | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 843 | Aelith | 15 | — | Aiden | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 844 | Aelith | 16 | — | Aiveth | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 845 | Aelith | 17 | — | Ailor | Supervised robe assembly in the six-smith Yellow District workshop. Individual training details OPEN. |
+-| 846 | Aelith | 18 | — | Aithen | Six trainee robes and Kaira’s demonstration robe complete, subject to acceptance. Kaira steps back from regular commercial assembly. |
+-| 847 | Aelith | 19 | — | Aiven | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 848 | Aelith | 20 | — | Ailar | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 849 | Aelith | 21 | — | Aiden | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 850 | Aelith | 22 | — | Aiveth | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 851 | Aelith | 23 | — | Ailor | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 852 | Aelith | 24 | — | Aithen | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 853 | Aelith | 25 | — | Aiven | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 854 | Aelith | 26 | — | Ailar | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 855 | Aelith | 27 | — | Aiden | Between the seven training robes and the first subsequent production batch. Individual activity OPEN. |
+-| 856 | Aelith | 28 | — | Aiveth | First subsequent six-robe production batch, subject to inspection. |
++| 829 | Aelith | 1 | — | Aiven | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 830 | Aelith | 2 | — | Ailar | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 831 | Aelith | 3 | — | Aiden | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 832 | Aelith | 4 | — | Aiveth | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 833 | Aelith | 5 | — | Ailor | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 834 | Aelith | 6 | — | Aithen | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 835 | Aelith | 7 | — | Aiven | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 836 | Aelith | 8 | — | Ailar | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 837 | Aelith | 9 | — | Aiden | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 838 | Aelith | 10 | — | Aiveth | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 839 | Aelith | 11 | — | Ailor | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 840 | Aelith | 12 | — | Aithen | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 841 | Aelith | 13 | — | Aiven | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 842 | Aelith | 14 | — | Ailar | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 843 | Aelith | 15 | — | Aiden | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 844 | Aelith | 16 | — | Aiveth | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 845 | Aelith | 17 | — | Ailor | Supervised robe assembly in the eight-smith Yellow District workshop. Individual training details OPEN. |
++| 846 | Aelith | 18 | — | Aithen | Eight robes crafted by the blacksmiths and one robe crafted by Kaira complete (nine robes total), subject to acceptance. Kaira steps back from regular commercial assembly. |
++| 847 | Aelith | 19 | — | Aiven | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 848 | Aelith | 20 | — | Ailar | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 849 | Aelith | 21 | — | Aiden | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 850 | Aelith | 22 | — | Aiveth | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 851 | Aelith | 23 | — | Ailor | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 852 | Aelith | 24 | — | Aithen | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 853 | Aelith | 25 | — | Aiven | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 854 | Aelith | 26 | — | Ailar | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 855 | Aelith | 27 | — | Aiden | Between the nine completed robes and the first subsequent production batch. Individual activity OPEN. |
++| 856 | Aelith | 28 | — | Aiveth | First subsequent eight-robe production batch, subject to inspection. |
+ | 857 | Aelith | 29 | — | Ailor | Schedules delivery to the staging-area Registry. |
+ | 858 | Aelith | 30 | — | Aithen | Between scheduling and receipt. Specific activity OPEN. |
+ | 859 | Aelith | 31 | — | Aiven | Shipment arrives. Kaira visits the Registry to verify arrival. Quantity OPEN. The enterprise opening closes and professional Cardsmith exploration begins. |
+--- a/BOOKS/RED/ARCS/ARC_005/ARC.md
++++ b/BOOKS/RED/ARCS/ARC_005/ARC.md
+@@ -1,3 +1,15 @@
++# City 40 sole eight-smith operation · checkpoint 012
++
++The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
++
++[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Blue · Independent Support Specialist and field Cardsmith
+ 
+ **ID:** MK163-RED-ARC-005 · **Book:** Red · **Status:** outline complete through Day 1080. Chapters and scene realization remain OPEN.
+@@ -14,8 +26,8 @@
+ 
+ | Days | Selected beats |
+ |---|---|
+-| 787–819 | Aiselle hosts Kaira for 31 days while she establishes the separate eight-smith operation and looks for a home. Move-in is Day 818. Day 819 establishes the neighborhood shops and abecca routine. |
+-| 820–859 | A commercial Registry proposal, three ring suppliers, and a distinct six-smith Yellow District shop lead to training and wholesale production. Kaira verifies arrival on Day 859. Delivery quantity remains OPEN. |
++| 787–819 | Aiselle hosts Kaira for 31 days while enjoying leisure and looking for a home, without an eight-smith expansion. Move-in is Day 818. Day 819 establishes the neighborhood shops and abecca routine. |
++| 820–859 | A commercial Registry proposal, three ring suppliers, and the single eight-smith City 40 Yellow District shop lead to training and wholesale production. Kaira verifies arrival on Day 859. Delivery quantity remains OPEN. |
+ | 860–877 | Kaira explores Cardsmith jobs. Day 865 is the gala, followed by raeon placements Green/fourth on 871 and Violet/second on 877. Day 876 is the staging-area market check. |
+ | 878 | illi brings Kaira to the palace Master Cardsmith. Research employment is declined for lack of specialized experience. illi encourages her to build independently. |
+ | 879–889 | Notebook, sigils, topology, Transduction and mathematical designs at the abecca shop, with Nyx and the independent Black Sprite nearby. No commission. |
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/REALMS/GREEN_SPRITES.md
+@@ -1,3 +1,15 @@
++# Green Realm communities and ecology · checkpoint 012
++
++[Complete new community/world record](GREEN_ECOLOGY/GREEN_REALM_WORLD.md) preserves voluntary collective minds, energy sustenance, Green native glow versus multichromatic displays, living-tree communities and their knowledge limits. [G-000–G-005](../../L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) owns the homecoming/storm outline; Green ELDRIS contact-intrusion is pending AERA reconciliation, not a universal law.
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Black Sprite homecoming and later cooperative healing · 2026-11-23
+ 
+ Book Orange Red’s existing Green Realm visit is a community homecoming for the **already-bonded** Black Sprite. Kaira, the Sprite and illi travel together; illi’s Crown liaison role and ruling-body interaction remain. The Sprite stays bonded and returns with Kaira: no separation, abandonment, transfer or new bond. Community identity and detailed interactions remain OPEN.
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/VAERYN.md
+@@ -1,3 +1,15 @@
++# Vaeryn identity retained · checkpoint 012
++
++The author explicitly reconfirmed **Vaeryn** during this integration. Incoming NAME OPEN wording does not revoke this protected species name. Nyx remains male, distinct from medium-sized Veshar. [Full fauna additions and visual boundaries](../REALMS/GREEN_ECOLOGY/FAUNA_REGISTER.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Vaeryn juvenile nutrition · Nyx observation
+ 
+ The new [Nyx care record](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md) fixes his tiny vivid orange almost-luminous flowers, instinctive and less effective than adult flower sustenance, and Green Genesis crystal nourishment. These are separate sources; juvenile flower color is not adult stripe color. This individual record does not establish universal juvenile flower color, all-flower vaen status, precise conversion, crystal grade/rate/lifespan, or stripe onset. The two original approved visual references and all prior species/parent-fate limits remain unchanged.
+@@ -26,6 +38,6 @@
+ **Nyx:** Male, about **seven weeks old** at Day 39 discovery; small all-black cub, **no visible adult dermal striping yet**. He will later develop the male Green/Blue/Violet range. Do not prematurely depict him as glowing blue as an infant.
+ 
+ ## Habitat, territory and sustenance
+-Two adult Vaeryn (male and female, Nyx's parents) crossed from Green Realm into White Realm and established a territorial range in the wilds between the large city and the Violet Dungeon staging settlement. They are territorial and protective when intruded upon, but not wantonly aggressive toward the settlement or passing people. They **manifest large patches of multicolored flowers** (red, orange, yellow, green, blue, violet possible) as territorial expression and as a **Genesis-field sustenance mechanism**; they are **not carnivorous hunters living on animal prey** in the selected model. Exact biological energy conversion, whether flowers are individually Stage 2 vaen, and taxonomic mechanics OPEN. Do not assume all manifested flowers are vaen.
++Two adult Vaeryn (male and female, Nyx's parents) crossed from Green Realm into White Realm and established a territorial range in the wilds between the large city and the City 52 Blue Dungeon B3 staging settlement. They are territorial and protective when intruded upon, but not wantonly aggressive toward the settlement or passing people. They **manifest large patches of multicolored flowers** (red, orange, yellow, green, blue, violet possible) as territorial expression and as a **Genesis-field sustenance mechanism**; they are **not carnivorous hunters living on animal prey** in the selected model. Exact biological energy conversion, whether flowers are individually Stage 2 vaen, and taxonomic mechanics OPEN. Do not assume all manifested flowers are vaen.
+ 
+ The sex-associated ranges describe adult dermal stripes, not flower color. The adult reference establishes morphology and approximate scale; the pictured blue is one male state. Do not transfer adult stripes to the cub or assign an identity to every manifested flower. Earlier orange-flower observations remain historical evidence, not a fixed species-wide color. [Parents, witness limits and the Day 39 encounter](../../L3_CHARACTERS_EVENTS/CHARACTERS/NYX.md). Sources: [VAERYN_SPECIES_AND_NYX_DAY39](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VAERYN_SPECIES_AND_NYX_DAY39.md), [README](../../../PROVENANCE/WORKSHOP/ORANGE_CUMULATIVE_005_2026_11_09/VISUAL_REFERENCES/README.md).
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/BIOLOGY/AEN_TRAINING_AND_THROUGHPUT.md
+@@ -1,3 +1,17 @@
++# Home instruction supersedes palace-first location · checkpoint 012
++
++Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson.
++
++[Dated training and travel owner](../../L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) All six Book Red ring closures, pinned AERA dependency, concurrency limits and functional-versus-expert distinction remain unchanged.
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Book Orange · White Genesis Collapse training
+ 
+ **Author-established MK163 chronology · 2026-11-25.** After the Green Realm return and Violet-capital relocation, Orange Arc begins Kaira's White Genesis Collapse instruction at the royal palace under Princess illi. Training includes simultaneous six closed aen rings, Violet-referenced equal output normalization, initiation and sustenance. During Yellow Arc illi accompanies Kaira and the Vaelith dignitaries and continues teaching; Kaira practices through the outward and return journeys. On the return toward the Violet capital, by Yellow Arc's end, she finalizes **functional control**. This is not expert combat mastery, maximum endurance, selective incorporation mastery, completed Stage II widening or automatic Binding acquisition. Specific lessons, earlier achievements and encounter uses remain OPEN.
+--- a/BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md
++++ b/BOOKS/ORANGE/BOOK_MACRO_OUTLINE.md
+@@ -1,3 +1,55 @@
++# Book Orange Red and Orange arcs outlined through Day 1775 · checkpoint 012
++
++Red Arc spans **1638–1712**, Orange **1713–1775**; Yellow opens with the Day 1775 portal crossing. Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson.
++
++[Every daily row, including unassigned days](../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Complete G-000–G-005 homecoming](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Complete dated delves, D24 and portal departure](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md)
++
++The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
++
++The full supplied cumulative macro follows as the new scoped overlay. Its older OPEN dates and City46-first-city carryover are superseded by the 011 dated realization and [012 geography](../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md). Green–White events, consenting Vaelith restoration, future functional collapse and the unscheduled Amplification System remain.
++
++# Book Orange — seven-arc macro continuity
++
++**Red (#D84D4D):** Tournament vaelum disbands; Green Realm homecoming G-000–G-005; Kaira and illi return to Violet capital; Green District residence, Yellow District eight-smith workshop; Day 1710 King’s raeon introduces noble kidnapping/ransom; Day 1712 first robe delivery approved. **Outline complete.**
++
++**Orange (#E58B43):** Starts Day 1713 at Kaira’s Green District residence. Day 1717 local raeon tournament, Blue placement. illi teaches White Genesis Collapse (six closed rings, Violet-referenced equal normalization, initiation and sustenance); independent Support Specialist delves; Vaelith dignitaries arrive as King’s guests, discuss Black Prophecy and Black Vaelith; Kaira and illi depart with delegation. Active Genesis Cards and White Genesis Collapse cannot coexist. No bond in this arc.
++
++**Yellow (#DFC342):** Orange Realm, living Vaelith city with corrupted Genesis-energy nexus; Black Vaelith independently consents to bond conditioned on saving city; bond precedes reciprocal amplification and city restoration. Kaira achieves functional White Genesis Collapse control during return with illi. No planetary solution.
++
++**Green (#43A56D):** illi's Crown investigation of noble kidnappings for ransom in Green Domain; Kaira accompanies. Paid-ransom daughter already returned.
++
++**Blue (#478AD7):** investigation expands through kingdom; Kaira takes independent local Support Specialist dungeon jobs, not necessarily related to case.
++
++**Violet (#9563D1):** investigation identifies Yellow-ranked lower-noble informant in unnamed Green Domain city; not necessarily cartel leader.
++
++**White (neutral):** Crown dismantles this specific ransom cartel; competing cartels move into power vacuum. This cartel is not the separate Book Yellow trafficking/slavery network.
++
++**Open:** detailed Orange–White dates, chapters, scene prose, Vaelith travel mechanics, specific investigations and criminal identities. Book Orange's Amplification/Enhance Genesis System is selected at book level but introduction arc unassigned.
++
++## Geographic carryover (checkpoint 010)
++Kaira comes from village hub City 43, first lives in City 52 (Green Domain, B3 Blue dungeon), visiting Green capital City 46 later, then Blue capital City 40, and currently Violet/kingdom capital City 21. Production sites City 52 (4), City 40 (8), City 21 (8). City 46 has V2 Violet dungeon; the original staging market belongs to City 52/B3 Blue dungeon; do not confuse it with the Violet Domain capital.
++
++
++## Checkpoint 011 — Orange Arc dated realization (author decisions, 2026-11-26)
++
++- Days 1718–1723: illi visits Kaira’s City 21 Green District home daily; Day 1718 living vaen housewarming plants and offer of mentorship in White Genesis Collapse in exchange for a personally crafted Genesis robe. This supersedes the prior *palace as initial instruction location*; no robe completion date established.
++- Days 1724–1728: independent practice; Day 1724 Accord Registry business check and dungeon-party applications; Day 1728 royal raeon card game. Day 1717 Blue-placement local card tournament is preserved.
++- Day 1729 acceptance for 11-day training delve; Days 1733–1743 inside, projected Green depth; Day 1744 exit, Registry payment, recruitment to second party. The tentative Velis research assignment is explicitly superseded.
++- D24 party: one Guardian, three Offensive Specialists, one Healer, two contracted Support Specialists including Kaira (seven total). Days 1747–1772 are 26 full dungeon days, Violet reached on Day 1758 (day 12), target V150 ~29.19 miles deep, return starts Day 1761; surface exit Day 1773. Selected route: R001 → R021 → R044 → R035 → O046 → Y047 → Y066 → G061 → G100 → B063 → B104 → B087 → B131 → V102 → V150. Travel speeds are narrative pacing, not atlas-provided.
++- Day 1773: homecoming and illi’s palace note. Day 1774: Kaira meets Orange Realm Vaelith delegation at palace.
++- **Day 1775 (Aelora 15, Ailor/4):** illi joins Kaira and Vaelith delegation; King supplies small caravan. Same-day City 21 → City 40 on King's Highway, then City 40 → P15 using spatial corridors; enter Orange Realm via P15 on Day 1775. Caravan stays on kingdom side, not carried into Orange Realm. Orange Arc closes at portal crossing; Yellow Arc opens. Return plan: from P15 fly via CSR to City 40; further leg not yet fixed.
++- No Black Vaelith bond and no completed functional White Genesis Collapse in Orange Arc. Those belong to Yellow Arc.
++
++
++
++[Source precedence and scoped supersessions](../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Genesis System book placement · cumulative update 001
+ 
+ Book Orange selects the **Amplification System (Enhance)** at author-planning level. Its introduction arc, dates, lessons, topology, manufacturing and mastery remain OPEN. [The single Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) preserves the complete concept, component allocations, examples, exclusivity and engineering questions; no catalogue rows or IDs are added. The separate collapse sequence below does not schedule this system; a complete Genesis System cannot coexist with White Genesis Collapse. No new systems are introduced in Red, Violet or White; existing systems may be used in Violet and White. [Scope and supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
+@@ -49,7 +101,7 @@
+ 
+ **Author-approved ordered sequence · 2026-11-25:**
+ 
+-1. After the Red Arc Green Realm return and relocation to the Violet Domain capital, Kaira begins **White Genesis Collapse** instruction at the royal palace under Princess **illi**. No new instructor is needed. The training includes simultaneous six closed rings, Violet-referenced equal output normalization, initiation and sustenance. Exact lessons and achievements remain OPEN; six-ring closure is a prerequisite, not collapse mastery.
++1. After the Red Arc Green Realm return and relocation to the Violet Domain capital, Kaira begins **White Genesis Collapse** instruction at her City 21 Green District home under Princess **illi**, beginning Day 1718. No new instructor is needed. The training includes simultaneous six closed rings, Violet-referenced equal output normalization, initiation and sustenance. Exact lessons and achievements remain OPEN; six-ring closure is a prerequisite, not collapse mastery.
+ 2. Kaira participates in several independent dungeon expeditions as a **Support Specialist**, retaining the previously selected good performance and Card-based role. Contracts, teams, dungeons, detailed outcomes, dates and use of collapse in particular encounters remain OPEN. Active Genesis Cards cannot coexist with collapse; no automatic Binding acquisition follows.
+ 3. Vaelith dignitaries from the Orange Realm arrive at the Violet capital as **guests of the King**. They have heard of Kaira and her Black Sprite, recognize the emerging Black Prophecy and have a Black Vaelith in their native realm. They meet the King, who confirms knowing Kaira and the Black Sprite, and assess the prospective bond. This preserves the existing meeting/assessment context, with no Black Vaelith bond in Orange Arc.
+ 4. Kaira meets the dignitaries and learns of the Black Vaelith.
+@@ -104,7 +156,7 @@
+ 
+ ## Existing repository reference to reconcile, not overwrite wholesale
+ - `BOOKS/ORANGE/BOOK_OVERVIEW.md` — previously only high-level cartel/black-market/slavery awareness and Orange Black Vaelith bond.
+-- `PROVENANCE/WORKSHOP/BLUE_ARC_004/04_CHAINMAIL_ENTERPRISE.md` — three existing operations, 18 assemblers, 54 robes/month capacity; the new Violet capital shop adds eight assemblers (conditional capacity 24/month at existing rate), for four operations, 26 assemblers and conditional 78/month capacity, NOT guaranteed sales.
++- Historical BLUE_ARC_004 enterprise counts are superseded: City 52 has four smiths, City 40 eight and City 21 eight, totaling twenty across three cities. Historical originals remain preserved; no old combined revenue forecast remains active.
+ - `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md` — preserve independent agency and bond constraints.
+ - Existing royalty, banking, realm and Accord Registry owners govern detailed integration.
+ 
+--- a/BOOKS/ORANGE/ARCS/ARC_001/ARC.md
++++ b/BOOKS/ORANGE/ARCS/ARC_001/ARC.md
+@@ -10,7 +10,7 @@
+ 
+ ## Entry state
+ 
+-Book Red has ended with the tournament and Kaira’s Dimensional Ring. Unspecified dates, locations and incidental circumstances remain OPEN.
++After Book Red Day 1637, the temporary tournament vaelum dissolves Day 1652.
+ 
+ ## Principal conflict
+ 
+@@ -18,15 +18,17 @@
+ 
+ ## Major events
+ 
++[Complete dated ledger](../../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [G-000–G-005](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Full D24 and departure selection](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) govern dated realization.
++
+ <!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+-**Author-selected chromatic realm event · 2026-11-23:** Green Realm homecoming: Kaira, Princess illi and the already-bonded Black Sprite visit the Sprite community and ruling body. The bond continues; the Sprite departs with Kaira. Community and reunion details OPEN.
++**Author-selected chromatic realm event · 2026-11-23:** Green Realm homecoming: Kaira, Princess illi and the already-bonded Black Sprite visit the Sprite community and ruling body. The bond continues; the Sprite departs with Kaira. The complete G-000–G-005 outline now governs community/reunion details; names, local dates and unselected scene details remain OPEN.
+ 
+ 
+ [Complete author-selected Red Arc record](../../BOOK_MACRO_OUTLINE.md#red-arc) owns all supplied details, qualifications and exclusions. This contract is navigation in addition to that full record; no omitted scene is implied.
+ 
+ ## Exit state
+ 
+-Kaira lives in the Violet capital, has expanded her enterprise, and hears the ransom-cartel discussion.
++Green Realm visit 1663–1674; City21 return 1676; residence 1681, shop 1684, hires 1685, rings 1696, training 1697–1709; ransom discussion 1710; delivery approval closes Red Arc on 1712.
+ 
+ ## Dependencies
+ 
+@@ -34,4 +36,4 @@
+ 
+ ## Status
+ 
+-Outlined at macro level. Chapters, dialogue, calendar dates and unselected scene realization remain OPEN.
++Outlined at macro level. Selected dates through Day 1775 govern; chapters, dialogue, later unassigned dates and unselected scene realization remain OPEN.
+--- a/BOOKS/ORANGE/ARCS/ARC_002/ARC.md
++++ b/BOOKS/ORANGE/ARCS/ARC_002/ARC.md
+@@ -6,11 +6,11 @@
+ 
+ ## Narrative objective
+ 
+-Begin palace White Genesis Collapse instruction under illi, continue independent Support delving, meet the Vaelith dignitaries and depart with them for the Orange Realm.
++Begin home White Genesis Collapse instruction under illi, continue independent Support delving, meet the Vaelith dignitaries and depart with them for the Orange Realm.
+ 
+ ## Entry state
+ 
+-After the Red Arc Green Realm return and Violet-capital relocation, Kaira retains her six closed aen rings and existing Card-based Support role. Ring closure does not itself establish collapse control. She and her Black Sprite are known to the King; the dignitaries arrive later in the ordered arc. Dates and incidental circumstances remain OPEN.
++Day 1713 at Kaira’s City21 Green District residence; Day1717 local raeon Blue placement precedes home teaching 1718.
+ 
+ ## Principal conflict
+ 
+@@ -18,11 +18,13 @@
+ 
+ ## Major events
+ 
++[Complete dated ledger](../../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [G-000–G-005](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Full D24 and departure selection](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) govern dated realization.
++
+ [Complete author-selected Orange Arc record](../../BOOK_MACRO_OUTLINE.md#orange-arc) owns all supplied details, qualifications and exclusions. This contract is navigation in addition to that full record; no omitted scene is implied.
+ 
+ ## Exit state
+ 
+-The dignitaries depart with Kaira and illi in their traveling party for the Orange Realm, closing Orange Arc. No Black Vaelith bond has occurred yet, and no collapse completion is selected here.
++After training delve 1733–1743/exit1744 and D24 1747–1772/exit1773, Vaelith meeting1774, same-day City21→City40→P15 caravan and portal entry1775 close Orange. No bond or functional collapse completion yet.
+ 
+ ## Dependencies
+ 
+@@ -30,4 +32,4 @@
+ 
+ ## Status
+ 
+-Outlined at macro level. Chapters, dialogue, calendar dates and unselected scene realization remain OPEN.
++Outlined at macro level. Selected dates through Day 1775 govern; chapters, dialogue, later unassigned dates and unselected scene realization remain OPEN.
+--- a/BOOKS/ORANGE/ARCS/ARC_003/ARC.md
++++ b/BOOKS/ORANGE/ARCS/ARC_003/ARC.md
+@@ -10,13 +10,15 @@
+ 
+ ## Entry state
+ 
+-Kaira and illi travel with the Orange Realm dignitaries after the joint Orange Arc departure. The Black Vaelith has been introduced without an earlier bond. illi continues instruction and Kaira practices White Genesis Collapse throughout the journey; dates and incidental circumstances remain OPEN.
++Day1775 Orange Realm portal entry opens Yellow after the joint caravan journey; caravan remains on the kingdom side.
+ 
+ ## Principal conflict
+ 
+ The Black Vaelith conditions consent on helping heal the living city’s corrupted energetic nexus. Bonding precedes their amplified restoration; precise biology, healing mechanism and journey details remain OPEN.
+ 
+ ## Major events
++
++[Complete dated ledger](../../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [G-000–G-005](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Full D24 and departure selection](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) govern dated realization.
+ 
+ <!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
+ **Author-selected chromatic realm event · 2026-11-23:** Orange Realm: Kaira and the Black Vaelith bond under the condition that they heal the living Vaelith city. Its "heart" is a Genesis-energy nexus in an interconnected living biological network, not an anatomical organ. Their amplified topological restoration removes ELDRIS-origin recursive corruption and saves the city.
+@@ -26,7 +28,7 @@
+ 
+ ## Exit state
+ 
+-The local living city is saved. Kaira returns toward the Violet capital with the living Black Vaelith and continues practice with illi; on the return journey, by arc end, she finalizes functional White Genesis Collapse control. This is not expert combat mastery, maximum endurance or selective incorporation mastery. The Black Sprite remains bonded; other companion logistics remain OPEN. No natural-velis or planetary stabilization is performed.
++Independent Vaelith bond then amplified local city restoration; functional collapse on return/by Yellow end. Return from P15 uses CSR to City40; further leg and return date OPEN.
+ 
+ ## Dependencies
+ 
+@@ -34,4 +36,4 @@
+ 
+ ## Status
+ 
+-Outlined at macro level. Chapters, dialogue, calendar dates and unselected scene realization remain OPEN.
++Outlined at macro level. Selected dates through Day 1775 govern; chapters, dialogue, later unassigned dates and unselected scene realization remain OPEN.
+--- a/AGENTS.md
++++ b/AGENTS.md
+@@ -1,3 +1,17 @@
++# Current Orange 012 and Book Red geography · checkpoint 012
++
++Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
++
++[Geography](WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
++
++[Source precedence and scoped supersessions](CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Current cumulative update 001 · 2026-11-25
+ 
+ Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,17 @@
++# Current Orange 012 and Book Red geography · checkpoint 012
++
++Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
++
++[Geography](WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
++
++[Source precedence and scoped supersessions](CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Current cumulative update 001 · 2026-11-25
+ 
+ Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
+--- a/WORLD_CLOCK/CURRENT_MODEL_INDEX.md
++++ b/WORLD_CLOCK/CURRENT_MODEL_INDEX.md
+@@ -1,3 +1,17 @@
++# Current Orange 012 and Book Red geography · checkpoint 012
++
++Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
++
++[Geography](L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](../CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
++
++[Source precedence and scoped supersessions](../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Current cumulative update 001 · 2026-11-25
+ 
+ Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
+@@ -342,12 +356,12 @@
+ 
+ **Orange arc of Book Red · 2026-11-08.** This update concerns the second arc of Book Red, not Book Orange or a new AERA integration. [Coverage and source register](../CHECKPOINTS/ORANGE_2026_11_08_COVERAGE.md).
+ 
+-- [OR-01 · Violet Dungeon staging settlement: geography, zoning and access](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
++- [OR-01 · City 52 Blue Dungeon B3 staging settlement: geography, zoning and access](L2_WORLD_CIVILIZATION/GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md)
+ - [OR-02 · Staging economy: 1.3–1.7 locality premium, resource wealth, repair markets](L2_WORLD_CIVILIZATION/ECONOMY/ARMOR_AND_CHAINMAIL_PRICES.md)
+ - [OR-03 · Civic architecture: stone, spatial locking, lighting, water, greenery, sigil flame](L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md)
+ - [OR-04 · Accord Registry public halls, inn interiors, civic daily life and amenities](L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md)
+ - [OR-05 · Smithy architecture: standard-depth modular bays, two tiers, horizontal growth](L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md)
+-- [OR-06 · Kaira's first independent Violet Dungeon staging visit: detailed commerce and logistics](../BOOKS/RED/ARCS/ARC_002/ARC.md)
++- [OR-06 · Kaira's first independent City 52 Blue Dungeon B3 staging visit: detailed commerce and logistics](../BOOKS/RED/ARCS/ARC_002/ARC.md)
+ - [OR-07 · First Vael conflict at neighboring abecca/raeon shops](L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md)
+ - [OR-08 · First return journey: animal path, warning-color frog, moss and mineral vaen](L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md)
+ - [OR-09 · Full manufacturing model: ingot → spool → flat chainmail rings, parallel sigil stations](L2_WORLD_CIVILIZATION/TECHNOLOGY/SIGIL_CHAINMAIL_RING_FABRICATION.md)
+--- a/CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md
++++ b/CONTINUITY/SERIES_STATE_AND_EVENT_LEDGER.md
+@@ -1,3 +1,17 @@
++# Current Orange 012 and Book Red geography · checkpoint 012
++
++Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
++
++[Geography](../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](../CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
++
++[Source precedence and scoped supersessions](../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Current cumulative update 001 · 2026-11-25
+ 
+ Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
+--- a/BOOKS/ORANGE/BOOK_OVERVIEW.md
++++ b/BOOKS/ORANGE/BOOK_OVERVIEW.md
+@@ -1,3 +1,17 @@
++# Current Orange 012 and Book Red geography · checkpoint 012
++
++Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
++
++[Geography](../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](../../CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
++
++[Source precedence and scoped supersessions](../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Cumulative update 001 · current Book Orange selections
+ 
+ Orange Arc orders palace White Genesis Collapse training under illi, independent Support delves, visiting Vaelith dignitaries, discovery of the Black Vaelith and joint departure. Yellow preserves the living-city bond/restoration and selects continuing instruction, with functional collapse control on the return journey/by arc end. Green–White's ransom-cartel sequence is unchanged.
+--- a/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md
++++ b/BOOKS/RED/ARCS/ARC_002/WORKSHOP_EXPANSION_DELTA.md
+@@ -1,3 +1,15 @@
++# Original staging market identified · checkpoint 012
++
++References to Kaira’s original staging market mean **City52, Green political domain, B3 Blue-ranked dungeon**, not City46/V2. All scene details, prices, dates and source quotations remain. [Geographic authority](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ > **Delta 005 supplied supplement — preserved source, not a competing canonical owner.** Active decisions are reconciled in [BOOKS/RED/ARCS/ARC_002/ARC.md](ARC.md). The complete original delivery bytes follow unchanged. Cross-domain explanations here do not override those owners or their explicit open parameters.
+ 
+ # Red Arc Two — expansion without changing existing macro plot
+@@ -5,7 +17,7 @@
+ Existing repo: independence, apartment, chainmail ring supplier and repair business, harvesting, Cardsmith studies, Metal Manipulation Genesis Card, raeon and abecca culture, Nyx rescue near third dungeon return, first Chainmail Robe completion and public reveal as ARC TWO END. Arc Three contains Black Sprite Binding and wider robe movement, not Arc Two.
+ 
+ ## Entry and opening
+-Kaira has reached the mature 10×10-mile Violet Dungeon City after protected caravan trip, stayed initially in inn. First Arc Two scene starts IN MEDIA RES with her unsuccessfully trying to haggle rent with manager at first of THREE apartment viewings. Do not open with inn wake-up/expository city tour. She is 23, has no experience leasing housing, spent seven years sleeping by forge, possesses crystals and finite resources but wants to live frugally. Manager's name, actual prices, reactions and selected apartment not finalized. Kaira eventually rents in northwestern Orange District, slightly east of NW corner, near northern gate but not immediately beside it.
++Kaira has reached the mature 10×10-mile Blue Dungeon B3 City after protected caravan trip, stayed initially in inn. First Arc Two scene starts IN MEDIA RES with her unsuccessfully trying to haggle rent with manager at first of THREE apartment viewings. Do not open with inn wake-up/expository city tour. She is 23, has no experience leasing housing, spent seven years sleeping by forge, possesses crystals and finite resources but wants to live frugally. Manager's name, actual prices, reactions and selected apartment not finalized. Kaira eventually rents in northwestern Orange District, slightly east of NW corner, near northern gate but not immediately beside it.
+ 
+ ## Her ordinary routine
+ At home she usually eats bowl of fresh fruit for breakfast. She has limited cooking skills from indentured smithy life, knows a few simple meals but is embarrassed by inexperience. Lunch and dinner generally purchased at affordable city restaurants; this gets her out into city and supports incidental social interactions. Abecca houses, fruit/grocery markets, raeon shop, Genesis Card shop, smith suppliers, alchemists/apothecaries, dungeon staging area, harvesting locations all recurring. No precise route or travel time until revised eighth-mile-block city map; then track exact street distance and scene clock.
+--- a/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md
++++ b/BOOKS/RED/ARCS/ARC_002/SCENE_DEVELOPMENT_BOUNDARIES_AND_CITY_ROUTINES.md
+@@ -1,3 +1,15 @@
++# Original staging market identified · checkpoint 012
++
++References to Kaira’s original staging market mean **City52, Green political domain, B3 Blue-ranked dungeon**, not City46/V2. All scene details, prices, dates and source quotations remain. [Geographic authority](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ > **Delta 005 supplied supplement — preserved source, not a competing canonical owner.** Active decisions are reconciled in [BOOKS/RED/ARCS/ARC_002/ARC.md](ARC.md). The complete original delivery bytes follow unchanged. Cross-domain explanations here do not override those owners or their explicit open parameters.
+ 
+ # Arc Two scene development: known beats, unresolved choices, no narrative invention
+@@ -8,7 +20,7 @@
+ ## Opening apartment sequence
+ Kaira arrives at the city after a protected caravan journey that included at least one intermediate city and a caravan transfer. She initially uses an inn, not an instant apartment. Arc Two begins in the middle of a failed negotiation with an apartment manager. The author specifically corrected 'arguing' to 'failing at haggling'. She is trying to negotiate a lower rent on the FIRST of THREE apartment viewings. We have not established a landlord name, apartment price, deposit, the exact sequence of the second and third viewings, or the decisive reason for her final choice. Do not write a scene in which the manager accuses her of lying about nobility unless the author later selects that reaction. The manager can notice her striking appearance without becoming a new antagonist.
+ 
+-The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Violet dungeon lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
++The eventual apartment is in the northwestern portion of the Orange District, slightly east of the literal NW corner, with convenient but not immediate access to a northern city gate. The nearby gate matters because the Blue dungeon B3 lies northwest of the city and generates traffic between the northern perimeter and the dungeon hub. The apartment's actual block, entrance orientation and street remain OPEN pending the author's pixel-map remake. Its modest size is appropriate to an ordinary Orange District residence. The city is clean and well maintained; this is not a grimy slum or a building that must be infested to prove her poverty.
+ 
+ ## Food as an independence marker
+ Kaira's smithy upbringing did not provide a normal domestic education. She has a few simple foods she can prepare, but cooking is not one of her established competencies. The author described this as somewhat embarrassing for her. She therefore keeps a bowl of inexpensive fresh fruit at home and eats that for breakfast, often an apple, banana or whatever local equivalent is available. Lunch and dinner are usually purchased at restaurants or small food establishments. This is economically plausible because the kingdom's agriculture is unusually productive: growth-field velis plus enriched soil allow multiple harvests, and a mostly vegetarian diet is affordable. A restaurant visit is not necessarily a special event. It is a routine part of her day, and it naturally moves her through streets where she encounters shopkeepers, delvers and neighbors.
+@@ -21,7 +33,7 @@
+ She also gathers moss, fungi, flowers and vaen on visits to forest/dungeon outskirts, using knowledge from her mother and earlier delivery circuits. She sells some materials to alchemists/apothecaries. She likes living plants and may keep them in her apartment. The distinction between living Genesis flora, ordinary crop plants, vaen and Alchemical Types is inherited; do not relabel every glowing plant a unique high-level Type 5 substance.
+ 
+ ## City culture and hobbies
+-The Violet dungeon is a cultural and economic anchor. Delvers visit staging inns, equipment suppliers and food venues; their work differs from mobile storm-chaser operations, which are much riskier in transient Genesis storms/domai. Kaira has a romanticized interest in dungeon communities because she grew up near Hollowmere. The city supports raeon card shops and possible regular tournaments, Genesis Card shops, abecca establishments, ordinary markets, furniture stores and high-end artisan showrooms. The author wants these to become part of the universal map through actual visits. The raeon tournament schedule and exact venue remain OPEN; older rules from other repositories should not be imported as an automatically fixed city calendar.
++The Blue dungeon B3 is a cultural and economic anchor. Delvers visit staging inns, equipment suppliers and food venues; their work differs from mobile storm-chaser operations, which are much riskier in transient Genesis storms/domai. Kaira has a romanticized interest in dungeon communities because she grew up near Hollowmere. The city supports raeon card shops and possible regular tournaments, Genesis Card shops, abecca establishments, ordinary markets, furniture stores and high-end artisan showrooms. The author wants these to become part of the universal map through actual visits. The raeon tournament schedule and exact venue remain OPEN; older rules from other repositories should not be imported as an automatically fixed city calendar.
+ 
+ ## Nyx
+ Around the third return from a dungeon-related trip, Kaira investigates unusual moss and a dissipating minor Genesis disturbance and finds a den associated with living orange flowers. Nyx's father was a giant Green-native feline who protected his pregnant mate and was killed by hunters; his mother was wounded by fireball and died in the den. Nyx is a black cub around six to seven weeks old. Kaira adopts him, and he becomes her family and shadow. The parents' orange flowers are their individual expression, not a universal species color. Nyx's plant growth, mischief, pride, independence and eventual large body are existing MK163 canon. He is not the Black Sprite and should not be conflated with the black crystal in Kaira's pack.
+--- a/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md
++++ b/WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/KAIRA_AND_VAEL_FIRST_ENCOUNTER.md
+@@ -1,6 +1,18 @@
++# Original staging market identified · checkpoint 012
++
++References to Kaira’s original staging market mean **City52, Green political domain, B3 Blue-ranked dungeon**, not City46/V2. All scene details, prices, dates and source quotations remain. [Geographic authority](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
++
++[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
++
++---
++
++## Earlier record · historical only where explicitly superseded
++
++The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
++
+ # Vael · Day 865 reunion in the Blue capital
+ 
+-The accidental meeting beside the raeon shop on Orange Day 12 stands. Vael was training at the Green Domain Violet Dungeon. He comes from the Blue Domain, is the son of a Blue-ranked noble, and personally holds Green Offensive Specialist rank with the Accord Registry. He now trains at the capital-associated Blue Dungeon with the King’s Tournament in view. Team, qualification and results are OPEN.
++The accidental meeting beside the raeon shop on Orange Day 12 stands. Vael was training at the Green Domain Blue Dungeon B3. He comes from the Blue Domain, is the son of a Blue-ranked noble, and personally holds Green Offensive Specialist rank with the Accord Registry. He now trains at the capital-associated Blue Dungeon with the King’s Tournament in view. Team, qualification and results are OPEN.
+ 
+ On Day 865, 853 elapsed days after the first encounter, Vael wears his own robe and attends with friends whose identities remain OPEN. He recognizes and verbally belittles Kaira. Nyx steps forward and growls, the Black Sprite makes a small magical flick, and Vael leaves. Kaira and her companions enjoy the rest of the gala. The precise effect and dialogue remain OPEN. The outline selects no fight, penalty or intervention by illi.
+ 
+@@ -51,7 +63,7 @@
+ 
+ ## Character relationships and future seven-book scope
+ 
+-This is the **first meeting** and origin of a long-running **rivalry / arch-nemesis relationship** between Kaira and Vael across the seven-book saga. There was an original thought to stage a similar noble collision at Village Hub in Red; it was later inherited and relocated to Orange's Violet Dungeon staging community, with an intermediate October 23 concept outside a smithy. **Current author scene is beside the raeon shop**, and older placements must remain visible as superseded provenance, not parallel first encounters. The exact structure of future hostility, meetings, class/rank, plot consequences, eventual reconciliation or non-reconciliation is OPEN. It doesn't require importing MK147 story wholesale.
++This is the **first meeting** and origin of a long-running **rivalry / arch-nemesis relationship** between Kaira and Vael across the seven-book saga. There was an original thought to stage a similar noble collision at Village Hub in Red; it was later inherited and relocated to Orange's Blue Dungeon B3 staging community, with an intermediate October 23 concept outside a smithy. **Current author scene is beside the raeon shop**, and older placements must remain visible as superseded provenance, not parallel first encounters. The exact structure of future hostility, meetings, class/rank, plot consequences, eventual reconciliation or non-reconciliation is OPEN. It doesn't require importing MK147 story wholesale.
+ 
+ ## Emotional arc and limits
+ 
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/PROFESSIONS/BLACKSMITH_ROW_AND_ARTISANS.md
+@@ -2,7 +2,7 @@
+ 
+ The new break outline places the **three prestigious artisan plazas / Blacksmith Rows in the Yellow District of the Blue Domain capital**. Kaira visits working smiths there during Days 320–330, admires their craft and reconnects with her chainmail training. An unnamed smith recognizes her designs, reports their spread through cities/capitals and commissions an original personally made by her.
+ 
+-This is the new capital-visit scope. It does not relocate Kaira's originating Green Domain city's established Rows or master mailwright supplier, and does not turn the Violet Dungeon staging settlement into either city's elite Row. Yellow is the selected district; do not put these plazas in Green, Blue, White or Violet districts or invent one per district.
++This is the new capital-visit scope. It does not relocate Kaira's originating Green Domain city's established Rows or master mailwright supplier, and does not turn the City 52 Blue Dungeon B3 staging settlement into either city's elite Row. Yellow is the selected district; do not put these plazas in Green, Blue, White or Violet districts or invent one per district.
+ 
+ The unnamed commissioning smith is **not identified** as her established mailwright supplier. Exact Row, shop, address, smith identity, new ring-order supplier, quantity, cost, arrival or manufacturing batch remain OPEN. The Day 332 city procurement serves the smith's and aina's two personal commissions. Prior workshop architecture, professional relations and specialized ring-fabrication mechanics remain intact.
+ 
+@@ -20,7 +20,7 @@
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## Where and what the businesses are
+ 
+-The Violet Dungeon staging settlement's **southwest area** has craftsmen's workshops, smithies and markets. This is **not** the city's Yellow District Blacksmith Row: the large city has three elite Rows located in its Yellow District, while the staging settlement has distinct local working shops. The two places share stone/sigil architectural technology and possibly similar two-tier public plaza design, but their economic roles and professional prestige are not interchangeable. The settlement's smithies charge locality-premium prices, broadly 1.3–1.7 × comparable city costs. Established local customers bring used/partly damaged dungeon equipment. Not all smithies repair chainmail; families specialize in mailwrighting, plate/armor, swords/polearms, architectural metal, household goods, decorative one-offs, and so forth.
++The City 52 Blue Dungeon B3 staging settlement's **southwest area** has craftsmen's workshops, smithies and markets. This is **not** the city's Yellow District Blacksmith Row: the large city has three elite Rows located in its Yellow District, while the staging settlement has distinct local working shops. The two places share stone/sigil architectural technology and possibly similar two-tier public plaza design, but their economic roles and professional prestige are not interchangeable. The settlement's smithies charge locality-premium prices, broadly 1.3–1.7 × comparable city costs. Established local customers bring used/partly damaged dungeon equipment. Not all smithies repair chainmail; families specialize in mailwrighting, plate/armor, swords/polearms, architectural metal, household goods, decorative one-offs, and so forth.
+ 
+ ## Horizontal bays, open to the street
+ 
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/AITHREN_VAELUM_ACCORD.md
+@@ -3,7 +3,7 @@
+ ## 1. Identity, scope and jurisdiction
+ The Accord Registry is a **Crown-level kingdom-wide institution** governing recognized professional competence. It administers professional evaluations, chromatic rank records, accreditation, credentials, verification, professional service accounts/listings, referrals and Crown reporting/analytics. It is a welcoming civic institution and visible social hub, not merely a combat/adventurer guild, quest board or freight operator.
+ 
+-**Location rule:** In a large city (Red through Violet districts), the main city Accord Registry is in the **Green District**. In a small city (Red/Orange/Yellow districts), it is in the **Yellow District**. The Violet Dungeon staging settlement has its own Accord Registry branch, with its precise district designation OPEN. Kaira uses both city and staging branches.
++**Location rule:** In a large city (Red through Violet districts), the main city Accord Registry is in the **Green District**. In a small city (Red/Orange/Yellow districts), it is in the **Yellow District**. The City 52 Blue Dungeon B3 staging settlement has its own Accord Registry branch, with its precise district designation OPEN. Kaira uses both city and staging branches.
+ 
+ **Registry professional listings require an appropriate recognized rank**. Independent private contracts do not: Kaira can subcontract for smithies before certification. Professional directory accounts identify family, discipline/specialization, rank and offered services. A customer can search by craft, availability or other service details; exact directory mechanism and fees OPEN. The Registry connects parties but is not the provider of their service. For example, on Day 24 it tells Kaira where to find the **city office of her existing freight provider**; it does not carry armor itself.
+ 
+@@ -41,7 +41,7 @@
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## Accord Registry: Crown institution and social space
+ 
+-The **Accord Registry** remains a Crown-owned public institution, not a vaelum, guild, mercenary corps or military command. It registers/recognizes individual aithren, independent vaelum and specializations; coordinates expedition contracts and professional recruitment; keeps records of work, ratings, resources and fulfillment. **At the Violet Dungeon staging settlement it is also a community gathering place**. Aithren may sit and meet, exchange stories, socialize, plan jobs, discuss research, inspect postings, register availability or speak to staff. Public-facing social activity does not change institutional ownership. A professional open hall is preferable to a dingy fantasy guild tavern or bureaucratic maze.
++The **Accord Registry** remains a Crown-owned public institution, not a vaelum, guild, mercenary corps or military command. It registers/recognizes individual aithren, independent vaelum and specializations; coordinates expedition contracts and professional recruitment; keeps records of work, ratings, resources and fulfillment. **At the City 52 Blue Dungeon B3 staging settlement it is also a community gathering place**. Aithren may sit and meet, exchange stories, socialize, plan jobs, discuss research, inspect postings, register availability or speak to staff. Public-facing social activity does not change institutional ownership. A professional open hall is preferable to a dingy fantasy guild tavern or bureaucratic maze.
+ 
+ The author selects **commercial craft-service postings as an additional staging Registry use**: Kaira can lodge her independent armor-repair availability with the Registry, even though she isn't an independently registered dungeon Support Specialist in Orange; the Blue-arc first Support assessment still happens years later. Registry staff can tell her where to find specialist services, including referring her to independent freight companies; **Registry does not automatically become freight operator, government advertising agency, a universal employer or a private artisan guild**. The exact fee, moderation, eligibility, posting format and records-processing requirements for commercial craft notices remain OPEN.
+ 
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/CULTURE/DUNGEON_DELVERS_AND_STORM_CHASERS.md
+@@ -1,6 +1,6 @@
+ # Book Red’s first independent research contract
+ 
+-Kaira completes [her first Blue Dungeon research contract](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) on Day 943. As an independent Green-rated aithren she provides long-duration protection during Yellow- and Green-stratum ru’ne research. The separate deep Blue-stratum rescue after the Vaelith bond remains a proposal. The three places are distinct: the childhood Green dungeon hub; the earlier Violet dungeon staging community near the Green-domain city; and the centuries-old Blue dungeon city with a 2 × 2 mile staging district. No retcon to old mapped routes or new named city.
++Kaira completes [her first Blue Dungeon research contract](../../L3_CHARACTERS_EVENTS/EVENTS/KAIRA_FIRST_BLUE_DUNGEON_RESEARCH_EXPEDITION.md) on Day 943. As an independent Green-rated aithren she provides long-duration protection during Yellow- and Green-stratum ru’ne research. The separate deep Blue-stratum rescue after the Vaelith bond remains a proposal. The three places are distinct: the childhood Green dungeon hub; the earlier City 52/B3 Blue dungeon staging community in the Green domain; and the centuries-old Blue dungeon city with a 2 × 2 mile staging district. No retcon to old mapped routes or new named city.
+ 
+ Source and decisions: [Book Red reconciliation](../../../PROVENANCE/BOOK_RED_2026_11_07_DECISIONS.md). Earlier text below is retained verbatim; later explicit decisions govern only their stated scope.
+ 
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/DUNGEONS.md
+@@ -42,7 +42,7 @@
+ 
+ ## Live Model 008 integration
+ 
+-The particular Violet dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
++The original City 52/B3 Blue dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
+ 
+ Existing persistent prismatic geometry, contiguous strata, resource/spawn variation and eldris confinement are unchanged: **eldris cannot cross strata or escape into the outer settlement**. The new excavated entrance and surface community do not make the dungeon a temporary domai, a cleared/reset instance or a source of routine surface monster raids.
+ 
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/ENVIRONMENT/GENESIS_FLORA_FAUNA_AND_VAEN.md
+@@ -16,7 +16,7 @@
+ 
+ - **Red Arc fungus:** special mushroom resource in Kaira's Awakening Potion. Model: fungal Genesis expression followed by identity-bearing vaen formation; do not invent a new potion recipe or assert all mushrooms in a patch share the same identity.
+ - **Flowers:** established natural vaen category; particular blossoms may undergo second-stage identity realization.
+-- **Orange Arc:** Kaira's first return from the Violet Dungeon staging settlement, distinct from later Nyx adoption. Moss is under Genesis expression; translucent green mineral nodules embedded in/beneath it are **mineral vaen**, not Genesis crystals. The moss and mineral conditions interact in a localized ecology; exact causal microscopic field mechanics remain open. Her warning-color frog is Genesis-expressive fauna and **not itself vaen**.
++- **Orange Arc:** Kaira's first return from the City 52 Blue Dungeon B3 staging settlement, distinct from later Nyx adoption. Moss is under Genesis expression; translucent green mineral nodules embedded in/beneath it are **mineral vaen**, not Genesis crystals. The moss and mineral conditions interact in a localized ecology; exact causal microscopic field mechanics remain open. Her warning-color frog is Genesis-expressive fauna and **not itself vaen**.
+ - **Specialized seeds:** environment-grown or environment-realized seeds can become vaen after the second event; not all seeds.
+ - **Tree:** an entire Genesis-expressive tree can itself become vaen; alternatively bark, leaves, sap/resin, or hardened amber-like products can acquire the second-stage identity. This supersedes an earlier suggestion to categorically exclude entire trees. Ordinary roots/nodules were initially rejected as a preferred example, not established as a universal impossibility.
+ - **Fauna:** a deer may undergo Genesis expression, and its **antlers** can separately acquire identity-bearing vaen geometry. This supersedes the earlier broad dismissal of scales/feathers/antlers; a naturally shed or retained component may qualify where the second event is established. Do not assume the whole deer becomes a harvestable item or that the animal must be killed.
+--- a/WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md
++++ b/WORLD_CLOCK/L2_WORLD_CIVILIZATION/INFRASTRUCTURE/STONE_WATER_AND_DISSOLUTION.md
+@@ -2,7 +2,7 @@
+ 
+ **Orange arc of Book Red · 2026-11-08.** ## Materials and architectural grammar
+ 
+-The Violet Dungeon staging settlement is **fully laid with constructed stonework in its streets, promenades and public spaces**, rather than a network of bare dirt paths. Phase fields and engineered sigils grow precise, orthogonal, interlocking stone blocks. Spatial-locking relationships distribute loads through the engineered system and permit broad open interior volumes with fewer conventional load-bearing pillars. The stones, roads, building shells and pavement have clean maintained surfaces. There can still be dust, everyday work, a little occasional dirt and material scuffing; **do not invent universal automatic cleaning** or make it a sterile world with no wear. Wood is relatively scarce due to danger in the Wilds; stone and metal are normal structural/furnishing choices. Some wooden shelves, furniture accents and equipment remain appropriate, but thick timber framing everywhere is wrong. No derelict, muddy, smoky "medieval tavern" clichés.
++The City 52 Blue Dungeon B3 staging settlement is **fully laid with constructed stonework in its streets, promenades and public spaces**, rather than a network of bare dirt paths. Phase fields and engineered sigils grow precise, orthogonal, interlocking stone blocks. Spatial-locking relationships distribute loads through the engineered system and permit broad open interior volumes with fewer conventional load-bearing pillars. The stones, roads, building shells and pavement have clean maintained surfaces. There can still be dust, everyday work, a little occasional dirt and material scuffing; **do not invent universal automatic cleaning** or make it a sterile world with no wear. Wood is relatively scarce due to danger in the Wilds; stone and metal are normal structural/furnishing choices. Some wooden shelves, furniture accents and equipment remain appropriate, but thick timber framing everywhere is wrong. No derelict, muddy, smoky "medieval tavern" clichés.
+ 
+ Architecture combines **orthogonal engineered structure with intentionally cultivated flora**: flowers, trees, gardens, planters, small courtyards, water features. Botanical support via **Architect-created velis** and appropriate physical sigils, watering and local Genesis conditions means buildings can sustain plants without adding fictitious electronic systems. Lower-price buildings are still maintained and beautiful, simply smaller and less elaborate; luxury indicates size and expressive design, not clean-versus-filthy.
+ 

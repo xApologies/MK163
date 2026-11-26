@@ -10,7 +10,7 @@ Visit the Green Realm and relocate to the Violet capital.
 
 ## Entry state
 
-Book Red has ended with the tournament and Kaira’s Dimensional Ring. Unspecified dates, locations and incidental circumstances remain OPEN.
+After Book Red Day 1637, the temporary tournament vaelum dissolves Day 1652.
 
 ## Principal conflict
 
@@ -18,15 +18,17 @@ Rising noble kidnappings for ransom become known at the royal raeon game.
 
 ## Major events
 
+[Complete dated ledger](../../../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [G-000–G-005](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Full D24 and departure selection](../../../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) govern dated realization.
+
 <!-- MK163_CHROMATIC_REALM_DELTA_2026_11_23 -->
-**Author-selected chromatic realm event · 2026-11-23:** Green Realm homecoming: Kaira, Princess illi and the already-bonded Black Sprite visit the Sprite community and ruling body. The bond continues; the Sprite departs with Kaira. Community and reunion details OPEN.
+**Author-selected chromatic realm event · 2026-11-23:** Green Realm homecoming: Kaira, Princess illi and the already-bonded Black Sprite visit the Sprite community and ruling body. The bond continues; the Sprite departs with Kaira. The complete G-000–G-005 outline now governs community/reunion details; names, local dates and unselected scene details remain OPEN.
 
 
 [Complete author-selected Red Arc record](../../BOOK_MACRO_OUTLINE.md#red-arc) owns all supplied details, qualifications and exclusions. This contract is navigation in addition to that full record; no omitted scene is implied.
 
 ## Exit state
 
-Kaira lives in the Violet capital, has expanded her enterprise, and hears the ransom-cartel discussion.
+Green Realm visit 1663–1674; City21 return 1676; residence 1681, shop 1684, hires 1685, rings 1696, training 1697–1709; ransom discussion 1710; delivery approval closes Red Arc on 1712.
 
 ## Dependencies
 
@@ -34,4 +36,4 @@ Kaira lives in the Violet capital, has expanded her enterprise, and hears the ra
 
 ## Status
 
-Outlined at macro level. Chapters, dialogue, calendar dates and unselected scene realization remain OPEN.
+Outlined at macro level. Selected dates through Day 1775 govern; chapters, dialogue, later unassigned dates and unselected scene realization remain OPEN.

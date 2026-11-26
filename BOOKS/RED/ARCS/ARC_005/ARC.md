@@ -1,3 +1,15 @@
+# City 40 sole eight-smith operation · checkpoint 012
+
+The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
+
+[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Blue · Independent Support Specialist and field Cardsmith
 
 **ID:** MK163-RED-ARC-005 · **Book:** Red · **Status:** outline complete through Day 1080. Chapters and scene realization remain OPEN.
@@ -14,8 +26,8 @@ After Blackstone graduation on Day 786, Kaira stays with Aiselle in the Blue Dis
 
 | Days | Selected beats |
 |---|---|
-| 787–819 | Aiselle hosts Kaira for 31 days while she establishes the separate eight-smith operation and looks for a home. Move-in is Day 818. Day 819 establishes the neighborhood shops and abecca routine. |
-| 820–859 | A commercial Registry proposal, three ring suppliers, and a distinct six-smith Yellow District shop lead to training and wholesale production. Kaira verifies arrival on Day 859. Delivery quantity remains OPEN. |
+| 787–819 | Aiselle hosts Kaira for 31 days while enjoying leisure and looking for a home, without an eight-smith expansion. Move-in is Day 818. Day 819 establishes the neighborhood shops and abecca routine. |
+| 820–859 | A commercial Registry proposal, three ring suppliers, and the single eight-smith City 40 Yellow District shop lead to training and wholesale production. Kaira verifies arrival on Day 859. Delivery quantity remains OPEN. |
 | 860–877 | Kaira explores Cardsmith jobs. Day 865 is the gala, followed by raeon placements Green/fourth on 871 and Violet/second on 877. Day 876 is the staging-area market check. |
 | 878 | illi brings Kaira to the palace Master Cardsmith. Research employment is declined for lack of specialized experience. illi encourages her to build independently. |
 | 879–889 | Notebook, sigils, topology, Transduction and mathematical designs at the abecca shop, with Nyx and the independent Black Sprite nearby. No commission. |

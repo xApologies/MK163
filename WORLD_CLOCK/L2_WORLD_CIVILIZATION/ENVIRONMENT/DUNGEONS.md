@@ -42,7 +42,7 @@ Complete supplied evidence: [02_NATURAL_RUNE_SIGILS_AND_ENGINEERING](../../../PR
 
 ## Live Model 008 integration
 
-The particular Violet dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
+The original City 52/B3 Blue dungeon's **17–23-mile depth** is a working specific range, not a universal depth, measured route or fixed journey duration. Geometric route length, travel time, expedition fatigue and resupply remain distinct. The rough two-week expedition belongs to the illustrative logistics in [the staging-settlement record](../GEOGRAPHY/RED_VIOLET_DUNGEON_CITY.md), not every dungeon trip.
 
 Existing persistent prismatic geometry, contiguous strata, resource/spawn variation and eldris confinement are unchanged: **eldris cannot cross strata or escape into the outer settlement**. The new excavated entrance and surface community do not make the dungeon a temporary domai, a cleared/reset instance or a source of routine surface monster raids.
 

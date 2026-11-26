@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "checks": 6700,
+  "baseline": "e0e9a568a63057f2cea643b87c611ca9fe820b7c",
+  "source_files": 41,
+  "publisher_hashes": 40,
+  "distinct_source_objects": 40,
+  "images": 11,
+  "orange_daily_rows": 139,
+  "red_main_rows": 1638,
+  "red_workforce_rows_changed": 62,
+  "historical_files_byte_verified": 985,
+  "unchanged_prior_CRLF_worktree_files": [
+    "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/EXPECTED_CHANGES.json",
+    "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/INTEGRATION_REPORT.md",
+    "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/STRUCTURAL_VALIDATION.json",
+    "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/VALIDATION.json"
+  ],
+  "new_local_links_checked": 117,
+  "day202_209": "RESOLVED by explicit012 author correction",
+  "D24_atlas": "NOT AVAILABLE; author route retained, graph/depth independently unverified",
+  "errors": []
+}

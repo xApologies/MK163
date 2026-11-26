@@ -1,3 +1,17 @@
+# Home instruction supersedes palace-first location · checkpoint 012
+
+Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson.
+
+[Dated training and travel owner](../../L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md) All six Book Red ring closures, pinned AERA dependency, concurrency limits and functional-versus-expert distinction remain unchanged.
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Book Orange · White Genesis Collapse training
 
 **Author-established MK163 chronology · 2026-11-25.** After the Green Realm return and Violet-capital relocation, Orange Arc begins Kaira's White Genesis Collapse instruction at the royal palace under Princess illi. Training includes simultaneous six closed aen rings, Violet-referenced equal output normalization, initiation and sustenance. During Yellow Arc illi accompanies Kaira and the Vaelith dignitaries and continues teaching; Kaira practices through the outward and return journeys. On the return toward the Violet capital, by Yellow Arc's end, she finalizes **functional control**. This is not expert combat mastery, maximum endurance, selective incorporation mastery, completed Stage II widening or automatic Binding acquisition. Specific lessons, earlier achievements and encounter uses remain OPEN.

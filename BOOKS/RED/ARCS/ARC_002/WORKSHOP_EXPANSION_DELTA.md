@@ -1,3 +1,15 @@
+# Original staging market identified · checkpoint 012
+
+References to Kaira’s original staging market mean **City52, Green political domain, B3 Blue-ranked dungeon**, not City46/V2. All scene details, prices, dates and source quotations remain. [Geographic authority](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 > **Delta 005 supplied supplement — preserved source, not a competing canonical owner.** Active decisions are reconciled in [BOOKS/RED/ARCS/ARC_002/ARC.md](ARC.md). The complete original delivery bytes follow unchanged. Cross-domain explanations here do not override those owners or their explicit open parameters.
 
 # Red Arc Two — expansion without changing existing macro plot
@@ -5,7 +17,7 @@ Status: Arc Two existing macro authority preserved. No new arc antagonist or arb
 Existing repo: independence, apartment, chainmail ring supplier and repair business, harvesting, Cardsmith studies, Metal Manipulation Genesis Card, raeon and abecca culture, Nyx rescue near third dungeon return, first Chainmail Robe completion and public reveal as ARC TWO END. Arc Three contains Black Sprite Binding and wider robe movement, not Arc Two.
 
 ## Entry and opening
-Kaira has reached the mature 10×10-mile Violet Dungeon City after protected caravan trip, stayed initially in inn. First Arc Two scene starts IN MEDIA RES with her unsuccessfully trying to haggle rent with manager at first of THREE apartment viewings. Do not open with inn wake-up/expository city tour. She is 23, has no experience leasing housing, spent seven years sleeping by forge, possesses crystals and finite resources but wants to live frugally. Manager's name, actual prices, reactions and selected apartment not finalized. Kaira eventually rents in northwestern Orange District, slightly east of NW corner, near northern gate but not immediately beside it.
+Kaira has reached the mature 10×10-mile Blue Dungeon B3 City after protected caravan trip, stayed initially in inn. First Arc Two scene starts IN MEDIA RES with her unsuccessfully trying to haggle rent with manager at first of THREE apartment viewings. Do not open with inn wake-up/expository city tour. She is 23, has no experience leasing housing, spent seven years sleeping by forge, possesses crystals and finite resources but wants to live frugally. Manager's name, actual prices, reactions and selected apartment not finalized. Kaira eventually rents in northwestern Orange District, slightly east of NW corner, near northern gate but not immediately beside it.
 
 ## Her ordinary routine
 At home she usually eats bowl of fresh fruit for breakfast. She has limited cooking skills from indentured smithy life, knows a few simple meals but is embarrassed by inexperience. Lunch and dinner generally purchased at affordable city restaurants; this gets her out into city and supports incidental social interactions. Abecca houses, fruit/grocery markets, raeon shop, Genesis Card shop, smith suppliers, alchemists/apothecaries, dungeon staging area, harvesting locations all recurring. No precise route or travel time until revised eighth-mile-block city map; then track exact street distance and scene clock.

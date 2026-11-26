@@ -1,3 +1,55 @@
+# Book Orange Red and Orange arcs outlined through Day 1775 · checkpoint 012
+
+Red Arc spans **1638–1712**, Orange **1713–1775**; Yellow opens with the Day 1775 portal crossing. Day **1718** begins White Genesis Collapse instruction at Kaira’s **City 21 Green District home**, not the palace. illi’s living-vaen housewarming gift and mentorship offer in exchange for a personally crafted Genesis Robe are selected; robe completion remains OPEN. Six daily visits run 1718–1723, followed by independent practice. No completed functional collapse or Black Vaelith bond is assigned through Day 1775; both remain Yellow Arc milestones. The later palace meeting on Day 1774 is the Vaelith encounter, not the initial lesson.
+
+[Every daily row, including unassigned days](../../CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Complete G-000–G-005 homecoming](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) · [Complete dated delves, D24 and portal departure](../../WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/ORANGE_D24_AND_PORTAL.md)
+
+The three current production sites are **City 52 / 4 smiths**, **City 40 / 8 smiths**, **City 21 / 8 smiths**: **20 employed assemblers**, not 26, and no separate southern Blue Domain operation. Days **787–817** concern Aiselle’s hospitality, leisure and apartment search, without expansion. Day **818** is Kaira’s City 40 apartment move; the single Blue operation develops on Days **820–859**. Day 820 agreement, 825 eight tables, 827 eight hires, 828 supervision; Day **846** completes eight smith-made robes plus Kaira’s one = **nine completed robes**, not training robes. Day **856** starts eight more. Existing prices, lease and non-conflicting contractual details remain; older 14/18/26-worker and four-site combined capacity/revenue/net figures are superseded, not new earnings forecasts. City 21’s eight-robes-per-ten-day-cycle output is selected; actual sales remain unguaranteed.
+
+The full supplied cumulative macro follows as the new scoped overlay. Its older OPEN dates and City46-first-city carryover are superseded by the 011 dated realization and [012 geography](../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md). Green–White events, consenting Vaelith restoration, future functional collapse and the unscheduled Amplification System remain.
+
+# Book Orange — seven-arc macro continuity
+
+**Red (#D84D4D):** Tournament vaelum disbands; Green Realm homecoming G-000–G-005; Kaira and illi return to Violet capital; Green District residence, Yellow District eight-smith workshop; Day 1710 King’s raeon introduces noble kidnapping/ransom; Day 1712 first robe delivery approved. **Outline complete.**
+
+**Orange (#E58B43):** Starts Day 1713 at Kaira’s Green District residence. Day 1717 local raeon tournament, Blue placement. illi teaches White Genesis Collapse (six closed rings, Violet-referenced equal normalization, initiation and sustenance); independent Support Specialist delves; Vaelith dignitaries arrive as King’s guests, discuss Black Prophecy and Black Vaelith; Kaira and illi depart with delegation. Active Genesis Cards and White Genesis Collapse cannot coexist. No bond in this arc.
+
+**Yellow (#DFC342):** Orange Realm, living Vaelith city with corrupted Genesis-energy nexus; Black Vaelith independently consents to bond conditioned on saving city; bond precedes reciprocal amplification and city restoration. Kaira achieves functional White Genesis Collapse control during return with illi. No planetary solution.
+
+**Green (#43A56D):** illi's Crown investigation of noble kidnappings for ransom in Green Domain; Kaira accompanies. Paid-ransom daughter already returned.
+
+**Blue (#478AD7):** investigation expands through kingdom; Kaira takes independent local Support Specialist dungeon jobs, not necessarily related to case.
+
+**Violet (#9563D1):** investigation identifies Yellow-ranked lower-noble informant in unnamed Green Domain city; not necessarily cartel leader.
+
+**White (neutral):** Crown dismantles this specific ransom cartel; competing cartels move into power vacuum. This cartel is not the separate Book Yellow trafficking/slavery network.
+
+**Open:** detailed Orange–White dates, chapters, scene prose, Vaelith travel mechanics, specific investigations and criminal identities. Book Orange's Amplification/Enhance Genesis System is selected at book level but introduction arc unassigned.
+
+## Geographic carryover (checkpoint 010)
+Kaira comes from village hub City 43, first lives in City 52 (Green Domain, B3 Blue dungeon), visiting Green capital City 46 later, then Blue capital City 40, and currently Violet/kingdom capital City 21. Production sites City 52 (4), City 40 (8), City 21 (8). City 46 has V2 Violet dungeon; the original staging market belongs to City 52/B3 Blue dungeon; do not confuse it with the Violet Domain capital.
+
+
+## Checkpoint 011 — Orange Arc dated realization (author decisions, 2026-11-26)
+
+- Days 1718–1723: illi visits Kaira’s City 21 Green District home daily; Day 1718 living vaen housewarming plants and offer of mentorship in White Genesis Collapse in exchange for a personally crafted Genesis robe. This supersedes the prior *palace as initial instruction location*; no robe completion date established.
+- Days 1724–1728: independent practice; Day 1724 Accord Registry business check and dungeon-party applications; Day 1728 royal raeon card game. Day 1717 Blue-placement local card tournament is preserved.
+- Day 1729 acceptance for 11-day training delve; Days 1733–1743 inside, projected Green depth; Day 1744 exit, Registry payment, recruitment to second party. The tentative Velis research assignment is explicitly superseded.
+- D24 party: one Guardian, three Offensive Specialists, one Healer, two contracted Support Specialists including Kaira (seven total). Days 1747–1772 are 26 full dungeon days, Violet reached on Day 1758 (day 12), target V150 ~29.19 miles deep, return starts Day 1761; surface exit Day 1773. Selected route: R001 → R021 → R044 → R035 → O046 → Y047 → Y066 → G061 → G100 → B063 → B104 → B087 → B131 → V102 → V150. Travel speeds are narrative pacing, not atlas-provided.
+- Day 1773: homecoming and illi’s palace note. Day 1774: Kaira meets Orange Realm Vaelith delegation at palace.
+- **Day 1775 (Aelora 15, Ailor/4):** illi joins Kaira and Vaelith delegation; King supplies small caravan. Same-day City 21 → City 40 on King's Highway, then City 40 → P15 using spatial corridors; enter Orange Realm via P15 on Day 1775. Caravan stays on kingdom side, not carried into Orange Realm. Orange Arc closes at portal crossing; Yellow Arc opens. Return plan: from P15 fly via CSR to City 40; further leg not yet fixed.
+- No Black Vaelith bond and no completed functional White Genesis Collapse in Orange Arc. Those belong to Yellow Arc.
+
+
+
+[Source precedence and scoped supersessions](../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Genesis System book placement · cumulative update 001
 
 Book Orange selects the **Amplification System (Enhance)** at author-planning level. Its introduction arc, dates, lessons, topology, manufacturing and mastery remain OPEN. [The single Genesis Systems owner](../../WORLD_CLOCK/L1_FANTASY/GENESIS_SYSTEMS_PLANNING.md) preserves the complete concept, component allocations, examples, exclusivity and engineering questions; no catalogue rows or IDs are added. The separate collapse sequence below does not schedule this system; a complete Genesis System cannot coexist with White Genesis Collapse. No new systems are introduced in Red, Violet or White; existing systems may be used in Violet and White. [Scope and supersessions](../../CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/REVERSE_DIFF.md).
@@ -49,7 +101,7 @@ Source: Author decisions in conversation, 2026-11-20. This package has not been 
 
 **Author-approved ordered sequence · 2026-11-25:**
 
-1. After the Red Arc Green Realm return and relocation to the Violet Domain capital, Kaira begins **White Genesis Collapse** instruction at the royal palace under Princess **illi**. No new instructor is needed. The training includes simultaneous six closed rings, Violet-referenced equal output normalization, initiation and sustenance. Exact lessons and achievements remain OPEN; six-ring closure is a prerequisite, not collapse mastery.
+1. After the Red Arc Green Realm return and relocation to the Violet Domain capital, Kaira begins **White Genesis Collapse** instruction at her City 21 Green District home under Princess **illi**, beginning Day 1718. No new instructor is needed. The training includes simultaneous six closed rings, Violet-referenced equal output normalization, initiation and sustenance. Exact lessons and achievements remain OPEN; six-ring closure is a prerequisite, not collapse mastery.
 2. Kaira participates in several independent dungeon expeditions as a **Support Specialist**, retaining the previously selected good performance and Card-based role. Contracts, teams, dungeons, detailed outcomes, dates and use of collapse in particular encounters remain OPEN. Active Genesis Cards cannot coexist with collapse; no automatic Binding acquisition follows.
 3. Vaelith dignitaries from the Orange Realm arrive at the Violet capital as **guests of the King**. They have heard of Kaira and her Black Sprite, recognize the emerging Black Prophecy and have a Black Vaelith in their native realm. They meet the King, who confirms knowing Kaira and the Black Sprite, and assess the prospective bond. This preserves the existing meeting/assessment context, with no Black Vaelith bond in Orange Arc.
 4. Kaira meets the dignitaries and learns of the Black Vaelith.
@@ -104,7 +156,7 @@ Exact bond mechanism, duration, travel mechanism and unselected companions remai
 
 ## Existing repository reference to reconcile, not overwrite wholesale
 - `BOOKS/ORANGE/BOOK_OVERVIEW.md` — previously only high-level cartel/black-market/slavery awareness and Orange Black Vaelith bond.
-- `PROVENANCE/WORKSHOP/BLUE_ARC_004/04_CHAINMAIL_ENTERPRISE.md` — three existing operations, 18 assemblers, 54 robes/month capacity; the new Violet capital shop adds eight assemblers (conditional capacity 24/month at existing rate), for four operations, 26 assemblers and conditional 78/month capacity, NOT guaranteed sales.
+- Historical BLUE_ARC_004 enterprise counts are superseded: City 52 has four smiths, City 40 eight and City 21 eight, totaling twenty across three cities. Historical originals remain preserved; no old combined revenue forecast remains active.
 - `WORLD_CLOCK/L3_CHARACTERS_EVENTS/EVENTS/SIX_BLACK_BONDS.md` — preserve independent agency and bond constraints.
 - Existing royalty, banking, realm and Accord Registry owners govern detailed integration.
 

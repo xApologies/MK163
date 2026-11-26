@@ -706,6 +706,14 @@
       "validation": "CHECKPOINTS/CUMULATIVE_UPDATE_001_2026_11_25/VALIDATION.json",
       "scope": "Author-approved Book Orange collapse sequence, illi accompaniment, kingdom Awakening demographics and four Genesis System plans; introduction arcs OPEN; original bytes preserved; no upstream changes.",
       "upstream_reference": "https://github.com/xApologies/AERA/blob/dfdc85142fa673691bcb8a93f38d9f5a8e44eb3b/L1/NEUROGENESIS/05_WHITE_GENESIS_COLLAPSE.md"
+    },
+    {
+      "id": "MK163_ORANGE_LIVE_012",
+      "baseline": "e0e9a568a63057f2cea643b87c611ca9fe820b7c",
+      "source_mapping": "PROVENANCE/WORKSHOP/ORANGE_LIVE_012/SOURCE_MAP.json",
+      "source_root": "PROVENANCE/WORKSHOP/ORANGE_LIVE_012/ORIGINAL",
+      "scope": "Cumulative 011 events through1775 plus corrected 012 Book Red geography; complete supplied records/images; duplicate city-map bytes stored once.",
+      "validation": "CHECKPOINTS/ORANGE_LIVE_012/VALIDATION.json"
     }
   ]
 }

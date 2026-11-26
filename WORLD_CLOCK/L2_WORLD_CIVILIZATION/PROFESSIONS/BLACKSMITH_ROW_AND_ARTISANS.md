@@ -2,7 +2,7 @@
 
 The new break outline places the **three prestigious artisan plazas / Blacksmith Rows in the Yellow District of the Blue Domain capital**. Kaira visits working smiths there during Days 320–330, admires their craft and reconnects with her chainmail training. An unnamed smith recognizes her designs, reports their spread through cities/capitals and commissions an original personally made by her.
 
-This is the new capital-visit scope. It does not relocate Kaira's originating Green Domain city's established Rows or master mailwright supplier, and does not turn the Violet Dungeon staging settlement into either city's elite Row. Yellow is the selected district; do not put these plazas in Green, Blue, White or Violet districts or invent one per district.
+This is the new capital-visit scope. It does not relocate Kaira's originating Green Domain city's established Rows or master mailwright supplier, and does not turn the City 52 Blue Dungeon B3 staging settlement into either city's elite Row. Yellow is the selected district; do not put these plazas in Green, Blue, White or Violet districts or invent one per district.
 
 The unnamed commissioning smith is **not identified** as her established mailwright supplier. Exact Row, shop, address, smith identity, new ring-order supplier, quantity, cost, arrival or manufacturing batch remain OPEN. The Day 332 city procurement serves the smith's and aina's two personal commissions. Prior workshop architecture, professional relations and specialized ring-fabrication mechanics remain intact.
 
@@ -20,7 +20,7 @@ Only the stated Break Checkpoint 02 author selections govern the new intervals a
 
 **Orange arc of Book Red · 2026-11-08.** ## Where and what the businesses are
 
-The Violet Dungeon staging settlement's **southwest area** has craftsmen's workshops, smithies and markets. This is **not** the city's Yellow District Blacksmith Row: the large city has three elite Rows located in its Yellow District, while the staging settlement has distinct local working shops. The two places share stone/sigil architectural technology and possibly similar two-tier public plaza design, but their economic roles and professional prestige are not interchangeable. The settlement's smithies charge locality-premium prices, broadly 1.3–1.7 × comparable city costs. Established local customers bring used/partly damaged dungeon equipment. Not all smithies repair chainmail; families specialize in mailwrighting, plate/armor, swords/polearms, architectural metal, household goods, decorative one-offs, and so forth.
+The City 52 Blue Dungeon B3 staging settlement's **southwest area** has craftsmen's workshops, smithies and markets. This is **not** the city's Yellow District Blacksmith Row: the large city has three elite Rows located in its Yellow District, while the staging settlement has distinct local working shops. The two places share stone/sigil architectural technology and possibly similar two-tier public plaza design, but their economic roles and professional prestige are not interchangeable. The settlement's smithies charge locality-premium prices, broadly 1.3–1.7 × comparable city costs. Established local customers bring used/partly damaged dungeon equipment. Not all smithies repair chainmail; families specialize in mailwrighting, plate/armor, swords/polearms, architectural metal, household goods, decorative one-offs, and so forth.
 
 ## Horizontal bays, open to the street
 

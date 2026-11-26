@@ -1,6 +1,18 @@
+# Original staging market identified · checkpoint 012
+
+References to Kaira’s original staging market mean **City52, Green political domain, B3 Blue-ranked dungeon**, not City46/V2. All scene details, prices, dates and source quotations remain. [Geographic authority](../../L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Vael · Day 865 reunion in the Blue capital
 
-The accidental meeting beside the raeon shop on Orange Day 12 stands. Vael was training at the Green Domain Violet Dungeon. He comes from the Blue Domain, is the son of a Blue-ranked noble, and personally holds Green Offensive Specialist rank with the Accord Registry. He now trains at the capital-associated Blue Dungeon with the King’s Tournament in view. Team, qualification and results are OPEN.
+The accidental meeting beside the raeon shop on Orange Day 12 stands. Vael was training at the Green Domain Blue Dungeon B3. He comes from the Blue Domain, is the son of a Blue-ranked noble, and personally holds Green Offensive Specialist rank with the Accord Registry. He now trains at the capital-associated Blue Dungeon with the King’s Tournament in view. Team, qualification and results are OPEN.
 
 On Day 865, 853 elapsed days after the first encounter, Vael wears his own robe and attends with friends whose identities remain OPEN. He recognizes and verbally belittles Kaira. Nyx steps forward and growls, the Black Sprite makes a small magical flick, and Vael leaves. Kaira and her companions enjoy the rest of the gala. The precise effect and dialogue remain OPEN. The outline selects no fight, penalty or intervention by illi.
 
@@ -51,7 +63,7 @@ The **southeast hospitality/shopping area** contains a working **abecca** shop d
 
 ## Character relationships and future seven-book scope
 
-This is the **first meeting** and origin of a long-running **rivalry / arch-nemesis relationship** between Kaira and Vael across the seven-book saga. There was an original thought to stage a similar noble collision at Village Hub in Red; it was later inherited and relocated to Orange's Violet Dungeon staging community, with an intermediate October 23 concept outside a smithy. **Current author scene is beside the raeon shop**, and older placements must remain visible as superseded provenance, not parallel first encounters. The exact structure of future hostility, meetings, class/rank, plot consequences, eventual reconciliation or non-reconciliation is OPEN. It doesn't require importing MK147 story wholesale.
+This is the **first meeting** and origin of a long-running **rivalry / arch-nemesis relationship** between Kaira and Vael across the seven-book saga. There was an original thought to stage a similar noble collision at Village Hub in Red; it was later inherited and relocated to Orange's Blue Dungeon B3 staging community, with an intermediate October 23 concept outside a smithy. **Current author scene is beside the raeon shop**, and older placements must remain visible as superseded provenance, not parallel first encounters. The exact structure of future hostility, meetings, class/rank, plot consequences, eventual reconciliation or non-reconciliation is OPEN. It doesn't require importing MK147 story wholesale.
 
 ## Emotional arc and limits
 

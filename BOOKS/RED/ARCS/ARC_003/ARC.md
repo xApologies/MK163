@@ -1,3 +1,17 @@
+# Corrected Book Red city identities · checkpoint 012
+
+City **43** is the original village hub (no new political assignment). **City 52**, in the Green political domain, is Kaira’s first independent city and the **B3 Blue-ranked dungeon** market; its original chainmail operation has **4 smiths**. **City 46** is the Green Domain capital, **V2 Violet-ranked dungeon**, and the Day **209** arrival/Day **210** stay at Aiselle’s residence. Departure from City 52 remains Day **202**, caravan travel Days **202–208**, and **City 40**, Blue capital/Blue dungeon/Blackstone, is reached Day **211**. City 40’s exact B-number is unassigned here; it is not assigned B3. **City 21** is the Violet/kingdom capital. City 46 is not a fourth production site. The earlier 010 City46-first-residence claim and its route contradiction are superseded/resolved; no date or unrelated dungeon is changed.
+
+[Single geographic crosswalk](../../../../WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md)
+
+[Source precedence and scoped supersessions](../../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Yellow chronology amendment · Days 166–167 only
 
 ## Existing chronology preserved
@@ -32,7 +46,7 @@ Only the explicit v8 decisions above supersede earlier statements in their state
 - Day 188 Alchemist organizes her own affairs for transition.
 - Day 189 Kaira opens kingdom-wide bank account and arranges Accord Registry production management at staging branch. Her existing local handwritten-ledger bank remains a separate tier, not erased.
 - Day 190 Registry searches for two additional experienced smiths; Day 191 Kaira interviews/selects them; Day 192 prep; Days 193–201 training and departure arrangements. Four total smiths each three original robes/month; Registry manages for 130 eln/month; see dedicated file.
-- Day 202 departure with Alchemist, Nyx, Sprite by caravan from unnamed Green Domain city. Days 202–209 span seven elapsed days, with arrival on Day 209 in Green Domain capital. Travel uses existing spatial corridors / leapfrogging, with slice of life, small adventures, early Kaira/Sprite magical practice; individual events OPEN.
+- Day 202 departure with Alchemist, Nyx, Sprite by caravan from City 52 in the Green Domain. Days 202–209 span seven elapsed days, with arrival on Day 209 in City 46, Green Domain capital. Travel uses existing spatial corridors / leapfrogging, with slice of life, small adventures, early Kaira/Sprite magical practice; individual events OPEN.
 - Days 209–210 Green capital stay at Alchemist's residence; Day 211 King's Highway direct Green→Blue capital crossing and arrival at Alchemist's upscale Blue District apartment. **Yellow ends on arrival**, not enrollment.
 - Kaira brings modest personal possessions, cards/books, original chromatic robe, living vaen, remaining bank-held Genesis crystals physically withdrawn; no invented new Green crystal stock. Alchemist arranges sale/disposal of bulky furniture; Kaira retains business ownership and national banking access.
 - Named original city, both capitals' names, Alchemist's personal name, caravan incidents, legal admission date and precise chronology of property sale remain OPEN.

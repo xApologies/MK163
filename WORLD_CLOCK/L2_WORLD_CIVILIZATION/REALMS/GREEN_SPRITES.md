@@ -1,3 +1,15 @@
+# Green Realm communities and ecology · checkpoint 012
+
+[Complete new community/world record](GREEN_ECOLOGY/GREEN_REALM_WORLD.md) preserves voluntary collective minds, energy sustenance, Green native glow versus multichromatic displays, living-tree communities and their knowledge limits. [G-000–G-005](../../L3_CHARACTERS_EVENTS/EVENTS/ORANGE_GREEN_REALM_HOMECOMING.md) owns the homecoming/storm outline; Green ELDRIS contact-intrusion is pending AERA reconciliation, not a universal law.
+
+[Source precedence and scoped supersessions](../../../CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Black Sprite homecoming and later cooperative healing · 2026-11-23
 
 Book Orange Red’s existing Green Realm visit is a community homecoming for the **already-bonded** Black Sprite. Kaira, the Sprite and illi travel together; illi’s Crown liaison role and ruling-body interaction remain. The Sprite stays bonded and returns with Kaira: no separation, abandonment, transfer or new bond. Community identity and detailed interactions remain OPEN.

@@ -1,3 +1,17 @@
+# Current Orange 012 and Book Red geography · checkpoint 012
+
+Checkpoint 012 integrates Book Orange through **Day 1775**, all G-000–G-005 events and full ecology/visual records, with home instruction from1718, two delves and same-day portal entry1775. Book Red geography is City43→City52/B3→City46/V2→City40; the Day202–209 contradiction is now **RESOLVED** by the author’s corrected City52→46 route. Three chainmail sites Cities52/40/21 employ4+8+8=20. Earlier palace-first training, 010 geography, six-smith/four-site business counts and frontier1717 statements are superseded only in those scopes. Nyx remains male **Vaeryn** by direct author decision. No other book arcs, Genesis System allocations or upstream repository are changed.
+
+[Geography](WORLD_CLOCK/L2_WORLD_CIVILIZATION/GEOGRAPHY/KINGDOM_CITY_CROSSWALK.md) · [Daily continuity](CONTINUITY/BOOK_ORANGE_RUNNING_DAY_LEDGER.md) · [Integration audit](CHECKPOINTS/ORANGE_LIVE_012/INTEGRATION_REPORT.md)
+
+[Source precedence and scoped supersessions](CHECKPOINTS/ORANGE_LIVE_012/REVERSE_DIFF.md)
+
+---
+
+## Earlier record · historical only where explicitly superseded
+
+The checkpoint 012 selections above govern their stated scope. Prior geography, workforce and palace-first wording below is historical where it conflicts; unrelated details and literal source evidence remain preserved.
+
 # Current cumulative update 001 · 2026-11-25
 
 Book Orange's Orange Arc now starts White Genesis Collapse training under illi at the Violet royal palace, then independent Support delves, dignitary arrival/discovery and joint departure with Kaira/illi. Yellow preserves the Vaelith city and consenting bond/restoration; practice continues, with functional collapse control on the return journey/by arc end. This supplies no Book Red instruction, combat mastery or personal endurance. All royals and almost all nobles are White Awakened in this kingdom; collapse competence remains separately trained.
